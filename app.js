@@ -116,6 +116,7 @@ function App() {
   const [keys, setKeys] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showHelp, setShowHelp] = useState(false);
 
   useEffect(() => {
     importerDepuisSheetPublic()
@@ -134,11 +135,36 @@ function App() {
   if (error) return React.createElement("div", null, `Erreur : ${error}`);
 
   return React.createElement(
-    "div",
+    React.Fragment,
     null,
-    React.createElement("h1", null, "Cogito Quiz"),
-    questions.map((row, idx) =>
-      React.createElement(Question, { key: idx, row, keys })
+    React.createElement("div", null,
+      React.createElement("h1", null, "Cogito Quiz"),
+      questions.map((row, idx) =>
+        React.createElement(Question, { key: idx, row, keys })
+      )
+    ),
+    React.createElement("button", {
+      className: "help-fab",
+      onClick: () => setShowHelp(true),
+      "aria-label": "Aide"
+    }, "?"),
+    showHelp && React.createElement(React.Fragment, null,
+      React.createElement("div", {
+        className: "help-overlay",
+        onClick: () => setShowHelp(false)
+      }),
+      React.createElement("div", { className: "help-modal" },
+        React.createElement("button", {
+          className: "help-close",
+          onClick: () => setShowHelp(false),
+          "aria-label": "Fermer l'aide"
+        }, "×"),
+        React.createElement("div", { className: "help-content" },
+          "Bienvenue dans la bêta test de Cogito Quiz !",
+          React.createElement("br"),
+          "Ceci n'est que le début ! N'hésites pas à me faire part de tes retours !",
+        )
+      )
     )
   );
 }

@@ -1,63 +1,198 @@
 body {
-  font-family: Arial, sans-serif;
-  background: #f7f7fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: linear-gradient(120deg, #e0eafc 0%, #cfdef3 100%);
   margin: 0;
   padding: 0;
+  min-height: 100vh;
 }
 
 h1 {
   text-align: center;
   color: #2c3e50;
-  margin-top: 8%;
-  font-size: 2.2rem;
+  margin-top: 4vw;
+  font-size: 1.3rem;
+  letter-spacing: 1px;
+  text-shadow: 0 2px 8px #dbeafe;
 }
 
 .question {
   background: #fff;
-  border-radius: 2%;
-  box-shadow: 0 0.5% 2% rgba(0,0,0,0.07);
-  margin: 6% auto;
-  padding: 5% 4%;
+  border-radius: 10px;
+  box-shadow: 0 2% 8% rgba(44,62,80,0.10);
+  margin: 3% auto;
+  padding: 3% 2%;
   max-width: 90%;
-  width: 95%;
+  width: 90%;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
   flex-wrap: wrap;
-  gap: 2%;
-  transition: box-shadow 0.2s;
+  gap: 1.2%;
+  transition: box-shadow 0.2s, transform 0.2s;
+  position: relative;
+  border: 0.5% solid #e3e8ee;
 }
 
 .question:hover {
-  box-shadow: 0 1% 4% rgba(44,62,80,0.13);
+  box-shadow: 0 4% 12% rgba(44,62,80,0.18);
+  transform: translateY(-1%) scale(1.01);
 }
 
 .question > div {
   flex: 1 1 100%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 2%;
-  font-size: 1.1rem;
+  font-size: 0.98rem;
   word-break: break-word;
+  line-height: 1.4;
 }
 
-/* Exemple de style pour des clés spécifiques */
+.reponses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2%;
+  margin-top: 2%;
+}
+
+.reponse {
+  background: #e0eafc;
+  color: #2c3e50;
+  border: none;
+  border-radius: 10px;
+  padding: 1.2% 4%;
+  font-size: 0.98rem;
+  cursor: pointer;
+  box-shadow: 0 2% 8% #dbeafe;
+  transition: background 0.2s, color 0.2s, transform 0.1s;
+}
+
+.reponse:hover:not(:disabled) {
+  background: #a5b4fc;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.reponse:disabled {
+  background: #e5e7eb;
+  color: #b0b0b0;
+  cursor: not-allowed;
+}
+
+.message {
+  margin-top: 2%;
+  font-weight: bold;
+  color: #2563eb;
+  font-size: 0.98rem;
+}
+
 .titre, .question, .enonce {
   font-weight: bold;
   color: #34495e;
 }
-.reponse {
-  color: #16a085;
-  font-style: italic;
-}
 
-/* Responsive : pour les très grands écrans */
+/* Desktop styles */
 @media (min-width: 800px) {
   h1 {
     font-size: 2.5rem;
+    margin-top: 2.5%;
   }
   .question {
+    text-align: center;
+    display: block;
     max-width: 60%;
-    padding: 3% 2.5%;
-    border-radius: 1.5%;
+    padding: 2.5% 3%;
+    border-radius: 24px;
+    margin: 2.5% auto;
+    box-shadow: 0 8% 32% rgba(44,62,80,0.13);
   }
   .question > div {
-    font-size: 1.3rem;
+    font-size: 1.25rem;
+    margin-bottom: 1.2%;
   }
+  .reponse {
+    font-size: 1.1rem;
+    padding: 0.7% 1.5%;
+    border-radius: 10px;
+  }
+  .reponses {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2%;
+    margin-top: 1%;
+  }
+  .message {
+    font-size: 1.1em;
+    margin-top: 1%;
+  }
+}
+
+.help-fab {
+  position: fixed;
+  right: 2vw;
+  bottom: 2vw;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #2563eb;
+  color: #fff;
+  font-size: 1rem;
+  border: none;
+  box-shadow: 0 4px 16px rgba(44,62,80,0.18);
+  cursor: pointer;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.1s;
+}
+.help-fab:hover {
+  background: #1e40af;
+  transform: scale(1.08);
+}
+
+.help-overlay {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(44,62,80,0.45);
+  z-index: 1000;
+}
+
+.help-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+  padding: 2.5em 2em 2em 2em;
+  z-index: 1002;
+  min-width: 240px;
+  max-width: 90vw;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.help-close {
+  position: absolute;
+  top: 0.7em;
+  right: 1em;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: #2563eb;
+  cursor: pointer;
+  z-index: 1003;
+}
+.help-content {
+  margin-top: 1.5em;
+  font-size: 1.1rem;
+  color: #34495e;
+  text-align: center;
 }
