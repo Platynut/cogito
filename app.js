@@ -44,7 +44,7 @@ function Question({ row, keys }) {
 
   const bonne = row[keys.indexOf("bonne_reponse")];
   const mauvaisesString = row[keys.indexOf("mauvaise_reponse")];
-  const mauvaises = mauvaisesString ? mauvaisesString.split(",") : [];
+  const mauvaises = mauvaisesString ? mauvaisesString.split("|||") : [];
 
   React.useEffect(() => {
     const all = [...mauvaises, bonne].filter(Boolean);
