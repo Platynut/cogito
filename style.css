@@ -54,8 +54,40 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2%;
+  gap: 2% 4%; 
   margin-top: 2%;
+  padding-bottom: 0.5em;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.reponses > .reponse {
+  flex: 1 1 45%; 
+  min-width: 120px;
+  max-width: 48%;
+  margin-bottom: 0.7em;
+  box-sizing: border-box;
+}
+
+.reponses > .message {
+  flex-basis: 100%;
+  order: 99;
+  align-self: stretch;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+  padding-top: 0.5em;
+}
+
+.message {
+  margin-top: 0;
+  font-weight: bold;
+  color: #2563eb;
+  font-size: 0.98rem;
+  width: 100%;
+  text-align: center;
+  padding-top: 0;
 }
 
 .reponse {
@@ -82,11 +114,16 @@ h1 {
   cursor: not-allowed;
 }
 
-.message {
-  margin-top: 2%;
-  font-weight: bold;
-  color: #2563eb;
-  font-size: 0.98rem;
+.reponse-bonne {
+  background: #34d399 !important; 
+  color: #fff !important;
+  box-shadow: 0 0 8px #34d39944;
+}
+
+.reponse-mauvaise {
+  background: #f87171 !important; 
+  color: #fff !important;
+  box-shadow: 0 0 8px #f8717144;
 }
 
 .titre, .question, .enonce {
@@ -195,4 +232,50 @@ h1 {
   font-size: 1.1rem;
   color: #34495e;
   text-align: center;
+}
+
+.question-facile {
+  background: linear-gradient(120deg, #e0ffe0 0%, #c6f7d4 100%);
+  border: 1.5px solid #34d399;
+}
+
+.question-normal {
+  background: linear-gradient(120deg, #fef9c3 0%, #fde68a 100%);
+  border: 1.5px solid #fbbf24;
+}
+
+.question-difficile {
+  background: linear-gradient(120deg, #fee2e2 0%, #fecaca 100%);
+  border: 1.5px solid #f87171;
+}
+
+.difficulte {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1.05em;
+  padding: 0.3em 1.1em;
+  border-radius: 1em;
+  margin-bottom: 0.7em;
+  margin-top: 0.2em;
+  letter-spacing: 0.04em;
+  width: 30%;
+  min-width: 90px;
+  max-width: 220px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.difficulte-facile {
+  background: linear-gradient(120deg, #e0ffe0 0%, #c6f7d4 100%);
+  color: #059669;
+  border: 1.5px solid #34d399;
+}
+.difficulte-normal {
+  background: linear-gradient(120deg, #fef9c3 0%, #fde68a 100%);
+  color: #b45309;
+  border: 1.5px solid #fbbf24;
+}
+.difficulte-difficile {
+  background: linear-gradient(120deg, #fee2e2 0%, #fecaca 100%);
+  color: #b91c1c;
+  border: 1.5px solid #f87171;
 }

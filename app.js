@@ -41,10 +41,19 @@ function Question({ row, keys }) {
   const [message, setMessage] = React.useState(null);
   const [shuffledReponses, setShuffledReponses] = React.useState([]);
   const [answered, setAnswered] = React.useState(false);
+  const [clickedIdx, setClickedIdx] = React.useState(null);
 
   const bonne = row[keys.indexOf("bonne_reponse")];
   const mauvaisesString = row[keys.indexOf("mauvaise_reponse")];
   const mauvaises = mauvaisesString ? mauvaisesString.split("|||") : [];
+
+  // Détermination de la difficulté
+  const difficulteIdx = keys.indexOf("difficulte");
+  const difficulte = difficulteIdx !== -1 ? (row[difficulteIdx] || '').toLowerCase() : '';
+  let diffClass = '';
+  if (difficulte === 'facile') diffClass = 'difficulte-facile';
+  else if (difficulte === 'normal') diffClass = 'difficulte-normal';
+  else if (difficulte === 'difficile') diffClass = 'difficulte-difficile';
 
   React.useEffect(() => {
     const all = [...mauvaises, bonne].filter(Boolean);
@@ -55,40 +64,54 @@ function Question({ row, keys }) {
     setShuffledReponses(all);
     setAnswered(false);
     setMessage(null);
+    setClickedIdx(null);
   }, [bonne, mauvaisesString]);
 
- return React.createElement(
-  "div",
-  { className: "question" },
-  row.map((value, idx) => {
-    const key = keys[idx];
-    if (key === "bonne_reponse" || key === "mauvaise_reponse") return null;
-    return React.createElement("div", {
-      key: idx,
-      className: key || "",
-      dangerouslySetInnerHTML: { __html: value }
-    });
-  }),
-  shuffledReponses.length > 0 &&
-    React.createElement(
-      "div",
-      { className: "reponses" },
-      shuffledReponses.map((rep, i) =>
-        React.createElement("button", {
-          key: i,
-          className: "reponse",
-          disabled: answered,
-          dangerouslySetInnerHTML: { __html: rep },
-          onClick: () => {
-            if (!answered) {
-              setMessage(rep === bonne ? "Bonne réponse !" : "Mauvaise réponse !");
-              setAnswered(true);
-            }
+  return React.createElement(
+    "div",
+    { className: "question" },
+    row.map((value, idx) => {
+      const key = keys[idx];
+      if (key === "bonne_reponse" || key === "mauvaise_reponse") return null;
+      if (key === "difficulte") {
+        return React.createElement("div", {
+          key: idx,
+          className: `difficulte ${diffClass}`,
+          dangerouslySetInnerHTML: { __html: value }
+        });
+      }
+      return React.createElement("div", {
+        key: idx,
+        className: key || "",
+        dangerouslySetInnerHTML: { __html: value }
+      });
+    }),
+    shuffledReponses.length > 0 &&
+      React.createElement(
+        "div",
+        { className: "reponses" },
+        shuffledReponses.map((rep, i) => {
+          let btnClass = "reponse";
+          if (answered) {
+            if (rep === bonne) btnClass += " reponse-bonne";
+            else if (i === clickedIdx) btnClass += " reponse-mauvaise";
           }
-        })
-      ),
-      message && React.createElement("div", { className: "message" }, message)
-    )
+          return React.createElement("button", {
+            key: i,
+            className: btnClass,
+            disabled: answered,
+            dangerouslySetInnerHTML: { __html: rep },
+            onClick: () => {
+              if (!answered) {
+                setMessage(rep === bonne ? "Bonne réponse !" : "Mauvaise réponse !");
+                setAnswered(true);
+                setClickedIdx(i);
+              }
+            }
+          });
+        }),
+        message && React.createElement("div", { className: "message" }, message)
+      )
   );
 }
 
