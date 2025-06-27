@@ -12,15 +12,11 @@ async function importerDepuisSheetPublic() {
     const json = JSON.parse(texte.substring(47).slice(0, -2));
     const object = json.table.rows;
 
-    const keys = [];
+    const rawKeys = json.table.cols.map(col => col.label);
+    const keys = rawKeys.map(label => label.split(" ")[0]);
     const rows = [];
 
-    const firstRow = object[0].c;
-    for (let i = 0; i < firstRow.length; i++) {
-      keys.push(firstRow[i] ? firstRow[i].v : '');
-    }
-
-    for (let j = 1; j < object.length; j++) {
+    for (let j = 0; j < object.length; j++) {
       const row = object[j].c;
       const values = [];
       for (let k = 0; k < keys.length; k++) {
@@ -29,6 +25,8 @@ async function importerDepuisSheetPublic() {
       }
       rows.push(values);
     }
+    console.log("Clés :", keys);
+    console.log("Lignes :", rows);
 
     return {
       keys,
@@ -42,74 +40,57 @@ async function importerDepuisSheetPublic() {
 function Question({ row, keys }) {
   const [message, setMessage] = React.useState(null);
   const [shuffledReponses, setShuffledReponses] = React.useState([]);
-  const [answered, setAnswered] = React.useState(false); 
+  const [answered, setAnswered] = React.useState(false);
 
-  const type = row[keys.indexOf("type")];
   const bonne = row[keys.indexOf("bonne_reponse")];
   const mauvaisesString = row[keys.indexOf("mauvaise_reponse")];
   const mauvaises = mauvaisesString ? mauvaisesString.split(",") : [];
 
   React.useEffect(() => {
-    if (type === "Choix multiples") {
-      const all = [...mauvaises, bonne];
-      for (let i = all.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [all[i], all[j]] = [all[j], all[i]];
-      }
-      setShuffledReponses(all);
-    } else if (type === "Vrai ou Faux") {
-      setShuffledReponses(["Vrai", "Faux"]);
-    } else {
-      setShuffledReponses([]);
+    const all = [...mauvaises, bonne].filter(Boolean);
+    for (let i = all.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [all[i], all[j]] = [all[j], all[i]];
     }
-    setAnswered(false); 
+    setShuffledReponses(all);
+    setAnswered(false);
     setMessage(null);
-  }, [type, bonne, mauvaisesString]);
+  }, [bonne, mauvaisesString]);
 
-  const questionElements = [];
-
-  for (let cellIdx = 0; cellIdx < row.length; cellIdx++) {
-    const key = keys[cellIdx];
-    const value = row[cellIdx];
-    if (key === "bonne_reponse" || key === "mauvaise_reponse") continue;
-
-    questionElements.push(
-      React.createElement("div", {
-        key: cellIdx,
-        className: key || "",
-        dangerouslySetInnerHTML: { __html: value },
-      })
-    );
-  }
-
-  if (type === "Choix multiples" || type === "Vrai ou Faux") {
-    questionElements.push(
-      React.createElement(
-        "div",
-        { className: "reponses", key: "reponses" },
-        shuffledReponses.map((rep, i) =>
-          React.createElement("button", {
-            key: i,
-            className: "reponse",
-            dangerouslySetInnerHTML: { __html: rep },
-            disabled: answered,           
-            onClick: () => {
-              if (!answered) {
-                setMessage(rep === bonne ? "Bonne réponse !" : "Mauvaise réponse !");
-                setAnswered(true);       
-              }
-            },
-          })
-        ),
-        message && React.createElement("div", { className: "message" }, message)
-      )
-    );
-  }
-
-  return React.createElement("div", { className: "question" }, questionElements);
+ return React.createElement(
+  "div",
+  { className: "question" },
+  row.map((value, idx) => {
+    const key = keys[idx];
+    if (key === "bonne_reponse" || key === "mauvaise_reponse") return null;
+    return React.createElement("div", {
+      key: idx,
+      className: key || "",
+      dangerouslySetInnerHTML: { __html: value }
+    });
+  }),
+  shuffledReponses.length > 0 &&
+    React.createElement(
+      "div",
+      { className: "reponses" },
+      shuffledReponses.map((rep, i) =>
+        React.createElement("button", {
+          key: i,
+          className: "reponse",
+          disabled: answered,
+          dangerouslySetInnerHTML: { __html: rep },
+          onClick: () => {
+            if (!answered) {
+              setMessage(rep === bonne ? "Bonne réponse !" : "Mauvaise réponse !");
+              setAnswered(true);
+            }
+          }
+        })
+      ),
+      message && React.createElement("div", { className: "message" }, message)
+    )
+  );
 }
-
-
 
 function App() {
   const [questions, setQuestions] = useState([]);
@@ -162,7 +143,7 @@ function App() {
         React.createElement("div", { className: "help-content" },
           "Bienvenue dans la bêta test de Cogito Quiz !",
           React.createElement("br"),
-          "Ceci n'est que le début ! N'hésites pas à me faire part de tes retours !",
+          "Ceci n'est que le début ! N'hésites pas à me faire part de tes retours !"
         )
       )
     )
