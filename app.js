@@ -10,25 +10,11 @@ async function importerDepuisSheetPublic() {
     const texte = await response.text();
 
     const json = JSON.parse(texte.substring(47).slice(0, -2));
-    const object = json.table.rows;
 
-    const keys = [];
-    const rows = [];
-
-    const firstRow = object[0].c;
-    for (let i = 0; i < firstRow.length; i++) {
-      keys.push(firstRow[i] ? firstRow[i].v : '');
-    }
-
-    for (let j = 1; j < object.length; j++) {
-      const row = object[j].c;
-      const values = [];
-      for (let k = 0; k < keys.length; k++) {
-        const cell = row[k];
-        values.push(cell ? cell.v : '');
-      }
-      rows.push(values);
-    }
+    const keys = json.table.cols.map(col => col.label.trim());
+    const rows = json.table.rows.map(row =>
+      row.c.map(cell => (cell ? cell.v : ""))
+    );
 
     return {
       keys,
