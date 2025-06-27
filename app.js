@@ -2,7 +2,7 @@ const { useState, useEffect } = React;
 
 async function importerDepuisSheetPublic() {
   const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
-  const originalUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:json`;
+  const originalUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:json&headers=1`;
   const finalUrl = "https://corsproxy.io/?" + encodeURIComponent(originalUrl);
 
   try {
