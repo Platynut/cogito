@@ -1,0 +1,65 @@
+.help-fab {
+  position: fixed;
+  right: 3vw;
+  bottom: 3vw;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: #2563eb;
+  color: #fff;
+  font-size: 1rem;
+  border: none;
+  box-shadow: 0 4px 16px rgba(44,62,80,0.18);
+  cursor: pointer;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.1s;
+}
+.help-fab:hover {
+  background: #1e40af;
+  transform: scale(1.08);
+}
+
+.help-overlay {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(44,62,80,0.45);
+  z-index: 1000;
+}
+
+.help-modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(44,62,80,0.18);
+  padding: 2.5em 2em 2em 2em;
+  z-index: 1002;
+  min-width: 240px;
+  max-width: 90vw;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.help-close {
+  position: absolute;
+  top: 0.7em;
+  right: 1em;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: #2563eb;
+  cursor: pointer;
+  z-index: 1003;
+}
+.help-content {
+  margin-top: 1.5em;
+  font-size: 1.1rem;
+  color: #34495e;
+  text-align: center;
+}

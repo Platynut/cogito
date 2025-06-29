@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import logo from "../icons/logo.png";
+import "../css/daily.css";
 
 async function importerDepuisSheetPublic() {
   const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
@@ -115,7 +117,6 @@ export default function App() {
   const [keys, setKeys] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [showHelp, setShowHelp] = useState(false);
 
   useEffect(() => {
     importerDepuisSheetPublic()
@@ -136,39 +137,11 @@ export default function App() {
   return (
     <>
       <div>
-        <h1>Cogito Quiz</h1>
+        <img src={logo} alt="Logo Cogito" className="daily-logo" />
         {questions.map((row, idx) => (
           <Question key={idx} row={row} keys={keys} />
         ))}
       </div>
-
-      <button
-        className="help-fab"
-        onClick={() => setShowHelp(true)}
-        aria-label="Aide"
-      >
-        ?
-      </button>
-
-      {showHelp && (
-        <>
-          <div className="help-overlay" onClick={() => setShowHelp(false)} />
-          <div className="help-modal">
-            <button
-              className="help-close"
-              onClick={() => setShowHelp(false)}
-              aria-label="Fermer l'aide"
-            >
-              ×
-            </button>
-            <div className="help-content">
-              Bienvenue dans la bêta test de Cogito Quiz !
-              <br />
-              Ceci n'est que le début ! N'hésites pas à me faire part de tes retours !
-            </div>
-          </div>
-        </>
-      )}
     </>
   );
 }

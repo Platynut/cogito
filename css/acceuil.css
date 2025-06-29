@@ -1,0 +1,58 @@
+.acceuil {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: none;
+}
+
+.acceuil-logo {
+  max-width: 180px;
+  margin: 2em auto 2em;
+  display: block;
+}
+
+.acceuil-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  align-items: center;
+}
+
+.acceuil-btn {
+  padding: 1em 2.5em;
+  font-size: 1.2em;
+  border-radius: 10px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 0.5em;
+  transition: background 0.2s, transform 0.1s;
+  min-width: 100%;
+}
+
+.acceuil-btn:last-child {
+  background: #059669;
+}
+
+.acceuil-btn:hover {
+  background: #1e40af;
+  transform: scale(1.05);
+}
+
+.acceuil-btn:last-child:hover {
+  background: #047857;
+}
+
+.acceuil-logo { 
+    min-width: 30%;
+    margin: 2em auto 2em; 
+    display: block; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
