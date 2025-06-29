@@ -136,7 +136,7 @@ export default function App() {
 
   return (
     <>
-      <div>
+      <div className="daily">
         <img src={logo} alt="Logo Cogito" className="daily-logo" />
         {questions.map((row, idx) => (
           <Question key={idx} row={row} keys={keys} />
