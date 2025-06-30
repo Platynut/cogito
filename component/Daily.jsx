@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import logo from "../icons/logo.png";
 import "../css/daily.css";
+import InfoModal from './InfoModal';
 
 async function importerDepuisSheetPublic() {
   const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
@@ -34,11 +35,12 @@ async function importerDepuisSheetPublic() {
   }
 }
 
-function Question({ row, keys }) {
+function Question({ row, keys, onShowInfo }) {
   const [message, setMessage] = useState(null);
   const [shuffledReponses, setShuffledReponses] = useState([]);
   const [answered, setAnswered] = useState(false);
   const [clickedIdx, setClickedIdx] = useState(null);
+  const [infoButton, setInfoButton] = useState(false);
 
   const bonne = row[keys.indexOf("bonne_reponse")];
   const mauvaisesString = row[keys.indexOf("mauvaise_reponse")];
@@ -51,6 +53,8 @@ function Question({ row, keys }) {
     difficulte === 'normal' ? 'difficulte-normal' :
     difficulte === 'difficile' ? 'difficulte-difficile' : '';
 
+  const infos = row[keys.indexOf("description")];
+    
   useEffect(() => {
     const all = [...mauvaises, bonne].filter(Boolean);
     for (let i = all.length - 1; i > 0; i--) {
@@ -78,6 +82,8 @@ function Question({ row, keys }) {
           return <div key={idx} className="category" dangerouslySetInnerHTML={{ __html: formatted }} />;
         }
 
+        if (key === "description") return null;
+
         return <div key={idx} className={key || ""} dangerouslySetInnerHTML={{ __html: value }} />;
       })}
 
@@ -100,12 +106,22 @@ function Question({ row, keys }) {
                     setMessage(rep === bonne ? "Bonne réponse !" : "Mauvaise réponse !");
                     setAnswered(true);
                     setClickedIdx(i);
+                    setInfoButton(true);
                   }
                 }}
               />
             );
           })}
           {message && <div className="message">{message}</div>}
+          {infoButton && (
+            <button 
+              className="more-info"
+              onClick={() => onShowInfo(infos)} 
+              aria-label="En savoir plus"
+            >
+              En savoir plus
+            </button>
+          )}
         </div>
       )}
     </div>
@@ -117,6 +133,8 @@ export default function App() {
   const [keys, setKeys] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showInfoModal, setShowInfoModal] = useState(false);
+  const [selectedInfo, setSelectedInfo] = useState(null); 
 
   useEffect(() => {
     importerDepuisSheetPublic()
@@ -134,14 +152,25 @@ export default function App() {
   if (loading) return <div>Chargement...</div>;
   if (error) return <div>Erreur : {error}</div>;
 
+  const handleShowInfo = (description) => {
+    setSelectedInfo(description); 
+    setShowInfoModal(true);
+  };
+
   return (
     <>
       <div className="daily">
         <img src={logo} alt="Logo Cogito" className="daily-logo" />
         {questions.map((row, idx) => (
-          <Question key={idx} row={row} keys={keys} />
+          <Question key={idx} row={row} keys={keys} onShowInfo={handleShowInfo} />
         ))}
       </div>
+      {showInfoModal && (
+        <InfoModal
+          onClose={() => setShowInfoModal(false)}
+          description={selectedInfo}
+        />
+      )}
     </>
   );
 }
