@@ -3,7 +3,7 @@ import logo from "../icons/logo.png";
 import "../css/daily.css";
 import InfoModal from './InfoModal';
 import ProblemModal from './ProblemModal';
-import questions from "../data/questions.json";
+import dailyQuestions from "../data/dailyQuestions.json";
 
 async function importerDepuisSheetPublic() {
   const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
@@ -35,19 +35,6 @@ async function importerDepuisSheetPublic() {
   } catch (err) {
     throw new Error("Erreur de chargement : " + err.message);
   }
-}
-
-function loadDailyQuestions() {
-  const dailyQuestion = [];
-  const usedIndexes = new Set();
-  while (dailyQuestion.length < 10 && usedIndexes.size < questions.quizzes.length) {
-    const index = Math.floor(Math.random() * questions.quizzes.length);
-    if (!usedIndexes.has(index)) {
-      dailyQuestion.push(questions.quizzes[index]);
-      usedIndexes.add(index);
-    }
-  }
-  return dailyQuestion;
 }
 
 function Question({ row, keys, onShowInfo, onShowProblem }) {
@@ -182,7 +169,7 @@ export default function App() {
 
   const handleShowProblem = (row, idx) => {
     setProblemQuestion(row[keys.indexOf('question')] || '');
-    setProblemId(idx); // Utilise l'index comme identifiant unique
+    setProblemId(idx);
     setShowProblemModal(true);
   };
 
