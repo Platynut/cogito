@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   min-height: 100vh;
   background: none;
 }
@@ -13,10 +12,6 @@
   max-width: 320px;
   margin: 2em auto 2em;
   display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
 }
 
 .acceuil-btns {
@@ -24,6 +19,9 @@
   flex-direction: column;
   gap: 1.5em;
   align-items: center;
+  flex: 1; 
+  justify-content: center; 
+  display: flex;
 }
 
 .acceuil-btn {

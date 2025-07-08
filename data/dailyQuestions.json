@@ -9,7 +9,7 @@
       "John Pierce"
     ],
     "category": "Technologie",
-    "difficulty": "Moyen",
+    "difficulty": "normal",
     "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
   },
   {
@@ -87,7 +87,7 @@
       "Océan Arctique"
     ],
     "category": "Géographie",
-    "difficulty": "Facile",
+    "difficulty": "facile",
     "description": "L'océan Pacifique est le plus vaste océan de la planète, couvrant environ un tiers de la surface terrestre et abritant la fosse des Mariannes."
   },
   {
@@ -100,7 +100,7 @@
       "Dead Space"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "Moyen",
+    "difficulty": "normal",
     "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
   },
   {
@@ -113,7 +113,7 @@
       "Domoni"
     ],
     "category": "Géographie",
-    "difficulty": "Moyen",
+    "difficulty": "normal",
     "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
   },
   {

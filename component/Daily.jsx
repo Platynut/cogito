@@ -5,38 +5,6 @@ import InfoModal from './InfoModal';
 import ProblemModal from './ProblemModal';
 import dailyQuestions from "../data/dailyQuestions.json";
 
-async function importerDepuisSheetPublic() {
-  const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
-  const originalUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:json&headers=1`;
-  const finalUrl = "https://corsproxy.io/?" + encodeURIComponent(originalUrl);
-
-  try {
-    const response = await fetch(finalUrl);
-    const texte = await response.text();
-
-    const json = JSON.parse(texte.substring(47).slice(0, -2));
-    const object = json.table.rows;
-
-    const rawKeys = json.table.cols.map(col => col.label);
-    const keys = rawKeys.map(label => label.split(" ")[0]);
-    const rows = [];
-
-    for (let j = 0; j < object.length; j++) {
-      const row = object[j].c;
-      const values = [];
-      for (let k = 0; k < keys.length; k++) {
-        const cell = row[k];
-        values.push(cell ? cell.v : '');
-      }
-      rows.push(values);
-    }
-
-    return { keys, rows };
-  } catch (err) {
-    throw new Error("Erreur de chargement : " + err.message);
-  }
-}
-
 function Question({ row, keys, onShowInfo, onShowProblem }) {
   const [message, setMessage] = useState(null);
   const [shuffledReponses, setShuffledReponses] = useState([]);
@@ -44,18 +12,17 @@ function Question({ row, keys, onShowInfo, onShowProblem }) {
   const [clickedIdx, setClickedIdx] = useState(null);
   const [infoButton, setInfoButton] = useState(false);
 
-  const bonne = row[keys.indexOf("bonne_reponse")];
-  const mauvaisesString = row[keys.indexOf("mauvaise_reponse")];
-  const mauvaises = mauvaisesString ? mauvaisesString.split("|||") : [];
+  const bonne = row[keys.indexOf("answer")];
+  const mauvaises = row[keys.indexOf("badAnswers")] || [];
+  const infos = row[keys.indexOf("description")];
+  const difficulte = (row[keys.indexOf("difficulty")] || '').toLowerCase();
 
-  const difficulteIdx = keys.indexOf("difficulte");
-  const difficulte = difficulteIdx !== -1 ? (row[difficulteIdx] || '').toLowerCase() : '';
   const diffClass =
     difficulte === 'facile' ? 'difficulte-facile' :
     difficulte === 'normal' ? 'difficulte-normal' :
     difficulte === 'difficile' ? 'difficulte-difficile' : '';
 
-  const infos = row[keys.indexOf("description")];
+   const displayOrder = ["difficulty", "category", "question"];
     
   useEffect(() => {
     const all = [...mauvaises, bonne].filter(Boolean);
@@ -67,26 +34,25 @@ function Question({ row, keys, onShowInfo, onShowProblem }) {
     setAnswered(false);
     setMessage(null);
     setClickedIdx(null);
-  }, [bonne, mauvaisesString]);
+  }, [bonne, mauvaises]);
 
   return (
     <div className="question">
-      {row.map((value, idx) => {
-        const key = keys[idx];
-        if (key === "bonne_reponse" || key === "mauvaise_reponse") return null;
+      {displayOrder.map((key) => {
+        const idx = keys.indexOf(key);
+        if (idx === -1) return null;
+        const value = row[idx];
 
-        if (key === "difficulte") {
-          return <div key={idx} className={`difficulte ${diffClass}`} dangerouslySetInnerHTML={{ __html: value }} />;
+        switch (key) {
+          case "difficulty":
+            return <div key={idx} className={`difficulte difficulte-${(value || '').toLowerCase()}`} dangerouslySetInnerHTML={{ __html: value }} />;
+          case "category":
+            return <div key={idx} className="category" dangerouslySetInnerHTML={{ __html: (value || '').replace(/_/g, ' ').toUpperCase() }} />;
+          case "question":
+            return <div key={key} className="question" dangerouslySetInnerHTML={{ __html: value || '' }} />;
+          default:
+            return null;
         }
-
-        if (key === "category") {
-          const formatted = value.replace(/_/g, " ").toUpperCase();
-          return <div key={idx} className="category" dangerouslySetInnerHTML={{ __html: formatted }} />;
-        }
-
-        if (key === "description") return null;
-
-        return <div key={idx} className={key || ""} dangerouslySetInnerHTML={{ __html: value }} />;
       })}
 
       {shuffledReponses.length > 0 && (
@@ -147,17 +113,20 @@ export default function App() {
   const [problemId, setProblemId] = useState(null);
 
   useEffect(() => {
-    importerDepuisSheetPublic()
-      .then(({ keys, rows }) => {
-        setKeys(keys);
-        setQuestions(rows);
-        setLoading(false);
-      })
-      .catch((err) => {
-        setError(err.message);
-        setLoading(false);
-      });
-  }, []);
+  const keys = ['id', 'question', 'answer', 'badAnswers', 'category', 'difficulty', 'description'];
+  const rows = dailyQuestions.map(q => [
+    q.id,
+    q.question,
+    q.answer,
+    q.badAnswers,
+    q.category,
+    q.difficulty,
+    q.description
+  ]);
+  setKeys(keys);
+  setQuestions(rows);
+  setLoading(false);
+}, []);
 
   if (loading) return <div>Chargement...</div>;
   if (error) return <div>Erreur : {error}</div>;
@@ -167,9 +136,9 @@ export default function App() {
     setShowInfoModal(true);
   };
 
-  const handleShowProblem = (row, idx) => {
+  const handleShowProblem = (row) => {
     setProblemQuestion(row[keys.indexOf('question')] || '');
-    setProblemId(idx);
+    setProblemId(row[keys.indexOf('id')] || '');
     setShowProblemModal(true);
   };
 
