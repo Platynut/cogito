@@ -8,9 +8,15 @@
 }
 
 .acceuil-logo {
-  max-width: 180px;
+  width: 30%;
+  min-width: 120px;
+  max-width: 320px;
   margin: 2em auto 2em;
   display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .acceuil-btns {
@@ -44,15 +50,4 @@
 
 .acceuil-btn:last-child:hover {
   background: #047857;
-}
-
-.acceuil-logo { 
-    min-width: 30%;
-    margin: 2em auto 2em; 
-    display: block; 
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
 }

@@ -1,0 +1,13 @@
+.solo-page {
+  padding: 2em;
+  text-align: center;
+}
+
+.solo-logo {
+  width: 30%;
+  min-width: 120px;
+  max-width: 320px;
+  margin: 2em auto 2em;
+  display: block;
+  position: static;
+}

@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import logo from "../icons/logo.png";
 import "../css/daily.css";
 import InfoModal from './InfoModal';
+import ProblemModal from './ProblemModal';
+import questions from "../data/questions.json";
 
 async function importerDepuisSheetPublic() {
   const sheetId = "16beridTdl2qTluwURv2cYY-l0Tg40jU7NLWC127jFdg";
@@ -35,7 +37,20 @@ async function importerDepuisSheetPublic() {
   }
 }
 
-function Question({ row, keys, onShowInfo }) {
+function loadDailyQuestions() {
+  const dailyQuestion = [];
+  const usedIndexes = new Set();
+  while (dailyQuestion.length < 10 && usedIndexes.size < questions.quizzes.length) {
+    const index = Math.floor(Math.random() * questions.quizzes.length);
+    if (!usedIndexes.has(index)) {
+      dailyQuestion.push(questions.quizzes[index]);
+      usedIndexes.add(index);
+    }
+  }
+  return dailyQuestion;
+}
+
+function Question({ row, keys, onShowInfo, onShowProblem }) {
   const [message, setMessage] = useState(null);
   const [shuffledReponses, setShuffledReponses] = useState([]);
   const [answered, setAnswered] = useState(false);
@@ -122,6 +137,11 @@ function Question({ row, keys, onShowInfo }) {
               En savoir plus
             </button>
           )}
+          {infoButton && (
+            <button className="more-info" onClick={onShowProblem} aria-label="Un problème ?">
+              Un problème ?
+            </button>
+          )}
         </div>
       )}
     </div>
@@ -135,6 +155,9 @@ export default function App() {
   const [error, setError] = useState(null);
   const [showInfoModal, setShowInfoModal] = useState(false);
   const [selectedInfo, setSelectedInfo] = useState(null); 
+  const [showProblemModal, setShowProblemModal] = useState(false);
+  const [problemQuestion, setProblemQuestion] = useState(null);
+  const [problemId, setProblemId] = useState(null);
 
   useEffect(() => {
     importerDepuisSheetPublic()
@@ -157,18 +180,38 @@ export default function App() {
     setShowInfoModal(true);
   };
 
+  const handleShowProblem = (row, idx) => {
+    setProblemQuestion(row[keys.indexOf('question')] || '');
+    setProblemId(idx); // Utilise l'index comme identifiant unique
+    setShowProblemModal(true);
+  };
+
   return (
     <>
       <div className="daily">
         <img src={logo} alt="Logo Cogito" className="daily-logo" />
         {questions.map((row, idx) => (
-          <Question key={idx} row={row} keys={keys} onShowInfo={handleShowInfo} />
+          <Question
+            key={idx}
+            row={row}
+            keys={keys}
+            onShowInfo={handleShowInfo}
+            onShowProblem={() => handleShowProblem(row, idx)}
+          />
         ))}
       </div>
       {showInfoModal && (
         <InfoModal
           onClose={() => setShowInfoModal(false)}
           description={selectedInfo}
+        />
+      )}
+      {showProblemModal && (
+        <ProblemModal
+          onClose={() => setShowProblemModal(false)}
+          onSubmit={() => setShowProblemModal(false)}
+          question={problemQuestion}
+          id={problemId}
         />
       )}
     </>

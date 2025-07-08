@@ -4,6 +4,7 @@ import Acceuil from './Acceuil.jsx';
 import App from './Daily.jsx';
 import Help from './Help.jsx';
 import Home from './Home.jsx';
+import Solo from './Solo.jsx';
 
 function Main() {
   const [page, setPage] = useState('acceuil');
@@ -18,7 +19,7 @@ function Main() {
         />
       )}
       {page === 'quiz' && <App />}
-      {/* Ajoute ici la page solo si besoin */}
+      {page === 'solo' && <Solo />}
       <button
         className="help-fab"
         onClick={() => setShowHelp(true)}
