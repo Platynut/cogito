@@ -1,132 +1,132 @@
 [
   {
-    "id": "1916",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
-    "answer": "Martin Cooper",
+    "id": "2092",
+    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
+    "answer": "André Gide",
     "badAnswers": [
-      "Alexander Graham Bell",
-      "Reginald Fessenden",
-      "John Pierce"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
-    "category": "Technologie",
+    "category": "Livres",
+    "difficulty": "Moyen",
+    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+  },
+  {
+    "id": "1369",
+    "question": "Quel est le nom de la capitale de Trinité-et-Tobago ?",
+    "answer": "Port-d'Espagne",
+    "badAnswers": [
+      "San Fernando",
+      "Chaguanas",
+      "Arima"
+    ],
+    "category": "Géographie",
+    "difficulty": "Moyen",
+    "description": "Port-d'Espagne, capitale de Trinité-et-Tobago, est une ville portuaire connue pour son carnaval et son mélange de cultures caribéennes."
+  },
+  {
+    "id": "147",
+    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
+    "answer": "Le fémur",
+    "badAnswers": [
+      "Le radius",
+      "Le cubitus",
+      "Le carpe"
+    ],
+    "category": "Anatomie",
     "difficulty": "normal",
-    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
+    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
   },
   {
-    "id": "917",
-    "question": "Quel est le nom de l'auteur de Le Grand Gatsby ?",
-    "answer": "F. Scott Fitzgerald",
+    "id": "272",
+    "question": "Qui est le chanteur principal du groupe Green Day ?",
+    "answer": "Billie Joe Armstrong",
     "badAnswers": [
-      "Ernest Hemingway",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
-  },
-  {
-    "id": "542",
-    "question": "Quel est le nom de l'auteur de Le Vieil Homme et la Mer ?",
-    "answer": "Ernest Hemingway",
-    "badAnswers": [
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Ernest Hemingway a écrit Le Vieil Homme et la Mer (1952), une nouvelle sur la lutte d'un pêcheur cubain. C'est une œuvre majeure de la littérature américaine. Fitzgerald, Steinbeck et Faulkner sont d'autres écrivains, mais n'ont pas écrit ce texte."
-  },
-  {
-    "id": "52",
-    "question": "Qui a été le dernier tsar de Russie ?",
-    "answer": "Nicolas II",
-    "badAnswers": [
-      "Pierre le Grand",
-      "Alexandre III",
-      "Ivan le Terrible"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
-  },
-  {
-    "id": "145",
-    "question": "Qui est le compositeur des Quatre Saisons ?",
-    "answer": "Antonio Vivaldi",
-    "badAnswers": [
-      "Johann Sebastian Bach",
-      "Wolfgang Amadeus Mozart",
-      "Wilhelm Richard Wagner"
+      "Mike Dirnt",
+      "Sean Hughes",
+      "Tré Cool"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonio Vivaldi a composé 'Les Quatre Saisons' au début du XVIIIe siècle. Bach, Mozart et Wagner sont d'autres compositeurs classiques."
-  },
-  {
-    "id": "144",
-    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
-    "answer": "Amman",
-    "badAnswers": [
-      "Téhéran",
-      "Damas",
-      "Bagdad"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
-  },
-  {
-    "id": "1030",
-    "question": "Quel est le nom du plus grand océan de la Terre ?",
-    "answer": "Océan Pacifique",
-    "badAnswers": [
-      "Océan Atlantique",
-      "Océan Indien",
-      "Océan Arctique"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "L'océan Pacifique est le plus vaste océan de la planète, couvrant environ un tiers de la surface terrestre et abritant la fosse des Mariannes."
+    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
   },
   {
-    "id": "1006",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
-    "answer": "BioShock",
+    "id": "1905",
+    "question": "Quel est le nom du groupe qui a chanté 'A Day in the Life' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Half-Life",
-      "Portal",
-      "Dead Space"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
+    "category": "Musique",
+    "difficulty": "Facile",
+    "description": "'A Day in the Life', sorti en 1967 par The Beatles, est une chanson expérimentale tirée de l'album Sgt. Pepper's."
   },
   {
-    "id": "1599",
-    "question": "Quel est le nom de la capitale des Comores ?",
-    "answer": "Moroni",
+    "id": "826",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Metroid ?",
+    "answer": "Samus",
     "badAnswers": [
-      "Fomboni",
-      "Mutsamudu",
-      "Domoni"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
-  },
-  {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Créepers ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
+      "Ridley",
+      "Zero Suit Samus",
+      "Dark Samus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
+    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros. Ultimate. Ridley est un antagoniste, et Zero Suit Samus et Dark Samus sont des variantes."
+  },
+  {
+    "id": "677",
+    "question": "Quel est le nom de l'auteur de L'Écume des jours ?",
+    "answer": "Boris Vian",
+    "badAnswers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Breton"
+    ],
+    "category": "Littérature",
+    "difficulty": "moyen",
+    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1394",
+    "question": "Quel est le nom de la capitale du Laos ?",
+    "answer": "Vientiane",
+    "badAnswers": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "Moyen",
+    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
+  },
+  {
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
+    "badAnswers": [
+      "3",
+      "4",
+      "2"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
+  },
+  {
+    "id": "1211",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Hg ?",
+    "answer": "Mercure",
+    "badAnswers": [
+      "Molybdène",
+      "Magnésium",
+      "Manganèse"
+    ],
+    "category": "Science",
+    "difficulty": "Facile",
+    "description": "Le mercure, symbolisé par Hg (du latin 'hydrargyrum'), est un métal liquide utilisé dans les thermomètres, mais toxique pour l'environnement."
   }
 ]
