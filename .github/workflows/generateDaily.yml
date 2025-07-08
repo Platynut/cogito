@@ -2,8 +2,11 @@ name: Générer les questions du jour
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # Tous les jours à 0h du matin heure FR (22h UTC)
+    - cron: '0 22 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write 
 
 jobs:
   generate:
@@ -15,10 +18,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '18'
-      
+
       - name: Installer les dépendances
         run: npm install
-
 
       - name: Exécuter le script de génération
         run: node scripts/generateDailyQuestions.js
@@ -27,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/daily-questions.json
-          git commit -m "MàJ daily questions 📅"
+          git add data/dailyQuestions.json
+          git commit -m "MàJ daily questions 📅" || echo "Pas de changement"
           git push
