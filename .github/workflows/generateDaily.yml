@@ -1,0 +1,32 @@
+name: Générer les questions du jour
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # Tous les jours à 0h du matin heure FR (22h UTC)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Installer les dépendances
+        run: npm install
+
+
+      - name: Exécuter le script de génération
+        run: node scripts/generateDailyQuestions.js
+
+      - name: Commit & push du JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/daily-questions.json
+          git commit -m "MàJ daily questions 📅"
+          git push
