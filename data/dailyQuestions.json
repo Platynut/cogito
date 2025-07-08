@@ -1,59 +1,111 @@
 [
   {
-    "id": "2092",
-    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
-    "answer": "André Gide",
+    "id": "1215",
+    "question": "Quel est le nom de l'auteur de 'Don Quichotte' ?",
+    "answer": "Miguel de Cervantès",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Gabriel García Márquez",
+      "Federico García Lorca",
+      "Jorge Luis Borges"
     ],
     "category": "Livres",
-    "difficulty": "Moyen",
-    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+    "difficulty": "facile",
+    "description": "Miguel de Cervantès a écrit 'Don Quichotte' (1605), un roman picaresque sur un chevalier errant, considéré comme un chef-d'œuvre de la littérature."
   },
   {
-    "id": "1369",
-    "question": "Quel est le nom de la capitale de Trinité-et-Tobago ?",
-    "answer": "Port-d'Espagne",
+    "id": "1832",
+    "question": "Quel est le nom du groupe qui a chanté 'Rock and Roll' ?",
+    "answer": "Led Zeppelin",
     "badAnswers": [
-      "San Fernando",
-      "Chaguanas",
-      "Arima"
-    ],
-    "category": "Géographie",
-    "difficulty": "Moyen",
-    "description": "Port-d'Espagne, capitale de Trinité-et-Tobago, est une ville portuaire connue pour son carnaval et son mélange de cultures caribéennes."
-  },
-  {
-    "id": "147",
-    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
-    "answer": "Le fémur",
-    "badAnswers": [
-      "Le radius",
-      "Le cubitus",
-      "Le carpe"
-    ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
-  },
-  {
-    "id": "272",
-    "question": "Qui est le chanteur principal du groupe Green Day ?",
-    "answer": "Billie Joe Armstrong",
-    "badAnswers": [
-      "Mike Dirnt",
-      "Sean Hughes",
-      "Tré Cool"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
+    "description": "'Rock and Roll', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
   },
   {
-    "id": "1905",
-    "question": "Quel est le nom du groupe qui a chanté 'A Day in the Life' ?",
+    "id": "1090",
+    "question": "Quel est le nom de l'auteur de 'Frankenstein' ?",
+    "answer": "Mary Shelley",
+    "badAnswers": [
+      "Bram Stoker",
+      "Edgar Allan Poe",
+      "H.G. Wells"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Mary Shelley a écrit 'Frankenstein' (1818), un roman gothique sur un scientifique créant une créature, considéré comme un pionnier de la science-fiction."
+  },
+  {
+    "id": "229",
+    "question": "Quelle danse est traditionnelle du carnaval de Rio ?",
+    "answer": "Samba",
+    "badAnswers": [
+      "Rumba",
+      "Salsa",
+      "Cha-cha"
+    ],
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "La samba, née dans les favelas, est indissociable du carnaval de Rio. La rumba est cubaine, la salsa portoricaine, et le cha-cha un dérivé du mambo."
+  },
+  {
+    "id": "1035",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Final Fantasy XV",
+      "Chrono Trigger"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
+  },
+  {
+    "id": "1768",
+    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
+    "answer": "Émile Zola",
+    "badAnswers": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
+  },
+  {
+    "id": "1409",
+    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Léon Tolstoï a écrit 'Guerre et Paix' (1865-1869), un roman épique sur la société russe pendant les guerres napoléoniennes."
+  },
+  {
+    "id": "1774",
+    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
+    "answer": "The Allman Brothers Band",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
+  },
+  {
+    "id": "2149",
+    "question": "Quel est le nom du groupe qui a chanté 'Rocky Raccoon' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -61,72 +113,20 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "Facile",
-    "description": "'A Day in the Life', sorti en 1967 par The Beatles, est une chanson expérimentale tirée de l'album Sgt. Pepper's."
-  },
-  {
-    "id": "826",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Metroid ?",
-    "answer": "Samus",
-    "badAnswers": [
-      "Ridley",
-      "Zero Suit Samus",
-      "Dark Samus"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros. Ultimate. Ridley est un antagoniste, et Zero Suit Samus et Dark Samus sont des variantes."
+    "description": "'Rocky Raccoon', sorti en 1968 par The Beatles, est une chanson folk narrative de l'album White Album."
   },
   {
-    "id": "677",
-    "question": "Quel est le nom de l'auteur de L'Écume des jours ?",
-    "answer": "Boris Vian",
+    "id": "589",
+    "question": "Quel est le plus grand arachnide du monde ?",
+    "answer": "Mygale Goliath",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Breton"
+      "Scorpion empereur",
+      "Araignée-loup",
+      "Tarantule à pattes rouges"
     ],
-    "category": "Littérature",
-    "difficulty": "moyen",
-    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1394",
-    "question": "Quel est le nom de la capitale du Laos ?",
-    "answer": "Vientiane",
-    "badAnswers": [
-      "Luang Prabang",
-      "Pakse",
-      "Savannakhet"
-    ],
-    "category": "Géographie",
-    "difficulty": "Moyen",
-    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
-  },
-  {
-    "id": "284",
-    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
-    "answer": "1",
-    "badAnswers": [
-      "3",
-      "4",
-      "2"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
-  },
-  {
-    "id": "1211",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Hg ?",
-    "answer": "Mercure",
-    "badAnswers": [
-      "Molybdène",
-      "Magnésium",
-      "Manganèse"
-    ],
-    "category": "Science",
-    "difficulty": "Facile",
-    "description": "Le mercure, symbolisé par Hg (du latin 'hydrargyrum'), est un métal liquide utilisé dans les thermomètres, mais toxique pour l'environnement."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "La mygale Goliath est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de 175 g. Le scorpion empereur, l'araignée-loup et la tarantule à pattes rouges sont plus petits."
   }
 ]
