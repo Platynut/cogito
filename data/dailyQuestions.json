@@ -1,132 +1,132 @@
 [
   {
-    "id": "1215",
-    "question": "Quel est le nom de l'auteur de 'Don Quichotte' ?",
-    "answer": "Miguel de Cervantès",
+    "id": "2148",
+    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
+    "answer": "Italo Calvino",
     "badAnswers": [
-      "Gabriel García Márquez",
-      "Federico García Lorca",
-      "Jorge Luis Borges"
+      "Dino Buzzati",
+      "Cesare Pavese",
+      "Luigi Pirandello"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit 'Don Quichotte' (1605), un roman picaresque sur un chevalier errant, considéré comme un chef-d'œuvre de la littérature."
+    "difficulty": "normal",
+    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
   },
   {
-    "id": "1832",
-    "question": "Quel est le nom du groupe qui a chanté 'Rock and Roll' ?",
-    "answer": "Led Zeppelin",
+    "id": "1480",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
+    "answer": "John Presper Eckert",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Alan Turing",
+      "Konrad Zuse",
+      "Charles Babbage"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
+  },
+  {
+    "id": "560",
+    "question": "Quel compositeur a écrit La Traviata ?",
+    "answer": "Giuseppe Verdi",
+    "badAnswers": [
+      "Giacomo Puccini",
+      "Gioachino Rossini",
+      "Richard Wagner"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Rock and Roll', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
-  },
-  {
-    "id": "1090",
-    "question": "Quel est le nom de l'auteur de 'Frankenstein' ?",
-    "answer": "Mary Shelley",
-    "badAnswers": [
-      "Bram Stoker",
-      "Edgar Allan Poe",
-      "H.G. Wells"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Mary Shelley a écrit 'Frankenstein' (1818), un roman gothique sur un scientifique créant une créature, considéré comme un pionnier de la science-fiction."
-  },
-  {
-    "id": "229",
-    "question": "Quelle danse est traditionnelle du carnaval de Rio ?",
-    "answer": "Samba",
-    "badAnswers": [
-      "Rumba",
-      "Salsa",
-      "Cha-cha"
-    ],
-    "category": "Danse",
     "difficulty": "normal",
-    "description": "La samba, née dans les favelas, est indissociable du carnaval de Rio. La rumba est cubaine, la salsa portoricaine, et le cha-cha un dérivé du mambo."
+    "description": "Giuseppe Verdi a composé La Traviata (1853), un opéra tragique sur l'amour de Violetta. C'est une œuvre majeure du répertoire lyrique. Puccini, Rossini et Wagner sont d'autres compositeurs d'opéras, mais n'ont pas écrit La Traviata."
   },
   {
-    "id": "1035",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
-    "answer": "Final Fantasy VII",
+    "id": "1723",
+    "question": "Quel est le nom de la capitale du Brunei ?",
+    "answer": "Bandar Seri Begawan",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Final Fantasy XV",
-      "Chrono Trigger"
+      "Kuala Belait",
+      "Seria",
+      "Tutong"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bandar Seri Begawan, capitale du Brunei, est connue pour sa mosquée Omar Ali Saifuddien et son village sur l'eau."
+  },
+  {
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
+    "badAnswers": [
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+  },
+  {
+    "id": "328",
+    "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
+    "answer": "Amazone",
+    "badAnswers": [
+      "Paraná",
+      "Orénoque",
+      "Madeira"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Amazone est le plus long fleuve d'Amérique du Sud et le deuxième plus long au monde, s'étendant sur environ 6 575 km à travers plusieurs pays, dont le Brésil et le Pérou. Il est également le plus grand en termes de débit. Le Paraná, l'Orénoque et le Madeira sont d'autres fleuves importants, mais plus courts."
+  },
+  {
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
+    "badAnswers": [
+      "Entei",
+      "Raikou",
+      "Lugia"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+  },
+  {
+    "id": "467",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
+    "answer": "Ciri",
+    "badAnswers": [
+      "Yennefer",
+      "Triss",
+      "Keira"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
+    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
   },
   {
-    "id": "1768",
-    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
-    "answer": "Émile Zola",
+    "id": "264",
+    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
+      "Fortnite",
+      "Call of Duty",
+      "World of Warcraft"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
-  },
-  {
-    "id": "1409",
-    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
-    "answer": "Léon Tolstoï",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
-    ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Léon Tolstoï a écrit 'Guerre et Paix' (1865-1869), un roman épique sur la société russe pendant les guerres napoléoniennes."
+    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
   },
   {
-    "id": "1774",
-    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
-    "answer": "The Allman Brothers Band",
+    "id": "1868",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1991 ?",
+    "answer": "The Silence of the Lambs",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
+      "JFK",
+      "Beauty and the Beast",
+      "Bugsy"
     ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
-  },
-  {
-    "id": "2149",
-    "question": "Quel est le nom du groupe qui a chanté 'Rocky Raccoon' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Rocky Raccoon', sorti en 1968 par The Beatles, est une chanson folk narrative de l'album White Album."
-  },
-  {
-    "id": "589",
-    "question": "Quel est le plus grand arachnide du monde ?",
-    "answer": "Mygale Goliath",
-    "badAnswers": [
-      "Scorpion empereur",
-      "Araignée-loup",
-      "Tarantule à pattes rouges"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "La mygale Goliath est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de 175 g. Le scorpion empereur, l'araignée-loup et la tarantule à pattes rouges sont plus petits."
+    "description": "The Silence of the Lambs, réalisé par Jonathan Demme, a remporté l'Oscar du meilleur film en 1991, un thriller psychologique."
   }
 ]
