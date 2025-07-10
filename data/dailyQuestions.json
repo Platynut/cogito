@@ -1,132 +1,132 @@
 [
   {
-    "id": "2148",
-    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
-    "answer": "Italo Calvino",
+    "id": "102",
+    "question": "Quel fleuve côtier traverse trois régions différentes et se jette devant le Mont-Saint-Michel ?",
+    "answer": "Le Couesnon",
     "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "La Sélune",
+      "La Vire",
+      "La Rance"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Couesnon est un fleuve qui traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel. La Sélune, la Vire et la Rance sont d'autres cours d'eau de la région."
+  },
+  {
+    "id": "85",
+    "question": "Quelle ville française est célèbre pour ses biscuits ?",
+    "answer": "Nantes",
+    "badAnswers": [
+      "Lyon",
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
+  },
+  {
+    "id": "1929",
+    "question": "Quel est le nom de l'auteur de 'Belle du Seigneur' ?",
+    "answer": "Albert Cohen",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
+    "description": "Albert Cohen a écrit 'Belle du Seigneur' (1968), un roman sur l'amour passionnel et ses contradictions."
   },
   {
-    "id": "1480",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un scientifique suédois spécialisé en explosifs ?",
+    "answer": "Torbjörn",
     "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage"
+      "Symmetra",
+      "Moira",
+      "Mei"
     ],
-    "category": "Informatique",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses tourelles et ses explosifs. Symmetra crée des structures, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "1673",
+    "question": "Quel est le nom de l'auteur de 'La Ferme des animaux' ?",
+    "answer": "George Orwell",
+    "badAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit 'La Ferme des animaux' (1945), une satire allégorique sur le totalitarisme."
+  },
+  {
+    "id": "740",
+    "question": "Quel est le nom de l'auteur de Le Nom de la rose ?",
+    "answer": "Umberto Eco",
+    "badAnswers": [
+      "Italo Calvino",
+      "Dario Fo",
+      "Luigi Pirandello"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1867",
+    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
+    "answer": "Emile Berliner",
+    "badAnswers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Eldridge Johnson"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
+  },
+  {
+    "id": "1497",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
+    "answer": "Neptunium",
+    "badAnswers": [
+      "Nickel",
+      "Nobelium",
+      "Niobium"
+    ],
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
+    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
   },
   {
-    "id": "560",
-    "question": "Quel compositeur a écrit La Traviata ?",
-    "answer": "Giuseppe Verdi",
+    "id": "893",
+    "question": "Quel est le plus grand mammifère marin actuel ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Giacomo Puccini",
-      "Gioachino Rossini",
-      "Richard Wagner"
+      "Cachalot",
+      "Rorqual commun",
+      "Baleine boréale"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Giuseppe Verdi a composé La Traviata (1853), un opéra tragique sur l'amour de Violetta. C'est une œuvre majeure du répertoire lyrique. Puccini, Rossini et Wagner sont d'autres compositeurs d'opéras, mais n'ont pas écrit La Traviata."
-  },
-  {
-    "id": "1723",
-    "question": "Quel est le nom de la capitale du Brunei ?",
-    "answer": "Bandar Seri Begawan",
-    "badAnswers": [
-      "Kuala Belait",
-      "Seria",
-      "Tutong"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bandar Seri Begawan, capitale du Brunei, est connue pour sa mosquée Omar Ali Saifuddien et son village sur l'eau."
-  },
-  {
-    "id": "1047",
-    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
-    "answer": "Charles Lindbergh",
-    "badAnswers": [
-      "Amelia Earhart",
-      "Howard Hughes",
-      "Wiley Post"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
-  },
-  {
-    "id": "328",
-    "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
-    "answer": "Amazone",
-    "badAnswers": [
-      "Paraná",
-      "Orénoque",
-      "Madeira"
-    ],
-    "category": "Géographie",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "L'Amazone est le plus long fleuve d'Amérique du Sud et le deuxième plus long au monde, s'étendant sur environ 6 575 km à travers plusieurs pays, dont le Brésil et le Pérou. Il est également le plus grand en termes de débit. Le Paraná, l'Orénoque et le Madeira sont d'autres fleuves importants, mais plus courts."
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
   },
   {
-    "id": "627",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
-    "answer": "Suicune",
+    "id": "2013",
+    "question": "Quel est le nom de l'auteur de 'Le Ravissement de Lol V. Stein' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
-      "Entei",
-      "Raikou",
-      "Lugia"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
-  },
-  {
-    "id": "467",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
-    "answer": "Ciri",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
-  },
-  {
-    "id": "264",
-    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Fortnite",
-      "Call of Duty",
-      "World of Warcraft"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
-  },
-  {
-    "id": "1868",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1991 ?",
-    "answer": "The Silence of the Lambs",
-    "badAnswers": [
-      "JFK",
-      "Beauty and the Beast",
-      "Bugsy"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Silence of the Lambs, réalisé par Jonathan Demme, a remporté l'Oscar du meilleur film en 1991, un thriller psychologique."
+    "description": "Marguerite Duras a écrit 'Le Ravissement de Lol V. Stein' (1964), un roman sur l'amour et la perte d'identité."
   }
 ]
