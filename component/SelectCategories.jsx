@@ -1,4 +1,4 @@
-import quizData from "../data/questions.json";
+import quizData from "../public/data/questions.json";
 import "../css/selectCategories.css";
 
 export default function SelectCategories() {

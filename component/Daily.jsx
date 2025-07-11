@@ -112,7 +112,7 @@ export default function App() {
   const [problemId, setProblemId] = useState(null);
 
 useEffect(() => {
-  fetch(`${process.env.PUBLIC_URL}/data/dailyQuestions.json`)
+  fetch(`/cogito/data/dailyQuestions.json`)
     .then(res => {
       if (!res.ok) throw new Error(`Erreur lors du chargement du fichier: ${res.statusText}`);
       return res.json();
