@@ -113,20 +113,31 @@ export default function App() {
   const [problemId, setProblemId] = useState(null);
 
   useEffect(() => {
-  const keys = ['id', 'question', 'answer', 'badAnswers', 'category', 'difficulty', 'description'];
-  const rows = dailyQuestions.map(q => [
-    q.id,
-    q.question,
-    q.answer,
-    q.badAnswers,
-    q.category,
-    q.difficulty,
-    q.description
-  ]);
-  setKeys(keys);
-  setQuestions(rows);
-  setLoading(false);
-}, []);
+  fetch("/data/dailyQuestions.json")
+    .then(res => {
+      if (!res.ok) throw new Error("Erreur lors du chargement du fichier");
+      return res.json();
+    })
+    .then(data => {
+      const keys = ['id', 'question', 'answer', 'badAnswers', 'category', 'difficulty', 'description'];
+      const rows = data.map(q => [
+        q.id,
+        q.question,
+        q.answer,
+        q.badAnswers,
+        q.category,
+        q.difficulty,
+        q.description
+      ]);
+      setKeys(keys);
+      setQuestions(rows);
+      setLoading(false);
+    })
+    .catch(err => {
+      setError(err.message);
+      setLoading(false);
+    });
+  }, []);
 
   if (loading) return <div>Chargement...</div>;
   if (error) return <div>Erreur : {error}</div>;
