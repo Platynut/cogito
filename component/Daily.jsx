@@ -44,7 +44,7 @@ function Question({ row, keys, onShowInfo, onShowProblem }) {
 
         switch (key) {
           case "difficulty":
-            return <div key={idx} className={`difficulte difficulte-${(value || '').toLowerCase()}`} dangerouslySetInnerHTML={{ __html: value }} />;
+            return <div key={idx} className={`difficulte ${diffClass}`} dangerouslySetInnerHTML={{ __html: value }} />;
           case "category":
             return <div key={idx} className="category" dangerouslySetInnerHTML={{ __html: (value || '').replace(/_/g, ' ').toUpperCase() }} />;
           case "question":
@@ -112,9 +112,9 @@ export default function App() {
   const [problemId, setProblemId] = useState(null);
 
 useEffect(() => {
-  fetch("/data/dailyQuestions.json")
+  fetch("/cogito/data/dailyQuestions.json")
     .then(res => {
-      if (!res.ok) throw new Error("Erreur lors du chargement du fichier");
+      if (!res.ok) throw new Error(`Erreur lors du chargement du fichier: ${res.statusText}`);
       return res.json();
     })
     .then(data => {
