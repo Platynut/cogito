@@ -1,0 +1,132 @@
+[
+  {
+    "id": "102",
+    "question": "Quel fleuve côtier traverse trois régions différentes et se jette devant le Mont-Saint-Michel ?",
+    "answer": "Le Couesnon",
+    "badAnswers": [
+      "La Sélune",
+      "La Vire",
+      "La Rance"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Couesnon est un fleuve qui traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel. La Sélune, la Vire et la Rance sont d'autres cours d'eau de la région."
+  },
+  {
+    "id": "85",
+    "question": "Quelle ville française est célèbre pour ses biscuits ?",
+    "answer": "Nantes",
+    "badAnswers": [
+      "Lyon",
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
+  },
+  {
+    "id": "1929",
+    "question": "Quel est le nom de l'auteur de 'Belle du Seigneur' ?",
+    "answer": "Albert Cohen",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Cohen a écrit 'Belle du Seigneur' (1968), un roman sur l'amour passionnel et ses contradictions."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un scientifique suédois spécialisé en explosifs ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses tourelles et ses explosifs. Symmetra crée des structures, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "1673",
+    "question": "Quel est le nom de l'auteur de 'La Ferme des animaux' ?",
+    "answer": "George Orwell",
+    "badAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit 'La Ferme des animaux' (1945), une satire allégorique sur le totalitarisme."
+  },
+  {
+    "id": "740",
+    "question": "Quel est le nom de l'auteur de Le Nom de la rose ?",
+    "answer": "Umberto Eco",
+    "badAnswers": [
+      "Italo Calvino",
+      "Dario Fo",
+      "Luigi Pirandello"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1867",
+    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
+    "answer": "Emile Berliner",
+    "badAnswers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Eldridge Johnson"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
+  },
+  {
+    "id": "1497",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
+    "answer": "Neptunium",
+    "badAnswers": [
+      "Nickel",
+      "Nobelium",
+      "Niobium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
+  },
+  {
+    "id": "893",
+    "question": "Quel est le plus grand mammifère marin actuel ?",
+    "answer": "Baleine bleue",
+    "badAnswers": [
+      "Cachalot",
+      "Rorqual commun",
+      "Baleine boréale"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
+  },
+  {
+    "id": "2013",
+    "question": "Quel est le nom de l'auteur de 'Le Ravissement de Lol V. Stein' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Ravissement de Lol V. Stein' (1964), un roman sur l'amour et la perte d'identité."
+  }
+]
