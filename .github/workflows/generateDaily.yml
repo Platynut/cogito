@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   generate:
@@ -22,19 +22,21 @@ jobs:
       - name: Installer les dépendances
         run: npm install
 
-      - name: Vite permissions
-        run: chmod +x node_modules/.bin/vite
-        
       - name: Exécuter le script de génération
         run: node scripts/generateDailyQuestions.js
 
       - name: Construire le projet
         run: npm run build
 
-      - name: Commit & push du JSON
+      - name: Remplacer le contenu de docs avec dist
+        run: |
+          rm -rf docs
+          cp -r dist docs
+
+      - name: Commit & push des fichiers mis à jour
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/dailyQuestions.json
-          git commit -m "MàJ daily questions 📅" || echo "Pas de changement"
+          git add docs public/data/dailyQuestions.json
+          git commit -m "MàJ daily questions et build 📅"
           git push
