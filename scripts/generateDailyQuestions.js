@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const questions = require('../data/questions.json');
-const dailyQuestionsPath = path.join(__dirname, '../data/dailyQuestions.json');
+const questions = require('../public/data/questions.json');
+const dailyQuestionsPath = path.join(__dirname, '../public/data/dailyQuestions.json');
 let currentDaily = [];
 
 if (fs.existsSync(dailyQuestionsPath)) {
