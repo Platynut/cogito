@@ -1,132 +1,132 @@
 [
   {
-    "id": "1039",
-    "question": "Quel est le nom de l'auteur de '1984' ?",
-    "answer": "George Orwell",
+    "id": "1755",
+    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
+    "answer": "Guglielmo Marconi",
     "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
   },
   {
-    "id": "1082",
-    "question": "Quel est le nom du dieu égyptien de la mort et de l'au-delà ?",
-    "answer": "Osiris",
+    "id": "1633",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
+    "answer": "Cavalcade",
     "badAnswers": [
-      "Râ",
-      "Anubis",
-      "Horus"
+      "Lady for a Day",
+      "Little Women",
+      "The Private Life of Henry VIII"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
+  },
+  {
+    "id": "1399",
+    "question": "Quel est le nom de la déesse grecque des arts ?",
+    "answer": "Les Muses",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
     "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Osiris, dans la mythologie égyptienne, est le dieu de la mort et de l'au-delà, souvent représenté comme un homme momifié portant une couronne."
+    "difficulty": "normal",
+    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
   },
   {
-    "id": "1584",
-    "question": "Quel est le nom de l'inventeur du premier phonographe à cylindre ?",
-    "answer": "Thomas Edison",
+    "id": "79",
+    "question": "Quel pays a inventé le sushi ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Alexander Graham Bell",
-      "Emile Berliner",
-      "Guglielmo Marconi"
+      "Chine",
+      "Corée du Sud",
+      "Thaïlande"
     ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Thomas Edison a inventé le phonographe à cylindre en 1877, permettant l'enregistrement et la lecture de sons pour la première fois."
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
   },
   {
-    "id": "801",
-    "question": "Quel est le plus grand rapace nocturne du monde ?",
-    "answer": "Grand-duc d'Europe",
+    "id": "1746",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
+    "answer": "The Bridge on the River Kwai",
     "badAnswers": [
-      "Chouette effraie",
-      "Harfang des neiges",
-      "Hibou moyen-duc"
+      "12 Angry Men",
+      "Sayonara",
+      "Peyton Place"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame de guerre."
+  },
+  {
+    "id": "659",
+    "question": "Quel est le plus grand mollusque du monde ?",
+    "answer": "Calmar colossal",
+    "badAnswers": [
+      "Poulpe géant",
+      "Nautile",
+      "Seiche géante"
     ],
     "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
+    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
   },
   {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
+    "id": "1332",
+    "question": "Quel est le nom de la capitale de Cuba ?",
+    "answer": "La Havane",
     "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
   },
   {
-    "id": "1083",
-    "question": "Quel est le nom de l'auteur de 'Crime et Châtiment' ?",
-    "answer": "Fiodor Dostoïevski",
+    "id": "1341",
+    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
+    "answer": "Igor Sikorsky",
     "badAnswers": [
-      "Léon Tolstoï",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Orville Wright"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
+  },
+  {
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
+    "difficulty": "facile",
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+  },
+  {
+    "id": "1151",
+    "question": "Quel est le nom du dieu grec des rêves ?",
+    "answer": "Morpheus",
+    "badAnswers": [
+      "Hypnos",
+      "Thanatos",
+      "Éros"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Fiodor Dostoïevski a écrit 'Crime et Châtiment' (1866), un roman psychologique explorant la culpabilité et la rédemption à travers l'histoire de Raskolnikov."
-  },
-  {
-    "id": "124",
-    "question": "En quelle année les jeux FIFA Football ont-ils commencé à être édités ?",
-    "answer": "1993",
-    "badAnswers": [
-      "1994",
-      "1998",
-      "2000"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La série 'FIFA Football' a débuté en 1993 avec 'FIFA International Soccer'. Les autres années correspondent à des éditions ultérieures."
-  },
-  {
-    "id": "879",
-    "question": "Dans Death Stranding, quel est le nom de l'organisation que Sam rejoint ?",
-    "answer": "Bridges",
-    "badAnswers": [
-      "Homo Demens",
-      "UCA",
-      "Fragile Express"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bridges est l'organisation que Sam Porter rejoint dans Death Stranding pour reconnecter l'Amérique. Homo Demens est un groupe ennemi, UCA un concept, et Fragile Express une autre entité."
-  },
-  {
-    "id": "747",
-    "question": "Quel est le nom de l'auteur de L'Attrape-cœurs ?",
-    "answer": "J.D. Salinger",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "242",
-    "question": "Klein a déposé une couleur qui porte son nom ...",
-    "answer": "Bleu",
-    "badAnswers": [
-      "Noir",
-      "Rouge",
-      "Violet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
+    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
   }
 ]
