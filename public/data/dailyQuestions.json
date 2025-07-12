@@ -1,132 +1,132 @@
 [
   {
-    "id": "1182",
-    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
-    "answer": "Charlotte Brontë",
+    "id": "1039",
+    "question": "Quel est le nom de l'auteur de '1984' ?",
+    "answer": "George Orwell",
     "badAnswers": [
-      "Emily Brontë",
-      "Anne Brontë",
-      "Jane Austen"
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
+  },
+  {
+    "id": "1082",
+    "question": "Quel est le nom du dieu égyptien de la mort et de l'au-delà ?",
+    "answer": "Osiris",
+    "badAnswers": [
+      "Râ",
+      "Anubis",
+      "Horus"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Osiris, dans la mythologie égyptienne, est le dieu de la mort et de l'au-delà, souvent représenté comme un homme momifié portant une couronne."
+  },
+  {
+    "id": "1584",
+    "question": "Quel est le nom de l'inventeur du premier phonographe à cylindre ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Emile Berliner",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Thomas Edison a inventé le phonographe à cylindre en 1877, permettant l'enregistrement et la lecture de sons pour la première fois."
+  },
+  {
+    "id": "801",
+    "question": "Quel est le plus grand rapace nocturne du monde ?",
+    "answer": "Grand-duc d'Europe",
+    "badAnswers": [
+      "Chouette effraie",
+      "Harfang des neiges",
+      "Hibou moyen-duc"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
+  },
+  {
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
+    "badAnswers": [
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "1083",
+    "question": "Quel est le nom de l'auteur de 'Crime et Châtiment' ?",
+    "answer": "Fiodor Dostoïevski",
+    "badAnswers": [
+      "Léon Tolstoï",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Charlotte Brontë a écrit 'Jane Eyre' (1847), un roman sur une gouvernante indépendante et son histoire d'amour avec Mr. Rochester."
+    "description": "Fiodor Dostoïevski a écrit 'Crime et Châtiment' (1866), un roman psychologique explorant la culpabilité et la rédemption à travers l'histoire de Raskolnikov."
   },
   {
-    "id": "1403",
-    "question": "Quel est le nom de la déesse grecque de la discorde ?",
-    "answer": "Éris",
+    "id": "124",
+    "question": "En quelle année les jeux FIFA Football ont-ils commencé à être édités ?",
+    "answer": "1993",
     "badAnswers": [
-      "Némésis",
-      "Athéna",
-      "Héra"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
-  },
-  {
-    "id": "878",
-    "question": "Quel est le plus grand reptile aquatique actuel ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Alligator du Mississippi",
-      "Caiman noir",
-      "Tortue luth"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
-  },
-  {
-    "id": "554",
-    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la lune qui menace Termina ?",
-    "answer": "Lune",
-    "badAnswers": [
-      "Epona",
-      "Tatl",
-      "Skull Kid"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans The Legend of Zelda: Majora's Mask, la Lune menace de s'écraser sur Termina en trois jours, déclenchant l'intrigue principale. Epona est le cheval de Link, Tatl sa fée, et Skull Kid l'antagoniste principal."
-  },
-  {
-    "id": "515",
-    "question": "Dans God of War Ragnarök, quel est le nom du royaume des nains ?",
-    "answer": "Svartalfheim",
-    "badAnswers": [
-      "Asgard",
-      "Midgard",
-      "Jötunheim"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Svartalfheim est le royaume des nains dans God of War Ragnarök, connu pour ses forges et ses artisans. Asgard est le royaume des dieux, Midgard celui des humains, et Jötunheim celui des géants."
-  },
-  {
-    "id": "1424",
-    "question": "Quel est le nom de la déesse grecque de la paix ?",
-    "answer": "Irène",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
-  },
-  {
-    "id": "1354",
-    "question": "Quel est le nom de la capitale de la Jamaïque ?",
-    "answer": "Kingston",
-    "badAnswers": [
-      "Montego Bay",
-      "Ocho Rios",
-      "Negril"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Kingston, capitale de la Jamaïque, est un centre culturel connu pour sa musique reggae et son port historique."
-  },
-  {
-    "id": "290",
-    "question": "Quel est le nom de la cinquième partie de JoJo's Bizarre Adventure ?",
-    "answer": "Vento Aureo",
-    "badAnswers": [
-      "Vento Oreo",
-      "Vanto Aureo",
-      "Vento Eureo"
-    ],
-    "category": "Anime et Manga",
-    "difficulty": "facile",
-    "description": "Vento Aureo est la cinquième partie du manga JoJo's Bizarre Adventure de Hirohiko Araki, publiée entre 1995 et 1999. Centrée sur Giorno Giovanna, elle se déroule en Italie et explore le monde de la mafia. Les autres options sont des variations incorrectes du titre italien, qui signifie 'Vent doré'."
-  },
-  {
-    "id": "1666",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Blastoise ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "1994",
+      "1998",
+      "2000"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Blastoise, Pokémon de type eau, est l'évolution finale de Carapuce dans la série Pokémon, équipé de canons à eau."
+    "description": "La série 'FIFA Football' a débuté en 1993 avec 'FIFA International Soccer'. Les autres années correspondent à des éditions ultérieures."
   },
   {
-    "id": "523",
-    "question": "Quel est le plus grand insecte du monde ?",
-    "answer": "Phasme de Carausius morosus",
+    "id": "879",
+    "question": "Dans Death Stranding, quel est le nom de l'organisation que Sam rejoint ?",
+    "answer": "Bridges",
     "badAnswers": [
-      "Scarabée titan",
-      "Sauterelle géante",
-      "Fourmi bulldog"
+      "Homo Demens",
+      "UCA",
+      "Fragile Express"
     ],
-    "category": "Animaux",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Bridges est l'organisation que Sam Porter rejoint dans Death Stranding pour reconnecter l'Amérique. Homo Demens est un groupe ennemi, UCA un concept, et Fragile Express une autre entité."
+  },
+  {
+    "id": "747",
+    "question": "Quel est le nom de l'auteur de L'Attrape-cœurs ?",
+    "answer": "J.D. Salinger",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "242",
+    "question": "Klein a déposé une couleur qui porte son nom ...",
+    "answer": "Bleu",
+    "badAnswers": [
+      "Noir",
+      "Rouge",
+      "Violet"
+    ],
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Le phasme de Carausius morosus peut atteindre 56 cm avec ses pattes, ce qui en fait l'insecte le plus long. Le scarabée titan est massif, la sauterelle géante et la fourmi bulldog sont plus petites."
+    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
   }
 ]
