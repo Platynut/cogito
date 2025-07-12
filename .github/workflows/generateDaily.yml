@@ -11,6 +11,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -25,18 +26,13 @@ jobs:
       - name: Exécuter le script de génération
         run: node scripts/generateDailyQuestions.js
 
-      - name: Construire le projet
-        run: npm run build
+      - name: Construire le projet avec Vite via npx
+        run: npx vite build
 
-      - name: Remplacer le contenu de docs avec dist
-        run: |
-          rm -rf docs
-          cp -r dist docs
-
-      - name: Commit & push des fichiers mis à jour
+      - name: Commit & push du JSON et du build
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs public/data/dailyQuestions.json
-          git commit -m "MàJ daily questions et build 📅"
+          git add public/data/dailyQuestions.json docs
+          git commit -m "MàJ daily questions 📅"
           git push
