@@ -1,132 +1,132 @@
 [
   {
-    "id": "102",
-    "question": "Quel fleuve côtier traverse trois régions différentes et se jette devant le Mont-Saint-Michel ?",
-    "answer": "Le Couesnon",
+    "id": "1182",
+    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
+    "answer": "Charlotte Brontë",
     "badAnswers": [
-      "La Sélune",
-      "La Vire",
-      "La Rance"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Couesnon est un fleuve qui traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel. La Sélune, la Vire et la Rance sont d'autres cours d'eau de la région."
-  },
-  {
-    "id": "85",
-    "question": "Quelle ville française est célèbre pour ses biscuits ?",
-    "answer": "Nantes",
-    "badAnswers": [
-      "Lyon",
-      "Bordeaux",
-      "Strasbourg"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
-  },
-  {
-    "id": "1929",
-    "question": "Quel est le nom de l'auteur de 'Belle du Seigneur' ?",
-    "answer": "Albert Cohen",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Emily Brontë",
+      "Anne Brontë",
+      "Jane Austen"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Cohen a écrit 'Belle du Seigneur' (1968), un roman sur l'amour passionnel et ses contradictions."
+    "description": "Charlotte Brontë a écrit 'Jane Eyre' (1847), un roman sur une gouvernante indépendante et son histoire d'amour avec Mr. Rochester."
   },
   {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un scientifique suédois spécialisé en explosifs ?",
-    "answer": "Torbjörn",
+    "id": "1403",
+    "question": "Quel est le nom de la déesse grecque de la discorde ?",
+    "answer": "Éris",
     "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
+      "Némésis",
+      "Athéna",
+      "Héra"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
+  },
+  {
+    "id": "878",
+    "question": "Quel est le plus grand reptile aquatique actuel ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Alligator du Mississippi",
+      "Caiman noir",
+      "Tortue luth"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
+  },
+  {
+    "id": "554",
+    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la lune qui menace Termina ?",
+    "answer": "Lune",
+    "badAnswers": [
+      "Epona",
+      "Tatl",
+      "Skull Kid"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses tourelles et ses explosifs. Symmetra crée des structures, Moira est une généticienne, et Mei utilise la cryogénie."
+    "description": "Dans The Legend of Zelda: Majora's Mask, la Lune menace de s'écraser sur Termina en trois jours, déclenchant l'intrigue principale. Epona est le cheval de Link, Tatl sa fée, et Skull Kid l'antagoniste principal."
   },
   {
-    "id": "1673",
-    "question": "Quel est le nom de l'auteur de 'La Ferme des animaux' ?",
-    "answer": "George Orwell",
+    "id": "515",
+    "question": "Dans God of War Ragnarök, quel est le nom du royaume des nains ?",
+    "answer": "Svartalfheim",
     "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
+      "Asgard",
+      "Midgard",
+      "Jötunheim"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Svartalfheim est le royaume des nains dans God of War Ragnarök, connu pour ses forges et ses artisans. Asgard est le royaume des dieux, Midgard celui des humains, et Jötunheim celui des géants."
+  },
+  {
+    "id": "1424",
+    "question": "Quel est le nom de la déesse grecque de la paix ?",
+    "answer": "Irène",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
+  },
+  {
+    "id": "1354",
+    "question": "Quel est le nom de la capitale de la Jamaïque ?",
+    "answer": "Kingston",
+    "badAnswers": [
+      "Montego Bay",
+      "Ocho Rios",
+      "Negril"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "George Orwell a écrit 'La Ferme des animaux' (1945), une satire allégorique sur le totalitarisme."
+    "description": "Kingston, capitale de la Jamaïque, est un centre culturel connu pour sa musique reggae et son port historique."
   },
   {
-    "id": "740",
-    "question": "Quel est le nom de l'auteur de Le Nom de la rose ?",
-    "answer": "Umberto Eco",
+    "id": "290",
+    "question": "Quel est le nom de la cinquième partie de JoJo's Bizarre Adventure ?",
+    "answer": "Vento Aureo",
     "badAnswers": [
-      "Italo Calvino",
-      "Dario Fo",
-      "Luigi Pirandello"
+      "Vento Oreo",
+      "Vanto Aureo",
+      "Vento Eureo"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
+    "category": "Anime et Manga",
+    "difficulty": "facile",
+    "description": "Vento Aureo est la cinquième partie du manga JoJo's Bizarre Adventure de Hirohiko Araki, publiée entre 1995 et 1999. Centrée sur Giorno Giovanna, elle se déroule en Italie et explore le monde de la mafia. Les autres options sont des variations incorrectes du titre italien, qui signifie 'Vent doré'."
   },
   {
-    "id": "1867",
-    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
-    "answer": "Emile Berliner",
+    "id": "1666",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Blastoise ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Eldridge Johnson"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Blastoise, Pokémon de type eau, est l'évolution finale de Carapuce dans la série Pokémon, équipé de canons à eau."
   },
   {
-    "id": "1497",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
-    "answer": "Neptunium",
+    "id": "523",
+    "question": "Quel est le plus grand insecte du monde ?",
+    "answer": "Phasme de Carausius morosus",
     "badAnswers": [
-      "Nickel",
-      "Nobelium",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
-  },
-  {
-    "id": "893",
-    "question": "Quel est le plus grand mammifère marin actuel ?",
-    "answer": "Baleine bleue",
-    "badAnswers": [
-      "Cachalot",
-      "Rorqual commun",
-      "Baleine boréale"
+      "Scarabée titan",
+      "Sauterelle géante",
+      "Fourmi bulldog"
     ],
     "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
-  },
-  {
-    "id": "2013",
-    "question": "Quel est le nom de l'auteur de 'Le Ravissement de Lol V. Stein' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Ravissement de Lol V. Stein' (1964), un roman sur l'amour et la perte d'identité."
+    "description": "Le phasme de Carausius morosus peut atteindre 56 cm avec ses pattes, ce qui en fait l'insecte le plus long. Le scarabée titan est massif, la sauterelle géante et la fourmi bulldog sont plus petites."
   }
 ]

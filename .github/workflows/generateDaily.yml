@@ -22,6 +22,9 @@ jobs:
       - name: Installer les dépendances
         run: npm install
 
+      - name: Vite permissions
+        run: chmod +x node_modules/.bin/vite
+        
       - name: Exécuter le script de génération
         run: node scripts/generateDailyQuestions.js
 
