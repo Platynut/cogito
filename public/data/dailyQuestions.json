@@ -1,132 +1,132 @@
 [
   {
-    "id": "1755",
-    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
-    "answer": "Guglielmo Marconi",
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
     "badAnswers": [
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Thomas Edison"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
-  },
-  {
-    "id": "1633",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
-    "answer": "Cavalcade",
-    "badAnswers": [
-      "Lady for a Day",
-      "Little Women",
-      "The Private Life of Henry VIII"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
-  },
-  {
-    "id": "1399",
-    "question": "Quel est le nom de la déesse grecque des arts ?",
-    "answer": "Les Muses",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
-  },
-  {
-    "id": "79",
-    "question": "Quel pays a inventé le sushi ?",
-    "answer": "Japon",
-    "badAnswers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
-  },
-  {
-    "id": "1746",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
-    "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame de guerre."
-  },
-  {
-    "id": "659",
-    "question": "Quel est le plus grand mollusque du monde ?",
-    "answer": "Calmar colossal",
-    "badAnswers": [
-      "Poulpe géant",
-      "Nautile",
-      "Seiche géante"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
-  },
-  {
-    "id": "1332",
-    "question": "Quel est le nom de la capitale de Cuba ?",
-    "answer": "La Havane",
-    "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "3",
+      "4",
+      "2"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
   },
   {
-    "id": "1341",
-    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
-    "answer": "Igor Sikorsky",
+    "id": "1302",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre la polio ?",
+    "answer": "Jonas Salk",
     "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Orville Wright"
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Albert Sabin"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Jonas Salk a développé le premier vaccin injectable contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreux pays."
   },
   {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
+    "id": "662",
+    "question": "Quel est le nom du plus grand lac d'Europe ?",
+    "answer": "Lac Ladoga",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Lac Onega",
+      "Lac Vänern",
+      "Lac Peïpous"
     ],
-    "category": "Livres",
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
+  },
+  {
+    "id": "948",
+    "question": "Dans les comics Batman, comment s'appelle le premier Robin ?",
+    "answer": "Dick Grayson",
+    "badAnswers": [
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dick Grayson est le premier Robin, introduit en 1940, qui devient plus tard Nightwing, un héros indépendant dans l'univers de Batman."
+  },
+  {
+    "id": "916",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
+    "answer": "Héros",
+    "badAnswers": [
+      "Erdrick",
+      "Luminary",
+      "Solo"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
   },
   {
-    "id": "1151",
-    "question": "Quel est le nom du dieu grec des rêves ?",
-    "answer": "Morpheus",
+    "id": "600",
+    "question": "Quel est le nom de la capitale de l'Autralie ?",
+    "answer": "Canberra",
     "badAnswers": [
-      "Hypnos",
-      "Thanatos",
-      "Éros"
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Canberra est la capitale de l'Australie, une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d'autres grandes villes australiennes, mais pas la capitale."
+  },
+  {
+    "id": "392",
+    "question": "Quel est le nom du plus grand désert chaud du monde ?",
+    "answer": "Sahara",
+    "badAnswers": [
+      "Gobi",
+      "Kalahari",
+      "Atacama"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le désert du Sahara, en Afrique du Nord, est le plus grand désert chaud du monde, couvrant environ 9,2 millions de km². Il s’étend sur plusieurs pays, dont l’Égypte et l’Algérie. Le Gobi, le Kalahari et l’Atacama sont plus petits."
+  },
+  {
+    "id": "1722",
+    "question": "Quel est le nom du dieu grec de la lumière ?",
+    "answer": "Apollon",
+    "badAnswers": [
+      "Héphaïstos",
+      "Hermès",
+      "Dionysos"
     ],
     "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Apollon, dieu grec de la lumière, de la musique et de la prophétie, est souvent associé à l'oracle de Delphes."
+  },
+  {
+    "id": "1386",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
+    "answer": "The Deer Hunter",
+    "badAnswers": [
+      "Coming Home",
+      "Midnight Express",
+      "Heaven Can Wait"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1979, un drame poignant sur la guerre du Vietnam."
+  },
+  {
+    "id": "285",
+    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
+    "answer": "Nez",
+    "badAnswers": [
+      "Oreilles",
+      "Menton",
+      "Cou"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
   }
 ]
