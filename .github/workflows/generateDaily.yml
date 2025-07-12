@@ -25,6 +25,9 @@ jobs:
       - name: Exécuter le script de génération
         run: node scripts/generateDailyQuestions.js
 
+      - name: Construire le projet
+        run: npm run build
+
       - name: Commit & push du JSON
         run: |
           git config user.name "github-actions[bot]"
