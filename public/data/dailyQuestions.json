@@ -1,132 +1,132 @@
 [
   {
-    "id": "284",
-    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
-    "answer": "1",
+    "id": "1594",
+    "question": "Quel est le nom de la capitale du Djibouti ?",
+    "answer": "Djibouti",
     "badAnswers": [
-      "3",
-      "4",
-      "2"
+      "Ali Sabieh",
+      "Tadjourah",
+      "Obock"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
+    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
   },
   {
-    "id": "1302",
-    "question": "Quel est le nom de l'inventeur du premier vaccin contre la polio ?",
-    "answer": "Jonas Salk",
+    "id": "1356",
+    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
+    "answer": "John Froelich",
     "badAnswers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Albert Sabin"
+      "Henry Ford",
+      "George Stephenson",
+      "Eli Whitney"
     ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Jonas Salk a développé le premier vaccin injectable contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreux pays."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
   },
   {
-    "id": "662",
-    "question": "Quel est le nom du plus grand lac d'Europe ?",
-    "answer": "Lac Ladoga",
+    "id": "1319",
+    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
+    "answer": "Déméter",
     "badAnswers": [
-      "Lac Onega",
-      "Lac Vänern",
-      "Lac Peïpous"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
-  },
-  {
-    "id": "948",
-    "question": "Dans les comics Batman, comment s'appelle le premier Robin ?",
-    "answer": "Dick Grayson",
-    "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, introduit en 1940, qui devient plus tard Nightwing, un héros indépendant dans l'univers de Batman."
-  },
-  {
-    "id": "916",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
-    "answer": "Héros",
-    "badAnswers": [
-      "Erdrick",
-      "Luminary",
-      "Solo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
-  },
-  {
-    "id": "600",
-    "question": "Quel est le nom de la capitale de l'Autralie ?",
-    "answer": "Canberra",
-    "badAnswers": [
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Canberra est la capitale de l'Australie, une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d'autres grandes villes australiennes, mais pas la capitale."
-  },
-  {
-    "id": "392",
-    "question": "Quel est le nom du plus grand désert chaud du monde ?",
-    "answer": "Sahara",
-    "badAnswers": [
-      "Gobi",
-      "Kalahari",
-      "Atacama"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le désert du Sahara, en Afrique du Nord, est le plus grand désert chaud du monde, couvrant environ 9,2 millions de km². Il s’étend sur plusieurs pays, dont l’Égypte et l’Algérie. Le Gobi, le Kalahari et l’Atacama sont plus petits."
-  },
-  {
-    "id": "1722",
-    "question": "Quel est le nom du dieu grec de la lumière ?",
-    "answer": "Apollon",
-    "badAnswers": [
-      "Héphaïstos",
-      "Hermès",
-      "Dionysos"
+      "Héra",
+      "Aphrodite",
+      "Athéna"
     ],
     "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Apollon, dieu grec de la lumière, de la musique et de la prophétie, est souvent associé à l'oracle de Delphes."
+    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
   },
   {
-    "id": "1386",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
-    "answer": "The Deer Hunter",
+    "id": "790",
+    "question": "Quel est le nom de l'auteur de L'Homme qui rit ?",
+    "answer": "Victor Hugo",
     "badAnswers": [
-      "Coming Home",
-      "Midnight Express",
-      "Heaven Can Wait"
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Cinéma",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1979, un drame poignant sur la guerre du Vietnam."
+    "description": "Victor Hugo a écrit L'Homme qui rit (1869), un roman sur la cruauté sociale à travers l'histoire de Gwynplaine. Dumas, Zola et Flaubert sont d'autres écrivains français, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "285",
-    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
-    "answer": "Nez",
+    "id": "475",
+    "question": "Quel est le nom de l'auteur de Le Rouge et le Noir ?",
+    "answer": "Stendhal",
     "badAnswers": [
-      "Oreilles",
-      "Menton",
-      "Cou"
+      "Victor Hugo",
+      "Émile Zola",
+      "Honoré de Balzac"
     ],
-    "category": "Science",
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Stendhal a écrit Le Rouge et le Noir (1830), un roman psychologique sur l'ambition de Julien Sorel dans la France post-napoléonienne. Hugo, Zola et Balzac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "2043",
+    "question": "Quel est le nom de l'auteur de 'Le Vice-consul' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Vice-consul' (1966), un roman sur l'isolement et les tensions coloniales en Inde."
+  },
+  {
+    "id": "1770",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
+    "answer": "Charles Stark Draper",
+    "badAnswers": [
+      "Elmer Sperry",
+      "Robert Goddard",
+      "Wernher von Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
+  },
+  {
+    "id": "1728",
+    "question": "Quel est le nom de la capitale du Timor oriental ?",
+    "answer": "Dili",
+    "badAnswers": [
+      "Baucau",
+      "Maliana",
+      "Suai"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Dili, capitale du Timor oriental, est une ville côtière connue pour sa statue du Christ Roi et son histoire coloniale."
+  },
+  {
+    "id": "1557",
+    "question": "Quel est le nom du groupe qui a chanté 'Pour Some Sugar on Me' ?",
+    "answer": "Def Leppard",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
+    "description": "'Pour Some Sugar on Me', sorti en 1987 par Def Leppard, est une chanson hard rock tirée de l'album Hysteria."
+  },
+  {
+    "id": "1814",
+    "question": "Quel est le nom de l'auteur de 'Le Tour du monde en quatre-vingts jours' ?",
+    "answer": "Jules Verne",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Jules Verne a écrit 'Le Tour du monde en quatre-vingts jours' (1873), un roman d'aventure sur un pari audacieux."
   }
 ]
