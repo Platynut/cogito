@@ -27,19 +27,6 @@
       "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
     },
     {
-      "id": "143",
-      "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j’en suis super heureuse !' ?",
-      "answer": "Sandrine Rousseau",
-      "badAnswers": [
-        "Marlène Schiappa",
-        "Brigitte Macron",
-        "Camilla Parker Bowles"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Sandrine Rousseau, femme politique française, a fait cette déclaration en 2022. Marlène Schiappa, Brigitte Macron et Camilla Parker Bowles n'ont pas tenu ces propos."
-    },
-    {
       "id": "163",
       "question": "Qui a été élu 'Personnalité de l’année 2022' par le magazine américain Time ?",
       "answer": "Volodymyr Zelensky",
@@ -80,7 +67,7 @@
     },
     {
       "id": "267",
-      "question": "Quelle crise économique a touché le Sri Lanka en 2022 ?",
+      "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
       "answer": "Crise économique",
       "badAnswers": [
         "Crise politique",
@@ -144,17 +131,69 @@
       "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
     },
     {
-      "id": "349",
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "answer": "Éléphant de savane",
+      "id": "901",
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "answer": "La peau",
       "badAnswers": [
-        "Rhinocéros blanc",
-        "Hippopotame",
-        "Girafe"
+        "Le foie",
+        "Le cerveau",
+        "Le cœur"
       ],
-      "category": "Animaux",
+      "category": "Anatomie",
+      "difficulty": "normal",
+      "description": "La peau est le plus grand organe du corps humain, couvrant environ 2 m² chez un adulte et jouant un rôle essentiel de protection et de régulation thermique."
+    },
+    {
+      "id": "902",
+      "question": "Combien de vertèbres compose la colonne vertébrale humaine ?",
+      "answer": "33",
+      "badAnswers": [
+        "24",
+        "28",
+        "36"
+      ],
+      "category": "Anatomie",
+      "difficulty": "difficile",
+      "description": "La colonne vertébrale humaine est composée de 33 vertèbres, réparties entre cervicales, thoraciques, lombaires, sacrées et coccygiennes."
+    },
+    {
+      "id": "903",
+      "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
+      "answer": "Le grand fessier",
+      "badAnswers": [
+        "Le biceps",
+        "Le quadriceps",
+        "Le deltoïde"
+      ],
+      "category": "Anatomie",
+      "difficulty": "normal",
+      "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
+    },
+    {
+      "id": "904",
+      "question": "Quel organe est principalement responsable de la filtration du sang ?",
+      "answer": "Le rein",
+      "badAnswers": [
+        "Le foie",
+        "Le cœur",
+        "La rate"
+      ],
+      "category": "Anatomie",
       "difficulty": "facile",
-      "description": "L'éléphant de savane est le plus grand mammifère terrestre, pouvant atteindre 6 tonnes et 4 mètres de haut. C'est une espèce emblématique d'Afrique. Le rhinocéros blanc, l'hippopotame et la girafe sont également grands, mais aucun ne dépasse l'éléphant de savane en taille."
+      "description": "Les reins filtrent le sang pour éliminer les déchets et maintenir l'équilibre hydrique et électrolytique du corps via l'urine."
+    },
+    {
+      "id": "905",
+      "question": "Quel est le plus petit os du corps humain ?",
+      "answer": "L'étrier",
+      "badAnswers": [
+        "Le marteau",
+        "L'enclume",
+        "Le scaphoïde"
+      ],
+      "category": "Anatomie",
+      "difficulty": "facile",
+      "description": "L'étrier, situé dans l'oreille moyenne, est le plus petit os du corps humain, mesurant environ 2,5 mm de long. Le marteau et l'enclume sont également des os de l'oreille moyenne, mais plus grands."
     },
     {
       "id": "367",
@@ -263,7 +302,7 @@
     {
       "id": "466",
       "question": "Quel est le plus grand requin prédateur du monde ?",
-      "answer": "Grand requin blanc",
+      "answer": "Requin blanc",
       "badAnswers": [
         "Requin-tigre",
         "Requin-marteau",
@@ -301,7 +340,7 @@
     },
     {
       "id": "514",
-      "question": "Quel est le plus grand herbivore terrestre du monde ?",
+      "question": "Quel est le plus gros herbivore terrestre du monde ?",
       "answer": "Rhinocéros blanc",
       "badAnswers": [
         "Éléphant",
@@ -310,33 +349,20 @@
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le rhinocéros blanc est le plus grand herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+      "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
     },
     {
-      "id": "523",
-      "question": "Quel est le plus grand insecte du monde ?",
-      "answer": "Phasme de Carausius morosus",
+      "id": "522",
+      "question": "Quel est le plus grand mammifère volant du monde ?",
+      "answer": "Roussette géante",
       "badAnswers": [
-        "Scarabée titan",
-        "Sauterelle géante",
-        "Fourmi bulldog"
+        "Chauve-souris frugivore",
+        "Chauve-souris vampire",
+        "Chauve-souris à nez de cochon"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le phasme de Carausius morosus peut atteindre 56 cm avec ses pattes, ce qui en fait l'insecte le plus long. Le scarabée titan est massif, la sauterelle géante et la fourmi bulldog sont plus petites."
-    },
-    {
-      "id": "533",
-      "question": "Quel est le plus grand reptile marin du monde ?",
-      "answer": "Tortue luth",
-      "badAnswers": [
-        "Crocodile marin",
-        "Iguane marin",
-        "Serpent de mer"
-      ],
-      "category": "Animaux",
-      "difficulty": "normal",
-      "description": "La tortue luth est le plus grand reptile marin, pouvant atteindre 2 mètres de long et peser jusqu'à 900 kg. Le crocodile marin est semi-aquatique, l'iguane marin et le serpent de mer sont plus petits."
+      "description": "La roussette géante, ou chauve-souris frugivore, est le plus grand mammifère volant, avec une envergure pouvant atteindre 1,5 mètre. Les autres chauves-souris sont plus petites."
     },
     {
       "id": "543",
@@ -365,19 +391,6 @@
       "description": "La salamandre géante de Chine est le plus grand amphibien, pouvant atteindre 1,8 mètre de long. La grenouille Goliath, le crapaud buffle et le triton à crête sont plus petits."
     },
     {
-      "id": "589",
-      "question": "Quel est le plus grand arachnide du monde ?",
-      "answer": "Mygale Goliath",
-      "badAnswers": [
-        "Scorpion empereur",
-        "Araignée-loup",
-        "Tarantule à pattes rouges"
-      ],
-      "category": "Animaux",
-      "difficulty": "normal",
-      "description": "La mygale Goliath est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de 175 g. Le scorpion empereur, l'araignée-loup et la tarantule à pattes rouges sont plus petits."
-    },
-    {
       "id": "605",
       "question": "Quel est le plus grand mammifère terrestre du monde ?",
       "answer": "Éléphant de savane",
@@ -393,28 +406,15 @@
     {
       "id": "612",
       "question": "Quel est le plus grand oiseau de proie du monde ?",
-      "answer": "Aigle harpie",
+      "answer": "Condor des Andes",
       "badAnswers": [
-        "Condor des Andes",
+        "Aigle harpie",
         "Vautour royal",
         "Aigle royal"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "L'aigle harpie est le plus grand oiseau de proie, avec une envergure de 2 mètres et des serres puissantes, vivant en Amérique du Sud. Le condor des Andes est un charognard, et le vautour royal et l'aigle royal sont plus petits."
-    },
-    {
-      "id": "620",
-      "question": "Quel est le plus grand crustacé du monde ?",
-      "answer": "Crabe des cocotiers",
-      "badAnswers": [
-        "Homard américain",
-        "Crabe royal",
-        "Araignée de mer japonaise"
-      ],
-      "category": "Animaux",
-      "difficulty": "normal",
-      "description": "Le crabe des cocotiers est le plus grand crustacé terrestre, pouvant atteindre 1 mètre d'envergure et peser 4 kg. Le homard américain, le crabe royal et l'araignée de mer japonaise sont plus petits."
+      "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
     },
     {
       "id": "629",
@@ -483,21 +483,34 @@
     },
     {
       "id": "678",
-      "question": "Quel est le plus grand poisson osseux du monde ?",
-      "answer": "Poisson-lune",
+      "question": "Quel est le plus long poisson osseux du monde ?",
+      "answer": "Régalec",
       "badAnswers": [
-        "Requin-baleine",
+        "Poisson-lune",
         "Thon rouge",
         "Espadon"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le poisson-lune (Mola mola) est le plus grand poisson osseux, pouvant peser jusqu'à 2 300 kg. Le requin-baleine est un poisson cartilagineux, et le thon rouge et l'espadon sont plus petits."
+      "description": "Le régalec (Regalecus glesne) est le plus long poisson osseux connu, pouvant mesurer jusqu'à 11 à 17 mètres, bien qu'il soit mince et léger comparé à d'autres poissons comme le poisson-lune."
+    },
+    {
+      "id": "679",
+      "question": "Quel est le plus lourd poisson osseux du monde ?",
+      "answer": "Poisson-lune",
+      "badAnswers": [
+        "Régalec",
+        "Thon rouge",
+        "Espadon"
+      ],
+      "category": "Animaux",
+      "difficulty": "normal",
+      "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
     },
     {
       "id": "682",
       "question": "Quel est le plus grand oiseau aquatique du monde ?",
-      "answer": "Pélican à bec tacheté",
+      "answer": "Pélican frisé",
       "badAnswers": [
         "Cygne noir",
         "Albatros hurleur",
@@ -505,20 +518,20 @@
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le pélican à bec tacheté est le plus grand oiseau aquatique, avec une envergure atteignant 3,5 mètres. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits."
+      "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
     },
     {
-      "id": "685",
-      "question": "Quel est le plus grand insecte du monde ?",
-      "answer": "Phasme titan",
+      "id": "688",
+      "question": "Quel est le plus grand mammifère volant du monde ?",
+      "answer": "Roussette à couronne dorée",
       "badAnswers": [
-        "Scarabée Goliath",
-        "Criquet weta",
-        "Mante orchidée"
+        "Chauve-souris frugivore",
+        "Chauve-souris vampire",
+        "Chauve-souris à nez de cochon"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le phasme titan (Carausius morosus) est le plus grand insecte, pouvant atteindre 60 cm avec ses pattes. Le scarabée Goliath, le criquet weta et la mante orchidée sont plus petits."
+      "description": "La roussette à couronne dorée (Acerodon jubatus) est le plus grand mammifère volant, avec une envergure pouvant atteindre 1,7 mètre. Les autres chauves-souris mentionnées sont plus petites."
     },
     {
       "id": "691",
@@ -560,21 +573,21 @@
       "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
     },
     {
-      "id": "733azertyuiop",
-      "question": "Quel est le plus grand mammifère terrestre jamais recensé ?",
-      "answer": "Dinosaure Argentinosaurus",
+      "id": "722",
+      "question": "Quel est le plus grand mammifère terrestre préhistorique connu ?",
+      "answer": "Mammouth laineux",
       "badAnswers": [
-        "Baleine bleue",
-        "Éléphant de savane",
-        "Rhinocéros blanc"
+        "Saber-tooth tiger",
+        "Megatherium",
+        "Mastodonte"
       ],
       "category": "Animaux",
       "difficulty": "difficile",
-      "description": "L'Argentinosaurus, un dinosaure sauropode, est le plus grand mammifère terrestre connu, pouvant atteindre 35 mètres de long. La baleine bleue est marine, et l'éléphant et le rhinocéros sont plus petits."
+      "description": "Le mammouth laineux est le plus grand mammifère terrestre préhistorique, pouvant atteindre 4 mètres de haut et peser jusqu'à 12 tonnes. Le tigre à dents de sabre, le mégathérium et le mastodonte sont plus petits."
     },
     {
       "id": "741",
-      "question": "Quel est le plus grand oiseau préhistorique connu ?",
+      "question": "Quel est le plus grand oiseau volant préhistorique connu ?",
       "answer": "Argentavis",
       "badAnswers": [
         "Ptérodactyle",
@@ -614,15 +627,15 @@
     {
       "id": "769",
       "question": "Quel est le plus grand arachnide du monde ?",
-      "answer": "Thérèse géante",
+      "answer": "Tarantule Goliath",
       "badAnswers": [
-        "Tarantule Goliath",
         "Scorpion empereur",
-        "Araignée-loup"
+        "Araignée-loup",
+        "Veuve noire"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "La Thérèse géante (Theraphosa blondi), ou tarantule Goliath, est le plus grand arachnide, avec une envergure atteignant 30 cm. Le scorpion empereur et l'araignée-loup sont plus petits."
+      "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
     },
     {
       "id": "776",
@@ -677,8 +690,8 @@
       "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
     },
     {
-      "id": "805azertyuiop",
-      "question": "Quel est le plus grand reptile terrestre préhistorique ?",
+      "id": "805",
+      "question": "Quel est le plus grand reptile terrestre préhistorique connu ?",
       "answer": "Argentinosaurus",
       "badAnswers": [
         "Tyrannosaurus rex",
@@ -687,7 +700,7 @@
       ],
       "category": "Animaux",
       "difficulty": "difficile",
-      "description": "L'Argentinosaurus, un dinosaure sauropode, est le plus grand reptile terrestre préhistorique, pouvant atteindre 35 mètres. Tyrannosaurus, Spinosaurus et Velociraptor sont plus petits."
+      "description": "L'Argentinosaurus est l'un des plus grands dinosaures connus, pouvant mesurer jusqu'à 35 mètres de long et peser environ 80 tonnes. Bien qu'il soit un reptile préhistorique, il est important de noter qu'il appartient au groupe des sauropodes. Tyrannosaurus rex, Spinosaurus et Velociraptor sont plus petits et appartiennent à d'autres groupes de dinosaures."
     },
     {
       "id": "824",
@@ -701,19 +714,6 @@
       "category": "Animaux",
       "difficulty": "normal",
       "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
-    },
-    {
-      "id": "827",
-      "question": "Quel est le plus grand mammifère terrestre actuel ?",
-      "answer": "Rhinocéros blanc",
-      "badAnswers": [
-        "Éléphant de savane",
-        "Girafe",
-        "Hippopotame"
-      ],
-      "category": "Animaux",
-      "difficulty": "facile",
-      "description": "Le rhinocéros blanc est le plus grand mammifère terrestre actuel, pouvant peser jusqu'à 2,3 tonnes. L'éléphant, la girafe et l'hippopotame sont plus petits en poids."
     },
     {
       "id": "838",
@@ -757,7 +757,7 @@
     {
       "id": "863",
       "question": "Quel est le plus grand crustacé du monde ?",
-      "answer": "Crabe royal du Japon",
+      "answer": "Araignée de mer japonaise",
       "badAnswers": [
         "Homard américain",
         "Crabe des cocotiers",
@@ -765,7 +765,7 @@
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "Le crabe royal du Japon est le plus grand crustacé, avec une envergure pouvant atteindre 3,8 mètres. Le homard, le crabe des cocotiers et la crevette tigrée sont plus petits."
+      "description": "L'araignée de mer japonaise (Macrocheira kaempferi) est le plus grand crustacé du monde, avec une envergure pouvant atteindre 3,7 mètres pattes étendues. Le homard américain est le plus massif en poids, mais plus petit en taille. Le crabe des cocotiers et la crevette tigrée sont également plus petits."
     },
     {
       "id": "869",
@@ -792,19 +792,6 @@
       "category": "Animaux",
       "difficulty": "normal",
       "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
-    },
-    {
-      "id": "887",
-      "question": "Quel est le plus grand mollusque du monde ?",
-      "answer": "Calmar géant",
-      "badAnswers": [
-        "Poulpe commun",
-        "Huître perlière",
-        "Moule géante"
-      ],
-      "category": "Animaux",
-      "difficulty": "normal",
-      "description": "Le calmar géant est le plus grand mollusque, pouvant atteindre 18 mètres. Le poulpe, l'huître et la moule sont plus petits."
     },
     {
       "id": "893",
@@ -846,30 +833,43 @@
       "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
     },
     {
-      "id": "937",
-      "question": "Pourquoi une hyène tachetée pourrait-elle 'rire' ?",
-      "answer": "Nervosité",
+      "id": "930",
+      "question": "Quel est le nom collectif pour un groupe de lions ?",
+      "answer": "Fierté",
       "badAnswers": [
-        "Excitation",
-        "Agressivité",
-        "Épuisement"
+        "Meute",
+        "Horde",
+        "Tribu"
       ],
       "category": "Animaux",
-      "difficulty": "normal",
-      "description": "Le 'rire' de la hyène tachetée est en réalité un vocalisme émis dans des situations de stress ou de nervosité, comme lors de conflits sociaux ou de menaces."
+      "difficulty": "facile",
+      "description": "Un groupe de lions est appelé une 'fierté', un terme qui souligne leur nature sociale et leur structure familiale. Les autres termes, comme 'meute' ou 'horde', sont utilisés pour d'autres animaux sociaux."
+    },
+    {
+      "id": "934",
+      "question": "Quel est le nom collectif pour un groupe de dauphins ?",
+      "answer": "Pod",
+      "badAnswers": [
+        "Baleine",
+        "Banc",
+        "Horde"
+      ],
+      "category": "Animaux",
+      "difficulty": "facile",
+      "description": "Un groupe de dauphins est appelé un 'pod', un terme qui reflète leur nature sociale et leur comportement grégaire. Les autres termes, comme 'banc' ou 'horde', sont utilisés pour d'autres espèces marines."
     },
     {
       "id": "977",
       "question": "Quel est le nom collectif pour un groupe de rats ?",
-      "answer": "Mischief",
+      "answer": "Colonie",
       "badAnswers": [
         "Meute",
-        "Course",
-        "Dérive"
+        "Nuée",
+        "Essaim"
       ],
       "category": "Animaux",
       "difficulty": "normal",
-      "description": "En anglais, un groupe de rats est appelé un 'mischief', un terme qui reflète leur comportement souvent espiègle et destructeur."
+      "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
     },
     {
       "id": "1008",
@@ -883,19 +883,6 @@
       "category": "Animaux",
       "difficulty": "facile",
       "description": "Le panda est le symbole du Fonds mondial pour la nature (WWF), choisi pour représenter la conservation des espèces menacées depuis la création de l'organisation en 1961."
-    },
-    {
-      "id": "1021",
-      "question": "Quel est le plus grand mammifère terrestre ?",
-      "answer": "Éléphant",
-      "badAnswers": [
-        "Girafe",
-        "Rhinocéros",
-        "Hippopotame"
-      ],
-      "category": "Animaux",
-      "difficulty": "facile",
-      "description": "L'éléphant, bien que massif, n'est pas le plus grand mammifère terrestre (c'est le rhinocéros blanc), mais il est souvent confondu en raison de sa taille imposante."
     },
     {
       "id": "290",
@@ -922,19 +909,6 @@
       "category": "Anime et Manga",
       "difficulty": "normal",
       "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
-    },
-    {
-      "id": "939",
-      "question": "Quel groupe de musique japonais a été formé pour produire la musique de l'anime Guilty Crown ?",
-      "answer": "Egoist",
-      "badAnswers": [
-        "Goose house",
-        "Babymetal",
-        "Garnidelia"
-      ],
-      "category": "Anime et Manga",
-      "difficulty": "normal",
-      "description": "Egoist est un groupe fictif créé pour Guilty Crown, dirigé par le compositeur Supercell. La chanteuse Chelly prête sa voix aux chansons emblématiques de l'anime."
     },
     {
       "id": "982",
@@ -987,19 +961,6 @@
       "category": "Art",
       "difficulty": "facile",
       "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
-    },
-    {
-      "id": "77",
-      "question": "Qui a peint 'La Jeune Fille à la perle' ?",
-      "answer": "Johannes Vermeer",
-      "badAnswers": [
-        "Rembrandt",
-        "Pierre-Auguste Renoir",
-        "Claude Monet"
-      ],
-      "category": "Art",
-      "difficulty": "normal",
-      "description": "Souvent appelée la 'Mona Lisa du Nord', cette toile du 17e siècle est devenue un icône de l'art hollandais bien que son modèle reste mystérieux."
     },
     {
       "id": "87",
@@ -1055,7 +1016,7 @@
     },
     {
       "id": "199",
-      "question": "Trois études pour un autoportrait est un tableau de ...",
+      "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
       "answer": "Francis Bacon",
       "badAnswers": [
         "Pablo Picasso",
@@ -1184,19 +1145,6 @@
       "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
     },
     {
-      "id": "430",
-      "question": "Quel artiste a peint Les Tournesols ?",
-      "answer": "Vincent van Gogh",
-      "badAnswers": [
-        "Claude Monet",
-        "Paul Gauguin",
-        "Henri Matisse"
-      ],
-      "category": "Art",
-      "difficulty": "facile",
-      "description": "Les Tournesols est une série de tableaux peints par Vincent van Gogh en 1888–1889, représentant des bouquets de tournesols dans un style post-impressionniste. Monet, Gauguin et Matisse sont d’autres peintres, mais n’ont pas créé cette œuvre."
-    },
-    {
       "id": "440",
       "question": "Quel artiste a créé la sculpture Le Penseur ?",
       "answer": "Auguste Rodin",
@@ -1211,16 +1159,16 @@
     },
     {
       "id": "450",
-      "question": "Quel artiste a peint La Naissance de Vénus ?",
-      "answer": "William-Adolphe Bouguereau",
+      "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
+      "answer": "Sandro Botticelli",
       "badAnswers": [
-        "Sandro Botticelli",
+        "William-Adolphe Bouguereau",
         "Gustave Courbet",
         "Eugène Delacroix"
       ],
       "category": "Art",
       "difficulty": "normal",
-      "description": "William-Adolphe Bouguereau a peint La Naissance de Vénus en 1879, une œuvre néoclassique représentant la déesse émergeant de la mer. Bien que Botticelli ait également peint une Naissance de Vénus célèbre, Bouguereau est une réponse valide dans ce contexte. Courbet et Delacroix sont d’autres peintres, mais n’ont pas créé cette œuvre spécifique."
+      "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
     },
     {
       "id": "469",
@@ -1275,17 +1223,17 @@
       "description": "La Laitière (vers 1658) de Johannes Vermeer est une peinture baroque représentant une servante versant du lait. C'est une œuvre emblématique de l'âge d'or hollandais. Rembrandt, Hals et de Hooch sont d'autres peintres hollandais, mais n'ont pas peint ce tableau."
     },
     {
-      "id": "517",
-      "question": "Quel artiste a peint La Nuit étoilée ?",
-      "answer": "Vincent van Gogh",
+      "id": "515",
+      "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
+      "answer": "Édouard Manet",
       "badAnswers": [
         "Claude Monet",
-        "Paul Gauguin",
+        "Pierre-Auguste Renoir",
         "Henri Matisse"
       ],
       "category": "Art",
-      "difficulty": "facile",
-      "description": "La Nuit étoilée (1889) de Vincent van Gogh est une œuvre post-impressionniste représentant un ciel nocturne tourbillonnant. C'est une peinture emblématique. Monet, Gauguin et Matisse sont d'autres artistes, mais n'ont pas peint ce tableau."
+      "difficulty": "normal",
+      "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
     },
     {
       "id": "526",
@@ -1327,19 +1275,6 @@
       "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
     },
     {
-      "id": "565",
-      "question": "Quel artiste a peint Le Cri ?",
-      "answer": "Edvard Munch",
-      "badAnswers": [
-        "Gustav Klimt",
-        "Egon Schiele",
-        "Wassily Kandinsky"
-      ],
-      "category": "Art",
-      "difficulty": "facile",
-      "description": "Le Cri (1893) d'Edvard Munch est une œuvre expressionniste représentant l'angoisse humaine. C'est une icône de l'art moderne. Klimt, Schiele et Kandinsky sont d'autres artistes, mais n'ont pas peint ce tableau."
-    },
-    {
       "id": "574",
       "question": "Quel artiste a peint Guernica ?",
       "answer": "Pablo Picasso",
@@ -1366,19 +1301,6 @@
       "description": "La Liberté guidant le peuple (1830) d'Eugène Delacroix est une peinture romantique célébrant la Révolution de 1830. David, Géricault et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
     },
     {
-      "id": "592",
-      "question": "Quel artiste a peint Les Nymphéas ?",
-      "answer": "Claude Monet",
-      "badAnswers": [
-        "Pierre-Auguste Renoir",
-        "Mary Cassatt",
-        "Edgar Degas"
-      ],
-      "category": "Art",
-      "difficulty": "facile",
-      "description": "Les Nymphéas (1897–1926) de Claude Monet est une série de peintures impressionnistes représentant des nénuphars dans son jardin à Giverny. Renoir, Cassatt et Degas sont d'autres impressionnistes, mais n'ont pas peint cette série."
-    },
-    {
       "id": "607",
       "question": "Quel artiste a peint La Persistance de la mémoire ?",
       "answer": "Salvador Dalí",
@@ -1390,19 +1312,6 @@
       "category": "Art",
       "difficulty": "facile",
       "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-    },
-    {
-      "id": "614",
-      "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
-      "answer": "Édouard Manet",
-      "badAnswers": [
-        "Claude Monet",
-        "Pierre-Auguste Renoir",
-        "Gustave Courbet"
-      ],
-      "category": "Art",
-      "difficulty": "normal",
-      "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une peinture réaliste controversée pour son époque, montrant une scène de pique-nique audacieuse. Monet, Renoir et Courbet sont d'autres peintres, mais n'ont pas peint ce tableau."
     },
     {
       "id": "646",
@@ -1429,19 +1338,6 @@
       "category": "Art",
       "difficulty": "normal",
       "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
-    },
-    {
-      "id": "669",
-      "question": "Quel artiste a peint Les Ménines ?",
-      "answer": "Diego Velázquez",
-      "badAnswers": [
-        "Francisco Goya",
-        "El Greco",
-        "Bartolomé Esteban Murillo"
-      ],
-      "category": "Art",
-      "difficulty": "normal",
-      "description": "Les Ménines (1656) de Diego Velázquez est une peinture baroque complexe représentant la cour espagnole. Goya, El Greco et Murillo sont d'autres peintres espagnols, mais n'ont pas peint ce tableau."
     },
     {
       "id": "693",
@@ -18512,17 +18408,6 @@
       "description": "Le théorème de Pythagore, attribué au mathématicien grec Pythagore, stipule que dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme (et non au produit) des carrés des deux autres côtés :<br />a² + b² = c²."
     },
     {
-      "id": "966",
-      "question": "Le théorème de Pythagore affirme-t-il que le carré de l'hypoténuse est égal au produit des carrés des deux autres côtés ?",
-      "answer": "Faux",
-      "badAnswers": [
-        "Vrai"
-      ],
-      "category": "Mathématiques",
-      "difficulty": "normal",
-      "description": "Le théorème de Pythagore stipule que dans un triangle rectangle, le carré de l'hypoténuse est égal à la somme (et non au produit) des carrés des deux autres côtés."
-    },
-    {
       "id": "996",
       "question": "Quelle lettre grecque est utilisée pour représenter une sommation en mathématiques ?",
       "answer": "Sigma",
@@ -23175,19 +23060,6 @@
       "category": "Mythologie",
       "difficulty": "facile",
       "description": "Athéna, déesse grecque de la guerre stratégique et de la sagesse, est souvent représentée avec une chouette et une armure."
-    },
-    {
-      "id": "11",
-      "question": "Quel animal est le plus grand mammifère terrestre ?",
-      "answer": "Éléphant d'Afrique",
-      "badAnswers": [
-        "Girafe",
-        "Rhinocéros blanc",
-        "Ours polaire"
-      ],
-      "category": "Nature",
-      "difficulty": "facile",
-      "description": "Pouvant peser jusqu'à 6 tonnes, l'éléphant d'Afrique dépasse en taille tous les autres mammifères terrestres actuels."
     },
     {
       "id": "27",
