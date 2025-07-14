@@ -1,132 +1,132 @@
 [
   {
-    "id": "1594",
-    "question": "Quel est le nom de la capitale du Djibouti ?",
-    "answer": "Djibouti",
+    "id": "1704",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Flareon ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Ali Sabieh",
-      "Tadjourah",
-      "Obock"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
+    "description": "Flareon, Pokémon de type feu, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa puissance ardente."
   },
   {
-    "id": "1356",
-    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
-    "answer": "John Froelich",
+    "id": "1360",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
+    "answer": "Néodyme",
     "badAnswers": [
-      "Henry Ford",
-      "George Stephenson",
-      "Eli Whitney"
+      "Nickel",
+      "Niobium",
+      "Nobelium"
     ],
-    "category": "Histoire",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
+    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
   },
   {
-    "id": "1319",
-    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
-    "answer": "Déméter",
+    "id": "190",
+    "question": "Quelle activité est directement associée à la danse 'Pasodoble' ?",
+    "answer": "La corrida",
     "badAnswers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna"
+      "Le carnaval",
+      "La plage",
+      "L'opéra"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
-  },
-  {
-    "id": "790",
-    "question": "Quel est le nom de l'auteur de L'Homme qui rit ?",
-    "answer": "Victor Hugo",
-    "badAnswers": [
-      "Alexandre Dumas",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Littérature",
+    "category": "Danse",
     "difficulty": "normal",
-    "description": "Victor Hugo a écrit L'Homme qui rit (1869), un roman sur la cruauté sociale à travers l'histoire de Gwynplaine. Dumas, Zola et Flaubert sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "description": "Le pasodoble, danse espagnole, s'inspire des mouvements du torero lors d'une corrida. Les autres propositions n'ont aucun lien avec cette danse."
   },
   {
-    "id": "475",
-    "question": "Quel est le nom de l'auteur de Le Rouge et le Noir ?",
-    "answer": "Stendhal",
+    "id": "1177",
+    "question": "Quel est le nom de l'auteur de 'Les Aventures de Huckleberry Finn' ?",
+    "answer": "Mark Twain",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Honoré de Balzac"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Stendhal a écrit Le Rouge et le Noir (1830), un roman psychologique sur l'ambition de Julien Sorel dans la France post-napoléonienne. Hugo, Zola et Balzac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "2043",
-    "question": "Quel est le nom de l'auteur de 'Le Vice-consul' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Vice-consul' (1966), un roman sur l'isolement et les tensions coloniales en Inde."
-  },
-  {
-    "id": "1770",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
-    "answer": "Charles Stark Draper",
-    "badAnswers": [
-      "Elmer Sperry",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
-  },
-  {
-    "id": "1728",
-    "question": "Quel est le nom de la capitale du Timor oriental ?",
-    "answer": "Dili",
-    "badAnswers": [
-      "Baucau",
-      "Maliana",
-      "Suai"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Dili, capitale du Timor oriental, est une ville côtière connue pour sa statue du Christ Roi et son histoire coloniale."
-  },
-  {
-    "id": "1557",
-    "question": "Quel est le nom du groupe qui a chanté 'Pour Some Sugar on Me' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Pour Some Sugar on Me', sorti en 1987 par Def Leppard, est une chanson hard rock tirée de l'album Hysteria."
-  },
-  {
-    "id": "1814",
-    "question": "Quel est le nom de l'auteur de 'Le Tour du monde en quatre-vingts jours' ?",
-    "answer": "Jules Verne",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Henry James"
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Le Tour du monde en quatre-vingts jours' (1873), un roman d'aventure sur un pari audacieux."
+    "description": "Mark Twain a écrit 'Les Aventures de Huckleberry Finn' (1884), un roman sur l'amitié et la liberté dans l'Amérique du XIXe siècle."
+  },
+  {
+    "id": "1",
+    "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Australie",
+      "Nouvelle-Zélande",
+      "Angleterre"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "Les Springboks représentent l'Afrique du Sud depuis 1906. Leur nom vient de l'antilope springbok, animal emblématique du pays."
+  },
+  {
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Aghanim’s Scepter",
+    "badAnswers": [
+      "Black King Bar",
+      "Divine Rapier",
+      "Heart of Tarrasque"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L’Aghanim’s Scepter est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Black King Bar ou la Divine Rapier, ont d’autres fonctions spécifiques."
+  },
+  {
+    "id": "400",
+    "question": "Quel est le nom du tableau de Pablo Picasso représentant la guerre civile espagnole ?",
+    "answer": "Guernica",
+    "badAnswers": [
+      "Les Demoiselles d’Avignon",
+      "Le Vieil Homme à la guitare",
+      "La Femme qui pleure"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Guernica (1937) de Pablo Picasso est une œuvre cubiste dénonçant les horreurs du bombardement de Guernica pendant la guerre civile espagnole. C’est un symbole anti-guerre. Les autres tableaux sont également de Picasso, mais ils abordent des thèmes différents."
+  },
+  {
+    "id": "901",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "answer": "La peau",
+    "badAnswers": [
+      "Le foie",
+      "Le cerveau",
+      "Le cœur"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "La peau est le plus grand organe du corps humain, couvrant environ 2 m² chez un adulte et jouant un rôle essentiel de protection et de régulation thermique."
+  },
+  {
+    "id": "698",
+    "question": "Quel est le nom de l'auteur de Cent ans de solitude ?",
+    "answer": "Gabriel García Márquez",
+    "badAnswers": [
+      "Mario Vargas Llosa",
+      "Isabel Allende",
+      "Jorge Luis Borges"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Gabriel García Márquez a écrit Cent ans de solitude (1967), un roman de réalisme magique sur la famille Buendía. Vargas Llosa, Allende et Borges sont d'autres écrivains latino-américains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
+    "badAnswers": [
+      "Algérie",
+      "Tunisie",
+      "Égypte"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   }
 ]
