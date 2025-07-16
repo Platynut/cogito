@@ -1,132 +1,132 @@
 [
   {
-    "id": "520",
-    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
-    "answer": "Obi-Wan Kenobi",
+    "id": "371",
+    "question": "Dans Overwatch, quel personnage est un tireur d’élite utilisant un arc ?",
+    "answer": "Hanzo",
     "badAnswers": [
+      "Widowmaker",
+      "Genji",
+      "Ashe"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Hanzo, dans Overwatch, est un tireur d’élite japonais utilisant un arc pour des attaques précises à longue portée. Frère de Genji, il est connu pour son ultime Dragonstrike. Widowmaker utilise un fusil de sniper, Genji des shurikens, et Ashe un fusil à levier."
+  },
+  {
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Max Ernst",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+  },
+  {
+    "id": "1548",
+    "question": "Quel est le nom de la capitale de la Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Freetown, capitale de la Sierra Leone, est une ville portuaire fondée par d'anciens esclaves, connue pour son Cotton Tree historique."
+  },
+  {
+    "id": "2101",
+    "question": "Quel est le nom de l'inventeur du premier système de scanner à ultrasons ?",
+    "answer": "John J. Wild",
+    "badAnswers": [
+      "Ian Donald",
+      "Godfrey Hounsfield",
+      "Raymond Damadian"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "John J. Wild a développé les premières techniques d'imagerie par ultrasons dans les années 1940 pour la médecine."
+  },
+  {
+    "id": "2039",
+    "question": "Quel est le nom de l'inventeur du premier système d'IRM fonctionnel ?",
+    "answer": "Raymond Damadian",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Paul Lauterbur",
+      "Peter Mansfield"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Raymond Damadian a conçu le premier appareil d'IRM en 1977, révolutionnant l'imagerie médicale."
+  },
+  {
+    "id": "672",
+    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
+    "answer": "Qui-Gon Jinn",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
       "Yoda",
-      "Qui-Gon Jinn",
       "Mace Windu"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
   },
   {
-    "id": "999",
-    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
-    "answer": "Les Raisins de la colère",
+    "id": "2038",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) dynamique ?",
+    "answer": "Robert Dennard",
     "badAnswers": [
-      "Hamlet",
-      "Gatsby le Magnifique",
-      "Peter Pan"
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
     ],
-    "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie clé pour les ordinateurs modernes."
   },
   {
-    "id": "549",
-    "question": "Dans Harry Potter, quel est le nom du gardien des clés à Poudlard ?",
-    "answer": "Rubeus Hagrid",
+    "id": "373",
+    "question": "Dans Star Wars, quel est le nom de l’ordre monastique qui utilise la Force ?",
+    "answer": "Jedi",
     "badAnswers": [
-      "Argus Rusard",
-      "Filius Flitwick",
-      "Pomona Chourave"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, ainsi que professeur de soins aux créatures magiques. Rusard est le concierge, Flitwick et Chourave sont des professeurs."
-  },
-  {
-    "id": "1416",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
-    "answer": "Lutécium",
-    "badAnswers": [
-      "Lithium",
-      "Lanthane",
-      "Lawrencium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
-  },
-  {
-    "id": "1397",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
-    "answer": "Rocky",
-    "badAnswers": [
-      "Taxi Driver",
-      "Network",
-      "All the President's Men"
+      "Sith",
+      "Mandaloriens",
+      "Chasseurs de primes"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Rocky, réalisé par John G. Avildsen, a remporté l'Oscar du meilleur film en 1977, une histoire inspirante sur un boxeur outsider."
+    "description": "Les Jedi sont un ordre monastique dans Star Wars qui utilise la Force pour maintenir la paix et la justice. Ils manient des sabres lasers et suivent un code éthique. Les Sith sont leurs antagonistes, les Mandaloriens sont des guerriers, et les chasseurs de primes ne sont pas liés à la Force."
   },
   {
-    "id": "326",
-    "question": "Quel peintre a créé La Nuit étoilée ?",
-    "answer": "Vincent van Gogh",
+    "id": "1395",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo numérique ?",
+    "answer": "Steven Sasson",
     "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Edvard Munch"
+      "George Eastman",
+      "Edwin Land",
+      "Thomas Edison"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie moderne."
   },
   {
-    "id": "974",
-    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
-    "answer": "Gary",
+    "id": "1160",
+    "question": "Quel est le nom du dieu grec de la mort ?",
+    "answer": "Thanatos",
     "badAnswers": [
-      "Orvillie",
-      "Squidward",
-      "Squidette"
+      "Hypnos",
+      "Morpheus",
+      "Hadès"
     ],
-    "category": "Dessins animés",
-    "difficulty": "facile",
-    "description": "Gary est l'escargot de compagnie de Bob l'Éponge, tandis que Squidward (Carlo) est un calmar. Les autres options font référence à des personnages fictifs ou mal orthographiés."
-  },
-  {
-    "id": "1443",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
-    "answer": "Midnight Cowboy",
-    "badAnswers": [
-      "Butch Cassidy and the Sundance Kid",
-      "Easy Rider",
-      "The Wild Bunch"
-    ],
-    "category": "Cinéma",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Midnight Cowboy, réalisé par John Schlesinger, a remporté l'Oscar du meilleur film en 1970, un drame sur l'amitié dans les rues de New York."
-  },
-  {
-    "id": "2050",
-    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
-    "answer": "James Joyce",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
-  },
-  {
-    "id": "507",
-    "question": "Quel est le nom de la capitale de la Corée du Sud ?",
-    "answer": "Séoul",
-    "badAnswers": [
-      "Busan",
-      "Incheon",
-      "Daegu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
+    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
   }
 ]
