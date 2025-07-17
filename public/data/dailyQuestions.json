@@ -1,132 +1,132 @@
 [
   {
-    "id": "371",
-    "question": "Dans Overwatch, quel personnage est un tireur d’élite utilisant un arc ?",
-    "answer": "Hanzo",
+    "id": "1611",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
+    "answer": "The Life of Emile Zola",
     "badAnswers": [
-      "Widowmaker",
-      "Genji",
-      "Ashe"
+      "The Awful Truth",
+      "Captains Courageous",
+      "Lost Horizon"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
+  },
+  {
+    "id": "1064",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sonic ?",
+    "answer": "Sonic the Hedgehog",
+    "badAnswers": [
+      "Super Mario",
+      "Crash Bandicoot",
+      "Spyro the Dragon"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Hanzo, dans Overwatch, est un tireur d’élite japonais utilisant un arc pour des attaques précises à longue portée. Frère de Genji, il est connu pour son ultime Dragonstrike. Widowmaker utilise un fusil de sniper, Genji des shurikens, et Ashe un fusil à levier."
-  },
-  {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
-    ],
-    "category": "Art",
     "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+    "description": "Sonic, créé par Sega, est le héros rapide de la série Sonic the Hedgehog, luttant contre le Dr. Robotnik pour sauver ses amis."
   },
   {
-    "id": "1548",
-    "question": "Quel est le nom de la capitale de la Sierra Leone ?",
-    "answer": "Freetown",
+    "id": "1689",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
+    "answer": "How Green Was My Valley",
     "badAnswers": [
-      "Bo",
-      "Kenema",
-      "Makeni"
+      "Citizen Kane",
+      "The Maltese Falcon",
+      "Sergeant York"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "How Green Was My Valley, réalisé par John Ford, a remporté l'Oscar du meilleur film en 1941, un drame sur une famille galloise."
+  },
+  {
+    "id": "743",
+    "question": "Quel est le nom de la capitale de l'Autriche ?",
+    "answer": "Vienne",
+    "badAnswers": [
+      "Salzbourg",
+      "Innsbruck",
+      "Graz"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Freetown, capitale de la Sierra Leone, est une ville portuaire fondée par d'anciens esclaves, connue pour son Cotton Tree historique."
+    "description": "Vienne est la capitale de l'Autriche, connue pour ses palais comme Schönbrunn et sa scène musicale. Salzbourg, Innsbruck et Graz sont d'autres villes autrichiennes, mais pas la capitale."
   },
   {
-    "id": "2101",
-    "question": "Quel est le nom de l'inventeur du premier système de scanner à ultrasons ?",
-    "answer": "John J. Wild",
+    "id": "919",
+    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
+    "answer": "Dunwall",
     "badAnswers": [
-      "Ian Donald",
-      "Godfrey Hounsfield",
-      "Raymond Damadian"
+      "Karnaca",
+      "Serkonos",
+      "Gristol"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "John J. Wild a développé les premières techniques d'imagerie par ultrasons dans les années 1940 pour la médecine."
-  },
-  {
-    "id": "2039",
-    "question": "Quel est le nom de l'inventeur du premier système d'IRM fonctionnel ?",
-    "answer": "Raymond Damadian",
-    "badAnswers": [
-      "Godfrey Hounsfield",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Raymond Damadian a conçu le premier appareil d'IRM en 1977, révolutionnant l'imagerie médicale."
-  },
-  {
-    "id": "672",
-    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
-    "answer": "Qui-Gon Jinn",
-    "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Yoda",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
+    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
   },
   {
-    "id": "2038",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) dynamique ?",
-    "answer": "Robert Dennard",
+    "id": "15",
+    "question": "Qui est le créateur de Mario ?",
+    "answer": "Shigeru Miyamoto",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
+      "Hideo Kojima",
+      "Satoshi Tajiri",
+      "Yuji Naka"
     ],
-    "category": "Informatique",
+    "category": "Divertissement",
     "difficulty": "normal",
-    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie clé pour les ordinateurs modernes."
+    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
   },
   {
-    "id": "373",
-    "question": "Dans Star Wars, quel est le nom de l’ordre monastique qui utilise la Force ?",
-    "answer": "Jedi",
+    "id": "1755",
+    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
+    "answer": "Guglielmo Marconi",
     "badAnswers": [
-      "Sith",
-      "Mandaloriens",
-      "Chasseurs de primes"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Les Jedi sont un ordre monastique dans Star Wars qui utilise la Force pour maintenir la paix et la justice. Ils manient des sabres lasers et suivent un code éthique. Les Sith sont leurs antagonistes, les Mandaloriens sont des guerriers, et les chasseurs de primes ne sont pas liés à la Force."
-  },
-  {
-    "id": "1395",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo numérique ?",
-    "answer": "Steven Sasson",
-    "badAnswers": [
-      "George Eastman",
-      "Edwin Land",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
       "Thomas Edison"
     ],
     "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie moderne."
+    "difficulty": "normal",
+    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
   },
   {
-    "id": "1160",
-    "question": "Quel est le nom du dieu grec de la mort ?",
-    "answer": "Thanatos",
+    "id": "1101",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
+    "answer": "Birdman",
     "badAnswers": [
-      "Hypnos",
-      "Morpheus",
-      "Hadès"
+      "Boyhood",
+      "The Grand Budapest Hotel",
+      "Whiplash"
     ],
-    "category": "Mythologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
+    "description": "Birdman, réalisé par Alejandro G. Iñárritu, a remporté l'Oscar du meilleur film en 2015 pour son style innovant et sa réflexion sur la célébrité."
+  },
+  {
+    "id": "109",
+    "question": "Quel est le nom du jeu de société où les joueurs construisent des routes, des villes et des champs dans un paysage médiéval ?",
+    "answer": "Carcassonne",
+    "badAnswers": [
+      "Monopoly",
+      "Risk",
+      "Cluedo"
+    ],
+    "category": "Jeux de société",
+    "difficulty": "facile",
+    "description": "'Carcassonne' est un jeu de société où les joueurs placent des tuiles pour construire un paysage médiéval, créant des routes, des villes et des champs. Il a été créé par Klaus-Jürgen Wrede et publié pour la première fois en 2000."
+  },
+  {
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
+    "badAnswers": [
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
   }
 ]
