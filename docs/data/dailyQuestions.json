@@ -1,132 +1,132 @@
 [
   {
-    "id": "1611",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
-    "answer": "The Life of Emile Zola",
+    "id": "801",
+    "question": "Quel est le plus grand rapace nocturne du monde ?",
+    "answer": "Grand-duc d'Europe",
     "badAnswers": [
-      "The Awful Truth",
-      "Captains Courageous",
-      "Lost Horizon"
+      "Chouette effraie",
+      "Harfang des neiges",
+      "Hibou moyen-duc"
     ],
-    "category": "Cinéma",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
+    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
   },
   {
-    "id": "1064",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sonic ?",
-    "answer": "Sonic the Hedgehog",
+    "id": "257",
+    "question": "Dans quel océan se situe l'île de la Réunion ?",
+    "answer": "L'océan Indien",
     "badAnswers": [
-      "Super Mario",
-      "Crash Bandicoot",
-      "Spyro the Dragon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sonic, créé par Sega, est le héros rapide de la série Sonic the Hedgehog, luttant contre le Dr. Robotnik pour sauver ses amis."
-  },
-  {
-    "id": "1689",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
-    "answer": "How Green Was My Valley",
-    "badAnswers": [
-      "Citizen Kane",
-      "The Maltese Falcon",
-      "Sergeant York"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "How Green Was My Valley, réalisé par John Ford, a remporté l'Oscar du meilleur film en 1941, un drame sur une famille galloise."
-  },
-  {
-    "id": "743",
-    "question": "Quel est le nom de la capitale de l'Autriche ?",
-    "answer": "Vienne",
-    "badAnswers": [
-      "Salzbourg",
-      "Innsbruck",
-      "Graz"
+      "L'océan Atlantique",
+      "L'océan Pacifique",
+      "L'océan Austral"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Vienne est la capitale de l'Autriche, connue pour ses palais comme Schönbrunn et sa scène musicale. Salzbourg, Innsbruck et Graz sont d'autres villes autrichiennes, mais pas la capitale."
-  },
-  {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
-    "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
-  },
-  {
-    "id": "15",
-    "question": "Qui est le créateur de Mario ?",
-    "answer": "Shigeru Miyamoto",
-    "badAnswers": [
-      "Hideo Kojima",
-      "Satoshi Tajiri",
-      "Yuji Naka"
-    ],
-    "category": "Divertissement",
     "difficulty": "normal",
-    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
+    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
   },
   {
-    "id": "1755",
-    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
-    "answer": "Guglielmo Marconi",
+    "id": "1889",
+    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Thomas Edison"
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
     ],
-    "category": "Technologie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
+    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
   },
   {
-    "id": "1101",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
-    "answer": "Birdman",
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
     "badAnswers": [
-      "Boyhood",
-      "The Grand Budapest Hotel",
-      "Whiplash"
+      "Danube",
+      "Rhin",
+      "Elbe"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+  },
+  {
+    "id": "1386",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
+    "answer": "The Deer Hunter",
+    "badAnswers": [
+      "Coming Home",
+      "Midnight Express",
+      "Heaven Can Wait"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Birdman, réalisé par Alejandro G. Iñárritu, a remporté l'Oscar du meilleur film en 2015 pour son style innovant et sa réflexion sur la célébrité."
+    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1979, un drame poignant sur la guerre du Vietnam."
   },
   {
-    "id": "109",
-    "question": "Quel est le nom du jeu de société où les joueurs construisent des routes, des villes et des champs dans un paysage médiéval ?",
-    "answer": "Carcassonne",
+    "id": "800",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
+    "answer": "Cappy",
     "badAnswers": [
-      "Monopoly",
-      "Risk",
-      "Cluedo"
+      "Toad",
+      "Bowser",
+      "Luma"
     ],
-    "category": "Jeux de société",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Carcassonne' est un jeu de société où les joueurs placent des tuiles pour construire un paysage médiéval, créant des routes, des villes et des champs. Il a été créé par Klaus-Jürgen Wrede et publié pour la première fois en 2000."
+    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
   },
   {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
+    "id": "925",
+    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
+    "answer": "Pied-de-biche",
     "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
+      "Pistolet",
+      "Combinaison H.E.V.",
+      "Vos poings"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
+  },
+  {
+    "id": "815",
+    "question": "Dans Assassin's Creed Origins, dans quelle région historique se déroule l'histoire ?",
+    "answer": "Égypte ptolémaïque",
+    "badAnswers": [
+      "Grèce antique",
+      "Empire romain",
+      "Renaissance italienne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek comme protagoniste. Les autres périodes sont celles d'autres jeux de la série."
+  },
+  {
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
+    "badAnswers": [
+      "Entei",
+      "Raikou",
+      "Lugia"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+  },
+  {
+    "id": "1579",
+    "question": "Quel est le nom de la capitale du Malawi ?",
+    "answer": "Lilongwe",
+    "badAnswers": [
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
   }
 ]
