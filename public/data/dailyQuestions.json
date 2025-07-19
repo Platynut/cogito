@@ -1,132 +1,132 @@
 [
   {
-    "id": "801",
-    "question": "Quel est le plus grand rapace nocturne du monde ?",
-    "answer": "Grand-duc d'Europe",
+    "id": "1420",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
+    "answer": "Final Fantasy VII",
     "badAnswers": [
-      "Chouette effraie",
-      "Harfang des neiges",
-      "Hibou moyen-duc"
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
   },
   {
-    "id": "257",
-    "question": "Dans quel océan se situe l'île de la Réunion ?",
-    "answer": "L'océan Indien",
+    "id": "31",
+    "question": "Qui est le créateur de la saga 'Star Wars' ?",
+    "answer": "George Lucas",
     "badAnswers": [
-      "L'océan Atlantique",
-      "L'océan Pacifique",
-      "L'océan Austral"
+      "Steven Spielberg",
+      "James Cameron",
+      "J.J. Abrams"
+    ],
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "Sorti en 1977, ce premier film réalisé par George Lucas a lancé l'une des franchises cinématographiques les plus lucratives et influentes de l'histoire."
+  },
+  {
+    "id": "1089",
+    "question": "Quel est le nom du dieu grec du feu et de la forge ?",
+    "answer": "Héphaïstos",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+  },
+  {
+    "id": "750",
+    "question": "Quel est le nom de la capitale de la Suède ?",
+    "answer": "Stockholm",
+    "badAnswers": [
+      "Göteborg",
+      "Malmö",
+      "Uppsala"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
+    "difficulty": "facile",
+    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
   },
   {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "id": "508",
+    "question": "Quel scientifique a découvert le principe d'incertitude ?",
+    "answer": "Werner Heisenberg",
+    "badAnswers": [
+      "Max Planck",
+      "Niels Bohr",
+      "Erwin Schrödinger"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Werner Heisenberg a formulé le principe d'incertitude en 1927, un concept clé de la mécanique quantique indiquant qu'on ne peut connaître simultanément la position et la vitesse d'une particule. Planck, Bohr et Schrödinger ont contribué à d'autres aspects de la physique quantique."
+  },
+  {
+    "id": "1071",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
+    "answer": "Super Mario Bros.",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Donkey Kong",
+      "Metroid"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
+  },
+  {
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
+  },
+  {
+    "id": "359",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
+    "answer": "Captain Falcon",
+    "badAnswers": [
+      "Fox McCloud",
+      "Samus Aran",
+      "Marth"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
+  },
+  {
+    "id": "2114",
+    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
     "answer": "Jean-Paul Sartre",
     "badAnswers": [
       "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "André Gide",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
   },
   {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
+    "id": "1209",
+    "question": "Quel est le nom de l'inventeur de la dynamo ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
-  },
-  {
-    "id": "1386",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
-    "answer": "The Deer Hunter",
-    "badAnswers": [
-      "Coming Home",
-      "Midnight Express",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1979, un drame poignant sur la guerre du Vietnam."
-  },
-  {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
-  },
-  {
-    "id": "925",
-    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
-    "answer": "Pied-de-biche",
-    "badAnswers": [
-      "Pistolet",
-      "Combinaison H.E.V.",
-      "Vos poings"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
-  },
-  {
-    "id": "815",
-    "question": "Dans Assassin's Creed Origins, dans quelle région historique se déroule l'histoire ?",
-    "answer": "Égypte ptolémaïque",
-    "badAnswers": [
-      "Grèce antique",
-      "Empire romain",
-      "Renaissance italienne"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek comme protagoniste. Les autres périodes sont celles d'autres jeux de la série."
-  },
-  {
-    "id": "627",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
-    "answer": "Suicune",
-    "badAnswers": [
-      "Entei",
-      "Raikou",
-      "Lugia"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
-  },
-  {
-    "id": "1579",
-    "question": "Quel est le nom de la capitale du Malawi ?",
-    "answer": "Lilongwe",
-    "badAnswers": [
-      "Blantyre",
-      "Mzuzu",
-      "Zomba"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
+    "description": "Michael Faraday a posé les bases de la dynamo dans les années 1830, découvrant l'induction électromagnétique, essentielle pour les générateurs électriques."
   }
 ]
