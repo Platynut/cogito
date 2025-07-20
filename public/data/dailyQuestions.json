@@ -1,85 +1,124 @@
 [
   {
-    "id": "1420",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
-    "answer": "Final Fantasy VII",
+    "id": "1003",
+    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
+    "answer": "Alan Moore",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
+  },
+  {
+    "id": "1349",
+    "question": "Quel est le nom de l'inventeur du premier radar ?",
+    "answer": "Robert Watson-Watt",
+    "badAnswers": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert Watson-Watt a développé le premier système radar pratique dans les années 1930, essentiel pour la détection aérienne pendant la Seconde Guerre mondiale."
+  },
+  {
+    "id": "343",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
+    "answer": "Plateau du Prélude",
+    "badAnswers": [
+      "Plaine d'Hyrule",
+      "Montagne de la Mort",
+      "Désert Gerudo"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
+    "difficulty": "normal",
+    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
   },
   {
-    "id": "31",
-    "question": "Qui est le créateur de la saga 'Star Wars' ?",
-    "answer": "George Lucas",
+    "id": "2143",
+    "question": "Quel est le nom de l'auteur de 'Le K' ?",
+    "answer": "Dino Buzzati",
     "badAnswers": [
-      "Steven Spielberg",
-      "James Cameron",
-      "J.J. Abrams"
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
     ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "Sorti en 1977, ce premier film réalisé par George Lucas a lancé l'une des franchises cinématographiques les plus lucratives et influentes de l'histoire."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
   },
   {
-    "id": "1089",
-    "question": "Quel est le nom du dieu grec du feu et de la forge ?",
-    "answer": "Héphaïstos",
+    "id": "2127",
+    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
   },
   {
-    "id": "750",
-    "question": "Quel est le nom de la capitale de la Suède ?",
-    "answer": "Stockholm",
+    "id": "1735",
+    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
+    "answer": "Michel de Montaigne",
     "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
+      "François Rabelais",
+      "Jean-Jacques Rousseau",
+      "Voltaire"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
+  },
+  {
+    "id": "1770",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
+    "answer": "Charles Stark Draper",
+    "badAnswers": [
+      "Elmer Sperry",
+      "Robert Goddard",
+      "Wernher von Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
+  },
+  {
+    "id": "1944",
+    "question": "Quel est le nom de la capitale de l'Île Maurice ?",
+    "answer": "Port Louis",
+    "badAnswers": [
+      "Curepipe",
+      "Quatre Bornes",
+      "Vacoas-Phoenix"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
+    "description": "Port Louis, capitale de l'Île Maurice, est une ville portuaire connue pour son marché central et sa citadelle."
   },
   {
-    "id": "508",
-    "question": "Quel scientifique a découvert le principe d'incertitude ?",
-    "answer": "Werner Heisenberg",
+    "id": "779",
+    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
+    "answer": "Jax",
     "badAnswers": [
-      "Max Planck",
-      "Niels Bohr",
-      "Erwin Schrödinger"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Werner Heisenberg a formulé le principe d'incertitude en 1927, un concept clé de la mécanique quantique indiquant qu'on ne peut connaître simultanément la position et la vitesse d'une particule. Planck, Bohr et Schrödinger ont contribué à d'autres aspects de la physique quantique."
-  },
-  {
-    "id": "1071",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
-    "answer": "Super Mario Bros.",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Donkey Kong",
-      "Metroid"
+      "Fiora",
+      "Yasuo",
+      "Riven"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
+    "difficulty": "normal",
+    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
   },
   {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "id": "1615",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
     "answer": "Super Mario",
     "badAnswers": [
       "The Legend of Zelda",
@@ -88,45 +127,6 @@
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
-  },
-  {
-    "id": "359",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
-    "answer": "Captain Falcon",
-    "badAnswers": [
-      "Fox McCloud",
-      "Samus Aran",
-      "Marth"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
-  },
-  {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
-  },
-  {
-    "id": "1209",
-    "question": "Quel est le nom de l'inventeur de la dynamo ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Michael Faraday a posé les bases de la dynamo dans les années 1830, découvrant l'induction électromagnétique, essentielle pour les générateurs électriques."
+    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
   }
 ]
