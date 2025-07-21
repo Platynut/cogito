@@ -1,132 +1,132 @@
 [
   {
-    "id": "1003",
-    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
-    "answer": "Alan Moore",
+    "id": "1178",
+    "question": "Quel est le nom de la capitale du Zimbabwe ?",
+    "answer": "Harare",
     "badAnswers": [
-      "Bill Finger",
-      "Frank Miller",
-      "Jerry Siegel"
+      "Bulawayo",
+      "Gweru",
+      "Mutare"
     ],
-    "category": "Bandes dessinées",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
+    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
   },
   {
-    "id": "1349",
-    "question": "Quel est le nom de l'inventeur du premier radar ?",
-    "answer": "Robert Watson-Watt",
+    "id": "1351",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
+    "answer": "Terms of Endearment",
     "badAnswers": [
-      "Guglielmo Marconi",
-      "Thomas Edison",
-      "Nikola Tesla"
+      "The Right Stuff",
+      "Tender Mercies",
+      "The Big Chill"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système radar pratique dans les années 1930, essentiel pour la détection aérienne pendant la Seconde Guerre mondiale."
-  },
-  {
-    "id": "343",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
-    "answer": "Plateau du Prélude",
-    "badAnswers": [
-      "Plaine d'Hyrule",
-      "Montagne de la Mort",
-      "Désert Gerudo"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1984, une comédie dramatique sur les relations familiales."
   },
   {
-    "id": "2143",
-    "question": "Quel est le nom de l'auteur de 'Le K' ?",
-    "answer": "Dino Buzzati",
+    "id": "1077",
+    "question": "Quel est le nom du groupe qui a chanté 'Stairway to Heaven' ?",
+    "answer": "Led Zeppelin",
     "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Deep Purple",
+      "Black Sabbath",
+      "The Who"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Stairway to Heaven', sorti en 1971 par Led Zeppelin, est une chanson rock légendaire, souvent considérée comme un chef-d'œuvre du genre."
   },
   {
-    "id": "2127",
-    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
-    "answer": "Jean Cocteau",
+    "id": "34",
+    "question": "Dans quelle ville se trouve la Maison Blanche ?",
+    "answer": "Washington D.C.",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
-  },
-  {
-    "id": "1735",
-    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
-    "answer": "Michel de Montaigne",
-    "badAnswers": [
-      "François Rabelais",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
-  },
-  {
-    "id": "1770",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
-    "answer": "Charles Stark Draper",
-    "badAnswers": [
-      "Elmer Sperry",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
-  },
-  {
-    "id": "1944",
-    "question": "Quel est le nom de la capitale de l'Île Maurice ?",
-    "answer": "Port Louis",
-    "badAnswers": [
-      "Curepipe",
-      "Quatre Bornes",
-      "Vacoas-Phoenix"
+      "New York",
+      "Los Angeles",
+      "Chicago"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Port Louis, capitale de l'Île Maurice, est une ville portuaire connue pour son marché central et sa citadelle."
+    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
   },
   {
-    "id": "779",
-    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
-    "answer": "Jax",
+    "id": "41",
+    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
+    "answer": "Royaume-Uni",
     "badAnswers": [
-      "Fiora",
-      "Yasuo",
-      "Riven"
+      "Suisse",
+      "Norvège",
+      "Turquie"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
+  },
+  {
+    "id": "211",
+    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
+    "answer": "Samus Aran",
+    "badAnswers": [
+      "Sheamus",
+      "Darius",
+      "Prepus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
+    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
   },
   {
-    "id": "1615",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
-    "answer": "Super Mario",
+    "id": "1994",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flerovium",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Fluor",
+      "Francium",
+      "Fermium"
     ],
-    "category": "Jeux vidéo",
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
+  },
+  {
+    "id": "1969",
+    "question": "Quel est le nom du groupe qui a chanté 'Helter Skelter' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
+    "description": "'Helter Skelter', sorti en 1968 par The Beatles, est une chanson proto-heavy metal tirée de l'album The White Album."
+  },
+  {
+    "id": "44",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "Everest",
+    "badAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
   }
 ]
