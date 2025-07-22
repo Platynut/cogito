@@ -1,132 +1,130 @@
 [
   {
-    "id": "1178",
-    "question": "Quel est le nom de la capitale du Zimbabwe ?",
-    "answer": "Harare",
+    "id": "351",
+    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
+    "answer": "James Watt",
     "badAnswers": [
-      "Bulawayo",
-      "Gweru",
-      "Mutare"
+      "George Stephenson",
+      "Thomas Newcomen",
+      "Richard Trevithick"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
+    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
   },
   {
-    "id": "1351",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
-    "answer": "Terms of Endearment",
+    "id": "198",
+    "question": "Combien de temps dure le mandat du président des États-Unis ?",
+    "answer": "4 ans",
     "badAnswers": [
-      "The Right Stuff",
-      "Tender Mercies",
-      "The Big Chill"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1984, une comédie dramatique sur les relations familiales."
-  },
-  {
-    "id": "1077",
-    "question": "Quel est le nom du groupe qui a chanté 'Stairway to Heaven' ?",
-    "answer": "Led Zeppelin",
-    "badAnswers": [
-      "Deep Purple",
-      "Black Sabbath",
-      "The Who"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Stairway to Heaven', sorti en 1971 par Led Zeppelin, est une chanson rock légendaire, souvent considérée comme un chef-d'œuvre du genre."
-  },
-  {
-    "id": "34",
-    "question": "Dans quelle ville se trouve la Maison Blanche ?",
-    "answer": "Washington D.C.",
-    "badAnswers": [
-      "New York",
-      "Los Angeles",
-      "Chicago"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
-  },
-  {
-    "id": "41",
-    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
-    "answer": "Royaume-Uni",
-    "badAnswers": [
-      "Suisse",
-      "Norvège",
-      "Turquie"
+      "5 ans",
+      "6 ans",
+      "7 ans"
     ],
     "category": "Politique",
     "difficulty": "facile",
-    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
+    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
   },
   {
-    "id": "211",
-    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
-    "answer": "Samus Aran",
+    "id": "959",
+    "question": "Waluigi est-il un personnage jouable dans Mario Kart 64 ?",
+    "answer": "Faux",
     "badAnswers": [
-      "Sheamus",
-      "Darius",
-      "Prepus"
+      "Vrai"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
+    "difficulty": "facile",
+    "description": "Waluigi n'apparaît pas dans Mario Kart 64, sorti en 1996. Il a été introduit plus tard dans la série, notamment dans Mario Kart: Double Dash!! en 2003."
   },
   {
-    "id": "1994",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flerovium",
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fermium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
-  },
-  {
-    "id": "1969",
-    "question": "Quel est le nom du groupe qui a chanté 'Helter Skelter' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Metallica",
+      "Guns N' Roses",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Helter Skelter', sorti en 1968 par The Beatles, est une chanson proto-heavy metal tirée de l'album The White Album."
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
   },
   {
-    "id": "44",
-    "question": "Quelle est la plus haute montagne du monde ?",
-    "answer": "Everest",
+    "id": "606",
+    "question": "Quel est le nom de la capitale de l'Espagne ?",
+    "answer": "Madrid",
     "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
+      "Barcelone",
+      "Séville",
+      "Valence"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
   },
   {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
+    "id": "1463",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1964 ?",
+    "answer": "Tom Jones",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Cleopatra",
+      "How the West Was Won",
+      "Lilies of the Field"
     ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1964, une comédie d'aventure basée sur le roman de Henry Fielding."
+  },
+  {
+    "id": "531",
+    "question": "Dans Super Mario Odyssey, quel est le nom de la planète principale où Mario voyage ?",
+    "answer": "Terre",
+    "badAnswers": [
+      "Lune",
+      "Champignon",
+      "Étoile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Super Mario Odyssey, Mario voyage à travers différents royaumes sur la Terre, comme le Royaume des Chapeaux. La Lune est une destination finale, le Champignon est dans d'autres jeux, et l'Étoile est une entité différente."
+  },
+  {
+    "id": "1585",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Marcus Fenix ?",
+    "answer": "Gears of War",
+    "badAnswers": [
+      "Halo",
+      "Destiny",
+      "Call of Duty"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Marcus Fenix, soldat robuste, est le protagoniste de la série Gears of War, combattant des hordes de Locustes."
+  },
+  {
+    "id": "840",
+    "question": "Dans Overwatch, quel personnage est un moine omniaque ?",
+    "answer": "Zenyatta",
+    "badAnswers": [
+      "Genji",
+      "Ramattra",
+      "Zarya"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zenyatta est un moine omniaque dans Overwatch, utilisant des orbes pour soigner et attaquer. Genji est un ninja, Ramattra un omniaque guerrier, et Zarya une humaine."
+  },
+  {
+    "id": "1079",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Samus Aran ?",
+    "answer": "Metroid",
+    "badAnswers": [
+      "Star Fox",
+      "F-Zero",
+      "Kid Icarus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Samus Aran, héroïne de la série Metroid, est une chasseuse de primes galactique explorant des planètes hostiles dans son armure high-tech."
   }
 ]
