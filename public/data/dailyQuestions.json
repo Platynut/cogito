@@ -1,130 +1,132 @@
 [
   {
-    "id": "351",
-    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
-    "answer": "James Watt",
+    "id": "903",
+    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom du cheval de Link ?",
+    "answer": "Epona",
     "badAnswers": [
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
-  },
-  {
-    "id": "198",
-    "question": "Combien de temps dure le mandat du président des États-Unis ?",
-    "answer": "4 ans",
-    "badAnswers": [
-      "5 ans",
-      "6 ans",
-      "7 ans"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
-  },
-  {
-    "id": "959",
-    "question": "Waluigi est-il un personnage jouable dans Mario Kart 64 ?",
-    "answer": "Faux",
-    "badAnswers": [
-      "Vrai"
+      "Navi",
+      "Tatl",
+      "Midna"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Waluigi n'apparaît pas dans Mario Kart 64, sorti en 1996. Il a été introduit plus tard dans la série, notamment dans Mario Kart: Double Dash!! en 2003."
+    "description": "Epona est le cheval de Link dans The Legend of Zelda: Ocarina of Time, utilisé pour voyager. Navi, Tatl et Midna sont des compagnons dans d'autres jeux Zelda."
   },
   {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
+    "id": "237",
+    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+    "answer": "1492",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
+      "1502",
+      "1451",
+      "1498"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Colomb a atteint les Bahamas le 12 octobre 1492, croyant arriver en Asie. En 1498, il a exploré l'Amérique du Sud."
+  },
+  {
+    "id": "948",
+    "question": "Dans les comics Batman, comment s'appelle le premier Robin ?",
+    "answer": "Dick Grayson",
+    "badAnswers": [
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dick Grayson est le premier Robin, introduit en 1940, qui devient plus tard Nightwing, un héros indépendant dans l'univers de Batman."
+  },
+  {
+    "id": "2124",
+    "question": "Quel est le nom de l'auteur de 'L'Espoir' ?",
+    "answer": "André Malraux",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'L'Espoir' (1937), un roman sur la guerre civile espagnole et l'engagement politique."
+  },
+  {
+    "id": "799",
+    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Heinrich Hertz"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "141",
+    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Russie",
+      "Etats-Unis",
+      "Italie"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
+  },
+  {
+    "id": "789",
+    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
+    "answer": "Rayquaza",
+    "badAnswers": [
+      "Groudon",
+      "Kyogre",
+      "Latios"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
+  },
+  {
+    "id": "1245",
+    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
+    "answer": "Gabriel Fahrenheit",
+    "badAnswers": [
+      "Anders Celsius",
+      "Galilée",
+      "William Thomson"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
+  },
+  {
+    "id": "1503",
+    "question": "Quel est le nom du groupe qui a chanté 'Disarm' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
+    "difficulty": "normal",
+    "description": "'Disarm', sorti en 1993 par The Smashing Pumpkins, est une chanson alternative rock tirée de l'album Siamese Dream."
   },
   {
-    "id": "606",
-    "question": "Quel est le nom de la capitale de l'Espagne ?",
-    "answer": "Madrid",
+    "id": "1528",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
+    "answer": "All About Eve",
     "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
-  },
-  {
-    "id": "1463",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1964 ?",
-    "answer": "Tom Jones",
-    "badAnswers": [
-      "Cleopatra",
-      "How the West Was Won",
-      "Lilies of the Field"
+      "Sunset Boulevard",
+      "Born Yesterday",
+      "King Solomon's Mines"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1964, une comédie d'aventure basée sur le roman de Henry Fielding."
-  },
-  {
-    "id": "531",
-    "question": "Dans Super Mario Odyssey, quel est le nom de la planète principale où Mario voyage ?",
-    "answer": "Terre",
-    "badAnswers": [
-      "Lune",
-      "Champignon",
-      "Étoile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Super Mario Odyssey, Mario voyage à travers différents royaumes sur la Terre, comme le Royaume des Chapeaux. La Lune est une destination finale, le Champignon est dans d'autres jeux, et l'Étoile est une entité différente."
-  },
-  {
-    "id": "1585",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Marcus Fenix ?",
-    "answer": "Gears of War",
-    "badAnswers": [
-      "Halo",
-      "Destiny",
-      "Call of Duty"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Marcus Fenix, soldat robuste, est le protagoniste de la série Gears of War, combattant des hordes de Locustes."
-  },
-  {
-    "id": "840",
-    "question": "Dans Overwatch, quel personnage est un moine omniaque ?",
-    "answer": "Zenyatta",
-    "badAnswers": [
-      "Genji",
-      "Ramattra",
-      "Zarya"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zenyatta est un moine omniaque dans Overwatch, utilisant des orbes pour soigner et attaquer. Genji est un ninja, Ramattra un omniaque guerrier, et Zarya une humaine."
-  },
-  {
-    "id": "1079",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Samus Aran ?",
-    "answer": "Metroid",
-    "badAnswers": [
-      "Star Fox",
-      "F-Zero",
-      "Kid Icarus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Samus Aran, héroïne de la série Metroid, est une chasseuse de primes galactique explorant des planètes hostiles dans son armure high-tech."
+    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1951, un drame sur la rivalité dans le théâtre."
   }
 ]
