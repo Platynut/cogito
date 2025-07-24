@@ -1,132 +1,132 @@
 [
   {
-    "id": "903",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom du cheval de Link ?",
-    "answer": "Epona",
+    "id": "213",
+    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
+    "answer": "Le flamboyant",
     "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Midna"
+      "Le tamarin",
+      "Le frangipanier",
+      "Le vacoa"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Epona est le cheval de Link dans The Legend of Zelda: Ocarina of Time, utilisé pour voyager. Navi, Tatl et Midna sont des compagnons dans d'autres jeux Zelda."
-  },
-  {
-    "id": "237",
-    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-    "answer": "1492",
-    "badAnswers": [
-      "1502",
-      "1451",
-      "1498"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Colomb a atteint les Bahamas le 12 octobre 1492, croyant arriver en Asie. En 1498, il a exploré l'Amérique du Sud."
-  },
-  {
-    "id": "948",
-    "question": "Dans les comics Batman, comment s'appelle le premier Robin ?",
-    "answer": "Dick Grayson",
-    "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
-    ],
-    "category": "Bandes dessinées",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, introduit en 1940, qui devient plus tard Nightwing, un héros indépendant dans l'univers de Batman."
+    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
   },
   {
-    "id": "2124",
-    "question": "Quel est le nom de l'auteur de 'L'Espoir' ?",
-    "answer": "André Malraux",
+    "id": "626",
+    "question": "Quel scientifique a découvert la loi de la gravitation universelle ?",
+    "answer": "Isaac Newton",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Isaac Newton a formulé la loi de la gravitation universelle en 1687, expliquant l'attraction entre les masses. Galilée et Kepler ont étudié le mouvement, et Einstein a développé la relativité."
+  },
+  {
+    "id": "2146",
+    "question": "Quel est le nom de l'inventeur du premier système de caméra CCD ?",
+    "answer": "Willard Boyle",
+    "badAnswers": [
+      "George Smith",
+      "Steven Sasson",
+      "Edwin Land"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Willard Boyle a co-inventé le capteur CCD (dispositif à couplage de charge) en 1969, essentiel pour les caméras numériques."
+  },
+  {
+    "id": "1621",
+    "question": "Quel est le nom de la capitale de la Tanzanie ?",
+    "answer": "Dodoma",
+    "badAnswers": [
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
+  },
+  {
+    "id": "1169",
+    "question": "Quel est le nom de l'auteur de 'L'Île au trésor' ?",
+    "answer": "Robert Louis Stevenson",
+    "badAnswers": [
+      "Daniel Defoe",
+      "Jonathan Swift",
+      "Herman Melville"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Malraux a écrit 'L'Espoir' (1937), un roman sur la guerre civile espagnole et l'engagement politique."
+    "description": "Robert Louis Stevenson a écrit 'L'Île au trésor' (1883), un roman d'aventure sur des pirates et une chasse au trésor, devenu un classique."
   },
   {
-    "id": "799",
-    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
-    "answer": "Michael Faraday",
+    "id": "704",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
+    "answer": "Kashyyyk",
     "badAnswers": [
-      "James Clerk Maxwell",
-      "André-Marie Ampère",
-      "Heinrich Hertz"
+      "Tatooine",
+      "Endor",
+      "Hoth"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "141",
-    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
-    "answer": "Afrique du Sud",
-    "badAnswers": [
-      "Russie",
-      "Etats-Unis",
-      "Italie"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
-  },
-  {
-    "id": "789",
-    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
-    "answer": "Rayquaza",
-    "badAnswers": [
-      "Groudon",
-      "Kyogre",
-      "Latios"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
+    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
   },
   {
-    "id": "1245",
-    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
-    "answer": "Gabriel Fahrenheit",
+    "id": "491",
+    "question": "Quel est le nom du plus grand volcan d'Europe ?",
+    "answer": "Etna",
     "badAnswers": [
-      "Anders Celsius",
-      "Galilée",
-      "William Thomson"
+      "Vésuve",
+      "Stromboli",
+      "Hekla"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
   },
   {
-    "id": "1503",
-    "question": "Quel est le nom du groupe qui a chanté 'Disarm' ?",
-    "answer": "The Smashing Pumpkins",
+    "id": "767",
+    "question": "Quel compositeur a écrit L'Anneau du Nibelung ?",
+    "answer": "Richard Wagner",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Johannes Brahms"
     ],
     "category": "Musique",
     "difficulty": "normal",
-    "description": "'Disarm', sorti en 1993 par The Smashing Pumpkins, est une chanson alternative rock tirée de l'album Siamese Dream."
+    "description": "Richard Wagner a composé L'Anneau du Nibelung (1876), un cycle d'opéras épiques inspiré de la mythologie nordique. Verdi, Puccini et Brahms sont d'autres compositeurs, mais n'ont pas écrit cette œuvre."
   },
   {
-    "id": "1528",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
-    "answer": "All About Eve",
+    "id": "811",
+    "question": "Quel scientifique a découvert la loi de la conductivité électrique (loi d'Ohm) ?",
+    "answer": "Georg Ohm",
     "badAnswers": [
-      "Sunset Boulevard",
-      "Born Yesterday",
-      "King Solomon's Mines"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Alessandro Volta"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1951, un drame sur la rivalité dans le théâtre."
+    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
+  },
+  {
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
   }
 ]
