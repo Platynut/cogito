@@ -1,132 +1,128 @@
 [
   {
-    "id": "213",
-    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
-    "answer": "Le flamboyant",
+    "id": "959",
+    "question": "Waluigi est-il un personnage jouable dans Mario Kart 64 ?",
+    "answer": "Faux",
     "badAnswers": [
-      "Le tamarin",
-      "Le frangipanier",
-      "Le vacoa"
+      "Vrai"
     ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
-  },
-  {
-    "id": "626",
-    "question": "Quel scientifique a découvert la loi de la gravitation universelle ?",
-    "answer": "Isaac Newton",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Isaac Newton a formulé la loi de la gravitation universelle en 1687, expliquant l'attraction entre les masses. Galilée et Kepler ont étudié le mouvement, et Einstein a développé la relativité."
+    "description": "Waluigi n'apparaît pas dans Mario Kart 64, sorti en 1996. Il a été introduit plus tard dans la série, notamment dans Mario Kart: Double Dash!! en 2003."
   },
   {
-    "id": "2146",
-    "question": "Quel est le nom de l'inventeur du premier système de caméra CCD ?",
-    "answer": "Willard Boyle",
+    "id": "500",
+    "question": "Dans Dota 2, quel est le nom du héros connu pour son sort Black Hole ?",
+    "answer": "Enigma",
     "badAnswers": [
-      "George Smith",
-      "Steven Sasson",
-      "Edwin Land"
+      "Void Spirit",
+      "Faceless Void",
+      "Ancient Apparition"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui attire les ennemis dans une zone dévastatrice. Void Spirit, Faceless Void et Ancient Apparition ont d'autres sorts et rôles dans le jeu."
+  },
+  {
+    "id": "1261",
+    "question": "Quel est le nom de la capitale de l'Arabie Saoudite ?",
+    "answer": "Riyad",
+    "badAnswers": [
+      "Djeddah",
+      "La Mecque",
+      "Médine"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Riyad, capitale de l'Arabie Saoudite, est une ville moderne au cœur du désert, centre politique et économique du royaume."
+  },
+  {
+    "id": "859",
+    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
+    "answer": "Groudon",
+    "badAnswers": [
+      "Kyogre",
+      "Rayquaza",
+      "Deoxys"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
+  },
+  {
+    "id": "279",
+    "question": "La série de micro-ordinateurs Raspberry Pi a été créée aux États-Unis.",
+    "answer": "Faux",
+    "badAnswers": [
+      "Vrai"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Le Raspberry Pi a été créé au Royaume-Uni par la Raspberry Pi Foundation, une organisation basée à Cambridge, avec pour objectif de promouvoir l'éducation en informatique. Lancée en 2012, cette série de micro-ordinateurs à faible coût est devenue populaire dans le monde entier. L'affirmation qu'elle a été créée aux États-Unis est incorrecte."
+  },
+  {
+    "id": "1359",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
+    "answer": "Gandhi",
+    "badAnswers": [
+      "E.T. the Extra-Terrestrial",
+      "Tootsie",
+      "The Verdict"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Gandhi, réalisé par Richard Attenborough, a remporté l'Oscar du meilleur film en 1983, une biographie épique sur la vie de Mahatma Gandhi."
+  },
+  {
+    "id": "1062",
+    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
+    "answer": "Michael Jackson",
+    "badAnswers": [
+      "The Jackson 5",
+      "Prince",
+      "Stevie Wonder"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
+  },
+  {
+    "id": "1196",
+    "question": "Quel est le nom de la capitale du Sénégal ?",
+    "answer": "Dakar",
+    "badAnswers": [
+      "Thiès",
+      "Saint-Louis",
+      "Ziguinchor"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
+  },
+  {
+    "id": "1755",
+    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
+    "answer": "Guglielmo Marconi",
+    "badAnswers": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Thomas Edison"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Willard Boyle a co-inventé le capteur CCD (dispositif à couplage de charge) en 1969, essentiel pour les caméras numériques."
+    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
   },
   {
-    "id": "1621",
-    "question": "Quel est le nom de la capitale de la Tanzanie ?",
-    "answer": "Dodoma",
+    "id": "1203",
+    "question": "Quel est le nom de la capitale de la Côte d'Ivoire ?",
+    "answer": "Yamoussoukro",
     "badAnswers": [
-      "Dar es Salaam",
-      "Arusha",
-      "Mwanza"
+      "Abidjan",
+      "Bouaké",
+      "Daloa"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
-  },
-  {
-    "id": "1169",
-    "question": "Quel est le nom de l'auteur de 'L'Île au trésor' ?",
-    "answer": "Robert Louis Stevenson",
-    "badAnswers": [
-      "Daniel Defoe",
-      "Jonathan Swift",
-      "Herman Melville"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Robert Louis Stevenson a écrit 'L'Île au trésor' (1883), un roman d'aventure sur des pirates et une chasse au trésor, devenu un classique."
-  },
-  {
-    "id": "704",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
-    "answer": "Kashyyyk",
-    "badAnswers": [
-      "Tatooine",
-      "Endor",
-      "Hoth"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
-  },
-  {
-    "id": "491",
-    "question": "Quel est le nom du plus grand volcan d'Europe ?",
-    "answer": "Etna",
-    "badAnswers": [
-      "Vésuve",
-      "Stromboli",
-      "Hekla"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
-  },
-  {
-    "id": "767",
-    "question": "Quel compositeur a écrit L'Anneau du Nibelung ?",
-    "answer": "Richard Wagner",
-    "badAnswers": [
-      "Giuseppe Verdi",
-      "Giacomo Puccini",
-      "Johannes Brahms"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Richard Wagner a composé L'Anneau du Nibelung (1876), un cycle d'opéras épiques inspiré de la mythologie nordique. Verdi, Puccini et Brahms sont d'autres compositeurs, mais n'ont pas écrit cette œuvre."
-  },
-  {
-    "id": "811",
-    "question": "Quel scientifique a découvert la loi de la conductivité électrique (loi d'Ohm) ?",
-    "answer": "Georg Ohm",
-    "badAnswers": [
-      "Michael Faraday",
-      "André-Marie Ampère",
-      "Alessandro Volta"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+    "description": "Yamoussoukro, capitale de la Côte d'Ivoire, est connue pour sa basilique Notre-Dame de la Paix, l'une des plus grandes églises du monde."
   }
 ]
