@@ -1,128 +1,132 @@
 [
   {
-    "id": "959",
-    "question": "Waluigi est-il un personnage jouable dans Mario Kart 64 ?",
-    "answer": "Faux",
+    "id": "1886",
+    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Vrai"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Waluigi n'apparaît pas dans Mario Kart 64, sorti en 1996. Il a été introduit plus tard dans la série, notamment dans Mario Kart: Double Dash!! en 2003."
-  },
-  {
-    "id": "500",
-    "question": "Dans Dota 2, quel est le nom du héros connu pour son sort Black Hole ?",
-    "answer": "Enigma",
-    "badAnswers": [
-      "Void Spirit",
-      "Faceless Void",
-      "Ancient Apparition"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui attire les ennemis dans une zone dévastatrice. Void Spirit, Faceless Void et Ancient Apparition ont d'autres sorts et rôles dans le jeu."
-  },
-  {
-    "id": "1261",
-    "question": "Quel est le nom de la capitale de l'Arabie Saoudite ?",
-    "answer": "Riyad",
-    "badAnswers": [
-      "Djeddah",
-      "La Mecque",
-      "Médine"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Riyad, capitale de l'Arabie Saoudite, est une ville moderne au cœur du désert, centre politique et économique du royaume."
-  },
-  {
-    "id": "859",
-    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
-    "answer": "Groudon",
-    "badAnswers": [
-      "Kyogre",
-      "Rayquaza",
-      "Deoxys"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
-  },
-  {
-    "id": "279",
-    "question": "La série de micro-ordinateurs Raspberry Pi a été créée aux États-Unis.",
-    "answer": "Faux",
-    "badAnswers": [
-      "Vrai"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Le Raspberry Pi a été créé au Royaume-Uni par la Raspberry Pi Foundation, une organisation basée à Cambridge, avec pour objectif de promouvoir l'éducation en informatique. Lancée en 2012, cette série de micro-ordinateurs à faible coût est devenue populaire dans le monde entier. L'affirmation qu'elle a été créée aux États-Unis est incorrecte."
-  },
-  {
-    "id": "1359",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
-    "answer": "Gandhi",
-    "badAnswers": [
-      "E.T. the Extra-Terrestrial",
-      "Tootsie",
-      "The Verdict"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Gandhi, réalisé par Richard Attenborough, a remporté l'Oscar du meilleur film en 1983, une biographie épique sur la vie de Mahatma Gandhi."
-  },
-  {
-    "id": "1062",
-    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
-    "answer": "Michael Jackson",
-    "badAnswers": [
-      "The Jackson 5",
-      "Prince",
-      "Stevie Wonder"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
+    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "1196",
-    "question": "Quel est le nom de la capitale du Sénégal ?",
-    "answer": "Dakar",
+    "id": "616",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
+    "answer": "Lac Titicaca",
     "badAnswers": [
-      "Thiès",
-      "Saint-Louis",
-      "Ziguinchor"
+      "Lac Maracaibo",
+      "Lac de Patzcuaro",
+      "Lac de Nicaragua"
     ],
     "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
+  },
+  {
+    "id": "919",
+    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
+    "answer": "Dunwall",
+    "badAnswers": [
+      "Karnaca",
+      "Serkonos",
+      "Gristol"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
+    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
   },
   {
-    "id": "1755",
-    "question": "Quel est le nom de l'inventeur du premier système de radio ?",
-    "answer": "Guglielmo Marconi",
+    "id": "1012",
+    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
+    "answer": "Bois de houx, plume de phénix",
     "badAnswers": [
+      "Bois de chêne, crin de licorne",
+      "Bois d'if, ventricule de dragon",
+      "Bois de saule, poil de vélane"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
+  },
+  {
+    "id": "2148",
+    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
+    "answer": "Italo Calvino",
+    "badAnswers": [
+      "Dino Buzzati",
+      "Cesare Pavese",
+      "Luigi Pirandello"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
+  },
+  {
+    "id": "291",
+    "question": "Quel est le premier livre de l'Ancien Testament ?",
+    "answer": "Genèse",
+    "badAnswers": [
+      "Exode",
+      "Lévitique",
+      "Nombres"
+    ],
+    "category": "Culture générale",
+    "difficulty": "facile",
+    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
+  },
+  {
+    "id": "1202",
+    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
+    "answer": "Carl von Linde",
+    "badAnswers": [
+      "Thomas Edison",
       "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Thomas Edison"
+      "James Harrison"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Guglielmo Marconi a développé le premier système de radio pratique dans les années 1890, pionnier des communications sans fil."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
   },
   {
-    "id": "1203",
-    "question": "Quel est le nom de la capitale de la Côte d'Ivoire ?",
-    "answer": "Yamoussoukro",
+    "id": "1191",
+    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
+    "answer": "Oscar Wilde",
     "badAnswers": [
-      "Abidjan",
-      "Bouaké",
-      "Daloa"
+      "Bram Stoker",
+      "H.G. Wells",
+      "Arthur Conan Doyle"
     ],
-    "category": "Géographie",
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Oscar Wilde a écrit 'Le Portrait de Dorian Gray' (1890), un roman gothique sur la vanité et la moralité, son seul roman publié."
+  },
+  {
+    "id": "732",
+    "question": "Quel est le nom de l'auteur de Voyage au bout de la nuit ?",
+    "answer": "Louis-Ferdinand Céline",
+    "badAnswers": [
+      "Marcel Proust",
+      "André Gide",
+      "Albert Camus"
+    ],
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Yamoussoukro, capitale de la Côte d'Ivoire, est connue pour sa basilique Notre-Dame de la Paix, l'une des plus grandes églises du monde."
+    "description": "Louis-Ferdinand Céline a écrit Voyage au bout de la nuit (1932), un roman sur les horreurs de la guerre et de la société. Proust, Gide et Camus sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
   }
 ]
