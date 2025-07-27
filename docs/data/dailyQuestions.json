@@ -1,132 +1,132 @@
 [
   {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
+    "id": "1059",
+    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
+    "answer": "Carbone",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Calcium",
+      "Chlore",
+      "Césium"
     ],
-    "category": "Musique",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
   },
   {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
     "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
-  },
-  {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
-    "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
   },
   {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
+    "id": "711",
+    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
+    "answer": "Yangtsé",
     "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
+      "Mékong",
+      "Gange",
+      "Amour"
     ],
-    "category": "Livres",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
+    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
   },
   {
-    "id": "2148",
-    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
-    "answer": "Italo Calvino",
+    "id": "973",
+    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
+    "answer": "IMKO-1",
     "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
-  },
-  {
-    "id": "291",
-    "question": "Quel est le premier livre de l'Ancien Testament ?",
-    "answer": "Genèse",
-    "badAnswers": [
-      "Exode",
-      "Lévitique",
-      "Nombres"
-    ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
-  },
-  {
-    "id": "1202",
-    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
-    "answer": "Carl von Linde",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "James Harrison"
-    ],
-    "category": "Histoire",
+    "category": "Informatique",
     "difficulty": "difficile",
-    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
+    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
   },
   {
-    "id": "1191",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
+    "id": "521",
+    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
+    "answer": "Yoshi",
     "badAnswers": [
-      "Bram Stoker",
-      "H.G. Wells",
-      "Arthur Conan Doyle"
+      "Toad",
+      "Luigi",
+      "Bowser"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Oscar Wilde a écrit 'Le Portrait de Dorian Gray' (1890), un roman gothique sur la vanité et la moralité, son seul roman publié."
+    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
   },
   {
-    "id": "732",
-    "question": "Quel est le nom de l'auteur de Voyage au bout de la nuit ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "738",
+    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
+    "answer": "Joseph Proust",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "Albert Camus"
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Dmitri Mendeleïev"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit Voyage au bout de la nuit (1932), un roman sur les horreurs de la guerre et de la société. Proust, Gide et Camus sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
   },
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "380",
+    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
+    "answer": "Les Nymphéas",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Impression, soleil levant",
+      "La Promenade",
+      "Le Déjeuner sur l’herbe"
     ],
-    "category": "Livres",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+  },
+  {
+    "id": "226",
+    "question": "Quel groupe chante 'Roxanne' ?",
+    "answer": "The Police",
+    "badAnswers": [
+      "INXS",
+      "Nirvana",
+      "Scorpions"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
+  },
+  {
+    "id": "1498",
+    "question": "Quel est le nom de la déesse grecque de la terre ?",
+    "answer": "Gaïa",
+    "badAnswers": [
+      "Déméter",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
+  },
+  {
+    "id": "46",
+    "question": "Quelle est la capitale de l'Italie ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Milan",
+      "Venise",
+      "Florence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
   }
 ]
