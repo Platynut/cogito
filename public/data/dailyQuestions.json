@@ -1,132 +1,132 @@
 [
   {
-    "id": "1059",
-    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
-    "answer": "Carbone",
+    "id": "1665",
+    "question": "Quel est le nom de l'inventeur du premier laser fonctionnel ?",
+    "answer": "Theodore Maiman",
     "badAnswers": [
-      "Calcium",
-      "Chlore",
-      "Césium"
+      "Charles Townes",
+      "Gordon Gould",
+      "Albert Einstein"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Theodore Maiman a construit le premier laser à rubis en 1960, révolutionnant les technologies optiques."
   },
   {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
+    "id": "821",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle de lumière ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
+      "Lux",
+      "Vayne",
+      "Senna"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
-  },
-  {
-    "id": "711",
-    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
-    "answer": "Yangtsé",
-    "badAnswers": [
-      "Mékong",
-      "Gange",
-      "Amour"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
+    "description": "Akali, surnommée La Sentinelle de lumière dans League of Legends, est une ninja utilisant des techniques lumineuses. Lux, Vayne et Senna sont d'autres champions liés à la lumière."
   },
   {
-    "id": "973",
-    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
-    "answer": "IMKO-1",
+    "id": "772",
+    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
+    "answer": "Moira",
     "badAnswers": [
-      "Pravetz 82",
-      "Pravetz 8D",
-      "IZOT 1030"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
-  },
-  {
-    "id": "521",
-    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Toad",
-      "Luigi",
-      "Bowser"
+      "Widowmaker",
+      "Ana",
+      "Ashe"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
-  },
-  {
-    "id": "738",
-    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
-    "answer": "Joseph Proust",
-    "badAnswers": [
-      "Antoine Lavoisier",
-      "John Dalton",
-      "Dmitri Mendeleïev"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
-  },
-  {
-    "id": "380",
-    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
-    "answer": "Les Nymphéas",
-    "badAnswers": [
-      "Impression, soleil levant",
-      "La Promenade",
-      "Le Déjeuner sur l’herbe"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
   },
   {
-    "id": "226",
-    "question": "Quel groupe chante 'Roxanne' ?",
-    "answer": "The Police",
+    "id": "1807",
+    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "INXS",
-      "Nirvana",
-      "Scorpions"
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
     ],
-    "category": "Musique",
+    "category": "Technologie",
     "difficulty": "facile",
-    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
   },
   {
-    "id": "1498",
-    "question": "Quel est le nom de la déesse grecque de la terre ?",
-    "answer": "Gaïa",
+    "id": "1087",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
+    "answer": "The Artist",
     "badAnswers": [
-      "Déméter",
-      "Héra",
-      "Athéna"
+      "Hugo",
+      "The Descendants",
+      "Midnight in Paris"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
   },
   {
-    "id": "46",
-    "question": "Quelle est la capitale de l'Italie ?",
-    "answer": "Rome",
+    "id": "123",
+    "question": "Comment s’appelle la plante mise en culture pour la production de la vanille ?",
+    "answer": "Le vanillier",
     "badAnswers": [
-      "Milan",
-      "Venise",
-      "Florence"
+      "Le vanillon",
+      "Le Vanier",
+      "La vanirguier"
     ],
-    "category": "Géographie",
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Le vanillier est une orchidée cultivée pour produire la vanille. Les autres termes sont des inventions ou des déformations."
+  },
+  {
+    "id": "710",
+    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
+    "answer": "Annie",
+    "badAnswers": [
+      "Lux",
+      "Ahri",
+      "Morgana"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
+  },
+  {
+    "id": "96",
+    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
+    "answer": "Sherlock Holmes",
+    "badAnswers": [
+      "Hercule Poirot",
+      "Miss Marple",
+      "Sam Spade"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
+    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
+  },
+  {
+    "id": "1407",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
+    "answer": "One Flew Over the Cuckoo's Nest",
+    "badAnswers": [
+      "Jaws",
+      "Dog Day Afternoon",
+      "Barry Lyndon"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
+  },
+  {
+    "id": "899",
+    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
+    "answer": "Colossal Coliseum",
+    "badAnswers": [
+      "Coral Castle",
+      "Craggy Cliffs",
+      "Weeping Woods"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
   }
 ]
