@@ -1,132 +1,132 @@
 [
   {
-    "id": "1665",
-    "question": "Quel est le nom de l'inventeur du premier laser fonctionnel ?",
-    "answer": "Theodore Maiman",
+    "id": "110",
+    "question": "Qui a été surnommé l'entraineur le plus nul du football français depuis Louis XVI?",
+    "answer": "Raymond Domenech",
     "badAnswers": [
-      "Charles Townes",
-      "Gordon Gould",
-      "Albert Einstein"
+      "Paul Le Guen",
+      "Pascal Dupraz",
+      "Jocelyn Gourvennec"
     ],
-    "category": "Technologie",
+    "category": "Sports",
     "difficulty": "difficile",
-    "description": "Theodore Maiman a construit le premier laser à rubis en 1960, révolutionnant les technologies optiques."
+    "description": "Raymond Domenech a été critiqué pour ses performances en tant que sélectionneur de l'équipe de France, notamment lors de la Coupe du Monde 2010. Paul Le Guen, Pascal Dupraz et Jocelyn Gourvennec sont d'autres entraîneurs français."
   },
   {
-    "id": "821",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle de lumière ?",
-    "answer": "Akali",
+    "id": "301",
+    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+    "answer": "Temps et Dimensions Relatives Dans l'Espace",
     "badAnswers": [
-      "Lux",
-      "Vayne",
-      "Senna"
+      "Temps et Réalité Dimensionnelle Dans l'Espace",
+      "Temps et Dimensions Relatives Dans le Style",
+      "Toilette, Corde, Chien, Soupe"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+  },
+  {
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Akali, surnommée La Sentinelle de lumière dans League of Legends, est une ninja utilisant des techniques lumineuses. Lux, Vayne et Senna sont d'autres champions liés à la lumière."
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
   },
   {
-    "id": "772",
-    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
-    "answer": "Moira",
+    "id": "901",
+    "question": "Quel scientifique a découvert la loi de la thermodynamique (première loi) ?",
+    "answer": "Julius Robert Mayer",
     "badAnswers": [
-      "Widowmaker",
-      "Ana",
-      "Ashe"
+      "Sadi Carnot",
+      "James Joule",
+      "William Thomson"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Julius Robert Mayer a formulé la première loi de la thermodynamique (conservation de l'énergie) au XIXe siècle. Carnot, Joule et Thomson ont contribué à d'autres aspects de la thermodynamique."
   },
   {
-    "id": "1807",
-    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
-    "answer": "Thomas Edison",
+    "id": "2139",
+    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
+    "answer": "E.A. Johnson",
     "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Steve Jobs",
+      "Alan Turing",
+      "Douglas Engelbart"
     ],
     "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
+    "difficulty": "normal",
+    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
   },
   {
-    "id": "1087",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
-    "answer": "The Artist",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
-      "Hugo",
-      "The Descendants",
-      "Midnight in Paris"
+      "Navi",
+      "Tatl",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "1806",
+    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Who",
+      "The Doors",
+      "The Kinks"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
+  },
+  {
+    "id": "189",
+    "question": "Qui a joué dans 'La Fureur de vivre' ?",
+    "answer": "James Dean",
+    "badAnswers": [
+      "Burt Lancaster",
+      "Clint Eastwood",
+      "Marlon Brando"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
+    "description": "James Dean a incarné Jim Stark dans 'La Fureur de vivre' (1955), un film culte sur la rébellion adolescente. Lancaster, Eastwood et Brando sont d'autres icônes du cinéma."
   },
   {
-    "id": "123",
-    "question": "Comment s’appelle la plante mise en culture pour la production de la vanille ?",
-    "answer": "Le vanillier",
+    "id": "181",
+    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
+    "answer": "Serpentard",
     "badAnswers": [
-      "Le vanillon",
-      "Le Vanier",
-      "La vanirguier"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le vanillier est une orchidée cultivée pour produire la vanille. Les autres termes sont des inventions ou des déformations."
-  },
-  {
-    "id": "710",
-    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
-    "answer": "Annie",
-    "badAnswers": [
-      "Lux",
-      "Ahri",
-      "Morgana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
-  },
-  {
-    "id": "96",
-    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
-    "answer": "Sherlock Holmes",
-    "badAnswers": [
-      "Hercule Poirot",
-      "Miss Marple",
-      "Sam Spade"
+      "Gryffondor",
+      "Poufsouffle",
+      "Serdaigle"
     ],
     "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
-  },
-  {
-    "id": "1407",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
-    "answer": "One Flew Over the Cuckoo's Nest",
-    "badAnswers": [
-      "Jaws",
-      "Dog Day Afternoon",
-      "Barry Lyndon"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
-  },
-  {
-    "id": "899",
-    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
-    "answer": "Colossal Coliseum",
-    "badAnswers": [
-      "Coral Castle",
-      "Craggy Cliffs",
-      "Weeping Woods"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
+    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
+  },
+  {
+    "id": "1165",
+    "question": "Quel est la capitale du Ghana ?",
+    "answer": "Accra",
+    "badAnswers": [
+      "Kumasi",
+      "Tamale",
+      "Sekondi"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Accra, capitale du Ghana, est une ville côtière dynamique, centre économique et culturel de l'Afrique de l'Ouest."
   }
 ]
