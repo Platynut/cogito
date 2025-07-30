@@ -1,132 +1,132 @@
 [
   {
-    "id": "110",
-    "question": "Qui a été surnommé l'entraineur le plus nul du football français depuis Louis XVI?",
-    "answer": "Raymond Domenech",
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
     "badAnswers": [
-      "Paul Le Guen",
-      "Pascal Dupraz",
-      "Jocelyn Gourvennec"
-    ],
-    "category": "Sports",
-    "difficulty": "difficile",
-    "description": "Raymond Domenech a été critiqué pour ses performances en tant que sélectionneur de l'équipe de France, notamment lors de la Coupe du Monde 2010. Paul Le Guen, Pascal Dupraz et Jocelyn Gourvennec sont d'autres entraîneurs français."
-  },
-  {
-    "id": "301",
-    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-    "answer": "Temps et Dimensions Relatives Dans l'Espace",
-    "badAnswers": [
-      "Temps et Réalité Dimensionnelle Dans l'Espace",
-      "Temps et Dimensions Relatives Dans le Style",
-      "Toilette, Corde, Chien, Soupe"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
-  },
-  {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
-    "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
-  },
-  {
-    "id": "901",
-    "question": "Quel scientifique a découvert la loi de la thermodynamique (première loi) ?",
-    "answer": "Julius Robert Mayer",
-    "badAnswers": [
-      "Sadi Carnot",
-      "James Joule",
-      "William Thomson"
+      "Sélénium",
+      "Silicium",
+      "Strontium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Julius Robert Mayer a formulé la première loi de la thermodynamique (conservation de l'énergie) au XIXe siècle. Carnot, Joule et Thomson ont contribué à d'autres aspects de la thermodynamique."
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
   },
   {
-    "id": "2139",
-    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
-    "answer": "E.A. Johnson",
+    "id": "7",
+    "question": "Quel est le système d'exploitation mobile développé par Google ?",
+    "answer": "Android",
     "badAnswers": [
-      "Steve Jobs",
-      "Alan Turing",
-      "Douglas Engelbart"
+      "iOS",
+      "Windows Phone",
+      "Symbian"
     ],
     "category": "Technologie",
-    "difficulty": "normal",
-    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
-  },
-  {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
-    "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
   },
   {
-    "id": "1806",
-    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
-    "answer": "The Rolling Stones",
+    "id": "1640",
+    "question": "Quel est le nom du groupe qui a chanté 'Champagne Supernova' ?",
+    "answer": "Oasis",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
+      "Blur",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
+    "description": "'Champagne Supernova', sorti en 1995 par Oasis, est une chanson britpop tirée de l'album (What's the Story) Morning Glory?."
   },
   {
-    "id": "189",
-    "question": "Qui a joué dans 'La Fureur de vivre' ?",
-    "answer": "James Dean",
+    "id": "1589",
+    "question": "Quel est le nom de la déesse grecque de la sagesse et de la guerre ?",
+    "answer": "Athéna",
     "badAnswers": [
-      "Burt Lancaster",
-      "Clint Eastwood",
-      "Marlon Brando"
+      "Héra",
+      "Aphrodite",
+      "Artémis"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "James Dean a incarné Jim Stark dans 'La Fureur de vivre' (1955), un film culte sur la rébellion adolescente. Lancaster, Eastwood et Brando sont d'autres icônes du cinéma."
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Athéna, déesse grecque de la sagesse et de la guerre stratégique, est souvent représentée avec une chouette et un bouclier."
   },
   {
-    "id": "181",
-    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
-    "answer": "Serpentard",
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
     "badAnswers": [
-      "Gryffondor",
-      "Poufsouffle",
-      "Serdaigle"
+      "Titane",
+      "Tantale",
+      "Thallium"
     ],
-    "category": "Littérature",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
   },
   {
-    "id": "1165",
-    "question": "Quel est la capitale du Ghana ?",
-    "answer": "Accra",
+    "id": "825",
+    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
+    "answer": "Robert Boyle",
     "badAnswers": [
-      "Kumasi",
-      "Tamale",
-      "Sekondi"
+      "Jacques Charles",
+      "Joseph Gay-Lussac",
+      "Émile Clapeyron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "392",
+    "question": "Quel est le nom du plus grand désert chaud du monde ?",
+    "answer": "Sahara",
+    "badAnswers": [
+      "Gobi",
+      "Kalahari",
+      "Atacama"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Accra, capitale du Ghana, est une ville côtière dynamique, centre économique et culturel de l'Afrique de l'Ouest."
+    "description": "Le désert du Sahara, en Afrique du Nord, est le plus grand désert chaud du monde, couvrant environ 9,2 millions de km². Il s’étend sur plusieurs pays, dont l’Égypte et l’Algérie. Le Gobi, le Kalahari et l’Atacama sont plus petits."
+  },
+  {
+    "id": "1441",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
+    "answer": "Patton",
+    "badAnswers": [
+      "MASH",
+      "Airport",
+      "Five Easy Pieces"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
+  },
+  {
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "1157",
+    "question": "Quel est la capitale de l'Équateur ?",
+    "answer": "Quito",
+    "badAnswers": [
+      "Guayaquil",
+      "Cuenca",
+      "Ambato"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Quito, capitale de l'Équateur, est une ville andine située à haute altitude, connue pour son centre colonial classé à l'UNESCO."
   }
 ]
