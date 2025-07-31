@@ -1,132 +1,132 @@
 [
   {
-    "id": "1560",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
-    "answer": "Seaborgium",
+    "id": "567",
+    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
+    "answer": "BB-8",
     "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Strontium"
+      "R2-D2",
+      "C-3PO",
+      "D-O"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
+  },
+  {
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
+    "badAnswers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
+    "difficulty": "normal",
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
   },
   {
-    "id": "7",
-    "question": "Quel est le système d'exploitation mobile développé par Google ?",
-    "answer": "Android",
+    "id": "1551",
+    "question": "Quel est le nom de la déesse grecque des saisons ?",
+    "answer": "Les Horae",
     "badAnswers": [
-      "iOS",
-      "Windows Phone",
-      "Symbian"
+      "Héra",
+      "Déméter",
+      "Athéna"
     ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
   },
   {
-    "id": "1640",
-    "question": "Quel est le nom du groupe qui a chanté 'Champagne Supernova' ?",
-    "answer": "Oasis",
+    "id": "267",
+    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
+    "answer": "Crise économique",
     "badAnswers": [
-      "Blur",
-      "Radiohead",
-      "The Verve"
+      "Crise politique",
+      "Crise sanitaire",
+      "Crise environnementale"
+    ],
+    "category": "Politique",
+    "difficulty": "difficile",
+    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
+  },
+  {
+    "id": "1043",
+    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
+    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "badAnswers": [
+      "Pirates des Caraïbes : Le Secret du coffre maudit",
+      "Pirates des Caraïbes : Jusqu'au bout du monde",
+      "Pirates des Caraïbes : La Fontaine de jouvence"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
+  },
+  {
+    "id": "1193",
+    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
+    "answer": "Queen et David Bowie",
+    "badAnswers": [
+      "The Rolling Stones",
+      "U2",
+      "The Who"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Champagne Supernova', sorti en 1995 par Oasis, est une chanson britpop tirée de l'album (What's the Story) Morning Glory?."
+    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
   },
   {
-    "id": "1589",
-    "question": "Quel est le nom de la déesse grecque de la sagesse et de la guerre ?",
-    "answer": "Athéna",
+    "id": "1979",
+    "question": "Quel est le nom de l'auteur de 'Huis clos' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Héra",
-      "Aphrodite",
-      "Artémis"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Athéna, déesse grecque de la sagesse et de la guerre stratégique, est souvent représentée avec une chouette et un bouclier."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "825",
-    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
-    "answer": "Robert Boyle",
-    "badAnswers": [
-      "Jacques Charles",
-      "Joseph Gay-Lussac",
-      "Émile Clapeyron"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "392",
-    "question": "Quel est le nom du plus grand désert chaud du monde ?",
-    "answer": "Sahara",
-    "badAnswers": [
-      "Gobi",
-      "Kalahari",
-      "Atacama"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le désert du Sahara, en Afrique du Nord, est le plus grand désert chaud du monde, couvrant environ 9,2 millions de km². Il s’étend sur plusieurs pays, dont l’Égypte et l’Algérie. Le Gobi, le Kalahari et l’Atacama sont plus petits."
-  },
-  {
-    "id": "1441",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
-    "answer": "Patton",
-    "badAnswers": [
-      "MASH",
-      "Airport",
-      "Five Easy Pieces"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
-  },
-  {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
+    "description": "Jean-Paul Sartre a écrit 'Huis clos' (1944), une pièce de théâtre existentialiste célèbre pour la phrase 'L'enfer, c'est les autres'."
   },
   {
-    "id": "1157",
-    "question": "Quel est la capitale de l'Équateur ?",
-    "answer": "Quito",
+    "id": "718",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
+    "answer": "Inkling",
     "badAnswers": [
-      "Guayaquil",
-      "Cuenca",
-      "Ambato"
+      "Octoling",
+      "Callie",
+      "Marie"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Quito, capitale de l'Équateur, est une ville andine située à haute altitude, connue pour son centre colonial classé à l'UNESCO."
+    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
+  },
+  {
+    "id": "1244",
+    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Jimi Hendrix Experience"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
+  },
+  {
+    "id": "1588",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
+    "answer": "Darmstadtium",
+    "badAnswers": [
+      "Dysprosium",
+      "Deutérium",
+      "Dubnium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
   }
 ]
