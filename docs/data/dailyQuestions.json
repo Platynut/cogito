@@ -1,132 +1,132 @@
 [
   {
-    "id": "567",
-    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
-    "answer": "BB-8",
+    "id": "4",
+    "question": "Quel élément chimique a pour symbole 'Fe' ?",
+    "answer": "Fer",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "D-O"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
-  },
-  {
-    "id": "634",
-    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
-    "answer": "Albert Einstein",
-    "badAnswers": [
-      "Isaac Newton",
-      "Max Planck",
-      "Niels Bohr"
+      "Fluor",
+      "Francium",
+      "Phosphore"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
-  },
-  {
-    "id": "1551",
-    "question": "Quel est le nom de la déesse grecque des saisons ?",
-    "answer": "Les Horae",
-    "badAnswers": [
-      "Héra",
-      "Déméter",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
-  },
-  {
-    "id": "267",
-    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
-    "answer": "Crise économique",
-    "badAnswers": [
-      "Crise politique",
-      "Crise sanitaire",
-      "Crise environnementale"
-    ],
-    "category": "Politique",
-    "difficulty": "difficile",
-    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
-  },
-  {
-    "id": "1043",
-    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
-    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
-    "badAnswers": [
-      "Pirates des Caraïbes : Le Secret du coffre maudit",
-      "Pirates des Caraïbes : Jusqu'au bout du monde",
-      "Pirates des Caraïbes : La Fontaine de jouvence"
-    ],
-    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
+    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
   },
   {
-    "id": "1193",
-    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
-    "answer": "Queen et David Bowie",
+    "id": "1857",
+    "question": "Quel est le nom de l'auteur de 'Le Château' ?",
+    "answer": "Franz Kafka",
     "badAnswers": [
-      "The Rolling Stones",
-      "U2",
-      "The Who"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
-  },
-  {
-    "id": "1979",
-    "question": "Quel est le nom de l'auteur de 'Huis clos' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "Simone de Beauvoir",
-      "André Gide"
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Rainer Maria Rilke"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Huis clos' (1944), une pièce de théâtre existentialiste célèbre pour la phrase 'L'enfer, c'est les autres'."
+    "description": "Franz Kafka a écrit 'Le Château' (1926), un roman inachevé sur l'aliénation et la bureaucratie."
   },
   {
-    "id": "718",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
-    "answer": "Inkling",
+    "id": "1617",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
+    "answer": "Livermorium",
     "badAnswers": [
-      "Octoling",
-      "Callie",
-      "Marie"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
-  },
-  {
-    "id": "1244",
-    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Jimi Hendrix Experience"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
-  },
-  {
-    "id": "1588",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
-    "answer": "Darmstadtium",
-    "badAnswers": [
-      "Dysprosium",
-      "Deutérium",
-      "Dubnium"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
+    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
+  },
+  {
+    "id": "558",
+    "question": "Quel est le nom du dieu romain de la mer ?",
+    "answer": "Neptune",
+    "badAnswers": [
+      "Jupiter",
+      "Mars",
+      "Mercure"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Neptune est le dieu romain de la mer, équivalent de Poséidon dans la mythologie grecque. Jupiter est le dieu du ciel, Mars celui de la guerre, et Mercure celui du commerce."
+  },
+  {
+    "id": "1850",
+    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "1277",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
+    "answer": "Zirconium",
+    "badAnswers": [
+      "Zinc",
+      "Yttrium",
+      "Xenon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
+  },
+  {
+    "id": "1028",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
+    "badAnswers": [
+      "Vénus",
+      "Mars",
+      "Jupiter"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
+  },
+  {
+    "id": "1854",
+    "question": "Quel est le nom du groupe qui a chanté 'Baba O'Riley' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Baba O'Riley', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+  },
+  {
+    "id": "1102",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
+    "answer": "Spotlight",
+    "badAnswers": [
+      "The Revenant",
+      "The Big Short",
+      "Mad Max: Fury Road"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
+  },
+  {
+    "id": "1186",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Geralt de Riv ?",
+    "answer": "The Witcher",
+    "badAnswers": [
+      "Dragon Age",
+      "Skyrim",
+      "Dark Souls"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Geralt de Riv est le sorceleur, héros de la série The Witcher, chassant des monstres dans un monde fantastique inspiré des romans d'Andrzej Sapkowski."
   }
 ]
