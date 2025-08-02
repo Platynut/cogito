@@ -1,132 +1,132 @@
 [
   {
-    "id": "4",
-    "question": "Quel élément chimique a pour symbole 'Fe' ?",
-    "answer": "Fer",
+    "id": "440",
+    "question": "Quel artiste a créé la sculpture Le Penseur ?",
+    "answer": "Auguste Rodin",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
+      "Michel-Ange",
+      "Donatello",
+      "Bernin"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
   },
   {
-    "id": "1857",
-    "question": "Quel est le nom de l'auteur de 'Le Château' ?",
-    "answer": "Franz Kafka",
+    "id": "1889",
+    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Thomas Mann",
-      "Hermann Hesse",
-      "Rainer Maria Rilke"
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'Le Château' (1926), un roman inachevé sur l'aliénation et la bureaucratie."
+    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
   },
   {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
+    "id": "487",
+    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Drangleic",
     "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Lordran",
+      "Lothric",
+      "Yharnam"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
-  },
-  {
-    "id": "558",
-    "question": "Quel est le nom du dieu romain de la mer ?",
-    "answer": "Neptune",
-    "badAnswers": [
-      "Jupiter",
-      "Mars",
-      "Mercure"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Neptune est le dieu romain de la mer, équivalent de Poséidon dans la mythologie grecque. Jupiter est le dieu du ciel, Mars celui de la guerre, et Mercure celui du commerce."
-  },
-  {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1277",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
-    "answer": "Zirconium",
-    "badAnswers": [
-      "Zinc",
-      "Yttrium",
-      "Xenon"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
+    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
   },
   {
-    "id": "1028",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
+    "id": "327",
+    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
+    "answer": "Jack Morrison",
     "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Jupiter"
+      "John Smith",
+      "Gabriel Reyes",
+      "Reinhardt Wilhelm"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
   },
   {
-    "id": "1854",
-    "question": "Quel est le nom du groupe qui a chanté 'Baba O'Riley' ?",
-    "answer": "The Who",
+    "id": "607",
+    "question": "Quel artiste a peint La Persistance de la mémoire ?",
+    "answer": "Salvador Dalí",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
+      "Pablo Picasso",
+      "Joan Miró",
+      "Max Ernst"
     ],
-    "category": "Musique",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "'Baba O'Riley', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "1102",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
-    "answer": "Spotlight",
+    "id": "1679",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
+    "answer": "You Can't Take It with You",
     "badAnswers": [
-      "The Revenant",
-      "The Big Short",
-      "Mad Max: Fury Road"
+      "The Adventures of Robin Hood",
+      "Boys Town",
+      "Jezebel"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
+    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
   },
   {
-    "id": "1186",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Geralt de Riv ?",
-    "answer": "The Witcher",
+    "id": "783",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière rousse de Velen ?",
+    "answer": "Keira Metz",
     "badAnswers": [
-      "Dragon Age",
-      "Skyrim",
-      "Dark Souls"
+      "Yennefer",
+      "Triss",
+      "Ciri"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Keira Metz est la sorcière rousse de Velen dans The Witcher 3: Wild Hunt, alliée de Geralt. Yennefer et Triss sont d'autres sorcières, et Ciri est sa fille adoptive."
+  },
+  {
+    "id": "131",
+    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
+    "answer": "Etretat",
+    "badAnswers": [
+      "Nice",
+      "Brest",
+      "Saint-Malo"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Geralt de Riv est le sorceleur, héros de la série The Witcher, chassant des monstres dans un monde fantastique inspiré des romans d'Andrzej Sapkowski."
+    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
+  },
+  {
+    "id": "1095",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
+    "answer": "Chlore",
+    "badAnswers": [
+      "Chrome",
+      "Césium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+  },
+  {
+    "id": "1378",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
+    "answer": "Gadolinium",
+    "badAnswers": [
+      "Gallium",
+      "Germanium",
+      "Gold"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
   }
 ]
