@@ -1,132 +1,132 @@
 [
   {
-    "id": "440",
-    "question": "Quel artiste a créé la sculpture Le Penseur ?",
-    "answer": "Auguste Rodin",
+    "id": "2035",
+    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Michel-Ange",
-      "Donatello",
-      "Bernin"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
+    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "834",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à l'arc-en-ciel ?",
+    "answer": "Ho-Oh",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
-  },
-  {
-    "id": "487",
-    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Drangleic",
-    "badAnswers": [
-      "Lordran",
-      "Lothric",
-      "Yharnam"
+      "Lugia",
+      "Suicune",
+      "Entei"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
-  },
-  {
-    "id": "327",
-    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
-    "answer": "Jack Morrison",
-    "badAnswers": [
-      "John Smith",
-      "Gabriel Reyes",
-      "Reinhardt Wilhelm"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
-  },
-  {
-    "id": "607",
-    "question": "Quel artiste a peint La Persistance de la mémoire ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Joan Miró",
-      "Max Ernst"
-    ],
-    "category": "Art",
     "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+    "description": "Ho-Oh est le Pokémon légendaire associé à l'arc-en-ciel dans Pokémon Or. Lugia est lié à la mer, Suicune à l'eau, et Entei au feu."
   },
   {
-    "id": "1679",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
-    "answer": "You Can't Take It with You",
+    "id": "1034",
+    "question": "Quel est le nom du premier président de la Russie après l'URSS ?",
+    "answer": "Boris Eltsine",
     "badAnswers": [
-      "The Adventures of Robin Hood",
-      "Boys Town",
-      "Jezebel"
+      "Vladimir Poutine",
+      "Mikhaïl Gorbatchev",
+      "Dmitri Medvedev"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Boris Eltsine fut le premier président de la Fédération de Russie de 1991 à 1999, jouant un rôle clé dans la transition post-soviétique."
+  },
+  {
+    "id": "1315",
+    "question": "Quel est le nom du groupe qui a chanté 'Come As You Are' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Come As You Are', sorti en 1991 par Nirvana, est une chanson grunge emblématique tirée de l'album Nevermind."
+  },
+  {
+    "id": "2139",
+    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
+    "answer": "E.A. Johnson",
+    "badAnswers": [
+      "Steve Jobs",
+      "Alan Turing",
+      "Douglas Engelbart"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
+  },
+  {
+    "id": "673",
+    "question": "Dans Pokémon Platine, quel est le Pokémon légendaire associé à l'Origine ?",
+    "answer": "Giratina",
+    "badAnswers": [
+      "Dialga",
+      "Palkia",
+      "Arceus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Giratina est le Pokémon légendaire associé à l'Origine dans Pokémon Platine, régnant sur le Monde Distorsion. Dialga représente le temps, Palkia l'espace, et Arceus est le créateur."
+  },
+  {
+    "id": "73",
+    "question": "Quel est l'animal le plus venimeux du monde ?",
+    "answer": "Méduse-boîte",
+    "badAnswers": [
+      "Cobra royal",
+      "Poisson-pierre",
+      "Serpent taïpan"
+    ],
+    "category": "Nature",
+    "difficulty": "difficile",
+    "description": "Cette méduse (Chironex fleckeri) australienne peut tuer un humain en 3 minutes. Son venin attaque le cœur, le système nerveux et les cellules cutanées."
+  },
+  {
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
+    "badAnswers": [
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+  },
+  {
+    "id": "1676",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
+    "answer": "The Life of Emile Zola",
+    "badAnswers": [
+      "The Awful Truth",
+      "Captains Courageous",
+      "Lost Horizon"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
+    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
   },
   {
-    "id": "783",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière rousse de Velen ?",
-    "answer": "Keira Metz",
+    "id": "1881",
+    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
+    "answer": "Homer Dudley",
     "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Ciri"
+      "Alan Turing",
+      "Dennis Gabor",
+      "Ray Kurzweil"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Keira Metz est la sorcière rousse de Velen dans The Witcher 3: Wild Hunt, alliée de Geralt. Yennefer et Triss sont d'autres sorcières, et Ciri est sa fille adoptive."
-  },
-  {
-    "id": "131",
-    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
-    "answer": "Etretat",
-    "badAnswers": [
-      "Nice",
-      "Brest",
-      "Saint-Malo"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
-  },
-  {
-    "id": "1095",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
-    "answer": "Chlore",
-    "badAnswers": [
-      "Chrome",
-      "Césium",
-      "Carbone"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
-  },
-  {
-    "id": "1378",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
-    "answer": "Gadolinium",
-    "badAnswers": [
-      "Gallium",
-      "Germanium",
-      "Gold"
-    ],
-    "category": "Science",
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
+    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
   }
 ]
