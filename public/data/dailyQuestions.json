@@ -1,132 +1,132 @@
 [
   {
-    "id": "2035",
-    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
-    "answer": "The Beatles",
+    "id": "1406",
+    "question": "Quel est la capitale du Tadjikistan ?",
+    "answer": "Douchanbé",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "834",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à l'arc-en-ciel ?",
-    "answer": "Ho-Oh",
-    "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Entei"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ho-Oh est le Pokémon légendaire associé à l'arc-en-ciel dans Pokémon Or. Lugia est lié à la mer, Suicune à l'eau, et Entei au feu."
-  },
-  {
-    "id": "1034",
-    "question": "Quel est le nom du premier président de la Russie après l'URSS ?",
-    "answer": "Boris Eltsine",
-    "badAnswers": [
-      "Vladimir Poutine",
-      "Mikhaïl Gorbatchev",
-      "Dmitri Medvedev"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Boris Eltsine fut le premier président de la Fédération de Russie de 1991 à 1999, jouant un rôle clé dans la transition post-soviétique."
-  },
-  {
-    "id": "1315",
-    "question": "Quel est le nom du groupe qui a chanté 'Come As You Are' ?",
-    "answer": "Nirvana",
-    "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come As You Are', sorti en 1991 par Nirvana, est une chanson grunge emblématique tirée de l'album Nevermind."
-  },
-  {
-    "id": "2139",
-    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
-    "answer": "E.A. Johnson",
-    "badAnswers": [
-      "Steve Jobs",
-      "Alan Turing",
-      "Douglas Engelbart"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
-  },
-  {
-    "id": "673",
-    "question": "Dans Pokémon Platine, quel est le Pokémon légendaire associé à l'Origine ?",
-    "answer": "Giratina",
-    "badAnswers": [
-      "Dialga",
-      "Palkia",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Giratina est le Pokémon légendaire associé à l'Origine dans Pokémon Platine, régnant sur le Monde Distorsion. Dialga représente le temps, Palkia l'espace, et Arceus est le créateur."
-  },
-  {
-    "id": "73",
-    "question": "Quel est l'animal le plus venimeux du monde ?",
-    "answer": "Méduse-boîte",
-    "badAnswers": [
-      "Cobra royal",
-      "Poisson-pierre",
-      "Serpent taïpan"
-    ],
-    "category": "Nature",
-    "difficulty": "difficile",
-    "description": "Cette méduse (Chironex fleckeri) australienne peut tuer un humain en 3 minutes. Son venin attaque le cœur, le système nerveux et les cellules cutanées."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
+      "Khujand",
+      "Kulob",
+      "Bokhtar"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+    "description": "Douchanbé, capitale du Tadjikistan, est une ville moderne située dans une vallée, connue pour son musée national et ses parcs."
   },
   {
-    "id": "1676",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
-    "answer": "The Life of Emile Zola",
+    "id": "292",
+    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
+    "answer": "Point d'exclamation",
     "badAnswers": [
-      "The Awful Truth",
-      "Captains Courageous",
-      "Lost Horizon"
+      "Signe dollar",
+      "Signe pourcentage",
+      "Astérisque"
+    ],
+    "category": "Informatique",
+    "difficulty": "facile",
+    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
+  },
+  {
+    "id": "1392",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ho ?",
+    "answer": "Holmium",
+    "badAnswers": [
+      "Hafnium",
+      "Hélium",
+      "Hydrargyrum"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'holmium, symbolisé par Ho, est un métal rare utilisé dans les lasers médicaux et les aimants pour ses propriétés magnétiques."
+  },
+  {
+    "id": "1970",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
+    "answer": "William Kouwenhoven",
+    "badAnswers": [
+      "Paul Zoll",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
+  },
+  {
+    "id": "330",
+    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
+    "answer": "Spoutnik 1",
+    "badAnswers": [
+      "Explorer 1",
+      "Vostok 1",
+      "Telstar"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
+  },
+  {
+    "id": "1844",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "Paul Zoll",
+      "Rune Elmqvist",
+      "Earl Bakken"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+  },
+  {
+    "id": "967",
+    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
+    "badAnswers": [
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
+    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
   },
   {
-    "id": "1881",
-    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
-    "answer": "Homer Dudley",
+    "id": "19",
+    "question": "Quel peintre a coupé une partie de son oreille ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "Alan Turing",
-      "Dennis Gabor",
-      "Ray Kurzweil"
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+  },
+  {
+    "id": "539",
+    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
+    "answer": "2-1B",
+    "badAnswers": [
+      "R2-D2",
+      "C-3PO",
+      "BB-8"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+  },
+  {
+    "id": "222",
+    "question": "Quel compositeur, né à Hambourg et mort à Vienne, est parfois considéré comme le « successeur » de Beethoven ?",
+    "answer": "Johannes Brahms",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Jean-Sébastien Bach",
+      "Frédéric Chopin"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Brahms (1833-1897) a été vu comme l'héritier de Beethoven dans la musique romantique. Mozart et Bach sont des prédécesseurs, Chopin était polonais."
   }
 ]
