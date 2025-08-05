@@ -1,132 +1,132 @@
 [
   {
-    "id": "1406",
-    "question": "Quel est la capitale du Tadjikistan ?",
-    "answer": "Douchanbé",
+    "id": "1374",
+    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
+    "answer": "Nirvana",
     "badAnswers": [
-      "Khujand",
-      "Kulob",
-      "Bokhtar"
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Douchanbé, capitale du Tadjikistan, est une ville moderne située dans une vallée, connue pour son musée national et ses parcs."
-  },
-  {
-    "id": "292",
-    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
-    "answer": "Point d'exclamation",
-    "badAnswers": [
-      "Signe dollar",
-      "Signe pourcentage",
-      "Astérisque"
-    ],
-    "category": "Informatique",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
+    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
   },
   {
-    "id": "1392",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ho ?",
-    "answer": "Holmium",
+    "id": "1555",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
+    "answer": "Dubnium",
     "badAnswers": [
-      "Hafnium",
-      "Hélium",
-      "Hydrargyrum"
+      "Dysprosium",
+      "Darmstadtium",
+      "Deutérium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "L'holmium, symbolisé par Ho, est un métal rare utilisé dans les lasers médicaux et les aimants pour ses propriétés magnétiques."
+    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
   },
   {
-    "id": "1970",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
-    "answer": "William Kouwenhoven",
+    "id": "1094",
+    "question": "Quelle est la capitale de l'Écosse ?",
+    "answer": "Édimbourg",
     "badAnswers": [
-      "Paul Zoll",
-      "Claude Beck",
-      "Bernard Lown"
+      "Glasgow",
+      "Aberdeen",
+      "Dundee"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Édimbourg est la capitale de l'Écosse, célèbre pour son château historique et le festival international d'Édimbourg."
   },
   {
-    "id": "330",
-    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
-    "answer": "Spoutnik 1",
+    "id": "1023",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong",
     "badAnswers": [
-      "Explorer 1",
-      "Vostok 1",
-      "Telstar"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "Alan Shepard"
     ],
     "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
-  },
-  {
-    "id": "1844",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
-    "answer": "Wilson Greatbatch",
-    "badAnswers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Earl Bakken"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
-  },
-  {
-    "id": "967",
-    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
-    "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
-  },
-  {
-    "id": "19",
-    "question": "Quel peintre a coupé une partie de son oreille ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
     "difficulty": "facile",
-    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
   },
   {
-    "id": "539",
-    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
-    "answer": "2-1B",
+    "id": "1897",
+    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "BB-8"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
-  },
-  {
-    "id": "222",
-    "question": "Quel compositeur, né à Hambourg et mort à Vienne, est parfois considéré comme le « successeur » de Beethoven ?",
-    "answer": "Johannes Brahms",
-    "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Jean-Sébastien Bach",
-      "Frédéric Chopin"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+  },
+  {
+    "id": "2006",
+    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
+    "answer": "Michel Houellebecq",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Brahms (1833-1897) a été vu comme l'héritier de Beethoven dans la musique romantique. Mozart et Bach sont des prédécesseurs, Chopin était polonais."
+    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
+  },
+  {
+    "id": "1582",
+    "question": "Quel est la capitale de l'Érythrée ?",
+    "answer": "Asmara",
+    "badAnswers": [
+      "Massawa",
+      "Keren",
+      "Assab"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
+  },
+  {
+    "id": "34",
+    "question": "Dans quelle ville se trouve la Maison Blanche ?",
+    "answer": "Washington D.C.",
+    "badAnswers": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
+  },
+  {
+    "id": "1927",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
+    "answer": "Frank Whittle",
+    "badAnswers": [
+      "Hans von Ohain",
+      "Robert Goddard",
+      "Wernher von Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+  },
+  {
+    "id": "1620",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
+    "answer": "Tennesse",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
   }
 ]
