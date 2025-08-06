@@ -1,132 +1,132 @@
 [
   {
-    "id": "1374",
-    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
-    "answer": "Nirvana",
+    "id": "817",
+    "question": "Quel est la capitale de la Pologne ?",
+    "answer": "Varsovie",
     "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
-  },
-  {
-    "id": "1555",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
-    "answer": "Dubnium",
-    "badAnswers": [
-      "Dysprosium",
-      "Darmstadtium",
-      "Deutérium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
-  },
-  {
-    "id": "1094",
-    "question": "Quelle est la capitale de l'Écosse ?",
-    "answer": "Édimbourg",
-    "badAnswers": [
-      "Glasgow",
-      "Aberdeen",
-      "Dundee"
+      "Cracovie",
+      "Gdansk",
+      "Wroclaw"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Édimbourg est la capitale de l'Écosse, célèbre pour son château historique et le festival international d'Édimbourg."
+    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
   },
   {
-    "id": "1023",
-    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-    "answer": "Neil Armstrong",
+    "id": "864",
+    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
+    "answer": "Toriel",
     "badAnswers": [
-      "Buzz Aldrin",
-      "Yuri Gagarine",
-      "Alan Shepard"
+      "Sans",
+      "Papyrus",
+      "Undyne"
     ],
-    "category": "Histoire",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
+    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
   },
   {
-    "id": "1897",
-    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
-  },
-  {
-    "id": "2006",
-    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
-    "answer": "Michel Houellebecq",
+    "id": "2018",
+    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Albert Camus",
+      "Simone de Beauvoir",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
+    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
   },
   {
-    "id": "1582",
-    "question": "Quel est la capitale de l'Érythrée ?",
-    "answer": "Asmara",
+    "id": "1379",
+    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
+    "answer": "Apollon",
     "badAnswers": [
-      "Massawa",
-      "Keren",
-      "Assab"
+      "Hélios",
+      "Zeus",
+      "Poséidon"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
-  },
-  {
-    "id": "34",
-    "question": "Dans quelle ville se trouve la Maison Blanche ?",
-    "answer": "Washington D.C.",
-    "badAnswers": [
-      "New York",
-      "Los Angeles",
-      "Chicago"
-    ],
-    "category": "Géographie",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
+    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
   },
   {
-    "id": "1927",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
-    "answer": "Frank Whittle",
+    "id": "444",
+    "question": "Quel scientifique a découvert le principe de flottabilité ?",
+    "answer": "Archimède",
     "badAnswers": [
-      "Hans von Ohain",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
-  },
-  {
-    "id": "1620",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
-    "answer": "Tennesse",
-    "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "Galilée",
+      "Isaac Newton",
+      "Blaise Pascal"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
+    "difficulty": "normal",
+    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+  },
+  {
+    "id": "458",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la princesse du Crépuscule ?",
+    "answer": "Midna",
+    "badAnswers": [
+      "Zelda",
+      "Epona",
+      "Navi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Midna est la princesse du Crépuscule dans The Legend of Zelda: Twilight Princess, une alliée clé de Link qui l'accompagne dans sa quête. Zelda est la princesse d'Hyrule, Epona est le cheval de Link, et Navi est une fée dans Ocarina of Time."
+  },
+  {
+    "id": "1865",
+    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
+    "answer": "Hermann Hesse",
+    "badAnswers": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
+  },
+  {
+    "id": "681",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour posséder d'autres créatures ?",
+    "answer": "Cappy",
+    "badAnswers": [
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Cappy est le chapeau magique que Mario utilise pour posséder des créatures dans Super Mario Odyssey. Luma est dans Super Mario Galaxy, Toad est un allié, et Bowser Jr. un ennemi."
+  },
+  {
+    "id": "781",
+    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+  },
+  {
+    "id": "930",
+    "question": "Quel est le titre du premier film Star Wars selon l'ordre de sortie ?",
+    "answer": "Un Nouvel Espoir",
+    "badAnswers": [
+      "La Menace Fantôme",
+      "Le Réveil de la Force",
+      "La Revanche des Sith"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Star Wars : Un Nouvel Espoir, sorti en 1977, est le premier film de la saga Star Wars réalisé par George Lucas. Initialement intitulé simplement Star Wars, il a introduit des personnages emblématiques comme Luke Skywalker et Darth Vader. Les autres options sont des films sortis plus tard dans la chronologie de la saga."
   }
 ]
