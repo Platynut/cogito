@@ -1,132 +1,132 @@
 [
   {
-    "id": "817",
-    "question": "Quel est la capitale de la Pologne ?",
-    "answer": "Varsovie",
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
     "badAnswers": [
-      "Cracovie",
-      "Gdansk",
-      "Wroclaw"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
-  },
-  {
-    "id": "864",
-    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
-    "answer": "Toriel",
-    "badAnswers": [
-      "Sans",
-      "Papyrus",
-      "Undyne"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
-  },
-  {
-    "id": "2018",
-    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
-  },
-  {
-    "id": "1379",
-    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
-    "answer": "Apollon",
-    "badAnswers": [
-      "Hélios",
-      "Zeus",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
-  },
-  {
-    "id": "444",
-    "question": "Quel scientifique a découvert le principe de flottabilité ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Blaise Pascal"
+      "Chrome",
+      "Cuivre",
+      "Césium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
-  },
-  {
-    "id": "458",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la princesse du Crépuscule ?",
-    "answer": "Midna",
-    "badAnswers": [
-      "Zelda",
-      "Epona",
-      "Navi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Midna est la princesse du Crépuscule dans The Legend of Zelda: Twilight Princess, une alliée clé de Link qui l'accompagne dans sa quête. Zelda est la princesse d'Hyrule, Epona est le cheval de Link, et Navi est une fée dans Ocarina of Time."
-  },
-  {
-    "id": "1865",
-    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
-    "answer": "Hermann Hesse",
-    "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Rainer Maria Rilke"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
-  },
-  {
-    "id": "681",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour posséder d'autres créatures ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour posséder des créatures dans Super Mario Odyssey. Luma est dans Super Mario Galaxy, Toad est un allié, et Bowser Jr. un ennemi."
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
   },
   {
-    "id": "781",
-    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
-    "answer": "Johannes Kepler",
+    "id": "527",
+    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
+    "answer": "Darius",
     "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Draven",
+      "Swain",
+      "Kled"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
   },
   {
-    "id": "930",
-    "question": "Quel est le titre du premier film Star Wars selon l'ordre de sortie ?",
-    "answer": "Un Nouvel Espoir",
+    "id": "1528",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
+    "answer": "All About Eve",
     "badAnswers": [
-      "La Menace Fantôme",
-      "Le Réveil de la Force",
-      "La Revanche des Sith"
+      "Sunset Boulevard",
+      "Born Yesterday",
+      "King Solomon's Mines"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Star Wars : Un Nouvel Espoir, sorti en 1977, est le premier film de la saga Star Wars réalisé par George Lucas. Initialement intitulé simplement Star Wars, il a introduit des personnages emblématiques comme Luke Skywalker et Darth Vader. Les autres options sont des films sortis plus tard dans la chronologie de la saga."
+    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+  },
+  {
+    "id": "448",
+    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
+    "answer": "Sekiro",
+    "badAnswers": [
+      "Isshin",
+      "Genichiro",
+      "Kuro"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
+  },
+  {
+    "id": "1880",
+    "question": "Quel est le nom du groupe qui a chanté 'Foxy Lady' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Foxy Lady', sorti en 1967 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
+  },
+  {
+    "id": "408",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
+    "answer": "Epona",
+    "badAnswers": [
+      "Rauru",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
+  },
+  {
+    "id": "923",
+    "question": "Quel acteur américain prête sa voix à Cave Johnson, le PDG d'Aperture Science, dans le jeu vidéo Portal 2 ?",
+    "answer": "J.K. Simmons",
+    "badAnswers": [
+      "Nolan North",
+      "John Patrick Lowrie",
+      "Christopher Lloyd"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "J.K. Simmons prête sa voix à Cave Johnson, le charismatique et excentrique PDG d'Aperture Science dans Portal 2. Connu pour ses rôles dans Spider-Man (J. Jonah Jameson) et Whiplash (pour lequel il a remporté un Oscar), Simmons donne une performance mémorable avec son ton autoritaire et humoristique. Les autres options, comme Nolan North, sont des acteurs de doublage bien connus, mais ils n'ont pas prêté leur voix à ce personnage."
+  },
+  {
+    "id": "549",
+    "question": "Dans Harry Potter, quel est le nom du gardien des clés à Poudlard ?",
+    "answer": "Rubeus Hagrid",
+    "badAnswers": [
+      "Argus Rusard",
+      "Filius Flitwick",
+      "Pomona Chourave"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, ainsi que professeur de soins aux créatures magiques. Rusard est le concierge, Flitwick et Chourave sont des professeurs."
+  },
+  {
+    "id": "141",
+    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Russie",
+      "Etats-Unis",
+      "Italie"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
+  },
+  {
+    "id": "693",
+    "question": "Quel artiste a peint Le Radeau de la Méduse ?",
+    "answer": "Théodore Géricault",
+    "badAnswers": [
+      "Eugène Delacroix",
+      "Jacques-Louis David",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Radeau de la Méduse (1819) de Théodore Géricault est une peinture romantique dramatique sur un naufrage. Delacroix, David et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
   }
 ]
