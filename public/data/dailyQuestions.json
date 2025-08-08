@@ -1,132 +1,132 @@
 [
   {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
+    "id": "965",
+    "question": "Qui a écrit la pièce de théâtre Angels in America ?",
+    "answer": "Tony Kushner",
     "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
     ],
-    "category": "Science",
+    "category": "Comédies musicales et théâtre",
     "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+    "description": "Tony Kushner est l'auteur de Angels in America, une pièce en deux parties sur l'épidémie de sida aux États-Unis dans les années 1980, acclamée pour sa profondeur et son style."
   },
   {
-    "id": "527",
-    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
-    "answer": "Darius",
+    "id": "772",
+    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
+    "answer": "Moira",
     "badAnswers": [
-      "Draven",
-      "Swain",
-      "Kled"
+      "Widowmaker",
+      "Ana",
+      "Ashe"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
   },
   {
-    "id": "1528",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
-    "answer": "All About Eve",
+    "id": "1210",
+    "question": "Quel est la capitale du Soudan ?",
+    "answer": "Khartoum",
     "badAnswers": [
-      "Sunset Boulevard",
-      "Born Yesterday",
-      "King Solomon's Mines"
+      "Omdurman",
+      "Port-Soudan",
+      "Kassala"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Khartoum, capitale du Soudan, est située au confluent du Nil Bleu et du Nil Blanc, un centre politique et économique clé."
+  },
+  {
+    "id": "455",
+    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
+    "answer": "Galar",
+    "badAnswers": [
+      "Sinnoh",
+      "Hoenn",
+      "Alola"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+  },
+  {
+    "id": "199",
+    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
+    "answer": "Francis Bacon",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
+  },
+  {
+    "id": "1357",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dante ?",
+    "answer": "Devil May Cry",
+    "badAnswers": [
+      "God of War",
+      "Bayonetta",
+      "Dante's Inferno"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dante, chasseur de démons charismatique, est le héros de la série Devil May Cry, connu pour ses combats stylés."
+  },
+  {
+    "id": "1087",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
+    "answer": "The Artist",
+    "badAnswers": [
+      "Hugo",
+      "The Descendants",
+      "Midnight in Paris"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
   },
   {
-    "id": "448",
-    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
-    "answer": "Sekiro",
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
     "badAnswers": [
-      "Isshin",
-      "Genichiro",
-      "Kuro"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
-  },
-  {
-    "id": "1880",
-    "question": "Quel est le nom du groupe qui a chanté 'Foxy Lady' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Foxy Lady', sorti en 1967 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "408",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
-    "answer": "Epona",
-    "badAnswers": [
-      "Rauru",
-      "Midna",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
-  },
-  {
-    "id": "923",
-    "question": "Quel acteur américain prête sa voix à Cave Johnson, le PDG d'Aperture Science, dans le jeu vidéo Portal 2 ?",
-    "answer": "J.K. Simmons",
-    "badAnswers": [
-      "Nolan North",
-      "John Patrick Lowrie",
-      "Christopher Lloyd"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "J.K. Simmons prête sa voix à Cave Johnson, le charismatique et excentrique PDG d'Aperture Science dans Portal 2. Connu pour ses rôles dans Spider-Man (J. Jonah Jameson) et Whiplash (pour lequel il a remporté un Oscar), Simmons donne une performance mémorable avec son ton autoritaire et humoristique. Les autres options, comme Nolan North, sont des acteurs de doublage bien connus, mais ils n'ont pas prêté leur voix à ce personnage."
-  },
-  {
-    "id": "549",
-    "question": "Dans Harry Potter, quel est le nom du gardien des clés à Poudlard ?",
-    "answer": "Rubeus Hagrid",
-    "badAnswers": [
-      "Argus Rusard",
-      "Filius Flitwick",
-      "Pomona Chourave"
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, ainsi que professeur de soins aux créatures magiques. Rusard est le concierge, Flitwick et Chourave sont des professeurs."
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
   },
   {
-    "id": "141",
-    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
-    "answer": "Afrique du Sud",
+    "id": "1769",
+    "question": "Quel est le nom du groupe qui a chanté 'Sharp Dressed Man' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Russie",
-      "Etats-Unis",
-      "Italie"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sharp Dressed Man', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
   },
   {
-    "id": "693",
-    "question": "Quel artiste a peint Le Radeau de la Méduse ?",
-    "answer": "Théodore Géricault",
+    "id": "2050",
+    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Eugène Delacroix",
-      "Jacques-Louis David",
-      "Jean-Auguste-Dominique Ingres"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Art",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le Radeau de la Méduse (1819) de Théodore Géricault est une peinture romantique dramatique sur un naufrage. Delacroix, David et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
+    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
   }
 ]
