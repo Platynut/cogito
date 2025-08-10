@@ -1,132 +1,132 @@
 [
   {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
+    "id": "1831",
+    "question": "Quel est le nom de l'auteur de 'Spleen de Paris' ?",
+    "answer": "Charles Baudelaire",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Charles Baudelaire a écrit 'Spleen de Paris' (1869), un recueil de poèmes en prose sur la vie urbaine."
+  },
+  {
+    "id": "202",
+    "question": "Que déposent les Norvégiens sous le sapin, la veille de Noël ?",
+    "answer": "Un bol d'avoine",
+    "badAnswers": [
+      "Des carottes",
+      "Des pièces de monnaie",
+      "Du lait"
+    ],
+    "category": "Culture générale",
+    "difficulty": "normal",
+    "description": "En Norvège, on dépose un bol d'avoine pour le 'nisse' (lutin protecteur) lors de la nuit de Noël. Aux Pays-Bas, ce sont des carottes pour les rennes du Père Noël."
+  },
+  {
+    "id": "1692",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
+    "answer": "Palladium",
+    "badAnswers": [
+      "Platine",
+      "Plomb",
+      "Polonium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
+  },
+  {
+    "id": "440",
+    "question": "Quel artiste a créé la sculpture Le Penseur ?",
+    "answer": "Auguste Rodin",
+    "badAnswers": [
+      "Michel-Ange",
+      "Donatello",
+      "Bernin"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
+  },
+  {
+    "id": "1484",
+    "question": "Quel est le nom du dieu grec du vent du nord ?",
+    "answer": "Borée",
+    "badAnswers": [
+      "Éole",
+      "Zéphyr",
+      "Notos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
+  },
+  {
+    "id": "76",
+    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
+    "answer": "Tesla",
+    "badAnswers": [
+      "Rivian",
+      "Lucid Motors",
+      "Nio"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
+  },
+  {
+    "id": "837",
+    "question": "Quel compositeur a écrit La Flûte enchantée ?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "badAnswers": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+    "description": "Wolfgang Amadeus Mozart a composé *La Flûte enchantée* en 1791, un opéra en deux actes mêlant conte merveilleux et symbolisme maçonnique. L'œuvre est célèbre pour ses airs virtuoses, comme celui de la Reine de la Nuit. Bien que Beethoven, Bach et Vivaldi soient des compositeurs majeurs de la musique classique, aucun d’eux n’est lié à cette œuvre."
   },
   {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
+    "id": "1293",
+    "question": "Quel est le nom de l'auteur de 'L'Alchimiste' ?",
+    "answer": "Paulo Coelho",
     "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
-  },
-  {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
-    "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
-  },
-  {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
-    "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
-  },
-  {
-    "id": "2148",
-    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
-    "answer": "Italo Calvino",
-    "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
-  },
-  {
-    "id": "291",
-    "question": "Quel est le premier livre de l'Ancien Testament ?",
-    "answer": "Genèse",
-    "badAnswers": [
-      "Exode",
-      "Lévitique",
-      "Nombres"
-    ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
-  },
-  {
-    "id": "1202",
-    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
-    "answer": "Carl von Linde",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "James Harrison"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
-  },
-  {
-    "id": "1191",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
-    "badAnswers": [
-      "Bram Stoker",
-      "H.G. Wells",
-      "Arthur Conan Doyle"
+      "Gabriel García Márquez",
+      "Isabel Allende",
+      "Jorge Luis Borges"
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Oscar Wilde a écrit 'Le Portrait de Dorian Gray' (1890), un roman gothique sur la vanité et la moralité, son seul roman publié."
+    "description": "Paulo Coelho a écrit 'L'Alchimiste' (1988), un roman philosophique sur la quête d'un jeune Andalou suivant sa légende personnelle."
   },
   {
-    "id": "732",
-    "question": "Quel est le nom de l'auteur de Voyage au bout de la nuit ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "1674",
+    "question": "Quel est le nom du groupe qui a chanté 'The Scientist' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "Albert Camus"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit Voyage au bout de la nuit (1932), un roman sur les horreurs de la guerre et de la société. Proust, Gide et Camus sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'The Scientist', sorti en 2002 par Coldplay, est une ballade mélancolique tirée de l'album A Rush of Blood to the Head."
   },
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "277",
+    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
+    "answer": "M. Spittle",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "M. Boreman",
+      "M. Spitling",
+      "M. Moe"
     ],
-    "category": "Livres",
+    "category": "Bandes dessinées",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
   }
 ]
