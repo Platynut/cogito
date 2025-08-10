@@ -1,7 +1,7 @@
 .help-fab {
   position: fixed;
-  right: 3vw;
-  bottom: 3vw;
+  right: 24px;
+  bottom: 24px;
   width: 28px;
   height: 28px;
   border-radius: 50%;
@@ -62,4 +62,22 @@
   font-size: 1.1rem;
   color: #34495e;
   text-align: center;
+}
+
+.help-feedback-btn {
+  margin-top: 1.8em;
+  padding: 0.6em 1.4em;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 999px;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.help-feedback-btn:hover {
+  background-color: #1e40af;
+  transform: scale(1.05);
 }
