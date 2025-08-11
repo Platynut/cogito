@@ -1,132 +1,132 @@
 [
   {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
+    "id": "650",
+    "question": "Quel est le plus grand mammifère marin du monde ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
+      "Cachalot",
+      "Orque",
+      "Rorqual commun"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1592",
-    "question": "Quel est le nom du groupe qui a chanté 'Love Bites' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
-    ],
-    "category": "Musique",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "'Love Bites', sorti en 1987 par Def Leppard, est une ballade rock tirée de l'album Hysteria."
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
   },
   {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
-  },
-  {
-    "id": "981",
-    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
-    "answer": "2 décembre 1804",
-    "badAnswers": [
-      "3 juillet 1802",
-      "8 mars 1803",
-      "15 octobre 1804"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
-  },
-  {
-    "id": "518",
-    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
-    "answer": "Sombra",
-    "badAnswers": [
-      "Reaper",
-      "Tracer",
-      "D.Va"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
-  },
-  {
-    "id": "403",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Luke Skywalker ?",
-    "answer": "Tatooine",
-    "badAnswers": [
-      "Naboo",
-      "Coruscant",
-      "Endor"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Tatooine est la planète désertique natale de Luke Skywalker dans Star Wars, connue pour ses deux soleils et son environnement aride. Naboo, Coruscant et Endor sont d’autres planètes de l’univers, mais Luke est originaire de Tatooine."
-  },
-  {
-    "id": "168",
-    "question": "Avec quel film de Steven Soderbergh le COVID-19 présente-t-il des points communs ?",
-    "answer": "Contagion",
-    "badAnswers": [
-      "Bubble",
-      "Paranoïa",
-      "Traffic"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "'Contagion' (2011) décrit une pandémie mondiale avec des similitudes frappantes avec le COVID-19. 'Traffic' parle de trafic de drogue, les autres titres sont inventés."
-  },
-  {
-    "id": "1540",
-    "question": "Quel est la capitale du Gabon ?",
-    "answer": "Libreville",
-    "badAnswers": [
-      "Port-Gentil",
-      "Franceville",
-      "Oyem"
+      "Derry",
+      "Lisburn",
+      "Newry"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
   },
   {
-    "id": "982",
-    "question": "Dans l'anime Medaka Box, quelle est l'anomalie de Medaka Kurokami ?",
-    "answer": "The End",
+    "id": "547",
+    "question": "Dans Fortnite, quel est le nom de l'événement final d'une partie de Battle Royale ?",
+    "answer": "Cercle final",
     "badAnswers": [
-      "Perfection",
-      "Sandbox",
-      "Équité"
+      "Tempête ultime",
+      "Zone finale",
+      "Anneau de feu"
     ],
-    "category": "Anime et Manga",
-    "difficulty": "difficile",
-    "description": "Dans Medaka Box, l'anomalie 'The End' permet à Medaka Kurokami de copier et de perfectionner les capacités des autres, la rendant incroyablement puissante."
-  },
-  {
-    "id": "1477",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
-    "answer": "Ben-Hur",
-    "badAnswers": [
-      "The Diary of Anne Frank",
-      "Anatomy of a Murder",
-      "Room at the Top"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
+    "description": "Le Cercle final est l'événement final d'une partie de Fortnite Battle Royale, où la tempête se referme complètement, forçant les derniers joueurs à s'affronter. Les autres termes sont fictifs ou incorrects."
+  },
+  {
+    "id": "527",
+    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
+    "answer": "Darius",
+    "badAnswers": [
+      "Draven",
+      "Swain",
+      "Kled"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+  },
+  {
+    "id": "1788",
+    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
+    "answer": "Creedence Clearwater Revival",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
+  },
+  {
+    "id": "1190",
+    "question": "Quelle divinité grecque est associée à la guerre juste et à la stratégie ?",
+    "answer": "Athéna",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Athéna, déesse de la guerre juste et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
+  },
+  {
+    "id": "1976",
+    "question": "Quel est le nom du groupe qui a chanté 'Happiness Is a Warm Gun' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Happiness Is a Warm Gun', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "507",
+    "question": "Quel est la capitale de la Corée du Sud ?",
+    "answer": "Séoul",
+    "badAnswers": [
+      "Busan",
+      "Incheon",
+      "Daegu"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
+  },
+  {
+    "id": "1621",
+    "question": "Quel est la capitale de la Tanzanie ?",
+    "answer": "Dodoma",
+    "badAnswers": [
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
+  },
+  {
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
   }
 ]
