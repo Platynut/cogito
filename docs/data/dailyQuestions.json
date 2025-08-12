@@ -1,125 +1,34 @@
 [
   {
-    "id": "650",
-    "question": "Quel est le plus grand mammifère marin du monde ?",
-    "answer": "Baleine bleue",
+    "id": "1546",
+    "question": "Quel est la capitale du Liberia ?",
+    "answer": "Monrovia",
     "badAnswers": [
-      "Cachalot",
-      "Orque",
-      "Rorqual commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
-  },
-  {
-    "id": "1096",
-    "question": "Quelle est la capitale de l'Irlande du Nord ?",
-    "answer": "Belfast",
-    "badAnswers": [
-      "Derry",
-      "Lisburn",
-      "Newry"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
-  },
-  {
-    "id": "547",
-    "question": "Dans Fortnite, quel est le nom de l'événement final d'une partie de Battle Royale ?",
-    "answer": "Cercle final",
-    "badAnswers": [
-      "Tempête ultime",
-      "Zone finale",
-      "Anneau de feu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Cercle final est l'événement final d'une partie de Fortnite Battle Royale, où la tempête se referme complètement, forçant les derniers joueurs à s'affronter. Les autres termes sont fictifs ou incorrects."
-  },
-  {
-    "id": "527",
-    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
-    "answer": "Darius",
-    "badAnswers": [
-      "Draven",
-      "Swain",
-      "Kled"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
-  },
-  {
-    "id": "1788",
-    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
-    "answer": "Creedence Clearwater Revival",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
-  },
-  {
-    "id": "1190",
-    "question": "Quelle divinité grecque est associée à la guerre juste et à la stratégie ?",
-    "answer": "Athéna",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Athéna, déesse de la guerre juste et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
-  },
-  {
-    "id": "1976",
-    "question": "Quel est le nom du groupe qui a chanté 'Happiness Is a Warm Gun' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Happiness Is a Warm Gun', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
-  },
-  {
-    "id": "507",
-    "question": "Quel est la capitale de la Corée du Sud ?",
-    "answer": "Séoul",
-    "badAnswers": [
-      "Busan",
-      "Incheon",
-      "Daegu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
-  },
-  {
-    "id": "1621",
-    "question": "Quel est la capitale de la Tanzanie ?",
-    "answer": "Dodoma",
-    "badAnswers": [
-      "Dar es Salaam",
-      "Arusha",
-      "Mwanza"
+      "Gbarnga",
+      "Buchanan",
+      "Harper"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
+    "description": "Monrovia, capitale du Liberia, est une ville portuaire nommée d'après le président américain James Monroe, connue pour ses plages."
   },
   {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
+    "id": "1296",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
+    "answer": "Xénon",
+    "badAnswers": [
+      "Krypton",
+      "Radon",
+      "Argon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
+  },
+  {
+    "id": "1759",
+    "question": "Quel est le nom de la déesse grecque de l'aurore ?",
+    "answer": "Éos",
     "badAnswers": [
       "Héra",
       "Athéna",
@@ -127,6 +36,97 @@
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+    "description": "Éos, déesse grecque de l'aurore, est connue pour ouvrir les portes du ciel chaque matin avec son char."
+  },
+  {
+    "id": "1426",
+    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Iron Maiden",
+      "Black Sabbath"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
+  },
+  {
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+  },
+  {
+    "id": "546",
+    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
+    "answer": "Pablo Picasso",
+    "badAnswers": [
+      "Henri Matisse",
+      "Georges Braque",
+      "Juan Gris"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "245",
+    "question": "Quel titre de l'album 'Hybrid Theory' Linkin Park a-t-il repris en acoustique pour la tournée 'One More Light' ?",
+    "answer": "Crawling",
+    "badAnswers": [
+      "Papercut",
+      "One Step Closer",
+      "A Place for My Head"
+    ],
+    "category": "Musique",
+    "difficulty": "difficile",
+    "description": "'Crawling' a été réinterprété en version acoustique lors de la tournée 2017. 'Papercut' et 'One Step Closer' sont d'autres titres de l'album."
+  },
+  {
+    "id": "338",
+    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Aubétoile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
+  },
+  {
+    "id": "1479",
+    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
+    "answer": "Depeche Mode",
+    "badAnswers": [
+      "New Order",
+      "The Cure",
+      "Duran Duran"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
+  },
+  {
+    "id": "452",
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon",
+    "badAnswers": [
+      "Canyon de Colca",
+      "Canyon de Fish River",
+      "Canyon de Copper"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
   }
 ]
