@@ -1,132 +1,132 @@
 [
   {
-    "id": "1546",
-    "question": "Quel est la capitale du Liberia ?",
-    "answer": "Monrovia",
+    "id": "1212",
+    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Gbarnga",
-      "Buchanan",
-      "Harper"
+      "Thomas Edison",
+      "Samuel Morse",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
+  },
+  {
+    "id": "710",
+    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
+    "answer": "Annie",
+    "badAnswers": [
+      "Lux",
+      "Ahri",
+      "Morgana"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
+  },
+  {
+    "id": "2112",
+    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
+    "answer": "Jack Kilby",
+    "badAnswers": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
+  },
+  {
+    "id": "1850",
+    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "747",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
+    "answer": "Tantive IV",
+    "badAnswers": [
+      "X-Wing",
+      "Millennium Falcon",
+      "Slave I"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
+  },
+  {
+    "id": "796",
+    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
+    "answer": "Jin Sakai",
+    "badAnswers": [
+      "Khotun Khan",
+      "Lord Shimura",
+      "Yuna"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
+  },
+  {
+    "id": "63",
+    "question": "Qui était le premier président noir des États-Unis ?",
+    "answer": "Barack Obama",
+    "badAnswers": [
+      "Martin Luther King",
+      "Colin Powell",
+      "Jesse Jackson"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
+  },
+  {
+    "id": "632",
+    "question": "Quel est le nom du plus grand volcan d'Asie ?",
+    "answer": "Mont Baekdu",
+    "badAnswers": [
+      "Mont Fuji",
+      "Mont Mayon",
+      "Mont Pinatubo"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Monrovia, capitale du Liberia, est une ville portuaire nommée d'après le président américain James Monroe, connue pour ses plages."
+    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
   },
   {
-    "id": "1296",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
-    "answer": "Xénon",
+    "id": "1214",
+    "question": "Quel est le nom du dieu grec de la victoire ?",
+    "answer": "Niké",
     "badAnswers": [
-      "Krypton",
-      "Radon",
-      "Argon"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
-  },
-  {
-    "id": "1759",
-    "question": "Quel est le nom de la déesse grecque de l'aurore ?",
-    "answer": "Éos",
-    "badAnswers": [
-      "Héra",
       "Athéna",
-      "Aphrodite"
+      "Aphrodite",
+      "Artémis"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Éos, déesse grecque de l'aurore, est connue pour ouvrir les portes du ciel chaque matin avec son char."
+    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
   },
   {
-    "id": "1426",
-    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
-    "answer": "AC/DC",
+    "id": "811",
+    "question": "Quel scientifique a découvert la loi de la conductivité électrique ?",
+    "answer": "Georg Ohm",
     "badAnswers": [
-      "Metallica",
-      "Iron Maiden",
-      "Black Sabbath"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Alessandro Volta"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
-  },
-  {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
-  },
-  {
-    "id": "546",
-    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
-    "answer": "Pablo Picasso",
-    "badAnswers": [
-      "Henri Matisse",
-      "Georges Braque",
-      "Juan Gris"
-    ],
-    "category": "Art",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "245",
-    "question": "Quel titre de l'album 'Hybrid Theory' Linkin Park a-t-il repris en acoustique pour la tournée 'One More Light' ?",
-    "answer": "Crawling",
-    "badAnswers": [
-      "Papercut",
-      "One Step Closer",
-      "A Place for My Head"
-    ],
-    "category": "Musique",
-    "difficulty": "difficile",
-    "description": "'Crawling' a été réinterprété en version acoustique lors de la tournée 2017. 'Papercut' et 'One Step Closer' sont d'autres titres de l'album."
-  },
-  {
-    "id": "338",
-    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Aubétoile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
-  },
-  {
-    "id": "1479",
-    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
-    "answer": "Depeche Mode",
-    "badAnswers": [
-      "New Order",
-      "The Cure",
-      "Duran Duran"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
-  },
-  {
-    "id": "452",
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "answer": "Grand Canyon",
-    "badAnswers": [
-      "Canyon de Colca",
-      "Canyon de Fish River",
-      "Canyon de Copper"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
+    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
   }
 ]
