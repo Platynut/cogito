@@ -1,0 +1,122 @@
+.login-container {
+  max-width: 340px;
+  margin: 4em auto;
+  padding: 2em 1.5em;
+  background: #f3f4f6;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(44,62,80,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-container h2 {
+  margin-bottom: 1.5em;
+  color: #2563eb;
+  font-size: 1.6em;
+  font-weight: 700;
+}
+
+.login-container select {
+  margin-bottom: 1.2em;
+  padding: 0.7em 1em;
+  border-radius: 8px;
+  border: 1px solid #dbeafe;
+  font-size: 1em;
+  background: #e0e7ff;
+  color: #2563eb;
+  width: 100%;
+}
+
+.login-container form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin-bottom: 1.5em;
+}
+
+.login-container input {
+  padding: 0.9em 1em;
+  border-radius: 8px;
+  border: 1px solid #dbeafe;
+  font-size: 1em;
+  background: #fff;
+  color: #2563eb;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.login-container button[type="submit"] {
+  padding: 1em 2em;
+  border-radius: 10px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  font-size: 1.1em;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+  margin-top: 0.5em;
+}
+
+.login-container button[type="submit"]:hover {
+  background: #1e40af;
+  transform: scale(1.04);
+}
+
+.login-container > button,
+.login-container .login-links > button {
+  width: 100%;
+  padding: 1em 2em;
+  border-radius: 10px;
+  background: #059669;
+  color: #fff;
+  border: none;
+  font-size: 1.1em;
+  cursor: pointer;
+  margin-bottom: 0.7em;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.login-container > button:hover,
+.login-container .login-links > button:hover {
+  background: #047857;
+  transform: scale(1.04);
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  color: #2563eb;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 1em;
+  padding: 0;
+  transition: color 0.2s;
+  margin-bottom: 0.5em;
+}
+
+.link-btn:hover {
+  color: #1e40af;
+}
+
+.login-links {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5em;
+  font-size: 1em;
+}
+
+.error-message {
+  color: #dc2626;
+  background: #fee2e2;
+  border-radius: 8px;
+  padding: 0.7em 1em;
+  margin-top: 1em;
+  width: 100%;
+  text-align: center;
+  font-weight: 500;
+  font-size: 1em;
+}
