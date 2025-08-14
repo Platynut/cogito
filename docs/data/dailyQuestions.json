@@ -1,132 +1,132 @@
 [
   {
-    "id": "1212",
-    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
-    "answer": "Alexander Graham Bell",
+    "id": "1371",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Eu ?",
+    "answer": "Europium",
     "badAnswers": [
-      "Thomas Edison",
-      "Samuel Morse",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
-  },
-  {
-    "id": "710",
-    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
-    "answer": "Annie",
-    "badAnswers": [
-      "Lux",
-      "Ahri",
-      "Morgana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
-  },
-  {
-    "id": "2112",
-    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
-    "answer": "Jack Kilby",
-    "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
-  },
-  {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "747",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
-    "answer": "Tantive IV",
-    "badAnswers": [
-      "X-Wing",
-      "Millennium Falcon",
-      "Slave I"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
-  },
-  {
-    "id": "796",
-    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
-    "answer": "Jin Sakai",
-    "badAnswers": [
-      "Khotun Khan",
-      "Lord Shimura",
-      "Yuna"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
-  },
-  {
-    "id": "63",
-    "question": "Qui était le premier président noir des États-Unis ?",
-    "answer": "Barack Obama",
-    "badAnswers": [
-      "Martin Luther King",
-      "Colin Powell",
-      "Jesse Jackson"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
-  },
-  {
-    "id": "632",
-    "question": "Quel est le nom du plus grand volcan d'Asie ?",
-    "answer": "Mont Baekdu",
-    "badAnswers": [
-      "Mont Fuji",
-      "Mont Mayon",
-      "Mont Pinatubo"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
-  },
-  {
-    "id": "1214",
-    "question": "Quel est le nom du dieu grec de la victoire ?",
-    "answer": "Niké",
-    "badAnswers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
-  },
-  {
-    "id": "811",
-    "question": "Quel scientifique a découvert la loi de la conductivité électrique ?",
-    "answer": "Georg Ohm",
-    "badAnswers": [
-      "Michael Faraday",
-      "André-Marie Ampère",
-      "Alessandro Volta"
+      "Erbium",
+      "Einsteinium",
+      "Uranium"
     ],
     "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'europium, symbolisé par Eu, est un métal rare utilisé dans les écrans fluorescents et les lampes pour sa luminescence rouge."
+  },
+  {
+    "id": "1968",
+    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
+    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+  },
+  {
+    "id": "1451",
+    "question": "Quel est la capitale d'Oman ?",
+    "answer": "Mascate",
+    "badAnswers": [
+      "Sohar",
+      "Salalah",
+      "Nizwa"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Mascate, capitale d'Oman, est une ville portuaire connue pour son opéra royal et son souk traditionnel de Muttrah."
+  },
+  {
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
+    "badAnswers": [
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "203",
+    "question": "Quel élément du tableau périodique porte le numéro atomique 99 ?",
+    "answer": "Einsteinium",
+    "badAnswers": [
+      "Fermium",
+      "Californium",
+      "Curium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'einsteinium (Es), élément 99, est un métal radioactif synthétique nommé en hommage à Albert Einstein. Le fermium (100), californium (98) et curium (96) sont d'autres éléments transuraniens."
+  },
+  {
+    "id": "1414",
+    "question": "Quel est la capitale de l'Afghanistan ?",
+    "answer": "Kaboul",
+    "badAnswers": [
+      "Kandahar",
+      "Herat",
+      "Mazar-i-Sharif"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kaboul, capitale de l'Afghanistan, est une ville historique située dans une vallée montagneuse, centre politique et culturel."
+  },
+  {
+    "id": "1538",
+    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
+    "answer": "Nobelium",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Niobium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "75",
+    "question": "Quel pays a construit le mur de Berlin ?",
+    "answer": "Allemagne de l'Est",
+    "badAnswers": [
+      "Union soviétique",
+      "Allemagne de l'Ouest",
+      "États-Unis"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
+  },
+  {
+    "id": "44",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "Everest",
+    "badAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+  },
+  {
+    "id": "2085",
+    "question": "Quel est le nom de l'inventeur du premier système de machine à écrire électrique ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Christopher Sholes",
+      "James Fields",
+      "Edwin Votey"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Thomas Edison a développé la première machine à écrire électrique en 1872, améliorant la vitesse de frappe."
   }
 ]
