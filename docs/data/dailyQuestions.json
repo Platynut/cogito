@@ -1,21 +1,34 @@
 [
   {
-    "id": "1371",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Eu ?",
-    "answer": "Europium",
+    "id": "651",
+    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
+    "answer": "Vicaire Amelia",
     "badAnswers": [
-      "Erbium",
-      "Einsteinium",
-      "Uranium"
+      "Clerc Bestial",
+      "Père Gascoigne",
+      "Ludwig"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'europium, symbolisé par Eu, est un métal rare utilisé dans les écrans fluorescents et les lampes pour sa luminescence rouge."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
   },
   {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
+    "id": "581",
+    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Lothric",
+    "badAnswers": [
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
+  },
+  {
+    "id": "2045",
+    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -23,110 +36,97 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
   },
   {
-    "id": "1451",
-    "question": "Quel est la capitale d'Oman ?",
-    "answer": "Mascate",
+    "id": "1633",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
+    "answer": "Cavalcade",
     "badAnswers": [
-      "Sohar",
-      "Salalah",
-      "Nizwa"
+      "Lady for a Day",
+      "Little Women",
+      "The Private Life of Henry VIII"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Mascate, capitale d'Oman, est une ville portuaire connue pour son opéra royal et son souk traditionnel de Muttrah."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
   },
   {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
+    "id": "2089",
+    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "1713",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
   },
   {
-    "id": "203",
-    "question": "Quel élément du tableau périodique porte le numéro atomique 99 ?",
-    "answer": "Einsteinium",
+    "id": "1957",
+    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Fermium",
-      "Californium",
-      "Curium"
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'einsteinium (Es), élément 99, est un métal radioactif synthétique nommé en hommage à Albert Einstein. Le fermium (100), californium (98) et curium (96) sont d'autres éléments transuraniens."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
   },
   {
-    "id": "1414",
-    "question": "Quel est la capitale de l'Afghanistan ?",
-    "answer": "Kaboul",
+    "id": "1199",
+    "question": "Quel est le nom de l'auteur de 'Les Fleurs du mal' ?",
+    "answer": "Charles Baudelaire",
     "badAnswers": [
-      "Kandahar",
-      "Herat",
-      "Mazar-i-Sharif"
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Charles Baudelaire a écrit 'Les Fleurs du mal' (1857), un recueil de poèmes symbolistes explorant la beauté, le vice et la modernité."
+  },
+  {
+    "id": "190",
+    "question": "Quelle activité est directement associée à la danse 'Pasodoble' ?",
+    "answer": "La corrida",
+    "badAnswers": [
+      "Le carnaval",
+      "La plage",
+      "L'opéra"
+    ],
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "Le pasodoble, danse espagnole, s'inspire des mouvements du torero lors d'une corrida. Les autres propositions n'ont aucun lien avec cette danse."
+  },
+  {
+    "id": "1793",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Djouba",
+    "badAnswers": [
+      "Wau",
+      "Malakal",
+      "Bor"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Kaboul, capitale de l'Afghanistan, est une ville historique située dans une vallée montagneuse, centre politique et culturel."
-  },
-  {
-    "id": "1538",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobelium",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "75",
-    "question": "Quel pays a construit le mur de Berlin ?",
-    "answer": "Allemagne de l'Est",
-    "badAnswers": [
-      "Union soviétique",
-      "Allemagne de l'Ouest",
-      "États-Unis"
-    ],
-    "category": "Politique",
     "difficulty": "normal",
-    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
-  },
-  {
-    "id": "44",
-    "question": "Quelle est la plus haute montagne du monde ?",
-    "answer": "Everest",
-    "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
-  },
-  {
-    "id": "2085",
-    "question": "Quel est le nom de l'inventeur du premier système de machine à écrire électrique ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Christopher Sholes",
-      "James Fields",
-      "Edwin Votey"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Thomas Edison a développé la première machine à écrire électrique en 1872, améliorant la vitesse de frappe."
+    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
   }
 ]
