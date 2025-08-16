@@ -1,33 +1,20 @@
 [
   {
-    "id": "651",
-    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
-    "answer": "Vicaire Amelia",
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
     "badAnswers": [
-      "Clerc Bestial",
-      "Père Gascoigne",
-      "Ludwig"
+      "Derry",
+      "Lisburn",
+      "Newry"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
   },
   {
-    "id": "581",
-    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Lothric",
-    "badAnswers": [
-      "Lordran",
-      "Drangleic",
-      "Yharnam"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
-  },
-  {
-    "id": "2045",
-    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
+    "id": "2001",
+    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
     "answer": "Marguerite Duras",
     "badAnswers": [
       "Jean-Paul Sartre",
@@ -36,97 +23,110 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
   },
   {
-    "id": "1633",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
-    "answer": "Cavalcade",
+    "id": "1218",
+    "question": "Quel est la capitale du Sri Lanka ?",
+    "answer": "Colombo",
     "badAnswers": [
-      "Lady for a Day",
-      "Little Women",
-      "The Private Life of Henry VIII"
+      "Kandy",
+      "Galle",
+      "Negombo"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
-  },
-  {
-    "id": "2089",
-    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+    "description": "Colombo, capitale commerciale du Sri Lanka, est une ville portuaire dynamique connue pour son mélange de cultures et son architecture coloniale."
   },
   {
-    "id": "1957",
-    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "491",
+    "question": "Quel est le nom du plus grand volcan d'Europe ?",
+    "answer": "Etna",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
-  },
-  {
-    "id": "1199",
-    "question": "Quel est le nom de l'auteur de 'Les Fleurs du mal' ?",
-    "answer": "Charles Baudelaire",
-    "badAnswers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Charles Baudelaire a écrit 'Les Fleurs du mal' (1857), un recueil de poèmes symbolistes explorant la beauté, le vice et la modernité."
-  },
-  {
-    "id": "190",
-    "question": "Quelle activité est directement associée à la danse 'Pasodoble' ?",
-    "answer": "La corrida",
-    "badAnswers": [
-      "Le carnaval",
-      "La plage",
-      "L'opéra"
-    ],
-    "category": "Danse",
-    "difficulty": "normal",
-    "description": "Le pasodoble, danse espagnole, s'inspire des mouvements du torero lors d'une corrida. Les autres propositions n'ont aucun lien avec cette danse."
-  },
-  {
-    "id": "1793",
-    "question": "Quel est la capitale du Soudan du Sud ?",
-    "answer": "Djouba",
-    "badAnswers": [
-      "Wau",
-      "Malakal",
-      "Bor"
+      "Vésuve",
+      "Stromboli",
+      "Hekla"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
+    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
+  },
+  {
+    "id": "1039",
+    "question": "Quel est le nom de l'auteur de '1984' ?",
+    "answer": "George Orwell",
+    "badAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
+  },
+  {
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
+    "badAnswers": [
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+  },
+  {
+    "id": "1537",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
+    "answer": "Hamlet",
+    "badAnswers": [
+      "The Treasure of the Sierra Madre",
+      "Johnny Belinda",
+      "The Red Shoes"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
+  },
+  {
+    "id": "10",
+    "question": "Quel est le héros principal de 'The Legend of Zelda' ?",
+    "answer": "Link",
+    "badAnswers": [
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le protagoniste muet qui sauve la princesse Zelda dans cette série Nintendo depuis 1986."
+  },
+  {
+    "id": "1176",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
+    "answer": "Platine",
+    "badAnswers": [
+      "Palladium",
+      "Plomb",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
   }
 ]
