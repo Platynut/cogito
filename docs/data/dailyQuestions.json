@@ -1,132 +1,132 @@
 [
   {
-    "id": "1701",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
-    "answer": "Ruthénium",
+    "id": "221",
+    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
+    "answer": "The Big Bang Theory",
     "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Rhodium"
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "La Petite Maison dans la Prairie"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
-  },
-  {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Creepers ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Séries",
     "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
+    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
   },
   {
-    "id": "1220",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cr ?",
-    "answer": "Chrome",
+    "id": "1858",
+    "question": "Quel est le nom du groupe qui a chanté 'Won't Get Fooled Again' ?",
+    "answer": "The Who",
     "badAnswers": [
-      "Cobalt",
-      "Cuivre",
-      "Césium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chrome, symbolisé par Cr, est un métal utilisé pour ses propriétés anticorrosives, notamment dans l'acier inoxydable et le chromage."
-  },
-  {
-    "id": "369",
-    "question": "Quel est la capitale du Brésil ?",
-    "answer": "Brasília",
-    "badAnswers": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Salvador"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
-  },
-  {
-    "id": "1440",
-    "question": "Quel est la capitale de la Syrie ?",
-    "answer": "Damas",
-    "badAnswers": [
-      "Alep",
-      "Homs",
-      "Lattaquié"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Damas, capitale de la Syrie, est l'une des plus anciennes villes habitées du monde, connue pour sa mosquée des Omeyyades."
-  },
-  {
-    "id": "1583",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Emotion' ?",
-    "answer": "Aerosmith",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Sweet Emotion', sorti en 1975 par Aerosmith, est une chanson rock tirée de l'album Toys in the Attic."
+    "description": "'Won't Get Fooled Again', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
   },
   {
-    "id": "903",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom du cheval de Link ?",
-    "answer": "Epona",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
       "Navi",
       "Tatl",
-      "Midna"
+      "Fi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Epona est le cheval de Link dans The Legend of Zelda: Ocarina of Time, utilisé pour voyager. Navi, Tatl et Midna sont des compagnons dans d'autres jeux Zelda."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
   },
   {
-    "id": "1533",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
-    "answer": "Mendélévium",
+    "id": "381",
+    "question": "Dans League of Legends, quel champion est connu comme le Ninja de l’ombre ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mercure"
+      "Shen",
+      "Zed",
+      "Kennen"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Akali, surnommée le Ninja de l’ombre dans League of Legends, est une championne ninja utilisant des techniques furtives et des shurikens. Shen, Zed et Kennen sont également des ninjas, mais seul Akali porte ce titre spécifique."
   },
   {
-    "id": "1574",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Hs ?",
-    "answer": "Hassium",
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
     "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
+      "Derry",
+      "Lisburn",
+      "Newry"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le hassium, symbolisé par Hs, est un élément radioactif synthétique, nommé d'après la région allemande de Hesse."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
   },
   {
-    "id": "915",
-    "question": "Quel scientifique a découvert la loi de la diffraction de la lumière ?",
-    "answer": "Augustin Fresnel",
+    "id": "931",
+    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
+    "answer": "Egoist",
     "badAnswers": [
-      "Thomas Young",
-      "Christian Huygens",
-      "Isaac Newton"
+      "Goose house",
+      "Babymetal",
+      "Garnidelia"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Augustin Fresnel a formulé les lois de la diffraction de la lumière au XIXe siècle, expliquant les motifs d'interférence. Young, Huygens et Newton ont contribué à l'optique."
+    "category": "Anime et Manga",
+    "difficulty": "normal",
+    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
+  },
+  {
+    "id": "437",
+    "question": "Quel est le plus rapide des animaux terrestres ?",
+    "answer": "Guépard",
+    "badAnswers": [
+      "Lion",
+      "Antilope",
+      "Léopard"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le guépard est l’animal terrestre le plus rapide, capable d’atteindre des vitesses de 120 km/h sur de courtes distances. Le lion, l’antilope et le léopard sont également rapides, mais aucun ne rivalise avec le guépard."
+  },
+  {
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+  },
+  {
+    "id": "1144",
+    "question": "Quel est le nom de l'auteur de 'Anna Karénine' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Léon Tolstoï a écrit 'Anna Karénine' (1878), un roman réaliste sur l'amour tragique et les tensions sociales dans la Russie du XIXe siècle."
+  },
+  {
+    "id": "378",
+    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Night City",
+    "badAnswers": [
+      "Neo Tokyo",
+      "Liberty City",
+      "New Vegas"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
   }
 ]
