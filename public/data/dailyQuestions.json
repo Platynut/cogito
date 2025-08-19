@@ -1,132 +1,132 @@
 [
   {
-    "id": "221",
-    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
-    "answer": "The Big Bang Theory",
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "How I Met Your Mother",
-      "Game of Thrones",
-      "La Petite Maison dans la Prairie"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
-  },
-  {
-    "id": "1858",
-    "question": "Quel est le nom du groupe qui a chanté 'Won't Get Fooled Again' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Won't Get Fooled Again', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
-  },
-  {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
-    "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "381",
-    "question": "Dans League of Legends, quel champion est connu comme le Ninja de l’ombre ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Shen",
-      "Zed",
-      "Kennen"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Akali, surnommée le Ninja de l’ombre dans League of Legends, est une championne ninja utilisant des techniques furtives et des shurikens. Shen, Zed et Kennen sont également des ninjas, mais seul Akali porte ce titre spécifique."
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "1096",
-    "question": "Quelle est la capitale de l'Irlande du Nord ?",
-    "answer": "Belfast",
+    "id": "2075",
+    "question": "Quel est le nom de l'auteur de 'L'Homme aux loups' ?",
+    "answer": "Sigmund Freud",
     "badAnswers": [
-      "Derry",
-      "Lisburn",
-      "Newry"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
-  },
-  {
-    "id": "931",
-    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
-    "answer": "Egoist",
-    "badAnswers": [
-      "Goose house",
-      "Babymetal",
-      "Garnidelia"
-    ],
-    "category": "Anime et Manga",
-    "difficulty": "normal",
-    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
-  },
-  {
-    "id": "437",
-    "question": "Quel est le plus rapide des animaux terrestres ?",
-    "answer": "Guépard",
-    "badAnswers": [
-      "Lion",
-      "Antilope",
-      "Léopard"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le guépard est l’animal terrestre le plus rapide, capable d’atteindre des vitesses de 120 km/h sur de courtes distances. Le lion, l’antilope et le léopard sont également rapides, mais aucun ne rivalise avec le guépard."
-  },
-  {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
-  },
-  {
-    "id": "1144",
-    "question": "Quel est le nom de l'auteur de 'Anna Karénine' ?",
-    "answer": "Léon Tolstoï",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Léon Tolstoï a écrit 'Anna Karénine' (1878), un roman réaliste sur l'amour tragique et les tensions sociales dans la Russie du XIXe siècle."
+    "description": "Sigmund Freud a écrit 'L'Homme aux loups' (1918), une étude de cas psychanalytique sur un patient névrosé."
   },
   {
-    "id": "378",
-    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Night City",
+    "id": "783",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière rousse de Velen ?",
+    "answer": "Keira Metz",
     "badAnswers": [
-      "Neo Tokyo",
-      "Liberty City",
-      "New Vegas"
+      "Yennefer",
+      "Triss",
+      "Ciri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Keira Metz est la sorcière rousse de Velen dans The Witcher 3: Wild Hunt, alliée de Geralt. Yennefer et Triss sont d'autres sorcières, et Ciri est sa fille adoptive."
+  },
+  {
+    "id": "2040",
+    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
+    "answer": "Nathalie Sarraute",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
+  },
+  {
+    "id": "1455",
+    "question": "Quel est la capitale du Viêt Nam ?",
+    "answer": "Hanoï",
+    "badAnswers": [
+      "Hô Chi Minh-Ville",
+      "Da Nang",
+      "Huế"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
+  },
+  {
+    "id": "561",
+    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
+    "answer": "Florence",
+    "badAnswers": [
+      "Venise",
+      "Rome",
+      "Milan"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
+    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
+  },
+  {
+    "id": "599",
+    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
+    "answer": "Gustave Flaubert",
+    "badAnswers": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Stendhal"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1719",
+    "question": "Quel est le nom de l'auteur de 'La Nausée' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'La Nausée' (1938), un roman existentialiste explorant le sens de l'existence."
+  },
+  {
+    "id": "1889",
+    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+  },
+  {
+    "id": "1777",
+    "question": "Quel est le nom de l'auteur de 'Gargantua' ?",
+    "answer": "François Rabelais",
+    "badAnswers": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "François Rabelais a écrit 'Gargantua' (1534), un roman satirique et humaniste sur les aventures d'un géant."
   }
 ]
