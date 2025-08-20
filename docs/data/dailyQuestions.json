@@ -1,132 +1,132 @@
 [
   {
-    "id": "1778",
-    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
-    "answer": "The Allman Brothers Band",
+    "id": "745",
+    "question": "Quel est le nom du plus grand fleuve d'Afrique ?",
+    "answer": "Nil",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
-  },
-  {
-    "id": "2075",
-    "question": "Quel est le nom de l'auteur de 'L'Homme aux loups' ?",
-    "answer": "Sigmund Freud",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Sigmund Freud a écrit 'L'Homme aux loups' (1918), une étude de cas psychanalytique sur un patient névrosé."
-  },
-  {
-    "id": "783",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière rousse de Velen ?",
-    "answer": "Keira Metz",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Ciri"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Keira Metz est la sorcière rousse de Velen dans The Witcher 3: Wild Hunt, alliée de Geralt. Yennefer et Triss sont d'autres sorcières, et Ciri est sa fille adoptive."
-  },
-  {
-    "id": "2040",
-    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
-    "answer": "Nathalie Sarraute",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
-  },
-  {
-    "id": "1455",
-    "question": "Quel est la capitale du Viêt Nam ?",
-    "answer": "Hanoï",
-    "badAnswers": [
-      "Hô Chi Minh-Ville",
-      "Da Nang",
-      "Huế"
+      "Congo",
+      "Zambeze",
+      "Niger"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
+    "description": "Le Nil est le plus grand fleuve d'Afrique, s'étendant sur environ 6 650 km à travers l'Égypte et d'autres pays. Le Congo, le Zambeze et le Niger sont d'autres fleuves africains, mais plus courts."
   },
   {
-    "id": "561",
-    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
-    "answer": "Florence",
+    "id": "1234",
+    "question": "Quel est le nom du dieu grec de la justice ?",
+    "answer": "Thémis",
     "badAnswers": [
-      "Venise",
-      "Rome",
-      "Milan"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
+  },
+  {
+    "id": "1229",
+    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Doors",
+      "The Rolling Stones"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+  },
+  {
+    "id": "1931",
+    "question": "Quel est le nom de l'inventeur du premier système de pile à combustible ?",
+    "answer": "William Grove",
+    "badAnswers": [
+      "Humphry Davy",
+      "Alessandro Volta",
+      "Michael Faraday"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "William Robert Grove a développé la première pile à combustible en 1839, pionnière des technologies d'énergie propre."
+  },
+  {
+    "id": "338",
+    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Aubétoile"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
-  },
-  {
-    "id": "599",
-    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
-    "answer": "Gustave Flaubert",
-    "badAnswers": [
-      "Émile Zola",
-      "Honoré de Balzac",
-      "Stendhal"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1719",
-    "question": "Quel est le nom de l'auteur de 'La Nausée' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'La Nausée' (1938), un roman existentialiste explorant le sens de l'existence."
+    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
   },
   {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1326",
+    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
+    "answer": "Louis-Ferdinand Céline",
     "badAnswers": [
       "Albert Camus",
-      "Boris Vian",
+      "Jean-Paul Sartre",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
   },
   {
-    "id": "1777",
-    "question": "Quel est le nom de l'auteur de 'Gargantua' ?",
-    "answer": "François Rabelais",
+    "id": "722",
+    "question": "Quel scientifique a découvert la loi de l'électrolyse ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Denis Diderot"
+      "Alessandro Volta",
+      "Georg Ohm",
+      "André-Marie Ampère"
     ],
-    "category": "Livres",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "François Rabelais a écrit 'Gargantua' (1534), un roman satirique et humaniste sur les aventures d'un géant."
+    "description": "Michael Faraday a formulé les lois de l'électrolyse dans les années 1830, expliquant la décomposition chimique par l'électricité. Volta, Ohm et Ampère ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "981",
+    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
+    "answer": "2 décembre 1804",
+    "badAnswers": [
+      "3 juillet 1802",
+      "8 mars 1803",
+      "15 octobre 1804"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
+  },
+  {
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
+    "badAnswers": [
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+  },
+  {
+    "id": "1135",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2017 ?",
+    "answer": "The Shape of Water",
+    "badAnswers": [
+      "Get Out",
+      "Three Billboards Outside Ebbing, Missouri",
+      "Dunkirk"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Shape of Water, réalisé par Guillermo del Toro, a remporté l'Oscar du meilleur film en 2017, une histoire d'amour fantastique unique."
   }
 ]
