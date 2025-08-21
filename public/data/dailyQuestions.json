@@ -1,132 +1,132 @@
 [
   {
-    "id": "745",
-    "question": "Quel est le nom du plus grand fleuve d'Afrique ?",
-    "answer": "Nil",
+    "id": "633",
+    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
+    "answer": "Minerva McGonagall",
     "badAnswers": [
-      "Congo",
-      "Zambeze",
-      "Niger"
+      "Severus Rogue",
+      "Filius Flitwick",
+      "Pomona Chourave"
     ],
-    "category": "Géographie",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Le Nil est le plus grand fleuve d'Afrique, s'étendant sur environ 6 650 km à travers l'Égypte et d'autres pays. Le Congo, le Zambeze et le Niger sont d'autres fleuves africains, mais plus courts."
+    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
   },
   {
-    "id": "1234",
-    "question": "Quel est le nom du dieu grec de la justice ?",
-    "answer": "Thémis",
+    "id": "1370",
+    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
+    "answer": "Red Hot Chili Peppers",
     "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
-  },
-  {
-    "id": "1229",
-    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Doors",
-      "The Rolling Stones"
+      "Foo Fighters",
+      "Nirvana",
+      "Pearl Jam"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
   },
   {
-    "id": "1931",
-    "question": "Quel est le nom de l'inventeur du premier système de pile à combustible ?",
-    "answer": "William Grove",
+    "id": "2030",
+    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Humphry Davy",
-      "Alessandro Volta",
-      "Michael Faraday"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "William Robert Grove a développé la première pile à combustible en 1839, pionnière des technologies d'énergie propre."
-  },
-  {
-    "id": "338",
-    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Aubétoile"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
+    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "1326",
-    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "738",
+    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
+    "answer": "Joseph Proust",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Gide"
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Dmitri Mendeleïev"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
+  },
+  {
+    "id": "999",
+    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
+    "answer": "Les Raisins de la colère",
+    "badAnswers": [
+      "Hamlet",
+      "Gatsby le Magnifique",
+      "Peter Pan"
     ],
     "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
+    "difficulty": "difficile",
+    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
   },
   {
-    "id": "722",
-    "question": "Quel scientifique a découvert la loi de l'électrolyse ?",
-    "answer": "Michael Faraday",
+    "id": "43",
+    "question": "Qui a peint 'La Nuit étoilée' ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "Alessandro Volta",
-      "Georg Ohm",
-      "André-Marie Ampère"
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a formulé les lois de l'électrolyse dans les années 1830, expliquant la décomposition chimique par l'électricité. Volta, Ohm et Ampère ont contribué à d'autres aspects de l'électromagnétisme."
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
   },
   {
-    "id": "981",
-    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
-    "answer": "2 décembre 1804",
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
     "badAnswers": [
-      "3 juillet 1802",
-      "8 mars 1803",
-      "15 octobre 1804"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
+      "Iode",
+      "Indium",
+      "Iron"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
   },
   {
-    "id": "1135",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2017 ?",
-    "answer": "The Shape of Water",
+    "id": "88",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "Antarctique",
     "badAnswers": [
-      "Get Out",
-      "Three Billboards Outside Ebbing, Missouri",
-      "Dunkirk"
+      "Sahara",
+      "Gobi",
+      "Kalahari"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Bien que couvert de glace, l'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles. Il couvre 14 millions de km²."
+  },
+  {
+    "id": "1475",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
+    "answer": "Radium",
+    "badAnswers": [
+      "Rhodium",
+      "Ruthénium",
+      "Rubidium"
+    ],
+    "category": "Science",
     "difficulty": "normal",
-    "description": "The Shape of Water, réalisé par Guillermo del Toro, a remporté l'Oscar du meilleur film en 2017, une histoire d'amour fantastique unique."
+    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
+  },
+  {
+    "id": "569",
+    "question": "Dans Super Mario 64, quel est le nom du château où Mario explore les mondes ?",
+    "answer": "Château de Peach",
+    "badAnswers": [
+      "Château de Bowser",
+      "Château de Toad",
+      "Château étoilé"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le château de Peach est le hub central de Super Mario 64, où Mario accède aux mondes via des tableaux. Le château de Bowser est un lieu final, et les autres options sont fictives."
   }
 ]
