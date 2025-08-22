@@ -1,132 +1,132 @@
 [
   {
-    "id": "633",
-    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
-    "answer": "Minerva McGonagall",
+    "id": "321",
+    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
+    "answer": "Peach",
     "badAnswers": [
-      "Severus Rogue",
-      "Filius Flitwick",
-      "Pomona Chourave"
+      "Daisy",
+      "Rosalina",
+      "Toadette"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
   },
   {
-    "id": "1370",
-    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
-    "answer": "Red Hot Chili Peppers",
+    "id": "1319",
+    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
+    "answer": "Déméter",
     "badAnswers": [
-      "Foo Fighters",
-      "Nirvana",
-      "Pearl Jam"
+      "Héra",
+      "Aphrodite",
+      "Athéna"
     ],
-    "category": "Musique",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
+    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
   },
   {
-    "id": "2030",
-    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
-    "answer": "The Beatles",
+    "id": "1713",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+  },
+  {
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
+  },
+  {
+    "id": "1874",
+    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
+    "answer": "Jimi Hendrix",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
+    "difficulty": "facile",
+    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
   },
   {
-    "id": "738",
-    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
-    "answer": "Joseph Proust",
+    "id": "1768",
+    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
+    "answer": "Émile Zola",
     "badAnswers": [
-      "Antoine Lavoisier",
-      "John Dalton",
-      "Dmitri Mendeleïev"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
-  },
-  {
-    "id": "999",
-    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
-    "answer": "Les Raisins de la colère",
-    "badAnswers": [
-      "Hamlet",
-      "Gatsby le Magnifique",
-      "Peter Pan"
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
     ],
     "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
+    "difficulty": "normal",
+    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
   },
   {
-    "id": "43",
-    "question": "Qui a peint 'La Nuit étoilée' ?",
-    "answer": "Vincent van Gogh",
+    "id": "1572",
+    "question": "Quel est la capitale du Rwanda ?",
+    "answer": "Kigali",
     "badAnswers": [
-      "Claude Monet",
-      "Pablo Picasso",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
-  },
-  {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
-    "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
-  },
-  {
-    "id": "88",
-    "question": "Quel est le plus grand désert du monde ?",
-    "answer": "Antarctique",
-    "badAnswers": [
-      "Sahara",
-      "Gobi",
-      "Kalahari"
+      "Butare",
+      "Gisenyi",
+      "Ruhengeri"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Bien que couvert de glace, l'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles. Il couvre 14 millions de km²."
-  },
-  {
-    "id": "1475",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
-    "answer": "Radium",
-    "badAnswers": [
-      "Rhodium",
-      "Ruthénium",
-      "Rubidium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
-  },
-  {
-    "id": "569",
-    "question": "Dans Super Mario 64, quel est le nom du château où Mario explore les mondes ?",
-    "answer": "Château de Peach",
-    "badAnswers": [
-      "Château de Bowser",
-      "Château de Toad",
-      "Château étoilé"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le château de Peach est le hub central de Super Mario 64, où Mario accède aux mondes via des tableaux. Le château de Bowser est un lieu final, et les autres options sont fictives."
+    "description": "Kigali, capitale du Rwanda, est une ville moderne connue pour son mémorial du génocide et ses collines verdoyantes."
+  },
+  {
+    "id": "1312",
+    "question": "Quel est le nom du dieu grec du commerce ?",
+    "answer": "Hermès",
+    "badAnswers": [
+      "Apollon",
+      "Arès",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hermès, dieu grec du commerce, des voyageurs et des messagers, est connu pour sa rapidité et son caducée ailé."
+  },
+  {
+    "id": "1190",
+    "question": "Quelle divinité grecque est associée à la guerre juste et à la stratégie ?",
+    "answer": "Athéna",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Athéna, déesse de la guerre juste et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
+  },
+  {
+    "id": "1614",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
+    "answer": "Soundgarden",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
   }
 ]
