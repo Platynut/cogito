@@ -1,132 +1,132 @@
 [
   {
-    "id": "321",
-    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
-    "answer": "Peach",
+    "id": "1538",
+    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
+    "answer": "Nobelium",
     "badAnswers": [
-      "Daisy",
-      "Rosalina",
-      "Toadette"
+      "Neon",
+      "Nickel",
+      "Niobium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
   },
   {
-    "id": "1319",
-    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
-    "answer": "Déméter",
+    "id": "1290",
+    "question": "Quel est le nom de la déesse grecque de la lune ?",
+    "answer": "Séléné",
     "badAnswers": [
+      "Artémis",
       "Héra",
-      "Aphrodite",
-      "Athéna"
+      "Aphrodite"
     ],
     "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
+    "difficulty": "normal",
+    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
   },
   {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
+    "id": "1152",
+    "question": "Quel est le nom de l'auteur de 'Le Rouge et le Noir' ?",
+    "answer": "Stendhal",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
-  },
-  {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
-  },
-  {
-    "id": "1874",
-    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
-  },
-  {
-    "id": "1768",
-    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
-    "answer": "Émile Zola",
-    "badAnswers": [
-      "Victor Hugo",
       "Gustave Flaubert",
+      "Victor Hugo",
       "Honoré de Balzac"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
+    "description": "Stendhal a écrit 'Le Rouge et le Noir' (1830), un roman psychologique sur l'ambition et l'amour dans la France post-napoléonienne."
   },
   {
-    "id": "1572",
-    "question": "Quel est la capitale du Rwanda ?",
-    "answer": "Kigali",
+    "id": "1229",
+    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "Butare",
-      "Gisenyi",
-      "Ruhengeri"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Kigali, capitale du Rwanda, est une ville moderne connue pour son mémorial du génocide et ses collines verdoyantes."
-  },
-  {
-    "id": "1312",
-    "question": "Quel est le nom du dieu grec du commerce ?",
-    "answer": "Hermès",
-    "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hermès, dieu grec du commerce, des voyageurs et des messagers, est connu pour sa rapidité et son caducée ailé."
-  },
-  {
-    "id": "1190",
-    "question": "Quelle divinité grecque est associée à la guerre juste et à la stratégie ?",
-    "answer": "Athéna",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Athéna, déesse de la guerre juste et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
-  },
-  {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Alice in Chains"
+      "Led Zeppelin",
+      "The Doors",
+      "The Rolling Stones"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+  },
+  {
+    "id": "1113",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
+    "answer": "Metal Gear Solid",
+    "badAnswers": [
+      "Splinter Cell",
+      "Hitman",
+      "Deus Ex"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+  },
+  {
+    "id": "717",
+    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
+    "answer": "Dobby",
+    "badAnswers": [
+      "Kreattur",
+      "Winky",
+      "Hokey"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
+  },
+  {
+    "id": "1559",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1945 ?",
+    "answer": "The Lost Weekend",
+    "badAnswers": [
+      "Mildred Pierce",
+      "Spellbound",
+      "Anchors Aweigh"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Lost Weekend, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1945, un drame sur l'alcoolisme."
+  },
+  {
+    "id": "1266",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
+    "answer": "Shakespeare in Love",
+    "badAnswers": [
+      "Saving Private Ryan",
+      "Life Is Beautiful",
+      "The Thin Red Line"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
+  },
+  {
+    "id": "1555",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
+    "answer": "Dubnium",
+    "badAnswers": [
+      "Dysprosium",
+      "Darmstadtium",
+      "Deutérium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
+  },
+  {
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
+    "badAnswers": [
+      "Argent",
+      "Cuivre",
+      "Platine"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
   }
 ]
