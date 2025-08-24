@@ -1,132 +1,132 @@
 [
   {
-    "id": "1538",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobelium",
+    "id": "376",
+    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
+    "answer": "Herman Melville",
     "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
+      "Nathaniel Hawthorne",
+      "Mark Twain",
+      "Walt Whitman"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "1290",
-    "question": "Quel est le nom de la déesse grecque de la lune ?",
-    "answer": "Séléné",
-    "badAnswers": [
-      "Artémis",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
+    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
   },
   {
-    "id": "1152",
-    "question": "Quel est le nom de l'auteur de 'Le Rouge et le Noir' ?",
-    "answer": "Stendhal",
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
     "badAnswers": [
-      "Gustave Flaubert",
-      "Victor Hugo",
-      "Honoré de Balzac"
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Stendhal a écrit 'Le Rouge et le Noir' (1830), un roman psychologique sur l'ambition et l'amour dans la France post-napoléonienne."
-  },
-  {
-    "id": "1229",
-    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Doors",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
   },
   {
-    "id": "1113",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
-    "answer": "Metal Gear Solid",
+    "id": "796",
+    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
+    "answer": "Jin Sakai",
     "badAnswers": [
-      "Splinter Cell",
-      "Hitman",
-      "Deus Ex"
+      "Khotun Khan",
+      "Lord Shimura",
+      "Yuna"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
   },
   {
-    "id": "717",
-    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
-    "answer": "Dobby",
+    "id": "206",
+    "question": "Qui est Zlatan Ibrahimovic ?",
+    "answer": "Un joueur de football suédois",
     "badAnswers": [
-      "Kreattur",
-      "Winky",
-      "Hokey"
+      "Un joueur de football serbe",
+      "Un joueur de football croate",
+      "Un joueur de football bulgare"
     ],
-    "category": "Littérature",
+    "category": "Sports",
     "difficulty": "facile",
-    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
+    "description": "Zlatan Ibrahimović, d'origine suédoise et bosnienne, est une légende du football (PSG, AC Milan). Il n'a jamais joué pour les autres nationalités proposées."
   },
   {
-    "id": "1559",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1945 ?",
-    "answer": "The Lost Weekend",
+    "id": "252",
+    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
+    "answer": "Anticyclone des Açores",
     "badAnswers": [
-      "Mildred Pierce",
-      "Spellbound",
-      "Anchors Aweigh"
+      "Anticyclone de Sainte-Hélène",
+      "Anticyclone de Lucifer",
+      "Anticyclone Alfredo"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+  },
+  {
+    "id": "671",
+    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
+    "answer": "Aconcagua",
+    "badAnswers": [
+      "Huascarán",
+      "Chimborazo",
+      "Cerro Torre"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
+  },
+  {
+    "id": "1428",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
+    "answer": "The Godfather",
+    "badAnswers": [
+      "Cabaret",
+      "Deliverance",
+      "The Emigrants"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Lost Weekend, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1945, un drame sur l'alcoolisme."
-  },
-  {
-    "id": "1266",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
-    "answer": "Shakespeare in Love",
-    "badAnswers": [
-      "Saving Private Ryan",
-      "Life Is Beautiful",
-      "The Thin Red Line"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
-  },
-  {
-    "id": "1555",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
-    "answer": "Dubnium",
-    "badAnswers": [
-      "Dysprosium",
-      "Darmstadtium",
-      "Deutérium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
+  },
+  {
+    "id": "644",
+    "question": "Quel est le plus grand oiseau capable de voler ?",
+    "answer": "Albatros hurleur",
+    "badAnswers": [
+      "Condor des Andes",
+      "Grue royale",
+      "Aigle royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L'albatros hurleur est le plus grand oiseau capable de voler, avec une envergure pouvant atteindre 3,5 mètres. Le condor des Andes est plus lourd, la grue royale et l'aigle royal sont plus petits."
+  },
+  {
+    "id": "180",
+    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Venise",
+      "Barcelone",
+      "Séville"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+  },
+  {
+    "id": "283",
+    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
+    "answer": "1995",
+    "badAnswers": [
+      "1992",
+      "1996",
+      "1991"
+    ],
+    "category": "Célébrités",
+    "difficulty": "normal",
+    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
   }
 ]
