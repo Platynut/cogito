@@ -1,132 +1,132 @@
 [
   {
-    "id": "376",
-    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
-    "answer": "Herman Melville",
+    "id": "499",
+    "question": "Quel artiste a peint La Laitière ?",
+    "answer": "Johannes Vermeer",
     "badAnswers": [
-      "Nathaniel Hawthorne",
-      "Mark Twain",
-      "Walt Whitman"
+      "Rembrandt",
+      "Frans Hals",
+      "Pieter de Hooch"
     ],
-    "category": "Littérature",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
+    "description": "La Laitière (vers 1658) de Johannes Vermeer est une peinture baroque représentant une servante versant du lait. C'est une œuvre emblématique de l'âge d'or hollandais. Rembrandt, Hals et de Hooch sont d'autres peintres hollandais, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
+    "id": "683",
+    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
+      "Shen",
+      "Zed",
+      "Talon"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "796",
-    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
-    "answer": "Jin Sakai",
+    "id": "75",
+    "question": "Quel pays a construit le mur de Berlin ?",
+    "answer": "Allemagne de l'Est",
     "badAnswers": [
-      "Khotun Khan",
-      "Lord Shimura",
-      "Yuna"
+      "Union soviétique",
+      "Allemagne de l'Ouest",
+      "États-Unis"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
+  },
+  {
+    "id": "768",
+    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Âge d'or de la piraterie",
+    "badAnswers": [
+      "Révolution américaine",
+      "Renaissance",
+      "Égypte ptolémaïque"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
+    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
   },
   {
-    "id": "206",
-    "question": "Qui est Zlatan Ibrahimovic ?",
-    "answer": "Un joueur de football suédois",
+    "id": "1608",
+    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
+    "answer": "Pearl Jam",
     "badAnswers": [
-      "Un joueur de football serbe",
-      "Un joueur de football croate",
-      "Un joueur de football bulgare"
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
     ],
-    "category": "Sports",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Zlatan Ibrahimović, d'origine suédoise et bosnienne, est une légende du football (PSG, AC Milan). Il n'a jamais joué pour les autres nationalités proposées."
+    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
   },
   {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
+    "id": "1994",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flerovium",
     "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
+      "Fluor",
+      "Francium",
+      "Fermium"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
   },
   {
-    "id": "671",
-    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
-    "answer": "Aconcagua",
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
     "badAnswers": [
-      "Huascarán",
-      "Chimborazo",
-      "Cerro Torre"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
-  },
-  {
-    "id": "1428",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
-    "answer": "The Godfather",
-    "badAnswers": [
-      "Cabaret",
-      "Deliverance",
-      "The Emigrants"
-    ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
   },
   {
-    "id": "644",
-    "question": "Quel est le plus grand oiseau capable de voler ?",
-    "answer": "Albatros hurleur",
+    "id": "1583",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Emotion' ?",
+    "answer": "Aerosmith",
     "badAnswers": [
-      "Condor des Andes",
-      "Grue royale",
-      "Aigle royal"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L'albatros hurleur est le plus grand oiseau capable de voler, avec une envergure pouvant atteindre 3,5 mètres. Le condor des Andes est plus lourd, la grue royale et l'aigle royal sont plus petits."
-  },
-  {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
-    "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+    "description": "'Sweet Emotion', sorti en 1975 par Aerosmith, est une chanson rock tirée de l'album Toys in the Attic."
   },
   {
-    "id": "283",
-    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
-    "answer": "1995",
+    "id": "2007",
+    "question": "Quel est le nom de l'auteur de 'Les Bienveillantes' ?",
+    "answer": "Jonathan Littell",
     "badAnswers": [
-      "1992",
-      "1996",
-      "1991"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Célébrités",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
+    "description": "Jonathan Littell a écrit 'Les Bienveillantes' (2006), un roman sur la Seconde Guerre mondiale et le nazisme."
+  },
+  {
+    "id": "227",
+    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
+    "answer": "27,3 jours",
+    "badAnswers": [
+      "14,5 jours",
+      "30,7 jours",
+      "365,2 jours"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
   }
 ]
