@@ -1,132 +1,132 @@
 [
   {
-    "id": "499",
-    "question": "Quel artiste a peint La Laitière ?",
-    "answer": "Johannes Vermeer",
+    "id": "92",
+    "question": "Dans quel jeu trouve-t-on des Endermen ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Rembrandt",
-      "Frans Hals",
-      "Pieter de Hooch"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "La Laitière (vers 1658) de Johannes Vermeer est une peinture baroque représentant une servante versant du lait. C'est une œuvre emblématique de l'âge d'or hollandais. Rembrandt, Hals et de Hooch sont d'autres peintres hollandais, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "683",
-    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Shen",
-      "Zed",
-      "Talon"
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
+    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
   },
   {
-    "id": "75",
-    "question": "Quel pays a construit le mur de Berlin ?",
-    "answer": "Allemagne de l'Est",
+    "id": "1636",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ganondorf ?",
+    "answer": "The Legend of Zelda",
     "badAnswers": [
-      "Union soviétique",
-      "Allemagne de l'Ouest",
-      "États-Unis"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
-  },
-  {
-    "id": "768",
-    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Âge d'or de la piraterie",
-    "badAnswers": [
-      "Révolution américaine",
-      "Renaissance",
-      "Égypte ptolémaïque"
+      "Super Mario",
+      "Metroid",
+      "Fire Emblem"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
+    "description": "Ganondorf, antagoniste principal de la série The Legend of Zelda, est le roi des Gerudos et détenteur de la Triforce du pouvoir."
   },
   {
-    "id": "1608",
-    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
-    "answer": "Pearl Jam",
+    "id": "1005",
+    "question": "Quel est le nom du premier album studio de Lady Gaga ?",
+    "answer": "The Fame",
     "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
+      "Born This Way",
+      "Artpop",
+      "Joanne"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
+    "description": "The Fame, sorti en 2008, est le premier album studio de Lady Gaga, incluant des tubes comme 'Just Dance' et 'Poker Face', qui l'ont propulsée au rang de star."
   },
   {
-    "id": "1994",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flerovium",
+    "id": "476",
+    "question": "Quel est le plus grand serpent du monde ?",
+    "answer": "Anaconda vert",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fermium"
+      "Python réticulé",
+      "Cobra royal",
+      "Vipère de Russell"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L'anaconda vert est le plus grand serpent du monde en termes de poids, pouvant atteindre 200 kg et 9 mètres de long. Le python réticulé est plus long mais plus léger, et le cobra royal et la vipère de Russell sont plus petits."
+  },
+  {
+    "id": "237",
+    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+    "answer": "1492",
+    "badAnswers": [
+      "1502",
+      "1451",
+      "1498"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Colomb a atteint les Bahamas le 12 octobre 1492, croyant arriver en Asie. En 1498, il a exploré l'Amérique du Sud."
+  },
+  {
+    "id": "1224",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Dragon Quest"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
+  },
+  {
+    "id": "140",
+    "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
+    "answer": "Espagne",
+    "badAnswers": [
+      "Grèce",
+      "Maroc",
+      "Algérie"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "La mantille, voile traditionnel, est encore portée lors d'occasions spéciales en Espagne, notamment pendant les fêtes religieuses. En Grèce et au Maghreb, d'autres types de voiles sont utilisés."
+  },
+  {
+    "id": "1475",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
+    "answer": "Radium",
+    "badAnswers": [
+      "Rhodium",
+      "Ruthénium",
+      "Rubidium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
+    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
   },
   {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
+    "id": "202",
+    "question": "Que déposent les Norvégiens sous le sapin, la veille de Noël ?",
+    "answer": "Un bol d'avoine",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Des carottes",
+      "Des pièces de monnaie",
+      "Du lait"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+    "category": "Culture générale",
+    "difficulty": "normal",
+    "description": "En Norvège, on dépose un bol d'avoine pour le 'nisse' (lutin protecteur) lors de la nuit de Noël. Aux Pays-Bas, ce sont des carottes pour les rennes du Père Noël."
   },
   {
-    "id": "1583",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Emotion' ?",
-    "answer": "Aerosmith",
+    "id": "1973",
+    "question": "Quel est le nom du groupe qui a chanté 'Dear Prudence' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Sweet Emotion', sorti en 1975 par Aerosmith, est une chanson rock tirée de l'album Toys in the Attic."
-  },
-  {
-    "id": "2007",
-    "question": "Quel est le nom de l'auteur de 'Les Bienveillantes' ?",
-    "answer": "Jonathan Littell",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jonathan Littell a écrit 'Les Bienveillantes' (2006), un roman sur la Seconde Guerre mondiale et le nazisme."
-  },
-  {
-    "id": "227",
-    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
-    "answer": "27,3 jours",
-    "badAnswers": [
-      "14,5 jours",
-      "30,7 jours",
-      "365,2 jours"
-    ],
-    "category": "Astronomie",
-    "difficulty": "normal",
-    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
+    "description": "'Dear Prudence', sorti en 1968 par The Beatles, est une chanson psychédélique tirée de l'album The White Album."
   }
 ]
