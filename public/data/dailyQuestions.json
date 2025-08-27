@@ -1,124 +1,33 @@
 [
   {
-    "id": "92",
-    "question": "Dans quel jeu trouve-t-on des Endermen ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
-  },
-  {
-    "id": "1636",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ganondorf ?",
-    "answer": "The Legend of Zelda",
+    "id": "1682",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
+    "answer": "Pokémon",
     "badAnswers": [
       "Super Mario",
-      "Metroid",
-      "Fire Emblem"
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ganondorf, antagoniste principal de la série The Legend of Zelda, est le roi des Gerudos et détenteur de la Triforce du pouvoir."
+    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
   },
   {
-    "id": "1005",
-    "question": "Quel est le nom du premier album studio de Lady Gaga ?",
-    "answer": "The Fame",
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
     "badAnswers": [
-      "Born This Way",
-      "Artpop",
-      "Joanne"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "The Fame, sorti en 2008, est le premier album studio de Lady Gaga, incluant des tubes comme 'Just Dance' et 'Poker Face', qui l'ont propulsée au rang de star."
-  },
-  {
-    "id": "476",
-    "question": "Quel est le plus grand serpent du monde ?",
-    "answer": "Anaconda vert",
-    "badAnswers": [
-      "Python réticulé",
-      "Cobra royal",
-      "Vipère de Russell"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L'anaconda vert est le plus grand serpent du monde en termes de poids, pouvant atteindre 200 kg et 9 mètres de long. Le python réticulé est plus long mais plus léger, et le cobra royal et la vipère de Russell sont plus petits."
-  },
-  {
-    "id": "237",
-    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-    "answer": "1492",
-    "badAnswers": [
-      "1502",
-      "1451",
-      "1498"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Colomb a atteint les Bahamas le 12 octobre 1492, croyant arriver en Asie. En 1498, il a exploré l'Amérique du Sud."
-  },
-  {
-    "id": "1224",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Chrono Trigger",
-      "Dragon Quest"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
-  },
-  {
-    "id": "140",
-    "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
-    "answer": "Espagne",
-    "badAnswers": [
-      "Grèce",
-      "Maroc",
-      "Algérie"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "La mantille, voile traditionnel, est encore portée lors d'occasions spéciales en Espagne, notamment pendant les fêtes religieuses. En Grèce et au Maghreb, d'autres types de voiles sont utilisés."
-  },
-  {
-    "id": "1475",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
-    "answer": "Radium",
-    "badAnswers": [
-      "Rhodium",
-      "Ruthénium",
-      "Rubidium"
+      "Chrome",
+      "Cuivre",
+      "Césium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
+    "difficulty": "facile",
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
   },
   {
-    "id": "202",
-    "question": "Que déposent les Norvégiens sous le sapin, la veille de Noël ?",
-    "answer": "Un bol d'avoine",
-    "badAnswers": [
-      "Des carottes",
-      "Des pièces de monnaie",
-      "Du lait"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "En Norvège, on dépose un bol d'avoine pour le 'nisse' (lutin protecteur) lors de la nuit de Noël. Aux Pays-Bas, ce sont des carottes pour les rennes du Père Noël."
-  },
-  {
-    "id": "1973",
-    "question": "Quel est le nom du groupe qui a chanté 'Dear Prudence' ?",
+    "id": "2046",
+    "question": "Quel est le nom du groupe qui a chanté 'Maxwell's Silver Hammer' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -127,6 +36,97 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Dear Prudence', sorti en 1968 par The Beatles, est une chanson psychédélique tirée de l'album The White Album."
+    "description": "'Maxwell's Silver Hammer', sorti en 1969 par The Beatles, est une chanson pop ironique tirée de l'album Abbey Road."
+  },
+  {
+    "id": "599",
+    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
+    "answer": "Gustave Flaubert",
+    "badAnswers": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Stendhal"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1569",
+    "question": "Quel est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
+    "badAnswers": [
+      "Goma",
+      "Lubumbashi",
+      "Kisangani"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
+  },
+  {
+    "id": "777",
+    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
+    "answer": "Démon du Refuge",
+    "badAnswers": [
+      "Gwyn",
+      "Ornstein",
+      "Sif"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
+  },
+  {
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+  },
+  {
+    "id": "1403",
+    "question": "Quel est le nom de la déesse grecque de la discorde ?",
+    "answer": "Éris",
+    "badAnswers": [
+      "Némésis",
+      "Athéna",
+      "Héra"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
+  },
+  {
+    "id": "1530",
+    "question": "Quel est la capitale du Niger ?",
+    "answer": "Niamey",
+    "badAnswers": [
+      "Zinder",
+      "Maradi",
+      "Agadez"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
+  },
+  {
+    "id": "930",
+    "question": "Quel est le nom collectif pour un groupe de lions ?",
+    "answer": "Fierté",
+    "badAnswers": [
+      "Meute",
+      "Horde",
+      "Tribu"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Un groupe de lions est appelé une 'fierté', un terme qui souligne leur nature sociale et leur structure familiale. Les autres termes, comme 'meute' ou 'horde', sont utilisés pour d'autres animaux sociaux."
   }
 ]
