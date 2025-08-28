@@ -1,33 +1,72 @@
 [
   {
-    "id": "1682",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
-    "answer": "Pokémon",
+    "id": "536",
+    "question": "Quel artiste a sculpté la Pietà ?",
+    "answer": "Michel-Ange",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Donatello",
+      "Bernin",
+      "Rodin"
     ],
-    "category": "Jeux vidéo",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
+    "description": "Michel-Ange a sculpté la Pietà (1498–1499), une œuvre de la Renaissance représentant la Vierge Marie tenant Jésus. Donatello, Bernin et Rodin sont d'autres sculpteurs, mais n'ont pas créé cette œuvre."
   },
   {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
+    "id": "1774",
+    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Science",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "2046",
-    "question": "Quel est le nom du groupe qui a chanté 'Maxwell's Silver Hammer' ?",
+    "id": "1228",
+    "question": "Quel est la capitale de l'Oman ?",
+    "answer": "Mascate",
+    "badAnswers": [
+      "Salalah",
+      "Sohar",
+      "Nizwa"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Mascate, capitale de l'Oman, est une ville portuaire entourée de montagnes, connue pour son opéra royal et ses souks traditionnels."
+  },
+  {
+    "id": "1111",
+    "question": "Quel est le nom du groupe qui a chanté 'Creep' ?",
+    "answer": "Radiohead",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Creep', sorti en 1992 par Radiohead, est une chanson alternative rock devenue un hymne pour une génération, tirée de l'album Pablo Honey."
+  },
+  {
+    "id": "1665",
+    "question": "Quel est le nom de l'inventeur du premier laser fonctionnel ?",
+    "answer": "Theodore Maiman",
+    "badAnswers": [
+      "Charles Townes",
+      "Gordon Gould",
+      "Albert Einstein"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Theodore Maiman a construit le premier laser à rubis en 1960, révolutionnant les technologies optiques."
+  },
+  {
+    "id": "1922",
+    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -36,97 +75,58 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Maxwell's Silver Hammer', sorti en 1969 par The Beatles, est une chanson pop ironique tirée de l'album Abbey Road."
+    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
   },
   {
-    "id": "599",
-    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
-    "answer": "Gustave Flaubert",
+    "id": "206",
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "answer": "Proxima Centauri",
     "badAnswers": [
-      "Émile Zola",
-      "Honoré de Balzac",
-      "Stendhal"
+      "Sirius A",
+      "Alpha Centauri A",
+      "Betelgeuse"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "'Proxima Centauri' est l'étoile la plus proche de la Terre, à environ 4,24 années-lumière. Sirius A est l'étoile la plus brillante dans notre ciel, Alpha Centauri A fait partie du système Alpha Centauri, et Betelgeuse est une supergéante rouge dans la constellation d'Orion."
   },
   {
-    "id": "1569",
-    "question": "Quel est la capitale de la République démocratique du Congo ?",
-    "answer": "Kinshasa",
+    "id": "1532",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1949 ?",
+    "answer": "All the King's Men",
     "badAnswers": [
-      "Goma",
-      "Lubumbashi",
-      "Kisangani"
+      "A Letter to Three Wives",
+      "Twelve O'Clock High",
+      "The Heiress"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "All the King's Men, réalisé par Robert Rossen, a remporté l'Oscar du meilleur film en 1949, un drame sur la corruption politique."
+  },
+  {
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+  },
+  {
+    "id": "1699",
+    "question": "Quel est la capitale de Taïwan ?",
+    "answer": "Taipei",
+    "badAnswers": [
+      "Kaohsiung",
+      "Tainan",
+      "Taichung"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
-  },
-  {
-    "id": "777",
-    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
-    "answer": "Démon du Refuge",
-    "badAnswers": [
-      "Gwyn",
-      "Ornstein",
-      "Sif"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
-  },
-  {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
-  },
-  {
-    "id": "1403",
-    "question": "Quel est le nom de la déesse grecque de la discorde ?",
-    "answer": "Éris",
-    "badAnswers": [
-      "Némésis",
-      "Athéna",
-      "Héra"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
-  },
-  {
-    "id": "1530",
-    "question": "Quel est la capitale du Niger ?",
-    "answer": "Niamey",
-    "badAnswers": [
-      "Zinder",
-      "Maradi",
-      "Agadez"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
-  },
-  {
-    "id": "930",
-    "question": "Quel est le nom collectif pour un groupe de lions ?",
-    "answer": "Fierté",
-    "badAnswers": [
-      "Meute",
-      "Horde",
-      "Tribu"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Un groupe de lions est appelé une 'fierté', un terme qui souligne leur nature sociale et leur structure familiale. Les autres termes, comme 'meute' ou 'horde', sont utilisés pour d'autres animaux sociaux."
+    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
   }
 ]
