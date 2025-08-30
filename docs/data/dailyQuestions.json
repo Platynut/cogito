@@ -1,132 +1,132 @@
 [
   {
-    "id": "1274",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
-    "answer": "The English Patient",
+    "id": "925",
+    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
+    "answer": "Pied-de-biche",
     "badAnswers": [
-      "Fargo",
-      "Jerry Maguire",
-      "Shine"
+      "Pistolet",
+      "Combinaison H.E.V.",
+      "Vos poings"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
+  },
+  {
+    "id": "1173",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Leon S. Kennedy ?",
+    "answer": "Resident Evil",
+    "badAnswers": [
+      "Silent Hill",
+      "Dead Space",
+      "The Evil Within"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Leon S. Kennedy est un protagoniste clé de la série Resident Evil, un policier luttant contre des zombies et des bio-armes."
+  },
+  {
+    "id": "1067",
+    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
+    "answer": "Azote",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+  },
+  {
+    "id": "387",
+    "question": "Quel est le plus grand carnivore terrestre ?",
+    "answer": "Ours polaire",
+    "badAnswers": [
+      "Lion",
+      "Tigre",
+      "Crocodile"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L’ours polaire est le plus grand carnivore terrestre, pouvant peser jusqu’à 800 kg et mesurer 3 mètres. Vivant dans l’Arctique, il se nourrit principalement de phoques. Le lion et le tigre sont plus petits, et le crocodile, bien que grand, est un reptile aquatique."
+  },
+  {
+    "id": "1661",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
+    "answer": "All Quiet on the Western Front",
+    "badAnswers": [
+      "The Big House",
+      "Disraeli",
+      "The Divorcee"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
+    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
   },
   {
-    "id": "738",
-    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
-    "answer": "Joseph Proust",
+    "id": "1774",
+    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "Antoine Lavoisier",
-      "John Dalton",
-      "Dmitri Mendeleïev"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "810",
-    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
-    "answer": "Glacier Lambert",
+    "id": "101",
+    "question": "D’après la tradition, à quel moment doit débuter le repas de Noël en Ukraine ?",
+    "answer": "Quand le plus jeune enfant de la famille aperçoit la première étoile dans le ciel",
     "badAnswers": [
-      "Glacier Beardmore",
-      "Glacier Ross",
-      "Glacier Pine Island"
+      "Quand le doyen de la famille le décide",
+      "Après les voeux du président",
+      "Au retour de la messe"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
-  },
-  {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
-    "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
+    "category": "Culture générale",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
+    "description": "En Ukraine, le repas de Noël traditionnel commence lorsque le plus jeune enfant de la famille aperçoit la première étoile dans le ciel, symbolisant l'étoile de Bethléem."
   },
   {
-    "id": "218",
-    "question": "Quelle est la superficie de l’île de la Réunion ?",
-    "answer": "2 512 km²",
+    "id": "886",
+    "question": "Quel est le nom de l'auteur de 'En attendant Godot' ?",
+    "answer": "Samuel Beckett",
     "badAnswers": [
-      "992 km²",
-      "2 150 km²",
-      "5 240 km²"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Eugène Ionesco"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Samuel Beckett a écrit En attendant Godot (1953), une pièce de théâtre de l'absurde. Sartre, Camus et Ionesco sont d'autres auteurs existentialistes ou absurdistes."
   },
   {
-    "id": "615",
-    "question": "Dans League of Legends, quel champion est surnommé L'Exécuteur ?",
-    "answer": "Urgot",
+    "id": "518",
+    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
+    "answer": "Sombra",
     "badAnswers": [
-      "Zed",
-      "Shen",
-      "Talon"
+      "Reaper",
+      "Tracer",
+      "D.Va"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Urgot, surnommé L'Exécuteur dans League of Legends, est un colosse brutal équipé d’un arsenal mécanique. Zed, Shen et Talon sont d'autres champions liés à l'assassinat ou au combat, mais ils n'ont pas ce titre."
+    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
   },
   {
-    "id": "130",
-    "question": "Aux États-Unis, combien de présidents américains ont leur portrait taillé dans la roche du Mont Rushmore ?",
-    "answer": "4",
+    "id": "528",
+    "question": "Quel est le nom du plus grand océan du monde ?",
+    "answer": "Océan Pacifique",
     "badAnswers": [
-      "3",
-      "5",
-      "6"
+      "Océan Atlantique",
+      "Océan Indien",
+      "Océan Arctique"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mont Rushmore représente les visages de 4 présidents américains : George Washington, Thomas Jefferson, Theodore Roosevelt et Abraham Lincoln."
-  },
-  {
-    "id": "2038",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) dynamique ?",
-    "answer": "Robert Dennard",
-    "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie clé pour les ordinateurs modernes."
-  },
-  {
-    "id": "1112",
-    "question": "Quel est le nom de l'inventeur du vaccin contre la polio ?",
-    "answer": "Jonas Salk",
-    "badAnswers": [
-      "Albert Sabin",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Jonas Salk a développé le premier vaccin efficace contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreuses régions."
-  },
-  {
-    "id": "1513",
-    "question": "Quel est le nom du dieu grec du temps ?",
-    "answer": "Chronos",
-    "badAnswers": [
-      "Zeus",
-      "Hadès",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Chronos, dieu grec primordial du temps, est distinct de Cronos, le Titan, et représente le temps linéaire et éternel."
+    "difficulty": "facile",
+    "description": "L'océan Pacifique est le plus grand océan du monde, couvrant environ 155 millions de km², soit un tiers de la surface terrestre."
   }
 ]
