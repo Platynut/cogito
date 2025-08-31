@@ -1,132 +1,132 @@
 [
   {
-    "id": "925",
-    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
-    "answer": "Pied-de-biche",
+    "id": "1760",
+    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Pistolet",
-      "Combinaison H.E.V.",
-      "Vos poings"
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
   },
   {
-    "id": "1173",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Leon S. Kennedy ?",
-    "answer": "Resident Evil",
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
     "badAnswers": [
-      "Silent Hill",
-      "Dead Space",
-      "The Evil Within"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Leon S. Kennedy est un protagoniste clé de la série Resident Evil, un policier luttant contre des zombies et des bio-armes."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
+      "Indium",
+      "Iridium",
+      "Iron"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+  },
+  {
+    "id": "1613",
+    "question": "Quel est le nom du dieu grec de la musique ?",
+    "answer": "Apollon",
+    "badAnswers": [
+      "Hermès",
+      "Arès",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+    "description": "Apollon, dieu grec de la musique, de la poésie et du soleil, est souvent représenté jouant de la lyre."
   },
   {
-    "id": "387",
-    "question": "Quel est le plus grand carnivore terrestre ?",
-    "answer": "Ours polaire",
+    "id": "183",
+    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
+    "answer": "Edmond Rostand",
     "badAnswers": [
-      "Lion",
-      "Tigre",
-      "Crocodile"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L’ours polaire est le plus grand carnivore terrestre, pouvant peser jusqu’à 800 kg et mesurer 3 mètres. Vivant dans l’Arctique, il se nourrit principalement de phoques. Le lion et le tigre sont plus petits, et le crocodile, bien que grand, est un reptile aquatique."
-  },
-  {
-    "id": "1661",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
-    "answer": "All Quiet on the Western Front",
-    "badAnswers": [
-      "The Big House",
-      "Disraeli",
-      "The Divorcee"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
-  },
-  {
-    "id": "1774",
-    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
-    "answer": "The Allman Brothers Band",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
-  },
-  {
-    "id": "101",
-    "question": "D’après la tradition, à quel moment doit débuter le repas de Noël en Ukraine ?",
-    "answer": "Quand le plus jeune enfant de la famille aperçoit la première étoile dans le ciel",
-    "badAnswers": [
-      "Quand le doyen de la famille le décide",
-      "Après les voeux du président",
-      "Au retour de la messe"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "En Ukraine, le repas de Noël traditionnel commence lorsque le plus jeune enfant de la famille aperçoit la première étoile dans le ciel, symbolisant l'étoile de Bethléem."
-  },
-  {
-    "id": "886",
-    "question": "Quel est le nom de l'auteur de 'En attendant Godot' ?",
-    "answer": "Samuel Beckett",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Eugène Ionesco"
+      "Victor Hugo",
+      "Molière",
+      "Alfred de Musset"
     ],
     "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Samuel Beckett a écrit En attendant Godot (1953), une pièce de théâtre de l'absurde. Sartre, Camus et Ionesco sont d'autres auteurs existentialistes ou absurdistes."
+    "difficulty": "normal",
+    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
   },
   {
-    "id": "518",
-    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
-    "answer": "Sombra",
+    "id": "2145",
+    "question": "Quel est le nom de l'auteur de 'Les Villes invisibles' ?",
+    "answer": "Italo Calvino",
     "badAnswers": [
-      "Reaper",
-      "Tracer",
-      "D.Va"
+      "Dino Buzzati",
+      "Cesare Pavese",
+      "Luigi Pirandello"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Italo Calvino a écrit 'Les Villes invisibles' (1972), un roman poétique sur des villes imaginaires décrites par Marco Polo."
+  },
+  {
+    "id": "1103",
+    "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry",
+    "badAnswers": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Antoine de Saint-Exupéry a écrit 'Le Petit Prince' (1943), un conte philosophique sur l'amitié, l'amour et la simplicité, aimé dans le monde entier."
+  },
+  {
+    "id": "1075",
+    "question": "Quel est le nom du dieu grec de la mer ?",
+    "answer": "Poséidon",
+    "badAnswers": [
+      "Zeus",
+      "Hadès",
+      "Apollon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Poséidon, dieu grec de la mer, des tremblements de terre et des chevaux, est souvent représenté avec un trident, symbole de son pouvoir."
+  },
+  {
+    "id": "702",
+    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
+    "answer": "Hache Léviathan",
+    "badAnswers": [
+      "Lames du Chaos",
+      "Marteau Mjöllnir",
+      "Épée d'Olympe"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
+    "difficulty": "facile",
+    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
   },
   {
-    "id": "528",
-    "question": "Quel est le nom du plus grand océan du monde ?",
-    "answer": "Océan Pacifique",
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
     "badAnswers": [
-      "Océan Atlantique",
-      "Océan Indien",
-      "Océan Arctique"
+      "Barcelone",
+      "Séville",
+      "Valence"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "L'océan Pacifique est le plus grand océan du monde, couvrant environ 155 millions de km², soit un tiers de la surface terrestre."
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+  },
+  {
+    "id": "208",
+    "question": "Quel édifice datant du VIIe siècle, lieu le plus sacré de l'islam, est recouvert d'une étoffe de soie noire ?",
+    "answer": "La Kaaba",
+    "badAnswers": [
+      "La mosquée Al-Aqsa",
+      "Le Dôme du Rocher",
+      "La Grande Mosquée de Kairouan"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Kaaba, à La Mecque, est recouverte d'une kiswa (étoffe noire) brodée de versets coraniques. Al-Aqsa et le Dôme du Rocher sont à Jérusalem."
   }
 ]
