@@ -1,132 +1,132 @@
 [
   {
-    "id": "1760",
-    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1768",
+    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
+    "answer": "Émile Zola",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
+    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
   },
   {
-    "id": "1304",
-    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
-    "answer": "Iode",
+    "id": "2095",
+    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
+    "answer": "Dale Heatherington",
     "badAnswers": [
-      "Indium",
-      "Iridium",
-      "Iron"
+      "Dennis Hayes",
+      "Vinton Cerf",
+      "Ray Tomlinson"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
+  },
+  {
+    "id": "267",
+    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
+    "answer": "Crise économique",
+    "badAnswers": [
+      "Crise politique",
+      "Crise sanitaire",
+      "Crise environnementale"
+    ],
+    "category": "Politique",
+    "difficulty": "difficile",
+    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
+  },
+  {
+    "id": "1416",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
+    "answer": "Lutécium",
+    "badAnswers": [
+      "Lithium",
+      "Lanthane",
+      "Lawrencium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+    "difficulty": "difficile",
+    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
   },
   {
-    "id": "1613",
-    "question": "Quel est le nom du dieu grec de la musique ?",
-    "answer": "Apollon",
+    "id": "60",
+    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
+    "answer": "The Witcher",
     "badAnswers": [
-      "Hermès",
-      "Arès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Apollon, dieu grec de la musique, de la poésie et du soleil, est souvent représenté jouant de la lyre."
-  },
-  {
-    "id": "183",
-    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
-    "answer": "Edmond Rostand",
-    "badAnswers": [
-      "Victor Hugo",
-      "Molière",
-      "Alfred de Musset"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
-  },
-  {
-    "id": "2145",
-    "question": "Quel est le nom de l'auteur de 'Les Villes invisibles' ?",
-    "answer": "Italo Calvino",
-    "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Les Villes invisibles' (1972), un roman poétique sur des villes imaginaires décrites par Marco Polo."
-  },
-  {
-    "id": "1103",
-    "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
-    "answer": "Antoine de Saint-Exupéry",
-    "badAnswers": [
-      "Jules Verne",
-      "Victor Hugo",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Antoine de Saint-Exupéry a écrit 'Le Petit Prince' (1943), un conte philosophique sur l'amitié, l'amour et la simplicité, aimé dans le monde entier."
-  },
-  {
-    "id": "1075",
-    "question": "Quel est le nom du dieu grec de la mer ?",
-    "answer": "Poséidon",
-    "badAnswers": [
-      "Zeus",
-      "Hadès",
-      "Apollon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Poséidon, dieu grec de la mer, des tremblements de terre et des chevaux, est souvent représenté avec un trident, symbole de son pouvoir."
-  },
-  {
-    "id": "702",
-    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
-    "answer": "Hache Léviathan",
-    "badAnswers": [
-      "Lames du Chaos",
-      "Marteau Mjöllnir",
-      "Épée d'Olympe"
+      "Skyrim",
+      "Dark Souls",
+      "Dragon Age"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
+    "difficulty": "normal",
+    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
   },
   {
-    "id": "606",
-    "question": "Quel est la capitale de l'Espagne ?",
-    "answer": "Madrid",
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+  },
+  {
+    "id": "1107",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
+    "answer": "Argo",
+    "badAnswers": [
+      "Lincoln",
+      "Life of Pi",
+      "Django Unchained"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
+  },
+  {
+    "id": "1565",
+    "question": "Quel est la capitale de la République du Congo ?",
+    "answer": "Brazzaville",
+    "badAnswers": [
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+    "description": "Brazzaville, capitale de la République du Congo, est une ville sur le fleuve Congo, face à Kinshasa, connue pour sa cathédrale."
   },
   {
-    "id": "208",
-    "question": "Quel édifice datant du VIIe siècle, lieu le plus sacré de l'islam, est recouvert d'une étoffe de soie noire ?",
-    "answer": "La Kaaba",
+    "id": "1183",
+    "question": "Quel est la capitale du Venezuela ?",
+    "answer": "Caracas",
     "badAnswers": [
-      "La mosquée Al-Aqsa",
-      "Le Dôme du Rocher",
-      "La Grande Mosquée de Kairouan"
+      "Maracaibo",
+      "Valencia",
+      "Barquisimeto"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "La Kaaba, à La Mecque, est recouverte d'une kiswa (étoffe noire) brodée de versets coraniques. Al-Aqsa et le Dôme du Rocher sont à Jérusalem."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
+  },
+  {
+    "id": "1729",
+    "question": "Quel est le nom de l'ingénieur principal associé à la conception du premier microprocesseur ?",
+    "answer": "Ted Hoff",
+    "badAnswers": [
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Ted Hoff est l'ingénieur principal ayant contribué à la conception de l'Intel 4004 en 1971, le premier microprocesseur commercial, qui a révolutionné l'informatique."
   }
 ]
