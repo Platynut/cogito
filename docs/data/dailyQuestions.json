@@ -1,132 +1,132 @@
 [
   {
-    "id": "1768",
-    "question": "Quel est le nom de l'auteur de 'Thérèse Raquin' ?",
-    "answer": "Émile Zola",
+    "id": "1946",
+    "question": "Quel est le nom de l'auteur de 'Aurélien' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Émile Zola a écrit 'Thérèse Raquin' (1867), un roman naturaliste sur la passion et la culpabilité."
+    "description": "Louis Aragon a écrit 'Aurélien' (1944), un roman sur l'amour et les désillusions dans l'entre-deux-guerres."
   },
   {
-    "id": "2095",
-    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
-    "answer": "Dale Heatherington",
+    "id": "1471",
+    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
+    "answer": "René Laennec",
     "badAnswers": [
-      "Dennis Hayes",
-      "Vinton Cerf",
-      "Ray Tomlinson"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
-  },
-  {
-    "id": "267",
-    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
-    "answer": "Crise économique",
-    "badAnswers": [
-      "Crise politique",
-      "Crise sanitaire",
-      "Crise environnementale"
-    ],
-    "category": "Politique",
-    "difficulty": "difficile",
-    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
-  },
-  {
-    "id": "1416",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
-    "answer": "Lutécium",
-    "badAnswers": [
-      "Lithium",
-      "Lanthane",
-      "Lawrencium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
-  },
-  {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
-    "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
-  },
-  {
-    "id": "2029",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Joseph Murray",
-      "John Gibbon",
-      "Christiaan Barnard"
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Joseph Lister"
     ],
     "category": "Médecine",
     "difficulty": "normal",
-    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
   },
   {
-    "id": "1107",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
-    "answer": "Argo",
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
     "badAnswers": [
-      "Lincoln",
-      "Life of Pi",
-      "Django Unchained"
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
     ],
     "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
+  },
+  {
+    "id": "1585",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Marcus Fenix ?",
+    "answer": "Gears of War",
+    "badAnswers": [
+      "Halo",
+      "Destiny",
+      "Call of Duty"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Marcus Fenix, soldat robuste, est le protagoniste de la série Gears of War, combattant des hordes de Locustes."
+  },
+  {
+    "id": "593",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Ravage ?",
+    "answer": "Tidehunter",
+    "badAnswers": [
+      "Slardar",
+      "Naga Siren",
+      "Kunkka"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
+    "description": "Tidehunter est un héros de Dota 2 connu pour son sort ultime Ravage, qui étourdit les ennemis dans une large zone. Slardar, Naga Siren et Kunkka sont d'autres héros marins, mais n'ont pas ce sort."
   },
   {
-    "id": "1565",
-    "question": "Quel est la capitale de la République du Congo ?",
-    "answer": "Brazzaville",
+    "id": "1122",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
+    "answer": "Sodium",
     "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
+      "Nickel",
+      "Néon",
+      "Nitrure"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Brazzaville, capitale de la République du Congo, est une ville sur le fleuve Congo, face à Kinshasa, connue pour sa cathédrale."
+    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
   },
   {
-    "id": "1183",
-    "question": "Quel est la capitale du Venezuela ?",
-    "answer": "Caracas",
+    "id": "899",
+    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
+    "answer": "Colossal Coliseum",
     "badAnswers": [
-      "Maracaibo",
-      "Valencia",
-      "Barquisimeto"
+      "Coral Castle",
+      "Craggy Cliffs",
+      "Weeping Woods"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
+  },
+  {
+    "id": "930",
+    "question": "Quel est le nom du premier président de la République française ?",
+    "answer": "Louis-Napoléon Bonaparte",
+    "badAnswers": [
+      "Adolphe Thiers",
+      "Jules Grevy",
+      "Patrice de Mac Mahon"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
+  },
+  {
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
   },
   {
-    "id": "1729",
-    "question": "Quel est le nom de l'ingénieur principal associé à la conception du premier microprocesseur ?",
-    "answer": "Ted Hoff",
+    "id": "1402",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tm ?",
+    "answer": "Thulium",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
+      "Thorium",
+      "Technétium",
+      "Tellure"
     ],
-    "category": "Informatique",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Ted Hoff est l'ingénieur principal ayant contribué à la conception de l'Intel 4004 en 1971, le premier microprocesseur commercial, qui a révolutionné l'informatique."
+    "description": "Le thulium, symbolisé par Tm, est un métal rare utilisé dans les lasers portatifs et les équipements d'imagerie médicale."
   }
 ]
