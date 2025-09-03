@@ -1,132 +1,132 @@
 [
   {
-    "id": "1946",
-    "question": "Quel est le nom de l'auteur de 'Aurélien' ?",
-    "answer": "Louis Aragon",
+    "id": "449",
+    "question": "Quel est la capitale de l’Allemagne ?",
+    "answer": "Berlin",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Munich",
+      "Hambourg",
+      "Francfort"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Aurélien' (1944), un roman sur l'amour et les désillusions dans l'entre-deux-guerres."
-  },
-  {
-    "id": "1471",
-    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
-    "answer": "René Laennec",
-    "badAnswers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Joseph Lister"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
-  },
-  {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
-    "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
+    "description": "Berlin est la capitale de l’Allemagne, un centre culturel et politique connu pour la porte de Brandebourg et le Reichstag. Munich, Hambourg et Francfort sont d’autres grandes villes allemandes, mais pas la capitale."
   },
   {
-    "id": "1585",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Marcus Fenix ?",
-    "answer": "Gears of War",
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
     "badAnswers": [
-      "Halo",
-      "Destiny",
-      "Call of Duty"
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Marcus Fenix, soldat robuste, est le protagoniste de la série Gears of War, combattant des hordes de Locustes."
-  },
-  {
-    "id": "593",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Ravage ?",
-    "answer": "Tidehunter",
-    "badAnswers": [
-      "Slardar",
-      "Naga Siren",
-      "Kunkka"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Tidehunter est un héros de Dota 2 connu pour son sort ultime Ravage, qui étourdit les ennemis dans une large zone. Slardar, Naga Siren et Kunkka sont d'autres héros marins, mais n'ont pas ce sort."
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
   },
   {
-    "id": "1122",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
-    "answer": "Sodium",
+    "id": "876",
+    "question": "Quel scientifique a découvert la loi de la constante de Planck ?",
+    "answer": "Max Planck",
     "badAnswers": [
-      "Nickel",
-      "Néon",
-      "Nitrure"
+      "Albert Einstein",
+      "Niels Bohr",
+      "Werner Heisenberg"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
+    "description": "Max Planck a introduit la constante de Planck en 1900, fondement de la mécanique quantique. Einstein, Bohr et Heisenberg ont utilisé cette constante dans leurs travaux."
   },
   {
-    "id": "899",
-    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
-    "answer": "Colossal Coliseum",
+    "id": "980",
+    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
+    "answer": "Luke la main froide",
     "badAnswers": [
-      "Coral Castle",
-      "Craggy Cliffs",
-      "Weeping Woods"
+      "Bonnie and Clyde",
+      "Le Lauréat",
+      "Dans la chaleur de la nuit"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+  },
+  {
+    "id": "461",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
+    "answer": "Ho-Oh",
+    "badAnswers": [
+      "Lugia",
+      "Suicune",
+      "Raikou"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
+    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
   },
   {
-    "id": "930",
-    "question": "Quel est le nom du premier président de la République française ?",
-    "answer": "Louis-Napoléon Bonaparte",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "Adolphe Thiers",
-      "Jules Grevy",
-      "Patrice de Mac Mahon"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Histoire",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   },
   {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
+    "id": "1622",
+    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
+    "answer": "Alice in Chains",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
   },
   {
-    "id": "1402",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tm ?",
-    "answer": "Thulium",
+    "id": "1382",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
+    "answer": "Terbium",
     "badAnswers": [
-      "Thorium",
-      "Technétium",
-      "Tellure"
+      "Thallium",
+      "Thulium",
+      "Technétium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le thulium, symbolisé par Tm, est un métal rare utilisé dans les lasers portatifs et les équipements d'imagerie médicale."
+    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+  },
+  {
+    "id": "70",
+    "question": "Quelle est la plus longue rivière du monde ?",
+    "answer": "Nil",
+    "badAnswers": [
+      "Amazone",
+      "Yangzi Jiang",
+      "Mississippi"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Avec environ 6 650 km, le Nil (Afrique) devance légèrement l'Amazone. Récemment des mesures ont confirmé que le Nil plus long.<br /> (l'Amazone mesure environ 6 575 km selon les dernières études)"
+  },
+  {
+    "id": "1277",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
+    "answer": "Zirconium",
+    "badAnswers": [
+      "Zinc",
+      "Yttrium",
+      "Xenon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
   }
 ]
