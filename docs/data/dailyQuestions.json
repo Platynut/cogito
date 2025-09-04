@@ -1,132 +1,132 @@
 [
   {
-    "id": "449",
-    "question": "Quel est la capitale de l’Allemagne ?",
-    "answer": "Berlin",
+    "id": "1105",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
+    "answer": "Oppenheimer",
     "badAnswers": [
-      "Munich",
-      "Hambourg",
-      "Francfort"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Berlin est la capitale de l’Allemagne, un centre culturel et politique connu pour la porte de Brandebourg et le Reichstag. Munich, Hambourg et Francfort sont d’autres grandes villes allemandes, mais pas la capitale."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
-  },
-  {
-    "id": "876",
-    "question": "Quel scientifique a découvert la loi de la constante de Planck ?",
-    "answer": "Max Planck",
-    "badAnswers": [
-      "Albert Einstein",
-      "Niels Bohr",
-      "Werner Heisenberg"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Max Planck a introduit la constante de Planck en 1900, fondement de la mécanique quantique. Einstein, Bohr et Heisenberg ont utilisé cette constante dans leurs travaux."
-  },
-  {
-    "id": "980",
-    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
-    "answer": "Luke la main froide",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "Le Lauréat",
-      "Dans la chaleur de la nuit"
+      "Poor Things",
+      "Killers of the Flower Moon",
+      "Barbie"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
   },
   {
-    "id": "461",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
-    "answer": "Ho-Oh",
+    "id": "2002",
+    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
+    "answer": "Federico Faggin",
     "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Raikou"
+      "Robert Noyce",
+      "Gordon Moore",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
+  },
+  {
+    "id": "1187",
+    "question": "Quel est la capitale du Bangladesh ?",
+    "answer": "Dhaka",
+    "badAnswers": [
+      "Chittagong",
+      "Khulna",
+      "Sylhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
+  },
+  {
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
+    "badAnswers": [
+      "Palkia",
+      "Giratina",
+      "Arceus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "1117",
+    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
+    "answer": "Bram Stoker",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
+      "Mary Shelley",
+      "Edgar Allan Poe",
+      "H.P. Lovecraft"
     ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
-  },
-  {
-    "id": "1622",
-    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
-    "answer": "Alice in Chains",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
   },
   {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
+    "id": "1641",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
+    "answer": "Cimarron",
     "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "The Front Page",
+      "Skippy",
+      "East Lynne"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
   },
   {
-    "id": "70",
-    "question": "Quelle est la plus longue rivière du monde ?",
-    "answer": "Nil",
+    "id": "907",
+    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
+    "answer": "Han Solo",
     "badAnswers": [
-      "Amazone",
-      "Yangzi Jiang",
-      "Mississippi"
+      "Lando Calrissian",
+      "Chewbacca",
+      "Boba Fett"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+  },
+  {
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
+    "badAnswers": [
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+  },
+  {
+    "id": "1594",
+    "question": "Quel est la capitale du Djibouti ?",
+    "answer": "Djibouti",
+    "badAnswers": [
+      "Ali Sabieh",
+      "Tadjourah",
+      "Obock"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Avec environ 6 650 km, le Nil (Afrique) devance légèrement l'Amazone. Récemment des mesures ont confirmé que le Nil plus long.<br /> (l'Amazone mesure environ 6 575 km selon les dernières études)"
+    "difficulty": "facile",
+    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
   },
   {
-    "id": "1277",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
-    "answer": "Zirconium",
+    "id": "206",
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "answer": "Proxima Centauri",
     "badAnswers": [
-      "Zinc",
-      "Yttrium",
-      "Xenon"
+      "Sirius A",
+      "Alpha Centauri A",
+      "Betelgeuse"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "'Proxima Centauri' est l'étoile la plus proche de la Terre, à environ 4,24 années-lumière. Sirius A est l'étoile la plus brillante dans notre ciel, Alpha Centauri A fait partie du système Alpha Centauri, et Betelgeuse est une supergéante rouge dans la constellation d'Orion."
   }
 ]
