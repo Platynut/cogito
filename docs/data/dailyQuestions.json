@@ -1,132 +1,132 @@
 [
   {
-    "id": "1105",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
-    "answer": "Oppenheimer",
+    "id": "1421",
+    "question": "Quel est la capitale du Kazakhstan ?",
+    "answer": "Nur-Sultan",
     "badAnswers": [
-      "Poor Things",
-      "Killers of the Flower Moon",
-      "Barbie"
+      "Almaty",
+      "Shymkent",
+      "Karaganda"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
+    "description": "Nur-Sultan, capitale du Kazakhstan, est une ville moderne planifiée, connue pour son architecture futuriste et ses monuments comme la tour Bayterek."
   },
   {
-    "id": "2002",
-    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
-    "answer": "Federico Faggin",
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
     "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
-  },
-  {
-    "id": "1187",
-    "question": "Quel est la capitale du Bangladesh ?",
-    "answer": "Dhaka",
-    "badAnswers": [
-      "Chittagong",
-      "Khulna",
-      "Sylhet"
+      "Algérie",
+      "Tunisie",
+      "Égypte"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   },
   {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
+    "id": "605",
+    "question": "Quel est le plus grand mammifère terrestre du monde ?",
+    "answer": "Éléphant de savane",
     "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
+      "Rhinocéros blanc",
+      "Girafe",
+      "Hippopotame"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
-  },
-  {
-    "id": "1117",
-    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
-    "answer": "Bram Stoker",
-    "badAnswers": [
-      "Mary Shelley",
-      "Edgar Allan Poe",
-      "H.P. Lovecraft"
-    ],
-    "category": "Livres",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
+    "description": "L'éléphant de savane est le plus grand mammifère terrestre, pouvant peser jusqu'à 7 tonnes et atteindre 4 mètres de haut. Le rhinocéros blanc, la girafe et l'hippopotame sont plus petits."
   },
   {
-    "id": "1641",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
-    "answer": "Cimarron",
+    "id": "1378",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
+    "answer": "Gadolinium",
     "badAnswers": [
-      "The Front Page",
-      "Skippy",
-      "East Lynne"
+      "Gallium",
+      "Germanium",
+      "Gold"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
-  },
-  {
-    "id": "907",
-    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
-    "answer": "Han Solo",
-    "badAnswers": [
-      "Lando Calrissian",
-      "Chewbacca",
-      "Boba Fett"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
-  },
-  {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
-    "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
-  },
-  {
-    "id": "1594",
-    "question": "Quel est la capitale du Djibouti ?",
-    "answer": "Djibouti",
-    "badAnswers": [
-      "Ali Sabieh",
-      "Tadjourah",
-      "Obock"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
-  },
-  {
-    "id": "206",
-    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
-    "answer": "Proxima Centauri",
-    "badAnswers": [
-      "Sirius A",
-      "Alpha Centauri A",
-      "Betelgeuse"
-    ],
-    "category": "Astronomie",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "'Proxima Centauri' est l'étoile la plus proche de la Terre, à environ 4,24 années-lumière. Sirius A est l'étoile la plus brillante dans notre ciel, Alpha Centauri A fait partie du système Alpha Centauri, et Betelgeuse est une supergéante rouge dans la constellation d'Orion."
+    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
+  },
+  {
+    "id": "1426",
+    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Iron Maiden",
+      "Black Sabbath"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
+  },
+  {
+    "id": "176",
+    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
+    "answer": "House of Cards",
+    "badAnswers": [
+      "Orange is the new black",
+      "Stranger Things",
+      "The Crown"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+  },
+  {
+    "id": "1307",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ba ?",
+    "answer": "Baryum",
+    "badAnswers": [
+      "Beryllium",
+      "Brome",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le baryum, symbolisé par Ba, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur verte et en médecine pour les radiographies."
+  },
+  {
+    "id": "2017",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+  },
+  {
+    "id": "1562",
+    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
+    "answer": "Def Leppard",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
   }
 ]
