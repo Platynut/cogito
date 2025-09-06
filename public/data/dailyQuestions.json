@@ -1,132 +1,132 @@
 [
   {
-    "id": "1421",
-    "question": "Quel est la capitale du Kazakhstan ?",
-    "answer": "Nur-Sultan",
+    "id": "66",
+    "question": "Quelle est la monnaie officielle de la Suisse ?",
+    "answer": "Franc suisse",
     "badAnswers": [
-      "Almaty",
-      "Shymkent",
-      "Karaganda"
+      "Euro",
+      "Couronne",
+      "Livre"
     ],
-    "category": "Géographie",
+    "category": "Economie",
     "difficulty": "normal",
-    "description": "Nur-Sultan, capitale du Kazakhstan, est une ville moderne planifiée, connue pour son architecture futuriste et ses monuments comme la tour Bayterek."
+    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
   },
   {
-    "id": "68",
-    "question": "Dans quel pays se trouve la ville de Marrakech ?",
-    "answer": "Maroc",
+    "id": "94",
+    "question": "Qui était le premier ministre britannique pendant la Seconde Guerre mondiale ?",
+    "answer": "Winston Churchill",
     "badAnswers": [
-      "Algérie",
-      "Tunisie",
-      "Égypte"
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "David Lloyd George"
     ],
-    "category": "Géographie",
+    "category": "Politique",
     "difficulty": "facile",
-    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
+    "description": "Premier ministre de 1940 à 1945 puis de 1951 à 1955, ses discours ont galvanisé la résistance britannique ('Du sang, du labeur, des larmes et de la sueur')."
   },
   {
-    "id": "605",
-    "question": "Quel est le plus grand mammifère terrestre du monde ?",
-    "answer": "Éléphant de savane",
+    "id": "2022",
+    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
+    "answer": "IBM",
     "badAnswers": [
-      "Rhinocéros blanc",
-      "Girafe",
-      "Hippopotame"
+      "Steve Wozniak",
+      "Bill Gates",
+      "Ed Roberts"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
+  },
+  {
+    "id": "2015",
+    "question": "Quel est le nom de l'ingénieur principal derrière le développement de la première disquette ?",
+    "answer": "Alan Shugart",
+    "badAnswers": [
+      "Steve Wozniak",
+      "Bill Gates",
+      "David Noble"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Alan Shugart a dirigé l'équipe d'IBM qui a développé la première disquette 8 pouces en 1971, un support de stockage amovible qui a marqué un tournant dans l'informatique. David Noble a également joué un rôle clé dans sa conception."
+  },
+  {
+    "id": "410",
+    "question": "Quel scientifique a développé la théorie de l’évolution par sélection naturelle ?",
+    "answer": "Charles Darwin",
+    "badAnswers": [
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Charles Darwin a développé la théorie de l’évolution par sélection naturelle, publiée dans L’Origine des espèces (1859). Cette théorie a transformé la biologie. Alfred Russel Wallace a proposé une idée similaire, Mendel a étudié la génétique, et Lamarck a proposé une théorie différente."
+  },
+  {
+    "id": "1697",
+    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+  },
+  {
+    "id": "447",
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre",
+    "badAnswers": [
+      "Lion",
+      "Jaguar",
+      "Léopard"
     ],
     "category": "Animaux",
     "difficulty": "facile",
-    "description": "L'éléphant de savane est le plus grand mammifère terrestre, pouvant peser jusqu'à 7 tonnes et atteindre 4 mètres de haut. Le rhinocéros blanc, la girafe et l'hippopotame sont plus petits."
+    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
   },
   {
-    "id": "1378",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
-    "answer": "Gadolinium",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "Gallium",
-      "Germanium",
-      "Gold"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   },
   {
-    "id": "1426",
-    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
-    "answer": "AC/DC",
+    "id": "688",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
+    "answer": "Lac Supérieur",
     "badAnswers": [
-      "Metallica",
-      "Iron Maiden",
-      "Black Sabbath"
+      "Lac Michigan",
+      "Lac Huron",
+      "Lac Ontario"
     ],
-    "category": "Musique",
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+  },
+  {
+    "id": "519",
+    "question": "Quel est le nom du plus grand désert de glace du monde ?",
+    "answer": "Antarctique",
+    "badAnswers": [
+      "Groenland",
+      "Sahara",
+      "Arctique"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
-  },
-  {
-    "id": "176",
-    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
-    "answer": "House of Cards",
-    "badAnswers": [
-      "Orange is the new black",
-      "Stranger Things",
-      "The Crown"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
-  },
-  {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
-  },
-  {
-    "id": "1307",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ba ?",
-    "answer": "Baryum",
-    "badAnswers": [
-      "Beryllium",
-      "Brome",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le baryum, symbolisé par Ba, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur verte et en médecine pour les radiographies."
-  },
-  {
-    "id": "2017",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
-    "answer": "Roger L. Easton",
-    "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
-  },
-  {
-    "id": "1562",
-    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
+    "description": "L'Antarctique est le plus grand désert de glace du monde, couvrant environ 14 millions de km², principalement sous forme de calotte glaciaire. Le Groenland est plus petit, le Sahara est un désert chaud, et l'Arctique est une région océanique."
   }
 ]
