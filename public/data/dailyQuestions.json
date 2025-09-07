@@ -1,132 +1,132 @@
 [
   {
-    "id": "66",
-    "question": "Quelle est la monnaie officielle de la Suisse ?",
-    "answer": "Franc suisse",
+    "id": "1184",
+    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "Euro",
-      "Couronne",
-      "Livre"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
-  },
-  {
-    "id": "94",
-    "question": "Qui était le premier ministre britannique pendant la Seconde Guerre mondiale ?",
-    "answer": "Winston Churchill",
-    "badAnswers": [
-      "Neville Chamberlain",
-      "Clement Attlee",
-      "David Lloyd George"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Premier ministre de 1940 à 1945 puis de 1951 à 1955, ses discours ont galvanisé la résistance britannique ('Du sang, du labeur, des larmes et de la sueur')."
-  },
-  {
-    "id": "2022",
-    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
-    "answer": "IBM",
-    "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "Ed Roberts"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
-  },
-  {
-    "id": "2015",
-    "question": "Quel est le nom de l'ingénieur principal derrière le développement de la première disquette ?",
-    "answer": "Alan Shugart",
-    "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "David Noble"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Alan Shugart a dirigé l'équipe d'IBM qui a développé la première disquette 8 pouces en 1971, un support de stockage amovible qui a marqué un tournant dans l'informatique. David Noble a également joué un rôle clé dans sa conception."
-  },
-  {
-    "id": "410",
-    "question": "Quel scientifique a développé la théorie de l’évolution par sélection naturelle ?",
-    "answer": "Charles Darwin",
-    "badAnswers": [
-      "Gregor Mendel",
-      "Alfred Russel Wallace",
-      "Jean-Baptiste Lamarck"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Charles Darwin a développé la théorie de l’évolution par sélection naturelle, publiée dans L’Origine des espèces (1859). Cette théorie a transformé la biologie. Alfred Russel Wallace a proposé une idée similaire, Mendel a étudié la génétique, et Lamarck a proposé une théorie différente."
-  },
-  {
-    "id": "1697",
-    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
+      "The Smiths",
+      "The Cure",
+      "U2"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
   },
   {
-    "id": "447",
-    "question": "Quel est le plus grand félin du monde ?",
-    "answer": "Tigre",
+    "id": "314",
+    "question": "Quel est le nom du dieu grec de la guerre ?",
+    "answer": "Arès",
     "badAnswers": [
-      "Lion",
-      "Jaguar",
-      "Léopard"
+      "Athéna",
+      "Apollon",
+      "Poséidon"
     ],
-    "category": "Animaux",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
+    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "1455",
+    "question": "Quel est la capitale du Viêt Nam ?",
+    "answer": "Hanoï",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
+      "Hô Chi Minh-Ville",
+      "Da Nang",
+      "Huế"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
+  },
+  {
+    "id": "1106",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
+    "answer": "Star Fox",
+    "badAnswers": [
+      "F-Zero",
+      "Metroid",
+      "Fire Emblem"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
+  },
+  {
+    "id": "243",
+    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
+    "answer": "Tortue luth",
+    "badAnswers": [
+      "Tortue franche",
+      "Tortue ninja",
+      "Tortue argneuse"
     ],
     "category": "Nature",
-    "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
-  },
-  {
-    "id": "688",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
-    "answer": "Lac Supérieur",
-    "badAnswers": [
-      "Lac Michigan",
-      "Lac Huron",
-      "Lac Ontario"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
-  },
-  {
-    "id": "519",
-    "question": "Quel est le nom du plus grand désert de glace du monde ?",
-    "answer": "Antarctique",
-    "badAnswers": [
-      "Groenland",
-      "Sahara",
-      "Arctique"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "L'Antarctique est le plus grand désert de glace du monde, couvrant environ 14 millions de km², principalement sous forme de calotte glaciaire. Le Groenland est plus petit, le Sahara est un désert chaud, et l'Arctique est une région océanique."
+    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
+  },
+  {
+    "id": "2045",
+    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+  },
+  {
+    "id": "1576",
+    "question": "Quel est le nom du groupe qui a chanté 'Dream On' ?",
+    "answer": "Aerosmith",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Dream On', sorti en 1973 par Aerosmith, est une ballade rock emblématique tirée de leur premier album."
+  },
+  {
+    "id": "888",
+    "question": "Dans Hades, quel est le nom du protagoniste ?",
+    "answer": "Zagreus",
+    "badAnswers": [
+      "Hades",
+      "Thanatos",
+      "Hypnos"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
+  },
+  {
+    "id": "60",
+    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
+    "answer": "The Witcher",
+    "badAnswers": [
+      "Skyrim",
+      "Dark Souls",
+      "Dragon Age"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+  },
+  {
+    "id": "308",
+    "question": "Dans Night In The Woods, où travaille Gregg ?",
+    "answer": "Snack Falcon",
+    "badAnswers": [
+      "Ol' Pickaxe",
+      "Video Outpost 'Too'",
+      "Food Donkey"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Night In The Woods (2017), Gregg travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs. Ce lieu est un élément clé de l'histoire, où Gregg, un ami proche du protagoniste Mae, est employé. Les autres options sont des lieux du jeu, mais pas son lieu de travail."
   }
 ]
