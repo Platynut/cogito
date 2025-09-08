@@ -1,132 +1,132 @@
 [
   {
-    "id": "1184",
-    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
-    "answer": "R.E.M.",
+    "id": "366",
+    "question": "Quel est le nom de l’auteur de Frankenstein ?",
+    "answer": "Mary Shelley",
     "badAnswers": [
-      "The Smiths",
-      "The Cure",
-      "U2"
+      "Bram Stoker",
+      "Edgar Allan Poe",
+      "H.P. Lovecraft"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Mary Shelley a écrit Frankenstein (1818), un roman gothique et de science-fiction sur un scientifique créant une créature monstrueuse. C’est une œuvre fondatrice du genre. Bram Stoker a écrit Dracula, Poe est connu pour ses poèmes et nouvelles, et Lovecraft pour l’horreur cosmique."
+  },
+  {
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
+    "badAnswers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
+  },
+  {
+    "id": "1042",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Master Chief ?",
+    "answer": "Halo",
+    "badAnswers": [
+      "Gears of War",
+      "Doom",
+      "Destiny"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, ou John-117, est le protagoniste principal de la série Halo, un super-soldat combattant les Covenants dans un univers futuriste."
+  },
+  {
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
+  },
+  {
+    "id": "1147",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aloy ?",
+    "answer": "Horizon Zero Dawn",
+    "badAnswers": [
+      "The Last of Us",
+      "Tomb Raider",
+      "Uncharted"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aloy est l'héroïne de Horizon Zero Dawn, une chasseuse dans un monde post-apocalyptique dominé par des machines, créé par Guerrilla Games."
+  },
+  {
+    "id": "1875",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
+    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
   },
   {
-    "id": "314",
-    "question": "Quel est le nom du dieu grec de la guerre ?",
-    "answer": "Arès",
+    "id": "657",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Fire Emblem: Three Houses ?",
+    "answer": "Byleth",
     "badAnswers": [
-      "Athéna",
-      "Apollon",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
-  },
-  {
-    "id": "1455",
-    "question": "Quel est la capitale du Viêt Nam ?",
-    "answer": "Hanoï",
-    "badAnswers": [
-      "Hô Chi Minh-Ville",
-      "Da Nang",
-      "Huế"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
-  },
-  {
-    "id": "1106",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
-    "answer": "Star Fox",
-    "badAnswers": [
-      "F-Zero",
-      "Metroid",
-      "Fire Emblem"
+      "Edelgard",
+      "Dimitri",
+      "Claude"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
+    "description": "Byleth est le protagoniste de Fire Emblem: Three Houses et un personnage jouable dans Super Smash Bros. Ultimate. Edelgard, Dimitri et Claude sont les chefs des trois maisons du jeu."
   },
   {
-    "id": "243",
-    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
-    "answer": "Tortue luth",
+    "id": "1966",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disque dur ?",
+    "answer": "Reynold Johnson",
     "badAnswers": [
-      "Tortue franche",
-      "Tortue ninja",
-      "Tortue argneuse"
+      "Alan Shugart",
+      "David Noble",
+      "Bill Gates"
     ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Reynold B. Johnson a développé le premier disque dur IBM 350 en 1956, révolutionnant le stockage de données."
   },
   {
-    "id": "2045",
-    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
-    "answer": "Marguerite Duras",
+    "id": "928",
+    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
+    "answer": "Nervosité",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Excitation",
+      "Agressivité",
+      "Épuisement"
     ],
-    "category": "Livres",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
   },
   {
-    "id": "1576",
-    "question": "Quel est le nom du groupe qui a chanté 'Dream On' ?",
-    "answer": "Aerosmith",
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Dream On', sorti en 1973 par Aerosmith, est une ballade rock emblématique tirée de leur premier album."
-  },
-  {
-    "id": "888",
-    "question": "Dans Hades, quel est le nom du protagoniste ?",
-    "answer": "Zagreus",
-    "badAnswers": [
-      "Hades",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
-  },
-  {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
-    "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
-  },
-  {
-    "id": "308",
-    "question": "Dans Night In The Woods, où travaille Gregg ?",
-    "answer": "Snack Falcon",
-    "badAnswers": [
-      "Ol' Pickaxe",
-      "Video Outpost 'Too'",
-      "Food Donkey"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Night In The Woods (2017), Gregg travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs. Ce lieu est un élément clé de l'histoire, où Gregg, un ami proche du protagoniste Mae, est employé. Les autres options sont des lieux du jeu, mais pas son lieu de travail."
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
   }
 ]
