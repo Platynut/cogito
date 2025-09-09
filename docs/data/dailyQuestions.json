@@ -1,132 +1,132 @@
 [
   {
-    "id": "366",
-    "question": "Quel est le nom de l’auteur de Frankenstein ?",
-    "answer": "Mary Shelley",
+    "id": "724",
+    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
+    "answer": "Franz Kafka",
     "badAnswers": [
-      "Bram Stoker",
-      "Edgar Allan Poe",
-      "H.P. Lovecraft"
+      "Albert Camus",
+      "Thomas Mann",
+      "Hermann Hesse"
     ],
     "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Mary Shelley a écrit Frankenstein (1818), un roman gothique et de science-fiction sur un scientifique créant une créature monstrueuse. C’est une œuvre fondatrice du genre. Bram Stoker a écrit Dracula, Poe est connu pour ses poèmes et nouvelles, et Lovecraft pour l’horreur cosmique."
+    "difficulty": "normal",
+    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
+    "id": "2109",
+    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
+    "answer": "David Atlas",
     "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
+      "Robert Watson-Watt",
+      "Christian Hülsmeyer",
+      "Heinrich Hertz"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
+  },
+  {
+    "id": "1107",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
+    "answer": "Argo",
+    "badAnswers": [
+      "Lincoln",
+      "Life of Pi",
+      "Django Unchained"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
+  },
+  {
+    "id": "1297",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Juba",
+    "badAnswers": [
+      "Wau",
+      "Malakal",
+      "Yei"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Juba, capitale du Soudan du Sud depuis l'indépendance en 2011, est une ville située sur le Nil Blanc, en pleine croissance."
+  },
+  {
+    "id": "361",
+    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
+    "answer": "Épée de Légende",
+    "badAnswers": [
+      "Épée du Temps",
+      "Épée de Feu",
+      "Épée d’Ombre"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
+  },
+  {
+    "id": "522",
+    "question": "Quel est la capitale de l'Italie ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Milan",
+      "Venise",
+      "Florence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Rome est la capitale de l'Italie, une ville historique connue pour ses monuments antiques comme le Colisée et le Vatican. Milan, Venise et Florence sont d'autres grandes villes italiennes, mais pas la capitale."
+  },
+  {
+    "id": "162",
+    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
+    "answer": "Superman",
+    "badAnswers": [
+      "Hulk",
+      "Spiderman",
+      "Batman"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
+  },
+  {
+    "id": "1488",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
+    "answer": "The Bridge on the River Kwai",
+    "badAnswers": [
+      "12 Angry Men",
+      "Sayonara",
+      "Peyton Place"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
+  },
+  {
+    "id": "1152",
+    "question": "Quel est le nom de l'auteur de 'Le Rouge et le Noir' ?",
+    "answer": "Stendhal",
+    "badAnswers": [
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Honoré de Balzac"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Stendhal a écrit 'Le Rouge et le Noir' (1830), un roman psychologique sur l'ambition et l'amour dans la France post-napoléonienne."
+  },
+  {
+    "id": "2120",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) ?",
+    "answer": "Robert Dennard",
+    "badAnswers": [
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
     ],
     "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
-  },
-  {
-    "id": "1042",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Master Chief ?",
-    "answer": "Halo",
-    "badAnswers": [
-      "Gears of War",
-      "Doom",
-      "Destiny"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Master Chief, ou John-117, est le protagoniste principal de la série Halo, un super-soldat combattant les Covenants dans un univers futuriste."
-  },
-  {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
-    "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
-  },
-  {
-    "id": "1147",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aloy ?",
-    "answer": "Horizon Zero Dawn",
-    "badAnswers": [
-      "The Last of Us",
-      "Tomb Raider",
-      "Uncharted"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aloy est l'héroïne de Horizon Zero Dawn, une chasseuse dans un monde post-apocalyptique dominé par des machines, créé par Guerrilla Games."
-  },
-  {
-    "id": "1875",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "657",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Fire Emblem: Three Houses ?",
-    "answer": "Byleth",
-    "badAnswers": [
-      "Edelgard",
-      "Dimitri",
-      "Claude"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Byleth est le protagoniste de Fire Emblem: Three Houses et un personnage jouable dans Super Smash Bros. Ultimate. Edelgard, Dimitri et Claude sont les chefs des trois maisons du jeu."
-  },
-  {
-    "id": "1966",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disque dur ?",
-    "answer": "Reynold Johnson",
-    "badAnswers": [
-      "Alan Shugart",
-      "David Noble",
-      "Bill Gates"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Reynold B. Johnson a développé le premier disque dur IBM 350 en 1956, révolutionnant le stockage de données."
-  },
-  {
-    "id": "928",
-    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
-    "answer": "Nervosité",
-    "badAnswers": [
-      "Excitation",
-      "Agressivité",
-      "Épuisement"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
-  },
-  {
-    "id": "2029",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Joseph Murray",
-      "John Gibbon",
-      "Christiaan Barnard"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie essentielle pour les ordinateurs modernes."
   }
 ]
