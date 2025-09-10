@@ -1,132 +1,132 @@
 [
   {
-    "id": "724",
-    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
-    "answer": "Franz Kafka",
+    "id": "117",
+    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
+    "answer": "Tous les 4 ans",
     "badAnswers": [
-      "Albert Camus",
-      "Thomas Mann",
-      "Hermann Hesse"
+      "Tous les 3 ans",
+      "Tous les 5 ans",
+      "Tous les 6 ans"
     ],
-    "category": "Littérature",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
   },
   {
-    "id": "2109",
-    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
-    "answer": "David Atlas",
+    "id": "1265",
+    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
+    "answer": "Adret",
     "badAnswers": [
-      "Robert Watson-Watt",
-      "Christian Hülsmeyer",
-      "Heinrich Hertz"
+      "Ubac",
+      "Étang",
+      "Ressac"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
+  },
+  {
+    "id": "2017",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+  },
+  {
+    "id": "496",
+    "question": "Quel est le plus grand arbre du monde ?",
+    "answer": "Séquoia géant",
+    "badAnswers": [
+      "Baobab",
+      "Pin de Bristlecone",
+      "Chêne pédonculé"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le séquoia géant est le plus grand arbre du monde en volume, pouvant atteindre 85 mètres de haut et un volume massif. Le spécimen 'General Sherman' est célèbre. Le baobab, le pin de Bristlecone et le chêne pédonculé sont impressionnants, mais moins volumineux."
+  },
+  {
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+  },
+  {
+    "id": "1309",
+    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
+    "answer": "Alessandro Volta",
+    "badAnswers": [
+      "Michael Faraday",
+      "Thomas Edison",
+      "Nikola Tesla"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
+    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
   },
   {
-    "id": "1107",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
-    "answer": "Argo",
+    "id": "211",
+    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
+    "answer": "Samus Aran",
     "badAnswers": [
-      "Lincoln",
-      "Life of Pi",
-      "Django Unchained"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
-  },
-  {
-    "id": "1297",
-    "question": "Quel est la capitale du Soudan du Sud ?",
-    "answer": "Juba",
-    "badAnswers": [
-      "Wau",
-      "Malakal",
-      "Yei"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Juba, capitale du Soudan du Sud depuis l'indépendance en 2011, est une ville située sur le Nil Blanc, en pleine croissance."
-  },
-  {
-    "id": "361",
-    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
-    "answer": "Épée de Légende",
-    "badAnswers": [
-      "Épée du Temps",
-      "Épée de Feu",
-      "Épée d’Ombre"
+      "Sheamus",
+      "Darius",
+      "Prepus"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
-  },
-  {
-    "id": "522",
-    "question": "Quel est la capitale de l'Italie ?",
-    "answer": "Rome",
-    "badAnswers": [
-      "Milan",
-      "Venise",
-      "Florence"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Rome est la capitale de l'Italie, une ville historique connue pour ses monuments antiques comme le Colisée et le Vatican. Milan, Venise et Florence sont d'autres grandes villes italiennes, mais pas la capitale."
-  },
-  {
-    "id": "162",
-    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
-    "answer": "Superman",
-    "badAnswers": [
-      "Hulk",
-      "Spiderman",
-      "Batman"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "facile",
-    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
-  },
-  {
-    "id": "1488",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
-    "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
+    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
   },
   {
-    "id": "1152",
-    "question": "Quel est le nom de l'auteur de 'Le Rouge et le Noir' ?",
-    "answer": "Stendhal",
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Gustave Flaubert",
-      "Victor Hugo",
-      "Honoré de Balzac"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Stendhal a écrit 'Le Rouge et le Noir' (1830), un roman psychologique sur l'ambition et l'amour dans la France post-napoléonienne."
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
   },
   {
-    "id": "2120",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) ?",
-    "answer": "Robert Dennard",
+    "id": "1914",
+    "question": "Quel est le nom de l'auteur de 'Les Caves du Vatican' ?",
+    "answer": "André Gide",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
     ],
-    "category": "Informatique",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie essentielle pour les ordinateurs modernes."
+    "description": "André Gide a écrit 'Les Caves du Vatican' (1914), une sotie sur la liberté et l'hypocrisie."
+  },
+  {
+    "id": "1315",
+    "question": "Quel est le nom du groupe qui a chanté 'Come As You Are' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Come As You Are', sorti en 1991 par Nirvana, est une chanson grunge emblématique tirée de l'album Nevermind."
   }
 ]
