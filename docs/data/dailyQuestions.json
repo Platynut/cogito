@@ -1,132 +1,132 @@
 [
   {
-    "id": "117",
-    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
-    "answer": "Tous les 4 ans",
+    "id": "656",
+    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
+    "answer": "James Prescott Joule",
     "badAnswers": [
-      "Tous les 3 ans",
-      "Tous les 5 ans",
-      "Tous les 6 ans"
+      "Michael Faraday",
+      "Hermann von Helmholtz",
+      "Sadi Carnot"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
   },
   {
-    "id": "1265",
-    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
-    "answer": "Adret",
+    "id": "465",
+    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
+    "answer": "Mark Twain",
     "badAnswers": [
-      "Ubac",
-      "Étang",
-      "Ressac"
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "F. Scott Fitzgerald"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
+  },
+  {
+    "id": "1536",
+    "question": "Quel est la capitale du Togo ?",
+    "answer": "Lomé",
+    "badAnswers": [
+      "Kara",
+      "Sokodé",
+      "Atakpamé"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
+    "difficulty": "facile",
+    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
   },
   {
-    "id": "2017",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
-    "answer": "Roger L. Easton",
+    "id": "1529",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
+    "answer": "Fermium",
     "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
+      "Fluor",
+      "Francium",
+      "Fer"
     ],
-    "category": "Technologie",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
   },
   {
-    "id": "496",
-    "question": "Quel est le plus grand arbre du monde ?",
-    "answer": "Séquoia géant",
+    "id": "974",
+    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
+    "answer": "Gary",
     "badAnswers": [
-      "Baobab",
-      "Pin de Bristlecone",
-      "Chêne pédonculé"
+      "Orville",
+      "Carlo",
+      "Squidina"
+    ],
+    "category": "Dessins animés",
+    "difficulty": "facile",
+    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
+  },
+  {
+    "id": "503",
+    "question": "Quel scientifique a découvert les électrons ?",
+    "answer": "Joseph Thomson",
+    "badAnswers": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le séquoia géant est le plus grand arbre du monde en volume, pouvant atteindre 85 mètres de haut et un volume massif. Le spécimen 'General Sherman' est célèbre. Le baobab, le pin de Bristlecone et le chêne pédonculé sont impressionnants, mais moins volumineux."
+    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
   },
   {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
+    "id": "977",
+    "question": "Quel est le nom collectif pour un groupe de rats ?",
+    "answer": "Colonie",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
+      "Meute",
+      "Nuée",
+      "Essaim"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
-  },
-  {
-    "id": "1309",
-    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
-    "answer": "Alessandro Volta",
-    "badAnswers": [
-      "Michael Faraday",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "category": "Technologie",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
+    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
   },
   {
-    "id": "211",
-    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
-    "answer": "Samus Aran",
+    "id": "1066",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
+    "answer": "Titanic",
     "badAnswers": [
-      "Sheamus",
-      "Darius",
-      "Prepus"
+      "L.A. Confidential",
+      "Will Hunting",
+      "Le Patient anglais"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
+    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, devenant un phénomène culturel avec son histoire d'amour tragique."
   },
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "1001",
+    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
+    "answer": "Bangladesh",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Malaisie",
+      "Vietnam",
+      "Philippines"
     ],
-    "category": "Livres",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
   },
   {
-    "id": "1914",
-    "question": "Quel est le nom de l'auteur de 'Les Caves du Vatican' ?",
-    "answer": "André Gide",
+    "id": "654",
+    "question": "Quel est le nom du plus grand désert d'Asie ?",
+    "answer": "Désert de Gobi",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
+      "Désert du Taklamakan",
+      "Désert de Karakum",
+      "Désert de Thar"
     ],
-    "category": "Livres",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Caves du Vatican' (1914), une sotie sur la liberté et l'hypocrisie."
-  },
-  {
-    "id": "1315",
-    "question": "Quel est le nom du groupe qui a chanté 'Come As You Are' ?",
-    "answer": "Nirvana",
-    "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come As You Are', sorti en 1991 par Nirvana, est une chanson grunge emblématique tirée de l'album Nevermind."
+    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
   }
 ]
