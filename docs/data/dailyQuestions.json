@@ -1,132 +1,132 @@
 [
   {
-    "id": "656",
-    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
-    "answer": "James Prescott Joule",
+    "id": "1699",
+    "question": "Quel est la capitale de Taïwan ?",
+    "answer": "Taipei",
     "badAnswers": [
-      "Michael Faraday",
-      "Hermann von Helmholtz",
-      "Sadi Carnot"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
-  },
-  {
-    "id": "465",
-    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
-    "answer": "Mark Twain",
-    "badAnswers": [
-      "Herman Melville",
-      "Nathaniel Hawthorne",
-      "F. Scott Fitzgerald"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
-  },
-  {
-    "id": "1536",
-    "question": "Quel est la capitale du Togo ?",
-    "answer": "Lomé",
-    "badAnswers": [
-      "Kara",
-      "Sokodé",
-      "Atakpamé"
+      "Kaohsiung",
+      "Tainan",
+      "Taichung"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
+    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
   },
   {
-    "id": "1529",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
-    "answer": "Fermium",
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fer"
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
-  },
-  {
-    "id": "974",
-    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
-    "answer": "Gary",
-    "badAnswers": [
-      "Orville",
-      "Carlo",
-      "Squidina"
-    ],
-    "category": "Dessins animés",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
   },
   {
-    "id": "503",
-    "question": "Quel scientifique a découvert les électrons ?",
-    "answer": "Joseph Thomson",
+    "id": "486",
+    "question": "Quel est le plus grand oiseau prédateur du monde ?",
+    "answer": "Condor des Andes",
     "badAnswers": [
-      "Ernest Rutherford",
-      "Niels Bohr",
-      "James Chadwick"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
-  },
-  {
-    "id": "977",
-    "question": "Quel est le nom collectif pour un groupe de rats ?",
-    "answer": "Colonie",
-    "badAnswers": [
-      "Meute",
-      "Nuée",
-      "Essaim"
+      "Aigle royal",
+      "Vautour fauve",
+      "Harfang des neiges"
     ],
     "category": "Animaux",
     "difficulty": "normal",
-    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
+    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
   },
   {
-    "id": "1066",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
-    "answer": "Titanic",
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
     "badAnswers": [
-      "L.A. Confidential",
-      "Will Hunting",
-      "Le Patient anglais"
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, devenant un phénomène culturel avec son histoire d'amour tragique."
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
   },
   {
-    "id": "1001",
-    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
-    "answer": "Bangladesh",
+    "id": "981",
+    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
+    "answer": "2 décembre 1804",
     "badAnswers": [
-      "Malaisie",
-      "Vietnam",
-      "Philippines"
+      "3 juillet 1802",
+      "8 mars 1803",
+      "15 octobre 1804"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
+    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
   },
   {
-    "id": "654",
-    "question": "Quel est le nom du plus grand désert d'Asie ?",
-    "answer": "Désert de Gobi",
+    "id": "1464",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Po ?",
+    "answer": "Polonium",
     "badAnswers": [
-      "Désert du Taklamakan",
-      "Désert de Karakum",
-      "Désert de Thar"
+      "Plomb",
+      "Potassium",
+      "Prométhium"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
+    "description": "Le polonium, symbolisé par Po, est un élément radioactif découvert par Marie Curie, utilisé dans certaines applications industrielles."
+  },
+  {
+    "id": "1128",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
+    "answer": "Moonlight",
+    "badAnswers": [
+      "La La Land",
+      "Manchester by the Sea",
+      "Hacksaw Ridge"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
+  },
+  {
+    "id": "1321",
+    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
+    "answer": "Ernst Ruska",
+    "badAnswers": [
+      "Hans Jansen",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
+  },
+  {
+    "id": "1522",
+    "question": "Quel est le nom de l'auteur de 'L'Éducation sentimentale' ?",
+    "answer": "Gustave Flaubert",
+    "badAnswers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Stendhal"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Gustave Flaubert a écrit 'L'Éducation sentimentale' (1869), un roman réaliste sur les désillusions amoureuses et sociales d'un jeune homme."
   }
 ]
