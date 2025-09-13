@@ -1,132 +1,132 @@
 [
   {
-    "id": "1699",
-    "question": "Quel est la capitale de Taïwan ?",
-    "answer": "Taipei",
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
     "badAnswers": [
-      "Kaohsiung",
-      "Tainan",
-      "Taichung"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
-  },
-  {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
-    "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
-  },
-  {
-    "id": "486",
-    "question": "Quel est le plus grand oiseau prédateur du monde ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Harfang des neiges"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
-  },
-  {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
-    "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
-  },
-  {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
   },
   {
-    "id": "981",
-    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
-    "answer": "2 décembre 1804",
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
     "badAnswers": [
-      "3 juillet 1802",
-      "8 mars 1803",
-      "15 octobre 1804"
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
   },
   {
-    "id": "1464",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Po ?",
-    "answer": "Polonium",
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
     "badAnswers": [
-      "Plomb",
-      "Potassium",
-      "Prométhium"
+      "Metallica",
+      "Guns N' Roses",
+      "Led Zeppelin"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le polonium, symbolisé par Po, est un élément radioactif découvert par Marie Curie, utilisé dans certaines applications industrielles."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
   },
   {
-    "id": "1128",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
-    "answer": "Moonlight",
+    "id": "2078",
+    "question": "Quel est le nom de l'auteur de 'Pars vite et reviens tard' ?",
+    "answer": "Fred Vargas",
     "badAnswers": [
-      "La La Land",
-      "Manchester by the Sea",
-      "Hacksaw Ridge"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
-  },
-  {
-    "id": "1321",
-    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
-    "answer": "Ernst Ruska",
-    "badAnswers": [
-      "Hans Jansen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
-  },
-  {
-    "id": "1522",
-    "question": "Quel est le nom de l'auteur de 'L'Éducation sentimentale' ?",
-    "answer": "Gustave Flaubert",
-    "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Stendhal"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Gustave Flaubert a écrit 'L'Éducation sentimentale' (1869), un roman réaliste sur les désillusions amoureuses et sociales d'un jeune homme."
+    "description": "Fred Vargas a écrit 'Pars vite et reviens tard' (2001), un roman policier mettant en scène le commissaire Adamsberg."
+  },
+  {
+    "id": "1267",
+    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
+    "answer": "Arsenic",
+    "badAnswers": [
+      "Antimoine",
+      "Argon",
+      "Astatine"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
+  },
+  {
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
+    "badAnswers": [
+      "Derry",
+      "Lisburn",
+      "Newry"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
+  },
+  {
+    "id": "1834",
+    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
+    "answer": "Arthur Rimbaud",
+    "badAnswers": [
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
+  },
+  {
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
+    "badAnswers": [
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+  },
+  {
+    "id": "177",
+    "question": "Quel héros de l'Antiquité a rencontré Circé, Calypso, Nausicaa et Pénélope ?",
+    "answer": "Ulysse",
+    "badAnswers": [
+      "Achille",
+      "Dédale",
+      "Hector"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Ulysse, héros de 'L'Odyssée' d'Homère, a rencontré ces personnages lors de son voyage de retour à Ithaque. Achille et Hector sont des figures de 'L'Iliade', Dédale est lié au mythe du Minotaure."
+  },
+  {
+    "id": "535",
+    "question": "Quel est la capitale du Kenya ?",
+    "answer": "Nairobi",
+    "badAnswers": [
+      "Mombasa",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Nairobi est la capitale du Kenya, un centre économique et politique connu pour son parc national. Mombasa, Kisumu et Nakuru sont d'autres villes kényanes, mais pas la capitale."
   }
 ]
