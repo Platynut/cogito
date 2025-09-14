@@ -1,47 +1,99 @@
 [
   {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
+    "id": "809",
+    "question": "Dans Fortnite, quel est le nom du biome volcanique introduit dans la saison 8 ?",
+    "answer": "Volcan",
     "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
+      "Sunny Steps",
+      "Lazy Lagoon",
+      "Frosty Flights"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Volcan est un biome introduit dans la saison 8 de Fortnite, avec un cratère actif. Sunny Steps, Lazy Lagoon et Frosty Flights sont d'autres lieux de la même saison."
+  },
+  {
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
+    "badAnswers": [
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
+  },
+  {
+    "id": "245",
+    "question": "Quel titre de l'album 'Hybrid Theory' Linkin Park a-t-il repris en acoustique pour la tournée 'One More Light' ?",
+    "answer": "Crawling",
+    "badAnswers": [
+      "Papercut",
+      "One Step Closer",
+      "A Place for My Head"
+    ],
+    "category": "Musique",
+    "difficulty": "difficile",
+    "description": "'Crawling' a été réinterprété en version acoustique lors de la tournée 2017. 'Papercut' et 'One Step Closer' sont d'autres titres de l'album."
+  },
+  {
+    "id": "1044",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
+    "answer": "Fer",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
+  },
+  {
+    "id": "689",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Yoda ?",
+    "answer": "Inconnue",
+    "badAnswers": [
+      "Dagobah",
+      "Coruscant",
+      "Naboo"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
+    "description": "La planète natale de Yoda reste inconnue dans l'univers canonique de Star Wars. Dagobah est où il s'exile, Coruscant est le centre galactique, et Naboo est la planète de Padmé."
   },
   {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
+    "id": "851",
+    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
+    "answer": "Charlotte Brontë",
     "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
+      "Emily Brontë",
+      "Jane Austen",
+      "George Eliot"
     ],
-    "category": "Divertissement",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+    "description": "Charlotte Brontë a écrit Jane Eyre (1847), un roman sur une gouvernante et son amour pour Mr. Rochester. Emily Brontë, Austen et Eliot sont d'autres écrivaines, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
+    "id": "2096",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
+    "answer": "Michel Mirowski",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
+      "Paul Zoll",
+      "William Kouwenhoven",
+      "Claude Beck"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
   },
   {
-    "id": "2078",
-    "question": "Quel est le nom de l'auteur de 'Pars vite et reviens tard' ?",
-    "answer": "Fred Vargas",
+    "id": "2122",
+    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -49,84 +101,32 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Fred Vargas a écrit 'Pars vite et reviens tard' (2001), un roman policier mettant en scène le commissaire Adamsberg."
+    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
   },
   {
-    "id": "1267",
-    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
-    "answer": "Arsenic",
+    "id": "1892",
+    "question": "Quel est le nom de l'inventeur du premier système de photographie numérique ?",
+    "answer": "Steven Sasson",
     "badAnswers": [
-      "Antimoine",
-      "Argon",
-      "Astatine"
+      "George Eastman",
+      "Edwin Land",
+      "Willard Boyle"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie."
   },
   {
-    "id": "1096",
-    "question": "Quelle est la capitale de l'Irlande du Nord ?",
-    "answer": "Belfast",
+    "id": "507",
+    "question": "Quel est la capitale de la Corée du Sud ?",
+    "answer": "Séoul",
     "badAnswers": [
-      "Derry",
-      "Lisburn",
-      "Newry"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
-  },
-  {
-    "id": "1834",
-    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
-    "answer": "Arthur Rimbaud",
-    "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
-  },
-  {
-    "id": "177",
-    "question": "Quel héros de l'Antiquité a rencontré Circé, Calypso, Nausicaa et Pénélope ?",
-    "answer": "Ulysse",
-    "badAnswers": [
-      "Achille",
-      "Dédale",
-      "Hector"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Ulysse, héros de 'L'Odyssée' d'Homère, a rencontré ces personnages lors de son voyage de retour à Ithaque. Achille et Hector sont des figures de 'L'Iliade', Dédale est lié au mythe du Minotaure."
-  },
-  {
-    "id": "535",
-    "question": "Quel est la capitale du Kenya ?",
-    "answer": "Nairobi",
-    "badAnswers": [
-      "Mombasa",
-      "Kisumu",
-      "Nakuru"
+      "Busan",
+      "Incheon",
+      "Daegu"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Nairobi est la capitale du Kenya, un centre économique et politique connu pour son parc national. Mombasa, Kisumu et Nakuru sont d'autres villes kényanes, mais pas la capitale."
+    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
   }
 ]
