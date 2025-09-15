@@ -1,132 +1,132 @@
 [
   {
-    "id": "809",
-    "question": "Dans Fortnite, quel est le nom du biome volcanique introduit dans la saison 8 ?",
-    "answer": "Volcan",
-    "badAnswers": [
-      "Sunny Steps",
-      "Lazy Lagoon",
-      "Frosty Flights"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Volcan est un biome introduit dans la saison 8 de Fortnite, avec un cratère actif. Sunny Steps, Lazy Lagoon et Frosty Flights sont d'autres lieux de la même saison."
-  },
-  {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
-    "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "245",
-    "question": "Quel titre de l'album 'Hybrid Theory' Linkin Park a-t-il repris en acoustique pour la tournée 'One More Light' ?",
-    "answer": "Crawling",
-    "badAnswers": [
-      "Papercut",
-      "One Step Closer",
-      "A Place for My Head"
-    ],
-    "category": "Musique",
-    "difficulty": "difficile",
-    "description": "'Crawling' a été réinterprété en version acoustique lors de la tournée 2017. 'Papercut' et 'One Step Closer' sont d'autres titres de l'album."
-  },
-  {
-    "id": "1044",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
-  },
-  {
-    "id": "689",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Yoda ?",
-    "answer": "Inconnue",
-    "badAnswers": [
-      "Dagobah",
-      "Coruscant",
-      "Naboo"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "La planète natale de Yoda reste inconnue dans l'univers canonique de Star Wars. Dagobah est où il s'exile, Coruscant est le centre galactique, et Naboo est la planète de Padmé."
-  },
-  {
-    "id": "851",
-    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
-    "answer": "Charlotte Brontë",
-    "badAnswers": [
-      "Emily Brontë",
-      "Jane Austen",
-      "George Eliot"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Charlotte Brontë a écrit Jane Eyre (1847), un roman sur une gouvernante et son amour pour Mr. Rochester. Emily Brontë, Austen et Eliot sont d'autres écrivaines, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "2096",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
-    "answer": "Michel Mirowski",
-    "badAnswers": [
-      "Paul Zoll",
-      "William Kouwenhoven",
-      "Claude Beck"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
-  },
-  {
-    "id": "2122",
-    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "1921",
+    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
+    "answer": "André Gide",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
-      "André Gide"
+      "Marcel Proust"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
+    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
   },
   {
-    "id": "1892",
-    "question": "Quel est le nom de l'inventeur du premier système de photographie numérique ?",
-    "answer": "Steven Sasson",
+    "id": "367",
+    "question": "Quel est le plus grand reptile vivant aujourd’hui ?",
+    "answer": "Crocodile marin",
     "badAnswers": [
-      "George Eastman",
-      "Edwin Land",
-      "Willard Boyle"
+      "Anaconda",
+      "Tortue luth",
+      "Dragon de Komodo"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin (Crocodylus porosus) est le plus grand reptile vivant, pouvant atteindre 7 mètres de long et peser plus d’une tonne. Trouvé dans les régions côtières de l’Asie du Sud-Est et de l’Australie, il est redoutable. L’anaconda est un serpent, la tortue luth une tortue marine, et le dragon de Komodo est plus petit."
   },
   {
-    "id": "507",
-    "question": "Quel est la capitale de la Corée du Sud ?",
-    "answer": "Séoul",
+    "id": "118",
+    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
+    "answer": "France Joli",
     "badAnswers": [
-      "Busan",
-      "Incheon",
-      "Daegu"
+      "Tabitha Lemaire",
+      "Fanny Bloom",
+      "Chantal Renaud"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
+  },
+  {
+    "id": "1810",
+    "question": "Quel est la capitale du Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
+    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
+  },
+  {
+    "id": "1645",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
+    "answer": "The Broadway Melody",
+    "badAnswers": [
+      "The Jazz Singer",
+      "In Old Arizona",
+      "The Patriot"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1929, une des premières comédies musicales."
+  },
+  {
+    "id": "1597",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cn ?",
+    "answer": "Copernicium",
+    "badAnswers": [
+      "Cobalt",
+      "Cuivre",
+      "Chrome"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le copernicium, symbolisé par Cn, est un élément radioactif synthétique, nommé d'après Nicolas Copernic, utilisé dans la recherche."
+  },
+  {
+    "id": "1471",
+    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
+    "answer": "René Laennec",
+    "badAnswers": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
+  },
+  {
+    "id": "1426",
+    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Iron Maiden",
+      "Black Sabbath"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
+  },
+  {
+    "id": "1291",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1993 ?",
+    "answer": "Schindler's List",
+    "badAnswers": [
+      "The Piano",
+      "The Fugitive",
+      "In the Name of the Father"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Schindler's List, réalisé par Steven Spielberg, a remporté l'Oscar du meilleur film en 1993, un drame poignant sur l'Holocauste."
+  },
+  {
+    "id": "314",
+    "question": "Quel est le nom du dieu grec de la guerre ?",
+    "answer": "Arès",
+    "badAnswers": [
+      "Athéna",
+      "Apollon",
+      "Poséidon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
   }
 ]
