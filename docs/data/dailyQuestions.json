@@ -1,132 +1,132 @@
 [
   {
-    "id": "1921",
-    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
-    "answer": "André Gide",
+    "id": "1566",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
+    "answer": "Going My Way",
+    "badAnswers": [
+      "Gaslight",
+      "Since You Went Away",
+      "Wilson"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+  },
+  {
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+  },
+  {
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
+    "badAnswers": [
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+  },
+  {
+    "id": "1727",
+    "question": "Quel est le nom de l'auteur de 'L'Homme révolté' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Albert Camus",
+      "André Gide",
       "Marcel Proust"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
+    "description": "Albert Camus a écrit 'L'Homme révolté' (1951), un essai philosophique sur la révolte et la liberté."
   },
   {
-    "id": "367",
-    "question": "Quel est le plus grand reptile vivant aujourd’hui ?",
-    "answer": "Crocodile marin",
+    "id": "1894",
+    "question": "Quel est le nom de l'inventeur du premier système de télécommande ?",
+    "answer": "Nikola Tesla",
     "badAnswers": [
-      "Anaconda",
-      "Tortue luth",
-      "Dragon de Komodo"
+      "Robert Adler",
+      "Eugene Polley",
+      "Philo Farnsworth"
     ],
-    "category": "Animaux",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Le crocodile marin (Crocodylus porosus) est le plus grand reptile vivant, pouvant atteindre 7 mètres de long et peser plus d’une tonne. Trouvé dans les régions côtières de l’Asie du Sud-Est et de l’Australie, il est redoutable. L’anaconda est un serpent, la tortue luth une tortue marine, et le dragon de Komodo est plus petit."
+    "description": "Nikola Tesla a démontré le premier système de télécommande en 1898, contrôlant un bateau miniature par ondes radio."
   },
   {
-    "id": "118",
-    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
-    "answer": "France Joli",
+    "id": "865",
+    "question": "Dans Overwatch, quel personnage est un ancien chef d'Overwatch devenu hors-la-loi ?",
+    "answer": "Soldat 76",
     "badAnswers": [
-      "Tabitha Lemaire",
-      "Fanny Bloom",
-      "Chantal Renaud"
+      "Reaper",
+      "McCree",
+      "Ashe"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Soldat 76, ancien chef d'Overwatch, est un hors-la-loi dans Overwatch, cherchant à faire justice. Reaper est un ancien allié, McCree et Ashe sont d'autres hors-la-loi."
+  },
+  {
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
-  },
-  {
-    "id": "1810",
-    "question": "Quel est la capitale du Sierra Leone ?",
-    "answer": "Freetown",
-    "badAnswers": [
-      "Bo",
-      "Kenema",
-      "Makeni"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
   },
   {
-    "id": "1645",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
-    "answer": "The Broadway Melody",
+    "id": "1545",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lr ?",
+    "answer": "Lawrencium",
     "badAnswers": [
-      "The Jazz Singer",
-      "In Old Arizona",
-      "The Patriot"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1929, une des premières comédies musicales."
-  },
-  {
-    "id": "1597",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cn ?",
-    "answer": "Copernicium",
-    "badAnswers": [
-      "Cobalt",
-      "Cuivre",
-      "Chrome"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le copernicium, symbolisé par Cn, est un élément radioactif synthétique, nommé d'après Nicolas Copernic, utilisé dans la recherche."
+    "description": "Le lawrencium, symbolisé par Lr, est un élément radioactif synthétique, nommé d'après Ernest Lawrence, utilisé dans la recherche."
   },
   {
-    "id": "1471",
-    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
-    "answer": "René Laennec",
+    "id": "550",
+    "question": "Quel scientifique a découvert les lois de la réflexion et de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
     "badAnswers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Joseph Lister"
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
-  },
-  {
-    "id": "1426",
-    "question": "Quel est le nom du groupe qui a chanté 'Highway to Hell' ?",
-    "answer": "AC/DC",
-    "badAnswers": [
-      "Metallica",
-      "Iron Maiden",
-      "Black Sabbath"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Highway to Hell', sorti en 1979 par AC/DC, est une chanson hard rock légendaire tirée de l'album éponyme."
-  },
-  {
-    "id": "1291",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1993 ?",
-    "answer": "Schindler's List",
-    "badAnswers": [
-      "The Piano",
-      "The Fugitive",
-      "In the Name of the Father"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Schindler's List, réalisé par Steven Spielberg, a remporté l'Oscar du meilleur film en 1993, un drame poignant sur l'Holocauste."
-  },
-  {
-    "id": "314",
-    "question": "Quel est le nom du dieu grec de la guerre ?",
-    "answer": "Arès",
-    "badAnswers": [
-      "Athéna",
-      "Apollon",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) en 1621, décrivant le comportement de la lumière à l'interface entre deux milieux. Newton, Huygens et Descartes ont contribué à l'optique, mais Snell est crédité pour cette loi."
   }
 ]
