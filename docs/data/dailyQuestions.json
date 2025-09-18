@@ -1,132 +1,132 @@
 [
   {
-    "id": "2046",
-    "question": "Quel est le nom du groupe qui a chanté 'Maxwell's Silver Hammer' ?",
-    "answer": "The Beatles",
+    "id": "92",
+    "question": "Dans quel jeu trouve-t-on des Endermen ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Maxwell's Silver Hammer', sorti en 1969 par The Beatles, est une chanson pop ironique tirée de l'album Abbey Road."
-  },
-  {
-    "id": "437",
-    "question": "Quel est le plus rapide des animaux terrestres ?",
-    "answer": "Guépard",
-    "badAnswers": [
-      "Lion",
-      "Antilope",
-      "Léopard"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le guépard est l’animal terrestre le plus rapide, capable d’atteindre des vitesses de 120 km/h sur de courtes distances. Le lion, l’antilope et le léopard sont également rapides, mais aucun ne rivalise avec le guépard."
-  },
-  {
-    "id": "107",
-    "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
-    "answer": "Adrien Quatennens",
-    "badAnswers": [
-      "Eric Ciotti",
-      "Damien Abad",
-      "Gérald Darmanin"
-    ],
-    "category": "Politique",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
+    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
   },
   {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
+    "id": "1127",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Spyro ?",
+    "answer": "Spyro the Dragon",
     "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
+      "Crash Bandicoot",
+      "Jak and Daxter",
+      "Ratchet & Clank"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+    "description": "Spyro, un petit dragon violet, est le héros de la série Spyro the Dragon, explorant des mondes colorés pour sauver ses amis."
   },
   {
-    "id": "2078",
-    "question": "Quel est le nom de l'auteur de 'Pars vite et reviens tard' ?",
-    "answer": "Fred Vargas",
+    "id": "1284",
+    "question": "Quel est le nom du dieu grec de la mort paisible ?",
+    "answer": "Thanatos",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Hadès",
+      "Morpheus",
+      "Hypnos"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Fred Vargas a écrit 'Pars vite et reviens tard' (2001), un roman policier mettant en scène le commissaire Adamsberg."
+    "description": "Thanatos, dieu grec de la mort paisible, est une figure mineure souvent représentée comme un jeune homme ailé, contrastant avec Hadès, dieu des Enfers."
   },
   {
-    "id": "1697",
-    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
-    "answer": "Pink Floyd",
+    "id": "344",
+    "question": "Quel est la capitale du Japon ?",
+    "answer": "Tokyo",
     "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+    "description": "Tokyo est la capitale du Japon, une métropole majeure et le centre politique, économique et culturel du pays. Kyoto était l'ancienne capitale impériale, tandis qu'Osaka et Hiroshima sont d'autres grandes villes, mais pas la capitale."
   },
   {
-    "id": "1844",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
-    "answer": "Wilson Greatbatch",
+    "id": "418",
+    "question": "Dans God of War (2018), quel est le nom du fils de Kratos ?",
+    "answer": "Atreus",
     "badAnswers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Earl Bakken"
+      "Deimos",
+      "Thor",
+      "Loki"
     ],
-    "category": "Médecine",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Atreus est le fils de Kratos dans God of War (2018), un jeune garçon qui accompagne son père dans une quête nordique. Deimos est le frère de Kratos dans les jeux précédents, et Thor et Loki sont des figures mythologiques, pas son fils."
+  },
+  {
+    "id": "1631",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
+    "answer": "Max Knoll",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
   },
   {
-    "id": "203",
-    "question": "Quelle est la planète la plus grande du système solaire ?",
-    "answer": "Jupiter",
+    "id": "1773",
+    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
+    "answer": "François Rabelais",
     "badAnswers": [
-      "Saturne",
-      "Uranus",
-      "Neptune"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Jupiter est la plus grande planète du système solaire, avec un diamètre d'environ 139 820 km. Saturne est la deuxième plus grande, suivie d'Uranus et Neptune."
-  },
-  {
-    "id": "1695",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rh ?",
-    "answer": "Rhodium",
-    "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Ruthénium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le rhodium, symbolisé par Rh, est un métal rare utilisé dans les convertisseurs catalytiques et les bijoux."
-  },
-  {
-    "id": "1740",
-    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
+    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
+  },
+  {
+    "id": "702",
+    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
+    "answer": "Hache Léviathan",
+    "badAnswers": [
+      "Lames du Chaos",
+      "Marteau Mjöllnir",
+      "Épée d'Olympe"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
+  },
+  {
+    "id": "321",
+    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
+    "answer": "Peach",
+    "badAnswers": [
+      "Daisy",
+      "Rosalina",
+      "Toadette"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
+  },
+  {
+    "id": "1037",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
+    "badAnswers": [
+      "Pulp Fiction",
+      "Les Évadés",
+      "Le Roi Lion"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
   }
 ]
