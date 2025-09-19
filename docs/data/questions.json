@@ -1,84 +1,6 @@
 {
   "quizzes": [
     {
-      "id": "103",
-      "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
-      "answer": "Sri Lanka",
-      "badAnswers": [
-        "Philippines",
-        "Liban",
-        "Vénézuela"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
-    },
-    {
-      "id": "107",
-      "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
-      "answer": "Adrien Quatennens",
-      "badAnswers": [
-        "Eric Ciotti",
-        "Damien Abad",
-        "Gérald Darmanin"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
-    },
-    {
-      "id": "163",
-      "question": "Qui a été élu 'Personnalité de l’année 2022' par le magazine américain Time ?",
-      "answer": "Volodymyr Zelensky",
-      "badAnswers": [
-        "Elon Musk",
-        "Vladimir Poutine",
-        "Kanye West"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Volodymyr Zelensky, président ukrainien, a été élu par le Time pour sa résistance lors de l'invasion russe. Elon Musk (Tesla), Poutine et Kanye West étaient également médiatisés mais non primés."
-    },
-    {
-      "id": "175",
-      "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-      "answer": "Japon",
-      "badAnswers": [
-        "Espagne",
-        "Yémen",
-        "Inde"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
-    },
-    {
-      "id": "259",
-      "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
-      "answer": "Sandrine Rousseau",
-      "badAnswers": [
-        "Marlène Schiappa",
-        "Brigitte Macron",
-        "Camilla Parker Bowles"
-      ],
-      "category": "Politique",
-      "difficulty": "normal",
-      "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
-    },
-    {
-      "id": "267",
-      "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
-      "answer": "Crise économique",
-      "badAnswers": [
-        "Crise politique",
-        "Crise sanitaire",
-        "Crise environnementale"
-      ],
-      "category": "Politique",
-      "difficulty": "difficile",
-      "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
-    },
-    {
       "id": "146",
       "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
       "answer": "L'endive",
@@ -2635,7 +2557,7 @@
       ],
       "category": "Cinéma",
       "difficulty": "normal",
-      "description": "Anora, réalisé par Sean Baker, a remporté l'Oscar du meilleur film lors de la 97ᵉ cérémonie en 2024, récompensant les films de 2024. Le film a totalisé cinq statuettes, dont Meilleur réalisateur (Sean Baker) et Meilleure actrice (Mikey Madison)." 
+      "description": "Anora, réalisé par Sean Baker, a remporté l'Oscar du meilleur film lors de la 97ᵉ cérémonie en 2024, récompensant les films de 2024. Le film a totalisé cinq statuettes, dont Meilleur réalisateur (Sean Baker) et Meilleure actrice (Mikey Madison)."
     },
     {
       "id": "1158",
@@ -3313,7 +3235,7 @@
       "difficulty": "normal",
       "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
     },
-    { 
+    {
       "id": "1477",
       "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
       "answer": "Ben-Hur",
@@ -3873,6 +3795,19 @@
       "description": "En 1923, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
     },
     {
+      "id": "3",
+      "question": "Quelle série met en scène le cartel de Medellín ?",
+      "answer": "Narcos",
+      "badAnswers": [
+        "Breaking Bad",
+        "El Chapo",
+        "La Casa de Papel"
+      ],
+      "category": "Cinéma",
+      "difficulty": "facile",
+      "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+    },
+    {
       "id": "965",
       "question": "Qui a écrit la pièce de théâtre Angels in America ?",
       "answer": "Tony Kushner",
@@ -3884,6 +3819,19 @@
       "category": "Comédies musicales et théâtre",
       "difficulty": "facile",
       "description": "Tony Kushner est l'auteur de Angels in America, une pièce en deux parties sur l'épidémie de sida aux États-Unis dans les années 1980, acclamée pour sa profondeur et son style."
+    },
+    {
+      "id": "303",
+      "question": "Qui a écrit la pièce Anges en Amérique ?",
+      "answer": "Tony Kushner",
+      "badAnswers": [
+        "Tom Stoppard",
+        "Matthew Lopez",
+        "Anthony Neilson"
+      ],
+      "category": "Comédies musicales et théâtre",
+      "difficulty": "facile",
+      "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
     },
     {
       "id": "12",
@@ -4172,17 +4120,17 @@
       "description": "Thomas Jefferson, troisième président des États-Unis, est représenté sur le billet de 2 dollars, une coupure rarement utilisée mais toujours en circulation."
     },
     {
-      "id": "984",
-      "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
-      "answer": "La famille Gothik",
+      "id": "27",
+      "question": "Quel est l'animal national de l'Écosse ?",
+      "answer": "Licorne",
       "badAnswers": [
-        "La famille",
-        "La famille Simflouz",
-        "La famille Proud"
+        "Lion",
+        "Aigle",
+        "Ours"
       ],
-      "category": "Jeux vidéo",
+      "category": "Culture générale",
       "difficulty": "difficile",
-      "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
+      "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
     },
     {
       "id": "120",
@@ -8551,6 +8499,19 @@
       "category": "Jeux de société",
       "difficulty": "normal",
       "description": "Nightmare est un jeu de société d'horreur sorti en 1991, connu pour son utilisation innovante d'une cassette VHS pour guider les joueurs à travers une expérience immersive. Publié par A Couple 'A Cowboys, il a marqué les esprits par son ambiance unique. Les autres années proposées sont incorrectes, 1991 étant la date officielle de sortie."
+    },
+    {
+      "id": "984",
+      "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
+      "answer": "La famille Gothik",
+      "badAnswers": [
+        "La famille",
+        "La famille Simflouz",
+        "La famille Proud"
+      ],
+      "category": "Jeux vidéo",
+      "difficulty": "difficile",
+      "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
     },
     {
       "id": "269",
@@ -18147,19 +18108,6 @@
       "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
     },
     {
-      "id": "794",
-      "question": "Quel est le nom de la déesse grecque de la chasse ?",
-      "answer": "Artémis",
-      "badAnswers": [
-        "Athéna",
-        "Aphrodite",
-        "Héra"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Artémis est la déesse grecque de la chasse, de la nature et de la lune, souvent représentée avec un arc. Athéna est la déesse de la sagesse, Aphrodite de l'amour, et Héra du mariage."
-    },
-    {
       "id": "860",
       "question": "Quel est le nom de la déesse grecque de l'amour ?",
       "answer": "Aphrodite",
@@ -18251,19 +18199,6 @@
       "description": "Mars, équivalent romain d'Arès, est le dieu de la guerre, souvent associé à la bravoure et à la protection de Rome dans la mythologie."
     },
     {
-      "id": "1075",
-      "question": "Quel est le nom du dieu grec de la mer ?",
-      "answer": "Poséidon",
-      "badAnswers": [
-        "Zeus",
-        "Hadès",
-        "Apollon"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Poséidon, dieu grec de la mer, des tremblements de terre et des chevaux, est souvent représenté avec un trident, symbole de son pouvoir."
-    },
-    {
       "id": "1083",
       "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
       "answer": "Anubis",
@@ -18290,19 +18225,6 @@
       "description": "Osiris est le dieu égyptien du royaume des morts et du jugement des âmes. Il symbolise la résurrection et l’ordre dans l’au-delà. Anubis prépare les âmes, mais Osiris les juge."
     },
     {
-      "id": "1089",
-      "question": "Quel est le nom du dieu grec du feu et de la forge ?",
-      "answer": "Héphaïstos",
-      "badAnswers": [
-        "Arès",
-        "Apollon",
-        "Hermès"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
-    },
-    {
       "id": "1096",
       "question": "Quel est le nom du dieu grec de la médecine ?",
       "answer": "Asclépios",
@@ -18314,19 +18236,6 @@
       "category": "Mythologie",
       "difficulty": "normal",
       "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
-    },
-    {
-      "id": "1109",
-      "question": "Quel est le nom du dieu grec de la sagesse ?",
-      "answer": "Athéna",
-      "badAnswers": [
-        "Artémis",
-        "Aphrodite",
-        "Héra"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Athéna, déesse grecque de la sagesse, de la stratégie et de la guerre juste, est souvent représentée avec une chouette, symbole de connaissance."
     },
     {
       "id": "1116",
@@ -18434,7 +18343,7 @@
     },
     {
       "id": "1190",
-      "question": "Quelle divinité grecque est associée à la guerre juste et à la stratégie ?",
+      "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
       "answer": "Athéna",
       "badAnswers": [
         "Arès",
@@ -18443,7 +18352,7 @@
       ],
       "category": "Mythologie",
       "difficulty": "normal",
-      "description": "Athéna, déesse de la guerre juste et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
+      "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
     },
     {
       "id": "1214",
@@ -18457,32 +18366,6 @@
       "category": "Mythologie",
       "difficulty": "normal",
       "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
-    },
-    {
-      "id": "1217",
-      "question": "Quel est le nom du dieu grec de la guerre brutale ?",
-      "answer": "Arès",
-      "badAnswers": [
-        "Athéna",
-        "Apollon",
-        "Hermès"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Arès est le dieu grec de la guerre brutale et sanglante. Il incarne la violence et le chaos du combat, à l’opposé d’Athéna, qui symbolise la stratégie et la guerre défensive."
-    },
-    {
-      "id": "1221",
-      "question": "Quel est le nom du dieu grec de l'amour romantique ?",
-      "answer": "Éros",
-      "badAnswers": [
-        "Dionysos",
-        "Morpheus",
-        "Hypnos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Éros, dieu grec de l'amour romantique, est souvent représenté comme un jeune homme ailé armé d'un arc et de flèches pour inspirer la passion."
     },
     {
       "id": "1234",
@@ -18563,19 +18446,6 @@
       "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
     },
     {
-      "id": "1276",
-      "question": "Quel est le nom du dieu grec des voyageurs ?",
-      "answer": "Hermès",
-      "badAnswers": [
-        "Apollon",
-        "Arès",
-        "Dionysos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Hermès, dieu grec des voyageurs, du commerce et des messagers, est souvent représenté avec des sandales ailées et un caducée."
-    },
-    {
       "id": "1278",
       "question": "Quel est le nom de la déesse grecque de la beauté ?",
       "answer": "Aphrodite",
@@ -18587,19 +18457,6 @@
       "category": "Mythologie",
       "difficulty": "facile",
       "description": "Aphrodite, déesse grecque de la beauté et de l'amour, est souvent représentée émergeant de la mer ou accompagnée de colombes."
-    },
-    {
-      "id": "1284",
-      "question": "Quel est le nom du dieu grec de la mort paisible ?",
-      "answer": "Thanatos",
-      "badAnswers": [
-        "Hadès",
-        "Morpheus",
-        "Hypnos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "normal",
-      "description": "Thanatos, dieu grec de la mort paisible, est une figure mineure souvent représentée comme un jeune homme ailé, contrastant avec Hadès, dieu des Enfers."
     },
     {
       "id": "1290",
@@ -18626,19 +18483,6 @@
       "category": "Mythologie",
       "difficulty": "normal",
       "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
-    },
-    {
-      "id": "1312",
-      "question": "Quel est le nom du dieu grec du commerce ?",
-      "answer": "Hermès",
-      "badAnswers": [
-        "Apollon",
-        "Arès",
-        "Dionysos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Hermès, dieu grec du commerce, des voyageurs et des messagers, est connu pour sa rapidité et son caducée ailé."
     },
     {
       "id": "1319",
@@ -18758,19 +18602,6 @@
       "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
     },
     {
-      "id": "1436",
-      "question": "Quel est le nom de la déesse grecque de la guerre stratégique ?",
-      "answer": "Athéna",
-      "badAnswers": [
-        "Héra",
-        "Aphrodite",
-        "Artémis"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Athéna, déesse grecque de la guerre stratégique et de la sagesse, est souvent représentée avec un casque et un bouclier."
-    },
-    {
       "id": "1450",
       "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
       "answer": "Artémis",
@@ -18875,45 +18706,6 @@
       "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
     },
     {
-      "id": "1568",
-      "question": "Quel est le nom de la déesse grecque de la chance ?",
-      "answer": "Tyché",
-      "badAnswers": [
-        "Héra",
-        "Athéna",
-        "Aphrodite"
-      ],
-      "category": "Mythologie",
-      "difficulty": "normal",
-      "description": "Tyché, déesse grecque de la chance et de la fortune, est souvent représentée avec une corne d'abondance ou une roue."
-    },
-    {
-      "id": "1589",
-      "question": "Quel est le nom de la déesse grecque de la sagesse et de la guerre ?",
-      "answer": "Athéna",
-      "badAnswers": [
-        "Héra",
-        "Aphrodite",
-        "Artémis"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Athéna, déesse grecque de la sagesse et de la guerre stratégique, est souvent représentée avec une chouette et un bouclier."
-    },
-    {
-      "id": "1613",
-      "question": "Quel est le nom du dieu grec de la musique ?",
-      "answer": "Apollon",
-      "badAnswers": [
-        "Hermès",
-        "Arès",
-        "Dionysos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Apollon, dieu grec de la musique, de la poésie et du soleil, est souvent représenté jouant de la lyre."
-    },
-    {
       "id": "1630",
       "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
       "answer": "Harmonie",
@@ -18938,19 +18730,6 @@
       "category": "Mythologie",
       "difficulty": "normal",
       "description": "Morphée, dieu grec des rêves, est le fils d'Hypnos, souvent représenté avec des ailes, façonnant les rêves des mortels."
-    },
-    {
-      "id": "1722",
-      "question": "Quel est le nom du dieu grec de la lumière ?",
-      "answer": "Apollon",
-      "badAnswers": [
-        "Héphaïstos",
-        "Hermès",
-        "Dionysos"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Apollon, dieu grec de la lumière, de la musique et de la prophétie, est souvent associé à l'oracle de Delphes."
     },
     {
       "id": "1726",
@@ -19018,19 +18797,6 @@
       "description": "Deimos, dieu grec de la terreur, est le fils d'Arès et accompagne son père sur les champs de bataille."
     },
     {
-      "id": "1841",
-      "question": "Quel est le nom du dieu grec du monde souterrain ?",
-      "answer": "Hadès",
-      "badAnswers": [
-        "Zeus",
-        "Poséidon",
-        "Apollon"
-      ],
-      "category": "Mythologie",
-      "difficulty": "facile",
-      "description": "Hadès, dieu grec du monde souterrain, est le frère de Zeus et Poséidon, et le gardien des âmes des morts."
-    },
-    {
       "id": "1901",
       "question": "Quel est le nom du dieu grec des voleurs ?",
       "answer": "Hermès",
@@ -19070,17 +18836,361 @@
       "description": "Hyménaios, dieu grec du mariage, est souvent représenté comme un jeune homme portant une torche lors des cérémonies nuptiales."
     },
     {
-      "id": "27",
-      "question": "Quel est l'animal national de l'Écosse ?",
-      "answer": "Licorne",
+      "id": "601",
+      "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
+      "answer": "Raijin",
       "badAnswers": [
-        "Lion",
-        "Aigle",
-        "Ours"
+        "Fujin", 
+        "Susanoo", 
+        "Hachiman"
       ],
-      "category": "Culture générale",
-      "difficulty": "difficile",
-      "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
+    },
+    {
+      "id": "602",
+      "question": "Qui est le dieu du vent dans la mythologie japonaise ?",
+      "answer": "Fujin",
+      "badAnswers": [
+        "Raijin", 
+        "Tsukuyomi", 
+        "Inari"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Fujin est représenté avec une poche à vent et associé aux dégâts causés par la tempête."
+    },
+    {
+      "id": "603",
+      "question": "Quel kami est le dieu du riz, de la prospérité et de l'industrie ?",
+      "answer": "Inari",
+      "badAnswers": [
+        "Ebisu", 
+        "Hachiman", 
+        "Benzaiten"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Inari est vénéré pour avoir protégé la culture du riz et est symbolisé par les renards messagers."
+    },
+    {
+      "id": "604",
+      "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
+      "answer": "Benzaiten",
+      "badAnswers": [
+        "Amaterasu", 
+        "Inari"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
+    },
+    {
+      "id": "605",
+      "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
+      "answer": "Tenjin",
+      "badAnswers": [
+        "Hachiman", 
+        "Jizo", 
+        "Shitenno"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
+    },
+    {
+      "id": "606",
+      "question": "Quel dieu japonais est le protecteur des guerriers et de la guerre ?",
+      "answer": "Hachiman",
+      "badAnswers": [
+        "Susanoo", 
+        "Raijin", 
+        "Ebisu"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Hachiman est le défenseur des îles japonaises et protecteur des guerriers."
+    },
+    {
+      "id": "607",
+      "question": "Qui est la déesse du soleil dans la mythologie japonaise ?",
+      "answer": "Amaterasu",
+      "badAnswers": [
+        "Tsukuyomi", 
+        "Benzaiten", 
+        "Inari"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Amaterasu est la divinité centrale du shintoïsme et l'ancêtre mythique des empereurs japonais."
+    },
+    {
+      "id": "608",
+      "question": "Quels dieux sont considérés comme les créateurs du Japon ?",
+      "answer": "Izanagi et Izanami",
+      "badAnswers": [
+        "Raijin et Fujin", 
+        "Susanoo et Amaterasu", 
+        "Hachiman et Inari"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Izanagi et Izanami ont formé les îles du Japon et sont les parents de nombreux kami."
+    },
+    {
+      "id": "609",
+      "question": "Quel kami protège les enfants et les défunts dans la mythologie japonaise ?",
+      "answer": "Jizo",
+      "badAnswers": [
+        "Kannon", 
+        "Ebisu", 
+        "Tenjin"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Jizo aide les enfants à traverser la rivière Sanzu dans l'au-delà."
+    },
+    {
+      "id": "610",
+      "question": "Quels gardiens protègent les temples bouddhistes japonais ?",
+      "answer": "Ungyo et Agyo",
+      "badAnswers": [
+        "Shitenno", 
+        "Raijin et Fujin", 
+        "Hachiman et Ebisu"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Ungyo symbolise la force et Agyo la violence ; ils protègent les espaces sacrés."
+    },
+    {
+      "id": "611",
+      "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
+      "answer": "Kannon",
+      "badAnswers": [
+        "Kannon", 
+        "Benzaiten", 
+        "Amaterasu", 
+        "Inari"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
+    },
+    {
+      "id": "612",
+      "question": "Quelles sont les quatre divinités gardiennes du bouddhisme au Japon ?",
+      "answer": "Shitenno",
+      "badAnswers": [
+        "Ungyo et Agyo", 
+        "Raijin et Fujin", 
+        "Izanagi et Izanami"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Shitenno est associé aux saisons, aux directions et à la protection des temples."
+    },
+    {
+      "id": "613",
+      "question": "Quel dieu japonais a vaincu le serpent à huit têtes Yamata no Orochi ?",
+      "answer": "Susanoo",
+      "badAnswers": [
+        "Raijin", 
+        "Hachiman", 
+        "Fujin"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Susanoo est le dieu de la mer et des tempêtes, symbole d'héroïsme."
+    },
+    {
+      "id": "614",
+      "question": "Qui est le dieu de la lune dans la mythologie japonaise ?",
+      "answer": "Tsukuyomi",
+      "badAnswers": [
+        "Amaterasu", 
+        "Susanoo", 
+        "Benzaiten"
+      ],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Tsukuyomi incarne le calme et le mystère de la nuit."
+    },
+    {
+      "id": "615",
+      "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+      "answer": "Ebisu",
+      "badAnswers": [
+        "Inari", 
+        "Hachiman", 
+        "Raijin"
+      ],
+        "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+    },
+    {
+      "id": "701",
+      "question": "Quel yōkai amphibie japonais est connu pour avoir un creux d'eau sur la tête ?",
+      "answer": "Kappa",
+      "badAnswers": ["Tengu", "Tanuki", "Oni"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Kappa est un esprit aquatique espiègle ou dangereux, possédant un creux d'eau sur la tête qui lui donne sa force."
+    },
+    {
+      "id": "702",
+      "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
+      "answer": "Umibōzu",
+      "badAnswers": ["Iso-onna", "Kappa", "Jorōgumo"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
+    },
+    {
+      "id": "703",
+      "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+      "answer": "Iso-onna",
+      "badAnswers": ["Yuki-onna", "Jorōgumo", "Onryō"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+    },
+    {
+      "id": "704",
+      "question": "Quel renard magique japonais peut se transformer en humain ?",
+      "answer": "Kitsune",
+      "badAnswers": ["Tanuki", "Bakeneko", "Nue"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Kitsune est un renard surnaturel doté de pouvoirs magiques, dont celui de se transformer en humain."
+    },
+    {
+      "id": "705",
+      "question": "Quel yōkai farceur est un chien viverrin capable de se transformer ?",
+      "answer": "Tanuki",
+      "badAnswers": ["Kitsune", "Kappa", "Bakeneko"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Tanuki est un animal légendaire farceur, maître de la métamorphose et symbole de chance."
+    },
+    {
+      "id": "706",
+      "question": "Quel chat monstrueux japonais possède des pouvoirs surnaturels ?",
+      "answer": "Bakeneko",
+      "badAnswers": ["Tanuki", "Kitsune", "Nue"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Bakeneko est un chat légendaire capable de se métamorphoser, de parler et de manipuler les humains."
+    },
+    {
+      "id": "707",
+      "question": "Quelle créature japonaise possède une tête de singe, un corps de tigre et une queue de serpent ?",
+      "answer": "Nue",
+      "badAnswers": ["Jorōgumo", "Oni", "Tengu"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Nue est une créature composite apportant malheur et maladie."
+    },
+    {
+      "id": "708",
+      "question": "Quelle femme des neiges gèle ses victimes dans la mythologie japonaise ?",
+      "answer": "Yuki-onna",
+      "badAnswers": ["Iso-onna", "Onryō", "Jorōgumo"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "La Yuki-onna est un esprit hivernal qui attire les voyageurs et les glace à mort."
+    },
+    {
+      "id": "709",
+      "question": "Quel esprit vengeur japonais revient hanter les vivants après une mort injuste ?",
+      "answer": "Onryō",
+      "badAnswers": ["Noppera-bō", "Yuki-onna", "Iso-onna"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "L'Onryō est un fantôme vengeur cherchant à punir ceux qui lui ont fait du tort."
+    },
+    {
+      "id": "710",
+      "question": "Quel fantôme japonais est connu pour avoir un visage totalement lisse ?",
+      "answer": "Noppera-bō",
+      "badAnswers": ["Onryō", "Yuki-onna", "Zashiki-warashi"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Noppera-bō effraie ses victimes en révélant un visage lisse et sans traits."
+    },
+    {
+      "id": "711",
+      "question": "Quel ogre ou démon cornu japonais manie souvent une massue ?",
+      "answer": "Oni",
+      "badAnswers": ["Tengu", "Nurarihyon", "Nue"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Les Oni sont de puissants démons rouges ou bleus, symboles de force et de chaos."
+    },
+    {
+      "id": "712",
+      "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
+      "answer": "Tengu",
+      "badAnswers": ["Karasu-tengu", "Oni", "Kappa"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+    },
+    {
+      "id": "713",
+      "question": "Quelle femme japonaise a un cou pouvant s'allonger surnaturellement ?",
+      "answer": "Rokurokubi",
+      "badAnswers": ["Jorōgumo", "Iso-onna", "Yuki-onna"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "La Rokurokubi étend son cou la nuit pour espionner ou effrayer les humains."
+    },
+    {
+      "id": "714",
+      "question": "Quel yōkai est une femme-araignée qui attire ses proies avant de les dévorer ?",
+      "answer": "Jorōgumo",
+      "badAnswers": ["Iso-onna", "Nue", "Rokurokubi"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "La Jorōgumo se transforme en belle femme pour séduire les hommes et les manger."
+    },
+    {
+      "id": "715",
+      "question": "Quel esprit d'enfant japonais apporte la chance aux foyers qu'il visite ?",
+      "answer": "Zashiki-warashi",
+      "badAnswers": ["Noppera-bō", "Nurarihyon", "Karakasa-obake"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Zashiki-warashi est un esprit bienveillant qui vit dans les maisons et porte chance."
+    },
+    {
+      "id": "716",
+      "question": "Quel vieil homme yōkai s'invite chez les gens comme s'il était chez lui ?",
+      "answer": "Nurarihyon",
+      "badAnswers": ["Zashiki-warashi", "Tengu", "Karasu-tengu"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Nurarihyon se comporte comme le maître des lieux quand il pénètre dans une maison."
+    },
+    {
+      "id": "717",
+      "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
+      "answer": "Karasu-tengu",
+      "badAnswers": ["Tengu", "Oni", "Kappa"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
+    },
+    {
+      "id": "718",
+      "question": "Quel yōkai est un parapluie vivant doté d'un œil et d'une jambe ?",
+      "answer": "Karakasa-obake",
+      "badAnswers": ["Nurarihyon", "Zashiki-warashi", "Tanuki"],
+      "category": "Mythologie",
+      "difficulty": "normal",
+      "description": "Le Karakasa-obake est un objet inanimé devenu vivant, célèbre pour ses facéties."
     },
     {
       "id": "39",
@@ -19276,6 +19386,84 @@
       "category": "Philosophie",
       "difficulty": "normal",
       "description": "Friedrich Nietzsche a publié 'Ainsi parlait Zarathoustra' entre 1883 et 1885, une œuvre philosophique explorant des thèmes comme le surhumain et la mort de Dieu."
+    },
+    {
+      "id": "103",
+      "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
+      "answer": "Sri Lanka",
+      "badAnswers": [
+        "Philippines",
+        "Liban",
+        "Vénézuela"
+      ],
+      "category": "Politique",
+      "difficulty": "normal",
+      "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
+    },
+    {
+      "id": "107",
+      "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
+      "answer": "Adrien Quatennens",
+      "badAnswers": [
+        "Eric Ciotti",
+        "Damien Abad",
+        "Gérald Darmanin"
+      ],
+      "category": "Politique",
+      "difficulty": "normal",
+      "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
+    },
+    {
+      "id": "163",
+      "question": "Qui a été élu 'Personnalité de l’année 2022' par le magazine américain Time ?",
+      "answer": "Volodymyr Zelensky",
+      "badAnswers": [
+        "Elon Musk",
+        "Vladimir Poutine",
+        "Kanye West"
+      ],
+      "category": "Politique",
+      "difficulty": "normal",
+      "description": "Volodymyr Zelensky, président ukrainien, a été élu par le Time pour sa résistance lors de l'invasion russe. Elon Musk (Tesla), Poutine et Kanye West étaient également médiatisés mais non primés."
+    },
+    {
+      "id": "175",
+      "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+      "answer": "Japon",
+      "badAnswers": [
+        "Espagne",
+        "Yémen",
+        "Inde"
+      ],
+      "category": "Politique",
+      "difficulty": "normal",
+      "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+    },
+    {
+      "id": "259",
+      "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
+      "answer": "Sandrine Rousseau",
+      "badAnswers": [
+        "Marlène Schiappa",
+        "Brigitte Macron",
+        "Camilla Parker Bowles"
+      ],
+      "category": "Politique",
+      "difficulty": "normal",
+      "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
+    },
+    {
+      "id": "267",
+      "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
+      "answer": "Crise économique",
+      "badAnswers": [
+        "Crise politique",
+        "Crise sanitaire",
+        "Crise environnementale"
+      ],
+      "category": "Politique",
+      "difficulty": "difficile",
+      "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
     },
     {
       "id": "13",
@@ -21943,6 +22131,45 @@
       "description": "'Harry Potter' est une série de livres et de films qui suit les aventures du jeune sorcier Harry Potter et de ses amis Hermione Granger et Ron Weasley à l'école de sorcellerie Poudlard. Elle a été écrite par J.K. Rowling et est devenue un phénomène mondial."
     },
     {
+      "id": "301",
+      "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+      "answer": "Temps et Dimensions Relatives Dans l'Espace",
+      "badAnswers": [
+        "Temps et Réalité Dimensionnelle Dans l'Espace",
+        "Temps et Dimensions Relatives Dans le Style",
+        "Toilette, Corde, Chien, Soupe"
+      ],
+      "category": "Séries",
+      "difficulty": "facile",
+      "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+    },
+    {
+      "id": "997",
+      "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
+      "answer": "Frank Bruno",
+      "badAnswers": [
+        "Henry Cooper",
+        "Muhammad Ali",
+        "Joe Frazier"
+      ],
+      "category": "Séries",
+      "difficulty": "normal",
+      "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
+    },
+    {
+      "id": "1004",
+      "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
+      "answer": "Caltech",
+      "badAnswers": [
+        "UCLA",
+        "MIT",
+        "UC Berkeley"
+      ],
+      "category": "Séries",
+      "difficulty": "facile",
+      "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
+    },
+    {
       "id": "1",
       "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
       "answer": "Afrique du Sud",
@@ -23059,71 +23286,6 @@
       "category": "Technologie",
       "difficulty": "normal",
       "description": "La Magellan Corporation a lancé le premier GPS portable grand public, le NAV 1000, en 1989."
-    },
-    {
-      "id": "301",
-      "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-      "answer": "Temps et Dimensions Relatives Dans l'Espace",
-      "badAnswers": [
-        "Temps et Réalité Dimensionnelle Dans l'Espace",
-        "Temps et Dimensions Relatives Dans le Style",
-        "Toilette, Corde, Chien, Soupe"
-      ],
-      "category": "Séries",
-      "difficulty": "facile",
-      "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
-    },
-    {
-      "id": "997",
-      "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
-      "answer": "Frank Bruno",
-      "badAnswers": [
-        "Henry Cooper",
-        "Muhammad Ali",
-        "Joe Frazier"
-      ],
-      "category": "Séries",
-      "difficulty": "normal",
-      "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
-    },
-    {
-      "id": "1004",
-      "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
-      "answer": "Caltech",
-      "badAnswers": [
-        "UCLA",
-        "MIT",
-        "UC Berkeley"
-      ],
-      "category": "Séries",
-      "difficulty": "facile",
-      "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
-    },
-    {
-      "id": "303",
-      "question": "Qui a écrit la pièce Anges en Amérique ?",
-      "answer": "Tony Kushner",
-      "badAnswers": [
-        "Tom Stoppard",
-        "Matthew Lopez",
-        "Anthony Neilson"
-      ],
-      "category": "Comédies musicales et théâtre",
-      "difficulty": "facile",
-      "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
-    },
-    {
-      "id": "3",
-      "question": "Quelle série met en scène le cartel de Medellín ?",
-      "answer": "Narcos",
-      "badAnswers": [
-        "Breaking Bad",
-        "El Chapo",
-        "La Casa de Papel"
-      ],
-      "category": "Cinéma",
-      "difficulty": "facile",
-      "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
     }
   ]
 }
