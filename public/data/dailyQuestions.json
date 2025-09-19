@@ -1,132 +1,132 @@
 [
   {
-    "id": "92",
-    "question": "Dans quel jeu trouve-t-on des Endermen ?",
-    "answer": "Minecraft",
+    "id": "1369",
+    "question": "Quel est la capitale de Trinité-et-Tobago ?",
+    "answer": "Port-d'Espagne",
     "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
-  },
-  {
-    "id": "1127",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Spyro ?",
-    "answer": "Spyro the Dragon",
-    "badAnswers": [
-      "Crash Bandicoot",
-      "Jak and Daxter",
-      "Ratchet & Clank"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Spyro, un petit dragon violet, est le héros de la série Spyro the Dragon, explorant des mondes colorés pour sauver ses amis."
-  },
-  {
-    "id": "1284",
-    "question": "Quel est le nom du dieu grec de la mort paisible ?",
-    "answer": "Thanatos",
-    "badAnswers": [
-      "Hadès",
-      "Morpheus",
-      "Hypnos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Thanatos, dieu grec de la mort paisible, est une figure mineure souvent représentée comme un jeune homme ailé, contrastant avec Hadès, dieu des Enfers."
-  },
-  {
-    "id": "344",
-    "question": "Quel est la capitale du Japon ?",
-    "answer": "Tokyo",
-    "badAnswers": [
-      "Osaka",
-      "Kyoto",
-      "Hiroshima"
+      "San Fernando",
+      "Chaguanas",
+      "Arima"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Tokyo est la capitale du Japon, une métropole majeure et le centre politique, économique et culturel du pays. Kyoto était l'ancienne capitale impériale, tandis qu'Osaka et Hiroshima sont d'autres grandes villes, mais pas la capitale."
+    "difficulty": "normal",
+    "description": "Port-d'Espagne, capitale de Trinité-et-Tobago, est une ville portuaire connue pour son carnaval et son mélange de cultures caribéennes."
   },
   {
-    "id": "418",
-    "question": "Dans God of War (2018), quel est le nom du fils de Kratos ?",
-    "answer": "Atreus",
+    "id": "1599",
+    "question": "Quel est la capitale des Comores ?",
+    "answer": "Moroni",
     "badAnswers": [
-      "Deimos",
-      "Thor",
-      "Loki"
+      "Fomboni",
+      "Mutsamudu",
+      "Domoni"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
+  },
+  {
+    "id": "428",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
+    "answer": "Guilde des Voleurs",
+    "badAnswers": [
+      "Confrérie Noire",
+      "Compagnons",
+      "Collège de Fortdhiver"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Atreus est le fils de Kratos dans God of War (2018), un jeune garçon qui accompagne son père dans une quête nordique. Deimos est le frère de Kratos dans les jeux précédents, et Thor et Loki sont des figures mythologiques, pas son fils."
+    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
   },
   {
-    "id": "1631",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
-    "answer": "Max Knoll",
+    "id": "990",
+    "question": "Qui a écrit le conte pour enfants 'La Petite Fille aux allumettes' ?",
+    "answer": "Hans Christian Andersen",
     "badAnswers": [
-      "Ernst Ruska",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
-  },
-  {
-    "id": "1773",
-    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
-    "answer": "François Rabelais",
-    "badAnswers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Denis Diderot"
+      "Charles Dickens",
+      "Lewis Carroll",
+      "Oscar Wilde"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
+    "description": "Hans Christian Andersen, célèbre écrivain danois, a écrit La Petite Fille aux allumettes, un conte tragique publié en 1845."
   },
   {
-    "id": "702",
-    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
-    "answer": "Hache Léviathan",
+    "id": "2033",
+    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Lames du Chaos",
-      "Marteau Mjöllnir",
-      "Épée d'Olympe"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
-  },
-  {
-    "id": "321",
-    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
-    "answer": "Peach",
-    "badAnswers": [
-      "Daisy",
-      "Rosalina",
-      "Toadette"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
-  },
-  {
-    "id": "1037",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
-    "answer": "Forrest Gump",
-    "badAnswers": [
-      "Pulp Fiction",
-      "Les Évadés",
-      "Le Roi Lion"
-    ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
+    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
+  },
+  {
+    "id": "444",
+    "question": "Quel scientifique a découvert le principe de flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galilée",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+  },
+  {
+    "id": "180",
+    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Venise",
+      "Barcelone",
+      "Séville"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+  },
+  {
+    "id": "537",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
+    "answer": "Shadow Fiend",
+    "badAnswers": [
+      "Necrophos",
+      "Lich",
+      "Death Prophet"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
+  },
+  {
+    "id": "260",
+    "question": "Quel est le nom du personnage principal de la série 'Breaking Bad' ?",
+    "answer": "Walter White",
+    "badAnswers": [
+      "Jesse Pinkman",
+      "Saul Goodman",
+      "Gus Fring"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "'Breaking Bad' suit Walter White, un professeur de chimie devenu fabricant de méthamphétamine après un diagnostic de cancer. Jesse Pinkman est son ancien élève associé, Saul Goodman leur avocat."
+  },
+  {
+    "id": "738",
+    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
+    "answer": "Joseph Proust",
+    "badAnswers": [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Dmitri Mendeleïev"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
   }
 ]
