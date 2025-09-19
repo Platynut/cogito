@@ -1,132 +1,132 @@
 [
   {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
+    "id": "92",
+    "question": "Dans quel jeu trouve-t-on des Endermen ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
-  },
-  {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
-    "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
-    ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
+    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
   },
   {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
+    "id": "1127",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Spyro ?",
+    "answer": "Spyro the Dragon",
     "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
+      "Crash Bandicoot",
+      "Jak and Daxter",
+      "Ratchet & Clank"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
+    "description": "Spyro, un petit dragon violet, est le héros de la série Spyro the Dragon, explorant des mondes colorés pour sauver ses amis."
   },
   {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
+    "id": "1284",
+    "question": "Quel est le nom du dieu grec de la mort paisible ?",
+    "answer": "Thanatos",
     "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
+      "Hadès",
+      "Morpheus",
+      "Hypnos"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
+    "description": "Thanatos, dieu grec de la mort paisible, est une figure mineure souvent représentée comme un jeune homme ailé, contrastant avec Hadès, dieu des Enfers."
   },
   {
-    "id": "2148",
-    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
-    "answer": "Italo Calvino",
+    "id": "344",
+    "question": "Quel est la capitale du Japon ?",
+    "answer": "Tokyo",
     "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
-  },
-  {
-    "id": "291",
-    "question": "Quel est le premier livre de l'Ancien Testament ?",
-    "answer": "Genèse",
-    "badAnswers": [
-      "Exode",
-      "Lévitique",
-      "Nombres"
-    ],
-    "category": "Culture générale",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
+    "description": "Tokyo est la capitale du Japon, une métropole majeure et le centre politique, économique et culturel du pays. Kyoto était l'ancienne capitale impériale, tandis qu'Osaka et Hiroshima sont d'autres grandes villes, mais pas la capitale."
   },
   {
-    "id": "1202",
-    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
-    "answer": "Carl von Linde",
+    "id": "418",
+    "question": "Dans God of War (2018), quel est le nom du fils de Kratos ?",
+    "answer": "Atreus",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "James Harrison"
+      "Deimos",
+      "Thor",
+      "Loki"
     ],
-    "category": "Histoire",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Atreus est le fils de Kratos dans God of War (2018), un jeune garçon qui accompagne son père dans une quête nordique. Deimos est le frère de Kratos dans les jeux précédents, et Thor et Loki sont des figures mythologiques, pas son fils."
+  },
+  {
+    "id": "1631",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
+    "answer": "Max Knoll",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
+    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
   },
   {
-    "id": "1191",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
+    "id": "1773",
+    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
+    "answer": "François Rabelais",
     "badAnswers": [
-      "Bram Stoker",
-      "H.G. Wells",
-      "Arthur Conan Doyle"
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
     ],
     "category": "Livres",
+    "difficulty": "normal",
+    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
+  },
+  {
+    "id": "702",
+    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
+    "answer": "Hache Léviathan",
+    "badAnswers": [
+      "Lames du Chaos",
+      "Marteau Mjöllnir",
+      "Épée d'Olympe"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Oscar Wilde a écrit 'Le Portrait de Dorian Gray' (1890), un roman gothique sur la vanité et la moralité, son seul roman publié."
+    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
   },
   {
-    "id": "732",
-    "question": "Quel est le nom de l'auteur de Voyage au bout de la nuit ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "321",
+    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
+    "answer": "Peach",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "Albert Camus"
+      "Daisy",
+      "Rosalina",
+      "Toadette"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit Voyage au bout de la nuit (1932), un roman sur les horreurs de la guerre et de la société. Proust, Gide et Camus sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
   },
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "1037",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Pulp Fiction",
+      "Les Évadés",
+      "Le Roi Lion"
     ],
-    "category": "Livres",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
   }
 ]
