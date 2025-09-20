@@ -1,132 +1,132 @@
 [
   {
-    "id": "1369",
-    "question": "Quel est la capitale de Trinité-et-Tobago ?",
-    "answer": "Port-d'Espagne",
+    "id": "1035",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
+    "answer": "Final Fantasy VII",
     "badAnswers": [
-      "San Fernando",
-      "Chaguanas",
-      "Arima"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Port-d'Espagne, capitale de Trinité-et-Tobago, est une ville portuaire connue pour son carnaval et son mélange de cultures caribéennes."
-  },
-  {
-    "id": "1599",
-    "question": "Quel est la capitale des Comores ?",
-    "answer": "Moroni",
-    "badAnswers": [
-      "Fomboni",
-      "Mutsamudu",
-      "Domoni"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
-  },
-  {
-    "id": "428",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
-    "answer": "Guilde des Voleurs",
-    "badAnswers": [
-      "Confrérie Noire",
-      "Compagnons",
-      "Collège de Fortdhiver"
+      "Kingdom Hearts",
+      "Final Fantasy XV",
+      "Chrono Trigger"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
+    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
   },
   {
-    "id": "990",
-    "question": "Qui a écrit le conte pour enfants 'La Petite Fille aux allumettes' ?",
-    "answer": "Hans Christian Andersen",
+    "id": "19",
+    "question": "Quel peintre a coupé une partie de son oreille ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "Charles Dickens",
-      "Lewis Carroll",
-      "Oscar Wilde"
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Hans Christian Andersen, célèbre écrivain danois, a écrit La Petite Fille aux allumettes, un conte tragique publié en 1845."
-  },
-  {
-    "id": "2033",
-    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
-  },
-  {
-    "id": "444",
-    "question": "Quel scientifique a découvert le principe de flottabilité ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
-  },
-  {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
-    "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
-    ],
-    "category": "Géographie",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
   },
   {
-    "id": "537",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
-    "answer": "Shadow Fiend",
+    "id": "611",
+    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
+    "answer": "Oscar Wilde",
     "badAnswers": [
-      "Necrophos",
-      "Lich",
-      "Death Prophet"
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1643",
+    "question": "Quel est le nom du groupe qui a chanté 'Paranoid Android' ?",
+    "answer": "Radiohead",
+    "badAnswers": [
+      "Oasis",
+      "Blur",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Paranoid Android', sorti en 1997 par Radiohead, est une chanson alternative rock complexe tirée de l'album OK Computer."
+  },
+  {
+    "id": "744",
+    "question": "Quel artiste a peint La Ronde de nuit ?",
+    "answer": "Rembrandt",
+    "badAnswers": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Ronde de nuit (1642) de Rembrandt est une peinture baroque représentant une milice. Vermeer, Hals et Steen sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "52",
+    "question": "Qui a été le dernier tsar de Russie ?",
+    "answer": "Nicolas II",
+    "badAnswers": [
+      "Pierre le Grand",
+      "Alexandre III",
+      "Ivan le Terrible"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
+  },
+  {
+    "id": "1740",
+    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
+    "answer": "Honoré de Balzac",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
+  },
+  {
+    "id": "375",
+    "question": "Dans The Witcher, quel est le surnom de Geralt de Riv ?",
+    "answer": "Loup Blanc",
+    "badAnswers": [
+      "Lion d’Argent",
+      "Aigle Noir",
+      "Serpent de Feu"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Geralt de Riv, protagoniste de The Witcher, est surnommé le Loup Blanc en raison de son médaillon en forme de loup et de ses cheveux blancs, symboles de son école de sorceleur. Les autres surnoms sont fictifs et ne lui sont pas associés."
+  },
+  {
+    "id": "687",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
+    "answer": "Earthshaker",
+    "badAnswers": [
+      "Sand King",
+      "Tidehunter",
+      "Slardar"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
+    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
   },
   {
-    "id": "260",
-    "question": "Quel est le nom du personnage principal de la série 'Breaking Bad' ?",
-    "answer": "Walter White",
+    "id": "2139",
+    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
+    "answer": "E.A. Johnson",
     "badAnswers": [
-      "Jesse Pinkman",
-      "Saul Goodman",
-      "Gus Fring"
+      "Steve Jobs",
+      "Alan Turing",
+      "Douglas Engelbart"
     ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "'Breaking Bad' suit Walter White, un professeur de chimie devenu fabricant de méthamphétamine après un diagnostic de cancer. Jesse Pinkman est son ancien élève associé, Saul Goodman leur avocat."
-  },
-  {
-    "id": "738",
-    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
-    "answer": "Joseph Proust",
-    "badAnswers": [
-      "Antoine Lavoisier",
-      "John Dalton",
-      "Dmitri Mendeleïev"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
   }
 ]
