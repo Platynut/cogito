@@ -1,132 +1,132 @@
 [
   {
-    "id": "1035",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
-    "answer": "Final Fantasy VII",
+    "id": "691",
+    "question": "Quel est le plus grand carnivore marin du monde ?",
+    "answer": "Cachalot",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Final Fantasy XV",
-      "Chrono Trigger"
+      "Requin blanc",
+      "Orque",
+      "Requin-baleine"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le cachalot est le plus grand carnivore marin, pouvant atteindre 20 mètres et chasser des calmars géants. Le requin blanc et l'orque sont plus petits, et le requin-baleine est un filtreur."
+  },
+  {
+    "id": "4",
+    "question": "Quel élément chimique a pour symbole 'Fe' ?",
+    "answer": "Fer",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
+  },
+  {
+    "id": "789",
+    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
+    "answer": "Rayquaza",
+    "badAnswers": [
+      "Groudon",
+      "Kyogre",
+      "Latios"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
+    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
   },
   {
-    "id": "19",
-    "question": "Quel peintre a coupé une partie de son oreille ?",
-    "answer": "Vincent van Gogh",
+    "id": "1318",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rb ?",
+    "answer": "Rubidium",
     "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Salvador Dalí"
+      "Radon",
+      "Rhodium",
+      "Ruthénium"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le rubidium, symbolisé par Rb, est un métal alcalin utilisé dans les horloges atomiques et la recherche scientifique."
   },
   {
-    "id": "611",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
+    "id": "334",
+    "question": "Quel écrivain a créé le personnage de James Bond ?",
+    "answer": "Ian Fleming",
     "badAnswers": [
-      "Bram Stoker",
-      "Robert Louis Stevenson",
-      "Arthur Conan Doyle"
+      "John le Carré",
+      "Agatha Christie",
+      "Tom Clancy"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
   },
   {
-    "id": "1643",
-    "question": "Quel est le nom du groupe qui a chanté 'Paranoid Android' ?",
-    "answer": "Radiohead",
+    "id": "1728",
+    "question": "Quel est la capitale du Timor oriental ?",
+    "answer": "Dili",
     "badAnswers": [
-      "Oasis",
-      "Blur",
-      "The Verve"
+      "Baucau",
+      "Maliana",
+      "Suai"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Dili, capitale du Timor oriental, est une ville côtière connue pour sa statue du Christ Roi et son histoire coloniale."
+  },
+  {
+    "id": "1561",
+    "question": "Quel est le nom du dieu grec des vents ?",
+    "answer": "Éole",
+    "badAnswers": [
+      "Borée",
+      "Zéphyr",
+      "Notos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
+  },
+  {
+    "id": "1502",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pu ?",
+    "answer": "Plutonium",
+    "badAnswers": [
+      "Palladium",
+      "Plomb",
+      "Protactinium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le plutonium, symbolisé par Pu, est un élément radioactif utilisé dans les réacteurs nucléaires et les armes atomiques."
+  },
+  {
+    "id": "1997",
+    "question": "Quel est le nom de l'inventeur du premier système de greffe de rein ?",
+    "answer": "Joseph Murray",
+    "badAnswers": [
+      "Willem Kolff",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Joseph Murray a réalisé la première greffe de rein réussie en 1954, ouvrant la voie à la transplantation d'organes."
+  },
+  {
+    "id": "2031",
+    "question": "Quel est le nom du groupe qui a chanté 'Run for Your Life' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Paranoid Android', sorti en 1997 par Radiohead, est une chanson alternative rock complexe tirée de l'album OK Computer."
-  },
-  {
-    "id": "744",
-    "question": "Quel artiste a peint La Ronde de nuit ?",
-    "answer": "Rembrandt",
-    "badAnswers": [
-      "Johannes Vermeer",
-      "Frans Hals",
-      "Jan Steen"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "La Ronde de nuit (1642) de Rembrandt est une peinture baroque représentant une milice. Vermeer, Hals et Steen sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "52",
-    "question": "Qui a été le dernier tsar de Russie ?",
-    "answer": "Nicolas II",
-    "badAnswers": [
-      "Pierre le Grand",
-      "Alexandre III",
-      "Ivan le Terrible"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
-  },
-  {
-    "id": "1740",
-    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
-  },
-  {
-    "id": "375",
-    "question": "Dans The Witcher, quel est le surnom de Geralt de Riv ?",
-    "answer": "Loup Blanc",
-    "badAnswers": [
-      "Lion d’Argent",
-      "Aigle Noir",
-      "Serpent de Feu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Geralt de Riv, protagoniste de The Witcher, est surnommé le Loup Blanc en raison de son médaillon en forme de loup et de ses cheveux blancs, symboles de son école de sorceleur. Les autres surnoms sont fictifs et ne lui sont pas associés."
-  },
-  {
-    "id": "687",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
-    "answer": "Earthshaker",
-    "badAnswers": [
-      "Sand King",
-      "Tidehunter",
-      "Slardar"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
-  },
-  {
-    "id": "2139",
-    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
-    "answer": "E.A. Johnson",
-    "badAnswers": [
-      "Steve Jobs",
-      "Alan Turing",
-      "Douglas Engelbart"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
+    "description": "'Run for Your Life', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   }
 ]
