@@ -1,132 +1,132 @@
 [
   {
-    "id": "691",
-    "question": "Quel est le plus grand carnivore marin du monde ?",
-    "answer": "Cachalot",
+    "id": "226",
+    "question": "Quel groupe chante 'Roxanne' ?",
+    "answer": "The Police",
     "badAnswers": [
-      "Requin blanc",
-      "Orque",
-      "Requin-baleine"
+      "INXS",
+      "Nirvana",
+      "Scorpions"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le cachalot est le plus grand carnivore marin, pouvant atteindre 20 mètres et chasser des calmars géants. Le requin blanc et l'orque sont plus petits, et le requin-baleine est un filtreur."
-  },
-  {
-    "id": "4",
-    "question": "Quel élément chimique a pour symbole 'Fe' ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
+    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
   },
   {
-    "id": "789",
-    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
-    "answer": "Rayquaza",
+    "id": "649",
+    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
+    "answer": "Bram Stoker",
     "badAnswers": [
-      "Groudon",
-      "Kyogre",
-      "Latios"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
-  },
-  {
-    "id": "1318",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rb ?",
-    "answer": "Rubidium",
-    "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Ruthénium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le rubidium, symbolisé par Rb, est un métal alcalin utilisé dans les horloges atomiques et la recherche scientifique."
-  },
-  {
-    "id": "334",
-    "question": "Quel écrivain a créé le personnage de James Bond ?",
-    "answer": "Ian Fleming",
-    "badAnswers": [
-      "John le Carré",
-      "Agatha Christie",
-      "Tom Clancy"
+      "Mary Shelley",
+      "Robert Louis Stevenson",
+      "Oscar Wilde"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+    "description": "Bram Stoker a écrit Dracula (1897), un roman gothique sur le vampire emblématique. Shelley a écrit Frankenstein, Stevenson L'Étrange Cas du docteur Jekyll, et Wilde Le Portrait de Dorian Gray."
   },
   {
-    "id": "1728",
-    "question": "Quel est la capitale du Timor oriental ?",
-    "answer": "Dili",
+    "id": "1899",
+    "question": "Quel est la capitale du Congo ?",
+    "answer": "Brazzaville",
     "badAnswers": [
-      "Baucau",
-      "Maliana",
-      "Suai"
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Dili, capitale du Timor oriental, est une ville côtière connue pour sa statue du Christ Roi et son histoire coloniale."
-  },
-  {
-    "id": "1561",
-    "question": "Quel est le nom du dieu grec des vents ?",
-    "answer": "Éole",
-    "badAnswers": [
-      "Borée",
-      "Zéphyr",
-      "Notos"
-    ],
-    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
+    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
   },
   {
-    "id": "1502",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pu ?",
-    "answer": "Plutonium",
+    "id": "863",
+    "question": "Quel est le plus grand crustacé du monde ?",
+    "answer": "Araignée de mer japonaise",
     "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Protactinium"
+      "Homard américain",
+      "Crabe des cocotiers",
+      "Crevette tigrée"
     ],
-    "category": "Science",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le plutonium, symbolisé par Pu, est un élément radioactif utilisé dans les réacteurs nucléaires et les armes atomiques."
+    "description": "L'araignée de mer japonaise (Macrocheira kaempferi) est le plus grand crustacé du monde, avec une envergure pouvant atteindre 3,7 mètres pattes étendues. Le homard américain est le plus massif en poids, mais plus petit en taille. Le crabe des cocotiers et la crevette tigrée sont également plus petits."
   },
   {
-    "id": "1997",
-    "question": "Quel est le nom de l'inventeur du premier système de greffe de rein ?",
-    "answer": "Joseph Murray",
+    "id": "1305",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
+    "answer": "Philo Farnsworth",
     "badAnswers": [
-      "Willem Kolff",
-      "John Gibbon",
-      "Christiaan Barnard"
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Thomas Edison"
     ],
-    "category": "Médecine",
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Joseph Murray a réalisé la première greffe de rein réussie en 1954, ouvrant la voie à la transplantation d'organes."
+    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
   },
   {
-    "id": "2031",
-    "question": "Quel est le nom du groupe qui a chanté 'Run for Your Life' ?",
-    "answer": "The Beatles",
+    "id": "2126",
+    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
+    "answer": "André Malraux",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
+  },
+  {
+    "id": "849",
+    "question": "Dans Harry Potter, quel est le nom du gardien des clés de Poudlard ?",
+    "answer": "Rubeus Hagrid",
+    "badAnswers": [
+      "Argus Rusard",
+      "Albus Dumbledore",
+      "Filius Flitwick"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, également professeur de soins aux créatures magiques. Rusard est le concierge, Dumbledore le directeur, et Flitwick un professeur."
+  },
+  {
+    "id": "489",
+    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Édouard Manet",
+      "Claude Monet",
+      "Pierre-Auguste Renoir"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
     "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+  },
+  {
+    "id": "678",
+    "question": "Quel est le plus long poisson osseux du monde ?",
+    "answer": "Régalec",
+    "badAnswers": [
+      "Poisson-lune",
+      "Thon rouge",
+      "Espadon"
+    ],
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "'Run for Your Life', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+    "description": "Le régalec (Regalecus glesne) est le plus long poisson osseux connu, pouvant mesurer jusqu'à 11 à 17 mètres, bien qu'il soit mince et léger comparé à d'autres poissons comme le poisson-lune."
   }
 ]
