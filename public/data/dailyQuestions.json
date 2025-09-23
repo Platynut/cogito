@@ -1,132 +1,132 @@
 [
   {
-    "id": "226",
-    "question": "Quel groupe chante 'Roxanne' ?",
-    "answer": "The Police",
+    "id": "556",
+    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
     "badAnswers": [
-      "INXS",
-      "Nirvana",
-      "Scorpions"
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+  },
+  {
+    "id": "524",
+    "question": "Dans Elden Ring, quel est le nom du monde où se déroule l'histoire ?",
+    "answer": "Entre-terre",
+    "badAnswers": [
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Elden Ring se déroule dans l'Entre-terre, un monde fantastique créé par FromSoftware et George R.R. Martin. Lordran, Drangleic et Yharnam sont les mondes de Dark Souls et Bloodborne."
+  },
+  {
+    "id": "1084",
+    "question": "Quel est le nom du groupe qui a chanté 'Imagine' ?",
+    "answer": "John Lennon",
+    "badAnswers": [
+      "The Beatles",
+      "Wings",
+      "Oasis"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
+    "description": "'Imagine', sorti en 1971 par John Lennon, est une chanson emblématique prônant la paix et l'harmonie, devenue un hymne universel."
   },
   {
-    "id": "649",
-    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
-    "answer": "Bram Stoker",
+    "id": "1782",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire à semi-conducteur ?",
+    "answer": "Robert Dennard",
     "badAnswers": [
-      "Mary Shelley",
-      "Robert Louis Stevenson",
-      "Oscar Wilde"
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Bram Stoker a écrit Dracula (1897), un roman gothique sur le vampire emblématique. Shelley a écrit Frankenstein, Stevenson L'Étrange Cas du docteur Jekyll, et Wilde Le Portrait de Dorian Gray."
-  },
-  {
-    "id": "1899",
-    "question": "Quel est la capitale du Congo ?",
-    "answer": "Brazzaville",
-    "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
-  },
-  {
-    "id": "863",
-    "question": "Quel est le plus grand crustacé du monde ?",
-    "answer": "Araignée de mer japonaise",
-    "badAnswers": [
-      "Homard américain",
-      "Crabe des cocotiers",
-      "Crevette tigrée"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L'araignée de mer japonaise (Macrocheira kaempferi) est le plus grand crustacé du monde, avec une envergure pouvant atteindre 3,7 mètres pattes étendues. Le homard américain est le plus massif en poids, mais plus petit en taille. Le crabe des cocotiers et la crevette tigrée sont également plus petits."
-  },
-  {
-    "id": "1305",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
-    "answer": "Philo Farnsworth",
-    "badAnswers": [
-      "John Logie Baird",
-      "Vladimir Zworykin",
-      "Thomas Edison"
-    ],
-    "category": "Technologie",
+    "category": "Informatique",
     "difficulty": "difficile",
-    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
+    "description": "Robert Dennard a inventé la mémoire DRAM en 1968, essentielle pour les ordinateurs modernes."
   },
   {
-    "id": "2126",
-    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
-    "answer": "André Malraux",
+    "id": "1865",
+    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
+    "answer": "Hermann Hesse",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Franz Kafka",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
+    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
   },
   {
-    "id": "849",
-    "question": "Dans Harry Potter, quel est le nom du gardien des clés de Poudlard ?",
-    "answer": "Rubeus Hagrid",
+    "id": "684",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles 2 ?",
+    "answer": "Rex",
     "badAnswers": [
-      "Argus Rusard",
-      "Albus Dumbledore",
-      "Filius Flitwick"
+      "Pyra/Mythra",
+      "Shulk",
+      "Malos"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, également professeur de soins aux créatures magiques. Rusard est le concierge, Dumbledore le directeur, et Flitwick un professeur."
-  },
-  {
-    "id": "489",
-    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Édouard Manet",
-      "Claude Monet",
-      "Pierre-Auguste Renoir"
-    ],
-    "category": "Art",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
+    "description": "Rex est le protagoniste principal de Xenoblade Chronicles 2, maniant Pyra et Mythra comme lames. Dans Super Smash Bros. Ultimate, ce sont Pyra et Mythra qui sont jouables, mais Rex reste le héros principal de l'histoire du jeu."
   },
   {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
+    "id": "157",
+    "question": "Lequel de ces légumes ne se récolte pas en hiver ?",
+    "answer": "La courgette",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "La betterave",
+      "L'oignon",
+      "La mâche"
+    ],
+    "category": "Agriculture",
+    "difficulty": "normal",
+    "description": "La courgette est un légume d'été, récolté entre juin et septembre. La betterave, l'oignon et la mâche sont des légumes d'hiver."
+  },
+  {
+    "id": "1650",
+    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
+    "answer": "Blur",
+    "badAnswers": [
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
   },
   {
-    "id": "678",
-    "question": "Quel est le plus long poisson osseux du monde ?",
-    "answer": "Régalec",
+    "id": "1660",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Carapuce ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Poisson-lune",
-      "Thon rouge",
-      "Espadon"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le régalec (Regalecus glesne) est le plus long poisson osseux connu, pouvant mesurer jusqu'à 11 à 17 mètres, bien qu'il soit mince et léger comparé à d'autres poissons comme le poisson-lune."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Carapuce, Pokémon de type eau, est l'un des starters de la série Pokémon, évoluant en Carabaffe."
+  },
+  {
+    "id": "1472",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1961 ?",
+    "answer": "West Side Story",
+    "badAnswers": [
+      "The Guns of Navarone",
+      "The Hustler",
+      "Judgment at Nuremberg"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "West Side Story, réalisé par Robert Wise et Jerome Robbins, a remporté l'Oscar du meilleur film en 1961, une comédie musicale inspirée de Roméo et Juliette."
   }
 ]
