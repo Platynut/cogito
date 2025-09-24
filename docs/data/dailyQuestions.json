@@ -1,132 +1,132 @@
 [
   {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
+    "id": "1274",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
+    "answer": "The English Patient",
     "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
+      "Fargo",
+      "Jerry Maguire",
+      "Shine"
     ],
-    "category": "Science",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
   },
   {
-    "id": "524",
-    "question": "Dans Elden Ring, quel est le nom du monde où se déroule l'histoire ?",
-    "answer": "Entre-terre",
+    "id": "395",
+    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
+    "answer": "3",
     "badAnswers": [
-      "Lordran",
-      "Drangleic",
-      "Yharnam"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Elden Ring se déroule dans l'Entre-terre, un monde fantastique créé par FromSoftware et George R.R. Martin. Lordran, Drangleic et Yharnam sont les mondes de Dark Souls et Bloodborne."
-  },
-  {
-    "id": "1084",
-    "question": "Quel est le nom du groupe qui a chanté 'Imagine' ?",
-    "answer": "John Lennon",
-    "badAnswers": [
-      "The Beatles",
-      "Wings",
-      "Oasis"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Imagine', sorti en 1971 par John Lennon, est une chanson emblématique prônant la paix et l'harmonie, devenue un hymne universel."
-  },
-  {
-    "id": "1782",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire à semi-conducteur ?",
-    "answer": "Robert Dennard",
-    "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Robert Dennard a inventé la mémoire DRAM en 1968, essentielle pour les ordinateurs modernes."
-  },
-  {
-    "id": "1865",
-    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
-    "answer": "Hermann Hesse",
-    "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Rainer Maria Rilke"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
-  },
-  {
-    "id": "684",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles 2 ?",
-    "answer": "Rex",
-    "badAnswers": [
-      "Pyra/Mythra",
-      "Shulk",
-      "Malos"
+      "7",
+      "5",
+      "10"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Rex est le protagoniste principal de Xenoblade Chronicles 2, maniant Pyra et Mythra comme lames. Dans Super Smash Bros. Ultimate, ce sont Pyra et Mythra qui sont jouables, mais Rex reste le héros principal de l'histoire du jeu."
+    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
   },
   {
-    "id": "157",
-    "question": "Lequel de ces légumes ne se récolte pas en hiver ?",
-    "answer": "La courgette",
+    "id": "1463",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1963 ?",
+    "answer": "Tom Jones",
     "badAnswers": [
-      "La betterave",
-      "L'oignon",
-      "La mâche"
+      "Cleopatra",
+      "How the West Was Won",
+      "Lilies of the Field"
     ],
-    "category": "Agriculture",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "La courgette est un légume d'été, récolté entre juin et septembre. La betterave, l'oignon et la mâche sont des légumes d'hiver."
+    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1963, une comédie d'aventure basée sur le roman de Henry Fielding."
   },
   {
-    "id": "1650",
-    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
-    "answer": "Blur",
+    "id": "704",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
+    "answer": "Kashyyyk",
     "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
-  },
-  {
-    "id": "1660",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Carapuce ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Carapuce, Pokémon de type eau, est l'un des starters de la série Pokémon, évoluant en Carabaffe."
-  },
-  {
-    "id": "1472",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1961 ?",
-    "answer": "West Side Story",
-    "badAnswers": [
-      "The Guns of Navarone",
-      "The Hustler",
-      "Judgment at Nuremberg"
+      "Tatooine",
+      "Endor",
+      "Hoth"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "West Side Story, réalisé par Robert Wise et Jerome Robbins, a remporté l'Oscar du meilleur film en 1961, une comédie musicale inspirée de Roméo et Juliette."
+    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
+  },
+  {
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
+    "badAnswers": [
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
+  },
+  {
+    "id": "294",
+    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
+    "answer": "Problèmes de santé mentale",
+    "badAnswers": [
+      "Blessures",
+      "Maladie",
+      "Danger pour autrui"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
+  },
+  {
+    "id": "160",
+    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
+    "answer": "Un sonar",
+    "badAnswers": [
+      "Un sextant",
+      "Un radar",
+      "Un compteur Geiger"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
+  },
+  {
+    "id": "916",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
+    "answer": "Héros",
+    "badAnswers": [
+      "Erdrick",
+      "Luminary",
+      "Solo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
+  },
+  {
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+  },
+  {
+    "id": "1531",
+    "question": "Quel est la capitale du Tchad ?",
+    "answer": "N'Djaména",
+    "badAnswers": [
+      "Moundou",
+      "Sarh",
+      "Abéché"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
   }
 ]
