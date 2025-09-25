@@ -1,132 +1,132 @@
 [
   {
-    "id": "1274",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
-    "answer": "The English Patient",
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
     "badAnswers": [
-      "Fargo",
-      "Jerry Maguire",
-      "Shine"
+      "3",
+      "4",
+      "2"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
   },
   {
-    "id": "395",
-    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
-    "answer": "3",
+    "id": "1875",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
+    "answer": "Jimi Hendrix",
     "badAnswers": [
-      "7",
-      "5",
-      "10"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
+  },
+  {
+    "id": "1859",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS militaire ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Bradford Parkinson",
+      "Ivan Getting",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a développé le concept de navigation par satellite pour le GPS militaire dans les années 1960."
+  },
+  {
+    "id": "1287",
+    "question": "Quel est la capitale de Singapour ?",
+    "answer": "Singapour",
+    "badAnswers": [
+      "Jurong",
+      "Tampines",
+      "Woodlands"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
+  },
+  {
+    "id": "1153",
+    "question": "Quel est la capitale de l'Uruguay ?",
+    "answer": "Montevideo",
+    "badAnswers": [
+      "Salto",
+      "Paysandú",
+      "Colonia"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Montevideo, capitale de l'Uruguay, est une ville côtière connue pour sa culture du tango et son architecture coloniale."
+  },
+  {
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+  },
+  {
+    "id": "1096",
+    "question": "Quel est le nom du dieu grec de la médecine ?",
+    "answer": "Asclépios",
+    "badAnswers": [
+      "Apollon",
+      "Hermès",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
+  },
+  {
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
+    "badAnswers": [
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
   },
   {
-    "id": "1463",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1963 ?",
-    "answer": "Tom Jones",
+    "id": "347",
+    "question": "Dans Animal Crossing: New Horizons, quel est le nom de l'île où vit le joueur ?",
+    "answer": "Choisi par le joueur",
     "badAnswers": [
-      "Cleopatra",
-      "How the West Was Won",
-      "Lilies of the Field"
+      "Nook Island",
+      "Horizon Isle",
+      "Tomville"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1963, une comédie d'aventure basée sur le roman de Henry Fielding."
-  },
-  {
-    "id": "704",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
-    "answer": "Kashyyyk",
-    "badAnswers": [
-      "Tatooine",
-      "Endor",
-      "Hoth"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
+    "description": "Dans Animal Crossing: New Horizons, le joueur choisit le nom de son île au début du jeu, ce qui en fait une réponse personnalisée. Les autres options, comme Nook Island, ne sont pas des noms prédéfinis, bien que Tom Nook soit un personnage central."
   },
   {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
+    "id": "2133",
+    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
-  },
-  {
-    "id": "294",
-    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
-    "answer": "Problèmes de santé mentale",
-    "badAnswers": [
-      "Blessures",
-      "Maladie",
-      "Danger pour autrui"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
-  },
-  {
-    "id": "160",
-    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
-    "answer": "Un sonar",
-    "badAnswers": [
-      "Un sextant",
-      "Un radar",
-      "Un compteur Geiger"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
-  },
-  {
-    "id": "916",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
-    "answer": "Héros",
-    "badAnswers": [
-      "Erdrick",
-      "Luminary",
-      "Solo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
-  },
-  {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
-  },
-  {
-    "id": "1531",
-    "question": "Quel est la capitale du Tchad ?",
-    "answer": "N'Djaména",
-    "badAnswers": [
-      "Moundou",
-      "Sarh",
-      "Abéché"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
+    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
   }
 ]
