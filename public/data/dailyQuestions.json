@@ -1,132 +1,132 @@
 [
   {
-    "id": "284",
-    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
-    "answer": "1",
+    "id": "561",
+    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
+    "answer": "Florence",
     "badAnswers": [
-      "3",
-      "4",
-      "2"
+      "Venise",
+      "Rome",
+      "Milan"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
+  },
+  {
+    "id": "1723",
+    "question": "Quel est la capitale du Brunei ?",
+    "answer": "Bandar Seri Begawan",
+    "badAnswers": [
+      "Kuala Belait",
+      "Seria",
+      "Tutong"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
+    "difficulty": "normal",
+    "description": "Bandar Seri Begawan, capitale du Brunei, est connue pour sa mosquée Omar Ali Saifuddien et son village sur l'eau."
   },
   {
-    "id": "1875",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
-    "answer": "Jimi Hendrix",
+    "id": "1151",
+    "question": "Quel est le nom du dieu grec des rêves ?",
+    "answer": "Morpheus",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "1859",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS militaire ?",
-    "answer": "Roger L. Easton",
-    "badAnswers": [
-      "Bradford Parkinson",
-      "Ivan Getting",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a développé le concept de navigation par satellite pour le GPS militaire dans les années 1960."
-  },
-  {
-    "id": "1287",
-    "question": "Quel est la capitale de Singapour ?",
-    "answer": "Singapour",
-    "badAnswers": [
-      "Jurong",
-      "Tampines",
-      "Woodlands"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
-  },
-  {
-    "id": "1153",
-    "question": "Quel est la capitale de l'Uruguay ?",
-    "answer": "Montevideo",
-    "badAnswers": [
-      "Salto",
-      "Paysandú",
-      "Colonia"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Montevideo, capitale de l'Uruguay, est une ville côtière connue pour sa culture du tango et son architecture coloniale."
-  },
-  {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
-  },
-  {
-    "id": "1096",
-    "question": "Quel est le nom du dieu grec de la médecine ?",
-    "answer": "Asclépios",
-    "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
+      "Hypnos",
+      "Thanatos",
+      "Éros"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
+    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
   },
   {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
+    "id": "1111",
+    "question": "Quel est le nom du groupe qui a chanté 'Creep' ?",
+    "answer": "Radiohead",
     "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
-  },
-  {
-    "id": "347",
-    "question": "Dans Animal Crossing: New Horizons, quel est le nom de l'île où vit le joueur ?",
-    "answer": "Choisi par le joueur",
-    "badAnswers": [
-      "Nook Island",
-      "Horizon Isle",
-      "Tomville"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Dans Animal Crossing: New Horizons, le joueur choisit le nom de son île au début du jeu, ce qui en fait une réponse personnalisée. Les autres options, comme Nook Island, ne sont pas des noms prédéfinis, bien que Tom Nook soit un personnage central."
+    "description": "'Creep', sorti en 1992 par Radiohead, est une chanson alternative rock devenue un hymne pour une génération, tirée de l'album Pablo Honey."
   },
   {
-    "id": "2133",
-    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
-    "answer": "Jean Cocteau",
+    "id": "1062",
+    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
+    "answer": "Michael Jackson",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "The Jackson 5",
+      "Prince",
+      "Stevie Wonder"
     ],
-    "category": "Livres",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
+  },
+  {
+    "id": "1548",
+    "question": "Quel est la capitale de la Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Freetown, capitale de la Sierra Leone, est une ville portuaire fondée par d'anciens esclaves, connue pour son Cotton Tree historique."
+  },
+  {
+    "id": "1282",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
+    "answer": "Braveheart",
+    "badAnswers": [
+      "Apollo 13",
+      "The Postman",
+      "Sense and Sensibility"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
+    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
+  },
+  {
+    "id": "1244",
+    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Jimi Hendrix Experience"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
+  },
+  {
+    "id": "1499",
+    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
+    "answer": "The Verve",
+    "badAnswers": [
+      "Oasis",
+      "Blur",
+      "Radiohead"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
+  },
+  {
+    "id": "1622",
+    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
+    "answer": "Alice in Chains",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
   }
 ]
