@@ -1,132 +1,132 @@
 [
   {
-    "id": "561",
-    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
-    "answer": "Florence",
+    "id": "1232",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
+    "answer": "The Lord of the Rings: The Return of the King",
     "badAnswers": [
-      "Venise",
-      "Rome",
-      "Milan"
+      "Mystic River",
+      "Lost in Translation",
+      "Master and Commander"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
+  },
+  {
+    "id": "86",
+    "question": "Quelle entreprise a créé l'iPhone ?",
+    "answer": "Apple",
+    "badAnswers": [
+      "Samsung",
+      "Nokia",
+      "BlackBerry"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Lancé en 2007 par Steve Jobs, l'iPhone a révolutionné l'industrie avec son écran tactile capacitif et son interface intuitive."
+  },
+  {
+    "id": "651",
+    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
+    "answer": "Vicaire Amelia",
+    "badAnswers": [
+      "Clerc Bestial",
+      "Père Gascoigne",
+      "Ludwig"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
-  },
-  {
-    "id": "1723",
-    "question": "Quel est la capitale du Brunei ?",
-    "answer": "Bandar Seri Begawan",
-    "badAnswers": [
-      "Kuala Belait",
-      "Seria",
-      "Tutong"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Bandar Seri Begawan, capitale du Brunei, est connue pour sa mosquée Omar Ali Saifuddien et son village sur l'eau."
+    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
   },
   {
-    "id": "1151",
-    "question": "Quel est le nom du dieu grec des rêves ?",
-    "answer": "Morpheus",
+    "id": "1336",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
+    "answer": "Out of Africa",
     "badAnswers": [
-      "Hypnos",
-      "Thanatos",
-      "Éros"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
-  },
-  {
-    "id": "1111",
-    "question": "Quel est le nom du groupe qui a chanté 'Creep' ?",
-    "answer": "Radiohead",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Creep', sorti en 1992 par Radiohead, est une chanson alternative rock devenue un hymne pour une génération, tirée de l'album Pablo Honey."
-  },
-  {
-    "id": "1062",
-    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
-    "answer": "Michael Jackson",
-    "badAnswers": [
-      "The Jackson 5",
-      "Prince",
-      "Stevie Wonder"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
-  },
-  {
-    "id": "1548",
-    "question": "Quel est la capitale de la Sierra Leone ?",
-    "answer": "Freetown",
-    "badAnswers": [
-      "Bo",
-      "Kenema",
-      "Makeni"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Freetown, capitale de la Sierra Leone, est une ville portuaire fondée par d'anciens esclaves, connue pour son Cotton Tree historique."
-  },
-  {
-    "id": "1282",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
-    "answer": "Braveheart",
-    "badAnswers": [
-      "Apollo 13",
-      "The Postman",
-      "Sense and Sensibility"
+      "Witness",
+      "The Color Purple",
+      "Kiss of the Spider Woman"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
+    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
   },
   {
-    "id": "1244",
-    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
-    "answer": "The Doors",
+    "id": "717",
+    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
+    "answer": "Karasu-tengu",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Jimi Hendrix Experience"
+      "Tengu",
+      "Oni",
+      "Kappa"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
   },
   {
-    "id": "1499",
-    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
-    "answer": "The Verve",
+    "id": "613",
+    "question": "Quel dieu japonais a vaincu le serpent à huit têtes Yamata no Orochi ?",
+    "answer": "Susanoo",
     "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
+      "Raijin",
+      "Hachiman",
+      "Fujin"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Susanoo est le dieu de la mer et des tempêtes, symbole d'héroïsme."
   },
   {
-    "id": "1622",
-    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
-    "answer": "Alice in Chains",
+    "id": "280",
+    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
+    "answer": "Dick Grayson",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+  },
+  {
+    "id": "1801",
+    "question": "Quel est le nom de l'inventeur du premier système de dynamo ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Michael Faraday a jeté les bases de la dynamo dans les années 1830, contribuant à la production d'électricité."
+  },
+  {
+    "id": "2123",
+    "question": "Quel est le nom de l'inventeur du premier système de stimulateur cardiaque implantable ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "William Kouwenhoven",
+      "Michel Mirowski",
+      "Paul Zoll"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Wilson Greatbatch a inventé le premier stimulateur cardiaque implantable en 1958, révolutionnant la cardiologie."
+  },
+  {
+    "id": "171",
+    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
+    "answer": "Ours d'or",
+    "badAnswers": [
+      "Léopard d'or",
+      "Pyramide d'or",
+      "Lion d'or"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
   }
 ]
