@@ -1,132 +1,132 @@
 [
   {
-    "id": "1232",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
-    "answer": "The Lord of the Rings: The Return of the King",
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
     "badAnswers": [
-      "Mystic River",
-      "Lost in Translation",
-      "Master and Commander"
+      "Algérie",
+      "Tunisie",
+      "Égypte"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   },
   {
-    "id": "86",
-    "question": "Quelle entreprise a créé l'iPhone ?",
-    "answer": "Apple",
+    "id": "687",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
+    "answer": "Earthshaker",
     "badAnswers": [
-      "Samsung",
-      "Nokia",
-      "BlackBerry"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Lancé en 2007 par Steve Jobs, l'iPhone a révolutionné l'industrie avec son écran tactile capacitif et son interface intuitive."
-  },
-  {
-    "id": "651",
-    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
-    "answer": "Vicaire Amelia",
-    "badAnswers": [
-      "Clerc Bestial",
-      "Père Gascoigne",
-      "Ludwig"
+      "Sand King",
+      "Tidehunter",
+      "Slardar"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
+    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
   },
   {
-    "id": "1336",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
-    "answer": "Out of Africa",
+    "id": "498",
+    "question": "Quel est la capitale de l'Argentine ?",
+    "answer": "Buenos Aires",
     "badAnswers": [
-      "Witness",
-      "The Color Purple",
-      "Kiss of the Spider Woman"
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
   },
   {
-    "id": "717",
-    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
-    "answer": "Karasu-tengu",
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
     "badAnswers": [
-      "Tengu",
-      "Oni",
-      "Kappa"
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+  },
+  {
+    "id": "239",
+    "question": "Dans quelle série Omar Sy est le personnage principal ?",
+    "answer": "Lupin",
+    "badAnswers": [
+      "Marseille",
+      "Intouchables",
+      "La Casa de Papel"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
+  },
+  {
+    "id": "1772",
+    "question": "Quel est le nom du dieu grec de la terreur ?",
+    "answer": "Deimos",
+    "badAnswers": [
+      "Phobos",
+      "Éros",
+      "Thanatos"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
+    "description": "Deimos, dieu grec de la terreur, est le fils d'Arès et accompagne son père sur les champs de bataille."
   },
   {
-    "id": "613",
-    "question": "Quel dieu japonais a vaincu le serpent à huit têtes Yamata no Orochi ?",
-    "answer": "Susanoo",
+    "id": "438",
+    "question": "Dans Bloodborne, quel est le nom de la ville où se déroule l’histoire ?",
+    "answer": "Yharnam",
     "badAnswers": [
-      "Raijin",
-      "Hachiman",
-      "Fujin"
+      "Cainhurst",
+      "Lorath",
+      "Byrgenwerth"
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Susanoo est le dieu de la mer et des tempêtes, symbole d'héroïsme."
+    "description": "Bloodborne se déroule à Yharnam, une ville gothique maudite par une peste transformant les habitants en monstres. Cainhurst et Byrgenwerth sont des lieux spécifiques du jeu, et Lorath est une ville d’un autre univers (Dark Souls II)."
   },
   {
-    "id": "280",
-    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
-    "answer": "Dick Grayson",
+    "id": "511",
+    "question": "Quel compositeur a écrit Le Boléro ?",
+    "answer": "Maurice Ravel",
     "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
+      "Claude Debussy",
+      "Igor Stravinsky",
+      "Gabriel Fauré"
     ],
-    "category": "Bandes dessinées",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
   },
   {
-    "id": "1801",
-    "question": "Quel est le nom de l'inventeur du premier système de dynamo ?",
-    "answer": "Michael Faraday",
+    "id": "317",
+    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
+    "answer": "Link",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Zelda",
+      "Ganon",
+      "Epona"
     ],
-    "category": "Technologie",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
+  },
+  {
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
+    "badAnswers": [
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "category": "Economie",
     "difficulty": "normal",
-    "description": "Michael Faraday a jeté les bases de la dynamo dans les années 1830, contribuant à la production d'électricité."
-  },
-  {
-    "id": "2123",
-    "question": "Quel est le nom de l'inventeur du premier système de stimulateur cardiaque implantable ?",
-    "answer": "Wilson Greatbatch",
-    "badAnswers": [
-      "William Kouwenhoven",
-      "Michel Mirowski",
-      "Paul Zoll"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Wilson Greatbatch a inventé le premier stimulateur cardiaque implantable en 1958, révolutionnant la cardiologie."
-  },
-  {
-    "id": "171",
-    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
-    "answer": "Ours d'or",
-    "badAnswers": [
-      "Léopard d'or",
-      "Pyramide d'or",
-      "Lion d'or"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
   }
 ]
