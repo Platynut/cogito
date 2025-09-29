@@ -1,132 +1,132 @@
 [
   {
-    "id": "68",
-    "question": "Dans quel pays se trouve la ville de Marrakech ?",
-    "answer": "Maroc",
+    "id": "953",
+    "question": "Quel président figure sur le rare billet de 2 dollars américain ?",
+    "answer": "Thomas Jefferson",
     "badAnswers": [
-      "Algérie",
-      "Tunisie",
-      "Égypte"
+      "Martin Van Buren",
+      "Ulysses Grant",
+      "John Quincy Adams"
     ],
-    "category": "Géographie",
+    "category": "Culture générale",
     "difficulty": "facile",
-    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
+    "description": "Thomas Jefferson, troisième président des États-Unis, est représenté sur le billet de 2 dollars, une coupure rarement utilisée mais toujours en circulation."
   },
   {
-    "id": "687",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
-    "answer": "Earthshaker",
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
     "badAnswers": [
-      "Sand King",
-      "Tidehunter",
-      "Slardar"
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+  },
+  {
+    "id": "793",
+    "question": "Dans Pokémon Soleil et Lune, quel est le Pokémon légendaire associé au soleil ?",
+    "answer": "Solgaleo",
+    "badAnswers": [
+      "Lunala",
+      "Necrozma",
+      "Tapu Koko"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
-  },
-  {
-    "id": "498",
-    "question": "Quel est la capitale de l'Argentine ?",
-    "answer": "Buenos Aires",
-    "badAnswers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+    "description": "Solgaleo est le Pokémon légendaire associé au soleil dans Pokémon Soleil. Lunala représente la lune, Necrozma l'ultra-brèche, et Tapu Koko est un gardien d'île."
   },
   {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
-  },
-  {
-    "id": "239",
-    "question": "Dans quelle série Omar Sy est le personnage principal ?",
-    "answer": "Lupin",
-    "badAnswers": [
-      "Marseille",
-      "Intouchables",
-      "La Casa de Papel"
-    ],
-    "category": "Séries",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   },
   {
-    "id": "1772",
-    "question": "Quel est le nom du dieu grec de la terreur ?",
-    "answer": "Deimos",
+    "id": "703",
+    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+    "answer": "Iso-onna",
     "badAnswers": [
-      "Phobos",
-      "Éros",
-      "Thanatos"
+      "Yuki-onna",
+      "Jorōgumo",
+      "Onryō"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Deimos, dieu grec de la terreur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
   },
   {
-    "id": "438",
-    "question": "Dans Bloodborne, quel est le nom de la ville où se déroule l’histoire ?",
-    "answer": "Yharnam",
+    "id": "1930",
+    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Cainhurst",
-      "Lorath",
-      "Byrgenwerth"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Bloodborne se déroule à Yharnam, une ville gothique maudite par une peste transformant les habitants en monstres. Cainhurst et Byrgenwerth sont des lieux spécifiques du jeu, et Lorath est une ville d’un autre univers (Dark Souls II)."
-  },
-  {
-    "id": "511",
-    "question": "Quel compositeur a écrit Le Boléro ?",
-    "answer": "Maurice Ravel",
-    "badAnswers": [
-      "Claude Debussy",
-      "Igor Stravinsky",
-      "Gabriel Fauré"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
-  },
-  {
-    "id": "317",
-    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
-    "answer": "Link",
-    "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
+    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
   },
   {
-    "id": "64",
-    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
-    "answer": "Meta",
+    "id": "1938",
+    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Google",
-      "Microsoft",
-      "Amazon"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Economie",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
+  },
+  {
+    "id": "183",
+    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
+    "answer": "Edmond Rostand",
+    "badAnswers": [
+      "Victor Hugo",
+      "Molière",
+      "Alfred de Musset"
+    ],
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
+    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
+  },
+  {
+    "id": "2077",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1929, un film muet sur la Première Guerre mondiale."
+  },
+  {
+    "id": "1168",
+    "question": "Quel est le nom du dieu grec de la forge ?",
+    "answer": "Héphaïstos",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
   }
 ]
