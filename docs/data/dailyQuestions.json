@@ -1,132 +1,132 @@
 [
   {
-    "id": "953",
-    "question": "Quel président figure sur le rare billet de 2 dollars américain ?",
-    "answer": "Thomas Jefferson",
+    "id": "1635",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre la typhoïde ?",
+    "answer": "Almroth Wright",
     "badAnswers": [
-      "Martin Van Buren",
-      "Ulysses Grant",
-      "John Quincy Adams"
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Jonas Salk"
     ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "Thomas Jefferson, troisième président des États-Unis, est représenté sur le billet de 2 dollars, une coupure rarement utilisée mais toujours en circulation."
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Almroth Wright a développé le premier vaccin contre la typhoïde en 1897, utilisé pour protéger les soldats britanniques."
   },
   {
-    "id": "1047",
-    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
-    "answer": "Charles Lindbergh",
+    "id": "1356",
+    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
+    "answer": "John Froelich",
     "badAnswers": [
-      "Amelia Earhart",
-      "Howard Hughes",
-      "Wiley Post"
+      "Henry Ford",
+      "George Stephenson",
+      "Eli Whitney"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
+  },
+  {
+    "id": "765",
+    "question": "Quel est le nom du dieu grec des enfers ?",
+    "answer": "Hadès",
+    "badAnswers": [
+      "Zeus",
+      "Poséidon",
+      "Arès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
+  },
+  {
+    "id": "1968",
+    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+  },
+  {
+    "id": "664",
+    "question": "Quel scientifique a découvert la théorie de l'évolution par sélection naturelle ?",
+    "answer": "Charles Darwin",
+    "badAnswers": [
+      "Alfred Russel Wallace",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Charles Darwin a publié la théorie de l'évolution par sélection naturelle en 1859 dans L'Origine des espèces. Wallace a co-découvert le concept, Mendel a étudié l'hérédité, et Lamarck a proposé une théorie différente."
+  },
+  {
+    "id": "1105",
+    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
+    "answer": "Igor Sikorsky",
+    "badAnswers": [
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Ferdinand von Zeppelin"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
   },
   {
-    "id": "793",
-    "question": "Dans Pokémon Soleil et Lune, quel est le Pokémon légendaire associé au soleil ?",
-    "answer": "Solgaleo",
+    "id": "176",
+    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
+    "answer": "House of Cards",
     "badAnswers": [
-      "Lunala",
-      "Necrozma",
-      "Tapu Koko"
+      "Orange is the new black",
+      "Stranger Things",
+      "The Crown"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Solgaleo est le Pokémon légendaire associé au soleil dans Pokémon Soleil. Lunala représente la lune, Necrozma l'ultra-brèche, et Tapu Koko est un gardien d'île."
-  },
-  {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
-    "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
-    ],
-    "category": "Nature",
+    "category": "Séries",
     "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
+    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
   },
   {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
+    "id": "1929",
+    "question": "Quel est le nom de l'auteur de 'Belle du Seigneur' ?",
+    "answer": "Albert Cohen",
     "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Mythologie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+    "description": "Albert Cohen a écrit 'Belle du Seigneur' (1968), un roman sur l'amour passionnel et ses contradictions."
   },
   {
-    "id": "1930",
-    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
-    "answer": "The Beatles",
+    "id": "1242",
+    "question": "Quel est le nom du dieu grec de la messagerie ?",
+    "answer": "Hermès",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
-  },
-  {
-    "id": "1938",
-    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
-  },
-  {
-    "id": "183",
-    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
-    "answer": "Edmond Rostand",
-    "badAnswers": [
-      "Victor Hugo",
-      "Molière",
-      "Alfred de Musset"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
-  },
-  {
-    "id": "2077",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1929, un film muet sur la Première Guerre mondiale."
-  },
-  {
-    "id": "1168",
-    "question": "Quel est le nom du dieu grec de la forge ?",
-    "answer": "Héphaïstos",
-    "badAnswers": [
-      "Arès",
       "Apollon",
-      "Hermès"
+      "Dionysos",
+      "Arès"
     ],
     "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+    "description": "Hermès, dieu grec des messagers, du commerce et des voyageurs, est représenté avec des sandales ailées et un caducée."
+  },
+  {
+    "id": "1921",
+    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
   }
 ]
