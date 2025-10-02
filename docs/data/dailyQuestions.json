@@ -1,132 +1,132 @@
 [
   {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
+    "id": "1517",
+    "question": "Quel est la capitale de la Zambie ?",
+    "answer": "Lusaka",
     "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "Ndola",
+      "Kitwe",
+      "Livingstone"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
+  },
+  {
+    "id": "1529",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
+    "answer": "Fermium",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Fer"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
+  },
+  {
+    "id": "199",
+    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
+    "answer": "Francis Bacon",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
+  },
+  {
+    "id": "778",
+    "question": "Quel est la capitale de la Grèce ?",
+    "answer": "Athènes",
+    "badAnswers": [
+      "Thessalonique",
+      "Patras",
+      "Héraklion"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
   },
   {
-    "id": "1450",
-    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
-    "answer": "Artémis",
+    "id": "448",
+    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
+    "answer": "Sekiro",
     "badAnswers": [
-      "Séléné",
-      "Héra",
-      "Athéna"
+      "Isshin",
+      "Genichiro",
+      "Kuro"
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
+    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
   },
   {
-    "id": "58",
-    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "answer": "Jean-Pierre Jeunet",
+    "id": "1127",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Spyro ?",
+    "answer": "Spyro the Dragon",
     "badAnswers": [
-      "Luc Besson",
-      "François Ozon",
-      "Michel Gondry"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
-  },
-  {
-    "id": "87",
-    "question": "Qui a peint 'Le Cri' ?",
-    "answer": "Edvard Munch",
-    "badAnswers": [
-      "Vincent van Gogh",
-      "Pablo Picasso",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
-  },
-  {
-    "id": "292",
-    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
-    "answer": "Point d'exclamation",
-    "badAnswers": [
-      "Signe dollar",
-      "Signe pourcentage",
-      "Astérisque"
-    ],
-    "category": "Informatique",
-    "difficulty": "facile",
-    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
-  },
-  {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
-  },
-  {
-    "id": "1393",
-    "question": "Quel est le nom de la déesse grecque de la mémoire ?",
-    "answer": "Mnémosyne",
-    "badAnswers": [
-      "Thémis",
-      "Héra",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "difficile",
-    "description": "Mnémosyne, déesse grecque de la mémoire, est la mère des neuf Muses, associées aux arts et à la connaissance."
-  },
-  {
-    "id": "1686",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mew ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Crash Bandicoot",
+      "Jak and Daxter",
+      "Ratchet & Clank"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Mew, Pokémon légendaire de type psy, est une créature rare et mythique dans la série Pokémon."
+    "description": "Spyro, un petit dragon violet, est le héros de la série Spyro the Dragon, explorant des mondes colorés pour sauver ses amis."
   },
   {
-    "id": "675",
-    "question": "Dans Mass Effect 3, quel est le nom de l'ennemi principal ?",
-    "answer": "Moissonneurs",
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
     "badAnswers": [
-      "Geth",
-      "Cerberus",
-      "Collecteurs"
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+  },
+  {
+    "id": "99",
+    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
+    "answer": "Route du café",
+    "badAnswers": [
+      "Route du rhum",
+      "Vendée Globe",
+      "Trophée du rhum"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
+  },
+  {
+    "id": "1874",
+    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
+  },
+  {
+    "id": "359",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
+    "answer": "Captain Falcon",
+    "badAnswers": [
+      "Fox McCloud",
+      "Samus Aran",
+      "Marth"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Les Moissonneurs sont les ennemis principaux de Mass Effect 3, des machines cosmiques cherchant à détruire la vie organique. Les Geth, Cerberus et les Collecteurs sont d'autres antagonistes du jeu."
-  },
-  {
-    "id": "724",
-    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
-    "answer": "Franz Kafka",
-    "badAnswers": [
-      "Albert Camus",
-      "Thomas Mann",
-      "Hermann Hesse"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
   }
 ]
