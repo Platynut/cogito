@@ -1,132 +1,132 @@
 [
   {
-    "id": "1517",
-    "question": "Quel est la capitale de la Zambie ?",
-    "answer": "Lusaka",
+    "id": "729",
+    "question": "Quel est le nom du dieu grec des mers ?",
+    "answer": "Poséidon",
     "badAnswers": [
-      "Ndola",
-      "Kitwe",
-      "Livingstone"
+      "Zeus",
+      "Hadès",
+      "Apollon"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Poséidon est le dieu grec des mers, des tremblements de terre et des chevaux, souvent représenté avec un trident. Zeus est le dieu du ciel, Hadès celui des enfers, et Apollon celui des arts."
   },
   {
-    "id": "1529",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
-    "answer": "Fermium",
+    "id": "811",
+    "question": "Quel scientifique a découvert la loi de la conductivité électrique ?",
+    "answer": "Georg Ohm",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fer"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Alessandro Volta"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
+  },
+  {
+    "id": "741",
+    "question": "Quel est le plus grand oiseau volant préhistorique connu ?",
+    "answer": "Argentavis",
+    "badAnswers": [
+      "Ptérodactyle",
+      "Archaeopteryx",
+      "Quetzalcoatlus"
+    ],
+    "category": "Animaux",
     "difficulty": "difficile",
-    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
+    "description": "L'Argentavis, un oiseau préhistorique, est le plus grand connu, avec une envergure de 7 mètres. Le ptérodactyle et le Quetzalcoatlus sont des ptérosaures, et l'Archaeopteryx est plus petit."
   },
   {
-    "id": "199",
-    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
-    "answer": "Francis Bacon",
+    "id": "537",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
+    "answer": "Shadow Fiend",
     "badAnswers": [
-      "Pablo Picasso",
-      "Salvador Dalí",
-      "René Magritte"
+      "Necrophos",
+      "Lich",
+      "Death Prophet"
     ],
-    "category": "Art",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
+  },
+  {
+    "id": "207",
+    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
+    "answer": "Chasseur de primes",
+    "badAnswers": [
+      "Sénateur",
+      "Vendeur de droïdes",
+      "Musicien"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
+  },
+  {
+    "id": "1844",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "Paul Zoll",
+      "Rune Elmqvist",
+      "Earl Bakken"
+    ],
+    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
+    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
   },
   {
-    "id": "778",
-    "question": "Quel est la capitale de la Grèce ?",
-    "answer": "Athènes",
+    "id": "235",
+    "question": "Quelle est la lune la plus large du système solaire ?",
+    "answer": "Ganymède",
     "badAnswers": [
-      "Thessalonique",
-      "Patras",
-      "Héraklion"
+      "Titan",
+      "Lune",
+      "Europe"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "Ganymède, lune de Jupiter, est plus grande que Mercure (5 268 km de diamètre). Titan (Saturne) est la 2e, notre Lune la 5e, Europe (Jupiter) la 6e."
   },
   {
-    "id": "448",
-    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
-    "answer": "Sekiro",
+    "id": "1311",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sr ?",
+    "answer": "Strontium",
     "badAnswers": [
-      "Isshin",
-      "Genichiro",
-      "Kuro"
+      "Sélénium",
+      "Silicium",
+      "Soufre"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le strontium, symbolisé par Sr, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur rouge éclatante."
+  },
+  {
+    "id": "1490",
+    "question": "Quel est le nom de la déesse grecque de la nuit ?",
+    "answer": "Nyx",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Nyx, déesse grecque de la nuit, est une figure primordiale puissante, mère de divinités comme Hypnos et Thanatos."
+  },
+  {
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
+    "badAnswers": [
+      "Akali",
+      "Zed",
+      "Kennen"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
-  },
-  {
-    "id": "1127",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Spyro ?",
-    "answer": "Spyro the Dragon",
-    "badAnswers": [
-      "Crash Bandicoot",
-      "Jak and Daxter",
-      "Ratchet & Clank"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Spyro, un petit dragon violet, est le héros de la série Spyro the Dragon, explorant des mondes colorés pour sauver ses amis."
-  },
-  {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
-    "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
-  },
-  {
-    "id": "99",
-    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
-    "answer": "Route du café",
-    "badAnswers": [
-      "Route du rhum",
-      "Vendée Globe",
-      "Trophée du rhum"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
-  },
-  {
-    "id": "1874",
-    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
-  },
-  {
-    "id": "359",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
-    "answer": "Captain Falcon",
-    "badAnswers": [
-      "Fox McCloud",
-      "Samus Aran",
-      "Marth"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
   }
 ]
