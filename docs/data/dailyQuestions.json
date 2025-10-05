@@ -1,132 +1,132 @@
 [
   {
-    "id": "1862",
-    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
-    "answer": "The Who",
+    "id": "153",
+    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
+    "answer": "Stamppot",
     "badAnswers": [
-      "The Rolling Stones",
+      "Lefse",
+      "Potaye",
+      "Frico"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
+  },
+  {
+    "id": "104",
+    "question": "Quelle est la capitale de l'Islande ?",
+    "answer": "Reykjavik",
+    "badAnswers": [
+      "Akureyri",
+      "Kopavogur",
+      "Hafnarfjordur"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
+  },
+  {
+    "id": "1082",
+    "question": "Dans la mythologie égyptienne, quel dieu règne sur le royaume des morts ?",
+    "answer": "Osiris",
+    "badAnswers": [
+      "Râ",
+      "Anubis",
+      "Thot"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Osiris est le dieu égyptien du royaume des morts et du jugement des âmes. Il symbolise la résurrection et l’ordre dans l’au-delà. Anubis prépare les âmes, mais Osiris les juge."
+  },
+  {
+    "id": "782",
+    "question": "Quel est le plus grand reptile préhistorique marin ?",
+    "answer": "Mosasaurus",
+    "badAnswers": [
+      "Pliosaurus",
+      "Ichthyosaurus",
+      "Liopleurodon"
+    ],
+    "category": "Animaux",
+    "difficulty": "difficile",
+    "description": "Le Mosasaurus est le plus grand reptile préhistorique marin, pouvant atteindre 18 mètres de long. Pliosaurus, Ichthyosaurus et Liopleurodon sont d'autres reptiles marins, mais plus petits."
+  },
+  {
+    "id": "981",
+    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
+    "answer": "2 décembre 1804",
+    "badAnswers": [
+      "3 juillet 1802",
+      "8 mars 1803",
+      "15 octobre 1804"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
+  },
+  {
+    "id": "1806",
+    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Who",
       "The Doors",
-      "Led Zeppelin"
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
+    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
   },
   {
-    "id": "2112",
-    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
-    "answer": "Jack Kilby",
+    "id": "87",
+    "question": "Qui a peint 'Le Cri' ?",
+    "answer": "Edvard Munch",
     "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Alan Turing"
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí"
     ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
   },
   {
-    "id": "602",
-    "question": "Dans Mass Effect 2, quel est le nom de l'organisation criminelle que Shepard infiltre ?",
-    "answer": "Cerberus",
+    "id": "776",
+    "question": "Quel est le plus grand cétacé du monde ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Spectres",
-      "Conseil",
-      "Collecteurs"
+      "Cachalot",
+      "Baleine à bosse",
+      "Orque"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Cerberus est l'organisation pro-humaine que Shepard rejoint temporairement dans Mass Effect 2 pour combattre les Collecteurs. Les Spectres sont des agents d'élite, le Conseil dirige la galaxie, et les Collecteurs sont les ennemis."
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand cétacé, pouvant atteindre 30 mètres de long. Le cachalot, la baleine à bosse et l'orque sont plus petits."
   },
   {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
     "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+  },
+  {
+    "id": "788",
+    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
+    "answer": "Joseph Gay-Lussac",
+    "badAnswers": [
+      "Robert Boyle",
+      "Jacques Charles",
+      "Émile Clapeyron"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
-  },
-  {
-    "id": "529",
-    "question": "Dans Harry Potter, quel est le nom du tournoi magique dans La Coupe de feu ?",
-    "answer": "Tournoi des trois sorciers",
-    "badAnswers": [
-      "Coupe du monde de Quidditch",
-      "Tournoi des quatre maisons",
-      "Défi des sorciers"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Le Tournoi des trois sorciers est le tournoi magique dans Harry Potter et la Coupe de feu, opposant Poudlard, Beauxbâtons et Durmstrang. La Coupe du monde de Quidditch est un autre événement, et les autres options sont fictives."
-  },
-  {
-    "id": "1024",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lara Croft ?",
-    "answer": "Tomb Raider",
-    "badAnswers": [
-      "Uncharted",
-      "Assassin's Creed",
-      "Far Cry"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Lara Croft est l'héroïne emblématique de la série Tomb Raider, une aventurière et archéologue connue pour ses explorations de tombes et de ruines."
-  },
-  {
-    "id": "747",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
-    "answer": "Tantive IV",
-    "badAnswers": [
-      "X-Wing",
-      "Millennium Falcon",
-      "Slave I"
-    ],
-    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
-  },
-  {
-    "id": "455",
-    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
-    "answer": "Galar",
-    "badAnswers": [
-      "Sinnoh",
-      "Hoenn",
-      "Alola"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
-  },
-  {
-    "id": "601",
-    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
-    "answer": "Raijin",
-    "badAnswers": [
-      "Fujin",
-      "Susanoo",
-      "Hachiman"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
-  },
-  {
-    "id": "1851",
-    "question": "Quel est le nom de l'inventeur du premier système de résonance magnétique (IRM) ?",
-    "answer": "Raymond Damadian",
-    "badAnswers": [
-      "Godfrey Hounsfield",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Raymond Damadian a conçu le premier appareil d'IRM en 1977, révolutionnant l'imagerie médicale."
+    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
   }
 ]
