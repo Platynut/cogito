@@ -1,132 +1,132 @@
 [
   {
-    "id": "153",
-    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
-    "answer": "Stamppot",
+    "id": "1023",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong",
     "badAnswers": [
-      "Lefse",
-      "Potaye",
-      "Frico"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
-  },
-  {
-    "id": "104",
-    "question": "Quelle est la capitale de l'Islande ?",
-    "answer": "Reykjavik",
-    "badAnswers": [
-      "Akureyri",
-      "Kopavogur",
-      "Hafnarfjordur"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
-  },
-  {
-    "id": "1082",
-    "question": "Dans la mythologie égyptienne, quel dieu règne sur le royaume des morts ?",
-    "answer": "Osiris",
-    "badAnswers": [
-      "Râ",
-      "Anubis",
-      "Thot"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Osiris est le dieu égyptien du royaume des morts et du jugement des âmes. Il symbolise la résurrection et l’ordre dans l’au-delà. Anubis prépare les âmes, mais Osiris les juge."
-  },
-  {
-    "id": "782",
-    "question": "Quel est le plus grand reptile préhistorique marin ?",
-    "answer": "Mosasaurus",
-    "badAnswers": [
-      "Pliosaurus",
-      "Ichthyosaurus",
-      "Liopleurodon"
-    ],
-    "category": "Animaux",
-    "difficulty": "difficile",
-    "description": "Le Mosasaurus est le plus grand reptile préhistorique marin, pouvant atteindre 18 mètres de long. Pliosaurus, Ichthyosaurus et Liopleurodon sont d'autres reptiles marins, mais plus petits."
-  },
-  {
-    "id": "981",
-    "question": "Quand Napoléon Bonaparte a-t-il été couronné empereur des Français ?",
-    "answer": "2 décembre 1804",
-    "badAnswers": [
-      "3 juillet 1802",
-      "8 mars 1803",
-      "15 octobre 1804"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "Alan Shepard"
     ],
     "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Napoléon fut couronné empereur le 2 décembre 1804 lors d'une cérémonie fastueuse à Notre-Dame de Paris, en présence du pape Pie VII."
-  },
-  {
-    "id": "1806",
-    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
-    "answer": "The Rolling Stones",
-    "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
+    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
   },
   {
-    "id": "87",
-    "question": "Qui a peint 'Le Cri' ?",
-    "answer": "Edvard Munch",
+    "id": "303",
+    "question": "Qui a écrit la pièce Anges en Amérique ?",
+    "answer": "Tony Kushner",
     "badAnswers": [
-      "Vincent van Gogh",
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
+    ],
+    "category": "Comédies musicales et théâtre",
+    "difficulty": "facile",
+    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
+  },
+  {
+    "id": "19",
+    "question": "Quel peintre a coupé une partie de son oreille ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
       "Pablo Picasso",
+      "Claude Monet",
       "Salvador Dalí"
     ],
     "category": "Art",
     "difficulty": "facile",
-    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
+    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
   },
   {
-    "id": "776",
-    "question": "Quel est le plus grand cétacé du monde ?",
-    "answer": "Baleine bleue",
+    "id": "2144",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
+    "answer": "Aucun Oscar décerné",
     "badAnswers": [
-      "Cachalot",
-      "Baleine à bosse",
-      "Orque"
+      "The Covered Wagon",
+      "The Hunchback of Notre Dame",
+      "Safety Last!"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand cétacé, pouvant atteindre 30 mètres de long. Le cachalot, la baleine à bosse et l'orque sont plus petits."
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
   },
   {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
+    "id": "1825",
+    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
+    "answer": "Blaise Pascal",
     "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
+      "Gottfried Leibniz",
+      "Charles Babbage",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
+  },
+  {
+    "id": "501",
+    "question": "Quel est le nom du plus grand lac salé du monde ?",
+    "answer": "Mer Caspienne",
+    "badAnswers": [
+      "Mer Morte",
+      "Lac salé d'Utah",
+      "Lac Eyre"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Mer Caspienne, située entre l'Europe et l'Asie, est le plus grand lac salé du monde, couvrant environ 371 000 km². Bien qu'appelée 'mer', c'est un lac. La Mer Morte, le Lac salé d'Utah et le Lac Eyre sont beaucoup plus petits."
+  },
+  {
+    "id": "1594",
+    "question": "Quel est la capitale du Djibouti ?",
+    "answer": "Djibouti",
+    "badAnswers": [
+      "Ali Sabieh",
+      "Tadjourah",
+      "Obock"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
   },
   {
-    "id": "788",
-    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
-    "answer": "Joseph Gay-Lussac",
+    "id": "1647",
+    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
+    "answer": "Blur",
     "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Émile Clapeyron"
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
-    "category": "Science",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+  },
+  {
+    "id": "977",
+    "question": "Quel est le nom collectif pour un groupe de rats ?",
+    "answer": "Colonie",
+    "badAnswers": [
+      "Meute",
+      "Nuée",
+      "Essaim"
+    ],
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
+    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
+  },
+  {
+    "id": "78",
+    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Jules Verne",
+      "Honoré de Balzac"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Publié en 1844, ce roman de cape et d'épée suit les aventures de d'Artagnan et ses amis Athos, Porthos et Aramis sous Louis XIII."
   }
 ]
