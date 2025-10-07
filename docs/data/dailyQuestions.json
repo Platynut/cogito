@@ -1,132 +1,132 @@
 [
   {
-    "id": "1023",
-    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-    "answer": "Neil Armstrong",
+    "id": "1480",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
+    "answer": "John Presper Eckert",
     "badAnswers": [
-      "Buzz Aldrin",
-      "Yuri Gagarine",
-      "Alan Shepard"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
-  },
-  {
-    "id": "303",
-    "question": "Qui a écrit la pièce Anges en Amérique ?",
-    "answer": "Tony Kushner",
-    "badAnswers": [
-      "Tom Stoppard",
-      "Matthew Lopez",
-      "Anthony Neilson"
-    ],
-    "category": "Comédies musicales et théâtre",
-    "difficulty": "facile",
-    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
-  },
-  {
-    "id": "19",
-    "question": "Quel peintre a coupé une partie de son oreille ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
-  },
-  {
-    "id": "2144",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
-    "answer": "Aucun Oscar décerné",
-    "badAnswers": [
-      "The Covered Wagon",
-      "The Hunchback of Notre Dame",
-      "Safety Last!"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "1825",
-    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
-    "answer": "Blaise Pascal",
-    "badAnswers": [
-      "Gottfried Leibniz",
-      "Charles Babbage",
-      "Alan Turing"
+      "Alan Turing",
+      "Konrad Zuse",
+      "Charles Babbage"
     ],
     "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
+    "difficulty": "difficile",
+    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
   },
   {
-    "id": "501",
-    "question": "Quel est le nom du plus grand lac salé du monde ?",
-    "answer": "Mer Caspienne",
+    "id": "1604",
+    "question": "Quel est la capitale des Seychelles ?",
+    "answer": "Victoria",
     "badAnswers": [
-      "Mer Morte",
-      "Lac salé d'Utah",
-      "Lac Eyre"
+      "Mahé",
+      "Praslin",
+      "La Digue"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Mer Caspienne, située entre l'Europe et l'Asie, est le plus grand lac salé du monde, couvrant environ 371 000 km². Bien qu'appelée 'mer', c'est un lac. La Mer Morte, le Lac salé d'Utah et le Lac Eyre sont beaucoup plus petits."
+    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
   },
   {
-    "id": "1594",
-    "question": "Quel est la capitale du Djibouti ?",
-    "answer": "Djibouti",
+    "id": "824",
+    "question": "Quel est le plus grand serpent du monde ?",
+    "answer": "Python réticulé",
     "badAnswers": [
-      "Ali Sabieh",
-      "Tadjourah",
-      "Obock"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
-  },
-  {
-    "id": "1647",
-    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
-    "answer": "Blur",
-    "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
-  },
-  {
-    "id": "977",
-    "question": "Quel est le nom collectif pour un groupe de rats ?",
-    "answer": "Colonie",
-    "badAnswers": [
-      "Meute",
-      "Nuée",
-      "Essaim"
+      "Anaconda vert",
+      "Boa constrictor",
+      "Cobra royal"
     ],
     "category": "Animaux",
     "difficulty": "normal",
-    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
+    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
   },
   {
-    "id": "78",
-    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
     "badAnswers": [
-      "Victor Hugo",
-      "Jules Verne",
-      "Honoré de Balzac"
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Publié en 1844, ce roman de cape et d'épée suit les aventures de d'Artagnan et ses amis Athos, Porthos et Aramis sous Louis XIII."
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "971",
+    "question": "Qui fut le premier président des États-Unis ?",
+    "answer": "George Washington",
+    "badAnswers": [
+      "James Madison",
+      "Thomas Jefferson",
+      "James K. Polk"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "George Washington, souvent appelé le 'père de la nation', fut le premier président des États-Unis, en poste de 1789 à 1797, et un symbole de l'indépendance américaine."
+  },
+  {
+    "id": "1275",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
+    "answer": "Brome",
+    "badAnswers": [
+      "Bore",
+      "Baryum",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
+  },
+  {
+    "id": "1256",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sb ?",
+    "answer": "Antimoine",
+    "badAnswers": [
+      "Arsenic",
+      "Sélénium",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'antimoine, symbolisé par Sb (du latin 'stibium'), est un métalloïde utilisé dans les alliages et les retardateurs de flamme."
+  },
+  {
+    "id": "2055",
+    "question": "Quel est le nom de l'auteur de 'Dubliners' ?",
+    "answer": "James Joyce",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "James Joyce a écrit 'Dubliners' (1914), un recueil de nouvelles décrivant la vie à Dublin au début du XXe siècle."
+  },
+  {
+    "id": "66",
+    "question": "Quelle est la monnaie officielle de la Suisse ?",
+    "answer": "Franc suisse",
+    "badAnswers": [
+      "Euro",
+      "Couronne",
+      "Livre"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
+  },
+  {
+    "id": "1898",
+    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
   }
 ]
