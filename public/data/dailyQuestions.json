@@ -1,124 +1,111 @@
 [
   {
-    "id": "1480",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
     "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
   },
   {
-    "id": "1604",
-    "question": "Quel est la capitale des Seychelles ?",
-    "answer": "Victoria",
+    "id": "1596",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
+    "answer": "Rebecca",
     "badAnswers": [
-      "Mahé",
-      "Praslin",
-      "La Digue"
+      "The Grapes of Wrath",
+      "The Great Dictator",
+      "Kitty Foyle"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+  },
+  {
+    "id": "1530",
+    "question": "Quel est la capitale du Niger ?",
+    "answer": "Niamey",
+    "badAnswers": [
+      "Zinder",
+      "Maradi",
+      "Agadez"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
+    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
   },
   {
-    "id": "824",
-    "question": "Quel est le plus grand serpent du monde ?",
-    "answer": "Python réticulé",
+    "id": "59",
+    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
+    "answer": "Michael Jackson",
     "badAnswers": [
-      "Anaconda vert",
-      "Boa constrictor",
-      "Cobra royal"
+      "Prince",
+      "Madonna",
+      "The Jacksons"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
-  },
-  {
-    "id": "350",
-    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
-    "answer": "Master Chief",
-    "badAnswers": [
-      "Cortana",
-      "Arbiter",
-      "Noble Six"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
   },
   {
-    "id": "971",
-    "question": "Qui fut le premier président des États-Unis ?",
-    "answer": "George Washington",
+    "id": "181",
+    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
+    "answer": "Serpentard",
     "badAnswers": [
-      "James Madison",
-      "Thomas Jefferson",
-      "James K. Polk"
+      "Gryffondor",
+      "Poufsouffle",
+      "Serdaigle"
     ],
-    "category": "Histoire",
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
+  },
+  {
+    "id": "1422",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
+    "answer": "The Sting",
+    "badAnswers": [
+      "The Exorcist",
+      "American Graffiti",
+      "A Touch of Class"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
+  },
+  {
+    "id": "545",
+    "question": "Quel est la capitale de la Turquie ?",
+    "answer": "Ankara",
+    "badAnswers": [
+      "Istanbul",
+      "Izmir",
+      "Bursa"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "George Washington, souvent appelé le 'père de la nation', fut le premier président des États-Unis, en poste de 1789 à 1797, et un symbole de l'indépendance américaine."
+    "description": "Ankara est la capitale de la Turquie, centre politique abritant le Parlement. Istanbul, Izmir et Bursa sont d'autres grandes villes turques, mais pas la capitale."
   },
   {
-    "id": "1275",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
-    "answer": "Brome",
-    "badAnswers": [
-      "Bore",
-      "Baryum",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
-  },
-  {
-    "id": "1256",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sb ?",
-    "answer": "Antimoine",
-    "badAnswers": [
-      "Arsenic",
-      "Sélénium",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'antimoine, symbolisé par Sb (du latin 'stibium'), est un métalloïde utilisé dans les alliages et les retardateurs de flamme."
-  },
-  {
-    "id": "2055",
-    "question": "Quel est le nom de l'auteur de 'Dubliners' ?",
-    "answer": "James Joyce",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "James Joyce a écrit 'Dubliners' (1914), un recueil de nouvelles décrivant la vie à Dublin au début du XXe siècle."
-  },
-  {
-    "id": "66",
-    "question": "Quelle est la monnaie officielle de la Suisse ?",
-    "answer": "Franc suisse",
-    "badAnswers": [
-      "Euro",
-      "Couronne",
-      "Livre"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
-  },
-  {
-    "id": "1898",
-    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
+    "id": "1911",
+    "question": "Quel est le nom du groupe qui a chanté 'Yellow Submarine' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -127,6 +114,19 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
+    "description": "'Yellow Submarine', sorti en 1966 par The Beatles, est une chanson ludique tirée de l'album Revolver."
+  },
+  {
+    "id": "135",
+    "question": "En astronomie, quelle est la classification du Soleil ?",
+    "answer": "Une étoile naine jaune",
+    "badAnswers": [
+      "Une nébuleuse",
+      "Une étoile géante rouge",
+      "Un pulsar"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le Soleil est classé comme une étoile naine jaune de type G2V. Une nébuleuse est un nuage de gaz, une étoile géante rouge est une phase ultérieure, et un pulsar est une étoile à neutrons."
   }
 ]
