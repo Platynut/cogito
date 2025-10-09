@@ -1,111 +1,98 @@
 [
   {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
+    "id": "1650",
+    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
+    "answer": "Blur",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
   },
   {
-    "id": "1596",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
-    "answer": "Rebecca",
+    "id": "1392",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ho ?",
+    "answer": "Holmium",
     "badAnswers": [
-      "The Grapes of Wrath",
-      "The Great Dictator",
-      "Kitty Foyle"
+      "Hafnium",
+      "Hélium",
+      "Hydrargyrum"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'holmium, symbolisé par Ho, est un métal rare utilisé dans les lasers médicaux et les aimants pour ses propriétés magnétiques."
   },
   {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
+    "id": "970",
+    "question": "Où travaille Gregg dans le jeu Night In The Woods ?",
+    "answer": "Snack Falcon",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Ol' Pickaxe",
+      "Video Outpost Too",
+      "Food Donkey"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
-  },
-  {
-    "id": "1530",
-    "question": "Quel est la capitale du Niger ?",
-    "answer": "Niamey",
-    "badAnswers": [
-      "Zinder",
-      "Maradi",
-      "Agadez"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
-  },
-  {
-    "id": "59",
-    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
-    "answer": "Michael Jackson",
-    "badAnswers": [
-      "Prince",
-      "Madonna",
-      "The Jacksons"
-    ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+    "description": "Gregg, un personnage clé de Night In The Woods, travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs."
   },
   {
-    "id": "181",
-    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
-    "answer": "Serpentard",
+    "id": "1663",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Gryffondor",
-      "Poufsouffle",
-      "Serdaigle"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
-  },
-  {
-    "id": "1422",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
-    "answer": "The Sting",
-    "badAnswers": [
-      "The Exorcist",
-      "American Graffiti",
-      "A Touch of Class"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
-  },
-  {
-    "id": "545",
-    "question": "Quel est la capitale de la Turquie ?",
-    "answer": "Ankara",
-    "badAnswers": [
-      "Istanbul",
-      "Izmir",
-      "Bursa"
-    ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ankara est la capitale de la Turquie, centre politique abritant le Parlement. Istanbul, Izmir et Bursa sont d'autres grandes villes turques, mais pas la capitale."
+    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
   },
   {
-    "id": "1911",
-    "question": "Quel est le nom du groupe qui a chanté 'Yellow Submarine' ?",
+    "id": "66",
+    "question": "Quelle est la monnaie officielle de la Suisse ?",
+    "answer": "Franc suisse",
+    "badAnswers": [
+      "Euro",
+      "Couronne",
+      "Livre"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
+  },
+  {
+    "id": "1863",
+    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
+    "answer": "Norman Woodland",
+    "badAnswers": [
+      "Bernard Silver",
+      "George Laurer",
+      "Alan Haberman"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+  },
+  {
+    "id": "240",
+    "question": "Où ont été jugés les nazis ?",
+    "answer": "Nuremberg",
+    "badAnswers": [
+      "Sigmaringen",
+      "Auschwitz",
+      "Berlin"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Les procès de Nuremberg (1945-1946) ont jugé 24 dignitaires nazis. Auschwitz était un camp d'extermination, Sigmaringen un refuge pour collaborateurs français."
+  },
+  {
+    "id": "1973",
+    "question": "Quel est le nom du groupe qui a chanté 'Dear Prudence' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -114,19 +101,32 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Yellow Submarine', sorti en 1966 par The Beatles, est une chanson ludique tirée de l'album Revolver."
+    "description": "'Dear Prudence', sorti en 1968 par The Beatles, est une chanson psychédélique tirée de l'album The White Album."
   },
   {
-    "id": "135",
-    "question": "En astronomie, quelle est la classification du Soleil ?",
-    "answer": "Une étoile naine jaune",
+    "id": "438",
+    "question": "Dans Bloodborne, quel est le nom de la ville où se déroule l’histoire ?",
+    "answer": "Yharnam",
     "badAnswers": [
-      "Une nébuleuse",
-      "Une étoile géante rouge",
-      "Un pulsar"
+      "Cainhurst",
+      "Lorath",
+      "Byrgenwerth"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Soleil est classé comme une étoile naine jaune de type G2V. Une nébuleuse est un nuage de gaz, une étoile géante rouge est une phase ultérieure, et un pulsar est une étoile à neutrons."
+    "description": "Bloodborne se déroule à Yharnam, une ville gothique maudite par une peste transformant les habitants en monstres. Cainhurst et Byrgenwerth sont des lieux spécifiques du jeu, et Lorath est une ville d’un autre univers (Dark Souls II)."
+  },
+  {
+    "id": "1441",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
+    "answer": "Patton",
+    "badAnswers": [
+      "MASH",
+      "Airport",
+      "Five Easy Pieces"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
   }
 ]
