@@ -1,132 +1,132 @@
 [
   {
-    "id": "1650",
-    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
-    "answer": "Blur",
+    "id": "2037",
+    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
+  },
+  {
+    "id": "1744",
+    "question": "Quel est le nom du groupe qui a chanté 'Master of Puppets' ?",
+    "answer": "Metallica",
+    "badAnswers": [
+      "Guns N' Roses",
+      "Megadeth",
+      "Slayer"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
+    "description": "'Master of Puppets', sorti en 1986 par Metallica, est une chanson heavy metal tirée de l'album éponyme."
   },
   {
-    "id": "1392",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ho ?",
-    "answer": "Holmium",
+    "id": "1603",
+    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
+    "answer": "Pearl Jam",
     "badAnswers": [
-      "Hafnium",
-      "Hélium",
-      "Hydrargyrum"
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'holmium, symbolisé par Ho, est un métal rare utilisé dans les lasers médicaux et les aimants pour ses propriétés magnétiques."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
   },
   {
-    "id": "970",
-    "question": "Où travaille Gregg dans le jeu Night In The Woods ?",
-    "answer": "Snack Falcon",
+    "id": "914",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
+    "answer": "Luna",
     "badAnswers": [
-      "Ol' Pickaxe",
-      "Video Outpost Too",
-      "Food Donkey"
+      "Night Stalker",
+      "Spectre",
+      "Shadow Shaman"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Gregg, un personnage clé de Night In The Woods, travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs."
-  },
-  {
-    "id": "1663",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
-  },
-  {
-    "id": "66",
-    "question": "Quelle est la monnaie officielle de la Suisse ?",
-    "answer": "Franc suisse",
-    "badAnswers": [
-      "Euro",
-      "Couronne",
-      "Livre"
-    ],
-    "category": "Economie",
     "difficulty": "normal",
-    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
+    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
   },
   {
-    "id": "1863",
-    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
-    "answer": "Norman Woodland",
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
     "badAnswers": [
-      "Bernard Silver",
-      "George Laurer",
-      "Alan Haberman"
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
   },
   {
-    "id": "240",
-    "question": "Où ont été jugés les nazis ?",
-    "answer": "Nuremberg",
+    "id": "1617",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
+    "answer": "Livermorium",
     "badAnswers": [
-      "Sigmaringen",
-      "Auschwitz",
-      "Berlin"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Les procès de Nuremberg (1945-1946) ont jugé 24 dignitaires nazis. Auschwitz était un camp d'extermination, Sigmaringen un refuge pour collaborateurs français."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
   },
   {
-    "id": "1973",
-    "question": "Quel est le nom du groupe qui a chanté 'Dear Prudence' ?",
-    "answer": "The Beatles",
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Yangon",
+      "Mandalay",
+      "Bago"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+  },
+  {
+    "id": "1541",
+    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Dear Prudence', sorti en 1968 par The Beatles, est une chanson psychédélique tirée de l'album The White Album."
+    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
   },
   {
-    "id": "438",
-    "question": "Dans Bloodborne, quel est le nom de la ville où se déroule l’histoire ?",
-    "answer": "Yharnam",
+    "id": "1014",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
+    "answer": "The Last of Us",
     "badAnswers": [
-      "Cainhurst",
-      "Lorath",
-      "Byrgenwerth"
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "Tomb Raider"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Bloodborne se déroule à Yharnam, une ville gothique maudite par une peste transformant les habitants en monstres. Cainhurst et Byrgenwerth sont des lieux spécifiques du jeu, et Lorath est une ville d’un autre univers (Dark Souls II)."
+    "difficulty": "facile",
+    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
   },
   {
-    "id": "1441",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
-    "answer": "Patton",
+    "id": "122",
+    "question": "Quel fils de Louis de Funès a joué à ses côtés dans 'Sur un arbre perché' ?",
+    "answer": "Olivier",
     "badAnswers": [
-      "MASH",
-      "Airport",
-      "Five Easy Pieces"
+      "Oscar",
+      "Owens",
+      "Octave"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
+    "description": "Olivier de Funès, fils de Louis de Funès, a joué avec lui dans plusieurs films dont 'Sur un arbre perché' (1971). Les autres prénoms ne correspondent pas à ses fils."
   }
 ]
