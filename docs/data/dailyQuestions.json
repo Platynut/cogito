@@ -1,132 +1,132 @@
 [
   {
-    "id": "2037",
-    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
-    "answer": "Albert Camus",
+    "id": "916",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
+    "answer": "Héros",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
-  },
-  {
-    "id": "1744",
-    "question": "Quel est le nom du groupe qui a chanté 'Master of Puppets' ?",
-    "answer": "Metallica",
-    "badAnswers": [
-      "Guns N' Roses",
-      "Megadeth",
-      "Slayer"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Master of Puppets', sorti en 1986 par Metallica, est une chanson heavy metal tirée de l'album éponyme."
-  },
-  {
-    "id": "1603",
-    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
-    "answer": "Pearl Jam",
-    "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
-  },
-  {
-    "id": "914",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
-    "answer": "Luna",
-    "badAnswers": [
-      "Night Stalker",
-      "Spectre",
-      "Shadow Shaman"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
-  },
-  {
-    "id": "1738",
-    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
-    "answer": "Robert Watson-Watt",
-    "badAnswers": [
-      "Heinrich Hertz",
-      "Christian Hülsmeyer",
-      "Karl Ferdinand Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
-  },
-  {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
-    "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
-  },
-  {
-    "id": "1466",
-    "question": "Quel est la capitale du Myanmar ?",
-    "answer": "Naypyidaw",
-    "badAnswers": [
-      "Yangon",
-      "Mandalay",
-      "Bago"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
-  },
-  {
-    "id": "1541",
-    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "1014",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
-    "answer": "The Last of Us",
-    "badAnswers": [
-      "Uncharted",
-      "Horizon Zero Dawn",
-      "Tomb Raider"
+      "Erdrick",
+      "Luminary",
+      "Solo"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
+    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
   },
   {
-    "id": "122",
-    "question": "Quel fils de Louis de Funès a joué à ses côtés dans 'Sur un arbre perché' ?",
-    "answer": "Olivier",
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
     "badAnswers": [
-      "Oscar",
-      "Owens",
-      "Octave"
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
+  },
+  {
+    "id": "1463",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1963 ?",
+    "answer": "Tom Jones",
+    "badAnswers": [
+      "Cleopatra",
+      "How the West Was Won",
+      "Lilies of the Field"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Olivier de Funès, fils de Louis de Funès, a joué avec lui dans plusieurs films dont 'Sur un arbre perché' (1971). Les autres prénoms ne correspondent pas à ses fils."
+    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1963, une comédie d'aventure basée sur le roman de Henry Fielding."
+  },
+  {
+    "id": "92",
+    "question": "Dans quel jeu trouve-t-on des Endermen ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Terraria",
+      "Roblox",
+      "Fortnite"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
+  },
+  {
+    "id": "466",
+    "question": "Quel est le plus grand requin prédateur du monde ?",
+    "answer": "Requin blanc",
+    "badAnswers": [
+      "Requin-tigre",
+      "Requin-marteau",
+      "Requin-baleine"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le grand requin blanc est le plus grand requin prédateur, pouvant atteindre 6 mètres de long et connu pour sa puissance. Le requin-tigre et le requin-marteau sont également prédateurs, mais plus petits. Le requin-baleine est inoffensif et se nourrit de plancton."
+  },
+  {
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
+    "badAnswers": [
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "2017",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+  },
+  {
+    "id": "1445",
+    "question": "Quel est la capitale des Émirats arabes unis ?",
+    "answer": "Abou Dabi",
+    "badAnswers": [
+      "Dubaï",
+      "Sharjah",
+      "Ajman"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
+  },
+  {
+    "id": "2142",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Thief of Bagdad",
+      "The Last Laugh",
+      "Greed"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
+  },
+  {
+    "id": "1512",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cm ?",
+    "answer": "Curium",
+    "badAnswers": [
+      "Césium",
+      "Chlore",
+      "Chrome"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le curium, symbolisé par Cm, est un élément radioactif synthétique, nommé d'après Marie et Pierre Curie, utilisé dans la recherche spatiale."
   }
 ]
