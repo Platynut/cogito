@@ -1,132 +1,132 @@
 [
   {
-    "id": "916",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
-    "answer": "Héros",
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "Erdrick",
-      "Luminary",
-      "Solo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
-  },
-  {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
-    "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "1463",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1963 ?",
-    "answer": "Tom Jones",
-    "badAnswers": [
-      "Cleopatra",
-      "How the West Was Won",
-      "Lilies of the Field"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Tom Jones, réalisé par Tony Richardson, a remporté l'Oscar du meilleur film en 1963, une comédie d'aventure basée sur le roman de Henry Fielding."
-  },
-  {
-    "id": "92",
-    "question": "Dans quel jeu trouve-t-on des Endermen ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
-  },
-  {
-    "id": "466",
-    "question": "Quel est le plus grand requin prédateur du monde ?",
-    "answer": "Requin blanc",
-    "badAnswers": [
-      "Requin-tigre",
-      "Requin-marteau",
-      "Requin-baleine"
+      "Émeu",
+      "Casoar",
+      "Nandou"
     ],
     "category": "Animaux",
     "difficulty": "facile",
-    "description": "Le grand requin blanc est le plus grand requin prédateur, pouvant atteindre 6 mètres de long et connu pour sa puissance. Le requin-tigre et le requin-marteau sont également prédateurs, mais plus petits. Le requin-baleine est inoffensif et se nourrit de plancton."
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
   },
   {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
+    "id": "28",
+    "question": "Quelle pâtisserie française est en forme de petit pain ?",
+    "answer": "Croissant",
     "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
+      "Éclair",
+      "Mille-feuille",
+      "Tarte Tatin"
     ],
-    "category": "Science",
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
+  },
+  {
+    "id": "1953",
+    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
   },
   {
-    "id": "2017",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
-    "answer": "Roger L. Easton",
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
     "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
   },
   {
-    "id": "1445",
-    "question": "Quel est la capitale des Émirats arabes unis ?",
-    "answer": "Abou Dabi",
+    "id": "128",
+    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
+    "answer": "Adamantium",
     "badAnswers": [
-      "Dubaï",
-      "Sharjah",
-      "Ajman"
+      "Vibranium",
+      "Cavorite",
+      "Neutronium"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+  },
+  {
+    "id": "158",
+    "question": "Combien d'œuvres a réalisé Jackson Pollock ?",
+    "answer": "+ de 700",
+    "badAnswers": [
+      "33",
+      "333",
+      "500"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Jackson Pollock, pionnier de l'expressionnisme abstrait, a produit plus de 700 œuvres, dont ses célèbres 'drip paintings'. Les autres chiffres sous-estiment sa production."
+  },
+  {
+    "id": "817",
+    "question": "Quel est la capitale de la Pologne ?",
+    "answer": "Varsovie",
+    "badAnswers": [
+      "Cracovie",
+      "Gdansk",
+      "Wroclaw"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
+    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
   },
   {
-    "id": "2142",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
-    "answer": "Aucun Oscar décerné",
+    "id": "999",
+    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
+    "answer": "Les Raisins de la colère",
     "badAnswers": [
-      "The Thief of Bagdad",
-      "The Last Laugh",
-      "Greed"
+      "Hamlet",
+      "Gatsby le Magnifique",
+      "Peter Pan"
     ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "difficile",
-    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
+    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
   },
   {
-    "id": "1512",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cm ?",
-    "answer": "Curium",
+    "id": "1174",
+    "question": "Quel est la capitale de l'Ouganda ?",
+    "answer": "Kampala",
     "badAnswers": [
-      "Césium",
-      "Chlore",
-      "Chrome"
+      "Gulu",
+      "Jinja",
+      "Mbale"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le curium, symbolisé par Cm, est un élément radioactif synthétique, nommé d'après Marie et Pierre Curie, utilisé dans la recherche spatiale."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
+  },
+  {
+    "id": "76",
+    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
+    "answer": "Tesla",
+    "badAnswers": [
+      "Rivian",
+      "Lucid Motors",
+      "Nio"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
   }
 ]
