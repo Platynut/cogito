@@ -1,132 +1,132 @@
 [
   {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
     "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
   },
   {
-    "id": "28",
-    "question": "Quelle pâtisserie française est en forme de petit pain ?",
-    "answer": "Croissant",
+    "id": "1524",
+    "question": "Quel est le nom du groupe qui a chanté 'Otherside' ?",
+    "answer": "Red Hot Chili Peppers",
     "badAnswers": [
-      "Éclair",
-      "Mille-feuille",
-      "Tarte Tatin"
+      "Nirvana",
+      "Pearl Jam",
+      "Foo Fighters"
     ],
-    "category": "Cuisine",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
+    "description": "'Otherside', sorti en 1999 par Red Hot Chili Peppers, est une chanson rock alternatif introspective tirée de l'album Californication."
   },
   {
-    "id": "1953",
-    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
-    "answer": "Louis Aragon",
+    "id": "1389",
+    "question": "Quel est la capitale du Bhoutan ?",
+    "answer": "Thimphou",
+    "badAnswers": [
+      "Paro",
+      "Punakha",
+      "Jakar"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
+  },
+  {
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
+    "answer": "Héra",
+    "badAnswers": [
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+  },
+  {
+    "id": "1481",
+    "question": "Quel est la capitale de la Libye ?",
+    "answer": "Tripoli",
+    "badAnswers": [
+      "Benghazi",
+      "Misrata",
+      "Sabha"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
+  },
+  {
+    "id": "580",
+    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "André Malraux",
+      "Antoine de Saint-Exupéry"
     ],
-    "category": "Livres",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
+    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
+    "id": "187",
+    "question": "Qui a gagné la coupe du monde de football 1998 ?",
+    "answer": "France",
     "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
+      "Brésil",
+      "Argentine",
+      "Pérou"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
+  },
+  {
+    "id": "1527",
+    "question": "Quel est la capitale du Burkina Faso ?",
+    "answer": "Ouagadougou",
+    "badAnswers": [
+      "Bobo-Dioulasso",
+      "Koudougou",
+      "Banfora"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Ouagadougou, capitale du Burkina Faso, est un centre culturel connu pour son festival de cinéma FESPACO et ses marchés artisanaux."
+  },
+  {
+    "id": "921",
+    "question": "Quel est le nom du plus grand glacier d'Asie ?",
+    "answer": "Siachen",
+    "badAnswers": [
+      "Gangotri",
+      "Baltoro",
+      "Zemu"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Siachen, dans l'Himalaya, est le plus grand d'Asie, s'étendant sur environ 76 km. Gangotri, Baltoro et Zemu sont d'autres glaciers, mais plus petits."
+  },
+  {
+    "id": "1306",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1989 ?",
+    "answer": "Driving Miss Daisy",
+    "badAnswers": [
+      "Born on the Fourth of July",
+      "Dead Poets Society",
+      "My Left Foot"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
-  },
-  {
-    "id": "128",
-    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
-    "answer": "Adamantium",
-    "badAnswers": [
-      "Vibranium",
-      "Cavorite",
-      "Neutronium"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "facile",
-    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
-  },
-  {
-    "id": "158",
-    "question": "Combien d'œuvres a réalisé Jackson Pollock ?",
-    "answer": "+ de 700",
-    "badAnswers": [
-      "33",
-      "333",
-      "500"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "Jackson Pollock, pionnier de l'expressionnisme abstrait, a produit plus de 700 œuvres, dont ses célèbres 'drip paintings'. Les autres chiffres sous-estiment sa production."
-  },
-  {
-    "id": "817",
-    "question": "Quel est la capitale de la Pologne ?",
-    "answer": "Varsovie",
-    "badAnswers": [
-      "Cracovie",
-      "Gdansk",
-      "Wroclaw"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
-  },
-  {
-    "id": "999",
-    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
-    "answer": "Les Raisins de la colère",
-    "badAnswers": [
-      "Hamlet",
-      "Gatsby le Magnifique",
-      "Peter Pan"
-    ],
-    "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
-  },
-  {
-    "id": "1174",
-    "question": "Quel est la capitale de l'Ouganda ?",
-    "answer": "Kampala",
-    "badAnswers": [
-      "Gulu",
-      "Jinja",
-      "Mbale"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
-  },
-  {
-    "id": "76",
-    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Rivian",
-      "Lucid Motors",
-      "Nio"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
+    "description": "Driving Miss Daisy, réalisé par Bruce Beresford, a remporté l'Oscar du meilleur film en 1989, une histoire d'amitié interraciale dans le Sud américain."
   }
 ]
