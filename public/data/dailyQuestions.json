@@ -1,20 +1,20 @@
 [
   {
-    "id": "136",
-    "question": "Quelle série a vu l'arrivée de Gillian Anderson et Olivia Colman dans son casting en 2020 ?",
-    "answer": "The Crown",
+    "id": "241",
+    "question": "Quelle est la signification de 'rex' dans le nom T-rex ?",
+    "answer": "Roi",
     "badAnswers": [
-      "Sex Education",
-      "Le Jeu de la Dame",
-      "The Witcher"
+      "Tueur",
+      "Géant",
+      "Dominant"
     ],
-    "category": "Séries",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Gillian Anderson (Margaret Thatcher) et Olivia Colman (Elizabeth II) ont rejoint le casting de 'The Crown' en 2020. Les autres séries ne les ont pas accueillies cette année-là."
+    "description": "'Rex' signifie 'roi' en latin, soulignant la dominance du T. rex parmi les dinosaures. 'Tyranno' vient du grec 'tyrannos' (despote)."
   },
   {
-    "id": "1934",
-    "question": "Quel est le nom du groupe qui a chanté 'A Hard Day's Night' ?",
+    "id": "2008",
+    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -23,110 +23,110 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'A Hard Day's Night', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album et du film éponymes."
+    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
   },
   {
-    "id": "2084",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur CD ?",
-    "answer": "James Russell",
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
     "badAnswers": [
-      "Philips",
-      "Sony",
-      "Toshiba"
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
     ],
-    "category": "Technologie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "James Russell a développé le concept du disque compact (CD) dans les années 1960, révolutionnant le stockage audio."
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
   },
   {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
+    "id": "2096",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
+    "answer": "Michel Mirowski",
     "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
+      "Paul Zoll",
+      "William Kouwenhoven",
+      "Claude Beck"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
+  },
+  {
+    "id": "1469",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astatine",
+    "badAnswers": [
+      "Argon",
+      "Antimoine",
+      "Actinium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'astatine, symbolisé par At, est un élément radioactif rare, utilisé dans la recherche scientifique et les traitements médicaux."
+  },
+  {
+    "id": "1339",
+    "question": "Quel est la capitale du Honduras ?",
+    "answer": "Tegucigalpa",
+    "badAnswers": [
+      "San Pedro Sula",
+      "La Ceiba",
+      "Comayagua"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
+  },
+  {
+    "id": "243",
+    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
+    "answer": "Tortue luth",
+    "badAnswers": [
+      "Tortue franche",
+      "Tortue ninja",
+      "Tortue argneuse"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
+  },
+  {
+    "id": "1769",
+    "question": "Quel est le nom du groupe qui a chanté 'Sharp Dressed Man' ?",
+    "answer": "ZZ Top",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sharp Dressed Man', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
+  },
+  {
+    "id": "614",
+    "question": "Qui est le dieu de la lune dans la mythologie japonaise ?",
+    "answer": "Tsukuyomi",
+    "badAnswers": [
+      "Amaterasu",
+      "Susanoo",
+      "Benzaiten"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+    "description": "Tsukuyomi incarne le calme et le mystère de la nuit."
   },
   {
-    "id": "1663",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
-    "answer": "Pokémon",
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Lion",
+      "Aigle",
+      "Ours"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
-  },
-  {
-    "id": "664",
-    "question": "Quel scientifique a découvert la théorie de l'évolution par sélection naturelle ?",
-    "answer": "Charles Darwin",
-    "badAnswers": [
-      "Alfred Russel Wallace",
-      "Gregor Mendel",
-      "Jean-Baptiste Lamarck"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Charles Darwin a publié la théorie de l'évolution par sélection naturelle en 1859 dans L'Origine des espèces. Wallace a co-découvert le concept, Mendel a étudié l'hérédité, et Lamarck a proposé une théorie différente."
-  },
-  {
-    "id": "1661",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
-    "answer": "All Quiet on the Western Front",
-    "badAnswers": [
-      "The Big House",
-      "Disraeli",
-      "The Divorcee"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
-  },
-  {
-    "id": "516",
-    "question": "Quel est la capitale de l'Inde ?",
-    "answer": "New Delhi",
-    "badAnswers": [
-      "Mumbai",
-      "Kolkata",
-      "Chennai"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "New Delhi est la capitale de l'Inde, abritant le Parlement et la Porte de l'Inde. C'est une ville planifiée distincte de Delhi. Mumbai, Kolkata et Chennai sont d'autres grandes villes indiennes, mais pas la capitale."
-  },
-  {
-    "id": "1007",
-    "question": "Quel est la capitale de la Mongolie ?",
-    "answer": "Oulan-Bator",
-    "badAnswers": [
-      "Astana",
-      "Bichkek",
-      "Tachkent"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Oulan-Bator est la capitale de la Mongolie, une ville qui combine modernité et traditions nomades, située dans une vallée entourée de montagnes."
-  },
-  {
-    "id": "1170",
-    "question": "Quel est la capitale de l'Angola ?",
-    "answer": "Luanda",
-    "badAnswers": [
-      "Huambo",
-      "Lobito",
-      "Benguela"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
   }
 ]
