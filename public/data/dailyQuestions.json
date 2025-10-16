@@ -1,132 +1,132 @@
 [
   {
-    "id": "241",
-    "question": "Quelle est la signification de 'rex' dans le nom T-rex ?",
-    "answer": "Roi",
+    "id": "324",
+    "question": "Dans Portal, quelle est l'IA qui guide le joueur à travers les tests d'Aperture Science ?",
+    "answer": "GLaDOS",
     "badAnswers": [
-      "Tueur",
-      "Géant",
-      "Dominant"
+      "Wheatley",
+      "Chell",
+      "Atlas"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "'Rex' signifie 'roi' en latin, soulignant la dominance du T. rex parmi les dinosaures. 'Tyranno' vient du grec 'tyrannos' (despote)."
+    "description": "GLaDOS est l'intelligence artificielle sarcastique et manipulatrice qui guide le joueur dans Portal à travers les tests d'Aperture Science. Voix emblématique du jeu, elle est à la fois guide et antagoniste. Wheatley est une IA dans Portal 2, Chell est la protagoniste, et Atlas est un robot secondaire."
   },
   {
-    "id": "2008",
-    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
-    "answer": "The Beatles",
+    "id": "326",
+    "question": "Quel peintre a créé La Nuit étoilée ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Pablo Picasso",
+      "Claude Monet",
+      "Edvard Munch"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+  },
+  {
+    "id": "21",
+    "question": "Quel langage de programmation a créé Guido van Rossum ?",
+    "answer": "Python",
+    "badAnswers": [
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Développé en 1991, Python doit son nom à la troupe de comiques Monty Python, favorite de son créateur."
+  },
+  {
+    "id": "386",
+    "question": "Quel est le nom de l’auteur de L’Étranger ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Franz Kafka",
+      "Simone de Beauvoir"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
+  },
+  {
+    "id": "1343",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
+    "answer": "Amadeus",
+    "badAnswers": [
+      "The Killing Fields",
+      "A Passage to India",
+      "Places in the Heart"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
+  },
+  {
+    "id": "723",
+    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
+    "answer": "Zamazenta",
+    "badAnswers": [
+      "Zacian",
+      "Éthernatos",
+      "Dracaufeu"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
+  },
+  {
+    "id": "1576",
+    "question": "Quel est le nom du groupe qui a chanté 'Dream On' ?",
+    "answer": "Aerosmith",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
+    "description": "'Dream On', sorti en 1973 par Aerosmith, est une ballade rock emblématique tirée de leur premier album."
   },
   {
-    "id": "1047",
-    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
-    "answer": "Charles Lindbergh",
+    "id": "2043",
+    "question": "Quel est le nom de l'auteur de 'Le Vice-consul' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
-      "Amelia Earhart",
-      "Howard Hughes",
-      "Wiley Post"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Histoire",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+    "description": "Marguerite Duras a écrit 'Le Vice-consul' (1966), un roman sur l'isolement et les tensions coloniales en Inde."
   },
   {
-    "id": "2096",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
-    "answer": "Michel Mirowski",
+    "id": "830",
+    "question": "Quel scientifique a découvert la loi des corps flottants ?",
+    "answer": "Archimède",
     "badAnswers": [
-      "Paul Zoll",
-      "William Kouwenhoven",
-      "Claude Beck"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
-  },
-  {
-    "id": "1469",
-    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
-    "answer": "Astatine",
-    "badAnswers": [
-      "Argon",
-      "Antimoine",
-      "Actinium"
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'astatine, symbolisé par At, est un élément radioactif rare, utilisé dans la recherche scientifique et les traitements médicaux."
-  },
-  {
-    "id": "1339",
-    "question": "Quel est la capitale du Honduras ?",
-    "answer": "Tegucigalpa",
-    "badAnswers": [
-      "San Pedro Sula",
-      "La Ceiba",
-      "Comayagua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
-  },
-  {
-    "id": "243",
-    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
-    "answer": "Tortue luth",
-    "badAnswers": [
-      "Tortue franche",
-      "Tortue ninja",
-      "Tortue argneuse"
-    ],
-    "category": "Nature",
     "difficulty": "facile",
-    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
+    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
   },
   {
-    "id": "1769",
-    "question": "Quel est le nom du groupe qui a chanté 'Sharp Dressed Man' ?",
-    "answer": "ZZ Top",
+    "id": "1751",
+    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
+    "answer": "Voltaire",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival"
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Sharp Dressed Man', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
-  },
-  {
-    "id": "614",
-    "question": "Qui est le dieu de la lune dans la mythologie japonaise ?",
-    "answer": "Tsukuyomi",
-    "badAnswers": [
-      "Amaterasu",
-      "Susanoo",
-      "Benzaiten"
-    ],
-    "category": "Mythologie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Tsukuyomi incarne le calme et le mystère de la nuit."
-  },
-  {
-    "id": "27",
-    "question": "Quel est l'animal national de l'Écosse ?",
-    "answer": "Licorne",
-    "badAnswers": [
-      "Lion",
-      "Aigle",
-      "Ours"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
   }
 ]
