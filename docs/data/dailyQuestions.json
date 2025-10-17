@@ -1,99 +1,99 @@
 [
   {
-    "id": "324",
-    "question": "Dans Portal, quelle est l'IA qui guide le joueur à travers les tests d'Aperture Science ?",
-    "answer": "GLaDOS",
+    "id": "223",
+    "question": "Qui appelle-t-on 'mon gourmand' ?",
+    "answer": "Bébé",
     "badAnswers": [
-      "Wheatley",
-      "Chell",
-      "Atlas"
+      "Victor Hugo",
+      "Bernard Werber",
+      "Amélie Nothomb"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "GLaDOS est l'intelligence artificielle sarcastique et manipulatrice qui guide le joueur dans Portal à travers les tests d'Aperture Science. Voix emblématique du jeu, elle est à la fois guide et antagoniste. Wheatley est une IA dans Portal 2, Chell est la protagoniste, et Atlas est un robot secondaire."
+    "category": "Langue",
+    "difficulty": "difficile",
+    "description": "'Mon gourmand' est un terme affectueux pour un enfant ou un être cher qui aime manger. Hugo, Werber et Nothomb sont des auteurs sans rapport."
   },
   {
-    "id": "326",
-    "question": "Quel peintre a créé La Nuit étoilée ?",
-    "answer": "Vincent van Gogh",
+    "id": "1455",
+    "question": "Quel est la capitale du Viêt Nam ?",
+    "answer": "Hanoï",
+    "badAnswers": [
+      "Hô Chi Minh-Ville",
+      "Da Nang",
+      "Huế"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
+  },
+  {
+    "id": "929",
+    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
+    "answer": "9 mai 1945",
+    "badAnswers": [
+      "2 septembre 1945",
+      "9 août 1945",
+      "11 décembre 1945"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
+  },
+  {
+    "id": "1533",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
+    "answer": "Mendélévium",
+    "badAnswers": [
+      "Magnésium",
+      "Molybdène",
+      "Mercure"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
+  },
+  {
+    "id": "607",
+    "question": "Quel artiste a peint La Persistance de la mémoire ?",
+    "answer": "Salvador Dalí",
     "badAnswers": [
       "Pablo Picasso",
-      "Claude Monet",
-      "Edvard Munch"
+      "Joan Miró",
+      "Max Ernst"
     ],
     "category": "Art",
     "difficulty": "facile",
-    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "21",
-    "question": "Quel langage de programmation a créé Guido van Rossum ?",
-    "answer": "Python",
+    "id": "1550",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rf ?",
+    "answer": "Rutherfordium",
     "badAnswers": [
-      "Java",
-      "C++",
-      "JavaScript"
+      "Radon",
+      "Rhodium",
+      "Rubidium"
     ],
-    "category": "Technologie",
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le rutherfordium, symbolisé par Rf, est un élément radioactif synthétique, nommé d'après Ernest Rutherford, utilisé dans la recherche."
+  },
+  {
+    "id": "1234",
+    "question": "Quel est le nom du dieu grec de la justice ?",
+    "answer": "Thémis",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Développé en 1991, Python doit son nom à la troupe de comiques Monty Python, favorite de son créateur."
+    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
   },
   {
-    "id": "386",
-    "question": "Quel est le nom de l’auteur de L’Étranger ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Franz Kafka",
-      "Simone de Beauvoir"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
-  },
-  {
-    "id": "1343",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
-    "answer": "Amadeus",
-    "badAnswers": [
-      "The Killing Fields",
-      "A Passage to India",
-      "Places in the Heart"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
-  },
-  {
-    "id": "723",
-    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
-    "answer": "Zamazenta",
-    "badAnswers": [
-      "Zacian",
-      "Éthernatos",
-      "Dracaufeu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
-  },
-  {
-    "id": "1576",
-    "question": "Quel est le nom du groupe qui a chanté 'Dream On' ?",
-    "answer": "Aerosmith",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Dream On', sorti en 1973 par Aerosmith, est une ballade rock emblématique tirée de leur premier album."
-  },
-  {
-    "id": "2043",
-    "question": "Quel est le nom de l'auteur de 'Le Vice-consul' ?",
-    "answer": "Marguerite Duras",
+    "id": "1206",
+    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -101,32 +101,32 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Vice-consul' (1966), un roman sur l'isolement et les tensions coloniales en Inde."
+    "description": "Boris Vian a écrit 'L'Écume des jours' (1947), un roman poétique et surréaliste sur l'amour et la maladie dans un univers onirique."
   },
   {
-    "id": "830",
-    "question": "Quel scientifique a découvert la loi des corps flottants ?",
-    "answer": "Archimède",
+    "id": "1887",
+    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
+    "answer": "Frank McNamara",
     "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Blaise Pascal"
+      "Ralph Schneider",
+      "Alfred Bloomingdale",
+      "John Biggins"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
   },
   {
-    "id": "1751",
-    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
-    "answer": "Voltaire",
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
     "badAnswers": [
-      "Jean-Jacques Rousseau",
-      "Denis Diderot",
-      "Montesquieu"
+      "Palkia",
+      "Giratina",
+      "Arceus"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
   }
 ]
