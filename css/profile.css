@@ -78,3 +78,32 @@
   background: #1e40af;
   transform: scale(1.04);
 }
+
+.profile-stats {
+  width: 100%;
+  margin: 2em 0 1em 0;
+  background: #e0e7ff;
+  border-radius: 12px;
+  padding: 1.2em 1em;
+  box-shadow: 0 2px 8px rgba(44,62,80,0.06);
+}
+
+.profile-stats h3 {
+  color: #2563eb;
+  margin-bottom: 0.7em;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.profile-stats ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-stats li {
+  font-size: 1em;
+  color: #22252e;
+  margin-bottom: 0.4em;
+  font-weight: 500;
+}

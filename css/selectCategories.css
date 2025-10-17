@@ -8,8 +8,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  max-width: 40%;
-  width: 100%;
+  max-width: 100%;
+  width: fit-content;
+}
+
+.category-selection h2 {
+  margin-bottom: 1em;
+  font-size: 1.5em;
+  color: #22252e;
 }
 
 .category-selection button {

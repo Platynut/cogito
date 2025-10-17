@@ -37,6 +37,18 @@ export default function Profile() {
     return (
         <div className="profile-connected">
         <h2>Bienvenue {profile?.pseudo} !</h2>
+
+        <div className="profile-stats">
+            <h3>Statistiques</h3>
+            <ul>
+            <li>Série quotidienne : {profile?.dayStreak ?? 0}</li>
+            <li>Série max quotidienne : {profile?.maxDaystreak ?? 0}</li>
+            <li>Série de victoires : {profile?.winStreak ?? 0}</li>
+            <li>Série max de victoires : {profile?.maxWinstreak ?? 0}</li>
+            <li>Série sans fin : {profile?.endlessWinStreak ?? 0}</li>
+            </ul>
+        </div>
+
         <ChangePseudo
             onPseudoChange={(newPseudo) => setProfile({ pseudo: newPseudo })}
         />
