@@ -1,132 +1,132 @@
 [
   {
-    "id": "223",
-    "question": "Qui appelle-t-on 'mon gourmand' ?",
-    "answer": "Le gros Enzo",
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
     "badAnswers": [
-      "Victor Hugo",
-      "Bernard Werber",
-      "Amélie Nothomb"
+      "Yangon",
+      "Mandalay",
+      "Bago"
     ],
-    "category": "Langue",
-    "difficulty": "difficile",
-    "description": "'Mon gourmand' est un terme affectueux pour un enfant ou un être cher qui aime manger. Hugo, Werber et Nothomb sont des auteurs sans rapport."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
   },
   {
-    "id": "1455",
-    "question": "Quel est la capitale du Viêt Nam ?",
-    "answer": "Hanoï",
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Hô Chi Minh-Ville",
-      "Da Nang",
-      "Huế"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+  },
+  {
+    "id": "762",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom du royaume crépusculaire ?",
+    "answer": "Monde du Crépuscule",
+    "badAnswers": [
+      "Hyrule",
+      "Termina",
+      "Lorule"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Monde du Crépuscule est le royaume parallèle dans The Legend of Zelda: Twilight Princess, gouverné par Midna. Hyrule est le monde principal, Termina est dans Majora's Mask, et Lorule dans A Link Between Worlds."
+  },
+  {
+    "id": "1538",
+    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
+    "answer": "Nobelium",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Niobium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "363",
+    "question": "Dans Pokémon, quel type est super efficace contre le type Eau ?",
+    "answer": "Électrik",
+    "badAnswers": [
+      "Feu",
+      "Glace",
+      "Poison"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Pokémon, le type Électrik est super efficace contre le type Eau, infligeant le double des dégâts. Les attaques électriques, comme Tonnerre, exploitent la conductivité de l’eau. Le type Feu est faible contre Eau, Glace est neutre, et Poison n’a pas d’avantage particulier."
+  },
+  {
+    "id": "1866",
+    "question": "Quel est le nom du groupe qui a chanté 'Pinball Wizard' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Pinball Wizard', sorti en 1969 par The Who, est une chanson rock tirée de l'opéra rock Tommy."
+  },
+  {
+    "id": "360",
+    "question": "Quel est le plus grand pays du monde en superficie ?",
+    "answer": "Russie",
+    "badAnswers": [
+      "Canada",
+      "Chine",
+      "États-Unis"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
+    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
   },
   {
-    "id": "929",
-    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
-    "answer": "9 mai 1945",
+    "id": "1149",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
+    "answer": "Parasite",
     "badAnswers": [
-      "2 septembre 1945",
-      "9 août 1945",
-      "11 décembre 1945"
+      "1917",
+      "Joker",
+      "Ford v Ferrari"
     ],
-    "category": "Histoire",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
+    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
   },
   {
-    "id": "1533",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
-    "answer": "Mendélévium",
+    "id": "200",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
     "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mercure"
+      "Vénus",
+      "Mars",
+      "Terre"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
-  },
-  {
-    "id": "607",
-    "question": "Quel artiste a peint La Persistance de la mémoire ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Joan Miró",
-      "Max Ernst"
-    ],
-    "category": "Art",
+    "category": "Astronomie",
     "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
   },
   {
-    "id": "1550",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rf ?",
-    "answer": "Rutherfordium",
+    "id": "718",
+    "question": "Quel yōkai est un parapluie vivant doté d'un œil et d'une jambe ?",
+    "answer": "Karakasa-obake",
     "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Rubidium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rutherfordium, symbolisé par Rf, est un élément radioactif synthétique, nommé d'après Ernest Rutherford, utilisé dans la recherche."
-  },
-  {
-    "id": "1234",
-    "question": "Quel est le nom du dieu grec de la justice ?",
-    "answer": "Thémis",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
+      "Nurarihyon",
+      "Zashiki-warashi",
+      "Tanuki"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
-  },
-  {
-    "id": "1206",
-    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Écume des jours' (1947), un roman poétique et surréaliste sur l'amour et la maladie dans un univers onirique."
-  },
-  {
-    "id": "1887",
-    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
-    "answer": "Frank McNamara",
-    "badAnswers": [
-      "Ralph Schneider",
-      "Alfred Bloomingdale",
-      "John Biggins"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
-  },
-  {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
-    "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+    "description": "Le Karakasa-obake est un objet inanimé devenu vivant, célèbre pour ses facéties."
   }
 ]
