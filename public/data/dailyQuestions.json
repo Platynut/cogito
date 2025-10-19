@@ -1,132 +1,132 @@
 [
   {
-    "id": "1466",
-    "question": "Quel est la capitale du Myanmar ?",
-    "answer": "Naypyidaw",
+    "id": "117",
+    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
+    "answer": "Tous les 4 ans",
     "badAnswers": [
-      "Yangon",
-      "Mandalay",
-      "Bago"
+      "Tous les 3 ans",
+      "Tous les 5 ans",
+      "Tous les 6 ans"
     ],
-    "category": "Géographie",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
   },
   {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
-    "answer": "The Beatles",
+    "id": "464",
+    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Révolution américaine",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
-  },
-  {
-    "id": "762",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom du royaume crépusculaire ?",
-    "answer": "Monde du Crépuscule",
-    "badAnswers": [
-      "Hyrule",
-      "Termina",
-      "Lorule"
+      "Guerre civile américaine",
+      "Révolution française",
+      "Guerre d'indépendance espagnole"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le Monde du Crépuscule est le royaume parallèle dans The Legend of Zelda: Twilight Princess, gouverné par Midna. Hyrule est le monde principal, Termina est dans Majora's Mask, et Lorule dans A Link Between Worlds."
+    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
   },
   {
-    "id": "1538",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobelium",
+    "id": "1981",
+    "question": "Quel est la capitale de la République centrafricaine ?",
+    "answer": "Bangui",
     "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
+      "Berbérati",
+      "Bambari",
+      "Bouar"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
   },
   {
-    "id": "363",
-    "question": "Dans Pokémon, quel type est super efficace contre le type Eau ?",
-    "answer": "Électrik",
+    "id": "212",
+    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
+    "answer": "Le bit",
     "badAnswers": [
-      "Feu",
-      "Glace",
-      "Poison"
+      "Le byte",
+      "Le méga",
+      "Le giga"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
+  },
+  {
+    "id": "264",
+    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Fortnite",
+      "Call of Duty",
+      "World of Warcraft"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Pokémon, le type Électrik est super efficace contre le type Eau, infligeant le double des dégâts. Les attaques électriques, comme Tonnerre, exploitent la conductivité de l’eau. Le type Feu est faible contre Eau, Glace est neutre, et Poison n’a pas d’avantage particulier."
+    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
   },
   {
-    "id": "1866",
-    "question": "Quel est le nom du groupe qui a chanté 'Pinball Wizard' ?",
-    "answer": "The Who",
+    "id": "1068",
+    "question": "Quel est le nom du dieu romain de la guerre ?",
+    "answer": "Mars",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Pinball Wizard', sorti en 1969 par The Who, est une chanson rock tirée de l'opéra rock Tommy."
-  },
-  {
-    "id": "360",
-    "question": "Quel est le plus grand pays du monde en superficie ?",
-    "answer": "Russie",
-    "badAnswers": [
-      "Canada",
-      "Chine",
-      "États-Unis"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
-  },
-  {
-    "id": "1149",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
-    "answer": "Parasite",
-    "badAnswers": [
-      "1917",
-      "Joker",
-      "Ford v Ferrari"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
-  },
-  {
-    "id": "200",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
-    "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Terre"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
-  },
-  {
-    "id": "718",
-    "question": "Quel yōkai est un parapluie vivant doté d'un œil et d'une jambe ?",
-    "answer": "Karakasa-obake",
-    "badAnswers": [
-      "Nurarihyon",
-      "Zashiki-warashi",
-      "Tanuki"
+      "Jupiter",
+      "Mercure",
+      "Neptune"
     ],
     "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Mars, équivalent romain d'Arès, est le dieu de la guerre, souvent associé à la bravoure et à la protection de Rome dans la mythologie."
+  },
+  {
+    "id": "1134",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ratchet ?",
+    "answer": "Ratchet & Clank",
+    "badAnswers": [
+      "Jak and Daxter",
+      "Spyro the Dragon",
+      "Crash Bandicoot"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ratchet, un lombax mécanicien, est le héros de la série Ratchet & Clank, accompagné de son ami robot Clank dans des aventures intergalactiques."
+  },
+  {
+    "id": "1141",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Jak ?",
+    "answer": "Jak and Daxter",
+    "badAnswers": [
+      "Ratchet & Clank",
+      "Crash Bandicoot",
+      "Spyro the Dragon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Jak, héros de la série Jak and Daxter, est un aventurier explorant un monde fantastique avec son ami Daxter, créé par Naughty Dog."
+  },
+  {
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "1418",
+    "question": "Quel est la capitale du Kirghizistan ?",
+    "answer": "Bichkek",
+    "badAnswers": [
+      "Osh",
+      "Jalal-Abad",
+      "Karakol"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Karakasa-obake est un objet inanimé devenu vivant, célèbre pour ses facéties."
+    "description": "Bichkek, capitale du Kirghizistan, est une ville moderne entourée de montagnes, connue pour ses bazars et son architecture soviétique."
   }
 ]
