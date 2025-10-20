@@ -1,132 +1,132 @@
 [
   {
-    "id": "117",
-    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
-    "answer": "Tous les 4 ans",
+    "id": "13",
+    "question": "Qui était le premier président de la Ve République française ?",
+    "answer": "Charles de Gaulle",
     "badAnswers": [
-      "Tous les 3 ans",
-      "Tous les 5 ans",
-      "Tous les 6 ans"
+      "François Mitterrand",
+      "Georges Pompidou",
+      "Valéry Giscard d'Estaing"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Élu en 1958 après la crise algérienne, Charles de Gaulle établit le système semi-présidentiel toujours en vigueur."
+  },
+  {
+    "id": "1760",
+    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
+  },
+  {
+    "id": "1570",
+    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
+    "answer": "Aerosmith",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
+  },
+  {
+    "id": "1651",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Rondoudou ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Rondoudou, Pokémon de type fée, est connu pour endormir ses adversaires avec sa chanson dans la série Pokémon."
+  },
+  {
+    "id": "2137",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1927/28 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "Sunrise",
+      "The Racket",
+      "7th Heaven"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Wings, réalisé par William A. Wellman, a remporté le tout premier Oscar du meilleur film en 1927/28. Sunrise a reçu un prix séparé pour sa qualité artistique, mais c’est Wings qui est officiellement reconnu comme premier lauréat du meilleur film."
+  },
+  {
+    "id": "141",
+    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Russie",
+      "Etats-Unis",
+      "Italie"
     ],
     "category": "Sports",
     "difficulty": "normal",
-    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
+    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
   },
   {
-    "id": "464",
-    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Révolution américaine",
+    "id": "41",
+    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
+    "answer": "Royaume-Uni",
     "badAnswers": [
-      "Guerre civile américaine",
-      "Révolution française",
-      "Guerre d'indépendance espagnole"
+      "Suisse",
+      "Norvège",
+      "Turquie"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
+  },
+  {
+    "id": "1477",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
+    "answer": "Ben-Hur",
+    "badAnswers": [
+      "The Diary of Anne Frank",
+      "Anatomy of a Murder",
+      "Room at the Top"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
+  },
+  {
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Sceptre d'Aghanim",
+    "badAnswers": [
+      "Barre du Roi Noir",
+      "Rapier Divine",
+      "Cœur de Tarrasque"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
-  },
-  {
-    "id": "1981",
-    "question": "Quel est la capitale de la République centrafricaine ?",
-    "answer": "Bangui",
-    "badAnswers": [
-      "Berbérati",
-      "Bambari",
-      "Bouar"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
+    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
   },
   {
-    "id": "212",
-    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
-    "answer": "Le bit",
+    "id": "76",
+    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
+    "answer": "Tesla",
     "badAnswers": [
-      "Le byte",
-      "Le méga",
-      "Le giga"
+      "Rivian",
+      "Lucid Motors",
+      "Nio"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
-  },
-  {
-    "id": "264",
-    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Fortnite",
-      "Call of Duty",
-      "World of Warcraft"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Economie",
     "difficulty": "facile",
-    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
-  },
-  {
-    "id": "1068",
-    "question": "Quel est le nom du dieu romain de la guerre ?",
-    "answer": "Mars",
-    "badAnswers": [
-      "Jupiter",
-      "Mercure",
-      "Neptune"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Mars, équivalent romain d'Arès, est le dieu de la guerre, souvent associé à la bravoure et à la protection de Rome dans la mythologie."
-  },
-  {
-    "id": "1134",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ratchet ?",
-    "answer": "Ratchet & Clank",
-    "badAnswers": [
-      "Jak and Daxter",
-      "Spyro the Dragon",
-      "Crash Bandicoot"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ratchet, un lombax mécanicien, est le héros de la série Ratchet & Clank, accompagné de son ami robot Clank dans des aventures intergalactiques."
-  },
-  {
-    "id": "1141",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Jak ?",
-    "answer": "Jak and Daxter",
-    "badAnswers": [
-      "Ratchet & Clank",
-      "Crash Bandicoot",
-      "Spyro the Dragon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jak, héros de la série Jak and Daxter, est un aventurier explorant un monde fantastique avec son ami Daxter, créé par Naughty Dog."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
-  },
-  {
-    "id": "1418",
-    "question": "Quel est la capitale du Kirghizistan ?",
-    "answer": "Bichkek",
-    "badAnswers": [
-      "Osh",
-      "Jalal-Abad",
-      "Karakol"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bichkek, capitale du Kirghizistan, est une ville moderne entourée de montagnes, connue pour ses bazars et son architecture soviétique."
+    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
   }
 ]
