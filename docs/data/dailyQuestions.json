@@ -1,132 +1,132 @@
 [
   {
-    "id": "13",
-    "question": "Qui était le premier président de la Ve République française ?",
-    "answer": "Charles de Gaulle",
+    "id": "386",
+    "question": "Quel est le nom de l’auteur de L’Étranger ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "François Mitterrand",
-      "Georges Pompidou",
-      "Valéry Giscard d'Estaing"
+      "Jean-Paul Sartre",
+      "Franz Kafka",
+      "Simone de Beauvoir"
     ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Élu en 1958 après la crise algérienne, Charles de Gaulle établit le système semi-présidentiel toujours en vigueur."
-  },
-  {
-    "id": "1760",
-    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
+    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
   },
   {
-    "id": "1570",
-    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
-    "answer": "Aerosmith",
+    "id": "708",
+    "question": "Quelle femme des neiges gèle ses victimes dans la mythologie japonaise ?",
+    "answer": "Yuki-onna",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Iso-onna",
+      "Onryō",
+      "Jorōgumo"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "La Yuki-onna est un esprit hivernal qui attire les voyageurs et les glace à mort."
+  },
+  {
+    "id": "515",
+    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
+    "answer": "Édouard Manet",
+    "badAnswers": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Henri Matisse"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1231",
+    "question": "Quel est la capitale de la Jordanie ?",
+    "answer": "Amman",
+    "badAnswers": [
+      "Aqaba",
+      "Irbid",
+      "Zarqa"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Amman, capitale de la Jordanie, est une ville moderne et historique, connue pour ses ruines romaines et sa citadelle."
+  },
+  {
+    "id": "1163",
+    "question": "Quelle est la capitale constitutionnelle de la Bolivie ?",
+    "answer": "Sucre",
+    "badAnswers": [
+      "La Paz",
+      "Santa Cruz",
+      "Cochabamba"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Sucre est la capitale constitutionnelle de la Bolivie, où se trouve la Cour suprême, et elle est connue pour son architecture coloniale."
+  },
+  {
+    "id": "441",
+    "question": "Dans Dota 2, quel est le nom de l’objectif principal de chaque match ?",
+    "answer": "Ancien",
+    "badAnswers": [
+      "Nexus",
+      "Trône",
+      "Cœur"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Dota 2, l’objectif principal est de détruire l’Ancien (Ancient) de l’équipe adverse, une structure centrale protégée par des tours. Le Nexus est l’objectif dans League of Legends, et Trône et Cœur sont des termes non utilisés dans Dota 2."
+  },
+  {
+    "id": "506",
+    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
+    "answer": "Navi",
+    "badAnswers": [
+      "Tatl",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "191",
+    "question": "Quel est l’exutoire de la rivière Creuse, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
+    "answer": "La Vienne",
+    "badAnswers": [
+      "La Loire",
+      "La Gartempe",
+      "Le Cher"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Creuse se jette dans la Vienne, affluent de la Loire. La Gartempe est un autre affluent de la Creuse, et le Cher un affluent direct de la Loire."
+  },
+  {
+    "id": "3",
+    "question": "Quelle série met en scène le cartel de Medellín ?",
+    "answer": "Narcos",
+    "badAnswers": [
+      "Breaking Bad",
+      "El Chapo",
+      "La Casa de Papel"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+  },
+  {
+    "id": "272",
+    "question": "Qui est le chanteur principal du groupe Green Day ?",
+    "answer": "Billie Joe Armstrong",
+    "badAnswers": [
+      "Mike Dirnt",
+      "Sean Hughes",
+      "Tré Cool"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
-  },
-  {
-    "id": "1651",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Rondoudou ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Rondoudou, Pokémon de type fée, est connu pour endormir ses adversaires avec sa chanson dans la série Pokémon."
-  },
-  {
-    "id": "2137",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1927/28 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "Sunrise",
-      "The Racket",
-      "7th Heaven"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Wings, réalisé par William A. Wellman, a remporté le tout premier Oscar du meilleur film en 1927/28. Sunrise a reçu un prix séparé pour sa qualité artistique, mais c’est Wings qui est officiellement reconnu comme premier lauréat du meilleur film."
-  },
-  {
-    "id": "141",
-    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
-    "answer": "Afrique du Sud",
-    "badAnswers": [
-      "Russie",
-      "Etats-Unis",
-      "Italie"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
-  },
-  {
-    "id": "41",
-    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
-    "answer": "Royaume-Uni",
-    "badAnswers": [
-      "Suisse",
-      "Norvège",
-      "Turquie"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
-  },
-  {
-    "id": "1477",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
-    "answer": "Ben-Hur",
-    "badAnswers": [
-      "The Diary of Anne Frank",
-      "Anatomy of a Murder",
-      "Room at the Top"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
-  },
-  {
-    "id": "401",
-    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
-    "answer": "Sceptre d'Aghanim",
-    "badAnswers": [
-      "Barre du Roi Noir",
-      "Rapier Divine",
-      "Cœur de Tarrasque"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
-  },
-  {
-    "id": "76",
-    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Rivian",
-      "Lucid Motors",
-      "Nio"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
+    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
   }
 ]
