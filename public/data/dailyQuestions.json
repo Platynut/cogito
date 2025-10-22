@@ -1,132 +1,132 @@
 [
   {
-    "id": "386",
-    "question": "Quel est le nom de l’auteur de L’Étranger ?",
-    "answer": "Albert Camus",
+    "id": "1688",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lokhlass ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Franz Kafka",
-      "Simone de Beauvoir"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
-  },
-  {
-    "id": "708",
-    "question": "Quelle femme des neiges gèle ses victimes dans la mythologie japonaise ?",
-    "answer": "Yuki-onna",
-    "badAnswers": [
-      "Iso-onna",
-      "Onryō",
-      "Jorōgumo"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "La Yuki-onna est un esprit hivernal qui attire les voyageurs et les glace à mort."
-  },
-  {
-    "id": "515",
-    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
-    "answer": "Édouard Manet",
-    "badAnswers": [
-      "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1231",
-    "question": "Quel est la capitale de la Jordanie ?",
-    "answer": "Amman",
-    "badAnswers": [
-      "Aqaba",
-      "Irbid",
-      "Zarqa"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Amman, capitale de la Jordanie, est une ville moderne et historique, connue pour ses ruines romaines et sa citadelle."
-  },
-  {
-    "id": "1163",
-    "question": "Quelle est la capitale constitutionnelle de la Bolivie ?",
-    "answer": "Sucre",
-    "badAnswers": [
-      "La Paz",
-      "Santa Cruz",
-      "Cochabamba"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Sucre est la capitale constitutionnelle de la Bolivie, où se trouve la Cour suprême, et elle est connue pour son architecture coloniale."
-  },
-  {
-    "id": "441",
-    "question": "Dans Dota 2, quel est le nom de l’objectif principal de chaque match ?",
-    "answer": "Ancien",
-    "badAnswers": [
-      "Nexus",
-      "Trône",
-      "Cœur"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Dota 2, l’objectif principal est de détruire l’Ancien (Ancient) de l’équipe adverse, une structure centrale protégée par des tours. Le Nexus est l’objectif dans League of Legends, et Trône et Cœur sont des termes non utilisés dans Dota 2."
+    "description": "Lokhlass, Pokémon de type eau et glace, est connu pour transporter les joueurs à travers les mers dans la série Pokémon."
   },
   {
-    "id": "506",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
-    "answer": "Navi",
+    "id": "1683",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1940 ?",
+    "answer": "Gone with the Wind",
     "badAnswers": [
-      "Tatl",
-      "Midna",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "191",
-    "question": "Quel est l’exutoire de la rivière Creuse, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
-    "answer": "La Vienne",
-    "badAnswers": [
-      "La Loire",
-      "La Gartempe",
-      "Le Cher"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Creuse se jette dans la Vienne, affluent de la Loire. La Gartempe est un autre affluent de la Creuse, et le Cher un affluent direct de la Loire."
-  },
-  {
-    "id": "3",
-    "question": "Quelle série met en scène le cartel de Medellín ?",
-    "answer": "Narcos",
-    "badAnswers": [
-      "Breaking Bad",
-      "El Chapo",
-      "La Casa de Papel"
+      "Le Magicien d'Oz",
+      "Monsieur Smith au Sénat",
+      "La Chevauchée fantastique"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+    "description": "Gone with the Wind, réalisé par Victor Fleming, a remporté l'Oscar du meilleur film en 1940, un drame épique sur la guerre de Sécession."
   },
   {
-    "id": "272",
-    "question": "Qui est le chanteur principal du groupe Green Day ?",
-    "answer": "Billie Joe Armstrong",
+    "id": "1069",
+    "question": "Quel est le nom de l'auteur de 'Moby Dick' ?",
+    "answer": "Herman Melville",
     "badAnswers": [
-      "Mike Dirnt",
-      "Sean Hughes",
-      "Tré Cool"
+      "Nathaniel Hawthorne",
+      "Mark Twain",
+      "Henry James"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Herman Melville a écrit 'Moby Dick' (1851), un roman épique sur la quête obsessionnelle du capitaine Achab contre la baleine blanche."
+  },
+  {
+    "id": "384",
+    "question": "Quel scientifique a proposé les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Tycho Brahe"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Ces lois ont jeté les bases de l’astronomie moderne. Galileo a observé les cieux, Newton a développé la gravité universelle, et Tycho Brahe a fourni des données à Kepler."
+  },
+  {
+    "id": "1446",
+    "question": "Quel est le nom du groupe qui a chanté 'Sympathy for the Devil' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Beatles",
+      "The Who",
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
+    "description": "'Sympathy for the Devil', sorti en 1968 par The Rolling Stones, est une chanson rock provocante tirée de l'album Beggars Banquet."
+  },
+  {
+    "id": "1697",
+    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+  },
+  {
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "1378",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
+    "answer": "Gadolinium",
+    "badAnswers": [
+      "Gallium",
+      "Germanium",
+      "Gold"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
+  },
+  {
+    "id": "896",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
+    "answer": "Ciri",
+    "badAnswers": [
+      "Yennefer",
+      "Triss",
+      "Keira"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
+  },
+  {
+    "id": "1352",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pr ?",
+    "answer": "Praséodyme",
+    "badAnswers": [
+      "Prométhium",
+      "Platine",
+      "Palladium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le praséodyme, symbolisé par Pr, est un métal rare utilisé dans les alliages magnétiques et les verres colorés."
   }
 ]
