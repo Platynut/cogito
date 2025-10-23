@@ -1,7 +1,33 @@
 [
   {
-    "id": "1688",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lokhlass ?",
+    "id": "2122",
+    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
+  },
+  {
+    "id": "413",
+    "question": "Dans Fallout 4, quelle est la ville principale où commence l’histoire du joueur ?",
+    "answer": "Sanctuary Hills",
+    "badAnswers": [
+      "Diamond City",
+      "Goodneighbor",
+      "Bunker Hill"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sanctuary Hills est la ville de départ de Fallout 4, où le joueur commence avant l’apocalypse nucléaire. C’est un lieu clé pour la construction de bases. Diamond City, Goodneighbor et Bunker Hill sont d’autres lieux importants, mais pas le point de départ."
+  },
+  {
+    "id": "1717",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Feunard ?",
     "answer": "Pokémon",
     "badAnswers": [
       "Super Mario",
@@ -10,123 +36,97 @@
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Lokhlass, Pokémon de type eau et glace, est connu pour transporter les joueurs à travers les mers dans la série Pokémon."
+    "description": "Feunard, Pokémon de type feu, est l'évolution de Goupix dans la série Pokémon, inspiré par le renard à neuf queues."
   },
   {
-    "id": "1683",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1940 ?",
-    "answer": "Gone with the Wind",
+    "id": "1581",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
+    "answer": "Meitnérium",
     "badAnswers": [
-      "Le Magicien d'Oz",
-      "Monsieur Smith au Sénat",
-      "La Chevauchée fantastique"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Gone with the Wind, réalisé par Victor Fleming, a remporté l'Oscar du meilleur film en 1940, un drame épique sur la guerre de Sécession."
-  },
-  {
-    "id": "1069",
-    "question": "Quel est le nom de l'auteur de 'Moby Dick' ?",
-    "answer": "Herman Melville",
-    "badAnswers": [
-      "Nathaniel Hawthorne",
-      "Mark Twain",
-      "Henry James"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Herman Melville a écrit 'Moby Dick' (1851), un roman épique sur la quête obsessionnelle du capitaine Achab contre la baleine blanche."
-  },
-  {
-    "id": "384",
-    "question": "Quel scientifique a proposé les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Tycho Brahe"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Ces lois ont jeté les bases de l’astronomie moderne. Galileo a observé les cieux, Newton a développé la gravité universelle, et Tycho Brahe a fourni des données à Kepler."
-  },
-  {
-    "id": "1446",
-    "question": "Quel est le nom du groupe qui a chanté 'Sympathy for the Devil' ?",
-    "answer": "The Rolling Stones",
-    "badAnswers": [
-      "The Beatles",
-      "The Who",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Sympathy for the Devil', sorti en 1968 par The Rolling Stones, est une chanson rock provocante tirée de l'album Beggars Banquet."
-  },
-  {
-    "id": "1697",
-    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
-  },
-  {
-    "id": "1847",
-    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1378",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Gd ?",
-    "answer": "Gadolinium",
-    "badAnswers": [
-      "Gallium",
-      "Germanium",
-      "Gold"
+      "Molybdène",
+      "Magnésium",
+      "Mendélévium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le gadolinium, symbolisé par Gd, est un métal rare utilisé dans l'imagerie médicale (IRM) pour ses propriétés magnétiques."
+    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
   },
   {
-    "id": "896",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
-    "answer": "Ciri",
+    "id": "585",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
+    "answer": "Expelliarmus",
     "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
+      "Stupéfix",
+      "Lumos",
+      "Accio"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
+  },
+  {
+    "id": "515",
+    "question": "Dans God of War Ragnarök, quel est le nom du royaume des nains ?",
+    "answer": "Svartalfheim",
+    "badAnswers": [
+      "Asgard",
+      "Midgard",
+      "Jötunheim"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
+    "difficulty": "normal",
+    "description": "Svartalfheim est le royaume des nains dans God of War Ragnarök, connu pour ses forges et ses artisans. Asgard est le royaume des dieux, Midgard celui des humains, et Jötunheim celui des géants."
   },
   {
-    "id": "1352",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pr ?",
-    "answer": "Praséodyme",
+    "id": "802",
+    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
+    "answer": "Morgana",
     "badAnswers": [
-      "Prométhium",
-      "Platine",
-      "Palladium"
+      "Kayle",
+      "Akali",
+      "Ahri"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le praséodyme, symbolisé par Pr, est un métal rare utilisé dans les alliages magnétiques et les verres colorés."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+  },
+  {
+    "id": "1923",
+    "question": "Quel est le nom de l'inventeur du premier système de climatisation ?",
+    "answer": "Willis Carrier",
+    "badAnswers": [
+      "John Gorrie",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Willis Carrier a inventé le premier système de climatisation moderne en 1902, utilisé pour contrôler l'humidité."
+  },
+  {
+    "id": "1569",
+    "question": "Quel est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
+    "badAnswers": [
+      "Goma",
+      "Lubumbashi",
+      "Kisangani"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
   }
 ]
