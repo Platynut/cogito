@@ -1,132 +1,132 @@
 [
   {
-    "id": "2122",
-    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "699",
+    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
+    "answer": "Bourg-Clocher",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
-  },
-  {
-    "id": "413",
-    "question": "Dans Fallout 4, quelle est la ville principale où commence l’histoire du joueur ?",
-    "answer": "Sanctuary Hills",
-    "badAnswers": [
-      "Diamond City",
-      "Goodneighbor",
-      "Bunker Hill"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sanctuary Hills est la ville de départ de Fallout 4, où le joueur commence avant l’apocalypse nucléaire. C’est un lieu clé pour la construction de bases. Diamond City, Goodneighbor et Bunker Hill sont d’autres lieux importants, mais pas le point de départ."
-  },
-  {
-    "id": "1717",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Feunard ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Cité Goron",
+      "Village Kokiri",
+      "Domaine Zora"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Feunard, Pokémon de type feu, est l'évolution de Goupix dans la série Pokémon, inspiré par le renard à neuf queues."
+    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
   },
   {
-    "id": "1581",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
-    "answer": "Meitnérium",
+    "id": "677",
+    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
-      "Molybdène",
-      "Magnésium",
-      "Mendélévium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
-  },
-  {
-    "id": "585",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
-    "answer": "Expelliarmus",
-    "badAnswers": [
-      "Stupéfix",
-      "Lumos",
-      "Accio"
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Breton"
     ],
     "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "524",
+    "question": "Dans Elden Ring, quel est le nom du monde où se déroule l'histoire ?",
+    "answer": "Entre-terre",
+    "badAnswers": [
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
+    "description": "Elden Ring se déroule dans l'Entre-terre, un monde fantastique créé par FromSoftware et George R.R. Martin. Lordran, Drangleic et Yharnam sont les mondes de Dark Souls et Bloodborne."
   },
   {
-    "id": "515",
-    "question": "Dans God of War Ragnarök, quel est le nom du royaume des nains ?",
-    "answer": "Svartalfheim",
+    "id": "1113",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
+    "answer": "Metal Gear Solid",
     "badAnswers": [
-      "Asgard",
-      "Midgard",
-      "Jötunheim"
+      "Splinter Cell",
+      "Hitman",
+      "Deus Ex"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Svartalfheim est le royaume des nains dans God of War Ragnarök, connu pour ses forges et ses artisans. Asgard est le royaume des dieux, Midgard celui des humains, et Jötunheim celui des géants."
+    "difficulty": "facile",
+    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
   },
   {
-    "id": "802",
-    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
-    "answer": "Morgana",
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "Kayle",
-      "Akali",
-      "Ahri"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
-  },
-  {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
     "category": "Musique",
     "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "1923",
-    "question": "Quel est le nom de l'inventeur du premier système de climatisation ?",
-    "answer": "Willis Carrier",
+    "id": "1136",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
+    "answer": "Silicium",
     "badAnswers": [
-      "John Gorrie",
-      "Carl von Linde",
-      "Jacob Perkins"
+      "Soufre",
+      "Sélénium",
+      "Sodium"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Willis Carrier a inventé le premier système de climatisation moderne en 1902, utilisé pour contrôler l'humidité."
-  },
-  {
-    "id": "1569",
-    "question": "Quel est la capitale de la République démocratique du Congo ?",
-    "answer": "Kinshasa",
-    "badAnswers": [
-      "Goma",
-      "Lubumbashi",
-      "Kisangani"
-    ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
+    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+  },
+  {
+    "id": "996",
+    "question": "Quelle lettre grecque est utilisée pour représenter une sommation en mathématiques ?",
+    "answer": "Sigma",
+    "badAnswers": [
+      "Delta",
+      "Alpha",
+      "Oméga"
+    ],
+    "category": "Mathématiques",
+    "difficulty": "normal",
+    "description": "La lettre grecque sigma (Σ) est utilisée en mathématiques pour indiquer une somme de termes, souvent dans les séries ou les calculs statistiques."
+  },
+  {
+    "id": "761",
+    "question": "Quel scientifique a découvert le principe de la flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Archimède a découvert le principe de la flottabilité (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+  },
+  {
+    "id": "293",
+    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
+    "answer": "Dissonance cognitive",
+    "badAnswers": [
+      "Syndrome de Flip-Flop",
+      "Cerveau divisé",
+      "Vision aveugle"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
+  },
+  {
+    "id": "319",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+    "answer": "France",
+    "badAnswers": [
+      "Belgique",
+      "Allemagne",
+      "Croatie"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
   }
 ]
