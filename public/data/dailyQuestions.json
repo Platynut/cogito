@@ -1,132 +1,132 @@
 [
   {
-    "id": "699",
-    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
-    "answer": "Bourg-Clocher",
+    "id": "1002",
+    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
+    "answer": "Abel Tasman",
     "badAnswers": [
-      "Cité Goron",
-      "Village Kokiri",
-      "Domaine Zora"
+      "Christophe Colomb",
+      "Jeanne Baré",
+      "John Cabot"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
-  },
-  {
-    "id": "677",
-    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Breton"
-    ],
-    "category": "Littérature",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
   },
   {
-    "id": "524",
-    "question": "Dans Elden Ring, quel est le nom du monde où se déroule l'histoire ?",
-    "answer": "Entre-terre",
+    "id": "2077",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
+    "answer": "Wings",
     "badAnswers": [
-      "Lordran",
-      "Drangleic",
-      "Yharnam"
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1929, un film muet sur la Première Guerre mondiale."
+  },
+  {
+    "id": "1092",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kirby ?",
+    "answer": "Kirby",
+    "badAnswers": [
+      "Super Mario",
+      "Pokémon",
+      "Yoshi's Island"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Elden Ring se déroule dans l'Entre-terre, un monde fantastique créé par FromSoftware et George R.R. Martin. Lordran, Drangleic et Yharnam sont les mondes de Dark Souls et Bloodborne."
+    "description": "Kirby, créé par Nintendo et HAL Laboratory, est le petit héros rose de la série Kirby, connu pour sa capacité à aspirer ses ennemis et copier leurs pouvoirs."
   },
   {
-    "id": "1113",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
-    "answer": "Metal Gear Solid",
+    "id": "84",
+    "question": "Quel est le seul continent sans désert ?",
+    "answer": "Europe",
     "badAnswers": [
-      "Splinter Cell",
-      "Hitman",
-      "Deus Ex"
+      "Asie",
+      "Amérique du Sud",
+      "Australie"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
   },
   {
-    "id": "1778",
-    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
-    "answer": "The Allman Brothers Band",
+    "id": "1229",
+    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
+      "Led Zeppelin",
+      "The Doors",
+      "The Rolling Stones"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
-  },
-  {
-    "id": "1136",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
-    "answer": "Silicium",
-    "badAnswers": [
-      "Soufre",
-      "Sélénium",
-      "Sodium"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
   },
   {
-    "id": "996",
-    "question": "Quelle lettre grecque est utilisée pour représenter une sommation en mathématiques ?",
-    "answer": "Sigma",
+    "id": "1370",
+    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
+    "answer": "Red Hot Chili Peppers",
     "badAnswers": [
-      "Delta",
-      "Alpha",
-      "Oméga"
+      "Foo Fighters",
+      "Nirvana",
+      "Pearl Jam"
     ],
-    "category": "Mathématiques",
-    "difficulty": "normal",
-    "description": "La lettre grecque sigma (Σ) est utilisée en mathématiques pour indiquer une somme de termes, souvent dans les séries ou les calculs statistiques."
-  },
-  {
-    "id": "761",
-    "question": "Quel scientifique a découvert le principe de la flottabilité ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Archimède a découvert le principe de la flottabilité (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
   },
   {
-    "id": "293",
-    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
-    "answer": "Dissonance cognitive",
+    "id": "2050",
+    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Syndrome de Flip-Flop",
-      "Cerveau divisé",
-      "Vision aveugle"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Science",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
+    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
   },
   {
-    "id": "319",
-    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
-    "answer": "France",
+    "id": "1803",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à combustion interne ?",
+    "answer": "Nikolaus Otto",
     "badAnswers": [
-      "Belgique",
-      "Allemagne",
-      "Croatie"
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz"
     ],
-    "category": "Sports",
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Nikolaus Otto a développé le premier moteur à combustion interne à quatre temps en 1876, base des moteurs modernes."
+  },
+  {
+    "id": "1068",
+    "question": "Quel est le nom du dieu romain de la guerre ?",
+    "answer": "Mars",
+    "badAnswers": [
+      "Jupiter",
+      "Mercure",
+      "Neptune"
+    ],
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
+    "description": "Mars, équivalent romain d'Arès, est le dieu de la guerre, souvent associé à la bravoure et à la protection de Rome dans la mythologie."
+  },
+  {
+    "id": "1282",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
+    "answer": "Braveheart",
+    "badAnswers": [
+      "Apollo 13",
+      "The Postman",
+      "Sense and Sensibility"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
   }
 ]
