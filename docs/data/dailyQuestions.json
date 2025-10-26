@@ -1,132 +1,132 @@
 [
   {
-    "id": "1002",
-    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
-    "answer": "Abel Tasman",
+    "id": "58",
+    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "answer": "Jean-Pierre Jeunet",
     "badAnswers": [
-      "Christophe Colomb",
-      "Jeanne Baré",
-      "John Cabot"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
-  },
-  {
-    "id": "2077",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "Luc Besson",
+      "François Ozon",
+      "Michel Gondry"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1929, un film muet sur la Première Guerre mondiale."
+    "difficulty": "normal",
+    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
   },
   {
-    "id": "1092",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kirby ?",
-    "answer": "Kirby",
+    "id": "1773",
+    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
+    "answer": "François Rabelais",
     "badAnswers": [
-      "Super Mario",
-      "Pokémon",
-      "Yoshi's Island"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Kirby, créé par Nintendo et HAL Laboratory, est le petit héros rose de la série Kirby, connu pour sa capacité à aspirer ses ennemis et copier leurs pouvoirs."
-  },
-  {
-    "id": "84",
-    "question": "Quel est le seul continent sans désert ?",
-    "answer": "Europe",
-    "badAnswers": [
-      "Asie",
-      "Amérique du Sud",
-      "Australie"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
-  },
-  {
-    "id": "1229",
-    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Doors",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
-  },
-  {
-    "id": "1370",
-    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
-    "answer": "Red Hot Chili Peppers",
-    "badAnswers": [
-      "Foo Fighters",
-      "Nirvana",
-      "Pearl Jam"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
-  },
-  {
-    "id": "2050",
-    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
-    "answer": "James Joyce",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
+    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
   },
   {
-    "id": "1803",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à combustion interne ?",
-    "answer": "Nikolaus Otto",
+    "id": "1101",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2014 ?",
+    "answer": "Birdman",
     "badAnswers": [
-      "Rudolf Diesel",
-      "Gottlieb Daimler",
-      "Karl Benz"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Nikolaus Otto a développé le premier moteur à combustion interne à quatre temps en 1876, base des moteurs modernes."
-  },
-  {
-    "id": "1068",
-    "question": "Quel est le nom du dieu romain de la guerre ?",
-    "answer": "Mars",
-    "badAnswers": [
-      "Jupiter",
-      "Mercure",
-      "Neptune"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Mars, équivalent romain d'Arès, est le dieu de la guerre, souvent associé à la bravoure et à la protection de Rome dans la mythologie."
-  },
-  {
-    "id": "1282",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
-    "answer": "Braveheart",
-    "badAnswers": [
-      "Apollo 13",
-      "The Postman",
-      "Sense and Sensibility"
+      "Boyhood",
+      "The Grand Budapest Hotel",
+      "Whiplash"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
+    "description": "Birdman, réalisé par Alejandro G. Iñárritu, a remporté l'Oscar du meilleur film en 2014 pour son style innovant et sa réflexion sur la célébrité."
+  },
+  {
+    "id": "48",
+    "question": "Quelle console a lancé la franchise Mario ?",
+    "answer": "NES",
+    "badAnswers": [
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Mario apparaît d'abord dans 'Donkey Kong' (1981) mais devient star avec 'Super Mario Bros.' sur NES (Nintendo Entertainment System) en 1985."
+  },
+  {
+    "id": "2092",
+    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+  },
+  {
+    "id": "1393",
+    "question": "Quel est le nom de la déesse grecque de la mémoire ?",
+    "answer": "Mnémosyne",
+    "badAnswers": [
+      "Thémis",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "difficile",
+    "description": "Mnémosyne, déesse grecque de la mémoire, est la mère des neuf Muses, associées aux arts et à la connaissance."
+  },
+  {
+    "id": "1301",
+    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
+    "answer": "Némésis",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
+  },
+  {
+    "id": "690",
+    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+  },
+  {
+    "id": "608",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Bossk",
+      "Dengar"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
+  },
+  {
+    "id": "1329",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Y ?",
+    "answer": "Yttrium",
+    "badAnswers": [
+      "Ytterbium",
+      "Zirconium",
+      "Xenon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'yttrium, symbolisé par Y, est un métal rare utilisé dans les lasers, les supraconducteurs et les écrans LED."
   }
 ]
