@@ -1,98 +1,111 @@
 [
   {
-    "id": "58",
-    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "answer": "Jean-Pierre Jeunet",
+    "id": "2044",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Luc Besson",
-      "François Ozon",
-      "Michel Gondry"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
   },
   {
-    "id": "1773",
-    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
-    "answer": "François Rabelais",
+    "id": "801",
+    "question": "Quel est le plus grand rapace nocturne du monde ?",
+    "answer": "Grand-duc d'Europe",
     "badAnswers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Denis Diderot"
+      "Chouette effraie",
+      "Harfang des neiges",
+      "Hibou moyen-duc"
     ],
-    "category": "Livres",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
+    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
   },
   {
-    "id": "1101",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2014 ?",
-    "answer": "Birdman",
+    "id": "524",
+    "question": "Dans Elden Ring, quel est le nom du monde où se déroule l'histoire ?",
+    "answer": "Entre-terre",
     "badAnswers": [
-      "Boyhood",
-      "The Grand Budapest Hotel",
-      "Whiplash"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Birdman, réalisé par Alejandro G. Iñárritu, a remporté l'Oscar du meilleur film en 2014 pour son style innovant et sa réflexion sur la célébrité."
-  },
-  {
-    "id": "48",
-    "question": "Quelle console a lancé la franchise Mario ?",
-    "answer": "NES",
-    "badAnswers": [
-      "Game Boy",
-      "Super Nintendo",
-      "Nintendo 64"
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Elden Ring se déroule dans l'Entre-terre, un monde fantastique créé par FromSoftware et George R.R. Martin. Lordran, Drangleic et Yharnam sont les mondes de Dark Souls et Bloodborne."
+  },
+  {
+    "id": "813",
+    "question": "Dans Cyberpunk 2077, quel est le nom du protagoniste principal ?",
+    "answer": "V",
+    "badAnswers": [
+      "Johnny Silverhand",
+      "Jackie Welles",
+      "Panam Palmer"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "V est le protagoniste principal personnalisable de Cyberpunk 2077, évoluant dans Night City. Johnny Silverhand, Jackie Welles et Panam Palmer sont d'autres personnages clés."
+  },
+  {
+    "id": "901",
+    "question": "Quel scientifique a découvert la loi de la thermodynamique (première loi) ?",
+    "answer": "Julius Robert Mayer",
+    "badAnswers": [
+      "Sadi Carnot",
+      "James Joule",
+      "William Thomson"
+    ],
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Mario apparaît d'abord dans 'Donkey Kong' (1981) mais devient star avec 'Super Mario Bros.' sur NES (Nintendo Entertainment System) en 1985."
+    "description": "Julius Robert Mayer a formulé la première loi de la thermodynamique (conservation de l'énergie) au XIXe siècle. Carnot, Joule et Thomson ont contribué à d'autres aspects de la thermodynamique."
   },
   {
-    "id": "2092",
-    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
-    "answer": "André Gide",
+    "id": "849",
+    "question": "Dans Harry Potter, quel est le nom du gardien des clés de Poudlard ?",
+    "answer": "Rubeus Hagrid",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Argus Rusard",
+      "Albus Dumbledore",
+      "Filius Flitwick"
     ],
-    "category": "Livres",
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, également professeur de soins aux créatures magiques. Rusard est le concierge, Dumbledore le directeur, et Flitwick un professeur."
+  },
+  {
+    "id": "469",
+    "question": "Quel artiste a peint Le Baiser ?",
+    "answer": "Gustav Klimt",
+    "badAnswers": [
+      "Edvard Munch",
+      "Egon Schiele",
+      "Marc Chagall"
+    ],
+    "category": "Art",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "1393",
-    "question": "Quel est le nom de la déesse grecque de la mémoire ?",
-    "answer": "Mnémosyne",
+    "id": "2097",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
+    "answer": "Fritz Pfleumer",
     "badAnswers": [
-      "Thémis",
-      "Héra",
-      "Athéna"
+      "Valdemar Poulsen",
+      "Oberlin Smith",
+      "Thomas Edison"
     ],
-    "category": "Mythologie",
-    "difficulty": "difficile",
-    "description": "Mnémosyne, déesse grecque de la mémoire, est la mère des neuf Muses, associées aux arts et à la connaissance."
-  },
-  {
-    "id": "1301",
-    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
-    "answer": "Némésis",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
+    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
   },
   {
-    "id": "690",
-    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
+    "id": "781",
+    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
     "answer": "Johannes Kepler",
     "badAnswers": [
       "Tycho Brahe",
@@ -101,32 +114,19 @@
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
   },
   {
-    "id": "608",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
-    "answer": "Boba Fett",
+    "id": "1007",
+    "question": "Quel est la capitale de la Mongolie ?",
+    "answer": "Oulan-Bator",
     "badAnswers": [
-      "Jango Fett",
-      "Bossk",
-      "Dengar"
+      "Astana",
+      "Bichkek",
+      "Tachkent"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
-  },
-  {
-    "id": "1329",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Y ?",
-    "answer": "Yttrium",
-    "badAnswers": [
-      "Ytterbium",
-      "Zirconium",
-      "Xenon"
-    ],
-    "category": "Science",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'yttrium, symbolisé par Y, est un métal rare utilisé dans les lasers, les supraconducteurs et les écrans LED."
+    "description": "Oulan-Bator est la capitale de la Mongolie, une ville qui combine modernité et traditions nomades, située dans une vallée entourée de montagnes."
   }
 ]
