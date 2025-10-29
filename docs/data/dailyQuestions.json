@@ -1,59 +1,59 @@
 [
   {
-    "id": "449",
-    "question": "Quel est la capitale de l’Allemagne ?",
-    "answer": "Berlin",
+    "id": "930",
+    "question": "Quel est le nom du premier président de la République française ?",
+    "answer": "Louis-Napoléon Bonaparte",
     "badAnswers": [
-      "Munich",
-      "Hambourg",
-      "Francfort"
+      "Adolphe Thiers",
+      "Jules Grevy",
+      "Patrice de Mac Mahon"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Berlin est la capitale de l’Allemagne, un centre culturel et politique connu pour la porte de Brandebourg et le Reichstag. Munich, Hambourg et Francfort sont d’autres grandes villes allemandes, mais pas la capitale."
-  },
-  {
-    "id": "1102",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
-    "answer": "Spotlight",
-    "badAnswers": [
-      "The Revenant",
-      "The Big Short",
-      "Mad Max: Fury Road"
-    ],
-    "category": "Cinéma",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
+    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
   },
   {
-    "id": "934",
-    "question": "Quel est le nom collectif pour un groupe de dauphins ?",
-    "answer": "Pod",
+    "id": "1039",
+    "question": "Quel est le nom de l'auteur de '1984' ?",
+    "answer": "George Orwell",
     "badAnswers": [
-      "Baleine",
-      "Banc",
-      "Horde"
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
     ],
-    "category": "Animaux",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Un groupe de dauphins est appelé un 'pod', un terme qui reflète leur nature sociale et leur comportement grégaire. Les autres termes, comme 'banc' ou 'horde', sont utilisés pour d'autres espèces marines."
+    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
   },
   {
-    "id": "109",
-    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
-    "answer": "Itachi",
+    "id": "106",
+    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
+    "answer": "Raymond Domenech",
     "badAnswers": [
-      "Obito",
-      "Madara",
-      "Kakashi"
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Michel Hidalgo"
     ],
-    "category": "Anime et Manga",
+    "category": "Sports",
     "difficulty": "facile",
-    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
+    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
   },
   {
-    "id": "1990",
-    "question": "Quel est le nom du groupe qui a chanté 'All You Need Is Love' ?",
+    "id": "404",
+    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
+    "answer": "James Watson",
+    "badAnswers": [
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Linus Pauling"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
+  },
+  {
+    "id": "2034",
+    "question": "Quel est le nom du groupe qui a chanté 'Think for Yourself' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -61,72 +61,72 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'All You Need Is Love', sorti en 1967 par The Beatles, est une chanson pacifiste tirée de l'album Magical Mystery Tour."
+    "difficulty": "normal",
+    "description": "'Think for Yourself', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "869",
-    "question": "Quel est le plus grand oiseau du monde ?",
-    "answer": "Autruche",
+    "id": "671",
+    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
+    "answer": "Aconcagua",
     "badAnswers": [
-      "Condor des Andes",
-      "Albatros hurleur",
-      "Grue royale"
+      "Huascarán",
+      "Chimborazo",
+      "Cerro Torre"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
   },
   {
-    "id": "675",
-    "question": "Dans Mass Effect 3, quel est le nom de l'ennemi principal ?",
-    "answer": "Moissonneurs",
+    "id": "120",
+    "question": "Quelle est cette danse d’origine espagnole ?",
+    "answer": "Flamenco",
     "badAnswers": [
-      "Geth",
-      "Cerberus",
-      "Collecteurs"
+      "Mambo",
+      "Jive",
+      "Valse"
+    ],
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "Le flamenco est une danse traditionnelle espagnole, originaire d'Andalousie. Le mambo est cubain, le jive est américain et la valse est européenne."
+  },
+  {
+    "id": "911",
+    "question": "Quel artiste a peint La Joconde ?",
+    "answer": "Léonard de Vinci",
+    "badAnswers": [
+      "Michel-Ange",
+      "Raphaël",
+      "Sandro Botticelli"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
+  },
+  {
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "345",
+    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
+    "answer": "Rapture",
+    "badAnswers": [
+      "Columbia",
+      "Atlantis",
+      "Arcadia"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Les Moissonneurs sont les ennemis principaux de Mass Effect 3, des machines cosmiques cherchant à détruire la vie organique. Les Geth, Cerberus et les Collecteurs sont d'autres antagonistes du jeu."
-  },
-  {
-    "id": "2124",
-    "question": "Quel est le nom de l'auteur de 'L'Espoir' ?",
-    "answer": "André Malraux",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Malraux a écrit 'L'Espoir' (1937), un roman sur la guerre civile espagnole et l'engagement politique."
-  },
-  {
-    "id": "1410",
-    "question": "Quel est la capitale du Turkménistan ?",
-    "answer": "Achgabat",
-    "badAnswers": [
-      "Türkmenbaşy",
-      "Mary",
-      "Daşoguz"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Achgabat, capitale du Turkménistan, est connue pour ses bâtiments en marbre blanc et ses monuments grandioses."
-  },
-  {
-    "id": "1163",
-    "question": "Quelle est la capitale constitutionnelle de la Bolivie ?",
-    "answer": "Sucre",
-    "badAnswers": [
-      "La Paz",
-      "Santa Cruz",
-      "Cochabamba"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Sucre est la capitale constitutionnelle de la Bolivie, où se trouve la Cour suprême, et elle est connue pour son architecture coloniale."
+    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
   }
 ]
