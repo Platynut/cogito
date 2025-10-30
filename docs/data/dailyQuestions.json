@@ -1,132 +1,132 @@
 [
   {
-    "id": "930",
-    "question": "Quel est le nom du premier président de la République française ?",
-    "answer": "Louis-Napoléon Bonaparte",
+    "id": "1010",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2014 ?",
+    "answer": "Allemagne",
     "badAnswers": [
-      "Adolphe Thiers",
-      "Jules Grevy",
-      "Patrice de Mac Mahon"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
-  },
-  {
-    "id": "1039",
-    "question": "Quel est le nom de l'auteur de '1984' ?",
-    "answer": "George Orwell",
-    "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
-  },
-  {
-    "id": "106",
-    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
-    "answer": "Raymond Domenech",
-    "badAnswers": [
-      "Didier Deschamps",
-      "Aimé Jacquet",
-      "Michel Hidalgo"
+      "Brésil",
+      "Argentine",
+      "Espagne"
     ],
     "category": "Sports",
-    "difficulty": "facile",
-    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
-  },
-  {
-    "id": "404",
-    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
-    "answer": "James Watson",
-    "badAnswers": [
-      "Rosalind Franklin",
-      "Gregor Mendel",
-      "Linus Pauling"
-    ],
-    "category": "Science",
     "difficulty": "normal",
-    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
+    "description": "L'Allemagne a remporté la Coupe du Monde 2014 en battant l'Argentine 1-0 en finale, grâce à un but de Mario Götze en prolongations."
   },
   {
-    "id": "2034",
-    "question": "Quel est le nom du groupe qui a chanté 'Think for Yourself' ?",
-    "answer": "The Beatles",
+    "id": "58",
+    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "answer": "Jean-Pierre Jeunet",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Luc Besson",
+      "François Ozon",
+      "Michel Gondry"
     ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "'Think for Yourself', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
   },
   {
-    "id": "671",
-    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
-    "answer": "Aconcagua",
+    "id": "1384",
+    "question": "Quel est la capitale des Maldives ?",
+    "answer": "Malé",
     "badAnswers": [
-      "Huascarán",
-      "Chimborazo",
-      "Cerro Torre"
+      "Gan",
+      "Addu",
+      "Fuvahmulah"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
+    "description": "Malé, capitale des Maldives, est une petite île densément peuplée, centre administratif et économique de l'archipel."
   },
   {
-    "id": "120",
-    "question": "Quelle est cette danse d’origine espagnole ?",
-    "answer": "Flamenco",
+    "id": "269",
+    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
+    "answer": "Singes",
     "badAnswers": [
-      "Mambo",
-      "Jive",
-      "Valse"
-    ],
-    "category": "Danse",
-    "difficulty": "normal",
-    "description": "Le flamenco est une danse traditionnelle espagnole, originaire d'Andalousie. Le mambo est cubain, le jive est américain et la valse est européenne."
-  },
-  {
-    "id": "911",
-    "question": "Quel artiste a peint La Joconde ?",
-    "answer": "Léonard de Vinci",
-    "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Sandro Botticelli"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
-  },
-  {
-    "id": "345",
-    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
-    "answer": "Rapture",
-    "badAnswers": [
-      "Columbia",
-      "Atlantis",
-      "Arcadia"
+      "Chats",
+      "Pigeons",
+      "Lézards"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
+  },
+  {
+    "id": "912",
+    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
+    "answer": "Zilean",
+    "badAnswers": [
+      "Ekko",
+      "Chrono",
+      "Lux"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
+  },
+  {
+    "id": "1309",
+    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
+    "answer": "Alessandro Volta",
+    "badAnswers": [
+      "Michael Faraday",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
+  },
+  {
+    "id": "260",
+    "question": "Quel est le nom du personnage principal de la série 'Breaking Bad' ?",
+    "answer": "Walter White",
+    "badAnswers": [
+      "Jesse Pinkman",
+      "Saul Goodman",
+      "Gus Fring"
+    ],
+    "category": "Séries",
     "difficulty": "facile",
-    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
+    "description": "'Breaking Bad' suit Walter White, un professeur de chimie devenu fabricant de méthamphétamine après un diagnostic de cancer. Jesse Pinkman est son ancien élève associé, Saul Goodman leur avocat."
+  },
+  {
+    "id": "1006",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
+    "answer": "BioShock",
+    "badAnswers": [
+      "Half-Life",
+      "Portal",
+      "Dead Space"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
+  },
+  {
+    "id": "2013",
+    "question": "Quel est le nom de l'auteur de 'Le Ravissement de Lol V. Stein' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Ravissement de Lol V. Stein' (1964), un roman sur l'amour et la perte d'identité."
+  },
+  {
+    "id": "783",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière rousse de Velen ?",
+    "answer": "Keira Metz",
+    "badAnswers": [
+      "Yennefer",
+      "Triss",
+      "Ciri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Keira Metz est la sorcière rousse de Velen dans The Witcher 3: Wild Hunt, alliée de Geralt. Yennefer et Triss sont d'autres sorcières, et Ciri est sa fille adoptive."
   }
 ]
