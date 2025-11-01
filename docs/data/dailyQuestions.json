@@ -1,132 +1,132 @@
 [
   {
-    "id": "202",
-    "question": "Que déposent les Norvégiens sous le sapin, la veille de Noël ?",
-    "answer": "Un bol d'avoine",
+    "id": "1460",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1964 ?",
+    "answer": "My Fair Lady",
     "badAnswers": [
-      "Des carottes",
-      "Des pièces de monnaie",
-      "Du lait"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "En Norvège, on dépose un bol d'avoine pour le 'nisse' (lutin protecteur) lors de la nuit de Noël. Aux Pays-Bas, ce sont des carottes pour les rennes du Père Noël."
-  },
-  {
-    "id": "1585",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Marcus Fenix ?",
-    "answer": "Gears of War",
-    "badAnswers": [
-      "Halo",
-      "Destiny",
-      "Call of Duty"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Marcus Fenix, soldat robuste, est le protagoniste de la série Gears of War, combattant des hordes de Locustes."
-  },
-  {
-    "id": "397",
-    "question": "Quel est le plus grand poisson du monde ?",
-    "answer": "Requin-baleine",
-    "badAnswers": [
-      "Requin blanc",
-      "Baleine bleue",
-      "Manta"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
-  },
-  {
-    "id": "1862",
-    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
-  },
-  {
-    "id": "1456",
-    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
-    "answer": "Oasis",
-    "badAnswers": [
-      "Blur",
-      "The Verve",
-      "Radiohead"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
-  },
-  {
-    "id": "1806",
-    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
-    "answer": "The Rolling Stones",
-    "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
-  },
-  {
-    "id": "1317",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
-    "answer": "The Last Emperor",
-    "badAnswers": [
-      "Moonstruck",
-      "Fatal Attraction",
-      "Broadcast News"
+      "Mary Poppins",
+      "Dr. Strangelove",
+      "Becket"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
-  },
-  {
-    "id": "2082",
-    "question": "Quel est le nom de l'auteur de 'L'Herbe rouge' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Herbe rouge' (1950), un roman surréaliste explorant les thèmes de la mémoire et de la mort."
-  },
-  {
-    "id": "457",
-    "question": "Quel est le nom de l'auteur de L'Odyssée ?",
-    "answer": "Homère",
-    "badAnswers": [
-      "Virgile",
-      "Hésiode",
-      "Sophocle"
-    ],
-    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Homère est l'auteur présumé de L'Odyssée, un poème épique grec du VIIIe siècle av. J.-C., racontant les aventures d'Ulysse. C'est une œuvre fondatrice de la littérature occidentale. Virgile a écrit L'Énéide, Hésiode La Théogonie, et Sophocle des tragédies comme Œdipe roi."
+    "description": "My Fair Lady, réalisé par George Cukor, a remporté l'Oscar du meilleur film en 1964, une comédie musicale sur la transformation d'Eliza Doolittle."
   },
   {
-    "id": "1222",
-    "question": "Quel est la capitale du Liban ?",
-    "answer": "Beyrouth",
+    "id": "544",
+    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
+    "answer": "Le vaisseau",
     "badAnswers": [
-      "Tripoli",
-      "Sidon",
-      "Tyr"
+      "Radiance",
+      "Grimm",
+      "Hornet"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
+  },
+  {
+    "id": "1593",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rg ?",
+    "answer": "Roentgenium",
+    "badAnswers": [
+      "Radon",
+      "Rhodium",
+      "Rubidium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le roentgenium, symbolisé par Rg, est un élément radioactif synthétique, nommé d'après Wilhelm Röntgen, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "1185",
+    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
+    "answer": "Samuel Morse",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
+  },
+  {
+    "id": "977",
+    "question": "Quel est le nom collectif pour un groupe de rats ?",
+    "answer": "Colonie",
+    "badAnswers": [
+      "Meute",
+      "Nuée",
+      "Essaim"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
+  },
+  {
+    "id": "106",
+    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
+    "answer": "Raymond Domenech",
+    "badAnswers": [
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Michel Hidalgo"
+    ],
+    "category": "Sports",
     "difficulty": "facile",
-    "description": "Beyrouth, capitale du Liban, est une ville méditerranéenne connue pour sa vie culturelle, son histoire ancienne et sa résilience."
+    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
+  },
+  {
+    "id": "1364",
+    "question": "Quel est le nom de l'inventeur du premier disque vinyle ?",
+    "answer": "Emile Berliner",
+    "badAnswers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, remplaçant les cylindres d'Edison et révolutionnant l'enregistrement sonore."
+  },
+  {
+    "id": "213",
+    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
+    "answer": "Le flamboyant",
+    "badAnswers": [
+      "Le tamarin",
+      "Le frangipanier",
+      "Le vacoa"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
+  },
+  {
+    "id": "153",
+    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
+    "answer": "Stamppot",
+    "badAnswers": [
+      "Lefse",
+      "Potaye",
+      "Frico"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
+  },
+  {
+    "id": "1321",
+    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
+    "answer": "Ernst Ruska",
+    "badAnswers": [
+      "Hans Jansen",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
   }
 ]
