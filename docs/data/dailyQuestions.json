@@ -1,132 +1,132 @@
 [
   {
-    "id": "1460",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1964 ?",
-    "answer": "My Fair Lady",
+    "id": "723",
+    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
+    "answer": "Zamazenta",
     "badAnswers": [
-      "Mary Poppins",
-      "Dr. Strangelove",
-      "Becket"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "My Fair Lady, réalisé par George Cukor, a remporté l'Oscar du meilleur film en 1964, une comédie musicale sur la transformation d'Eliza Doolittle."
-  },
-  {
-    "id": "544",
-    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
-    "answer": "Le vaisseau",
-    "badAnswers": [
-      "Radiance",
-      "Grimm",
-      "Hornet"
+      "Zacian",
+      "Éthernatos",
+      "Dracaufeu"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
+    "difficulty": "facile",
+    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
   },
   {
-    "id": "1593",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rg ?",
-    "answer": "Roentgenium",
+    "id": "1317",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
+    "answer": "The Last Emperor",
     "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Rubidium"
+      "Moonstruck",
+      "Fatal Attraction",
+      "Broadcast News"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+  },
+  {
+    "id": "114",
+    "question": "Quel est le pourcentage d’eau dans le corps humain pour un adulte ?",
+    "answer": "65%",
+    "badAnswers": [
+      "35%",
+      "50%",
+      "80%"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le roentgenium, symbolisé par Rg, est un élément radioactif synthétique, nommé d'après Wilhelm Röntgen, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "1185",
-    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
-    "answer": "Samuel Morse",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
+    "description": "Le corps humain adulte est composé d'environ 65% d'eau. Ce pourcentage varie selon l'âge, le sexe et la morphologie, mais il est bien supérieur à 35% ou 50%."
   },
   {
-    "id": "977",
-    "question": "Quel est le nom collectif pour un groupe de rats ?",
-    "answer": "Colonie",
+    "id": "1887",
+    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
+    "answer": "Frank McNamara",
     "badAnswers": [
-      "Meute",
-      "Nuée",
-      "Essaim"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Un groupe de rats est généralement appelé une 'colonie'. Ce terme est aussi utilisé en zoologie."
-  },
-  {
-    "id": "106",
-    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
-    "answer": "Raymond Domenech",
-    "badAnswers": [
-      "Didier Deschamps",
-      "Aimé Jacquet",
-      "Michel Hidalgo"
-    ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
-  },
-  {
-    "id": "1364",
-    "question": "Quel est le nom de l'inventeur du premier disque vinyle ?",
-    "answer": "Emile Berliner",
-    "badAnswers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Emile Berliner a inventé le disque vinyle en 1887, remplaçant les cylindres d'Edison et révolutionnant l'enregistrement sonore."
-  },
-  {
-    "id": "213",
-    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
-    "answer": "Le flamboyant",
-    "badAnswers": [
-      "Le tamarin",
-      "Le frangipanier",
-      "Le vacoa"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
-  },
-  {
-    "id": "153",
-    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
-    "answer": "Stamppot",
-    "badAnswers": [
-      "Lefse",
-      "Potaye",
-      "Frico"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
-  },
-  {
-    "id": "1321",
-    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
-    "answer": "Ernst Ruska",
-    "badAnswers": [
-      "Hans Jansen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
+      "Ralph Schneider",
+      "Alfred Bloomingdale",
+      "John Biggins"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
+    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
+  },
+  {
+    "id": "1394",
+    "question": "Quel est la capitale du Laos ?",
+    "answer": "Vientiane",
+    "badAnswers": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "1",
+    "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Australie",
+      "Nouvelle-Zélande",
+      "Angleterre"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "Les Springboks représentent l'Afrique du Sud depuis 1906. Leur nom vient de l'antilope springbok, animal emblématique du pays."
+  },
+  {
+    "id": "1522",
+    "question": "Quel est le nom de l'auteur de 'L'Éducation sentimentale' ?",
+    "answer": "Gustave Flaubert",
+    "badAnswers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Stendhal"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Gustave Flaubert a écrit 'L'Éducation sentimentale' (1869), un roman réaliste sur les désillusions amoureuses et sociales d'un jeune homme."
+  },
+  {
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Radiohead",
+      "Muse",
+      "Keane"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
+  },
+  {
+    "id": "2001",
+    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
   }
 ]
