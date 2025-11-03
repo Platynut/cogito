@@ -1,132 +1,132 @@
 [
   {
-    "id": "723",
-    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
-    "answer": "Zamazenta",
+    "id": "400",
+    "question": "Quel est le nom du tableau de Pablo Picasso représentant la guerre civile espagnole ?",
+    "answer": "Guernica",
     "badAnswers": [
-      "Zacian",
-      "Éthernatos",
-      "Dracaufeu"
+      "Les Demoiselles d’Avignon",
+      "Le Vieil Homme à la guitare",
+      "La Femme qui pleure"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Guernica (1937) de Pablo Picasso est une œuvre cubiste dénonçant les horreurs du bombardement de Guernica pendant la guerre civile espagnole. C’est un symbole anti-guerre. Les autres tableaux sont également de Picasso, mais ils abordent des thèmes différents."
+  },
+  {
+    "id": "1478",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
+    "answer": "Actinium",
+    "badAnswers": [
+      "Aluminium",
+      "Argon",
+      "Astatine"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
+  },
+  {
+    "id": "411",
+    "question": "Dans Pokémon Rouge et Bleu, quel est le Pokémon de départ de type Feu ?",
+    "answer": "Salamèche",
+    "badAnswers": [
+      "Bulbizarre",
+      "Carapuce",
+      "Pikachu"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
+    "description": "Salamèche est le Pokémon de départ de type Feu dans Pokémon Rouge et Bleu. Évoluant en Reptincel puis Dracaufeu, il est un choix populaire. Bulbizarre est de type Plante, Carapuce de type Eau, et Pikachu n’est pas un Pokémon de départ."
   },
   {
-    "id": "1317",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
-    "answer": "The Last Emperor",
+    "id": "927",
+    "question": "Qui a créé la série animée RWBY ?",
+    "answer": "Monty Oum",
     "badAnswers": [
-      "Moonstruck",
-      "Fatal Attraction",
-      "Broadcast News"
+      "Miles Luna",
+      "Kerry Shawcross",
+      "Shane Newville"
     ],
-    "category": "Cinéma",
+    "category": "Dessins animés",
     "difficulty": "normal",
-    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
   },
   {
-    "id": "114",
-    "question": "Quel est le pourcentage d’eau dans le corps humain pour un adulte ?",
-    "answer": "65%",
+    "id": "1065",
+    "question": "Quel est la capitale de la France ?",
+    "answer": "Paris",
     "badAnswers": [
-      "35%",
-      "50%",
-      "80%"
+      "Lyon",
+      "Marseille",
+      "Nice"
     ],
-    "category": "Science",
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Paris, surnommée la 'Ville Lumière', est la capitale de la France, célèbre pour la Tour Eiffel, le Louvre et son riche patrimoine culturel."
+  },
+  {
+    "id": "703",
+    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+    "answer": "Iso-onna",
+    "badAnswers": [
+      "Yuki-onna",
+      "Jorōgumo",
+      "Onryō"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le corps humain adulte est composé d'environ 65% d'eau. Ce pourcentage varie selon l'âge, le sexe et la morphologie, mais il est bien supérieur à 35% ou 50%."
+    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
   },
   {
-    "id": "1887",
-    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
-    "answer": "Frank McNamara",
+    "id": "455",
+    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
+    "answer": "Galar",
     "badAnswers": [
-      "Ralph Schneider",
-      "Alfred Bloomingdale",
-      "John Biggins"
+      "Sinnoh",
+      "Hoenn",
+      "Alola"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
   },
   {
-    "id": "1394",
-    "question": "Quel est la capitale du Laos ?",
-    "answer": "Vientiane",
+    "id": "853",
+    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
+    "answer": "Neo Tilted",
     "badAnswers": [
-      "Luang Prabang",
-      "Pakse",
-      "Savannakhet"
+      "Mega Mall",
+      "Paradise Palms",
+      "Junk Junction"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
+  },
+  {
+    "id": "917",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
+    "answer": "F. Scott Fitzgerald",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
+  },
+  {
+    "id": "616",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
+    "answer": "Lac Titicaca",
+    "badAnswers": [
+      "Lac Maracaibo",
+      "Lac de Patzcuaro",
+      "Lac de Nicaragua"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
-  },
-  {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
-    "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
-  },
-  {
-    "id": "1",
-    "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
-    "answer": "Afrique du Sud",
-    "badAnswers": [
-      "Australie",
-      "Nouvelle-Zélande",
-      "Angleterre"
-    ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "Les Springboks représentent l'Afrique du Sud depuis 1906. Leur nom vient de l'antilope springbok, animal emblématique du pays."
-  },
-  {
-    "id": "1522",
-    "question": "Quel est le nom de l'auteur de 'L'Éducation sentimentale' ?",
-    "answer": "Gustave Flaubert",
-    "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Stendhal"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Gustave Flaubert a écrit 'L'Éducation sentimentale' (1869), un roman réaliste sur les désillusions amoureuses et sociales d'un jeune homme."
-  },
-  {
-    "id": "1677",
-    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
-    "answer": "Coldplay",
-    "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
-  },
-  {
-    "id": "2001",
-    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
+    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
   }
 ]
