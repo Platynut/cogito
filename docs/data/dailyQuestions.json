@@ -1,132 +1,132 @@
 [
   {
-    "id": "400",
-    "question": "Quel est le nom du tableau de Pablo Picasso représentant la guerre civile espagnole ?",
-    "answer": "Guernica",
+    "id": "1424",
+    "question": "Quel est le nom de la déesse grecque de la paix ?",
+    "answer": "Irène",
     "badAnswers": [
-      "Les Demoiselles d’Avignon",
-      "Le Vieil Homme à la guitare",
-      "La Femme qui pleure"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Guernica (1937) de Pablo Picasso est une œuvre cubiste dénonçant les horreurs du bombardement de Guernica pendant la guerre civile espagnole. C’est un symbole anti-guerre. Les autres tableaux sont également de Picasso, mais ils abordent des thèmes différents."
-  },
-  {
-    "id": "1478",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
-    "answer": "Actinium",
-    "badAnswers": [
-      "Aluminium",
-      "Argon",
-      "Astatine"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
-  },
-  {
-    "id": "411",
-    "question": "Dans Pokémon Rouge et Bleu, quel est le Pokémon de départ de type Feu ?",
-    "answer": "Salamèche",
-    "badAnswers": [
-      "Bulbizarre",
-      "Carapuce",
-      "Pikachu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Salamèche est le Pokémon de départ de type Feu dans Pokémon Rouge et Bleu. Évoluant en Reptincel puis Dracaufeu, il est un choix populaire. Bulbizarre est de type Plante, Carapuce de type Eau, et Pikachu n’est pas un Pokémon de départ."
-  },
-  {
-    "id": "927",
-    "question": "Qui a créé la série animée RWBY ?",
-    "answer": "Monty Oum",
-    "badAnswers": [
-      "Miles Luna",
-      "Kerry Shawcross",
-      "Shane Newville"
-    ],
-    "category": "Dessins animés",
-    "difficulty": "normal",
-    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
-  },
-  {
-    "id": "1065",
-    "question": "Quel est la capitale de la France ?",
-    "answer": "Paris",
-    "badAnswers": [
-      "Lyon",
-      "Marseille",
-      "Nice"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Paris, surnommée la 'Ville Lumière', est la capitale de la France, célèbre pour la Tour Eiffel, le Louvre et son riche patrimoine culturel."
-  },
-  {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
-    "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
   },
   {
-    "id": "455",
-    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
-    "answer": "Galar",
+    "id": "1360",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
+    "answer": "Néodyme",
     "badAnswers": [
-      "Sinnoh",
-      "Hoenn",
-      "Alola"
+      "Nickel",
+      "Niobium",
+      "Nobelium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
   },
   {
-    "id": "853",
-    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
-    "answer": "Neo Tilted",
+    "id": "1734",
+    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
+    "answer": "Zeus",
     "badAnswers": [
-      "Mega Mall",
-      "Paradise Palms",
-      "Junk Junction"
+      "Apollon",
+      "Hermès",
+      "Dionysos"
     ],
-    "category": "Jeux vidéo",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
+    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
   },
   {
-    "id": "917",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
-    "answer": "F. Scott Fitzgerald",
+    "id": "337",
+    "question": "Quel est le nom de l'inventeur du téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Ernest Hemingway",
-      "John Steinbeck",
-      "William Faulkner"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
     ],
-    "category": "Littérature",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
+    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
   },
   {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
+    "id": "1317",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
+    "answer": "The Last Emperor",
     "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
+      "Moonstruck",
+      "Fatal Attraction",
+      "Broadcast News"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+  },
+  {
+    "id": "1332",
+    "question": "Quel est la capitale de Cuba ?",
+    "answer": "La Havane",
+    "badAnswers": [
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
+    "difficulty": "facile",
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+  },
+  {
+    "id": "198",
+    "question": "Combien de temps dure le mandat du président des États-Unis ?",
+    "answer": "4 ans",
+    "badAnswers": [
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
+  },
+  {
+    "id": "1685",
+    "question": "Quel est le nom de l'inventeur de la première ampoule électrique commercialement viable ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Thomas Edison a perfectionné l'ampoule à incandescence en 1879, rendant l'éclairage électrique accessible au grand public."
+  },
+  {
+    "id": "1487",
+    "question": "Quel est le nom de l'inventeur du premier anesthésique par inhalation ?",
+    "answer": "Crawford Long",
+    "badAnswers": [
+      "William Morton",
+      "James Simpson",
+      "Humphry Davy"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Crawford Long a utilisé l'éther comme anesthésique par inhalation en 1842, révolutionnant la chirurgie en réduisant la douleur."
+  },
+  {
+    "id": "2096",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
+    "answer": "Michel Mirowski",
+    "badAnswers": [
+      "Paul Zoll",
+      "William Kouwenhoven",
+      "Claude Beck"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
   }
 ]
