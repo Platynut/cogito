@@ -1,132 +1,132 @@
 [
   {
-    "id": "1424",
-    "question": "Quel est le nom de la déesse grecque de la paix ?",
-    "answer": "Irène",
+    "id": "891",
+    "question": "Quel scientifique a découvert la loi de la force électromotrice ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
-  },
-  {
-    "id": "1360",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
-    "answer": "Néodyme",
-    "badAnswers": [
-      "Nickel",
-      "Niobium",
-      "Nobelium"
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "James Clerk Maxwell"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert la loi de l'induction électromagnétique (force électromotrice) au XIXe siècle, base des générateurs. Ampère, Ohm et Maxwell ont contribué à d'autres lois électriques."
   },
   {
-    "id": "1734",
-    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
-    "answer": "Zeus",
+    "id": "605",
+    "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
+    "answer": "Tenjin",
     "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
+      "Hachiman",
+      "Jizo",
+      "Shitenno"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
+    "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
   },
   {
-    "id": "337",
-    "question": "Quel est le nom de l'inventeur du téléphone ?",
-    "answer": "Alexander Graham Bell",
+    "id": "2109",
+    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
+    "answer": "David Atlas",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
-  },
-  {
-    "id": "1317",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
-    "answer": "The Last Emperor",
-    "badAnswers": [
-      "Moonstruck",
-      "Fatal Attraction",
-      "Broadcast News"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
-  },
-  {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
-    "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
-  },
-  {
-    "id": "198",
-    "question": "Combien de temps dure le mandat du président des États-Unis ?",
-    "answer": "4 ans",
-    "badAnswers": [
-      "5 ans",
-      "6 ans",
-      "7 ans"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
-  },
-  {
-    "id": "1685",
-    "question": "Quel est le nom de l'inventeur de la première ampoule électrique commercialement viable ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Robert Watson-Watt",
+      "Christian Hülsmeyer",
+      "Heinrich Hertz"
     ],
     "category": "Technologie",
+    "difficulty": "normal",
+    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
+  },
+  {
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+  },
+  {
+    "id": "83",
+    "question": "Quel jeu vidéo permet de construire avec des blocs ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Terraria",
+      "Roblox",
+      "Fortnite Creative"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Thomas Edison a perfectionné l'ampoule à incandescence en 1879, rendant l'éclairage électrique accessible au grand public."
+    "description": "Créé par Markus Persson en 2009, Minecraft est le jeu le plus vendu de l'histoire avec plus de 238 millions d'exemplaires en 2023."
   },
   {
-    "id": "1487",
-    "question": "Quel est le nom de l'inventeur du premier anesthésique par inhalation ?",
-    "answer": "Crawford Long",
+    "id": "1365",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bayonetta ?",
+    "answer": "Bayonetta",
     "badAnswers": [
-      "William Morton",
-      "James Simpson",
-      "Humphry Davy"
+      "Devil May Cry",
+      "God of War",
+      "Dante's Inferno"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Crawford Long a utilisé l'éther comme anesthésique par inhalation en 1842, révolutionnant la chirurgie en réduisant la douleur."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Bayonetta, sorcière charismatique, est l'héroïne de la série Bayonetta, connue pour ses combats spectaculaires et son style unique."
   },
   {
-    "id": "2096",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
-    "answer": "Michel Mirowski",
+    "id": "2076",
+    "question": "Quel est le nom de l'auteur de 'L'Homme à l'envers' ?",
+    "answer": "Fred Vargas",
     "badAnswers": [
-      "Paul Zoll",
-      "William Kouwenhoven",
-      "Claude Beck"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Fred Vargas a écrit 'L'Homme à l'envers' (1999), un roman policier mettant en scène le commissaire Adamsberg."
+  },
+  {
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
+    "badAnswers": [
+      "Navi",
+      "Tatl",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "1100",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Smash Bros.",
+      "Animal Crossing",
+      "Splatoon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+  },
+  {
+    "id": "2117",
+    "question": "Quel est le nom de l'inventeur du premier système de fibre optique ?",
+    "answer": "Charles Kao",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Robert Metcalfe"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Charles Kao a développé la fibre optique dans les années 1960, révolutionnant les télécommunications."
   }
 ]
