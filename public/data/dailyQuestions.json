@@ -1,132 +1,132 @@
 [
   {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
     "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
-  },
-  {
-    "id": "1313",
-    "question": "Quel est le nom de l'auteur de 'Bel-Ami' ?",
-    "answer": "Guy de Maupassant",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Victor Hugo"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Bel-Ami' (1885), un roman réaliste sur l'ambition sociale d'un jeune homme dans le Paris du XIXe siècle."
-  },
-  {
-    "id": "902",
-    "question": "Quel est le nom de l'auteur de 'Lolita' ?",
-    "answer": "Vladimir Nabokov",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Joseph Conrad",
-      "James Joyce"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Vladimir Nabokov a écrit Lolita (1955), un roman controversé sur l'obsession. Dostoïevski, Conrad et Joyce sont d'autres écrivains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1325",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cs ?",
-    "answer": "Césium",
-    "badAnswers": [
-      "Calcium",
-      "Chrome",
-      "Cobalt"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le césium, symbolisé par Cs, est un métal alcalin utilisé dans les horloges atomiques pour sa précision dans la mesure du temps."
-  },
-  {
-    "id": "1477",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
-    "answer": "Ben-Hur",
-    "badAnswers": [
-      "The Diary of Anne Frank",
-      "Anatomy of a Murder",
-      "Room at the Top"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
-  },
-  {
-    "id": "1324",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1986 ?",
-    "answer": "Platoon",
-    "badAnswers": [
-      "Hannah and Her Sisters",
-      "A Room with a View",
-      "The Mission"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Platoon, réalisé par Oliver Stone, a remporté l'Oscar du meilleur film en 1986, un drame réaliste sur la guerre du Vietnam."
-  },
-  {
-    "id": "1824",
-    "question": "Quel est le nom du groupe qui a chanté 'Immigrant Song' ?",
-    "answer": "Led Zeppelin",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Immigrant Song', sorti en 1970 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin III."
-  },
-  {
-    "id": "1963",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Georg Haas",
-      "John Abel",
-      "Nils Alwall"
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
     ],
     "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
   },
   {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
+    "id": "1594",
+    "question": "Quel est la capitale du Djibouti ?",
+    "answer": "Djibouti",
     "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "Ali Sabieh",
+      "Tadjourah",
+      "Obock"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
   },
   {
-    "id": "209",
-    "question": "Qui a réalisé le film Titanic ?",
-    "answer": "James Cameron",
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
     "badAnswers": [
-      "Steven Spielberg",
-      "David Lynch",
-      "Christopher Nolan"
+      "Iode",
+      "Indium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
+  },
+  {
+    "id": "1462",
+    "question": "Quel est le nom de l'inventeur du premier avion motorisé ?",
+    "answer": "Frères Wright",
+    "badAnswers": [
+      "Clément Ader",
+      "Alberto Santos-Dumont",
+      "Otto Lilienthal"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Les frères Wright, Orville et Wilbur, ont effectué le premier vol motorisé contrôlé en 1903 avec leur avion, le Flyer, marquant l'ère de l'aviation."
+  },
+  {
+    "id": "326",
+    "question": "Quel peintre a créé La Nuit étoilée ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Edvard Munch"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+  },
+  {
+    "id": "711",
+    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
+    "answer": "Yangtsé",
+    "badAnswers": [
+      "Mékong",
+      "Gange",
+      "Amour"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
+  },
+  {
+    "id": "704",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
+    "answer": "Kashyyyk",
+    "badAnswers": [
+      "Tatooine",
+      "Endor",
+      "Hoth"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "James Cameron a dirigé 'Titanic' (1997), film le plus oscarisé (11 Oscars) avant 'Avatar'. Spielberg a fait 'Jurassic Park', Lynch 'Mulholland Drive', Nolan 'Inception'."
+    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
+  },
+  {
+    "id": "522",
+    "question": "Quel est la capitale de l'Italie ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Milan",
+      "Venise",
+      "Florence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Rome est la capitale de l'Italie, une ville historique connue pour ses monuments antiques comme le Colisée et le Vatican. Milan, Venise et Florence sont d'autres grandes villes italiennes, mais pas la capitale."
+  },
+  {
+    "id": "1256",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sb ?",
+    "answer": "Antimoine",
+    "badAnswers": [
+      "Arsenic",
+      "Sélénium",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'antimoine, symbolisé par Sb (du latin 'stibium'), est un métalloïde utilisé dans les alliages et les retardateurs de flamme."
+  },
+  {
+    "id": "1180",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pb ?",
+    "answer": "Plomb",
+    "badAnswers": [
+      "Palladium",
+      "Platine",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le plomb, symbolisé par Pb (du latin 'plumbum'), est un métal lourd utilisé historiquement dans les tuyaux et peintures, mais toxique à haute dose."
   }
 ]
