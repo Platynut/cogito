@@ -1,132 +1,132 @@
 [
   {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
+    "id": "370",
+    "question": "Quel est le nom du tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
+    "answer": "La Joconde",
     "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
-  },
-  {
-    "id": "1594",
-    "question": "Quel est la capitale du Djibouti ?",
-    "answer": "Djibouti",
-    "badAnswers": [
-      "Ali Sabieh",
-      "Tadjourah",
-      "Obock"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Djibouti, capitale de la République de Djibouti, est une ville portuaire stratégique sur la Corne de l'Afrique, connue pour son marché central."
-  },
-  {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
-    "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
-  },
-  {
-    "id": "1462",
-    "question": "Quel est le nom de l'inventeur du premier avion motorisé ?",
-    "answer": "Frères Wright",
-    "badAnswers": [
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Otto Lilienthal"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Les frères Wright, Orville et Wilbur, ont effectué le premier vol motorisé contrôlé en 1903 avec leur avion, le Flyer, marquant l'ère de l'aviation."
-  },
-  {
-    "id": "326",
-    "question": "Quel peintre a créé La Nuit étoilée ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Edvard Munch"
+      "La Dame à l’hermine",
+      "La Cène",
+      "L’Homme de Vitruve"
     ],
     "category": "Art",
     "difficulty": "facile",
-    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+    "description": "La Joconde, peinte par Léonard de Vinci au début du XVIe siècle, est célèbre pour le sourire énigmatique de Mona Lisa. Exposée au Louvre, c’est l’une des œuvres les plus reconnaissables au monde. Les autres œuvres mentionnées sont également de Vinci, mais ne correspondent pas à la description."
   },
   {
-    "id": "711",
-    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
-    "answer": "Yangtsé",
+    "id": "1812",
+    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
+    "answer": "John Bardeen",
     "badAnswers": [
-      "Mékong",
-      "Gange",
-      "Amour"
+      "William Shockley",
+      "Walter Brattain",
+      "Jack Kilby"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
   },
   {
-    "id": "704",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
-    "answer": "Kashyyyk",
+    "id": "1437",
+    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
+    "answer": "Metallica",
     "badAnswers": [
-      "Tatooine",
-      "Endor",
-      "Hoth"
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
+  },
+  {
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
+  },
+  {
+    "id": "612",
+    "question": "Quel est le plus grand oiseau de proie du monde ?",
+    "answer": "Condor des Andes",
+    "badAnswers": [
+      "Aigle harpie",
+      "Vautour royal",
+      "Aigle royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
+  },
+  {
+    "id": "82",
+    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
+  },
+  {
+    "id": "1767",
+    "question": "Quel est le nom du dieu grec de la peur ?",
+    "answer": "Phobos",
+    "badAnswers": [
+      "Éros",
+      "Thanatos",
+      "Hypnos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+  },
+  {
+    "id": "196",
+    "question": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
+    "answer": "Voie lactée",
+    "badAnswers": [
+      "Andromède",
+      "Sombrero",
+      "Whirlpool"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "La Terre se situe dans la Voie lactée, une galaxie spirale barrée. Andromède est une autre galaxie, tandis que Sombrero et Whirlpool sont des galaxies spirales distinctes."
+  },
+  {
+    "id": "1631",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
+    "answer": "Max Knoll",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
+  },
+  {
+    "id": "2135",
+    "question": "Quel est le nom de l'auteur de 'L'Homme à la caméra' ?",
+    "answer": "Dziga Vertov",
+    "badAnswers": [
+      "Sergei Eisenstein",
+      "Andrei Tarkovsky",
+      "Lev Kuleshov"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
-  },
-  {
-    "id": "522",
-    "question": "Quel est la capitale de l'Italie ?",
-    "answer": "Rome",
-    "badAnswers": [
-      "Milan",
-      "Venise",
-      "Florence"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Rome est la capitale de l'Italie, une ville historique connue pour ses monuments antiques comme le Colisée et le Vatican. Milan, Venise et Florence sont d'autres grandes villes italiennes, mais pas la capitale."
-  },
-  {
-    "id": "1256",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sb ?",
-    "answer": "Antimoine",
-    "badAnswers": [
-      "Arsenic",
-      "Sélénium",
-      "Bismuth"
-    ],
-    "category": "Science",
     "difficulty": "normal",
-    "description": "L'antimoine, symbolisé par Sb (du latin 'stibium'), est un métalloïde utilisé dans les alliages et les retardateurs de flamme."
-  },
-  {
-    "id": "1180",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pb ?",
-    "answer": "Plomb",
-    "badAnswers": [
-      "Palladium",
-      "Platine",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le plomb, symbolisé par Pb (du latin 'plumbum'), est un métal lourd utilisé historiquement dans les tuyaux et peintures, mais toxique à haute dose."
+    "description": "Dziga Vertov a réalisé 'L'Homme à la caméra' (1929), un film expérimental soviétique sur la vie urbaine."
   }
 ]
