@@ -1,132 +1,132 @@
 [
   {
-    "id": "370",
-    "question": "Quel est le nom du tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
-    "answer": "La Joconde",
+    "id": "1641",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
+    "answer": "Cimarron",
     "badAnswers": [
-      "La Dame à l’hermine",
-      "La Cène",
-      "L’Homme de Vitruve"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Joconde, peinte par Léonard de Vinci au début du XVIe siècle, est célèbre pour le sourire énigmatique de Mona Lisa. Exposée au Louvre, c’est l’une des œuvres les plus reconnaissables au monde. Les autres œuvres mentionnées sont également de Vinci, mais ne correspondent pas à la description."
-  },
-  {
-    "id": "1812",
-    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
-    "answer": "John Bardeen",
-    "badAnswers": [
-      "William Shockley",
-      "Walter Brattain",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
-  },
-  {
-    "id": "1437",
-    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
-    "answer": "Metallica",
-    "badAnswers": [
-      "Megadeth",
-      "Slayer",
-      "Anthrax"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
-  },
-  {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
-  },
-  {
-    "id": "612",
-    "question": "Quel est le plus grand oiseau de proie du monde ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle harpie",
-      "Vautour royal",
-      "Aigle royal"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
-  },
-  {
-    "id": "82",
-    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
-    "answer": "Nirvana",
-    "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
-  },
-  {
-    "id": "1767",
-    "question": "Quel est le nom du dieu grec de la peur ?",
-    "answer": "Phobos",
-    "badAnswers": [
-      "Éros",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
-  },
-  {
-    "id": "196",
-    "question": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
-    "answer": "Voie lactée",
-    "badAnswers": [
-      "Andromède",
-      "Sombrero",
-      "Whirlpool"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "La Terre se situe dans la Voie lactée, une galaxie spirale barrée. Andromède est une autre galaxie, tandis que Sombrero et Whirlpool sont des galaxies spirales distinctes."
-  },
-  {
-    "id": "1631",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
-    "answer": "Max Knoll",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
-  },
-  {
-    "id": "2135",
-    "question": "Quel est le nom de l'auteur de 'L'Homme à la caméra' ?",
-    "answer": "Dziga Vertov",
-    "badAnswers": [
-      "Sergei Eisenstein",
-      "Andrei Tarkovsky",
-      "Lev Kuleshov"
+      "The Front Page",
+      "Skippy",
+      "East Lynne"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Dziga Vertov a réalisé 'L'Homme à la caméra' (1929), un film expérimental soviétique sur la vie urbaine."
+    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
+  },
+  {
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
+    "badAnswers": [
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
+  },
+  {
+    "id": "1239",
+    "question": "Quel est la capitale du Yémen ?",
+    "answer": "Sanaa",
+    "badAnswers": [
+      "Aden",
+      "Taiz",
+      "Hodeida"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
+  },
+  {
+    "id": "1737",
+    "question": "Quel est le nom de l'auteur de 'La Cousine Bette' ?",
+    "answer": "Honoré de Balzac",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Honoré de Balzac a écrit 'La Cousine Bette' (1846), un roman de la Comédie humaine sur la jalousie et la vengeance."
+  },
+  {
+    "id": "690",
+    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+  },
+  {
+    "id": "662",
+    "question": "Quel est le nom du plus grand lac d'Europe ?",
+    "answer": "Lac Ladoga",
+    "badAnswers": [
+      "Lac Onega",
+      "Lac Vänern",
+      "Lac Peïpous"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
+  },
+  {
+    "id": "200",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
+    "badAnswers": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
+  },
+  {
+    "id": "2044",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
+  },
+  {
+    "id": "1829",
+    "question": "Quel est la capitale de la Somalie ?",
+    "answer": "Mogadiscio",
+    "badAnswers": [
+      "Hargeisa",
+      "Bosaso",
+      "Galkayo"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Mogadiscio, capitale de la Somalie, est une ville portuaire connue pour sa plage de Lido et son histoire mouvementée."
+  },
+  {
+    "id": "1825",
+    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
+    "answer": "Blaise Pascal",
+    "badAnswers": [
+      "Gottfried Leibniz",
+      "Charles Babbage",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
   }
 ]
