@@ -1,132 +1,132 @@
 [
   {
-    "id": "1641",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
-    "answer": "Cimarron",
+    "id": "1579",
+    "question": "Quel est la capitale du Malawi ?",
+    "answer": "Lilongwe",
     "badAnswers": [
-      "The Front Page",
-      "Skippy",
-      "East Lynne"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
-  },
-  {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
-    "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
-  },
-  {
-    "id": "1239",
-    "question": "Quel est la capitale du Yémen ?",
-    "answer": "Sanaa",
-    "badAnswers": [
-      "Aden",
-      "Taiz",
-      "Hodeida"
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
+    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
   },
   {
-    "id": "1737",
-    "question": "Quel est le nom de l'auteur de 'La Cousine Bette' ?",
-    "answer": "Honoré de Balzac",
+    "id": "233",
+    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
+    "answer": "Hémoglobine",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'La Cousine Bette' (1846), un roman de la Comédie humaine sur la jalousie et la vengeance."
-  },
-  {
-    "id": "690",
-    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Albumine",
+      "Plasma",
+      "Gammaglobuline"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
   },
   {
-    "id": "662",
-    "question": "Quel est le nom du plus grand lac d'Europe ?",
-    "answer": "Lac Ladoga",
+    "id": "1499",
+    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
+    "answer": "The Verve",
     "badAnswers": [
-      "Lac Onega",
-      "Lac Vänern",
-      "Lac Peïpous"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
-  },
-  {
-    "id": "200",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
-    "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Terre"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
-  },
-  {
-    "id": "2044",
-    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Oasis",
+      "Blur",
+      "Radiohead"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
+    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
   },
   {
-    "id": "1829",
-    "question": "Quel est la capitale de la Somalie ?",
-    "answer": "Mogadiscio",
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
     "badAnswers": [
-      "Hargeisa",
-      "Bosaso",
-      "Galkayo"
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Mogadiscio, capitale de la Somalie, est une ville portuaire connue pour sa plage de Lido et son histoire mouvementée."
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
   },
   {
-    "id": "1825",
-    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
-    "answer": "Blaise Pascal",
+    "id": "329",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
+    "answer": "Faucon Millenium",
     "badAnswers": [
-      "Gottfried Leibniz",
-      "Charles Babbage",
-      "Alan Turing"
+      "Étoile de la Mort",
+      "Chasseur TIE",
+      "X-Wing"
     ],
-    "category": "Informatique",
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
+  },
+  {
+    "id": "539",
+    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
+    "answer": "2-1B",
+    "badAnswers": [
+      "R2-D2",
+      "C-3PO",
+      "BB-8"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
+    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+  },
+  {
+    "id": "1343",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
+    "answer": "Amadeus",
+    "badAnswers": [
+      "The Killing Fields",
+      "A Passage to India",
+      "Places in the Heart"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
+  },
+  {
+    "id": "3",
+    "question": "Quelle série met en scène le cartel de Medellín ?",
+    "answer": "Narcos",
+    "badAnswers": [
+      "Breaking Bad",
+      "El Chapo",
+      "La Casa de Papel"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+  },
+  {
+    "id": "601",
+    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
+    "answer": "Raijin",
+    "badAnswers": [
+      "Fujin",
+      "Susanoo",
+      "Hachiman"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
+  },
+  {
+    "id": "1389",
+    "question": "Quel est la capitale du Bhoutan ?",
+    "answer": "Thimphou",
+    "badAnswers": [
+      "Paro",
+      "Punakha",
+      "Jakar"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
   }
 ]
