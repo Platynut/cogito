@@ -1,132 +1,132 @@
 [
   {
-    "id": "1579",
-    "question": "Quel est la capitale du Malawi ?",
-    "answer": "Lilongwe",
+    "id": "1703",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
+    "answer": "Walter Bruch",
     "badAnswers": [
-      "Blantyre",
-      "Mzuzu",
-      "Zomba"
+      "John Logie Baird",
+      "Philo Farnsworth",
+      "Vladimir Zworykin"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
   },
   {
-    "id": "233",
-    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
-    "answer": "Hémoglobine",
+    "id": "975",
+    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
+    "answer": "Blanches Colombes et Vilains Messieurs",
     "badAnswers": [
-      "Albumine",
-      "Plasma",
-      "Gammaglobuline"
+      "L'Ancre en main",
+      "Tant qu'il y aura des hommes",
+      "Haute Société"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
+  },
+  {
+    "id": "907",
+    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
+    "answer": "Han Solo",
+    "badAnswers": [
+      "Lando Calrissian",
+      "Chewbacca",
+      "Boba Fett"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+  },
+  {
+    "id": "103",
+    "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
+    "answer": "Sri Lanka",
+    "badAnswers": [
+      "Philippines",
+      "Liban",
+      "Vénézuela"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
+  },
+  {
+    "id": "1655",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
+    "answer": "Elisha Otis",
+    "badAnswers": [
+      "Thomas Edison",
+      "George Westinghouse",
+      "Nikola Tesla"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
+  },
+  {
+    "id": "1715",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Te ?",
+    "answer": "Tellure",
+    "badAnswers": [
+      "Titane",
+      "Thallium",
+      "Technétium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
+    "description": "Le tellure, symbolisé par Te, est un métalloïde utilisé dans les panneaux solaires et les alliages."
   },
   {
-    "id": "1499",
-    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
-    "answer": "The Verve",
+    "id": "777",
+    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
+    "answer": "Démon du Refuge",
     "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
+      "Gwyn",
+      "Ornstein",
+      "Sif"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
   },
   {
-    "id": "329",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
-    "answer": "Faucon Millenium",
+    "id": "1325",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cs ?",
+    "answer": "Césium",
     "badAnswers": [
-      "Étoile de la Mort",
-      "Chasseur TIE",
-      "X-Wing"
+      "Calcium",
+      "Chrome",
+      "Cobalt"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
-  },
-  {
-    "id": "539",
-    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
-    "answer": "2-1B",
-    "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "BB-8"
-    ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+    "description": "Le césium, symbolisé par Cs, est un métal alcalin utilisé dans les horloges atomiques pour sa précision dans la mesure du temps."
   },
   {
-    "id": "1343",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
-    "answer": "Amadeus",
+    "id": "277",
+    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
+    "answer": "M. Spittle",
     "badAnswers": [
-      "The Killing Fields",
-      "A Passage to India",
-      "Places in the Heart"
+      "M. Boreman",
+      "M. Spitling",
+      "M. Moe"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
+  },
+  {
+    "id": "1449",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
+    "answer": "In the Heat of the Night",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "The Graduate",
+      "Guess Who's Coming to Dinner"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
-  },
-  {
-    "id": "3",
-    "question": "Quelle série met en scène le cartel de Medellín ?",
-    "answer": "Narcos",
-    "badAnswers": [
-      "Breaking Bad",
-      "El Chapo",
-      "La Casa de Papel"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
-  },
-  {
-    "id": "601",
-    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
-    "answer": "Raijin",
-    "badAnswers": [
-      "Fujin",
-      "Susanoo",
-      "Hachiman"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
-  },
-  {
-    "id": "1389",
-    "question": "Quel est la capitale du Bhoutan ?",
-    "answer": "Thimphou",
-    "badAnswers": [
-      "Paro",
-      "Punakha",
-      "Jakar"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
+    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
   }
 ]
