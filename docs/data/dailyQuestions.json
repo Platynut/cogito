@@ -1,132 +1,132 @@
 [
   {
-    "id": "1703",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
-    "answer": "Walter Bruch",
+    "id": "2028",
+    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "John Logie Baird",
-      "Philo Farnsworth",
-      "Vladimir Zworykin"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
-  },
-  {
-    "id": "975",
-    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
-    "answer": "Blanches Colombes et Vilains Messieurs",
-    "badAnswers": [
-      "L'Ancre en main",
-      "Tant qu'il y aura des hommes",
-      "Haute Société"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
-  },
-  {
-    "id": "907",
-    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
-    "answer": "Han Solo",
-    "badAnswers": [
-      "Lando Calrissian",
-      "Chewbacca",
-      "Boba Fett"
-    ],
-    "category": "Cinéma",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "103",
-    "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
-    "answer": "Sri Lanka",
+    "id": "394",
+    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
+    "answer": "Isaac Newton",
     "badAnswers": [
-      "Philippines",
-      "Liban",
-      "Vénézuela"
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
+  },
+  {
+    "id": "993",
+    "question": "Qui fut le 40e président des États-Unis ?",
+    "answer": "Ronald Reagan",
+    "badAnswers": [
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
     ],
     "category": "Politique",
     "difficulty": "normal",
-    "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
+    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
   },
   {
-    "id": "1655",
-    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
-    "answer": "Elisha Otis",
+    "id": "839",
+    "question": "Dans Celeste, quel est le nom de la montagne que Madeline escalade ?",
+    "answer": "Mont Celeste",
     "badAnswers": [
-      "Thomas Edison",
-      "George Westinghouse",
-      "Nikola Tesla"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
-  },
-  {
-    "id": "1715",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Te ?",
-    "answer": "Tellure",
-    "badAnswers": [
-      "Titane",
-      "Thallium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tellure, symbolisé par Te, est un métalloïde utilisé dans les panneaux solaires et les alliages."
-  },
-  {
-    "id": "777",
-    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
-    "answer": "Démon du Refuge",
-    "badAnswers": [
-      "Gwyn",
-      "Ornstein",
-      "Sif"
+      "Mont Ebott",
+      "Mont Coronet",
+      "Mont Lanayru"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
+    "difficulty": "facile",
+    "description": "Le Mont Celeste est la montagne centrale de Celeste, où Madeline affronte ses défis personnels. Ebott est dans Undertale, Coronet dans Pokémon, et Lanayru dans Zelda."
   },
   {
-    "id": "1325",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cs ?",
-    "answer": "Césium",
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
     "badAnswers": [
-      "Calcium",
-      "Chrome",
-      "Cobalt"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le césium, symbolisé par Cs, est un métal alcalin utilisé dans les horloges atomiques pour sa précision dans la mesure du temps."
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
   },
   {
-    "id": "277",
-    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
-    "answer": "M. Spittle",
+    "id": "1515",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
+    "answer": "The Greatest Show on Earth",
     "badAnswers": [
-      "M. Boreman",
-      "M. Spitling",
-      "M. Moe"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
-  },
-  {
-    "id": "1449",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
-    "answer": "In the Heat of the Night",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "The Graduate",
-      "Guess Who's Coming to Dinner"
+      "High Noon",
+      "The Quiet Man",
+      "Moulin Rouge"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
+    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+  },
+  {
+    "id": "1887",
+    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
+    "answer": "Frank McNamara",
+    "badAnswers": [
+      "Ralph Schneider",
+      "Alfred Bloomingdale",
+      "John Biggins"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
+  },
+  {
+    "id": "361",
+    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
+    "answer": "Épée de Légende",
+    "badAnswers": [
+      "Épée du Temps",
+      "Épée de Feu",
+      "Épée d’Ombre"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
+  },
+  {
+    "id": "1323",
+    "question": "Quel est la capitale du Costa Rica ?",
+    "answer": "San José",
+    "badAnswers": [
+      "Alajuela",
+      "Cartago",
+      "Heredia"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "San José, capitale du Costa Rica, est une ville dynamique connue pour ses musées, son théâtre national et sa culture du café."
+  },
+  {
+    "id": "1359",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1982 ?",
+    "answer": "Gandhi",
+    "badAnswers": [
+      "E.T. the Extra-Terrestrial",
+      "Tootsie",
+      "The Verdict"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Gandhi, réalisé par Richard Attenborough, a remporté l'Oscar du meilleur film en 1982, une biographie épique sur la vie de Mahatma Gandhi."
   }
 ]
