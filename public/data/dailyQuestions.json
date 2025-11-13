@@ -1,60 +1,8 @@
 [
   {
-    "id": "2028",
-    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "394",
-    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
-    "answer": "Isaac Newton",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Albert Einstein",
-      "Johannes Kepler"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
-  },
-  {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
-    "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
-  },
-  {
-    "id": "839",
-    "question": "Dans Celeste, quel est le nom de la montagne que Madeline escalade ?",
-    "answer": "Mont Celeste",
-    "badAnswers": [
-      "Mont Ebott",
-      "Mont Coronet",
-      "Mont Lanayru"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Mont Celeste est la montagne centrale de Celeste, où Madeline affronte ses défis personnels. Ebott est dans Undertale, Coronet dans Pokémon, et Lanayru dans Zelda."
-  },
-  {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
+    "id": "1822",
+    "question": "Quel est le nom de l'auteur de 'De la Terre à la Lune' ?",
+    "answer": "Jules Verne",
     "badAnswers": [
       "Victor Hugo",
       "Émile Zola",
@@ -62,71 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+    "description": "Jules Verne a écrit 'De la Terre à la Lune' (1865), un roman de science-fiction sur un voyage spatial."
   },
   {
-    "id": "1515",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
-    "answer": "The Greatest Show on Earth",
+    "id": "1505",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
+    "answer": "On the Waterfront",
     "badAnswers": [
-      "High Noon",
-      "The Quiet Man",
-      "Moulin Rouge"
+      "The Caine Mutiny",
+      "Seven Brides for Seven Brothers",
+      "Three Coins in the Fountain"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
   },
   {
-    "id": "1887",
-    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
-    "answer": "Frank McNamara",
+    "id": "227",
+    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
+    "answer": "27,3 jours",
     "badAnswers": [
-      "Ralph Schneider",
-      "Alfred Bloomingdale",
-      "John Biggins"
+      "14,5 jours",
+      "30,7 jours",
+      "365,2 jours"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
   },
   {
-    "id": "361",
-    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
-    "answer": "Épée de Légende",
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
     "badAnswers": [
-      "Épée du Temps",
-      "Épée de Feu",
-      "Épée d’Ombre"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
-  },
-  {
-    "id": "1323",
-    "question": "Quel est la capitale du Costa Rica ?",
-    "answer": "San José",
-    "badAnswers": [
-      "Alajuela",
-      "Cartago",
-      "Heredia"
+      "Derry",
+      "Lisburn",
+      "Newry"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "San José, capitale du Costa Rica, est une ville dynamique connue pour ses musées, son théâtre national et sa culture du café."
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
   },
   {
-    "id": "1359",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1982 ?",
-    "answer": "Gandhi",
+    "id": "232",
+    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
+    "answer": "Matrix",
     "badAnswers": [
-      "E.T. the Extra-Terrestrial",
-      "Tootsie",
-      "The Verdict"
+      "Mad Max",
+      "Scream",
+      "Interstellar"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Gandhi, réalisé par Richard Attenborough, a remporté l'Oscar du meilleur film en 1982, une biographie épique sur la vie de Mahatma Gandhi."
+    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+  },
+  {
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
+    "badAnswers": [
+      "Argent",
+      "Cuivre",
+      "Platine"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+  },
+  {
+    "id": "787",
+    "question": "Dans Fortnite, quel est le nom du lieu connu pour ses tours inclinées ?",
+    "answer": "Tilted Towers",
+    "badAnswers": [
+      "Pleasant Park",
+      "Retail Row",
+      "Salty Springs"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Tilted Towers est un lieu emblématique de Fortnite, connu pour ses gratte-ciel inclinés et ses combats intenses. Pleasant Park, Retail Row et Salty Springs sont d'autres lieux du jeu."
+  },
+  {
+    "id": "1238",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Commander Shepard ?",
+    "answer": "Mass Effect",
+    "badAnswers": [
+      "Halo",
+      "Destiny",
+      "Gears of War"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Commander Shepard est le protagoniste personnalisable de la série Mass Effect, un commandant luttant pour sauver la galaxie."
+  },
+  {
+    "id": "45",
+    "question": "Quel écrivain a créé Sherlock Holmes ?",
+    "answer": "Arthur Conan Doyle",
+    "badAnswers": [
+      "Agatha Christie",
+      "Charles Dickens",
+      "Jules Verne"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ce détective légendaire apparaît pour la première fois dans 'Une étude en rouge' en 1887."
+  },
+  {
+    "id": "1565",
+    "question": "Quel est la capitale de la République du Congo ?",
+    "answer": "Brazzaville",
+    "badAnswers": [
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Brazzaville, capitale de la République du Congo, est une ville sur le fleuve Congo, face à Kinshasa, connue pour sa cathédrale."
   }
 ]
