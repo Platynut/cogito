@@ -1,132 +1,132 @@
 [
   {
-    "id": "1822",
-    "question": "Quel est le nom de l'auteur de 'De la Terre à la Lune' ?",
-    "answer": "Jules Verne",
+    "id": "301",
+    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+    "answer": "Temps et Dimensions Relatives Dans l'Espace",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Temps et Réalité Dimensionnelle Dans l'Espace",
+      "Temps et Dimensions Relatives Dans le Style",
+      "Toilette, Corde, Chien, Soupe"
     ],
-    "category": "Livres",
+    "category": "Séries",
     "difficulty": "facile",
-    "description": "Jules Verne a écrit 'De la Terre à la Lune' (1865), un roman de science-fiction sur un voyage spatial."
+    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
   },
   {
-    "id": "1505",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
-    "answer": "On the Waterfront",
+    "id": "1071",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
+    "answer": "Super Mario Bros.",
     "badAnswers": [
-      "The Caine Mutiny",
-      "Seven Brides for Seven Brothers",
-      "Three Coins in the Fountain"
+      "The Legend of Zelda",
+      "Donkey Kong",
+      "Metroid"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
+  },
+  {
+    "id": "1428",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
+    "answer": "The Godfather",
+    "badAnswers": [
+      "Cabaret",
+      "Deliverance",
+      "The Emigrants"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
+    "difficulty": "facile",
+    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
   },
   {
-    "id": "227",
-    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
-    "answer": "27,3 jours",
+    "id": "941",
+    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
+    "answer": "Lishana Deni",
     "badAnswers": [
-      "14,5 jours",
-      "30,7 jours",
-      "365,2 jours"
-    ],
-    "category": "Astronomie",
-    "difficulty": "normal",
-    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
-  },
-  {
-    "id": "1096",
-    "question": "Quelle est la capitale de l'Irlande du Nord ?",
-    "answer": "Belfast",
-    "badAnswers": [
-      "Derry",
-      "Lisburn",
-      "Newry"
+      "Hulaulá",
+      "Lishan Didan",
+      "Chaldéen néo-araméen"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
+    "difficulty": "difficile",
+    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
   },
   {
-    "id": "232",
-    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
-    "answer": "Matrix",
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
     "badAnswers": [
-      "Mad Max",
-      "Scream",
-      "Interstellar"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
   },
   {
-    "id": "787",
-    "question": "Dans Fortnite, quel est le nom du lieu connu pour ses tours inclinées ?",
-    "answer": "Tilted Towers",
+    "id": "930",
+    "question": "Quel est le titre du premier film Star Wars selon l'ordre de sortie ?",
+    "answer": "Un Nouvel Espoir",
     "badAnswers": [
-      "Pleasant Park",
-      "Retail Row",
-      "Salty Springs"
+      "La Menace Fantôme",
+      "Le Réveil de la Force",
+      "La Revanche des Sith"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Star Wars : Un Nouvel Espoir, sorti en 1977, est le premier film de la saga Star Wars réalisé par George Lucas. Initialement intitulé simplement Star Wars, il a introduit des personnages emblématiques comme Luke Skywalker et Darth Vader. Les autres options sont des films sortis plus tard dans la chronologie de la saga."
+  },
+  {
+    "id": "514",
+    "question": "Quel est le plus gros herbivore terrestre du monde ?",
+    "answer": "Rhinocéros blanc",
+    "badAnswers": [
+      "Éléphant",
+      "Girafe",
+      "Hippopotame"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+  },
+  {
+    "id": "1635",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre la typhoïde ?",
+    "answer": "Almroth Wright",
+    "badAnswers": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Jonas Salk"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Almroth Wright a développé le premier vaccin contre la typhoïde en 1897, utilisé pour protéger les soldats britanniques."
+  },
+  {
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
+    "badAnswers": [
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+  },
+  {
+    "id": "269",
+    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
+    "answer": "Singes",
+    "badAnswers": [
+      "Chats",
+      "Pigeons",
+      "Lézards"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Tilted Towers est un lieu emblématique de Fortnite, connu pour ses gratte-ciel inclinés et ses combats intenses. Pleasant Park, Retail Row et Salty Springs sont d'autres lieux du jeu."
-  },
-  {
-    "id": "1238",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Commander Shepard ?",
-    "answer": "Mass Effect",
-    "badAnswers": [
-      "Halo",
-      "Destiny",
-      "Gears of War"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Commander Shepard est le protagoniste personnalisable de la série Mass Effect, un commandant luttant pour sauver la galaxie."
-  },
-  {
-    "id": "45",
-    "question": "Quel écrivain a créé Sherlock Holmes ?",
-    "answer": "Arthur Conan Doyle",
-    "badAnswers": [
-      "Agatha Christie",
-      "Charles Dickens",
-      "Jules Verne"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Ce détective légendaire apparaît pour la première fois dans 'Une étude en rouge' en 1887."
-  },
-  {
-    "id": "1565",
-    "question": "Quel est la capitale de la République du Congo ?",
-    "answer": "Brazzaville",
-    "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brazzaville, capitale de la République du Congo, est une ville sur le fleuve Congo, face à Kinshasa, connue pour sa cathédrale."
+    "difficulty": "normal",
+    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
   }
 ]
