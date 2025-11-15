@@ -1,132 +1,132 @@
 [
   {
-    "id": "301",
-    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-    "answer": "Temps et Dimensions Relatives Dans l'Espace",
+    "id": "34",
+    "question": "Dans quelle ville se trouve la Maison Blanche ?",
+    "answer": "Washington D.C.",
     "badAnswers": [
-      "Temps et Réalité Dimensionnelle Dans l'Espace",
-      "Temps et Dimensions Relatives Dans le Style",
-      "Toilette, Corde, Chien, Soupe"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
-  },
-  {
-    "id": "1071",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
-    "answer": "Super Mario Bros.",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Donkey Kong",
-      "Metroid"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
-  },
-  {
-    "id": "1428",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
-    "answer": "The Godfather",
-    "badAnswers": [
-      "Cabaret",
-      "Deliverance",
-      "The Emigrants"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
-  },
-  {
-    "id": "941",
-    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
-    "answer": "Lishana Deni",
-    "badAnswers": [
-      "Hulaulá",
-      "Lishan Didan",
-      "Chaldéen néo-araméen"
+      "New York",
+      "Los Angeles",
+      "Chicago"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
+    "difficulty": "facile",
+    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
   },
   {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
+    "id": "1719",
+    "question": "Quel est le nom de l'auteur de 'La Nausée' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'La Nausée' (1938), un roman existentialiste explorant le sens de l'existence."
+  },
+  {
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Strontium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+    "difficulty": "difficile",
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
   },
   {
-    "id": "930",
-    "question": "Quel est le titre du premier film Star Wars selon l'ordre de sortie ?",
-    "answer": "Un Nouvel Espoir",
+    "id": "1288",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "La Menace Fantôme",
-      "Le Réveil de la Force",
-      "La Revanche des Sith"
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Quiz Show"
     ],
     "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Forrest Gump, réalisé par Robert Zemeckis, a remporté l'Oscar du meilleur film en 1994, une histoire émouvante sur la vie de Forrest, un homme simple."
+  },
+  {
+    "id": "1394",
+    "question": "Quel est la capitale du Laos ?",
+    "answer": "Vientiane",
+    "badAnswers": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Star Wars : Un Nouvel Espoir, sorti en 1977, est le premier film de la saga Star Wars réalisé par George Lucas. Initialement intitulé simplement Star Wars, il a introduit des personnages emblématiques comme Luke Skywalker et Darth Vader. Les autres options sont des films sortis plus tard dans la chronologie de la saga."
+    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
   },
   {
-    "id": "514",
-    "question": "Quel est le plus gros herbivore terrestre du monde ?",
-    "answer": "Rhinocéros blanc",
+    "id": "1761",
+    "question": "Quel est le nom du groupe qui a chanté 'La Grange' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Éléphant",
-      "Girafe",
-      "Hippopotame"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Animaux",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'La Grange', sorti en 1973 par ZZ Top, est une chanson rock tirée de l'album Tres Hombres."
+  },
+  {
+    "id": "148",
+    "question": "Quel célèbre artiste est représenté sur les masques de la série Casa de Papel ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Paco Rabanne",
+      "Francisco de Goya"
+    ],
+    "category": "Séries",
     "difficulty": "normal",
-    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+    "description": "Les masques portés par les braqueurs dans 'La Casa de Papel' représentent Salvador Dalí, symbole du surréalisme. Picasso était cubiste, Paco Rabanne un designer, et Goya un peintre classique."
   },
   {
-    "id": "1635",
-    "question": "Quel est le nom de l'inventeur du premier vaccin contre la typhoïde ?",
-    "answer": "Almroth Wright",
+    "id": "480",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
+    "answer": "Kai'Sa",
     "badAnswers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Jonas Salk"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Almroth Wright a développé le premier vaccin contre la typhoïde en 1897, utilisé pour protéger les soldats britanniques."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
-  },
-  {
-    "id": "269",
-    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
-    "answer": "Singes",
-    "badAnswers": [
-      "Chats",
-      "Pigeons",
-      "Lézards"
+      "Kassadin",
+      "Malzahar",
+      "Vel'Koz"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
+    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
+  },
+  {
+    "id": "408",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
+    "answer": "Epona",
+    "badAnswers": [
+      "Rauru",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
+  },
+  {
+    "id": "42",
+    "question": "Quelle entreprise fabrique la Model 3 ?",
+    "answer": "Tesla",
+    "badAnswers": [
+      "Toyota",
+      "Ford",
+      "Volkswagen"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
   }
 ]
