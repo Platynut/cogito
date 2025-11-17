@@ -1,132 +1,132 @@
 [
   {
-    "id": "292",
-    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
-    "answer": "Point d'exclamation",
+    "id": "1941",
+    "question": "Quel est la capitale du Madagascar ?",
+    "answer": "Antananarivo",
     "badAnswers": [
-      "Signe dollar",
-      "Signe pourcentage",
-      "Astérisque"
-    ],
-    "category": "Informatique",
-    "difficulty": "facile",
-    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
+      "Toamasina",
+      "Fianarantsoa",
+      "Mahajanga"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+    "description": "Antananarivo, capitale de Madagascar, est une ville située sur des collines, connue pour son palais de la Reine."
   },
   {
-    "id": "1538",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobelium",
+    "id": "486",
+    "question": "Quel est le plus grand oiseau prédateur du monde ?",
+    "answer": "Condor des Andes",
     "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
+      "Aigle royal",
+      "Vautour fauve",
+      "Harfang des neiges"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "552",
-    "question": "Quel est le nom de l'auteur de 'Du côté de chez Swann' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "André Gide",
-      "Jean Cocteau",
-      "Guillaume Apollinaire"
-    ],
-    "category": "Littérature",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit Du côté de chez Swann (1913), le premier volume de À la recherche du temps perdu, une œuvre majeure de la littérature française. Gide, Cocteau et Apollinaire sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
   },
   {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "184",
+    "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
+    "answer": "La grèbe",
     "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
+      "La grèle",
+      "La grève",
+      "La grène"
     ],
-    "category": "Jeux vidéo",
+    "category": "Nature",
     "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+    "description": "Le grèbe construit des nids flottants avec des végétaux aquatiques. Les autres termes n'existent pas dans ce contexte."
   },
   {
-    "id": "583",
-    "question": "Quel artiste a peint La Liberté guidant le peuple ?",
-    "answer": "Eugène Delacroix",
+    "id": "173",
+    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
+    "answer": "Serge Gainsbourg",
     "badAnswers": [
-      "Jacques-Louis David",
-      "Théodore Géricault",
-      "Jean-Auguste-Dominique Ingres"
+      "Jean-Jacques Goldman",
+      "Patrick Bruel",
+      "Nicola Sirkis"
     ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "La Liberté guidant le peuple (1830) d'Eugène Delacroix est une peinture romantique célébrant la Révolution de 1830. David, Géricault et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
+    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
   },
   {
-    "id": "738",
-    "question": "Quel scientifique a découvert la loi des proportions définies en chimie ?",
-    "answer": "Joseph Proust",
+    "id": "2027",
+    "question": "Quel est le nom du groupe qui a chanté 'Nowhere Man' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Antoine Lavoisier",
-      "John Dalton",
-      "Dmitri Mendeleïev"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Joseph Proust a établi la loi des proportions définies à la fin du XVIIIe siècle, montrant que les composés ont des compositions fixes. Lavoisier, Dalton et Mendeleïev ont contribué à d'autres lois chimiques."
-  },
-  {
-    "id": "1192",
-    "question": "Quel est la capitale de la Tunisie ?",
-    "answer": "Tunis",
-    "badAnswers": [
-      "Sfax",
-      "Sousse",
-      "Kairouan"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
+    "description": "'Nowhere Man', sorti en 1965 par The Beatles, est une chanson introspective tirée de l'album Rubber Soul."
   },
   {
-    "id": "1339",
-    "question": "Quel est la capitale du Honduras ?",
-    "answer": "Tegucigalpa",
+    "id": "1774",
+    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "San Pedro Sula",
-      "La Ceiba",
-      "Comayagua"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "1823",
-    "question": "Quel est le nom de l'auteur de 'Voyage au centre de la Terre' ?",
-    "answer": "Jules Verne",
+    "id": "1514",
+    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
+    "answer": "Mark Twain",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Herman Melville",
+      "Jack London",
+      "Nathaniel Hawthorne"
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Voyage au centre de la Terre' (1864), un roman d'aventure scientifique sur une expédition souterraine."
+    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+  },
+  {
+    "id": "2143",
+    "question": "Quel est le nom de l'auteur de 'Le K' ?",
+    "answer": "Dino Buzzati",
+    "badAnswers": [
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
+  },
+  {
+    "id": "180",
+    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Venise",
+      "Barcelone",
+      "Séville"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
   }
 ]
