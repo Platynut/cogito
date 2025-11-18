@@ -1,132 +1,132 @@
 [
   {
-    "id": "1941",
-    "question": "Quel est la capitale du Madagascar ?",
-    "answer": "Antananarivo",
+    "id": "1805",
+    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
+    "answer": "Guy de Maupassant",
     "badAnswers": [
-      "Toamasina",
-      "Fianarantsoa",
-      "Mahajanga"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Antananarivo, capitale de Madagascar, est une ville située sur des collines, connue pour son palais de la Reine."
-  },
-  {
-    "id": "486",
-    "question": "Quel est le plus grand oiseau prédateur du monde ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Harfang des neiges"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
-  },
-  {
-    "id": "184",
-    "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
-    "answer": "La grèbe",
-    "badAnswers": [
-      "La grèle",
-      "La grève",
-      "La grène"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Le grèbe construit des nids flottants avec des végétaux aquatiques. Les autres termes n'existent pas dans ce contexte."
-  },
-  {
-    "id": "173",
-    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
-    "answer": "Serge Gainsbourg",
-    "badAnswers": [
-      "Jean-Jacques Goldman",
-      "Patrick Bruel",
-      "Nicola Sirkis"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
-  },
-  {
-    "id": "2027",
-    "question": "Quel est le nom du groupe qui a chanté 'Nowhere Man' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Nowhere Man', sorti en 1965 par The Beatles, est une chanson introspective tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1774",
-    "question": "Quel est le nom du groupe qui a chanté 'Ramblin' Man' ?",
-    "answer": "The Allman Brothers Band",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Ramblin' Man', sorti en 1973 par The Allman Brothers Band, est une chanson rock sudiste tirée de l'album Brothers and Sisters."
-  },
-  {
-    "id": "1514",
-    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
-    "answer": "Mark Twain",
-    "badAnswers": [
-      "Herman Melville",
-      "Jack London",
-      "Nathaniel Hawthorne"
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
   },
   {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
+    "id": "1669",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
+    "answer": "Mutiny on the Bounty",
     "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "The Informer",
+      "Captain Blood",
+      "Top Hat"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
   },
   {
-    "id": "2143",
-    "question": "Quel est le nom de l'auteur de 'Le K' ?",
-    "answer": "Dino Buzzati",
+    "id": "59",
+    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
+    "answer": "Michael Jackson",
     "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Prince",
+      "Madonna",
+      "The Jacksons"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
   },
   {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
+    "id": "277",
+    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
+    "answer": "M. Spittle",
     "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
+      "M. Boreman",
+      "M. Spitling",
+      "M. Moe"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
+  },
+  {
+    "id": "1162",
+    "question": "Quelle est la capitale administrative de la Bolivie ?",
+    "answer": "La Paz",
+    "badAnswers": [
+      "Sucre",
+      "Santa Cruz",
+      "Cochabamba"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+    "description": "La Paz est la capitale administrative de la Bolivie et la plus haute capitale du monde, située à plus de 3 600 mètres d'altitude."
+  },
+  {
+    "id": "87",
+    "question": "Qui a peint 'Le Cri' ?",
+    "answer": "Edvard Munch",
+    "badAnswers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
+  },
+  {
+    "id": "41",
+    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
+    "answer": "Royaume-Uni",
+    "badAnswers": [
+      "Suisse",
+      "Norvège",
+      "Turquie"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
+  },
+  {
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "1379",
+    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
+    "answer": "Apollon",
+    "badAnswers": [
+      "Hélios",
+      "Zeus",
+      "Poséidon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
+  },
+  {
+    "id": "176",
+    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
+    "answer": "House of Cards",
+    "badAnswers": [
+      "Orange is the new black",
+      "Stranger Things",
+      "The Crown"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
   }
 ]
