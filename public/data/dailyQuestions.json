@@ -1,132 +1,132 @@
 [
   {
-    "id": "1805",
-    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
-    "answer": "Guy de Maupassant",
+    "id": "1277",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
+    "answer": "Zirconium",
     "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
+      "Zinc",
+      "Yttrium",
+      "Xenon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
+  },
+  {
+    "id": "603",
+    "question": "Quel kami est le dieu du riz, de la prospérité et de l'industrie ?",
+    "answer": "Inari",
+    "badAnswers": [
+      "Ebisu",
+      "Hachiman",
+      "Benzaiten"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Inari est vénéré pour avoir protégé la culture du riz et est symbolisé par les renards messagers."
+  },
+  {
+    "id": "1998",
+    "question": "Quel est le nom de l'auteur de 'Moderato Cantabile' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
+    "description": "Marguerite Duras a écrit 'Moderato Cantabile' (1958), un roman sur l'ennui et la passion dans une ville portuaire."
   },
   {
-    "id": "1669",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
-    "answer": "Mutiny on the Bounty",
+    "id": "707",
+    "question": "Quel est le nom de l'auteur de 'Fahrenheit 451' ?",
+    "answer": "Ray Bradbury",
     "badAnswers": [
-      "The Informer",
-      "Captain Blood",
-      "Top Hat"
+      "George Orwell",
+      "Aldous Huxley",
+      "Philip K. Dick"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ray Bradbury a écrit Fahrenheit 451 (1953), un roman dystopique sur la censure des livres. Orwell, Huxley et Dick sont d'autres auteurs dystopiques, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "403",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Luke Skywalker ?",
+    "answer": "Tatooine",
+    "badAnswers": [
+      "Naboo",
+      "Coruscant",
+      "Endor"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
-  },
-  {
-    "id": "59",
-    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
-    "answer": "Michael Jackson",
-    "badAnswers": [
-      "Prince",
-      "Madonna",
-      "The Jacksons"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+    "description": "Tatooine est la planète désertique natale de Luke Skywalker dans Star Wars, connue pour ses deux soleils et son environnement aride. Naboo, Coruscant et Endor sont d’autres planètes de l’univers, mais Luke est originaire de Tatooine."
   },
   {
-    "id": "277",
-    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
-    "answer": "M. Spittle",
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
     "badAnswers": [
-      "M. Boreman",
-      "M. Spitling",
-      "M. Moe"
+      "Akali",
+      "Zed",
+      "Kennen"
     ],
-    "category": "Bandes dessinées",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "1162",
-    "question": "Quelle est la capitale administrative de la Bolivie ?",
-    "answer": "La Paz",
+    "id": "703",
+    "question": "Quel est le nom du plus grand désert d'Afrique ?",
+    "answer": "Sahara",
     "badAnswers": [
-      "Sucre",
-      "Santa Cruz",
-      "Cochabamba"
+      "Kalahari",
+      "Namib",
+      "Désert de Libye"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Paz est la capitale administrative de la Bolivie et la plus haute capitale du monde, située à plus de 3 600 mètres d'altitude."
+    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
   },
   {
-    "id": "87",
-    "question": "Qui a peint 'Le Cri' ?",
-    "answer": "Edvard Munch",
+    "id": "1328",
+    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
+    "answer": "Pixies",
     "badAnswers": [
-      "Vincent van Gogh",
-      "Pablo Picasso",
-      "Salvador Dalí"
+      "Nirvana",
+      "Radiohead",
+      "The Smashing Pumpkins"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
-  },
-  {
-    "id": "41",
-    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
-    "answer": "Royaume-Uni",
-    "badAnswers": [
-      "Suisse",
-      "Norvège",
-      "Turquie"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
-  },
-  {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "1379",
-    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
-    "answer": "Apollon",
-    "badAnswers": [
-      "Hélios",
-      "Zeus",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
-  },
-  {
-    "id": "176",
-    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
-    "answer": "House of Cards",
-    "badAnswers": [
-      "Orange is the new black",
-      "Stranger Things",
-      "The Crown"
-    ],
-    "category": "Séries",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
+    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
+  },
+  {
+    "id": "60",
+    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
+    "answer": "The Witcher",
+    "badAnswers": [
+      "Skyrim",
+      "Dark Souls",
+      "Dragon Age"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+  },
+  {
+    "id": "920",
+    "question": "Dans Fortnite, quel est le nom du lieu principal de la saison 7 du chapitre 2 ?",
+    "answer": "Coral Castle",
+    "badAnswers": [
+      "Slurpy Swamp",
+      "Misty Meadows",
+      "Lazy Lake"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Coral Castle est un lieu principal de la saison 7 du chapitre 2 de Fortnite, avec un thème aquatique. Slurpy Swamp, Misty Meadows et Lazy Lake sont d'autres lieux."
   }
 ]
