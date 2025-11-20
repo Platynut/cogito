@@ -1,34 +1,8 @@
 [
   {
-    "id": "1277",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
-    "answer": "Zirconium",
-    "badAnswers": [
-      "Zinc",
-      "Yttrium",
-      "Xenon"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
-  },
-  {
-    "id": "603",
-    "question": "Quel kami est le dieu du riz, de la prospérité et de l'industrie ?",
-    "answer": "Inari",
-    "badAnswers": [
-      "Ebisu",
-      "Hachiman",
-      "Benzaiten"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Inari est vénéré pour avoir protégé la culture du riz et est symbolisé par les renards messagers."
-  },
-  {
-    "id": "1998",
-    "question": "Quel est le nom de l'auteur de 'Moderato Cantabile' ?",
-    "answer": "Marguerite Duras",
+    "id": "2122",
+    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -36,97 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Moderato Cantabile' (1958), un roman sur l'ennui et la passion dans une ville portuaire."
+    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
   },
   {
-    "id": "707",
-    "question": "Quel est le nom de l'auteur de 'Fahrenheit 451' ?",
-    "answer": "Ray Bradbury",
+    "id": "1095",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
+    "answer": "Chlore",
     "badAnswers": [
-      "George Orwell",
-      "Aldous Huxley",
-      "Philip K. Dick"
+      "Chrome",
+      "Césium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+  },
+  {
+    "id": "734",
+    "question": "Dans Elden Ring, quel est le nom de la première reine de l'Entre-Terre ?",
+    "answer": "Marika",
+    "badAnswers": [
+      "Rennala",
+      "Malenia",
+      "Ranni"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Marika est la première reine de l'Entre-Terre dans Elden Ring, liée à l'Anneau d'Elden. Rennala, Malenia et Ranni sont d'autres figures importantes, mais pas la première reine."
+  },
+  {
+    "id": "803",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
+    "answer": "Remus Lupin",
+    "badAnswers": [
+      "Gilderoy Lockhart",
+      "Quirinus Quirrell",
+      "Alastor Maugrey"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Ray Bradbury a écrit Fahrenheit 451 (1953), un roman dystopique sur la censure des livres. Orwell, Huxley et Dick sont d'autres auteurs dystopiques, mais n'ont pas écrit ce roman."
+    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
   },
   {
-    "id": "403",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Luke Skywalker ?",
-    "answer": "Tatooine",
+    "id": "1051",
+    "question": "Quel est le nom de l'élément chimique avec le symbole O ?",
+    "answer": "Oxygène",
     "badAnswers": [
-      "Naboo",
-      "Coruscant",
-      "Endor"
+      "Osmium",
+      "Or",
+      "Ozone"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Tatooine est la planète désertique natale de Luke Skywalker dans Star Wars, connue pour ses deux soleils et son environnement aride. Naboo, Coruscant et Endor sont d’autres planètes de l’univers, mais Luke est originaire de Tatooine."
+    "description": "L'oxygène, symbolisé par O, est un élément essentiel à la respiration et à la combustion, constituant environ 21 % de l'atmosphère terrestre."
   },
   {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
+    "id": "174",
+    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
+    "answer": "1982",
     "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "703",
-    "question": "Quel est le nom du plus grand désert d'Afrique ?",
-    "answer": "Sahara",
-    "badAnswers": [
-      "Kalahari",
-      "Namib",
-      "Désert de Libye"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
-  },
-  {
-    "id": "1328",
-    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
-    "answer": "Pixies",
-    "badAnswers": [
-      "Nirvana",
-      "Radiohead",
-      "The Smashing Pumpkins"
+      "1983",
+      "1985",
+      "1980"
     ],
     "category": "Musique",
     "difficulty": "normal",
-    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
+    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
   },
   {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
     "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
+      "Yangon",
+      "Mandalay",
+      "Bago"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
   },
   {
-    "id": "920",
-    "question": "Dans Fortnite, quel est le nom du lieu principal de la saison 7 du chapitre 2 ?",
-    "answer": "Coral Castle",
+    "id": "768",
+    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Âge d'or de la piraterie",
     "badAnswers": [
-      "Slurpy Swamp",
-      "Misty Meadows",
-      "Lazy Lake"
+      "Révolution américaine",
+      "Renaissance",
+      "Égypte ptolémaïque"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
+  },
+  {
+    "id": "380",
+    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
+    "answer": "Les Nymphéas",
+    "badAnswers": [
+      "Impression, soleil levant",
+      "La Promenade",
+      "Le Déjeuner sur l’herbe"
+    ],
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Coral Castle est un lieu principal de la saison 7 du chapitre 2 de Fortnite, avec un thème aquatique. Slurpy Swamp, Misty Meadows et Lazy Lake sont d'autres lieux."
+    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+  },
+  {
+    "id": "893",
+    "question": "Quel est le plus grand mammifère marin actuel ?",
+    "answer": "Baleine bleue",
+    "badAnswers": [
+      "Cachalot",
+      "Rorqual commun",
+      "Baleine boréale"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
   }
 ]
