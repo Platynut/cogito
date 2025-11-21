@@ -1,8 +1,21 @@
 [
   {
-    "id": "2122",
-    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
+    "badAnswers": [
+      "Plume",
+      "Étoile",
+      "Champignon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+  },
+  {
+    "id": "1893",
+    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -10,123 +23,110 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
+    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1095",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
-    "answer": "Chlore",
+    "id": "1479",
+    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
+    "answer": "Depeche Mode",
     "badAnswers": [
-      "Chrome",
-      "Césium",
-      "Carbone"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
-  },
-  {
-    "id": "734",
-    "question": "Dans Elden Ring, quel est le nom de la première reine de l'Entre-Terre ?",
-    "answer": "Marika",
-    "badAnswers": [
-      "Rennala",
-      "Malenia",
-      "Ranni"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Marika est la première reine de l'Entre-Terre dans Elden Ring, liée à l'Anneau d'Elden. Rennala, Malenia et Ranni sont d'autres figures importantes, mais pas la première reine."
-  },
-  {
-    "id": "803",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
-    "answer": "Remus Lupin",
-    "badAnswers": [
-      "Gilderoy Lockhart",
-      "Quirinus Quirrell",
-      "Alastor Maugrey"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
-  },
-  {
-    "id": "1051",
-    "question": "Quel est le nom de l'élément chimique avec le symbole O ?",
-    "answer": "Oxygène",
-    "badAnswers": [
-      "Osmium",
-      "Or",
-      "Ozone"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'oxygène, symbolisé par O, est un élément essentiel à la respiration et à la combustion, constituant environ 21 % de l'atmosphère terrestre."
-  },
-  {
-    "id": "174",
-    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
-    "answer": "1982",
-    "badAnswers": [
-      "1983",
-      "1985",
-      "1980"
+      "New Order",
+      "The Cure",
+      "Duran Duran"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
+    "difficulty": "facile",
+    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
   },
   {
-    "id": "1466",
-    "question": "Quel est la capitale du Myanmar ?",
-    "answer": "Naypyidaw",
+    "id": "2084",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur CD ?",
+    "answer": "James Russell",
     "badAnswers": [
-      "Yangon",
-      "Mandalay",
-      "Bago"
+      "Philips",
+      "Sony",
+      "Toshiba"
     ],
-    "category": "Géographie",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+    "description": "James Russell a développé le concept du disque compact (CD) dans les années 1960, révolutionnant le stockage audio."
   },
   {
-    "id": "768",
-    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Âge d'or de la piraterie",
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée à l’amour maternel et à la protection des enfants ?",
+    "answer": "Déméter",
     "badAnswers": [
-      "Révolution américaine",
-      "Renaissance",
-      "Égypte ptolémaïque"
+      "Aphrodite",
+      "Héra",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Déméter est la déesse grecque de l’agriculture et de la maternité. Elle est particulièrement connue pour son amour profond envers sa fille Perséphone, ce qui symbolise l’amour maternel dans la mythologie grecque."
+  },
+  {
+    "id": "919",
+    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
+    "answer": "Dunwall",
+    "badAnswers": [
+      "Karnaca",
+      "Serkonos",
+      "Gristol"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
+    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
   },
   {
-    "id": "380",
-    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
-    "answer": "Les Nymphéas",
+    "id": "896",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
+    "answer": "Ciri",
     "badAnswers": [
-      "Impression, soleil levant",
-      "La Promenade",
-      "Le Déjeuner sur l’herbe"
+      "Yennefer",
+      "Triss",
+      "Keira"
     ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
-  },
-  {
-    "id": "893",
-    "question": "Quel est le plus grand mammifère marin actuel ?",
-    "answer": "Baleine bleue",
-    "badAnswers": [
-      "Cachalot",
-      "Rorqual commun",
-      "Baleine boréale"
-    ],
-    "category": "Animaux",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
+    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
+  },
+  {
+    "id": "1823",
+    "question": "Quel est le nom de l'auteur de 'Voyage au centre de la Terre' ?",
+    "answer": "Jules Verne",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Jules Verne a écrit 'Voyage au centre de la Terre' (1864), un roman d'aventure scientifique sur une expédition souterraine."
+  },
+  {
+    "id": "1964",
+    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
+  },
+  {
+    "id": "1887",
+    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
+    "answer": "Frank McNamara",
+    "badAnswers": [
+      "Ralph Schneider",
+      "Alfred Bloomingdale",
+      "John Biggins"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
   }
 ]
