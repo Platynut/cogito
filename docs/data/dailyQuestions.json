@@ -1,132 +1,132 @@
 [
   {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
+    "id": "853",
+    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
+    "answer": "Neo Tilted",
     "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
+      "Mega Mall",
+      "Paradise Palms",
+      "Junk Junction"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
-  },
-  {
-    "id": "1893",
-    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
+    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
   },
   {
-    "id": "1479",
-    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
-    "answer": "Depeche Mode",
+    "id": "2090",
+    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
+    "answer": "Ian Donald",
     "badAnswers": [
-      "New Order",
-      "The Cure",
-      "Duran Duran"
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+  },
+  {
+    "id": "1252",
+    "question": "Quel est le nom du groupe qui a chanté 'With or Without You' ?",
+    "answer": "U2",
+    "badAnswers": [
+      "R.E.M.",
+      "The Police",
+      "Coldplay"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
+    "description": "'With or Without You', sorti en 1987 par U2, est une chanson rock emblématique tirée de l'album The Joshua Tree."
   },
   {
-    "id": "2084",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur CD ?",
-    "answer": "James Russell",
+    "id": "2109",
+    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
+    "answer": "David Atlas",
     "badAnswers": [
-      "Philips",
-      "Sony",
-      "Toshiba"
+      "Robert Watson-Watt",
+      "Christian Hülsmeyer",
+      "Heinrich Hertz"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "James Russell a développé le concept du disque compact (CD) dans les années 1960, révolutionnant le stockage audio."
+    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
   },
   {
-    "id": "1123",
-    "question": "Quelle déesse grecque est associée à l’amour maternel et à la protection des enfants ?",
-    "answer": "Déméter",
+    "id": "1435",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1971 ?",
+    "answer": "The French Connection",
     "badAnswers": [
-      "Aphrodite",
-      "Héra",
-      "Artémis"
+      "A Clockwork Orange",
+      "Fiddler on the Roof",
+      "The Last Picture Show"
     ],
-    "category": "Mythologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Déméter est la déesse grecque de l’agriculture et de la maternité. Elle est particulièrement connue pour son amour profond envers sa fille Perséphone, ce qui symbolise l’amour maternel dans la mythologie grecque."
+    "description": "The French Connection, réalisé par William Friedkin, a remporté l'Oscar du meilleur film en 1971, un thriller policier sur le trafic de drogue."
   },
   {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
+    "id": "695",
+    "question": "Quel est le nom du plus haut sommet d'Asie ?",
+    "answer": "Everest",
     "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Everest, dans l'Himalaya, est le plus haut sommet d'Asie et du monde, culminant à 8 848 mètres. K2, Kangchenjunga et Lhotse sont d'autres sommets himalayens, mais plus bas."
+  },
+  {
+    "id": "214",
+    "question": "À quelle date remonte la découverte du premier fossile de dinosaure entier ?",
+    "answer": "1815",
+    "badAnswers": [
+      "1380",
+      "1609",
+      "1920"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le premier fossile complet (un iguanodon) fut découvert en 1815 par Mary Anning. En 1380 ou 1609, les dinosaures étaient inconnus, et en 1920, beaucoup avaient déjà été identifiés."
+  },
+  {
+    "id": "1275",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
+    "answer": "Brome",
+    "badAnswers": [
+      "Bore",
+      "Baryum",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
+  },
+  {
+    "id": "613",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du chef des Sombrages ?",
+    "answer": "Ulfric Sombrage",
+    "badAnswers": [
+      "Balgruuf le Grand",
+      "Tullius",
+      "Kodlak Blanc-Mane"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
+    "description": "Ulfric Sombrage est le chef des Sombrages dans The Elder Scrolls V: Skyrim, menant la rébellion contre l'Empire. Balgruuf est un jarl, Tullius un général impérial, et Kodlak le chef des Compagnons."
   },
   {
-    "id": "896",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
-    "answer": "Ciri",
+    "id": "1909",
+    "question": "Quel est le nom du groupe qui a chanté 'Eleanor Rigby' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
-  },
-  {
-    "id": "1823",
-    "question": "Quel est le nom de l'auteur de 'Voyage au centre de la Terre' ?",
-    "answer": "Jules Verne",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Voyage au centre de la Terre' (1864), un roman d'aventure scientifique sur une expédition souterraine."
-  },
-  {
-    "id": "1964",
-    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
-  },
-  {
-    "id": "1887",
-    "question": "Quel est le nom de l'inventeur du premier système de carte de crédit ?",
-    "answer": "Frank McNamara",
-    "badAnswers": [
-      "Ralph Schneider",
-      "Alfred Bloomingdale",
-      "John Biggins"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Frank McNamara a créé la première carte de crédit, la Diners Club Card, en 1950, révolutionnant les paiements."
+    "description": "'Eleanor Rigby', sorti en 1966 par The Beatles, est une chanson mélancolique tirée de l'album Revolver."
   }
 ]
