@@ -1,132 +1,132 @@
 [
   {
-    "id": "853",
-    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
-    "answer": "Neo Tilted",
+    "id": "1695",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rh ?",
+    "answer": "Rhodium",
     "badAnswers": [
-      "Mega Mall",
-      "Paradise Palms",
-      "Junk Junction"
+      "Radon",
+      "Rubidium",
+      "Ruthénium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le rhodium, symbolisé par Rh, est un métal rare utilisé dans les convertisseurs catalytiques et les bijoux."
+  },
+  {
+    "id": "1014",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
+    "answer": "The Last of Us",
+    "badAnswers": [
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "Tomb Raider"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
+  },
+  {
+    "id": "646",
+    "question": "Quel artiste a peint L'Homme de Vitruve ?",
+    "answer": "Léonard de Vinci",
+    "badAnswers": [
+      "Michel-Ange",
+      "Raphaël",
+      "Botticelli"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "L'Homme de Vitruve (vers 1490) de Léonard de Vinci est un dessin illustrant les proportions humaines idéales. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance, mais n'ont pas créé cette œuvre."
+  },
+  {
+    "id": "207",
+    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
+    "answer": "Nisse",
+    "badAnswers": [
+      "Tomte",
+      "Knecht Ruprecht",
+      "Befana"
+    ],
+    "category": "Culture générale",
+    "difficulty": "normal",
+    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
+  },
+  {
+    "id": "413",
+    "question": "Dans Fallout 4, quelle est la ville principale où commence l’histoire du joueur ?",
+    "answer": "Sanctuary Hills",
+    "badAnswers": [
+      "Diamond City",
+      "Goodneighbor",
+      "Bunker Hill"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
+    "description": "Sanctuary Hills est la ville de départ de Fallout 4, où le joueur commence avant l’apocalypse nucléaire. C’est un lieu clé pour la construction de bases. Diamond City, Goodneighbor et Bunker Hill sont d’autres lieux importants, mais pas le point de départ."
   },
   {
-    "id": "2090",
-    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
-    "answer": "Ian Donald",
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
     ],
     "category": "Médecine",
     "difficulty": "normal",
-    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
   },
   {
-    "id": "1252",
-    "question": "Quel est le nom du groupe qui a chanté 'With or Without You' ?",
-    "answer": "U2",
+    "id": "239",
+    "question": "Dans quelle série Omar Sy est le personnage principal ?",
+    "answer": "Lupin",
     "badAnswers": [
-      "R.E.M.",
-      "The Police",
-      "Coldplay"
+      "Marseille",
+      "Intouchables",
+      "La Casa de Papel"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'With or Without You', sorti en 1987 par U2, est une chanson rock emblématique tirée de l'album The Joshua Tree."
-  },
-  {
-    "id": "2109",
-    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
-    "answer": "David Atlas",
-    "badAnswers": [
-      "Robert Watson-Watt",
-      "Christian Hülsmeyer",
-      "Heinrich Hertz"
-    ],
-    "category": "Technologie",
+    "category": "Séries",
     "difficulty": "normal",
-    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
+    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
   },
   {
-    "id": "1435",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1971 ?",
-    "answer": "The French Connection",
+    "id": "508",
+    "question": "Quel scientifique a découvert le principe d'incertitude ?",
+    "answer": "Werner Heisenberg",
     "badAnswers": [
-      "A Clockwork Orange",
-      "Fiddler on the Roof",
-      "The Last Picture Show"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The French Connection, réalisé par William Friedkin, a remporté l'Oscar du meilleur film en 1971, un thriller policier sur le trafic de drogue."
-  },
-  {
-    "id": "695",
-    "question": "Quel est le nom du plus haut sommet d'Asie ?",
-    "answer": "Everest",
-    "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "L'Everest, dans l'Himalaya, est le plus haut sommet d'Asie et du monde, culminant à 8 848 mètres. K2, Kangchenjunga et Lhotse sont d'autres sommets himalayens, mais plus bas."
-  },
-  {
-    "id": "214",
-    "question": "À quelle date remonte la découverte du premier fossile de dinosaure entier ?",
-    "answer": "1815",
-    "badAnswers": [
-      "1380",
-      "1609",
-      "1920"
+      "Max Planck",
+      "Niels Bohr",
+      "Erwin Schrödinger"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le premier fossile complet (un iguanodon) fut découvert en 1815 par Mary Anning. En 1380 ou 1609, les dinosaures étaient inconnus, et en 1920, beaucoup avaient déjà été identifiés."
+    "description": "Werner Heisenberg a formulé le principe d'incertitude en 1927, un concept clé de la mécanique quantique indiquant qu'on ne peut connaître simultanément la position et la vitesse d'une particule. Planck, Bohr et Schrödinger ont contribué à d'autres aspects de la physique quantique."
   },
   {
-    "id": "1275",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
-    "answer": "Brome",
+    "id": "1857",
+    "question": "Quel est le nom de l'auteur de 'Le Château' ?",
+    "answer": "Franz Kafka",
     "badAnswers": [
-      "Bore",
-      "Baryum",
-      "Bismuth"
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Rainer Maria Rilke"
     ],
-    "category": "Science",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
+    "description": "Franz Kafka a écrit 'Le Château' (1926), un roman inachevé sur l'aliénation et la bureaucratie."
   },
   {
-    "id": "613",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du chef des Sombrages ?",
-    "answer": "Ulfric Sombrage",
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
     "badAnswers": [
-      "Balgruuf le Grand",
-      "Tullius",
-      "Kodlak Blanc-Mane"
+      "Akali",
+      "Zed",
+      "Kennen"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ulfric Sombrage est le chef des Sombrages dans The Elder Scrolls V: Skyrim, menant la rébellion contre l'Empire. Balgruuf est un jarl, Tullius un général impérial, et Kodlak le chef des Compagnons."
-  },
-  {
-    "id": "1909",
-    "question": "Quel est le nom du groupe qui a chanté 'Eleanor Rigby' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Eleanor Rigby', sorti en 1966 par The Beatles, est une chanson mélancolique tirée de l'album Revolver."
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
   }
 ]
