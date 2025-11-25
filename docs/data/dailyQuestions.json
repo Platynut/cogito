@@ -1,33 +1,20 @@
 [
   {
-    "id": "1505",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
-    "answer": "On the Waterfront",
+    "id": "1760",
+    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "The Caine Mutiny",
-      "Seven Brides for Seven Brothers",
-      "Three Coins in the Fountain"
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
     ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
+    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
-    "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
-  },
-  {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "id": "1885",
+    "question": "Quel est le nom de l'auteur de 'Les Mots' ?",
     "answer": "Jean-Paul Sartre",
     "badAnswers": [
       "Albert Camus",
@@ -36,97 +23,110 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+    "description": "Jean-Paul Sartre a écrit 'Les Mots' (1964), une autobiographie sur son enfance et sa découverte de la littérature."
   },
   {
-    "id": "1415",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1974 ?",
-    "answer": "The Godfather Part II",
+    "id": "334",
+    "question": "Quel écrivain a créé le personnage de James Bond ?",
+    "answer": "Ian Fleming",
     "badAnswers": [
-      "Chinatown",
-      "The Conversation",
-      "Lenny"
+      "John le Carré",
+      "Agatha Christie",
+      "Tom Clancy"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+  },
+  {
+    "id": "877",
+    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "721",
+    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
+      "Qui-Gon Jinn",
+      "Mace Windu"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "The Godfather Part II, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1974, une suite épique sur la famille Corleone."
+    "description": "Yoda est le mentor de Luke Skywalker dans L'Empire contre-attaque, l'entraînant sur Dagobah. Obi-Wan, Qui-Gon et Mace Windu sont d'autres Jedi, mais pas ses mentors dans ce film."
   },
   {
-    "id": "1811",
-    "question": "Quel est le nom du groupe qui a chanté 'Satisfaction' ?",
-    "answer": "The Rolling Stones",
+    "id": "623",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Dream Coil ?",
+    "answer": "Puck",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Satisfaction', sorti en 1965 par The Rolling Stones, est une chanson rock emblématique tirée de l'album Out of Our Heads."
-  },
-  {
-    "id": "726",
-    "question": "Quel est la capitale de la Nouvelle-Zélande ?",
-    "answer": "Wellington",
-    "badAnswers": [
-      "Auckland",
-      "Christchurch",
-      "Dunedin"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Wellington est la capitale de la Nouvelle-Zélande, située sur l'île du Nord. Auckland, Christchurch et Dunedin sont d'autres villes néo-zélandaises, mais pas la capitale."
-  },
-  {
-    "id": "527",
-    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
-    "answer": "Darius",
-    "badAnswers": [
-      "Draven",
-      "Swain",
-      "Kled"
+      "Invoker",
+      "Rubick",
+      "Storm Spirit"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+    "description": "Puck est un héros de Dota 2 connu pour son sort ultime Dream Coil, qui immobilise et endommage les ennemis. Invoker, Rubick et Storm Spirit sont d'autres héros magiques, mais n'ont pas ce sort."
   },
   {
-    "id": "727",
-    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
-    "answer": "James Clerk Maxwell",
+    "id": "677",
+    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
-      "Michael Faraday",
-      "Heinrich Hertz",
-      "Nikola Tesla"
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Breton"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "874",
-    "question": "Quel est le nom du plus haut sommet d'Australie ?",
-    "answer": "Mont Kosciuszko",
-    "badAnswers": [
-      "Mont Ossa",
-      "Mont Bogong",
-      "Mont Hotham"
-    ],
-    "category": "Géographie",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Le Mont Kosciuszko, en Nouvelle-Galles du Sud, est le plus haut sommet d'Australie, culminant à 2 228 mètres. Ossa, Bogong et Hotham sont d'autres sommets australiens, mais plus bas."
+    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1008",
-    "question": "Quel animal est le symbole de l'organisation WWF ?",
-    "answer": "Panda",
+    "id": "1303",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
+    "answer": "Dances with Wolves",
     "badAnswers": [
-      "Tigre",
-      "Ours polaire",
-      "Aigle"
+      "Goodfellas",
+      "Awakenings",
+      "Ghost"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le panda est le symbole du Fonds mondial pour la nature (WWF), choisi pour représenter la conservation des espèces menacées depuis la création de l'organisation en 1961."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
+  },
+  {
+    "id": "1313",
+    "question": "Quel est le nom de l'auteur de 'Bel-Ami' ?",
+    "answer": "Guy de Maupassant",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Victor Hugo"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Bel-Ami' (1885), un roman réaliste sur l'ambition sociale d'un jeune homme dans le Paris du XIXe siècle."
+  },
+  {
+    "id": "1351",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
+    "answer": "Terms of Endearment",
+    "badAnswers": [
+      "The Right Stuff",
+      "Tender Mercies",
+      "The Big Chill"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1983, une comédie dramatique sur les relations familiales."
   }
 ]
