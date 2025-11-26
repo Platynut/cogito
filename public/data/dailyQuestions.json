@@ -1,132 +1,132 @@
 [
   {
-    "id": "1760",
-    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1875",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
+    "answer": "Jimi Hendrix",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
-  },
-  {
-    "id": "1885",
-    "question": "Quel est le nom de l'auteur de 'Les Mots' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Mots' (1964), une autobiographie sur son enfance et sa découverte de la littérature."
-  },
-  {
-    "id": "334",
-    "question": "Quel écrivain a créé le personnage de James Bond ?",
-    "answer": "Ian Fleming",
-    "badAnswers": [
-      "John le Carré",
-      "Agatha Christie",
-      "Tom Clancy"
-    ],
-    "category": "Littérature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
   },
   {
-    "id": "877",
-    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
-    "answer": "Léon Tolstoï",
+    "id": "1163",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
+    "answer": "Cornelius Drebbel",
     "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
   },
   {
-    "id": "721",
-    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans L'Empire contre-attaque ?",
-    "answer": "Yoda",
+    "id": "905",
+    "question": "Quel est le plus petit os du corps humain ?",
+    "answer": "L'étrier",
     "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Qui-Gon Jinn",
-      "Mace Windu"
+      "Le marteau",
+      "L'enclume",
+      "Le scaphoïde"
     ],
-    "category": "Cinéma",
+    "category": "Anatomie",
     "difficulty": "facile",
-    "description": "Yoda est le mentor de Luke Skywalker dans L'Empire contre-attaque, l'entraînant sur Dagobah. Obi-Wan, Qui-Gon et Mace Windu sont d'autres Jedi, mais pas ses mentors dans ce film."
+    "description": "L'étrier, situé dans l'oreille moyenne, est le plus petit os du corps humain, mesurant environ 2,5 mm de long. Le marteau et l'enclume sont également des os de l'oreille moyenne, mais plus grands."
   },
   {
-    "id": "623",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Dream Coil ?",
-    "answer": "Puck",
+    "id": "1883",
+    "question": "Quel est le nom du groupe qui a chanté 'Voodoo Child (Slight Return)' ?",
+    "answer": "Jimi Hendrix",
     "badAnswers": [
-      "Invoker",
-      "Rubick",
-      "Storm Spirit"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Voodoo Child (Slight Return)', sorti en 1968 par Jimi Hendrix, est une chanson rock tirée de l'album Electric Ladyland."
+  },
+  {
+    "id": "618",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
+    "answer": "Bayonetta",
+    "badAnswers": [
+      "Jeanne",
+      "Rodin",
+      "Luka"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Puck est un héros de Dota 2 connu pour son sort ultime Dream Coil, qui immobilise et endommage les ennemis. Invoker, Rubick et Storm Spirit sont d'autres héros magiques, mais n'ont pas ce sort."
+    "difficulty": "facile",
+    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
   },
   {
-    "id": "677",
-    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
-    "answer": "Boris Vian",
+    "id": "750",
+    "question": "Quel est la capitale de la Suède ?",
+    "answer": "Stockholm",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Breton"
+      "Göteborg",
+      "Malmö",
+      "Uppsala"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
   },
   {
-    "id": "1303",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
-    "answer": "Dances with Wolves",
+    "id": "382",
+    "question": "Quel est le nom du plus long fleuve du monde ?",
+    "answer": "Nil",
     "badAnswers": [
-      "Goodfellas",
-      "Awakenings",
-      "Ghost"
+      "Amazone",
+      "Yangtsé",
+      "Mississippi"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
+    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
   },
   {
-    "id": "1313",
-    "question": "Quel est le nom de l'auteur de 'Bel-Ami' ?",
-    "answer": "Guy de Maupassant",
+    "id": "703",
+    "question": "Quel est le nom du plus grand désert d'Afrique ?",
+    "answer": "Sahara",
     "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Victor Hugo"
+      "Kalahari",
+      "Namib",
+      "Désert de Libye"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Bel-Ami' (1885), un roman réaliste sur l'ambition sociale d'un jeune homme dans le Paris du XIXe siècle."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
   },
   {
-    "id": "1351",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
-    "answer": "Terms of Endearment",
+    "id": "1183",
+    "question": "Quel est la capitale du Venezuela ?",
+    "answer": "Caracas",
     "badAnswers": [
-      "The Right Stuff",
-      "Tender Mercies",
-      "The Big Chill"
+      "Maracaibo",
+      "Valencia",
+      "Barquisimeto"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1983, une comédie dramatique sur les relations familiales."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
+  },
+  {
+    "id": "594",
+    "question": "Quel est le nom du plus haut sommet d'Afrique ?",
+    "answer": "Kilimandjaro",
+    "badAnswers": [
+      "Mont Kenya",
+      "Ruwenzori",
+      "Ras Dashen"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Kilimandjaro, en Tanzanie, est le plus haut sommet d'Afrique, culminant à 5 895 mètres. C'est un volcan emblématique. Le mont Kenya, le Ruwenzori et le Ras Dashen sont d'autres sommets africains, mais plus bas."
   }
 ]
