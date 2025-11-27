@@ -1,132 +1,132 @@
 [
   {
-    "id": "1875",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Joe' ?",
-    "answer": "Jimi Hendrix",
+    "id": "470",
+    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
+    "answer": "Zarya",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hey Joe', sorti en 1966 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "1163",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
-    "answer": "Cornelius Drebbel",
-    "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
-  },
-  {
-    "id": "905",
-    "question": "Quel est le plus petit os du corps humain ?",
-    "answer": "L'étrier",
-    "badAnswers": [
-      "Le marteau",
-      "L'enclume",
-      "Le scaphoïde"
-    ],
-    "category": "Anatomie",
-    "difficulty": "facile",
-    "description": "L'étrier, situé dans l'oreille moyenne, est le plus petit os du corps humain, mesurant environ 2,5 mm de long. Le marteau et l'enclume sont également des os de l'oreille moyenne, mais plus grands."
-  },
-  {
-    "id": "1883",
-    "question": "Quel est le nom du groupe qui a chanté 'Voodoo Child (Slight Return)' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Voodoo Child (Slight Return)', sorti en 1968 par Jimi Hendrix, est une chanson rock tirée de l'album Electric Ladyland."
-  },
-  {
-    "id": "618",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
-    "answer": "Bayonetta",
-    "badAnswers": [
-      "Jeanne",
-      "Rodin",
-      "Luka"
+      "Mei",
+      "Winston",
+      "Symmetra"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
-  },
-  {
-    "id": "750",
-    "question": "Quel est la capitale de la Suède ?",
-    "answer": "Stockholm",
-    "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
-  },
-  {
-    "id": "382",
-    "question": "Quel est le nom du plus long fleuve du monde ?",
-    "answer": "Nil",
-    "badAnswers": [
-      "Amazone",
-      "Yangtsé",
-      "Mississippi"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
+    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
   },
   {
-    "id": "703",
-    "question": "Quel est le nom du plus grand désert d'Afrique ?",
-    "answer": "Sahara",
+    "id": "1772",
+    "question": "Quel est le nom du dieu grec de la terreur ?",
+    "answer": "Deimos",
     "badAnswers": [
-      "Kalahari",
-      "Namib",
-      "Désert de Libye"
+      "Phobos",
+      "Éros",
+      "Thanatos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Deimos, dieu grec de la terreur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+  },
+  {
+    "id": "777",
+    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
+    "answer": "Démon du Refuge",
+    "badAnswers": [
+      "Gwyn",
+      "Ornstein",
+      "Sif"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
+  },
+  {
+    "id": "535",
+    "question": "Quel est la capitale du Kenya ?",
+    "answer": "Nairobi",
+    "badAnswers": [
+      "Mombasa",
+      "Kisumu",
+      "Nakuru"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
+    "description": "Nairobi est la capitale du Kenya, un centre économique et politique connu pour son parc national. Mombasa, Kisumu et Nakuru sont d'autres villes kényanes, mais pas la capitale."
   },
   {
-    "id": "1183",
-    "question": "Quel est la capitale du Venezuela ?",
-    "answer": "Caracas",
+    "id": "107",
+    "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
+    "answer": "Adrien Quatennens",
     "badAnswers": [
-      "Maracaibo",
-      "Valencia",
-      "Barquisimeto"
+      "Eric Ciotti",
+      "Damien Abad",
+      "Gérald Darmanin"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
+  },
+  {
+    "id": "488",
+    "question": "Quel est la capitale de l'Indonésie ?",
+    "answer": "Jakarta",
+    "badAnswers": [
+      "Bali",
+      "Surabaya",
+      "Bandung"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
+    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
   },
   {
-    "id": "594",
-    "question": "Quel est le nom du plus haut sommet d'Afrique ?",
-    "answer": "Kilimandjaro",
+    "id": "84",
+    "question": "Quel est le seul continent sans désert ?",
+    "answer": "Europe",
     "badAnswers": [
-      "Mont Kenya",
-      "Ruwenzori",
-      "Ras Dashen"
+      "Asie",
+      "Amérique du Sud",
+      "Australie"
     ],
     "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
+  },
+  {
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le Kilimandjaro, en Tanzanie, est le plus haut sommet d'Afrique, culminant à 5 895 mètres. C'est un volcan emblématique. Le mont Kenya, le Ruwenzori et le Ras Dashen sont d'autres sommets africains, mais plus bas."
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+  },
+  {
+    "id": "1918",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want to Hold Your Hand' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Want to Hold Your Hand', sorti en 1963 par The Beatles, est une chanson pop qui a lancé la Beatlemania."
+  },
+  {
+    "id": "1371",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Eu ?",
+    "answer": "Europium",
+    "badAnswers": [
+      "Erbium",
+      "Einsteinium",
+      "Uranium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'europium, symbolisé par Eu, est un métal rare utilisé dans les écrans fluorescents et les lampes pour sa luminescence rouge."
   }
 ]
