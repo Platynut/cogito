@@ -1,132 +1,132 @@
 [
   {
-    "id": "470",
-    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
-    "answer": "Zarya",
+    "id": "903",
+    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
+    "answer": "Le grand fessier",
     "badAnswers": [
-      "Mei",
-      "Winston",
-      "Symmetra"
+      "Le biceps",
+      "Le quadriceps",
+      "Le deltoïde"
     ],
-    "category": "Jeux vidéo",
+    "category": "Anatomie",
     "difficulty": "normal",
-    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
+    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
   },
   {
-    "id": "1772",
-    "question": "Quel est le nom du dieu grec de la terreur ?",
-    "answer": "Deimos",
+    "id": "874",
+    "question": "Quel est le nom du plus haut sommet d'Australie ?",
+    "answer": "Mont Kosciuszko",
     "badAnswers": [
-      "Phobos",
-      "Éros",
-      "Thanatos"
+      "Mont Ossa",
+      "Mont Bogong",
+      "Mont Hotham"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Mont Kosciuszko, en Nouvelle-Galles du Sud, est le plus haut sommet d'Australie, culminant à 2 228 mètres. Ossa, Bogong et Hotham sont d'autres sommets australiens, mais plus bas."
+  },
+  {
+    "id": "516",
+    "question": "Quel est la capitale de l'Inde ?",
+    "answer": "New Delhi",
+    "badAnswers": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "New Delhi est la capitale de l'Inde, abritant le Parlement et la Porte de l'Inde. C'est une ville planifiée distincte de Delhi. Mumbai, Kolkata et Chennai sont d'autres grandes villes indiennes, mais pas la capitale."
+  },
+  {
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
+    "badAnswers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
+  },
+  {
+    "id": "1434",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ciri ?",
+    "answer": "The Witcher 3: Wild Hunt",
+    "badAnswers": [
+      "Dragon Age: Inquisition",
+      "Skyrim",
+      "Dark Souls II"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ciri, puissante sorceleuse et fille adoptive de Geralt, est un personnage central de The Witcher 3: Wild Hunt."
+  },
+  {
+    "id": "703",
+    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+    "answer": "Iso-onna",
+    "badAnswers": [
+      "Yuki-onna",
+      "Jorōgumo",
+      "Onryō"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Deimos, dieu grec de la terreur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
   },
   {
-    "id": "777",
-    "question": "Dans Dark Souls, quel est le nom du premier boss rencontré ?",
-    "answer": "Démon du Refuge",
+    "id": "1510",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre la variole bovine ?",
+    "answer": "Edward Jenner",
     "badAnswers": [
-      "Gwyn",
-      "Ornstein",
-      "Sif"
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Robert Koch"
     ],
-    "category": "Jeux vidéo",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Le Démon du Refuge est le premier boss rencontré dans Dark Souls, dans le tutoriel du Refuge des Morts-vivants. Gwyn, Ornstein et Sif sont des boss ultérieurs."
+    "description": "Edward Jenner a utilisé la variole bovine pour créer le premier vaccin en 1796, jetant les bases de l'immunisation moderne."
   },
   {
-    "id": "535",
-    "question": "Quel est la capitale du Kenya ?",
-    "answer": "Nairobi",
+    "id": "1004",
+    "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
+    "answer": "Caltech",
     "badAnswers": [
-      "Mombasa",
-      "Kisumu",
-      "Nakuru"
+      "UCLA",
+      "MIT",
+      "UC Berkeley"
     ],
-    "category": "Géographie",
+    "category": "Séries",
     "difficulty": "facile",
-    "description": "Nairobi est la capitale du Kenya, un centre économique et politique connu pour son parc national. Mombasa, Kisumu et Nakuru sont d'autres villes kényanes, mais pas la capitale."
+    "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
   },
   {
-    "id": "107",
-    "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
-    "answer": "Adrien Quatennens",
+    "id": "1209",
+    "question": "Quel est le nom de l'inventeur de la dynamo ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Eric Ciotti",
-      "Damien Abad",
-      "Gérald Darmanin"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
     ],
-    "category": "Politique",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
+    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
   },
   {
-    "id": "488",
-    "question": "Quel est la capitale de l'Indonésie ?",
-    "answer": "Jakarta",
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
     "badAnswers": [
-      "Bali",
-      "Surabaya",
-      "Bandung"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
-  },
-  {
-    "id": "84",
-    "question": "Quel est le seul continent sans désert ?",
-    "answer": "Europe",
-    "badAnswers": [
-      "Asie",
-      "Amérique du Sud",
-      "Australie"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
-  },
-  {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
-  },
-  {
-    "id": "1918",
-    "question": "Quel est le nom du groupe qui a chanté 'I Want to Hold Your Hand' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Want to Hold Your Hand', sorti en 1963 par The Beatles, est une chanson pop qui a lancé la Beatlemania."
-  },
-  {
-    "id": "1371",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Eu ?",
-    "answer": "Europium",
-    "badAnswers": [
-      "Erbium",
-      "Einsteinium",
-      "Uranium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'europium, symbolisé par Eu, est un métal rare utilisé dans les écrans fluorescents et les lampes pour sa luminescence rouge."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
   }
 ]
