@@ -1,132 +1,132 @@
 [
   {
-    "id": "903",
-    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
-    "answer": "Le grand fessier",
+    "id": "1827",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Dog' ?",
+    "answer": "Led Zeppelin",
     "badAnswers": [
-      "Le biceps",
-      "Le quadriceps",
-      "Le deltoïde"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
-  },
-  {
-    "id": "874",
-    "question": "Quel est le nom du plus haut sommet d'Australie ?",
-    "answer": "Mont Kosciuszko",
-    "badAnswers": [
-      "Mont Ossa",
-      "Mont Bogong",
-      "Mont Hotham"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mont Kosciuszko, en Nouvelle-Galles du Sud, est le plus haut sommet d'Australie, culminant à 2 228 mètres. Ossa, Bogong et Hotham sont d'autres sommets australiens, mais plus bas."
-  },
-  {
-    "id": "516",
-    "question": "Quel est la capitale de l'Inde ?",
-    "answer": "New Delhi",
-    "badAnswers": [
-      "Mumbai",
-      "Kolkata",
-      "Chennai"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "New Delhi est la capitale de l'Inde, abritant le Parlement et la Porte de l'Inde. C'est une ville planifiée distincte de Delhi. Mumbai, Kolkata et Chennai sont d'autres grandes villes indiennes, mais pas la capitale."
+    "description": "'Black Dog', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
   },
   {
-    "id": "416",
-    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
-    "answer": "Miguel de Cervantès",
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
     "badAnswers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Federico García Lorca"
+      "Inari",
+      "Hachiman",
+      "Raijin"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
   },
   {
-    "id": "1434",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ciri ?",
-    "answer": "The Witcher 3: Wild Hunt",
+    "id": "692",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
+    "answer": "Alduin",
     "badAnswers": [
-      "Dragon Age: Inquisition",
-      "Skyrim",
-      "Dark Souls II"
+      "Paarthurnax",
+      "Odahviing",
+      "Durnehviir"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ciri, puissante sorceleuse et fille adoptive de Geralt, est un personnage central de The Witcher 3: Wild Hunt."
+    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
   },
   {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
+    "id": "1962",
+    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
-  },
-  {
-    "id": "1510",
-    "question": "Quel est le nom de l'inventeur du premier vaccin contre la variole bovine ?",
-    "answer": "Edward Jenner",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Robert Koch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Edward Jenner a utilisé la variole bovine pour créer le premier vaccin en 1796, jetant les bases de l'immunisation moderne."
-  },
-  {
-    "id": "1004",
-    "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
-    "answer": "Caltech",
-    "badAnswers": [
-      "UCLA",
-      "MIT",
-      "UC Berkeley"
-    ],
-    "category": "Séries",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
+    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
   },
   {
-    "id": "1209",
-    "question": "Quel est le nom de l'inventeur de la dynamo ?",
-    "answer": "Michael Faraday",
+    "id": "863",
+    "question": "Quel est le plus grand crustacé du monde ?",
+    "answer": "Araignée de mer japonaise",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Homard américain",
+      "Crabe des cocotiers",
+      "Crevette tigrée"
     ],
-    "category": "Histoire",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
+    "description": "L'araignée de mer japonaise (Macrocheira kaempferi) est le plus grand crustacé du monde, avec une envergure pouvant atteindre 3,7 mètres pattes étendues. Le homard américain est le plus massif en poids, mais plus petit en taille. Le crabe des cocotiers et la crevette tigrée sont également plus petits."
   },
   {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
+    "id": "1878",
+    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
+    "answer": "Nobélium",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Neon",
+      "Nickel",
+      "Niobium"
     ],
-    "category": "Mythologie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+    "description": "Le nobélium, symbolisé par No, est un élément radioactif synthétique utilisé en recherche scientifique."
+  },
+  {
+    "id": "2132",
+    "question": "Quel est le nom de l'auteur de 'Les Parents terribles' ?",
+    "answer": "Jean Cocteau",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'Les Parents terribles' (1938), une pièce de théâtre sur les relations familiales complexes."
+  },
+  {
+    "id": "521",
+    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
+    "answer": "Yoshi",
+    "badAnswers": [
+      "Toad",
+      "Luigi",
+      "Bowser"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
+  },
+  {
+    "id": "914",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
+    "answer": "Luna",
+    "badAnswers": [
+      "Night Stalker",
+      "Spectre",
+      "Shadow Shaman"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
+  },
+  {
+    "id": "806",
+    "question": "Dans Bloodborne, quel est le nom de la chasseuse rencontrée dans la Cathédrale ?",
+    "answer": "Eileen la Corneille",
+    "badAnswers": [
+      "Lady Maria",
+      "Vicaire Amelia",
+      "Annalise"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Eileen la Corneille est une chasseuse rencontrée dans la Cathédrale de Bloodborne, aidant contre les chasseurs fous. Lady Maria, Amelia et Annalise sont d'autres personnages."
   }
 ]
