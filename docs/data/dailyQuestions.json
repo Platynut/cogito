@@ -1,46 +1,111 @@
 [
   {
-    "id": "1827",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Dog' ?",
-    "answer": "Led Zeppelin",
+    "id": "226",
+    "question": "Quel groupe chante 'Roxanne' ?",
+    "answer": "The Police",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "INXS",
+      "Nirvana",
+      "Scorpions"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Black Dog', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
+    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
   },
   {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
+    "id": "338",
+    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
+    "answer": "Solitude",
     "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
+      "Vendeaume",
+      "Faillaise",
+      "Aubétoile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
+  },
+  {
+    "id": "748",
+    "question": "Quel est le plus grand reptile terrestre actuel ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Varan de Komodo",
+      "Tortue des Galápagos",
+      "Anaconda vert"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
+  },
+  {
+    "id": "1196",
+    "question": "Quel est la capitale du Sénégal ?",
+    "answer": "Dakar",
+    "badAnswers": [
+      "Thiès",
+      "Saint-Louis",
+      "Ziguinchor"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
+  },
+  {
+    "id": "1290",
+    "question": "Quel est le nom de la déesse grecque de la lune ?",
+    "answer": "Séléné",
+    "badAnswers": [
+      "Artémis",
+      "Héra",
+      "Aphrodite"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
   },
   {
-    "id": "692",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
-    "answer": "Alduin",
+    "id": "1863",
+    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
+    "answer": "Norman Woodland",
     "badAnswers": [
-      "Paarthurnax",
-      "Odahviing",
-      "Durnehviir"
+      "Bernard Silver",
+      "George Laurer",
+      "Alan Haberman"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
   },
   {
-    "id": "1962",
-    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
+    "id": "209",
+    "question": "Qui a réalisé le film Titanic ?",
+    "answer": "James Cameron",
+    "badAnswers": [
+      "Steven Spielberg",
+      "David Lynch",
+      "Christopher Nolan"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "James Cameron a dirigé 'Titanic' (1997), film le plus oscarisé (11 Oscars) avant 'Avatar'. Spielberg a fait 'Jurassic Park', Lynch 'Mulholland Drive', Nolan 'Inception'."
+  },
+  {
+    "id": "788",
+    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
+    "answer": "Joseph Gay-Lussac",
+    "badAnswers": [
+      "Robert Boyle",
+      "Jacques Charles",
+      "Émile Clapeyron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "1911",
+    "question": "Quel est le nom du groupe qui a chanté 'Yellow Submarine' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -49,84 +114,19 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
+    "description": "'Yellow Submarine', sorti en 1966 par The Beatles, est une chanson ludique tirée de l'album Revolver."
   },
   {
-    "id": "863",
-    "question": "Quel est le plus grand crustacé du monde ?",
-    "answer": "Araignée de mer japonaise",
+    "id": "2036",
+    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Homard américain",
-      "Crabe des cocotiers",
-      "Crevette tigrée"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Animaux",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "L'araignée de mer japonaise (Macrocheira kaempferi) est le plus grand crustacé du monde, avec une envergure pouvant atteindre 3,7 mètres pattes étendues. Le homard américain est le plus massif en poids, mais plus petit en taille. Le crabe des cocotiers et la crevette tigrée sont également plus petits."
-  },
-  {
-    "id": "1878",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobélium",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le nobélium, symbolisé par No, est un élément radioactif synthétique utilisé en recherche scientifique."
-  },
-  {
-    "id": "2132",
-    "question": "Quel est le nom de l'auteur de 'Les Parents terribles' ?",
-    "answer": "Jean Cocteau",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Parents terribles' (1938), une pièce de théâtre sur les relations familiales complexes."
-  },
-  {
-    "id": "521",
-    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Toad",
-      "Luigi",
-      "Bowser"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
-  },
-  {
-    "id": "914",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
-    "answer": "Luna",
-    "badAnswers": [
-      "Night Stalker",
-      "Spectre",
-      "Shadow Shaman"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
-  },
-  {
-    "id": "806",
-    "question": "Dans Bloodborne, quel est le nom de la chasseuse rencontrée dans la Cathédrale ?",
-    "answer": "Eileen la Corneille",
-    "badAnswers": [
-      "Lady Maria",
-      "Vicaire Amelia",
-      "Annalise"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Eileen la Corneille est une chasseuse rencontrée dans la Cathédrale de Bloodborne, aidant contre les chasseurs fous. Lady Maria, Amelia et Annalise sont d'autres personnages."
+    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
   }
 ]
