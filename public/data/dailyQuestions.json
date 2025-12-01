@@ -1,132 +1,132 @@
 [
   {
-    "id": "226",
-    "question": "Quel groupe chante 'Roxanne' ?",
-    "answer": "The Police",
+    "id": "1024",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lara Croft ?",
+    "answer": "Tomb Raider",
     "badAnswers": [
-      "INXS",
-      "Nirvana",
-      "Scorpions"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Roxanne' (1978) est un tube de The Police (Sting, Andy Summers, Stewart Copeland). INXS a chanté 'Need You Tonight', Nirvana 'Smells Like Teen Spirit'."
-  },
-  {
-    "id": "338",
-    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Aubétoile"
+      "Uncharted",
+      "Assassin's Creed",
+      "Far Cry"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
+    "difficulty": "facile",
+    "description": "Lara Croft est l'héroïne emblématique de la série Tomb Raider, une aventurière et archéologue connue pour ses explorations de tombes et de ruines."
   },
   {
-    "id": "748",
-    "question": "Quel est le plus grand reptile terrestre actuel ?",
-    "answer": "Crocodile marin",
+    "id": "133",
+    "question": "Comment s'appelle l'héroïne de Nier ?",
+    "answer": "2B",
     "badAnswers": [
-      "Varan de Komodo",
-      "Tortue des Galápagos",
-      "Anaconda vert"
+      "C4",
+      "69",
+      "96"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "2B (YoRHa No.2 Type B) est l'héroïne du jeu 'Nier: Automata'. Les autres propositions sont des codes ou des chiffres sans rapport."
   },
   {
-    "id": "1196",
-    "question": "Quel est la capitale du Sénégal ?",
-    "answer": "Dakar",
+    "id": "1142",
+    "question": "Quel est la capitale de l'Algérie ?",
+    "answer": "Alger",
     "badAnswers": [
-      "Thiès",
-      "Saint-Louis",
-      "Ziguinchor"
+      "Oran",
+      "Constantine",
+      "Annaba"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
+    "description": "Alger, capitale de l'Algérie, est une ville méditerranéenne connue pour sa casbah historique et son architecture coloniale."
   },
   {
-    "id": "1290",
-    "question": "Quel est le nom de la déesse grecque de la lune ?",
-    "answer": "Séléné",
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
     "badAnswers": [
-      "Artémis",
-      "Héra",
-      "Aphrodite"
+      "Luma",
+      "Toad",
+      "Bowser Jr."
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "541",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
+    "answer": "Shulk",
+    "badAnswers": [
+      "Rex",
+      "Pyra",
+      "Mythra"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
+    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
   },
   {
-    "id": "1863",
-    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
-    "answer": "Norman Woodland",
+    "id": "650",
+    "question": "Quel est le plus grand mammifère marin du monde ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Bernard Silver",
-      "George Laurer",
-      "Alan Haberman"
+      "Cachalot",
+      "Orque",
+      "Rorqual commun"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
   },
   {
-    "id": "209",
-    "question": "Qui a réalisé le film Titanic ?",
-    "answer": "James Cameron",
+    "id": "1034",
+    "question": "Quel est le nom du premier président de la Russie après l'URSS ?",
+    "answer": "Boris Eltsine",
     "badAnswers": [
-      "Steven Spielberg",
-      "David Lynch",
-      "Christopher Nolan"
+      "Vladimir Poutine",
+      "Mikhaïl Gorbatchev",
+      "Dmitri Medvedev"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Boris Eltsine fut le premier président de la Fédération de Russie de 1991 à 1999, jouant un rôle clé dans la transition post-soviétique."
+  },
+  {
+    "id": "1415",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1974 ?",
+    "answer": "The Godfather Part II",
+    "badAnswers": [
+      "Chinatown",
+      "The Conversation",
+      "Lenny"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "James Cameron a dirigé 'Titanic' (1997), film le plus oscarisé (11 Oscars) avant 'Avatar'. Spielberg a fait 'Jurassic Park', Lynch 'Mulholland Drive', Nolan 'Inception'."
+    "description": "The Godfather Part II, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1974, une suite épique sur la famille Corleone."
   },
   {
-    "id": "788",
-    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
-    "answer": "Joseph Gay-Lussac",
+    "id": "1058",
+    "question": "Quel est le nom du premier film d'animation de Pixar ?",
+    "answer": "Toy Story",
     "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Émile Clapeyron"
+      "Monstres et Cie",
+      "Le Monde de Nemo",
+      "Les Indestructibles"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1911",
-    "question": "Quel est le nom du groupe qui a chanté 'Yellow Submarine' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'Yellow Submarine', sorti en 1966 par The Beatles, est une chanson ludique tirée de l'album Revolver."
+    "description": "Toy Story, sorti en 1995, est le premier film d'animation de Pixar, révolutionnant l'animation 3D avec l'histoire de Woody et Buzz l'Éclair."
   },
   {
-    "id": "2036",
-    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
-    "answer": "The Beatles",
+    "id": "1899",
+    "question": "Quel est la capitale du Congo ?",
+    "answer": "Brazzaville",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
   }
 ]
