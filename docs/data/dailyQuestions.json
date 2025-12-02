@@ -1,132 +1,132 @@
 [
   {
-    "id": "1024",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lara Croft ?",
-    "answer": "Tomb Raider",
+    "id": "294",
+    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
+    "answer": "Problèmes de santé mentale",
     "badAnswers": [
-      "Uncharted",
-      "Assassin's Creed",
-      "Far Cry"
+      "Blessures",
+      "Maladie",
+      "Danger pour autrui"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Lara Croft est l'héroïne emblématique de la série Tomb Raider, une aventurière et archéologue connue pour ses explorations de tombes et de ruines."
+    "difficulty": "difficile",
+    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
   },
   {
-    "id": "133",
-    "question": "Comment s'appelle l'héroïne de Nier ?",
-    "answer": "2B",
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
     "badAnswers": [
-      "C4",
-      "69",
-      "96"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "2B (YoRHa No.2 Type B) est l'héroïne du jeu 'Nier: Automata'. Les autres propositions sont des codes ou des chiffres sans rapport."
-  },
-  {
-    "id": "1142",
-    "question": "Quel est la capitale de l'Algérie ?",
-    "answer": "Alger",
-    "badAnswers": [
-      "Oran",
-      "Constantine",
-      "Annaba"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Alger, capitale de l'Algérie, est une ville méditerranéenne connue pour sa casbah historique et son architecture coloniale."
-  },
-  {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
-  },
-  {
-    "id": "541",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
-    "answer": "Shulk",
-    "badAnswers": [
-      "Rex",
-      "Pyra",
-      "Mythra"
+      "Palkia",
+      "Giratina",
+      "Arceus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
   },
   {
-    "id": "650",
-    "question": "Quel est le plus grand mammifère marin du monde ?",
-    "answer": "Baleine bleue",
+    "id": "1296",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
+    "answer": "Xénon",
     "badAnswers": [
-      "Cachalot",
-      "Orque",
-      "Rorqual commun"
+      "Krypton",
+      "Radon",
+      "Argon"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
-  },
-  {
-    "id": "1034",
-    "question": "Quel est le nom du premier président de la Russie après l'URSS ?",
-    "answer": "Boris Eltsine",
-    "badAnswers": [
-      "Vladimir Poutine",
-      "Mikhaïl Gorbatchev",
-      "Dmitri Medvedev"
-    ],
-    "category": "Histoire",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Boris Eltsine fut le premier président de la Fédération de Russie de 1991 à 1999, jouant un rôle clé dans la transition post-soviétique."
+    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
   },
   {
-    "id": "1415",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1974 ?",
-    "answer": "The Godfather Part II",
+    "id": "1301",
+    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
+    "answer": "Némésis",
     "badAnswers": [
-      "Chinatown",
-      "The Conversation",
-      "Lenny"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
+  },
+  {
+    "id": "380",
+    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
+    "answer": "Les Nymphéas",
+    "badAnswers": [
+      "Impression, soleil levant",
+      "La Promenade",
+      "Le Déjeuner sur l’herbe"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+  },
+  {
+    "id": "2051",
+    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
+  },
+  {
+    "id": "213",
+    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
+    "answer": "Le flamboyant",
+    "badAnswers": [
+      "Le tamarin",
+      "Le frangipanier",
+      "Le vacoa"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
+  },
+  {
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
+    "badAnswers": [
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "The Godfather Part II, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1974, une suite épique sur la famille Corleone."
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
   },
   {
-    "id": "1058",
-    "question": "Quel est le nom du premier film d'animation de Pixar ?",
-    "answer": "Toy Story",
+    "id": "1541",
+    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Monstres et Cie",
-      "Le Monde de Nemo",
-      "Les Indestructibles"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
+  },
+  {
+    "id": "1528",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
+    "answer": "All About Eve",
+    "badAnswers": [
+      "Sunset Boulevard",
+      "Born Yesterday",
+      "King Solomon's Mines"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Toy Story, sorti en 1995, est le premier film d'animation de Pixar, révolutionnant l'animation 3D avec l'histoire de Woody et Buzz l'Éclair."
-  },
-  {
-    "id": "1899",
-    "question": "Quel est la capitale du Congo ?",
-    "answer": "Brazzaville",
-    "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
+    "difficulty": "normal",
+    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
   }
 ]
