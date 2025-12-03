@@ -1,132 +1,132 @@
 [
   {
-    "id": "294",
-    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
-    "answer": "Problèmes de santé mentale",
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
     "badAnswers": [
-      "Blessures",
-      "Maladie",
-      "Danger pour autrui"
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+  },
+  {
+    "id": "1812",
+    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
+    "answer": "John Bardeen",
+    "badAnswers": [
+      "William Shockley",
+      "Walter Brattain",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
     "difficulty": "difficile",
-    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
+    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
   },
   {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
+    "id": "414",
+    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
+    "answer": "Antonio Vivaldi",
     "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Claudio Monteverdi"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
+  },
+  {
+    "id": "703",
+    "question": "Quel est le nom du plus grand désert d'Afrique ?",
+    "answer": "Sahara",
+    "badAnswers": [
+      "Kalahari",
+      "Namib",
+      "Désert de Libye"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+  },
+  {
+    "id": "445",
+    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
+    "answer": "Samus Aran",
+    "badAnswers": [
+      "Ridley",
+      "Zero Suit Samus",
+      "Dark Samus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
+  },
+  {
+    "id": "118",
+    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
+    "answer": "France Joli",
+    "badAnswers": [
+      "Tabitha Lemaire",
+      "Fanny Bloom",
+      "Chantal Renaud"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
+  },
+  {
+    "id": "1374",
+    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
+  },
+  {
+    "id": "92",
+    "question": "Dans quel jeu trouve-t-on des Endermen ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
   },
   {
-    "id": "1296",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
-    "answer": "Xénon",
+    "id": "1039",
+    "question": "Quel est le nom de l'auteur de '1984' ?",
+    "answer": "George Orwell",
     "badAnswers": [
-      "Krypton",
-      "Radon",
-      "Argon"
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
-  },
-  {
-    "id": "1301",
-    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
-    "answer": "Némésis",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
-  },
-  {
-    "id": "380",
-    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
-    "answer": "Les Nymphéas",
-    "badAnswers": [
-      "Impression, soleil levant",
-      "La Promenade",
-      "Le Déjeuner sur l’herbe"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
-  },
-  {
-    "id": "2051",
-    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
-  },
-  {
-    "id": "213",
-    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
-    "answer": "Le flamboyant",
-    "badAnswers": [
-      "Le tamarin",
-      "Le frangipanier",
-      "Le vacoa"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
-  },
-  {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
-    "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
-  },
-  {
-    "id": "1541",
-    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "1528",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
-    "answer": "All About Eve",
-    "badAnswers": [
-      "Sunset Boulevard",
-      "Born Yesterday",
-      "King Solomon's Mines"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
   }
 ]
