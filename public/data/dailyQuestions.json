@@ -1,132 +1,132 @@
 [
   {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
+    "id": "1004",
+    "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
+    "answer": "Caltech",
     "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
+      "UCLA",
+      "MIT",
+      "UC Berkeley"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
+  },
+  {
+    "id": "881",
+    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
+    "answer": "Dark Sidious",
+    "badAnswers": [
+      "Dark Maul",
+      "Comte Dooku",
+      "Yoda"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
+  },
+  {
+    "id": "782",
+    "question": "Quel est le plus grand reptile préhistorique marin ?",
+    "answer": "Mosasaurus",
+    "badAnswers": [
+      "Pliosaurus",
+      "Ichthyosaurus",
+      "Liopleurodon"
+    ],
+    "category": "Animaux",
+    "difficulty": "difficile",
+    "description": "Le Mosasaurus est le plus grand reptile préhistorique marin, pouvant atteindre 18 mètres de long. Pliosaurus, Ichthyosaurus et Liopleurodon sont d'autres reptiles marins, mais plus petits."
+  },
+  {
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
+    "badAnswers": [
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "683",
+    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
+    "answer": "Akali",
+    "badAnswers": [
+      "Shen",
+      "Zed",
+      "Talon"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "1812",
-    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
-    "answer": "John Bardeen",
+    "id": "1569",
+    "question": "Quel est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
     "badAnswers": [
-      "William Shockley",
-      "Walter Brattain",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
-  },
-  {
-    "id": "414",
-    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
-    "answer": "Antonio Vivaldi",
-    "badAnswers": [
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Claudio Monteverdi"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
-  },
-  {
-    "id": "703",
-    "question": "Quel est le nom du plus grand désert d'Afrique ?",
-    "answer": "Sahara",
-    "badAnswers": [
-      "Kalahari",
-      "Namib",
-      "Désert de Libye"
+      "Goma",
+      "Lubumbashi",
+      "Kisangani"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
+    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
   },
   {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
+    "id": "233",
+    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
+    "answer": "Hémoglobine",
     "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
+      "Albumine",
+      "Plasma",
+      "Gammaglobuline"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
-  },
-  {
-    "id": "445",
-    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
-    "answer": "Samus Aran",
-    "badAnswers": [
-      "Ridley",
-      "Zero Suit Samus",
-      "Dark Samus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
-  },
-  {
-    "id": "118",
-    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
-    "answer": "France Joli",
-    "badAnswers": [
-      "Tabitha Lemaire",
-      "Fanny Bloom",
-      "Chantal Renaud"
-    ],
-    "category": "Musique",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
+    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
   },
   {
-    "id": "1374",
-    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
-    "answer": "Nirvana",
+    "id": "370",
+    "question": "Quel est le nom du tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
+    "answer": "La Joconde",
     "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
+      "La Dame à l’hermine",
+      "La Cène",
+      "L’Homme de Vitruve"
     ],
-    "category": "Musique",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
+    "description": "La Joconde, peinte par Léonard de Vinci au début du XVIe siècle, est célèbre pour le sourire énigmatique de Mona Lisa. Exposée au Louvre, c’est l’une des œuvres les plus reconnaissables au monde. Les autres œuvres mentionnées sont également de Vinci, mais ne correspondent pas à la description."
   },
   {
-    "id": "92",
-    "question": "Dans quel jeu trouve-t-on des Endermen ?",
-    "answer": "Minecraft",
+    "id": "1262",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1999 ?",
+    "answer": "American Beauty",
     "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
+      "The Sixth Sense",
+      "The Green Mile",
+      "The Cider House Rules"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Ces créatures noires aux longs bras apparaissent depuis la version 1.8 de Minecraft (2011). Elles téléportent et deviennent hostiles si on les regarde dans les yeux."
+    "description": "American Beauty, réalisé par Sam Mendes, a remporté l'Oscar du meilleur film en 1999, explorant les désillusions de la vie suburbaine."
   },
   {
-    "id": "1039",
-    "question": "Quel est le nom de l'auteur de '1984' ?",
-    "answer": "George Orwell",
+    "id": "1037",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
+      "Pulp Fiction",
+      "Les Évadés",
+      "Le Roi Lion"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
   }
 ]
