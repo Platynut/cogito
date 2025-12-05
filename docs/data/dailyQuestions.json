@@ -1,132 +1,132 @@
 [
   {
-    "id": "1004",
-    "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
-    "answer": "Caltech",
+    "id": "616",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
+    "answer": "Lac Titicaca",
     "badAnswers": [
-      "UCLA",
-      "MIT",
-      "UC Berkeley"
+      "Lac Maracaibo",
+      "Lac de Patzcuaro",
+      "Lac de Nicaragua"
     ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
-  },
-  {
-    "id": "881",
-    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
-    "answer": "Dark Sidious",
-    "badAnswers": [
-      "Dark Maul",
-      "Comte Dooku",
-      "Yoda"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
-  },
-  {
-    "id": "782",
-    "question": "Quel est le plus grand reptile préhistorique marin ?",
-    "answer": "Mosasaurus",
-    "badAnswers": [
-      "Pliosaurus",
-      "Ichthyosaurus",
-      "Liopleurodon"
-    ],
-    "category": "Animaux",
-    "difficulty": "difficile",
-    "description": "Le Mosasaurus est le plus grand reptile préhistorique marin, pouvant atteindre 18 mètres de long. Pliosaurus, Ichthyosaurus et Liopleurodon sont d'autres reptiles marins, mais plus petits."
-  },
-  {
-    "id": "350",
-    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
-    "answer": "Master Chief",
-    "badAnswers": [
-      "Cortana",
-      "Arbiter",
-      "Noble Six"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
-  },
-  {
-    "id": "683",
-    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Shen",
-      "Zed",
-      "Talon"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
+    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
   },
   {
-    "id": "1569",
-    "question": "Quel est la capitale de la République démocratique du Congo ?",
-    "answer": "Kinshasa",
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
     "badAnswers": [
-      "Goma",
-      "Lubumbashi",
-      "Kisangani"
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
   },
   {
-    "id": "233",
-    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
-    "answer": "Hémoglobine",
+    "id": "1403",
+    "question": "Quel est le nom de la déesse grecque de la discorde ?",
+    "answer": "Éris",
     "badAnswers": [
-      "Albumine",
-      "Plasma",
-      "Gammaglobuline"
+      "Némésis",
+      "Athéna",
+      "Héra"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
+  },
+  {
+    "id": "1807",
+    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
+  },
+  {
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
+    "badAnswers": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
+  },
+  {
+    "id": "550",
+    "question": "Quel scientifique a découvert les lois de la réflexion et de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
+    "badAnswers": [
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
+    "difficulty": "difficile",
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) en 1621, décrivant le comportement de la lumière à l'interface entre deux milieux. Newton, Huygens et Descartes ont contribué à l'optique, mais Snell est crédité pour cette loi."
   },
   {
-    "id": "370",
-    "question": "Quel est le nom du tableau de Léonard de Vinci représentant une femme au sourire énigmatique ?",
-    "answer": "La Joconde",
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
+    "answer": "Héra",
     "badAnswers": [
-      "La Dame à l’hermine",
-      "La Cène",
-      "L’Homme de Vitruve"
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
     ],
-    "category": "Art",
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+  },
+  {
+    "id": "1117",
+    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
+    "answer": "Bram Stoker",
+    "badAnswers": [
+      "Mary Shelley",
+      "Edgar Allan Poe",
+      "H.P. Lovecraft"
+    ],
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "La Joconde, peinte par Léonard de Vinci au début du XVIe siècle, est célèbre pour le sourire énigmatique de Mona Lisa. Exposée au Louvre, c’est l’une des œuvres les plus reconnaissables au monde. Les autres œuvres mentionnées sont également de Vinci, mais ne correspondent pas à la description."
+    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
   },
   {
-    "id": "1262",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1999 ?",
-    "answer": "American Beauty",
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "The Sixth Sense",
-      "The Green Mile",
-      "The Cider House Rules"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Cinéma",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "American Beauty, réalisé par Sam Mendes, a remporté l'Oscar du meilleur film en 1999, explorant les désillusions de la vie suburbaine."
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
   },
   {
-    "id": "1037",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
-    "answer": "Forrest Gump",
+    "id": "399",
+    "question": "Quel est la capitale de l’Espagne ?",
+    "answer": "Madrid",
     "badAnswers": [
-      "Pulp Fiction",
-      "Les Évadés",
-      "Le Roi Lion"
+      "Barcelone",
+      "Valence",
+      "Séville"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Madrid est la capitale de l’Espagne, un centre culturel et politique abritant le Palais royal et le musée du Prado. Barcelone, Valence et Séville sont d’autres grandes villes espagnoles, mais pas la capitale."
   }
 ]
