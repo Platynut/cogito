@@ -1,132 +1,132 @@
 [
   {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
+    "id": "1429",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
+    "answer": "Tantale",
     "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
-  },
-  {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
-    "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
-  },
-  {
-    "id": "1403",
-    "question": "Quel est le nom de la déesse grecque de la discorde ?",
-    "answer": "Éris",
-    "badAnswers": [
-      "Némésis",
-      "Athéna",
-      "Héra"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
-  },
-  {
-    "id": "1807",
-    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
-  },
-  {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
-    "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
-  },
-  {
-    "id": "550",
-    "question": "Quel scientifique a découvert les lois de la réflexion et de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
-    "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
+      "Tellure",
+      "Technétium",
+      "Thorium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) en 1621, décrivant le comportement de la lumière à l'interface entre deux milieux. Newton, Huygens et Descartes ont contribué à l'optique, mais Snell est crédité pour cette loi."
+    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
   },
   {
-    "id": "1123",
-    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
-    "answer": "Héra",
+    "id": "662",
+    "question": "Quel est le nom du plus grand lac d'Europe ?",
+    "answer": "Lac Ladoga",
     "badAnswers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
+      "Lac Onega",
+      "Lac Vänern",
+      "Lac Peïpous"
     ],
-    "category": "Mythologie",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
   },
   {
-    "id": "1117",
-    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
-    "answer": "Bram Stoker",
+    "id": "74",
+    "question": "Quelle épice est obtenue à partir du crocus ?",
+    "answer": "Safran",
     "badAnswers": [
-      "Mary Shelley",
-      "Edgar Allan Poe",
-      "H.P. Lovecraft"
+      "Curcuma",
+      "Cannelle",
+      "Cardamome"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
+  },
+  {
+    "id": "432",
+    "question": "Quel est le nom du plus grand glacier du monde ?",
+    "answer": "Glacier Lambert",
+    "badAnswers": [
+      "Glacier Perito Moreno",
+      "Glacier Vatnajökull",
+      "Glacier de Siachen"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Lambert, en Antarctique, est le plus grand glacier du monde, s’étendant sur environ 400 km de long et 100 km de large. Il alimente la calotte glaciaire de l’Antarctique oriental. Les autres glaciers mentionnés sont plus petits."
+  },
+  {
+    "id": "2071",
+    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
+    "answer": "Rod Stewart",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
+  },
+  {
+    "id": "206",
+    "question": "Qui est Zlatan Ibrahimovic ?",
+    "answer": "Un joueur de football suédois",
+    "badAnswers": [
+      "Un joueur de football serbe",
+      "Un joueur de football croate",
+      "Un joueur de football bulgare"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "Zlatan Ibrahimović, d'origine suédoise et bosnienne, est une légende du football (PSG, AC Milan). Il n'a jamais joué pour les autres nationalités proposées."
+  },
+  {
+    "id": "1567",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
+    "answer": "Bohrium",
+    "badAnswers": [
+      "Beryllium",
+      "Brome",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
   },
   {
-    "id": "1778",
-    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
-    "answer": "The Allman Brothers Band",
+    "id": "233",
+    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
+    "answer": "Hémoglobine",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
+      "Albumine",
+      "Plasma",
+      "Gammaglobuline"
     ],
-    "category": "Musique",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
+    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
   },
   {
-    "id": "399",
-    "question": "Quel est la capitale de l’Espagne ?",
-    "answer": "Madrid",
+    "id": "1881",
+    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
+    "answer": "Homer Dudley",
     "badAnswers": [
-      "Barcelone",
-      "Valence",
-      "Séville"
+      "Alan Turing",
+      "Dennis Gabor",
+      "Ray Kurzweil"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Madrid est la capitale de l’Espagne, un centre culturel et politique abritant le Palais royal et le musée du Prado. Barcelone, Valence et Séville sont d’autres grandes villes espagnoles, mais pas la capitale."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
   }
 ]
