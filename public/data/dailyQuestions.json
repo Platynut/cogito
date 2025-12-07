@@ -1,60 +1,112 @@
 [
   {
-    "id": "1429",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
-    "answer": "Tantale",
+    "id": "343",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
+    "answer": "Plateau du Prélude",
     "badAnswers": [
-      "Tellure",
-      "Technétium",
-      "Thorium"
+      "Plaine d'Hyrule",
+      "Montagne de la Mort",
+      "Désert Gerudo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+  },
+  {
+    "id": "1269",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
+    "answer": "Titanic",
+    "badAnswers": [
+      "Good Will Hunting",
+      "L.A. Confidential",
+      "As Good as It Gets"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
+  },
+  {
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée à l’amour maternel et à la protection des enfants ?",
+    "answer": "Déméter",
+    "badAnswers": [
+      "Aphrodite",
+      "Héra",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Déméter est la déesse grecque de l’agriculture et de la maternité. Elle est particulièrement connue pour son amour profond envers sa fille Perséphone, ce qui symbolise l’amour maternel dans la mythologie grecque."
+  },
+  {
+    "id": "196",
+    "question": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
+    "answer": "Voie lactée",
+    "badAnswers": [
+      "Andromède",
+      "Sombrero",
+      "Whirlpool"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "La Terre se situe dans la Voie lactée, une galaxie spirale barrée. Andromède est une autre galaxie, tandis que Sombrero et Whirlpool sont des galaxies spirales distinctes."
+  },
+  {
+    "id": "449",
+    "question": "Quel est la capitale de l’Allemagne ?",
+    "answer": "Berlin",
+    "badAnswers": [
+      "Munich",
+      "Hambourg",
+      "Francfort"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Berlin est la capitale de l’Allemagne, un centre culturel et politique connu pour la porte de Brandebourg et le Reichstag. Munich, Hambourg et Francfort sont d’autres grandes villes allemandes, mais pas la capitale."
+  },
+  {
+    "id": "1187",
+    "question": "Quel est la capitale du Bangladesh ?",
+    "answer": "Dhaka",
+    "badAnswers": [
+      "Chittagong",
+      "Khulna",
+      "Sylhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
+  },
+  {
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+  },
+  {
+    "id": "1067",
+    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
+    "answer": "Azote",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Sodium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
+    "difficulty": "facile",
+    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
   },
   {
-    "id": "662",
-    "question": "Quel est le nom du plus grand lac d'Europe ?",
-    "answer": "Lac Ladoga",
-    "badAnswers": [
-      "Lac Onega",
-      "Lac Vänern",
-      "Lac Peïpous"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Ladoga, en Russie, est le plus grand lac d'Europe, couvrant environ 17 700 km². Onega, Vänern et Peïpous sont d'autres lacs européens, mais plus petits."
-  },
-  {
-    "id": "74",
-    "question": "Quelle épice est obtenue à partir du crocus ?",
-    "answer": "Safran",
-    "badAnswers": [
-      "Curcuma",
-      "Cannelle",
-      "Cardamome"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
-  },
-  {
-    "id": "432",
-    "question": "Quel est le nom du plus grand glacier du monde ?",
-    "answer": "Glacier Lambert",
-    "badAnswers": [
-      "Glacier Perito Moreno",
-      "Glacier Vatnajökull",
-      "Glacier de Siachen"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Lambert, en Antarctique, est le plus grand glacier du monde, s’étendant sur environ 400 km de long et 100 km de large. Il alimente la calotte glaciaire de l’Antarctique oriental. Les autres glaciers mentionnés sont plus petits."
-  },
-  {
-    "id": "2071",
-    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
-    "answer": "Rod Stewart",
+    "id": "1902",
+    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
+    "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
@@ -62,71 +114,19 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
+    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
   },
   {
-    "id": "206",
-    "question": "Qui est Zlatan Ibrahimovic ?",
-    "answer": "Un joueur de football suédois",
+    "id": "1876",
+    "question": "Quel est le nom de l'inventeur du premier système de clonage ?",
+    "answer": "Ian Wilmut",
     "badAnswers": [
-      "Un joueur de football serbe",
-      "Un joueur de football croate",
-      "Un joueur de football bulgare"
+      "John Gurdon",
+      "Robert Briggs",
+      "Thomas King"
     ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "Zlatan Ibrahimović, d'origine suédoise et bosnienne, est une légende du football (PSG, AC Milan). Il n'a jamais joué pour les autres nationalités proposées."
-  },
-  {
-    "id": "1567",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
-    "answer": "Bohrium",
-    "badAnswers": [
-      "Beryllium",
-      "Brome",
-      "Bismuth"
-    ],
-    "category": "Science",
+    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
-  },
-  {
-    "id": "233",
-    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
-    "answer": "Hémoglobine",
-    "badAnswers": [
-      "Albumine",
-      "Plasma",
-      "Gammaglobuline"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
-  },
-  {
-    "id": "1881",
-    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
-    "answer": "Homer Dudley",
-    "badAnswers": [
-      "Alan Turing",
-      "Dennis Gabor",
-      "Ray Kurzweil"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
+    "description": "Ian Wilmut a dirigé l'équipe qui a cloné la brebis Dolly en 1996, marquant une avancée majeure en biotechnologie."
   }
 ]
