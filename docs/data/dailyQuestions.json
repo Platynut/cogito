@@ -1,132 +1,132 @@
 [
   {
-    "id": "343",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
-    "answer": "Plateau du Prélude",
+    "id": "710",
+    "question": "Quel fantôme japonais est connu pour avoir un visage totalement lisse ?",
+    "answer": "Noppera-bō",
     "badAnswers": [
-      "Plaine d'Hyrule",
-      "Montagne de la Mort",
-      "Désert Gerudo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
-  },
-  {
-    "id": "1269",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
-    "answer": "Titanic",
-    "badAnswers": [
-      "Good Will Hunting",
-      "L.A. Confidential",
-      "As Good as It Gets"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
-  },
-  {
-    "id": "1123",
-    "question": "Quelle déesse grecque est associée à l’amour maternel et à la protection des enfants ?",
-    "answer": "Déméter",
-    "badAnswers": [
-      "Aphrodite",
-      "Héra",
-      "Artémis"
+      "Onryō",
+      "Yuki-onna",
+      "Zashiki-warashi"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Déméter est la déesse grecque de l’agriculture et de la maternité. Elle est particulièrement connue pour son amour profond envers sa fille Perséphone, ce qui symbolise l’amour maternel dans la mythologie grecque."
+    "description": "Le Noppera-bō effraie ses victimes en révélant un visage lisse et sans traits."
   },
   {
-    "id": "196",
-    "question": "Quel est le nom de la galaxie dans laquelle se trouve la Terre ?",
-    "answer": "Voie lactée",
+    "id": "811",
+    "question": "Quel scientifique a découvert la loi de la conductivité électrique ?",
+    "answer": "Georg Ohm",
     "badAnswers": [
-      "Andromède",
-      "Sombrero",
-      "Whirlpool"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "La Terre se situe dans la Voie lactée, une galaxie spirale barrée. Andromède est une autre galaxie, tandis que Sombrero et Whirlpool sont des galaxies spirales distinctes."
-  },
-  {
-    "id": "449",
-    "question": "Quel est la capitale de l’Allemagne ?",
-    "answer": "Berlin",
-    "badAnswers": [
-      "Munich",
-      "Hambourg",
-      "Francfort"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Berlin est la capitale de l’Allemagne, un centre culturel et politique connu pour la porte de Brandebourg et le Reichstag. Munich, Hambourg et Francfort sont d’autres grandes villes allemandes, mais pas la capitale."
-  },
-  {
-    "id": "1187",
-    "question": "Quel est la capitale du Bangladesh ?",
-    "answer": "Dhaka",
-    "badAnswers": [
-      "Chittagong",
-      "Khulna",
-      "Sylhet"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
-  },
-  {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Alessandro Volta"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+    "difficulty": "normal",
+    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
   },
   {
-    "id": "1902",
-    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
-    "answer": "The Beatles",
+    "id": "37",
+    "question": "Quel compositeur était sourd à la fin de sa vie ?",
+    "answer": "Ludwig van Beethoven",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Frédéric Chopin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
+    "description": "Devenu complètement sourd vers 1814, il continua pourtant à composer des chefs-d'œuvre comme la 9e Symphonie."
   },
   {
-    "id": "1876",
-    "question": "Quel est le nom de l'inventeur du premier système de clonage ?",
-    "answer": "Ian Wilmut",
+    "id": "365",
+    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Los Santos",
     "badAnswers": [
-      "John Gurdon",
-      "Robert Briggs",
-      "Thomas King"
+      "Liberty City",
+      "Vice City",
+      "San Fierro"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Ian Wilmut a dirigé l'équipe qui a cloné la brebis Dolly en 1996, marquant une avancée majeure en biotechnologie."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
+  },
+  {
+    "id": "1838",
+    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
+  },
+  {
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
+    "badAnswers": [
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
+  },
+  {
+    "id": "831",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Électhor",
+    "badAnswers": [
+      "Sulfura",
+      "Artikodin",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
+  },
+  {
+    "id": "1553",
+    "question": "Quel est la capitale de la Gambie ?",
+    "answer": "Banjul",
+    "badAnswers": [
+      "Serekunda",
+      "Brikama",
+      "Bakau"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Banjul, capitale de la Gambie, est une ville insulaire sur l'estuaire du fleuve Gambie, connue pour son marché Albert."
+  },
+  {
+    "id": "672",
+    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
+    "answer": "Qui-Gon Jinn",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
+  },
+  {
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
   }
 ]
