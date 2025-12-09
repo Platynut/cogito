@@ -1,132 +1,132 @@
 [
   {
-    "id": "710",
-    "question": "Quel fantôme japonais est connu pour avoir un visage totalement lisse ?",
-    "answer": "Noppera-bō",
+    "id": "1497",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
+    "answer": "Neptunium",
     "badAnswers": [
-      "Onryō",
-      "Yuki-onna",
-      "Zashiki-warashi"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Le Noppera-bō effraie ses victimes en révélant un visage lisse et sans traits."
-  },
-  {
-    "id": "811",
-    "question": "Quel scientifique a découvert la loi de la conductivité électrique ?",
-    "answer": "Georg Ohm",
-    "badAnswers": [
-      "Michael Faraday",
-      "André-Marie Ampère",
-      "Alessandro Volta"
+      "Nickel",
+      "Nobelium",
+      "Niobium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Georg Ohm a formulé la loi d'Ohm au XIXe siècle, reliant tension, courant et résistance. Faraday, Ampère et Volta ont contribué à d'autres aspects de l'électricité."
+    "difficulty": "difficile",
+    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
   },
   {
-    "id": "37",
-    "question": "Quel compositeur était sourd à la fin de sa vie ?",
-    "answer": "Ludwig van Beethoven",
+    "id": "1682",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Frédéric Chopin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Devenu complètement sourd vers 1814, il continua pourtant à composer des chefs-d'œuvre comme la 9e Symphonie."
-  },
-  {
-    "id": "365",
-    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Los Santos",
-    "badAnswers": [
-      "Liberty City",
-      "Vice City",
-      "San Fierro"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
+    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
   },
   {
-    "id": "1838",
-    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
-    "answer": "The Doors",
+    "id": "1622",
+    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
+    "answer": "Alice in Chains",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+  },
+  {
+    "id": "1035",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Final Fantasy XV",
+      "Chrono Trigger"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
+  },
+  {
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
+    "badAnswers": [
+      "Akali",
+      "Zed",
+      "Kennen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
+  },
+  {
+    "id": "137",
+    "question": "En quelle année a été projeté le premier film ?",
+    "answer": "1895",
+    "badAnswers": [
+      "1924",
+      "1912",
+      "1904"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
+  },
+  {
+    "id": "2036",
+    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
+    "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1588",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
+    "answer": "Darmstadtium",
+    "badAnswers": [
+      "Dysprosium",
+      "Deutérium",
+      "Dubnium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
+  },
+  {
+    "id": "786",
+    "question": "Dans Horizon Forbidden West, quel est le nom du peuple tribal connu pour ses machines ?",
+    "answer": "Oseram",
+    "badAnswers": [
+      "Carja",
+      "Tenakth",
+      "Banjai"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Les Oseram sont un peuple tribal dans Horizon Forbidden West, connu pour ses forgerons et sa maîtrise des machines. Carja, Tenakth et Banjai sont d'autres tribus du jeu."
+  },
+  {
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Guns N' Roses",
       "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
-  },
-  {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
-    "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
-  },
-  {
-    "id": "831",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Électhor",
-    "badAnswers": [
-      "Sulfura",
-      "Artikodin",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
-  },
-  {
-    "id": "1553",
-    "question": "Quel est la capitale de la Gambie ?",
-    "answer": "Banjul",
-    "badAnswers": [
-      "Serekunda",
-      "Brikama",
-      "Bakau"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Banjul, capitale de la Gambie, est une ville insulaire sur l'estuaire du fleuve Gambie, connue pour son marché Albert."
-  },
-  {
-    "id": "672",
-    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
-    "answer": "Qui-Gon Jinn",
-    "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Yoda",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
-  },
-  {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
-    "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
   }
 ]
