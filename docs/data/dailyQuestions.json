@@ -1,85 +1,46 @@
 [
   {
-    "id": "1497",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
-    "answer": "Neptunium",
+    "id": "1661",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
+    "answer": "All Quiet on the Western Front",
     "badAnswers": [
-      "Nickel",
-      "Nobelium",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
-  },
-  {
-    "id": "1682",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
-  },
-  {
-    "id": "1622",
-    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
-    "answer": "Alice in Chains",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
-  },
-  {
-    "id": "1035",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Cloud Strife ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Final Fantasy XV",
-      "Chrono Trigger"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cloud Strife est le protagoniste de Final Fantasy VII, un mercenaire au passé trouble qui lutte contre la Shinra dans un monde dystopique."
-  },
-  {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
-    "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "137",
-    "question": "En quelle année a été projeté le premier film ?",
-    "answer": "1895",
-    "badAnswers": [
-      "1924",
-      "1912",
-      "1904"
+      "The Big House",
+      "Disraeli",
+      "The Divorcee"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
+    "difficulty": "normal",
+    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
   },
   {
-    "id": "2036",
-    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
+    "id": "735",
+    "question": "Quel est la capitale de l'Irlande ?",
+    "answer": "Dublin",
+    "badAnswers": [
+      "Cork",
+      "Galway",
+      "Limerick"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
+  },
+  {
+    "id": "991",
+    "question": "Quel langage de programmation a été utilisé pour créer le jeu Minecraft ?",
+    "answer": "Java",
+    "badAnswers": [
+      "HTML 5",
+      "C++",
+      "Python"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Minecraft, créé par Markus Persson, a été développé en Java, un choix qui a permis sa grande portabilité sur différentes plateformes."
+  },
+  {
+    "id": "1962",
+    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -87,46 +48,85 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
+    "difficulty": "facile",
+    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
   },
   {
-    "id": "1588",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
-    "answer": "Darmstadtium",
+    "id": "1513",
+    "question": "Quel est le nom du dieu grec du temps ?",
+    "answer": "Chronos",
     "badAnswers": [
-      "Dysprosium",
-      "Deutérium",
-      "Dubnium"
+      "Zeus",
+      "Hadès",
+      "Poséidon"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
-  },
-  {
-    "id": "786",
-    "question": "Dans Horizon Forbidden West, quel est le nom du peuple tribal connu pour ses machines ?",
-    "answer": "Oseram",
-    "badAnswers": [
-      "Carja",
-      "Tenakth",
-      "Banjai"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Les Oseram sont un peuple tribal dans Horizon Forbidden West, connu pour ses forgerons et sa maîtrise des machines. Carja, Tenakth et Banjai sont d'autres tribus du jeu."
+    "description": "Chronos, dieu grec primordial du temps, est distinct de Cronos, le Titan, et représente le temps linéaire et éternel."
   },
   {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
+    "id": "1388",
+    "question": "Quel est le nom de la déesse grecque de la jeunesse ?",
+    "answer": "Hébé",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
+      "Athéna",
+      "Aphrodite",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hébé, déesse grecque de la jeunesse, est la fille de Zeus et Héra, souvent représentée comme la coupeuse des dieux sur l'Olympe."
+  },
+  {
+    "id": "2090",
+    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
+    "answer": "Ian Donald",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+  },
+  {
+    "id": "633",
+    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
+    "answer": "Minerva McGonagall",
+    "badAnswers": [
+      "Severus Rogue",
+      "Filius Flitwick",
+      "Pomona Chourave"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+  },
+  {
+    "id": "1958",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
+    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "42",
+    "question": "Quelle entreprise fabrique la Model 3 ?",
+    "answer": "Tesla",
+    "badAnswers": [
+      "Toyota",
+      "Ford",
+      "Volkswagen"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
   }
 ]
