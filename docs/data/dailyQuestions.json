@@ -1,132 +1,132 @@
 [
   {
-    "id": "1661",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
-    "answer": "All Quiet on the Western Front",
+    "id": "57",
+    "question": "Quelle entreprise a développé le processeur Ryzen ?",
+    "answer": "AMD",
     "badAnswers": [
-      "The Big House",
-      "Disraeli",
-      "The Divorcee"
+      "Intel",
+      "Nvidia",
+      "Qualcomm"
     ],
-    "category": "Cinéma",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
+    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
   },
   {
-    "id": "735",
-    "question": "Quel est la capitale de l'Irlande ?",
-    "answer": "Dublin",
+    "id": "83",
+    "question": "Quel jeu vidéo permet de construire avec des blocs ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Cork",
-      "Galway",
-      "Limerick"
+      "Terraria",
+      "Roblox",
+      "Fortnite Creative"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Créé par Markus Persson en 2009, Minecraft est le jeu le plus vendu de l'histoire avec plus de 238 millions d'exemplaires en 2023."
+  },
+  {
+    "id": "1323",
+    "question": "Quel est la capitale du Costa Rica ?",
+    "answer": "San José",
+    "badAnswers": [
+      "Alajuela",
+      "Cartago",
+      "Heredia"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
+    "description": "San José, capitale du Costa Rica, est une ville dynamique connue pour ses musées, son théâtre national et sa culture du café."
   },
   {
-    "id": "991",
-    "question": "Quel langage de programmation a été utilisé pour créer le jeu Minecraft ?",
-    "answer": "Java",
+    "id": "354",
+    "question": "Quel est le nom du plus grand lac d'Afrique ?",
+    "answer": "Lac Victoria",
     "badAnswers": [
-      "HTML 5",
-      "C++",
-      "Python"
+      "Lac Tanganyika",
+      "Lac Malawi",
+      "Lac Tchad"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
+  },
+  {
+    "id": "487",
+    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Drangleic",
+    "badAnswers": [
+      "Lordran",
+      "Lothric",
+      "Yharnam"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
+  },
+  {
+    "id": "1614",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
+    "answer": "Soundgarden",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+  },
+  {
+    "id": "1472",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1961 ?",
+    "answer": "West Side Story",
+    "badAnswers": [
+      "The Guns of Navarone",
+      "The Hustler",
+      "Judgment at Nuremberg"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "West Side Story, réalisé par Robert Wise et Jerome Robbins, a remporté l'Oscar du meilleur film en 1961, une comédie musicale inspirée de Roméo et Juliette."
+  },
+  {
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
+    "badAnswers": [
+      "Chrome",
+      "Cuivre",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+  },
+  {
+    "id": "1287",
+    "question": "Quel est la capitale de Singapour ?",
+    "answer": "Singapour",
+    "badAnswers": [
+      "Jurong",
+      "Tampines",
+      "Woodlands"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
+  },
+  {
+    "id": "982",
+    "question": "Dans l'anime Medaka Box, quelle est l'anomalie de Medaka Kurokami ?",
+    "answer": "The End",
+    "badAnswers": [
+      "Perfection",
+      "Sandbox",
+      "Équité"
+    ],
+    "category": "Anime et Manga",
     "difficulty": "difficile",
-    "description": "Minecraft, créé par Markus Persson, a été développé en Java, un choix qui a permis sa grande portabilité sur différentes plateformes."
-  },
-  {
-    "id": "1962",
-    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
-  },
-  {
-    "id": "1513",
-    "question": "Quel est le nom du dieu grec du temps ?",
-    "answer": "Chronos",
-    "badAnswers": [
-      "Zeus",
-      "Hadès",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Chronos, dieu grec primordial du temps, est distinct de Cronos, le Titan, et représente le temps linéaire et éternel."
-  },
-  {
-    "id": "1388",
-    "question": "Quel est le nom de la déesse grecque de la jeunesse ?",
-    "answer": "Hébé",
-    "badAnswers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Hébé, déesse grecque de la jeunesse, est la fille de Zeus et Héra, souvent représentée comme la coupeuse des dieux sur l'Olympe."
-  },
-  {
-    "id": "2090",
-    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
-    "answer": "Ian Donald",
-    "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
-  },
-  {
-    "id": "633",
-    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
-    "answer": "Minerva McGonagall",
-    "badAnswers": [
-      "Severus Rogue",
-      "Filius Flitwick",
-      "Pomona Chourave"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
-  },
-  {
-    "id": "1958",
-    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
-  },
-  {
-    "id": "42",
-    "question": "Quelle entreprise fabrique la Model 3 ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Toyota",
-      "Ford",
-      "Volkswagen"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
+    "description": "Dans Medaka Box, l'anomalie 'The End' permet à Medaka Kurokami de copier et de perfectionner les capacités des autres, la rendant incroyablement puissante."
   }
 ]
