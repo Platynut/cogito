@@ -1,132 +1,132 @@
 [
   {
-    "id": "57",
-    "question": "Quelle entreprise a développé le processeur Ryzen ?",
-    "answer": "AMD",
+    "id": "1023",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong",
     "badAnswers": [
-      "Intel",
-      "Nvidia",
-      "Qualcomm"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "Alan Shepard"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
-  },
-  {
-    "id": "83",
-    "question": "Quel jeu vidéo permet de construire avec des blocs ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite Creative"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "Créé par Markus Persson en 2009, Minecraft est le jeu le plus vendu de l'histoire avec plus de 238 millions d'exemplaires en 2023."
+    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
   },
   {
-    "id": "1323",
-    "question": "Quel est la capitale du Costa Rica ?",
-    "answer": "San José",
+    "id": "1193",
+    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
+    "answer": "Queen et David Bowie",
     "badAnswers": [
-      "Alajuela",
-      "Cartago",
-      "Heredia"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "San José, capitale du Costa Rica, est une ville dynamique connue pour ses musées, son théâtre national et sa culture du café."
-  },
-  {
-    "id": "354",
-    "question": "Quel est le nom du plus grand lac d'Afrique ?",
-    "answer": "Lac Victoria",
-    "badAnswers": [
-      "Lac Tanganyika",
-      "Lac Malawi",
-      "Lac Tchad"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
-  },
-  {
-    "id": "487",
-    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Drangleic",
-    "badAnswers": [
-      "Lordran",
-      "Lothric",
-      "Yharnam"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
-  },
-  {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Alice in Chains"
+      "The Rolling Stones",
+      "U2",
+      "The Who"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
   },
   {
-    "id": "1472",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1961 ?",
-    "answer": "West Side Story",
+    "id": "1429",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
+    "answer": "Tantale",
     "badAnswers": [
-      "The Guns of Navarone",
-      "The Hustler",
-      "Judgment at Nuremberg"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "West Side Story, réalisé par Robert Wise et Jerome Robbins, a remporté l'Oscar du meilleur film en 1961, une comédie musicale inspirée de Roméo et Juliette."
-  },
-  {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
-    "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
+      "Tellure",
+      "Technétium",
+      "Thorium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
-  },
-  {
-    "id": "1287",
-    "question": "Quel est la capitale de Singapour ?",
-    "answer": "Singapour",
-    "badAnswers": [
-      "Jurong",
-      "Tampines",
-      "Woodlands"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
-  },
-  {
-    "id": "982",
-    "question": "Dans l'anime Medaka Box, quelle est l'anomalie de Medaka Kurokami ?",
-    "answer": "The End",
-    "badAnswers": [
-      "Perfection",
-      "Sandbox",
-      "Équité"
-    ],
-    "category": "Anime et Manga",
     "difficulty": "difficile",
-    "description": "Dans Medaka Box, l'anomalie 'The End' permet à Medaka Kurokami de copier et de perfectionner les capacités des autres, la rendant incroyablement puissante."
+    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
+  },
+  {
+    "id": "469",
+    "question": "Quel artiste a peint Le Baiser ?",
+    "answer": "Gustav Klimt",
+    "badAnswers": [
+      "Edvard Munch",
+      "Egon Schiele",
+      "Marc Chagall"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "974",
+    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
+    "answer": "Gary",
+    "badAnswers": [
+      "Orville",
+      "Carlo",
+      "Squidina"
+    ],
+    "category": "Dessins animés",
+    "difficulty": "facile",
+    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
+  },
+  {
+    "id": "367",
+    "question": "Quel est le plus grand reptile vivant aujourd’hui ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Anaconda",
+      "Tortue luth",
+      "Dragon de Komodo"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin (Crocodylus porosus) est le plus grand reptile vivant, pouvant atteindre 7 mètres de long et peser plus d’une tonne. Trouvé dans les régions côtières de l’Asie du Sud-Est et de l’Australie, il est redoutable. L’anaconda est un serpent, la tortue luth une tortue marine, et le dragon de Komodo est plus petit."
+  },
+  {
+    "id": "2",
+    "question": "Qui était le premier empereur romain ?",
+    "answer": "Auguste",
+    "badAnswers": [
+      "Jules César",
+      "Néron",
+      "Caligula"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Auguste (Octave) régna de 27 av. J.-C. à 14 ap. J.-C. Il mit fin à la République romaine et établit l'Empire."
+  },
+  {
+    "id": "1168",
+    "question": "Quel est le nom du dieu grec de la forge ?",
+    "answer": "Héphaïstos",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+  },
+  {
+    "id": "717",
+    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
+    "answer": "Dobby",
+    "badAnswers": [
+      "Kreattur",
+      "Winky",
+      "Hokey"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
+  },
+  {
+    "id": "327",
+    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
+    "answer": "Jack Morrison",
+    "badAnswers": [
+      "John Smith",
+      "Gabriel Reyes",
+      "Reinhardt Wilhelm"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
   }
 ]
