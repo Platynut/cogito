@@ -1,132 +1,132 @@
 [
   {
-    "id": "1023",
-    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-    "answer": "Neil Armstrong",
+    "id": "1941",
+    "question": "Quel est la capitale du Madagascar ?",
+    "answer": "Antananarivo",
     "badAnswers": [
-      "Buzz Aldrin",
-      "Yuri Gagarine",
-      "Alan Shepard"
+      "Toamasina",
+      "Fianarantsoa",
+      "Mahajanga"
     ],
-    "category": "Histoire",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
+    "description": "Antananarivo, capitale de Madagascar, est une ville située sur des collines, connue pour son palais de la Reine."
   },
   {
-    "id": "1193",
-    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
-    "answer": "Queen et David Bowie",
+    "id": "1148",
+    "question": "Quel est la capitale de la Malaisie ?",
+    "answer": "Kuala Lumpur",
     "badAnswers": [
-      "The Rolling Stones",
-      "U2",
-      "The Who"
+      "Penang",
+      "Johor Bahru",
+      "Malacca"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
+    "description": "Kuala Lumpur, capitale de la Malaisie, est une métropole moderne célèbre pour ses tours Petronas et son mélange de cultures."
   },
   {
-    "id": "1429",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
-    "answer": "Tantale",
+    "id": "1779",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS commercial ?",
+    "answer": "Bradford Parkinson",
     "badAnswers": [
-      "Tellure",
-      "Technétium",
-      "Thorium"
+      "Roger L. Easton",
+      "Ivan Getting",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Bradford Parkinson a dirigé le développement du GPS commercial dans les années 1970, utilisé aujourd'hui dans le monde entier."
+  },
+  {
+    "id": "138",
+    "question": "Au repos, combien de fois en moyenne le cœur d’un homme bat-il en 1 minute ?",
+    "answer": "60 à 80",
+    "badAnswers": [
+      "25 à 40",
+      "40 à 60",
+      "80 à 100"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
-  },
-  {
-    "id": "469",
-    "question": "Quel artiste a peint Le Baiser ?",
-    "answer": "Gustav Klimt",
-    "badAnswers": [
-      "Edvard Munch",
-      "Egon Schiele",
-      "Marc Chagall"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+    "description": "Au repos, le cœur d'un adulte bat en moyenne entre 60 et 80 fois par minute. Un rythme cardiaque inférieur ou supérieur peut indiquer des problèmes de santé."
   },
   {
-    "id": "974",
-    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
-    "answer": "Gary",
+    "id": "613",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du chef des Sombrages ?",
+    "answer": "Ulfric Sombrage",
     "badAnswers": [
-      "Orville",
-      "Carlo",
-      "Squidina"
-    ],
-    "category": "Dessins animés",
-    "difficulty": "facile",
-    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
-  },
-  {
-    "id": "367",
-    "question": "Quel est le plus grand reptile vivant aujourd’hui ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Anaconda",
-      "Tortue luth",
-      "Dragon de Komodo"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin (Crocodylus porosus) est le plus grand reptile vivant, pouvant atteindre 7 mètres de long et peser plus d’une tonne. Trouvé dans les régions côtières de l’Asie du Sud-Est et de l’Australie, il est redoutable. L’anaconda est un serpent, la tortue luth une tortue marine, et le dragon de Komodo est plus petit."
-  },
-  {
-    "id": "2",
-    "question": "Qui était le premier empereur romain ?",
-    "answer": "Auguste",
-    "badAnswers": [
-      "Jules César",
-      "Néron",
-      "Caligula"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Auguste (Octave) régna de 27 av. J.-C. à 14 ap. J.-C. Il mit fin à la République romaine et établit l'Empire."
-  },
-  {
-    "id": "1168",
-    "question": "Quel est le nom du dieu grec de la forge ?",
-    "answer": "Héphaïstos",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
-  },
-  {
-    "id": "717",
-    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
-    "answer": "Dobby",
-    "badAnswers": [
-      "Kreattur",
-      "Winky",
-      "Hokey"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
-  },
-  {
-    "id": "327",
-    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
-    "answer": "Jack Morrison",
-    "badAnswers": [
-      "John Smith",
-      "Gabriel Reyes",
-      "Reinhardt Wilhelm"
+      "Balgruuf le Grand",
+      "Tullius",
+      "Kodlak Blanc-Mane"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ulfric Sombrage est le chef des Sombrages dans The Elder Scrolls V: Skyrim, menant la rébellion contre l'Empire. Balgruuf est un jarl, Tullius un général impérial, et Kodlak le chef des Compagnons."
+  },
+  {
+    "id": "834",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à l'arc-en-ciel ?",
+    "answer": "Ho-Oh",
+    "badAnswers": [
+      "Lugia",
+      "Suicune",
+      "Entei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ho-Oh est le Pokémon légendaire associé à l'arc-en-ciel dans Pokémon Or. Lugia est lié à la mer, Suicune à l'eau, et Entei au feu."
+  },
+  {
+    "id": "2139",
+    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
+    "answer": "E.A. Johnson",
+    "badAnswers": [
+      "Steve Jobs",
+      "Alan Turing",
+      "Douglas Engelbart"
+    ],
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
+    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
+  },
+  {
+    "id": "1292",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Kr ?",
+    "answer": "Krypton",
+    "badAnswers": [
+      "Xenon",
+      "Radon",
+      "Argon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le krypton, symbolisé par Kr, est un gaz noble utilisé dans les lampes fluorescentes et les lasers, connu pour son éclat lumineux."
+  },
+  {
+    "id": "195",
+    "question": "Dans quelle série Netflix, nous découvrons les dérives possibles des écrans que nous utilisons tous les jours ?",
+    "answer": "Black Mirror",
+    "badAnswers": [
+      "Mindhunter",
+      "Godless",
+      "The OA"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'Black Mirror' explore les dangers des nouvelles technologies et leur impact sur la société. 'Mindhunter' traite de psychologie criminelle, 'Godless' du western, et 'The OA' du surnaturel."
+  },
+  {
+    "id": "1246",
+    "question": "Quel est la capitale de l'Irak ?",
+    "answer": "Bagdad",
+    "badAnswers": [
+      "Mossoul",
+      "Bassorah",
+      "Erbil"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bagdad, capitale de l'Irak, est une ville historique située sur le Tigre, connue pour son riche patrimoine culturel et ses mosquées."
   }
 ]
