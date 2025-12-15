@@ -1,132 +1,132 @@
 [
   {
-    "id": "1122",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
-    "answer": "Sodium",
+    "id": "531",
+    "question": "Dans Super Mario Odyssey, quel est le nom de la planète principale où Mario voyage ?",
+    "answer": "Terre",
     "badAnswers": [
-      "Nickel",
-      "Néon",
-      "Nitrure"
+      "Lune",
+      "Champignon",
+      "Étoile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Super Mario Odyssey, Mario voyage à travers différents royaumes sur la Terre, comme le Royaume des Chapeaux. La Lune est une destination finale, le Champignon est dans d'autres jeux, et l'Étoile est une entité différente."
+  },
+  {
+    "id": "1994",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flerovium",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Fermium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
-  },
-  {
-    "id": "543",
-    "question": "Quel est le plus grand cétacé à dents du monde ?",
-    "answer": "Cachalot",
-    "badAnswers": [
-      "Orque",
-      "Narval",
-      "Dauphin commun"
-    ],
-    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
+    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
   },
   {
-    "id": "148",
-    "question": "Quel célèbre artiste est représenté sur les masques de la série Casa de Papel ?",
-    "answer": "Salvador Dalí",
+    "id": "537",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
+    "answer": "Shadow Fiend",
     "badAnswers": [
-      "Pablo Picasso",
-      "Paco Rabanne",
-      "Francisco de Goya"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Les masques portés par les braqueurs dans 'La Casa de Papel' représentent Salvador Dalí, symbole du surréalisme. Picasso était cubiste, Paco Rabanne un designer, et Goya un peintre classique."
-  },
-  {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
-  },
-  {
-    "id": "300",
-    "question": "Quel était le métier de Frank West dans Dead Rising ?",
-    "answer": "Photojournaliste",
-    "badAnswers": [
-      "Concierge",
-      "Cuisinier",
-      "Chauffeur de taxi"
+      "Necrophos",
+      "Lich",
+      "Death Prophet"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dans Dead Rising (2006), Frank West est un photojournaliste freelance qui se rend dans un centre commercial infesté de zombies pour couvrir une histoire. Son métier influence son gameplay, avec des mécaniques de photographie pour gagner des points. Les autres professions listées ne correspondent pas à son rôle."
+    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
   },
   {
-    "id": "1350",
-    "question": "Quel est la capitale de Haïti ?",
-    "answer": "Port-au-Prince",
+    "id": "1809",
+    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
+    "answer": "Guy de Maupassant",
     "badAnswers": [
-      "Cap-Haïtien",
-      "Gonaïves",
-      "Jacmel"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Port-au-Prince, capitale d'Haïti, est une ville portuaire connue pour son histoire coloniale et sa résilience face aux catastrophes naturelles."
-  },
-  {
-    "id": "62",
-    "question": "Quelle ville italienne est réputée pour son jambon cru ?",
-    "answer": "Parme",
-    "badAnswers": [
-      "Bologne",
-      "Florence",
-      "Venise"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le Prosciutto di Parma bénéficie d'une AOP depuis 1996. Il est affiné au minimum 12 mois dans l'air sec des Apennins."
-  },
-  {
-    "id": "883",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom du royaume principal ?",
-    "answer": "Hyrule",
-    "badAnswers": [
-      "Termina",
-      "Lorule",
-      "Holodrum"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Hyrule est le royaume principal de The Legend of Zelda: Breath of the Wild, où Link explore un monde ouvert. Termina, Lorule et Holodrum sont des royaumes d'autres jeux Zelda."
-  },
-  {
-    "id": "2083",
-    "question": "Quel est le nom de l'auteur de 'L'Automne à Pékin' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Automne à Pékin' (1947), un roman surréaliste explorant l'absurde et l'imaginaire."
+    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
   },
   {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Pablo Picasso",
+      "Max Ernst",
+      "René Magritte"
     ],
-    "category": "Jeux vidéo",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+  },
+  {
+    "id": "389",
+    "question": "Quel est la capitale de l’Afrique du Sud ?",
+    "answer": "Pretoria",
+    "badAnswers": [
+      "Johannesburg",
+      "Le Cap",
+      "Durban"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Pretoria est la capitale administrative de l’Afrique du Sud, abritant le siège du gouvernement. Le Cap est la capitale législative, et Johannesburg et Durban sont d’autres grandes villes, mais Pretoria est la réponse correcte pour la capitale administrative."
+  },
+  {
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
+    "badAnswers": [
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+  },
+  {
+    "id": "508",
+    "question": "Quel scientifique a découvert le principe d'incertitude ?",
+    "answer": "Werner Heisenberg",
+    "badAnswers": [
+      "Max Planck",
+      "Niels Bohr",
+      "Erwin Schrödinger"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Werner Heisenberg a formulé le principe d'incertitude en 1927, un concept clé de la mécanique quantique indiquant qu'on ne peut connaître simultanément la position et la vitesse d'une particule. Planck, Bohr et Schrödinger ont contribué à d'autres aspects de la physique quantique."
+  },
+  {
+    "id": "471",
+    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
+    "answer": "Pont de Çanakkale 1915",
+    "badAnswers": [
+      "Pont du Golden Gate",
+      "Pont Akashi-Kaikyo",
+      "Pont de Xihoumen"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+  },
+  {
+    "id": "1363",
+    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
+    "answer": "Red Hot Chili Peppers",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Foo Fighters"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
   }
 ]
