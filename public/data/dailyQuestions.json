@@ -1,132 +1,132 @@
 [
   {
-    "id": "531",
-    "question": "Dans Super Mario Odyssey, quel est le nom de la planète principale où Mario voyage ?",
-    "answer": "Terre",
+    "id": "1512",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cm ?",
+    "answer": "Curium",
     "badAnswers": [
-      "Lune",
-      "Champignon",
-      "Étoile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Super Mario Odyssey, Mario voyage à travers différents royaumes sur la Terre, comme le Royaume des Chapeaux. La Lune est une destination finale, le Champignon est dans d'autres jeux, et l'Étoile est une entité différente."
-  },
-  {
-    "id": "1994",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flerovium",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fermium"
+      "Césium",
+      "Chlore",
+      "Chrome"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
-  },
-  {
-    "id": "537",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
-    "answer": "Shadow Fiend",
-    "badAnswers": [
-      "Necrophos",
-      "Lich",
-      "Death Prophet"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
-  },
-  {
-    "id": "1809",
-    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
-    "answer": "Guy de Maupassant",
-    "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
-  },
-  {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
-  },
-  {
-    "id": "389",
-    "question": "Quel est la capitale de l’Afrique du Sud ?",
-    "answer": "Pretoria",
-    "badAnswers": [
-      "Johannesburg",
-      "Le Cap",
-      "Durban"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Pretoria est la capitale administrative de l’Afrique du Sud, abritant le siège du gouvernement. Le Cap est la capitale législative, et Johannesburg et Durban sont d’autres grandes villes, mais Pretoria est la réponse correcte pour la capitale administrative."
-  },
-  {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
-    "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
-  },
-  {
-    "id": "508",
-    "question": "Quel scientifique a découvert le principe d'incertitude ?",
-    "answer": "Werner Heisenberg",
-    "badAnswers": [
-      "Max Planck",
-      "Niels Bohr",
-      "Erwin Schrödinger"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Werner Heisenberg a formulé le principe d'incertitude en 1927, un concept clé de la mécanique quantique indiquant qu'on ne peut connaître simultanément la position et la vitesse d'une particule. Planck, Bohr et Schrödinger ont contribué à d'autres aspects de la physique quantique."
-  },
-  {
-    "id": "471",
-    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
-    "answer": "Pont de Çanakkale 1915",
-    "badAnswers": [
-      "Pont du Golden Gate",
-      "Pont Akashi-Kaikyo",
-      "Pont de Xihoumen"
-    ],
-    "category": "Géographie",
     "difficulty": "difficile",
-    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+    "description": "Le curium, symbolisé par Cm, est un élément radioactif synthétique, nommé d'après Marie et Pierre Curie, utilisé dans la recherche spatiale."
   },
   {
-    "id": "1363",
-    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
-    "answer": "Red Hot Chili Peppers",
+    "id": "718",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
+    "answer": "Inkling",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Foo Fighters"
+      "Octoling",
+      "Callie",
+      "Marie"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
+    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
+  },
+  {
+    "id": "1183",
+    "question": "Quel est la capitale du Venezuela ?",
+    "answer": "Caracas",
+    "badAnswers": [
+      "Maracaibo",
+      "Valencia",
+      "Barquisimeto"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
+  },
+  {
+    "id": "969",
+    "question": "Quel personnage n'est PAS un boss dans le jeu Crash Bash ?",
+    "answer": "Ripper Roo",
+    "badAnswers": [
+      "Papu Papu",
+      "Frères Komodo",
+      "Nitros Oxide"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Ripper Roo, bien qu'il soit un personnage emblématique de la série Crash Bandicoot, n'est pas un boss dans Crash Bash, contrairement aux autres mentionnés."
+  },
+  {
+    "id": "1178",
+    "question": "Quel est la capitale du Zimbabwe ?",
+    "answer": "Harare",
+    "badAnswers": [
+      "Bulawayo",
+      "Gweru",
+      "Mutare"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
+  },
+  {
+    "id": "1701",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
+    "answer": "Ruthénium",
+    "badAnswers": [
+      "Radon",
+      "Rubidium",
+      "Rhodium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
+  },
+  {
+    "id": "893",
+    "question": "Quel est le plus grand mammifère marin actuel ?",
+    "answer": "Baleine bleue",
+    "badAnswers": [
+      "Cachalot",
+      "Rorqual commun",
+      "Baleine boréale"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
+  },
+  {
+    "id": "278",
+    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
+    "answer": "Verdi",
+    "badAnswers": [
+      "Mozart",
+      "Berlioz",
+      "Brahms"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
+  },
+  {
+    "id": "128",
+    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
+    "answer": "Adamantium",
+    "badAnswers": [
+      "Vibranium",
+      "Cavorite",
+      "Neutronium"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+  },
+  {
+    "id": "1859",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS militaire ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Bradford Parkinson",
+      "Ivan Getting",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a développé le concept de navigation par satellite pour le GPS militaire dans les années 1960."
   }
 ]
