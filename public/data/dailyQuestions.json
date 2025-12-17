@@ -1,132 +1,132 @@
 [
   {
-    "id": "1512",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cm ?",
-    "answer": "Curium",
+    "id": "807",
+    "question": "Quel scientifique a découvert la loi de la dilatation thermique des gaz ?",
+    "answer": "Jacques Charles",
     "badAnswers": [
-      "Césium",
-      "Chlore",
-      "Chrome"
+      "Robert Boyle",
+      "Joseph Gay-Lussac",
+      "Émile Clapeyron"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "Jacques Charles a formulé la loi de la dilatation thermique des gaz (loi de Charles) à la fin du XVIIIe siècle, reliant volume et température. Boyle, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "1230",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur sécurisé ?",
+    "answer": "Elisha Otis",
+    "badAnswers": [
+      "Otis Redding",
+      "George Westinghouse",
+      "Thomas Edison"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Elisha Otis a inventé le frein de sécurité pour ascenseurs en 1852, rendant les ascenseurs sûrs et facilitant la construction de gratte-ciel."
+  },
+  {
+    "id": "1614",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
+    "answer": "Soundgarden",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+  },
+  {
+    "id": "2130",
+    "question": "Quel est le nom de l'auteur de 'La Machine infernale' ?",
+    "answer": "Jean Cocteau",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'La Machine infernale' (1934), une pièce de théâtre réinterprétant le mythe d'Œdipe."
+  },
+  {
+    "id": "1851",
+    "question": "Quel est le nom de l'inventeur du premier système de résonance magnétique (IRM) ?",
+    "answer": "Raymond Damadian",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Paul Lauterbur",
+      "Peter Mansfield"
+    ],
+    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Le curium, symbolisé par Cm, est un élément radioactif synthétique, nommé d'après Marie et Pierre Curie, utilisé dans la recherche spatiale."
+    "description": "Raymond Damadian a conçu le premier appareil d'IRM en 1977, révolutionnant l'imagerie médicale."
   },
   {
-    "id": "718",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
-    "answer": "Inkling",
+    "id": "1300",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rn ?",
+    "answer": "Radon",
     "badAnswers": [
-      "Octoling",
-      "Callie",
-      "Marie"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
-  },
-  {
-    "id": "1183",
-    "question": "Quel est la capitale du Venezuela ?",
-    "answer": "Caracas",
-    "badAnswers": [
-      "Maracaibo",
-      "Valencia",
-      "Barquisimeto"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Caracas, capitale du Venezuela, est une ville située dans une vallée montagneuse, connue pour son rôle politique et sa culture vibrante."
-  },
-  {
-    "id": "969",
-    "question": "Quel personnage n'est PAS un boss dans le jeu Crash Bash ?",
-    "answer": "Ripper Roo",
-    "badAnswers": [
-      "Papu Papu",
-      "Frères Komodo",
-      "Nitros Oxide"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ripper Roo, bien qu'il soit un personnage emblématique de la série Crash Bandicoot, n'est pas un boss dans Crash Bash, contrairement aux autres mentionnés."
-  },
-  {
-    "id": "1178",
-    "question": "Quel est la capitale du Zimbabwe ?",
-    "answer": "Harare",
-    "badAnswers": [
-      "Bulawayo",
-      "Gweru",
-      "Mutare"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
-  },
-  {
-    "id": "1701",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
-    "answer": "Ruthénium",
-    "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Rhodium"
+      "Radium",
+      "Rhodium",
+      "Ruthénium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
+    "description": "Le radon, symbolisé par Rn, est un gaz noble radioactif, utilisé en radiothérapie mais dangereux à haute concentration dans les habitations."
   },
   {
-    "id": "893",
-    "question": "Quel est le plus grand mammifère marin actuel ?",
-    "answer": "Baleine bleue",
+    "id": "1474",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
+    "answer": "The Apartment",
     "badAnswers": [
-      "Cachalot",
-      "Rorqual commun",
-      "Baleine boréale"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres et 200 tonnes. Le cachalot, le rorqual et la baleine boréale sont plus petits."
-  },
-  {
-    "id": "278",
-    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
-    "answer": "Verdi",
-    "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
+      "Psycho",
+      "The Alamo",
+      "Sons and Lovers"
     ],
     "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
+    "difficulty": "normal",
+    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
   },
   {
-    "id": "128",
-    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
-    "answer": "Adamantium",
+    "id": "1968",
+    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
-      "Vibranium",
-      "Cavorite",
-      "Neutronium"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Bandes dessinées",
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+  },
+  {
+    "id": "899",
+    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
+    "answer": "Colossal Coliseum",
+    "badAnswers": [
+      "Coral Castle",
+      "Craggy Cliffs",
+      "Weeping Woods"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
+  },
+  {
+    "id": "1668",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
-  },
-  {
-    "id": "1859",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS militaire ?",
-    "answer": "Roger L. Easton",
-    "badAnswers": [
-      "Bradford Parkinson",
-      "Ivan Getting",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a développé le concept de navigation par satellite pour le GPS militaire dans les années 1960."
+    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
   }
 ]
