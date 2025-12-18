@@ -1,132 +1,132 @@
 [
   {
-    "id": "807",
-    "question": "Quel scientifique a découvert la loi de la dilatation thermique des gaz ?",
-    "answer": "Jacques Charles",
+    "id": "1095",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
+    "answer": "Chlore",
     "badAnswers": [
-      "Robert Boyle",
-      "Joseph Gay-Lussac",
-      "Émile Clapeyron"
+      "Chrome",
+      "Césium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+  },
+  {
+    "id": "335",
+    "question": "Quel est le plus haut sommet du monde ?",
+    "answer": "Everest",
+    "badAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Everest, situé dans l'Himalaya à la frontière entre le Népal et le Tibet, est le plus haut sommet du monde, culminant à 8 848 mètres. Il attire des alpinistes du monde entier. Le K2, le Kangchenjunga et le Lhotse sont d'autres hauts sommets, mais aucun ne dépasse l'Everest."
+  },
+  {
+    "id": "61",
+    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "answer": "Éléphant d'Afrique",
+    "badAnswers": [
+      "Girafe",
+      "Rhinocéros blanc",
+      "Ours polaire"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
+  },
+  {
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
+    "badAnswers": [
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
+    ],
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+  },
+  {
+    "id": "154",
+    "question": "Qu'est-ce que HTML signifie en informatique ?",
+    "answer": "HyperText Markup Language",
+    "badAnswers": [
+      "HighTech Modern Language",
+      "HyperTransfer Markup Language",
+      "HyperText Machine Language"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
+  },
+  {
+    "id": "487",
+    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Drangleic",
+    "badAnswers": [
+      "Lordran",
+      "Lothric",
+      "Yharnam"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
+  },
+  {
+    "id": "1292",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Kr ?",
+    "answer": "Krypton",
+    "badAnswers": [
+      "Xenon",
+      "Radon",
+      "Argon"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Jacques Charles a formulé la loi de la dilatation thermique des gaz (loi de Charles) à la fin du XVIIIe siècle, reliant volume et température. Boyle, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+    "description": "Le krypton, symbolisé par Kr, est un gaz noble utilisé dans les lampes fluorescentes et les lasers, connu pour son éclat lumineux."
   },
   {
-    "id": "1230",
-    "question": "Quel est le nom de l'inventeur du premier ascenseur sécurisé ?",
-    "answer": "Elisha Otis",
-    "badAnswers": [
-      "Otis Redding",
-      "George Westinghouse",
-      "Thomas Edison"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Elisha Otis a inventé le frein de sécurité pour ascenseurs en 1852, rendant les ascenseurs sûrs et facilitant la construction de gratte-ciel."
-  },
-  {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
+    "id": "1608",
+    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
+    "answer": "Pearl Jam",
     "badAnswers": [
       "Nirvana",
-      "Pearl Jam",
+      "Soundgarden",
       "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
   },
   {
-    "id": "2130",
-    "question": "Quel est le nom de l'auteur de 'La Machine infernale' ?",
-    "answer": "Jean Cocteau",
+    "id": "752",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Chronosphere ?",
+    "answer": "Faceless Void",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Void Spirit",
+      "Dark Seer",
+      "Enigma"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Machine infernale' (1934), une pièce de théâtre réinterprétant le mythe d'Œdipe."
+    "description": "Faceless Void est un héros de Dota 2 connu pour son sort ultime Chronosphere, qui fige le temps dans une zone. Void Spirit, Dark Seer et Enigma ont d'autres sorts ultimes."
   },
   {
-    "id": "1851",
-    "question": "Quel est le nom de l'inventeur du premier système de résonance magnétique (IRM) ?",
-    "answer": "Raymond Damadian",
+    "id": "1112",
+    "question": "Quel est le nom de l'inventeur du vaccin contre la polio ?",
+    "answer": "Jonas Salk",
     "badAnswers": [
-      "Godfrey Hounsfield",
-      "Paul Lauterbur",
-      "Peter Mansfield"
+      "Albert Sabin",
+      "Louis Pasteur",
+      "Edward Jenner"
     ],
     "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Raymond Damadian a conçu le premier appareil d'IRM en 1977, révolutionnant l'imagerie médicale."
-  },
-  {
-    "id": "1300",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rn ?",
-    "answer": "Radon",
-    "badAnswers": [
-      "Radium",
-      "Rhodium",
-      "Ruthénium"
-    ],
-    "category": "Science",
     "difficulty": "normal",
-    "description": "Le radon, symbolisé par Rn, est un gaz noble radioactif, utilisé en radiothérapie mais dangereux à haute concentration dans les habitations."
-  },
-  {
-    "id": "1474",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
-    "answer": "The Apartment",
-    "badAnswers": [
-      "Psycho",
-      "The Alamo",
-      "Sons and Lovers"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
-  },
-  {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
-  },
-  {
-    "id": "899",
-    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 5 du chapitre 2 avec un thème médiéval ?",
-    "answer": "Colossal Coliseum",
-    "badAnswers": [
-      "Coral Castle",
-      "Craggy Cliffs",
-      "Weeping Woods"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Colossal Coliseum est un lieu à thème médiéval introduit dans la saison 5 du chapitre 2 de Fortnite, inspiré d'une arène romaine. Coral Castle, Craggy Cliffs et Weeping Woods sont d'autres lieux sans lien avec ce thème."
-  },
-  {
-    "id": "1668",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
+    "description": "Jonas Salk a développé le premier vaccin efficace contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreuses régions."
   }
 ]
