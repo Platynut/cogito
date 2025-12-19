@@ -1,132 +1,132 @@
 [
   {
-    "id": "1095",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
-    "answer": "Chlore",
+    "id": "1128",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
+    "answer": "Moonlight",
     "badAnswers": [
-      "Chrome",
-      "Césium",
-      "Carbone"
+      "La La Land",
+      "Manchester by the Sea",
+      "Hacksaw Ridge"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
-  },
-  {
-    "id": "335",
-    "question": "Quel est le plus haut sommet du monde ?",
-    "answer": "Everest",
-    "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "L'Everest, situé dans l'Himalaya à la frontière entre le Népal et le Tibet, est le plus haut sommet du monde, culminant à 8 848 mètres. Il attire des alpinistes du monde entier. Le K2, le Kangchenjunga et le Lhotse sont d'autres hauts sommets, mais aucun ne dépasse l'Everest."
-  },
-  {
-    "id": "61",
-    "question": "Quel est le plus grand animal terrestre actuel ?",
-    "answer": "Éléphant d'Afrique",
-    "badAnswers": [
-      "Girafe",
-      "Rhinocéros blanc",
-      "Ours polaire"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
-  },
-  {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
-    "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
-    ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
-  },
-  {
-    "id": "154",
-    "question": "Qu'est-ce que HTML signifie en informatique ?",
-    "answer": "HyperText Markup Language",
-    "badAnswers": [
-      "HighTech Modern Language",
-      "HyperTransfer Markup Language",
-      "HyperText Machine Language"
-    ],
-    "category": "Technologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
+    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
   },
   {
-    "id": "487",
-    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Drangleic",
+    "id": "411",
+    "question": "Dans Pokémon Rouge et Bleu, quel est le Pokémon de départ de type Feu ?",
+    "answer": "Salamèche",
     "badAnswers": [
-      "Lordran",
-      "Lothric",
-      "Yharnam"
+      "Bulbizarre",
+      "Carapuce",
+      "Pikachu"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
+    "difficulty": "facile",
+    "description": "Salamèche est le Pokémon de départ de type Feu dans Pokémon Rouge et Bleu. Évoluant en Reptincel puis Dracaufeu, il est un choix populaire. Bulbizarre est de type Plante, Carapuce de type Eau, et Pikachu n’est pas un Pokémon de départ."
   },
   {
-    "id": "1292",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Kr ?",
-    "answer": "Krypton",
+    "id": "1009",
+    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
+    "answer": "Ludwig van Beethoven",
     "badAnswers": [
-      "Xenon",
-      "Radon",
-      "Argon"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le krypton, symbolisé par Kr, est un gaz noble utilisé dans les lampes fluorescentes et les lasers, connu pour son éclat lumineux."
-  },
-  {
-    "id": "1608",
-    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
-    "answer": "Pearl Jam",
-    "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
+      "Wolfgang Amadeus Mozart",
+      "Johannes Brahms",
+      "Franz Schubert"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
+    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
   },
   {
-    "id": "752",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Chronosphere ?",
-    "answer": "Faceless Void",
+    "id": "1514",
+    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
+    "answer": "Mark Twain",
     "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Enigma"
+      "Herman Melville",
+      "Jack London",
+      "Nathaniel Hawthorne"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+  },
+  {
+    "id": "1810",
+    "question": "Quel est la capitale du Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
+  },
+  {
+    "id": "1767",
+    "question": "Quel est le nom du dieu grec de la peur ?",
+    "answer": "Phobos",
+    "badAnswers": [
+      "Éros",
+      "Thanatos",
+      "Hypnos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+  },
+  {
+    "id": "187",
+    "question": "Qui a gagné la coupe du monde de football 1998 ?",
+    "answer": "France",
+    "badAnswers": [
+      "Brésil",
+      "Argentine",
+      "Pérou"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
+  },
+  {
+    "id": "778",
+    "question": "Quel est la capitale de la Grèce ?",
+    "answer": "Athènes",
+    "badAnswers": [
+      "Thessalonique",
+      "Patras",
+      "Héraklion"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
+  },
+  {
+    "id": "907",
+    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
+    "answer": "Han Solo",
+    "badAnswers": [
+      "Lando Calrissian",
+      "Chewbacca",
+      "Boba Fett"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+  },
+  {
+    "id": "1420",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Faceless Void est un héros de Dota 2 connu pour son sort ultime Chronosphere, qui fige le temps dans une zone. Void Spirit, Dark Seer et Enigma ont d'autres sorts ultimes."
-  },
-  {
-    "id": "1112",
-    "question": "Quel est le nom de l'inventeur du vaccin contre la polio ?",
-    "answer": "Jonas Salk",
-    "badAnswers": [
-      "Albert Sabin",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Jonas Salk a développé le premier vaccin efficace contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreuses régions."
+    "difficulty": "facile",
+    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
   }
 ]
