@@ -1,132 +1,132 @@
 [
   {
-    "id": "1128",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
-    "answer": "Moonlight",
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
     "badAnswers": [
-      "La La Land",
-      "Manchester by the Sea",
-      "Hacksaw Ridge"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
-  },
-  {
-    "id": "411",
-    "question": "Dans Pokémon Rouge et Bleu, quel est le Pokémon de départ de type Feu ?",
-    "answer": "Salamèche",
-    "badAnswers": [
-      "Bulbizarre",
-      "Carapuce",
-      "Pikachu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Salamèche est le Pokémon de départ de type Feu dans Pokémon Rouge et Bleu. Évoluant en Reptincel puis Dracaufeu, il est un choix populaire. Bulbizarre est de type Plante, Carapuce de type Eau, et Pikachu n’est pas un Pokémon de départ."
-  },
-  {
-    "id": "1009",
-    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
-    "answer": "Ludwig van Beethoven",
-    "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Johannes Brahms",
-      "Franz Schubert"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
-  },
-  {
-    "id": "1514",
-    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
-    "answer": "Mark Twain",
-    "badAnswers": [
-      "Herman Melville",
-      "Jack London",
-      "Nathaniel Hawthorne"
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
-  },
-  {
-    "id": "1810",
-    "question": "Quel est la capitale du Sierra Leone ?",
-    "answer": "Freetown",
-    "badAnswers": [
-      "Bo",
-      "Kenema",
-      "Makeni"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
-  },
-  {
-    "id": "1767",
-    "question": "Quel est le nom du dieu grec de la peur ?",
-    "answer": "Phobos",
-    "badAnswers": [
-      "Éros",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
   },
   {
-    "id": "187",
-    "question": "Qui a gagné la coupe du monde de football 1998 ?",
-    "answer": "France",
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
     "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Pérou"
+      "Google",
+      "Microsoft",
+      "Amazon"
     ],
-    "category": "Sports",
+    "category": "Economie",
     "difficulty": "normal",
-    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
   },
   {
-    "id": "778",
-    "question": "Quel est la capitale de la Grèce ?",
-    "answer": "Athènes",
+    "id": "631",
+    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
+    "answer": "V-Bucks",
     "badAnswers": [
-      "Thessalonique",
-      "Patras",
-      "Héraklion"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
-  },
-  {
-    "id": "907",
-    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
-    "answer": "Han Solo",
-    "badAnswers": [
-      "Lando Calrissian",
-      "Chewbacca",
-      "Boba Fett"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
-  },
-  {
-    "id": "1420",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
+      "Robux",
+      "Credits",
+      "Battle Points"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
+    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+  },
+  {
+    "id": "490",
+    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
+    "answer": "Bois",
+    "badAnswers": [
+      "Métal",
+      "Pierre",
+      "Brique"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
+  },
+  {
+    "id": "539",
+    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
+    "answer": "2-1B",
+    "badAnswers": [
+      "R2-D2",
+      "C-3PO",
+      "BB-8"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+  },
+  {
+    "id": "364",
+    "question": "Quel compositeur a écrit l’opéra 'La Traviata' ?",
+    "answer": "Giuseppe Verdi",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Giuseppe Verdi a composé La Traviata, un opéra en trois actes créé en 1853, basé sur La Dame aux camélias d’Alexandre Dumas fils. C’est l’un des opéras les plus joués au monde. Mozart, Wagner et Puccini sont d’autres compositeurs d’opéras, mais ils n’ont pas écrit La Traviata."
+  },
+  {
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
+    "badAnswers": [
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "1782",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire à semi-conducteur ?",
+    "answer": "Robert Dennard",
+    "badAnswers": [
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Robert Dennard a inventé la mémoire DRAM en 1968, essentielle pour les ordinateurs modernes."
+  },
+  {
+    "id": "931",
+    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
+    "answer": "Egoist",
+    "badAnswers": [
+      "Goose house",
+      "Babymetal",
+      "Garnidelia"
+    ],
+    "category": "Anime et Manga",
+    "difficulty": "normal",
+    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
+  },
+  {
+    "id": "1667",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1935 ?",
+    "answer": "It Happened One Night",
+    "badAnswers": [
+      "The Thin Man",
+      "Cleopatra",
+      "The Gay Divorcee"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "It Happened One Night, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1935, une comédie romantique."
   }
 ]
