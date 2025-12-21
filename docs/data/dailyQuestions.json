@@ -1,132 +1,132 @@
 [
   {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
     "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
-  },
-  {
-    "id": "64",
-    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
-    "answer": "Meta",
-    "badAnswers": [
-      "Google",
-      "Microsoft",
-      "Amazon"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
-  },
-  {
-    "id": "631",
-    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
-    "answer": "V-Bucks",
-    "badAnswers": [
-      "Robux",
-      "Credits",
-      "Battle Points"
+      "Skellige",
+      "Toussaint",
+      "Velen"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
   },
   {
-    "id": "490",
-    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
-    "answer": "Bois",
+    "id": "859",
+    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
+    "answer": "Groudon",
     "badAnswers": [
-      "Métal",
-      "Pierre",
-      "Brique"
+      "Kyogre",
+      "Rayquaza",
+      "Deoxys"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
+    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
   },
   {
-    "id": "539",
-    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
-    "answer": "2-1B",
+    "id": "869",
+    "question": "Quel est le plus grand oiseau du monde ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "BB-8"
+      "Condor des Andes",
+      "Albatros hurleur",
+      "Grue royale"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
   },
   {
-    "id": "364",
-    "question": "Quel compositeur a écrit l’opéra 'La Traviata' ?",
-    "answer": "Giuseppe Verdi",
+    "id": "1171",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Richard Wagner",
-      "Giacomo Puccini"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "The Band"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Giuseppe Verdi a composé La Traviata, un opéra en trois actes créé en 1853, basé sur La Dame aux camélias d’Alexandre Dumas fils. C’est l’un des opéras les plus joués au monde. Mozart, Wagner et Puccini sont d’autres compositeurs d’opéras, mais ils n’ont pas écrit La Traviata."
+    "difficulty": "facile",
+    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
   },
   {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
+    "id": "1055",
+    "question": "Quel est le nom du premier homme à avoir orbité autour de la Terre ?",
+    "answer": "Yuri Gagarine",
     "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
+      "Neil Armstrong",
+      "John Glenn",
+      "Valentina Tereshkova"
     ],
-    "category": "Science",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+    "description": "Yuri Gagarine, cosmonaute soviétique, fut le premier humain à orbiter autour de la Terre en 1961 à bord de Vostok 1, un jalon de la course spatiale."
   },
   {
-    "id": "1782",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire à semi-conducteur ?",
-    "answer": "Robert Dennard",
+    "id": "1265",
+    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
+    "answer": "Adret",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
+      "Ubac",
+      "Étang",
+      "Ressac"
     ],
-    "category": "Informatique",
+    "category": "Géographie",
     "difficulty": "difficile",
-    "description": "Robert Dennard a inventé la mémoire DRAM en 1968, essentielle pour les ordinateurs modernes."
+    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
   },
   {
-    "id": "931",
-    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
-    "answer": "Egoist",
+    "id": "598",
+    "question": "Quel est le nom de l'auteur de 'Les Liaisons dangereuses' ?",
+    "answer": "Pierre Choderlos de Laclos",
     "badAnswers": [
-      "Goose house",
-      "Babymetal",
-      "Garnidelia"
+      "Marquis de Sade",
+      "Denis Diderot",
+      "Jean-Jacques Rousseau"
     ],
-    "category": "Anime et Manga",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
+    "description": "Pierre Choderlos de Laclos a écrit Les Liaisons dangereuses (1782), un roman épistolaire sur les intrigues amoureuses et la manipulation. De Sade, Diderot et Rousseau sont d'autres écrivains du XVIIIe siècle, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1667",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1935 ?",
-    "answer": "It Happened One Night",
+    "id": "2137",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1927/28 ?",
+    "answer": "Wings",
     "badAnswers": [
-      "The Thin Man",
-      "Cleopatra",
-      "The Gay Divorcee"
+      "Sunrise",
+      "The Racket",
+      "7th Heaven"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "It Happened One Night, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1935, une comédie romantique."
+    "difficulty": "facile",
+    "description": "Wings, réalisé par William A. Wellman, a remporté le tout premier Oscar du meilleur film en 1927/28. Sunrise a reçu un prix séparé pour sa qualité artistique, mais c’est Wings qui est officiellement reconnu comme premier lauréat du meilleur film."
+  },
+  {
+    "id": "1280",
+    "question": "Quel est le nom de l'inventeur du premier microscope optique ?",
+    "answer": "Zacharias Jansen",
+    "badAnswers": [
+      "Galilée",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Hans et Zacharias Jansen, opticiens néerlandais, ont créé le premier microscope optique vers 1590, ouvrant la voie à l'étude des micro-organismes."
+  },
+  {
+    "id": "162",
+    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
+    "answer": "Superman",
+    "badAnswers": [
+      "Hulk",
+      "Spiderman",
+      "Batman"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
   }
 ]
