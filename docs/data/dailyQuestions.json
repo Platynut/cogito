@@ -1,132 +1,132 @@
 [
   {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
+    "id": "1930",
+    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
-  },
-  {
-    "id": "859",
-    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
-    "answer": "Groudon",
-    "badAnswers": [
-      "Kyogre",
-      "Rayquaza",
-      "Deoxys"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
-  },
-  {
-    "id": "869",
-    "question": "Quel est le plus grand oiseau du monde ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Condor des Andes",
-      "Albatros hurleur",
-      "Grue royale"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
-  },
-  {
-    "id": "1171",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "The Band"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
+    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
   },
   {
-    "id": "1055",
-    "question": "Quel est le nom du premier homme à avoir orbité autour de la Terre ?",
-    "answer": "Yuri Gagarine",
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Neil Armstrong",
-      "John Glenn",
-      "Valentina Tereshkova"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Yuri Gagarine, cosmonaute soviétique, fut le premier humain à orbiter autour de la Terre en 1961 à bord de Vostok 1, un jalon de la course spatiale."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
   },
   {
-    "id": "1265",
-    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
-    "answer": "Adret",
+    "id": "1358",
+    "question": "Quel est la capitale du Belize ?",
+    "answer": "Belmopan",
     "badAnswers": [
-      "Ubac",
-      "Étang",
-      "Ressac"
+      "Belize City",
+      "San Ignacio",
+      "Dangriga"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
-  },
-  {
-    "id": "598",
-    "question": "Quel est le nom de l'auteur de 'Les Liaisons dangereuses' ?",
-    "answer": "Pierre Choderlos de Laclos",
-    "badAnswers": [
-      "Marquis de Sade",
-      "Denis Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Pierre Choderlos de Laclos a écrit Les Liaisons dangereuses (1782), un roman épistolaire sur les intrigues amoureuses et la manipulation. De Sade, Diderot et Rousseau sont d'autres écrivains du XVIIIe siècle, mais n'ont pas écrit ce roman."
+    "description": "Belmopan, capitale du Belize depuis 1970, est une ville planifiée conçue pour remplacer Belize City après des catastrophes naturelles."
   },
   {
-    "id": "2137",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1927/28 ?",
-    "answer": "Wings",
+    "id": "1288",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "Sunrise",
-      "The Racket",
-      "7th Heaven"
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Quiz Show"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Wings, réalisé par William A. Wellman, a remporté le tout premier Oscar du meilleur film en 1927/28. Sunrise a reçu un prix séparé pour sa qualité artistique, mais c’est Wings qui est officiellement reconnu comme premier lauréat du meilleur film."
+    "description": "Forrest Gump, réalisé par Robert Zemeckis, a remporté l'Oscar du meilleur film en 1994, une histoire émouvante sur la vie de Forrest, un homme simple."
   },
   {
-    "id": "1280",
-    "question": "Quel est le nom de l'inventeur du premier microscope optique ?",
-    "answer": "Zacharias Jansen",
+    "id": "144",
+    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
+    "answer": "Amman",
     "badAnswers": [
-      "Galilée",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
+      "Téhéran",
+      "Damas",
+      "Bagdad"
     ],
-    "category": "Technologie",
+    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "Hans et Zacharias Jansen, opticiens néerlandais, ont créé le premier microscope optique vers 1590, ouvrant la voie à l'étude des micro-organismes."
+    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
   },
   {
-    "id": "162",
-    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
-    "answer": "Superman",
+    "id": "269",
+    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
+    "answer": "Singes",
     "badAnswers": [
-      "Hulk",
-      "Spiderman",
-      "Batman"
+      "Chats",
+      "Pigeons",
+      "Lézards"
     ],
-    "category": "Bandes dessinées",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
+  },
+  {
+    "id": "2030",
+    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1253",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Link ?",
+    "answer": "The Legend of Zelda",
+    "badAnswers": [
+      "Super Mario",
+      "Metroid",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
+    "description": "Link est le héros emblématique de la série The Legend of Zelda, un aventurier courageux explorant le royaume d'Hyrule."
+  },
+  {
+    "id": "1281",
+    "question": "Quel est la capitale des Philippines ?",
+    "answer": "Manille",
+    "badAnswers": [
+      "Davao",
+      "Cebu",
+      "Quezon City"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
+  },
+  {
+    "id": "1208",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in Black' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Back in Black', sorti en 1980 par AC/DC, est une chanson rock emblématique, tirée de l'album éponyme, en hommage à Bon Scott."
   }
 ]
