@@ -1,132 +1,132 @@
 [
   {
-    "id": "1480",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
+    "id": "410",
+    "question": "Quel scientifique a développé la théorie de l’évolution par sélection naturelle ?",
+    "answer": "Charles Darwin",
     "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
-  },
-  {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
-    "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
+    "difficulty": "facile",
+    "description": "Charles Darwin a développé la théorie de l’évolution par sélection naturelle, publiée dans L’Origine des espèces (1859). Cette théorie a transformé la biologie. Alfred Russel Wallace a proposé une idée similaire, Mendel a étudié la génétique, et Lamarck a proposé une théorie différente."
   },
   {
-    "id": "10",
-    "question": "Quel est le héros principal de 'The Legend of Zelda' ?",
-    "answer": "Link",
+    "id": "305",
+    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
     "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
+  },
+  {
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
+    "answer": "Héra",
+    "badAnswers": [
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+  },
+  {
+    "id": "365",
+    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Los Santos",
+    "badAnswers": [
+      "Liberty City",
+      "Vice City",
+      "San Fierro"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Link est le protagoniste muet qui sauve la princesse Zelda dans cette série Nintendo depuis 1986."
+    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
   },
   {
-    "id": "41",
-    "question": "Quel pays a quitté l'Union européenne en 2020 ?",
-    "answer": "Royaume-Uni",
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Suisse",
-      "Norvège",
-      "Turquie"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le Brexit est effectif depuis le 31 janvier 2020 après un référendum en 2016 et des années de négociations."
-  },
-  {
-    "id": "1964",
-    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
       "Albert Camus",
+      "Boris Vian",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
   },
   {
-    "id": "462",
-    "question": "Dans Fallout: New Vegas, quelle faction contrôle la ville de New Vegas ?",
-    "answer": "M. House",
+    "id": "1987",
+    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
+    "answer": "Theodore Maiman",
     "badAnswers": [
-      "RNC",
-      "Légion de César",
-      "Confrérie de l'Acier"
+      "Gordon Gould",
+      "Charles Townes",
+      "Arthur Schawlow"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
+  },
+  {
+    "id": "385",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l’ami de Mario qui l’accompagne ?",
+    "answer": "Cappy",
+    "badAnswers": [
+      "Toad",
+      "Yoshi",
+      "Luigi"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "M. House est le dirigeant de New Vegas dans Fallout: New Vegas, contrôlant la ville via ses robots Securitron. La RNC, la Légion de César et la Confrérie de l'Acier sont d'autres factions en compétition pour le contrôle de la région."
-  },
-  {
-    "id": "1384",
-    "question": "Quel est la capitale des Maldives ?",
-    "answer": "Malé",
-    "badAnswers": [
-      "Gan",
-      "Addu",
-      "Fuvahmulah"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Malé, capitale des Maldives, est une petite île densément peuplée, centre administratif et économique de l'archipel."
-  },
-  {
-    "id": "207",
-    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
-    "answer": "Nisse",
-    "badAnswers": [
-      "Tomte",
-      "Knecht Ruprecht",
-      "Befana"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
-  },
-  {
-    "id": "109",
-    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
-    "answer": "Itachi",
-    "badAnswers": [
-      "Obito",
-      "Madara",
-      "Kakashi"
-    ],
-    "category": "Anime et Manga",
     "difficulty": "facile",
-    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
+    "description": "Cappy est l’ami de Mario dans Super Mario Odyssey, un chapeau magique qui permet à Mario de posséder des ennemis et des objets. Toad, Yoshi et Luigi sont d’autres personnages de la série, mais Cappy est unique à ce jeu."
   },
   {
-    "id": "763",
-    "question": "Quel scientifique a découvert la loi de la réflexion des ondes lumineuses ?",
-    "answer": "Ibn al-Haytham",
+    "id": "1456",
+    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
+    "answer": "Oasis",
     "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "Thomas Young"
+      "Blur",
+      "The Verve",
+      "Radiohead"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
+  },
+  {
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Strontium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Ibn al-Haytham a établi les bases de l'optique, dont la loi de la réflexion, au Xe siècle. Newton, Huygens et Young ont contribué à l'optique, mais plus tard et sur d'autres aspects."
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
+  },
+  {
+    "id": "1546",
+    "question": "Quel est la capitale du Liberia ?",
+    "answer": "Monrovia",
+    "badAnswers": [
+      "Gbarnga",
+      "Buchanan",
+      "Harper"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Monrovia, capitale du Liberia, est une ville portuaire nommée d'après le président américain James Monroe, connue pour ses plages."
   }
 ]
