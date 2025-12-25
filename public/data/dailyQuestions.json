@@ -1,33 +1,33 @@
 [
   {
-    "id": "410",
-    "question": "Quel scientifique a développé la théorie de l’évolution par sélection naturelle ?",
-    "answer": "Charles Darwin",
+    "id": "1237",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
     "badAnswers": [
-      "Gregor Mendel",
-      "Alfred Russel Wallace",
-      "Jean-Baptiste Lamarck"
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Charles Darwin a développé la théorie de l’évolution par sélection naturelle, publiée dans L’Origine des espèces (1859). Cette théorie a transformé la biologie. Alfred Russel Wallace a proposé une idée similaire, Mendel a étudié la génétique, et Lamarck a proposé une théorie différente."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
   },
   {
-    "id": "305",
-    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
+    "id": "421",
+    "question": "Dans Overwatch, quel personnage est un moine robotique ?",
+    "answer": "Zenyatta",
     "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
+      "Genji",
+      "Bastion",
+      "Orisa"
     ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
+    "description": "Zenyatta est un moine robotique dans Overwatch, un héros de soutien utilisant des orbes pour soigner et infliger des dégâts. Il prône l’harmonie spirituelle. Genji est un ninja cyborg, Bastion un robot de combat, et Orisa un tank robotique."
   },
   {
-    "id": "1123",
-    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
+    "id": "1271",
+    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
     "answer": "Héra",
     "badAnswers": [
       "Aphrodite",
@@ -36,97 +36,97 @@
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
   },
   {
-    "id": "365",
-    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Los Santos",
+    "id": "3",
+    "question": "Quelle série met en scène le cartel de Medellín ?",
+    "answer": "Narcos",
     "badAnswers": [
-      "Liberty City",
-      "Vice City",
-      "San Fierro"
+      "Breaking Bad",
+      "El Chapo",
+      "La Casa de Papel"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
+    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
   },
   {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1938",
+    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
-  },
-  {
-    "id": "1987",
-    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
-    "answer": "Theodore Maiman",
-    "badAnswers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
-  },
-  {
-    "id": "385",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l’ami de Mario qui l’accompagne ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Toad",
-      "Yoshi",
-      "Luigi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est l’ami de Mario dans Super Mario Odyssey, un chapeau magique qui permet à Mario de posséder des ennemis et des objets. Toad, Yoshi et Luigi sont d’autres personnages de la série, mais Cappy est unique à ce jeu."
-  },
-  {
-    "id": "1456",
-    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
-    "answer": "Oasis",
-    "badAnswers": [
-      "Blur",
-      "The Verve",
-      "Radiohead"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
+    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
   },
   {
-    "id": "1560",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
-    "answer": "Seaborgium",
+    "id": "1529",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
+    "answer": "Fermium",
     "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Strontium"
+      "Fluor",
+      "Francium",
+      "Fer"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
+    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
   },
   {
-    "id": "1546",
-    "question": "Quel est la capitale du Liberia ?",
-    "answer": "Monrovia",
+    "id": "1909",
+    "question": "Quel est le nom du groupe qui a chanté 'Eleanor Rigby' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Gbarnga",
-      "Buchanan",
-      "Harper"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Géographie",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Eleanor Rigby', sorti en 1966 par The Beatles, est une chanson mélancolique tirée de l'album Revolver."
+  },
+  {
+    "id": "1627",
+    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
+    "answer": "James Watt",
+    "badAnswers": [
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Trevithick"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
+  },
+  {
+    "id": "1063",
+    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
+    "answer": "Alexander Fleming",
+    "badAnswers": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Robert Koch"
+    ],
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Monrovia, capitale du Liberia, est une ville portuaire nommée d'après le président américain James Monroe, connue pour ses plages."
+    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
+  },
+  {
+    "id": "1046",
+    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
+    "answer": "Eagles",
+    "badAnswers": [
+      "The Doors",
+      "Fleetwood Mac",
+      "The Rolling Stones"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
   }
 ]
