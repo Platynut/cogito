@@ -1,132 +1,132 @@
 [
   {
-    "id": "1237",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
+    "id": "1289",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ge ?",
+    "answer": "Germanium",
     "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
+      "Gallium",
+      "Gadolinium",
+      "Graphite"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
-  },
-  {
-    "id": "421",
-    "question": "Dans Overwatch, quel personnage est un moine robotique ?",
-    "answer": "Zenyatta",
-    "badAnswers": [
-      "Genji",
-      "Bastion",
-      "Orisa"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Zenyatta est un moine robotique dans Overwatch, un héros de soutien utilisant des orbes pour soigner et infliger des dégâts. Il prône l’harmonie spirituelle. Genji est un ninja cyborg, Bastion un robot de combat, et Orisa un tank robotique."
+    "description": "Le germanium, symbolisé par Ge, est un semi-conducteur utilisé dans l'électronique, notamment dans les transistors et les fibres optiques."
   },
   {
-    "id": "1271",
-    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
-    "answer": "Héra",
+    "id": "1108",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
+    "answer": "Calcium",
     "badAnswers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
+      "Carbone",
+      "Césium",
+      "Chlore"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
   },
   {
-    "id": "3",
-    "question": "Quelle série met en scène le cartel de Medellín ?",
-    "answer": "Narcos",
+    "id": "886",
+    "question": "Quel est le nom de l'auteur de 'En attendant Godot' ?",
+    "answer": "Samuel Beckett",
     "badAnswers": [
-      "Breaking Bad",
-      "El Chapo",
-      "La Casa de Papel"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Eugène Ionesco"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Samuel Beckett a écrit En attendant Godot (1953), une pièce de théâtre de l'absurde. Sartre, Camus et Ionesco sont d'autres auteurs existentialistes ou absurdistes."
+  },
+  {
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
+    "badAnswers": [
+      "Yangon",
+      "Mandalay",
+      "Bago"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+  },
+  {
+    "id": "608",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Bossk",
+      "Dengar"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
   },
   {
-    "id": "1938",
-    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
-    "answer": "The Beatles",
+    "id": "1367",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1981 ?",
+    "answer": "Chariots of Fire",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Raiders of the Lost Ark",
+      "On Golden Pond",
+      "Reds"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
-  },
-  {
-    "id": "1529",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
-    "answer": "Fermium",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fer"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
-  },
-  {
-    "id": "1909",
-    "question": "Quel est le nom du groupe qui a chanté 'Eleanor Rigby' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Eleanor Rigby', sorti en 1966 par The Beatles, est une chanson mélancolique tirée de l'album Revolver."
-  },
-  {
-    "id": "1627",
-    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
-    "answer": "James Watt",
-    "badAnswers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "Richard Trevithick"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
-  },
-  {
-    "id": "1063",
-    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
-    "answer": "Alexander Fleming",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Robert Koch"
-    ],
-    "category": "Médecine",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
+    "description": "Chariots of Fire, réalisé par Hugh Hudson, a remporté l'Oscar du meilleur film en 1981, une histoire sur des coureurs olympiques britanniques."
   },
   {
-    "id": "1046",
-    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
-    "answer": "Eagles",
+    "id": "1570",
+    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
+    "answer": "Aerosmith",
     "badAnswers": [
-      "The Doors",
-      "Fleetwood Mac",
-      "The Rolling Stones"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
+    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
+  },
+  {
+    "id": "78",
+    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Jules Verne",
+      "Honoré de Balzac"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Publié en 1844, ce roman de cape et d'épée suit les aventures de d'Artagnan et ses amis Athos, Porthos et Aramis sous Louis XIII."
+  },
+  {
+    "id": "1377",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1980 ?",
+    "answer": "Ordinary People",
+    "badAnswers": [
+      "Raging Bull",
+      "The Elephant Man",
+      "Coal Miner's Daughter"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Ordinary People, réalisé par Robert Redford, a remporté l'Oscar du meilleur film en 1980, un drame sur les tensions familiales."
+  },
+  {
+    "id": "1134",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ratchet ?",
+    "answer": "Ratchet & Clank",
+    "badAnswers": [
+      "Jak and Daxter",
+      "Spyro the Dragon",
+      "Crash Bandicoot"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ratchet, un lombax mécanicien, est le héros de la série Ratchet & Clank, accompagné de son ami robot Clank dans des aventures intergalactiques."
   }
 ]
