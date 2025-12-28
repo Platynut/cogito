@@ -1,132 +1,132 @@
 [
   {
-    "id": "170",
-    "question": "Jeff Koons est surtout connu pour ses ... ?",
-    "answer": "Sculptures",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Tags",
-      "Peintures",
-      "Dessins"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Jeff Koons est célèbre pour ses sculptures kitsch en acier inoxydable, comme 'Balloon Dog'. Il n'est pas associé au street art (tags) ni à la peinture traditionnelle."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
   },
   {
-    "id": "130",
-    "question": "Aux États-Unis, combien de présidents américains ont leur portrait taillé dans la roche du Mont Rushmore ?",
-    "answer": "4",
+    "id": "1757",
+    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "3",
-      "5",
-      "6"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+  },
+  {
+    "id": "1702",
+    "question": "Quel est le nom du groupe qui a chanté 'Shine On You Crazy Diamond' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Shine On You Crazy Diamond', sorti en 1975 par Pink Floyd, est une chanson hommage tirée de l'album Wish You Were Here."
+  },
+  {
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
+    "badAnswers": [
+      "Algérie",
+      "Tunisie",
+      "Égypte"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mont Rushmore représente les visages de 4 présidents américains : George Washington, Thomas Jefferson, Theodore Roosevelt et Abraham Lincoln."
+    "difficulty": "facile",
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   },
   {
-    "id": "203",
-    "question": "Quel élément du tableau périodique porte le numéro atomique 99 ?",
-    "answer": "Einsteinium",
+    "id": "541",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
+    "answer": "Shulk",
     "badAnswers": [
-      "Fermium",
-      "Californium",
-      "Curium"
+      "Rex",
+      "Pyra",
+      "Mythra"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'einsteinium (Es), élément 99, est un métal radioactif synthétique nommé en hommage à Albert Einstein. Le fermium (100), californium (98) et curium (96) sont d'autres éléments transuraniens."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
   },
   {
-    "id": "1305",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
-    "answer": "Philo Farnsworth",
+    "id": "803",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
+    "answer": "Remus Lupin",
     "badAnswers": [
-      "John Logie Baird",
-      "Vladimir Zworykin",
+      "Gilderoy Lockhart",
+      "Quirinus Quirrell",
+      "Alastor Maugrey"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
+  },
+  {
+    "id": "415",
+    "question": "Dans Assassin’s Creed Odyssey, dans quelle période historique se déroule l’histoire ?",
+    "answer": "Guerre du Péloponnèse",
+    "badAnswers": [
+      "Guerre de Troie",
+      "Guerres médiques",
+      "Conquête d’Alexandre"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Assassin’s Creed Odyssey se déroule pendant la guerre du Péloponnèse (431–404 av. J.-C.), un conflit entre Athènes et Sparte dans la Grèce antique. Les autres périodes mentionnées (Troie, Guerres médiques, Alexandre) sont des événements historiques différents."
+  },
+  {
+    "id": "619",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
+    "answer": "Alain-Fournier",
+    "badAnswers": [
+      "Marcel Proust",
+      "André Gide",
+      "François Mauriac"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "408",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
+    "answer": "Epona",
+    "badAnswers": [
+      "Rauru",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
+  },
+  {
+    "id": "1681",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
+    "badAnswers": [
+      "Louis Daguerre",
+      "George Eastman",
       "Thomas Edison"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
-  },
-  {
-    "id": "1498",
-    "question": "Quel est le nom de la déesse grecque de la terre ?",
-    "answer": "Gaïa",
-    "badAnswers": [
-      "Déméter",
-      "Héra",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
-  },
-  {
-    "id": "1291",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1993 ?",
-    "answer": "Schindler's List",
-    "badAnswers": [
-      "The Piano",
-      "The Fugitive",
-      "In the Name of the Father"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Schindler's List, réalisé par Steven Spielberg, a remporté l'Oscar du meilleur film en 1993, un drame poignant sur l'Holocauste."
-  },
-  {
-    "id": "2082",
-    "question": "Quel est le nom de l'auteur de 'L'Herbe rouge' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Herbe rouge' (1950), un roman surréaliste explorant les thèmes de la mémoire et de la mort."
-  },
-  {
-    "id": "1087",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
-    "answer": "The Artist",
-    "badAnswers": [
-      "Hugo",
-      "The Descendants",
-      "Midnight in Paris"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
-  },
-  {
-    "id": "1163",
-    "question": "Quelle est la capitale constitutionnelle de la Bolivie ?",
-    "answer": "Sucre",
-    "badAnswers": [
-      "La Paz",
-      "Santa Cruz",
-      "Cochabamba"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Sucre est la capitale constitutionnelle de la Bolivie, où se trouve la Cour suprême, et elle est connue pour son architecture coloniale."
-  },
-  {
-    "id": "1612",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mc ?",
-    "answer": "Moscovium",
-    "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mendélévium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le moscovium, symbolisé par Mc, est un élément radioactif synthétique, nommé d'après la région de Moscou, utilisé dans la recherche."
+    "description": "Nicéphore Niépce a réalisé la première photographie permanente en 1826, utilisant une plaque d'étain et la technique de l'héliographie."
   }
 ]
