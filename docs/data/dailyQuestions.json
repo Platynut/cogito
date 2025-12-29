@@ -1,132 +1,132 @@
 [
   {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
+    "id": "425",
+    "question": "Dans Super Mario Kart, quel personnage est le frère de Mario ?",
+    "answer": "Luigi",
     "badAnswers": [
-      "The Rolling Stones",
+      "Wario",
+      "Yoshi",
+      "Toad"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Luigi est le frère de Mario et un personnage jouable dans Super Mario Kart. Connu pour sa combinaison verte, il est un pilier de la série Mario. Wario est un rival, Yoshi un dinosaure, et Toad un serviteur du Royaume Champignon."
+  },
+  {
+    "id": "1516",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
+    "answer": "Berkélium",
+    "badAnswers": [
+      "Brome",
+      "Beryllium",
+      "Bore"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
+  },
+  {
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
+    "badAnswers": [
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
+  },
+  {
+    "id": "1201",
+    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Beatles",
       "The Who",
-      "The Doors"
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
   },
   {
-    "id": "1757",
-    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
-    "answer": "Lynyrd Skynyrd",
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
     "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "ZZ Top"
+      "Brésil",
+      "Argentine",
+      "Italie"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
   },
   {
-    "id": "1702",
-    "question": "Quel est le nom du groupe qui a chanté 'Shine On You Crazy Diamond' ?",
-    "answer": "Pink Floyd",
+    "id": "388",
+    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
+    "answer": "La Ruche",
     "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Shine On You Crazy Diamond', sorti en 1975 par Pink Floyd, est une chanson hommage tirée de l'album Wish You Were Here."
-  },
-  {
-    "id": "68",
-    "question": "Dans quel pays se trouve la ville de Marrakech ?",
-    "answer": "Maroc",
-    "badAnswers": [
-      "Algérie",
-      "Tunisie",
-      "Égypte"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
-  },
-  {
-    "id": "541",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
-    "answer": "Shulk",
-    "badAnswers": [
-      "Rex",
-      "Pyra",
-      "Mythra"
+      "Les Cabals",
+      "Les Vex",
+      "Les Déchus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
+    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
   },
   {
-    "id": "803",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
-    "answer": "Remus Lupin",
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
     "badAnswers": [
-      "Gilderoy Lockhart",
-      "Quirinus Quirrell",
-      "Alastor Maugrey"
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
-  },
-  {
-    "id": "415",
-    "question": "Dans Assassin’s Creed Odyssey, dans quelle période historique se déroule l’histoire ?",
-    "answer": "Guerre du Péloponnèse",
-    "badAnswers": [
-      "Guerre de Troie",
-      "Guerres médiques",
-      "Conquête d’Alexandre"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Assassin’s Creed Odyssey se déroule pendant la guerre du Péloponnèse (431–404 av. J.-C.), un conflit entre Athènes et Sparte dans la Grèce antique. Les autres périodes mentionnées (Troie, Guerres médiques, Alexandre) sont des événements historiques différents."
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
   },
   {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "408",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
-    "answer": "Epona",
-    "badAnswers": [
-      "Rauru",
-      "Midna",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
-  },
-  {
-    "id": "1681",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
-    "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "Thomas Edison"
+      "-2900",
+      "-10500",
+      "-3600"
     ],
     "category": "Histoire",
+    "difficulty": "facile",
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
+  },
+  {
+    "id": "333",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Ciri",
+      "Triss Merigold",
+      "Keira Metz"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Nicéphore Niépce a réalisé la première photographie permanente en 1826, utilisant une plaque d'étain et la technique de l'héliographie."
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
+  },
+  {
+    "id": "61",
+    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "answer": "Éléphant d'Afrique",
+    "badAnswers": [
+      "Girafe",
+      "Rhinocéros blanc",
+      "Ours polaire"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
   }
 ]
