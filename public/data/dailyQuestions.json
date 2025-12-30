@@ -1,132 +1,132 @@
 [
   {
-    "id": "425",
-    "question": "Dans Super Mario Kart, quel personnage est le frère de Mario ?",
-    "answer": "Luigi",
+    "id": "561",
+    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
+    "answer": "Florence",
     "badAnswers": [
-      "Wario",
-      "Yoshi",
-      "Toad"
+      "Venise",
+      "Rome",
+      "Milan"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Luigi est le frère de Mario et un personnage jouable dans Super Mario Kart. Connu pour sa combinaison verte, il est un pilier de la série Mario. Wario est un rival, Yoshi un dinosaure, et Toad un serviteur du Royaume Champignon."
+    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
   },
   {
-    "id": "1516",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
-    "answer": "Berkélium",
+    "id": "645",
+    "question": "Dans Elden Ring, quel est le nom de l'arbre sacré central ?",
+    "answer": "Arbre-Monde",
     "badAnswers": [
-      "Brome",
-      "Beryllium",
-      "Bore"
+      "Arbre d'Or",
+      "Arbre de Vie",
+      "Arbre Éternel"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Arbre-Monde est l'arbre sacré central dans Elden Ring, lié à la mythologie du jeu et à l'Anneau d'Elden. Les autres options sont fictives ou tirées d'autres œuvres."
+  },
+  {
+    "id": "331",
+    "question": "Quel est le nom du protagoniste dans Assassin's Creed II ?",
+    "answer": "Ezio Auditore da Firenze",
+    "badAnswers": [
+      "Altaïr Ibn-La'Ahad",
+      "Desmond Miles",
+      "Connor Kenway"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ezio Auditore da Firenze est le protagoniste principal d'Assassin's Creed II (2009), un noble italien devenu assassin dans la Renaissance. Charismatique et emblématique, il est au cœur de plusieurs jeux de la série. Altaïr, Desmond et Connor sont des personnages d'autres jeux Assassin's Creed."
+  },
+  {
+    "id": "1474",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
+    "answer": "The Apartment",
+    "badAnswers": [
+      "Psycho",
+      "The Alamo",
+      "Sons and Lovers"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
+  },
+  {
+    "id": "80",
+    "question": "Quelle est la vitesse de la lumière dans le vide ?",
+    "answer": "299 792 458 m/s",
+    "badAnswers": [
+      "150 000 km/s",
+      "1 million km/h",
+      "3 000 km/s"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
+    "description": "Cette constante physique fondamentale est notée 'c'. Rien ne peut se déplacer plus vite selon la théorie de la relativité d'Einstein."
   },
   {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
+    "id": "865",
+    "question": "Dans Overwatch, quel personnage est un ancien chef d'Overwatch devenu hors-la-loi ?",
+    "answer": "Soldat 76",
     "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
-  },
-  {
-    "id": "1201",
-    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
-    "answer": "The Rolling Stones",
-    "badAnswers": [
-      "The Beatles",
-      "The Who",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
-  },
-  {
-    "id": "51",
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "answer": "Uruguay",
-    "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
-  },
-  {
-    "id": "388",
-    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
-    "answer": "La Ruche",
-    "badAnswers": [
-      "Les Cabals",
-      "Les Vex",
-      "Les Déchus"
+      "Reaper",
+      "McCree",
+      "Ashe"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
+    "difficulty": "facile",
+    "description": "Soldat 76, ancien chef d'Overwatch, est un hors-la-loi dans Overwatch, cherchant à faire justice. Reaper est un ancien allié, McCree et Ashe sont d'autres hors-la-loi."
   },
   {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
+    "id": "498",
+    "question": "Quel est la capitale de l'Argentine ?",
+    "answer": "Buenos Aires",
     "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+  },
+  {
+    "id": "1358",
+    "question": "Quel est la capitale du Belize ?",
+    "answer": "Belmopan",
+    "badAnswers": [
+      "Belize City",
+      "San Ignacio",
+      "Dangriga"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Belmopan, capitale du Belize depuis 1970, est une ville planifiée conçue pour remplacer Belize City après des catastrophes naturelles."
+  },
+  {
+    "id": "1933",
+    "question": "Quel est le nom de l'auteur de 'Mangeclous' ?",
+    "answer": "Albert Cohen",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
+    "description": "Albert Cohen a écrit 'Mangeclous' (1938), un roman humoristique faisant partie du cycle de Solal."
   },
   {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
+    "id": "33",
+    "question": "Quel scientifique a découvert la pénicilline ?",
+    "answer": "Alexander Fleming",
     "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
+      "Louis Pasteur",
+      "Marie Curie",
+      "Albert Einstein"
     ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
-  },
-  {
-    "id": "333",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
-    "answer": "Yennefer de Vengerberg",
-    "badAnswers": [
-      "Ciri",
-      "Triss Merigold",
-      "Keira Metz"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
-  },
-  {
-    "id": "61",
-    "question": "Quel est le plus grand animal terrestre actuel ?",
-    "answer": "Éléphant d'Afrique",
-    "badAnswers": [
-      "Girafe",
-      "Rhinocéros blanc",
-      "Ours polaire"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
+    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
   }
 ]
