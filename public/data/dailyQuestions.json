@@ -1,132 +1,132 @@
 [
   {
-    "id": "561",
-    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
-    "answer": "Florence",
+    "id": "701",
+    "question": "Dans Assassin's Creed Origins, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Égypte ptolémaïque",
     "badAnswers": [
-      "Venise",
-      "Rome",
-      "Milan"
+      "Empire romain",
+      "Grèce antique",
+      "Moyen Âge"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
+    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek explorant Alexandrie. L'Empire romain, la Grèce antique et le Moyen Âge sont les décors d'autres jeux."
   },
   {
-    "id": "645",
-    "question": "Dans Elden Ring, quel est le nom de l'arbre sacré central ?",
-    "answer": "Arbre-Monde",
+    "id": "15",
+    "question": "Qui est le créateur de Mario ?",
+    "answer": "Shigeru Miyamoto",
     "badAnswers": [
-      "Arbre d'Or",
-      "Arbre de Vie",
-      "Arbre Éternel"
+      "Hideo Kojima",
+      "Satoshi Tajiri",
+      "Yuji Naka"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Arbre-Monde est l'arbre sacré central dans Elden Ring, lié à la mythologie du jeu et à l'Anneau d'Elden. Les autres options sont fictives ou tirées d'autres œuvres."
-  },
-  {
-    "id": "331",
-    "question": "Quel est le nom du protagoniste dans Assassin's Creed II ?",
-    "answer": "Ezio Auditore da Firenze",
-    "badAnswers": [
-      "Altaïr Ibn-La'Ahad",
-      "Desmond Miles",
-      "Connor Kenway"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ezio Auditore da Firenze est le protagoniste principal d'Assassin's Creed II (2009), un noble italien devenu assassin dans la Renaissance. Charismatique et emblématique, il est au cœur de plusieurs jeux de la série. Altaïr, Desmond et Connor sont des personnages d'autres jeux Assassin's Creed."
-  },
-  {
-    "id": "1474",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
-    "answer": "The Apartment",
-    "badAnswers": [
-      "Psycho",
-      "The Alamo",
-      "Sons and Lovers"
-    ],
-    "category": "Cinéma",
+    "category": "Divertissement",
     "difficulty": "normal",
-    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
+    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
   },
   {
-    "id": "80",
-    "question": "Quelle est la vitesse de la lumière dans le vide ?",
-    "answer": "299 792 458 m/s",
+    "id": "818",
+    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
+    "answer": "Moira",
     "badAnswers": [
-      "150 000 km/s",
-      "1 million km/h",
-      "3 000 km/s"
+      "Sigma",
+      "Winston",
+      "Mercy"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
+  },
+  {
+    "id": "2150",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS grand public ?",
+    "answer": "Magellan Corporation",
+    "badAnswers": [
+      "Garmin Team",
+      "TomTom Team",
+      "Bradford Parkinson"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "La Magellan Corporation a lancé le premier GPS portable grand public, le NAV 1000, en 1989."
+  },
+  {
+    "id": "527",
+    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
+    "answer": "Darius",
+    "badAnswers": [
+      "Draven",
+      "Swain",
+      "Kled"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+  },
+  {
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
+    "badAnswers": [
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ],
+    "category": "Art",
     "difficulty": "difficile",
-    "description": "Cette constante physique fondamentale est notée 'c'. Rien ne peut se déplacer plus vite selon la théorie de la relativité d'Einstein."
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
   },
   {
-    "id": "865",
-    "question": "Dans Overwatch, quel personnage est un ancien chef d'Overwatch devenu hors-la-loi ?",
-    "answer": "Soldat 76",
+    "id": "22",
+    "question": "Quelle ville est surnommée 'la Grosse Pomme' ?",
+    "answer": "New York",
     "badAnswers": [
-      "Reaper",
-      "McCree",
-      "Ashe"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Soldat 76, ancien chef d'Overwatch, est un hors-la-loi dans Overwatch, cherchant à faire justice. Reaper est un ancien allié, McCree et Ashe sont d'autres hors-la-loi."
-  },
-  {
-    "id": "498",
-    "question": "Quel est la capitale de l'Argentine ?",
-    "answer": "Buenos Aires",
-    "badAnswers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
+      "Paris",
+      "Londres",
+      "Tokyo"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+    "description": "Ce surnom date des années 1920 quand un journaliste sportif l'utilisa pour désigner les prix hippiques new-yorkais."
   },
   {
-    "id": "1358",
-    "question": "Quel est la capitale du Belize ?",
-    "answer": "Belmopan",
+    "id": "242",
+    "question": "Klein a déposé une couleur qui porte son nom ...",
+    "answer": "Bleu",
     "badAnswers": [
-      "Belize City",
-      "San Ignacio",
-      "Dangriga"
+      "Noir",
+      "Rouge",
+      "Violet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
+  },
+  {
+    "id": "1788",
+    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
+    "answer": "Creedence Clearwater Revival",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
+  },
+  {
+    "id": "750",
+    "question": "Quel est la capitale de la Suède ?",
+    "answer": "Stockholm",
+    "badAnswers": [
+      "Göteborg",
+      "Malmö",
+      "Uppsala"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Belmopan, capitale du Belize depuis 1970, est une ville planifiée conçue pour remplacer Belize City après des catastrophes naturelles."
-  },
-  {
-    "id": "1933",
-    "question": "Quel est le nom de l'auteur de 'Mangeclous' ?",
-    "answer": "Albert Cohen",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Cohen a écrit 'Mangeclous' (1938), un roman humoristique faisant partie du cycle de Solal."
-  },
-  {
-    "id": "33",
-    "question": "Quel scientifique a découvert la pénicilline ?",
-    "answer": "Alexander Fleming",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Marie Curie",
-      "Albert Einstein"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
+    "difficulty": "facile",
+    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
   }
 ]
