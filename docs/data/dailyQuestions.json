@@ -1,132 +1,132 @@
 [
   {
-    "id": "701",
-    "question": "Dans Assassin's Creed Origins, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Égypte ptolémaïque",
+    "id": "1668",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Empire romain",
-      "Grèce antique",
-      "Moyen Âge"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek explorant Alexandrie. L'Empire romain, la Grèce antique et le Moyen Âge sont les décors d'autres jeux."
+    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
   },
   {
-    "id": "15",
-    "question": "Qui est le créateur de Mario ?",
-    "answer": "Shigeru Miyamoto",
+    "id": "1590",
+    "question": "Quel est le nom de l'auteur de 'Notre-Dame de Paris' ?",
+    "answer": "Victor Hugo",
     "badAnswers": [
-      "Hideo Kojima",
-      "Satoshi Tajiri",
-      "Yuji Naka"
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Émile Zola"
     ],
-    "category": "Divertissement",
-    "difficulty": "normal",
-    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
-  },
-  {
-    "id": "818",
-    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
-    "answer": "Moira",
-    "badAnswers": [
-      "Sigma",
-      "Winston",
-      "Mercy"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
-  },
-  {
-    "id": "2150",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS grand public ?",
-    "answer": "Magellan Corporation",
-    "badAnswers": [
-      "Garmin Team",
-      "TomTom Team",
-      "Bradford Parkinson"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "La Magellan Corporation a lancé le premier GPS portable grand public, le NAV 1000, en 1989."
-  },
-  {
-    "id": "527",
-    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
-    "answer": "Darius",
-    "badAnswers": [
-      "Draven",
-      "Swain",
-      "Kled"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
-  },
-  {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
-    "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "22",
-    "question": "Quelle ville est surnommée 'la Grosse Pomme' ?",
-    "answer": "New York",
-    "badAnswers": [
-      "Paris",
-      "Londres",
-      "Tokyo"
-    ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Ce surnom date des années 1920 quand un journaliste sportif l'utilisa pour désigner les prix hippiques new-yorkais."
+    "description": "Victor Hugo a écrit 'Notre-Dame de Paris' (1831), un roman historique sur le bossu Quasimodo et la cathédrale de Paris."
   },
   {
-    "id": "242",
-    "question": "Klein a déposé une couleur qui porte son nom ...",
-    "answer": "Bleu",
+    "id": "1046",
+    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
+    "answer": "Eagles",
     "badAnswers": [
-      "Noir",
-      "Rouge",
-      "Violet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
-  },
-  {
-    "id": "1788",
-    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
-    "answer": "Creedence Clearwater Revival",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "The Doors",
+      "Fleetwood Mac",
+      "The Rolling Stones"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
+    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
   },
   {
-    "id": "750",
-    "question": "Quel est la capitale de la Suède ?",
-    "answer": "Stockholm",
+    "id": "305",
+    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
     "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
+  },
+  {
+    "id": "1106",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2024 ?",
+    "answer": "Anora",
+    "badAnswers": [
+      "The Brutalist",
+      "Dune: Part Two",
+      "Wicked"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Anora, réalisé par Sean Baker, a remporté l'Oscar du meilleur film lors de la 97ᵉ cérémonie en 2024, récompensant les films de 2024. Le film a totalisé cinq statuettes, dont Meilleur réalisateur (Sean Baker) et Meilleure actrice (Mikey Madison)."
+  },
+  {
+    "id": "2134",
+    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
+    "answer": "Edward Jenner",
+    "badAnswers": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Albert Sabin"
+    ],
+    "category": "Médecine",
+    "difficulty": "facile",
+    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
+  },
+  {
+    "id": "264",
+    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Fortnite",
+      "Call of Duty",
+      "World of Warcraft"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
+  },
+  {
+    "id": "491",
+    "question": "Quel est le nom du plus grand volcan d'Europe ?",
+    "answer": "Etna",
+    "badAnswers": [
+      "Vésuve",
+      "Stromboli",
+      "Hekla"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
+    "difficulty": "normal",
+    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
+  },
+  {
+    "id": "1616",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1937 ?",
+    "answer": "The Great Ziegfeld",
+    "badAnswers": [
+      "Mr. Deeds Goes to Town",
+      "San Francisco",
+      "The Story of Louis Pasteur"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Great Ziegfeld, réalisé par Robert Z. Leonard, a remporté l'Oscar du meilleur film en 1937, un biopic sur le producteur de Broadway."
+  },
+  {
+    "id": "188",
+    "question": "Comment s’appelle le capitaine qui veut se venger de Moby-Dick dans le roman d’Hermann Melville ?",
+    "answer": "Capitaine Achab",
+    "badAnswers": [
+      "Capitaine Crochet",
+      "Capitaine Fracasse",
+      "Capitaine Némo"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Le capitaine Achab, dans 'Moby-Dick', est obsédé par sa vengeance contre le cachalot blanc. Crochet est dans 'Peter Pan', Fracasse dans le roman de Théophile Gautier, et Némo dans '20 000 lieues sous les mers'."
   }
 ]
