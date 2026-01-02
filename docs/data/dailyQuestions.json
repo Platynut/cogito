@@ -1,7 +1,46 @@
 [
   {
-    "id": "1668",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
+    "id": "1005",
+    "question": "Quel est le nom du premier album studio de Lady Gaga ?",
+    "answer": "The Fame",
+    "badAnswers": [
+      "Born This Way",
+      "Artpop",
+      "Joanne"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "The Fame, sorti en 2008, est le premier album studio de Lady Gaga, incluant des tubes comme 'Just Dance' et 'Poker Face', qui l'ont propulsée au rang de star."
+  },
+  {
+    "id": "946",
+    "question": "Dans le film Mad Max: Fury Road, le Dies Irae provient du requiem de quel compositeur ?",
+    "answer": "Verdi",
+    "badAnswers": [
+      "Mozart",
+      "Berlioz",
+      "Brahms"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road pour renforcer l'intensité dramatique des scènes d'action."
+  },
+  {
+    "id": "1009",
+    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
+    "answer": "Ludwig van Beethoven",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Johannes Brahms",
+      "Franz Schubert"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
+  },
+  {
+    "id": "1648",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mewtwo ?",
     "answer": "Pokémon",
     "badAnswers": [
       "Super Mario",
@@ -10,123 +49,84 @@
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
+    "description": "Mewtwo, Pokémon légendaire de type psy, est une créature puissante de la série Pokémon, créée par clonage."
   },
   {
-    "id": "1590",
-    "question": "Quel est le nom de l'auteur de 'Notre-Dame de Paris' ?",
-    "answer": "Victor Hugo",
+    "id": "1066",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
+    "answer": "Titanic",
     "badAnswers": [
-      "Alexandre Dumas",
-      "Gustave Flaubert",
-      "Émile Zola"
+      "L.A. Confidential",
+      "Will Hunting",
+      "Le Patient anglais"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, devenant un phénomène culturel avec son histoire d'amour tragique."
+  },
+  {
+    "id": "2040",
+    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
+    "answer": "Nathalie Sarraute",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Victor Hugo a écrit 'Notre-Dame de Paris' (1831), un roman historique sur le bossu Quasimodo et la cathédrale de Paris."
+    "difficulty": "normal",
+    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
   },
   {
-    "id": "1046",
-    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
-    "answer": "Eagles",
+    "id": "938",
+    "question": "Quel est le nom du premier film Star Wars sorti en salles ?",
+    "answer": "Un nouvel espoir",
     "badAnswers": [
-      "The Doors",
-      "Fleetwood Mac",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
-  },
-  {
-    "id": "305",
-    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
-    "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
+      "La Menace fantôme",
+      "Le Réveil de la Force",
+      "La Revanche des Sith"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
+    "description": "Star Wars : Un nouvel espoir, sorti en 1977, est le premier film de la saga par ordre de sortie, bien qu'il soit le quatrième épisode dans la chronologie narrative."
   },
   {
-    "id": "1106",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2024 ?",
-    "answer": "Anora",
+    "id": "205",
+    "question": "Quand les premiers dinosaures seraient-ils apparus sur Terre ?",
+    "answer": "Il y a 230 millions d'années",
     "badAnswers": [
-      "The Brutalist",
-      "Dune: Part Two",
-      "Wicked"
+      "Il y a 5 millions d'années",
+      "Il y a 65 millions d'années",
+      "Il y a 20 millions d'années"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Anora, réalisé par Sean Baker, a remporté l'Oscar du meilleur film lors de la 97ᵉ cérémonie en 2024, récompensant les films de 2024. Le film a totalisé cinq statuettes, dont Meilleur réalisateur (Sean Baker) et Meilleure actrice (Mikey Madison)."
+    "description": "Les dinosaures sont apparus au Trias, il y a environ 230 millions d'années. Il y a 65 millions d'années, leur extinction a eu lieu (hors oiseaux)."
   },
   {
-    "id": "2134",
-    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
-    "answer": "Edward Jenner",
+    "id": "870",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
+    "answer": "Kassadin",
     "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Albert Sabin"
-    ],
-    "category": "Médecine",
-    "difficulty": "facile",
-    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
-  },
-  {
-    "id": "264",
-    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Fortnite",
-      "Call of Duty",
-      "World of Warcraft"
+      "Malzahar",
+      "Karthus",
+      "Veigar"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
+  },
+  {
+    "id": "1627",
+    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
+    "answer": "James Watt",
+    "badAnswers": [
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Trevithick"
+    ],
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
-  },
-  {
-    "id": "491",
-    "question": "Quel est le nom du plus grand volcan d'Europe ?",
-    "answer": "Etna",
-    "badAnswers": [
-      "Vésuve",
-      "Stromboli",
-      "Hekla"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
-  },
-  {
-    "id": "1616",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1937 ?",
-    "answer": "The Great Ziegfeld",
-    "badAnswers": [
-      "Mr. Deeds Goes to Town",
-      "San Francisco",
-      "The Story of Louis Pasteur"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Great Ziegfeld, réalisé par Robert Z. Leonard, a remporté l'Oscar du meilleur film en 1937, un biopic sur le producteur de Broadway."
-  },
-  {
-    "id": "188",
-    "question": "Comment s’appelle le capitaine qui veut se venger de Moby-Dick dans le roman d’Hermann Melville ?",
-    "answer": "Capitaine Achab",
-    "badAnswers": [
-      "Capitaine Crochet",
-      "Capitaine Fracasse",
-      "Capitaine Némo"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Le capitaine Achab, dans 'Moby-Dick', est obsédé par sa vengeance contre le cachalot blanc. Crochet est dans 'Peter Pan', Fracasse dans le roman de Théophile Gautier, et Némo dans '20 000 lieues sous les mers'."
+    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
   }
 ]
