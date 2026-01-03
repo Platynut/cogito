@@ -1,73 +1,73 @@
 [
   {
-    "id": "1005",
-    "question": "Quel est le nom du premier album studio de Lady Gaga ?",
-    "answer": "The Fame",
+    "id": "1105",
+    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
+    "answer": "Igor Sikorsky",
     "badAnswers": [
-      "Born This Way",
-      "Artpop",
-      "Joanne"
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Ferdinand von Zeppelin"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "The Fame, sorti en 2008, est le premier album studio de Lady Gaga, incluant des tubes comme 'Just Dance' et 'Poker Face', qui l'ont propulsée au rang de star."
-  },
-  {
-    "id": "946",
-    "question": "Dans le film Mad Max: Fury Road, le Dies Irae provient du requiem de quel compositeur ?",
-    "answer": "Verdi",
-    "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road pour renforcer l'intensité dramatique des scènes d'action."
-  },
-  {
-    "id": "1009",
-    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
-    "answer": "Ludwig van Beethoven",
-    "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Johannes Brahms",
-      "Franz Schubert"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
-  },
-  {
-    "id": "1648",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mewtwo ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mewtwo, Pokémon légendaire de type psy, est une créature puissante de la série Pokémon, créée par clonage."
-  },
-  {
-    "id": "1066",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
-    "answer": "Titanic",
-    "badAnswers": [
-      "L.A. Confidential",
-      "Will Hunting",
-      "Le Patient anglais"
-    ],
-    "category": "Cinéma",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, devenant un phénomène culturel avec son histoire d'amour tragique."
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
   },
   {
-    "id": "2040",
-    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
-    "answer": "Nathalie Sarraute",
+    "id": "125",
+    "question": "Quels Jeux olympiques ont été supprimés à cause de la Seconde Guerre mondiale ?",
+    "answer": "1940 et 1944",
+    "badAnswers": [
+      "1936 et 1940",
+      "1944 et 1948",
+      "1932 et 1936"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Les Jeux Olympiques de 1940 et 1944 ont été annulés en raison de la Seconde Guerre mondiale. Les Jeux de 1936 ont eu lieu à Berlin, et ceux de 1948 à Londres."
+  },
+  {
+    "id": "1927",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
+    "answer": "Frank Whittle",
+    "badAnswers": [
+      "Hans von Ohain",
+      "Robert Goddard",
+      "Wernher von Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+  },
+  {
+    "id": "798",
+    "question": "Dans Star Wars, quel est le nom de la planète où se trouve la cité des nuages ?",
+    "answer": "Bespin",
+    "badAnswers": [
+      "Coruscant",
+      "Naboo",
+      "Alderaan"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Bespin est la planète gazeuse abritant la Cité des Nuages dans L'Empire contre-attaque. Coruscant, Naboo et Alderaan sont d'autres planètes de Star Wars."
+  },
+  {
+    "id": "174",
+    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
+    "answer": "1982",
+    "badAnswers": [
+      "1983",
+      "1985",
+      "1980"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
+  },
+  {
+    "id": "1975",
+    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -75,58 +75,58 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
+    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
   },
   {
-    "id": "938",
-    "question": "Quel est le nom du premier film Star Wars sorti en salles ?",
-    "answer": "Un nouvel espoir",
+    "id": "1899",
+    "question": "Quel est la capitale du Congo ?",
+    "answer": "Brazzaville",
     "badAnswers": [
-      "La Menace fantôme",
-      "Le Réveil de la Force",
-      "La Revanche des Sith"
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
+  },
+  {
+    "id": "1073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2000 ?",
+    "answer": "Gladiator",
+    "badAnswers": [
+      "Tigre et Dragon",
+      "Traffic",
+      "Erin Brockovich"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Star Wars : Un nouvel espoir, sorti en 1977, est le premier film de la saga par ordre de sortie, bien qu'il soit le quatrième épisode dans la chronologie narrative."
+    "description": "Gladiator, réalisé par Ridley Scott et avec Russell Crowe, a remporté l'Oscar du meilleur film en 2000 pour son épopée romaine dramatique."
   },
   {
-    "id": "205",
-    "question": "Quand les premiers dinosaures seraient-ils apparus sur Terre ?",
-    "answer": "Il y a 230 millions d'années",
+    "id": "663",
+    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
+    "answer": "Armando Dippet",
     "badAnswers": [
-      "Il y a 5 millions d'années",
-      "Il y a 65 millions d'années",
-      "Il y a 20 millions d'années"
+      "Phineas Nigellus",
+      "Dexter Fortescue",
+      "Dilys Derwent"
     ],
-    "category": "Science",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Les dinosaures sont apparus au Trias, il y a environ 230 millions d'années. Il y a 65 millions d'années, leur extinction a eu lieu (hors oiseaux)."
+    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
   },
   {
-    "id": "870",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
-    "answer": "Kassadin",
+    "id": "1498",
+    "question": "Quel est le nom de la déesse grecque de la terre ?",
+    "answer": "Gaïa",
     "badAnswers": [
-      "Malzahar",
-      "Karthus",
-      "Veigar"
+      "Déméter",
+      "Héra",
+      "Athéna"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
-  },
-  {
-    "id": "1627",
-    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
-    "answer": "James Watt",
-    "badAnswers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "Richard Trevithick"
-    ],
-    "category": "Histoire",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
+    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
   }
 ]
