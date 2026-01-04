@@ -1,73 +1,8 @@
 [
   {
-    "id": "1105",
-    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
-    "answer": "Igor Sikorsky",
-    "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Ferdinand von Zeppelin"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
-  },
-  {
-    "id": "125",
-    "question": "Quels Jeux olympiques ont été supprimés à cause de la Seconde Guerre mondiale ?",
-    "answer": "1940 et 1944",
-    "badAnswers": [
-      "1936 et 1940",
-      "1944 et 1948",
-      "1932 et 1936"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Les Jeux Olympiques de 1940 et 1944 ont été annulés en raison de la Seconde Guerre mondiale. Les Jeux de 1936 ont eu lieu à Berlin, et ceux de 1948 à Londres."
-  },
-  {
-    "id": "1927",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
-    "answer": "Frank Whittle",
-    "badAnswers": [
-      "Hans von Ohain",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
-  },
-  {
-    "id": "798",
-    "question": "Dans Star Wars, quel est le nom de la planète où se trouve la cité des nuages ?",
-    "answer": "Bespin",
-    "badAnswers": [
-      "Coruscant",
-      "Naboo",
-      "Alderaan"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Bespin est la planète gazeuse abritant la Cité des Nuages dans L'Empire contre-attaque. Coruscant, Naboo et Alderaan sont d'autres planètes de Star Wars."
-  },
-  {
-    "id": "174",
-    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
-    "answer": "1982",
-    "badAnswers": [
-      "1983",
-      "1985",
-      "1980"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
-  },
-  {
-    "id": "1975",
-    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
-    "answer": "Louis Aragon",
+    "id": "1998",
+    "question": "Quel est le nom de l'auteur de 'Moderato Cantabile' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -75,58 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
+    "description": "Marguerite Duras a écrit 'Moderato Cantabile' (1958), un roman sur l'ennui et la passion dans une ville portuaire."
   },
   {
-    "id": "1899",
-    "question": "Quel est la capitale du Congo ?",
-    "answer": "Brazzaville",
+    "id": "1818",
+    "question": "Quel est la capitale de la Guinée-Bissau ?",
+    "answer": "Bissau",
     "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
+      "Bafatá",
+      "Gabú",
+      "Cacheu"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
+    "difficulty": "normal",
+    "description": "Bissau, capitale de la Guinée-Bissau, est une ville portuaire connue pour son fort colonial et ses marchés."
   },
   {
-    "id": "1073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2000 ?",
-    "answer": "Gladiator",
+    "id": "1343",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
+    "answer": "Amadeus",
     "badAnswers": [
-      "Tigre et Dragon",
-      "Traffic",
-      "Erin Brockovich"
+      "The Killing Fields",
+      "A Passage to India",
+      "Places in the Heart"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Gladiator, réalisé par Ridley Scott et avec Russell Crowe, a remporté l'Oscar du meilleur film en 2000 pour son épopée romaine dramatique."
+    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
   },
   {
-    "id": "663",
-    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
-    "answer": "Armando Dippet",
+    "id": "518",
+    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
+    "answer": "Sombra",
     "badAnswers": [
-      "Phineas Nigellus",
-      "Dexter Fortescue",
-      "Dilys Derwent"
+      "Reaper",
+      "Tracer",
+      "D.Va"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
+    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
   },
   {
-    "id": "1498",
-    "question": "Quel est le nom de la déesse grecque de la terre ?",
-    "answer": "Gaïa",
+    "id": "375",
+    "question": "Dans The Witcher, quel est le surnom de Geralt de Riv ?",
+    "answer": "Loup Blanc",
     "badAnswers": [
-      "Déméter",
-      "Héra",
-      "Athéna"
+      "Lion d’Argent",
+      "Aigle Noir",
+      "Serpent de Feu"
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
+    "description": "Geralt de Riv, protagoniste de The Witcher, est surnommé le Loup Blanc en raison de son médaillon en forme de loup et de ses cheveux blancs, symboles de son école de sorceleur. Les autres surnoms sont fictifs et ne lui sont pas associés."
+  },
+  {
+    "id": "612",
+    "question": "Quel est le plus grand oiseau de proie du monde ?",
+    "answer": "Condor des Andes",
+    "badAnswers": [
+      "Aigle harpie",
+      "Vautour royal",
+      "Aigle royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
+  },
+  {
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
+    "badAnswers": [
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
+  },
+  {
+    "id": "1209",
+    "question": "Quel est le nom de l'inventeur de la dynamo ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
+  },
+  {
+    "id": "2100",
+    "question": "Quel est le nom de l'inventeur du premier système de tomographie par émission de positons (TEP) ?",
+    "answer": "David E. Kuhl",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "David E. Kuhl a développé les bases de la tomographie par émission de positons dans les années 1950, utilisée pour l'imagerie cérébrale."
+  },
+  {
+    "id": "1423",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Hf ?",
+    "answer": "Hafnium",
+    "badAnswers": [
+      "Holmium",
+      "Hélium",
+      "Hydrargyrum"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'hafnium, symbolisé par Hf, est un métal utilisé dans les réacteurs nucléaires et les alliages pour sa résistance à la corrosion."
   }
 ]
