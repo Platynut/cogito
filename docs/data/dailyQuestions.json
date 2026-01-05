@@ -1,8 +1,21 @@
 [
   {
-    "id": "1998",
-    "question": "Quel est le nom de l'auteur de 'Moderato Cantabile' ?",
-    "answer": "Marguerite Duras",
+    "id": "1252",
+    "question": "Quel est le nom du groupe qui a chanté 'With or Without You' ?",
+    "answer": "U2",
+    "badAnswers": [
+      "R.E.M.",
+      "The Police",
+      "Coldplay"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'With or Without You', sorti en 1987 par U2, est une chanson rock emblématique tirée de l'album The Joshua Tree."
+  },
+  {
+    "id": "1964",
+    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -10,123 +23,110 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Moderato Cantabile' (1958), un roman sur l'ennui et la passion dans une ville portuaire."
+    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
   },
   {
-    "id": "1818",
-    "question": "Quel est la capitale de la Guinée-Bissau ?",
-    "answer": "Bissau",
+    "id": "798",
+    "question": "Dans Star Wars, quel est le nom de la planète où se trouve la cité des nuages ?",
+    "answer": "Bespin",
     "badAnswers": [
-      "Bafatá",
-      "Gabú",
-      "Cacheu"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bissau, capitale de la Guinée-Bissau, est une ville portuaire connue pour son fort colonial et ses marchés."
-  },
-  {
-    "id": "1343",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1984 ?",
-    "answer": "Amadeus",
-    "badAnswers": [
-      "The Killing Fields",
-      "A Passage to India",
-      "Places in the Heart"
+      "Coruscant",
+      "Naboo",
+      "Alderaan"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Amadeus, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1984, une fresque sur la rivalité entre Mozart et Salieri."
-  },
-  {
-    "id": "518",
-    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
-    "answer": "Sombra",
-    "badAnswers": [
-      "Reaper",
-      "Tracer",
-      "D.Va"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
-  },
-  {
-    "id": "375",
-    "question": "Dans The Witcher, quel est le surnom de Geralt de Riv ?",
-    "answer": "Loup Blanc",
-    "badAnswers": [
-      "Lion d’Argent",
-      "Aigle Noir",
-      "Serpent de Feu"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Geralt de Riv, protagoniste de The Witcher, est surnommé le Loup Blanc en raison de son médaillon en forme de loup et de ses cheveux blancs, symboles de son école de sorceleur. Les autres surnoms sont fictifs et ne lui sont pas associés."
+    "description": "Bespin est la planète gazeuse abritant la Cité des Nuages dans L'Empire contre-attaque. Coruscant, Naboo et Alderaan sont d'autres planètes de Star Wars."
   },
   {
-    "id": "612",
-    "question": "Quel est le plus grand oiseau de proie du monde ?",
+    "id": "486",
+    "question": "Quel est le plus grand oiseau prédateur du monde ?",
     "answer": "Condor des Andes",
     "badAnswers": [
-      "Aigle harpie",
-      "Vautour royal",
-      "Aigle royal"
+      "Aigle royal",
+      "Vautour fauve",
+      "Harfang des neiges"
     ],
     "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
+    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
   },
   {
-    "id": "1738",
-    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
-    "answer": "Robert Watson-Watt",
+    "id": "128",
+    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
+    "answer": "Adamantium",
     "badAnswers": [
-      "Heinrich Hertz",
-      "Christian Hülsmeyer",
-      "Karl Ferdinand Braun"
+      "Vibranium",
+      "Cavorite",
+      "Neutronium"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
   },
   {
-    "id": "1209",
-    "question": "Quel est le nom de l'inventeur de la dynamo ?",
-    "answer": "Michael Faraday",
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
   },
   {
-    "id": "2100",
-    "question": "Quel est le nom de l'inventeur du premier système de tomographie par émission de positons (TEP) ?",
-    "answer": "David E. Kuhl",
+    "id": "700",
+    "question": "Quel est le nom de la déesse grecque de la sagesse ?",
+    "answer": "Athéna",
     "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
+      "Artémis",
+      "Aphrodite",
+      "Héra"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "David E. Kuhl a développé les bases de la tomographie par émission de positons dans les années 1950, utilisée pour l'imagerie cérébrale."
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Athéna est la déesse grecque de la sagesse, de la stratégie et de l'artisanat, souvent représentée avec une chouette. Artémis est la déesse de la chasse, Aphrodite de l'amour, et Héra la reine des dieux."
   },
   {
-    "id": "1423",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Hf ?",
-    "answer": "Hafnium",
+    "id": "695",
+    "question": "Quel est le nom du plus haut sommet d'Asie ?",
+    "answer": "Everest",
     "badAnswers": [
-      "Holmium",
-      "Hélium",
-      "Hydrargyrum"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Everest, dans l'Himalaya, est le plus haut sommet d'Asie et du monde, culminant à 8 848 mètres. K2, Kangchenjunga et Lhotse sont d'autres sommets himalayens, mais plus bas."
+  },
+  {
+    "id": "1136",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
+    "answer": "Silicium",
+    "badAnswers": [
+      "Soufre",
+      "Sélénium",
+      "Sodium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'hafnium, symbolisé par Hf, est un métal utilisé dans les réacteurs nucléaires et les alliages pour sa résistance à la corrosion."
+    "difficulty": "facile",
+    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+  },
+  {
+    "id": "2031",
+    "question": "Quel est le nom du groupe qui a chanté 'Run for Your Life' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Run for Your Life', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   }
 ]
