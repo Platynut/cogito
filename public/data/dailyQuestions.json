@@ -1,8 +1,8 @@
 [
   {
-    "id": "2078",
-    "question": "Quel est le nom de l'auteur de 'Pars vite et reviens tard' ?",
-    "answer": "Fred Vargas",
+    "id": "1949",
+    "question": "Quel est le nom de l'auteur de 'Les Communistes' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -10,123 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Fred Vargas a écrit 'Pars vite et reviens tard' (2001), un roman policier mettant en scène le commissaire Adamsberg."
+    "description": "Louis Aragon a écrit 'Les Communistes' (1949-1951), un cycle romanesque sur l'engagement politique."
   },
   {
-    "id": "1812",
-    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
-    "answer": "John Bardeen",
+    "id": "601",
+    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé à l'Épée ?",
+    "answer": "Zacian",
     "badAnswers": [
-      "William Shockley",
-      "Walter Brattain",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
-  },
-  {
-    "id": "321",
-    "question": "Dans Super Mario Bros., quel est le nom de la princesse que Mario doit sauver ?",
-    "answer": "Peach",
-    "badAnswers": [
-      "Daisy",
-      "Rosalina",
-      "Toadette"
+      "Zamazenta",
+      "Éthernatos",
+      "Dracaufeu"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Super Mario Bros., Mario doit sauver la Princesse Peach, enlevée par Bowser. Peach est un personnage central de la série, régnant sur le Royaume Champignon. Daisy, Rosalina et Toadette sont d'autres personnages féminins, mais elles ne sont pas la princesse à sauver dans ce jeu."
+    "description": "Zacian est le Pokémon légendaire associé à l'Épée dans Pokémon Épée, prenant la forme d'un loup avec une épée. Zamazenta est lié au Bouclier, Éthernatos est un autre légendaire, et Dracaufeu est un Pokémon non légendaire."
   },
   {
-    "id": "2019",
-    "question": "Quel est le nom du groupe qui a chanté 'I'm Looking Through You' ?",
-    "answer": "The Beatles",
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'I'm Looking Through You', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1959",
-    "question": "Quel est le nom de l'un des pionniers du développement d'ARPANET, le premier réseau informatique ?",
-    "answer": "Lawrence Roberts",
-    "badAnswers": [
-      "Vinton Cerf",
-      "Tim Berners-Lee",
-      "Paul Baran"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Lawrence Roberts, scientifique à l'ARPA, a supervisé le développement d'ARPANET à partir de 1969, considéré comme le premier réseau informatique à commutation de paquets et précurseur d'Internet."
-  },
-  {
-    "id": "345",
-    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
-    "answer": "Rapture",
-    "badAnswers": [
-      "Columbia",
-      "Atlantis",
-      "Arcadia"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
-  },
-  {
-    "id": "1740",
-    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
-  },
-  {
-    "id": "690",
-    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Iode",
+      "Indium",
+      "Iron"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "difficulty": "difficile",
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
   },
   {
-    "id": "1224",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
-    "answer": "Final Fantasy VII",
+    "id": "455",
+    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
+    "answer": "Galar",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Chrono Trigger",
-      "Dragon Quest"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
-  },
-  {
-    "id": "310",
-    "question": "Quel est le nom de l'arme principale de Cloud Strife dans Final Fantasy VII ?",
-    "answer": "Épée broyeuse",
-    "badAnswers": [
-      "Gunblade",
-      "Masamune",
-      "Lame du chaos"
+      "Sinnoh",
+      "Hoenn",
+      "Alola"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Final Fantasy VII, Cloud Strife utilise l'Épée broyeuse (Buster Sword), une arme massive et emblématique qui symbolise son passé de SOLDAT. Cette épée est devenue un symbole iconique de la série Final Fantasy. Le Gunblade est associé à Squall dans Final Fantasy VIII, la Masamune à Sephiroth, et la Lame du chaos n'existe pas dans ce contexte."
+    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+  },
+  {
+    "id": "853",
+    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
+    "answer": "Neo Tilted",
+    "badAnswers": [
+      "Mega Mall",
+      "Paradise Palms",
+      "Junk Junction"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
+  },
+  {
+    "id": "1473",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fr ?",
+    "answer": "Francium",
+    "badAnswers": [
+      "Fermium",
+      "Fluor",
+      "Fer"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le francium, symbolisé par Fr, est un métal alcalin hautement radioactif, découvert par Marguerite Perey en 1939, rarement observé en raison de sa demi-vie courte."
+  },
+  {
+    "id": "1335",
+    "question": "Quel est la capitale de la République dominicaine ?",
+    "answer": "Saint-Domingue",
+    "badAnswers": [
+      "Santiago",
+      "Puerto Plata",
+      "La Romana"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Saint-Domingue, capitale de la République dominicaine, est connue pour sa zone coloniale, un site classé au patrimoine mondial de l'UNESCO."
+  },
+  {
+    "id": "1536",
+    "question": "Quel est la capitale du Togo ?",
+    "answer": "Lomé",
+    "badAnswers": [
+      "Kara",
+      "Sokodé",
+      "Atakpamé"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
+  },
+  {
+    "id": "1209",
+    "question": "Quel est le nom de l'inventeur de la dynamo ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
+  },
+  {
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
   }
 ]
