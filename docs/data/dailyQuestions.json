@@ -1,132 +1,132 @@
 [
   {
-    "id": "1949",
-    "question": "Quel est le nom de l'auteur de 'Les Communistes' ?",
-    "answer": "Louis Aragon",
+    "id": "1214",
+    "question": "Quel est le nom du dieu grec de la victoire ?",
+    "answer": "Niké",
     "badAnswers": [
-      "Jean-Paul Sartre",
+      "Athéna",
+      "Aphrodite",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
+  },
+  {
+    "id": "660",
+    "question": "Dans Horizon Zero Dawn, quel est le nom de la tribu d'Aloy ?",
+    "answer": "Nora",
+    "badAnswers": [
+      "Carja",
+      "Oseram",
+      "Banuk"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aloy appartient à la tribu Nora dans Horizon Zero Dawn, un peuple matriarcal vivant dans les montagnes. Les Carja, Oseram et Banuk sont d'autres tribus du jeu."
+  },
+  {
+    "id": "1192",
+    "question": "Quel est la capitale de la Tunisie ?",
+    "answer": "Tunis",
+    "badAnswers": [
+      "Sfax",
+      "Sousse",
+      "Kairouan"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
+  },
+  {
+    "id": "239",
+    "question": "Dans quelle série Omar Sy est le personnage principal ?",
+    "answer": "Lupin",
+    "badAnswers": [
+      "Marseille",
+      "Intouchables",
+      "La Casa de Papel"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
+  },
+  {
+    "id": "727",
+    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
+    "answer": "James Clerk Maxwell",
+    "badAnswers": [
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "Nikola Tesla"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "2114",
+    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
       "Albert Camus",
-      "André Gide"
+      "André Gide",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Communistes' (1949-1951), un cycle romanesque sur l'engagement politique."
+    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
   },
   {
-    "id": "601",
-    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé à l'Épée ?",
-    "answer": "Zacian",
+    "id": "1368",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sm ?",
+    "answer": "Samarium",
     "badAnswers": [
-      "Zamazenta",
-      "Éthernatos",
-      "Dracaufeu"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zacian est le Pokémon légendaire associé à l'Épée dans Pokémon Épée, prenant la forme d'un loup avec une épée. Zamazenta est lié au Bouclier, Éthernatos est un autre légendaire, et Dracaufeu est un Pokémon non légendaire."
-  },
-  {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
-    "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
+      "Scandium",
+      "Sélénium",
+      "Strontium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
+    "description": "Le samarium, symbolisé par Sm, est un métal rare utilisé dans les aimants et les réacteurs nucléaires pour ses propriétés absorbant les neutrons."
   },
   {
-    "id": "455",
-    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
-    "answer": "Galar",
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
     "badAnswers": [
-      "Sinnoh",
-      "Hoenn",
-      "Alola"
+      "Brésil",
+      "Argentine",
+      "Italie"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+  },
+  {
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
   },
   {
-    "id": "853",
-    "question": "Dans Fortnite, quel est le nom du lieu central de la saison 10 ?",
-    "answer": "Neo Tilted",
+    "id": "1598",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Zelda ?",
+    "answer": "The Legend of Zelda",
     "badAnswers": [
-      "Mega Mall",
-      "Paradise Palms",
-      "Junk Junction"
+      "Super Mario",
+      "Metroid",
+      "Fire Emblem"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Neo Tilted est le lieu central futuriste de la saison 10 de Fortnite, remplaçant Tilted Towers. Mega Mall, Paradise Palms et Junk Junction sont d'autres lieux."
-  },
-  {
-    "id": "1473",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fr ?",
-    "answer": "Francium",
-    "badAnswers": [
-      "Fermium",
-      "Fluor",
-      "Fer"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le francium, symbolisé par Fr, est un métal alcalin hautement radioactif, découvert par Marguerite Perey en 1939, rarement observé en raison de sa demi-vie courte."
-  },
-  {
-    "id": "1335",
-    "question": "Quel est la capitale de la République dominicaine ?",
-    "answer": "Saint-Domingue",
-    "badAnswers": [
-      "Santiago",
-      "Puerto Plata",
-      "La Romana"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Saint-Domingue, capitale de la République dominicaine, est connue pour sa zone coloniale, un site classé au patrimoine mondial de l'UNESCO."
-  },
-  {
-    "id": "1536",
-    "question": "Quel est la capitale du Togo ?",
-    "answer": "Lomé",
-    "badAnswers": [
-      "Kara",
-      "Sokodé",
-      "Atakpamé"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
-  },
-  {
-    "id": "1209",
-    "question": "Quel est le nom de l'inventeur de la dynamo ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
-  },
-  {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
-    "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
+    "description": "Zelda, princesse d'Hyrule, est un personnage central de la série The Legend of Zelda, souvent sauvée par le héros Link."
   }
 ]
