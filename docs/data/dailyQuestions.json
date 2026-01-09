@@ -1,132 +1,132 @@
 [
   {
-    "id": "1214",
-    "question": "Quel est le nom du dieu grec de la victoire ?",
-    "answer": "Niké",
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
     "badAnswers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
-  },
-  {
-    "id": "660",
-    "question": "Dans Horizon Zero Dawn, quel est le nom de la tribu d'Aloy ?",
-    "answer": "Nora",
-    "badAnswers": [
-      "Carja",
-      "Oseram",
-      "Banuk"
+      "Akali",
+      "Zed",
+      "Kennen"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aloy appartient à la tribu Nora dans Horizon Zero Dawn, un peuple matriarcal vivant dans les montagnes. Les Carja, Oseram et Banuk sont d'autres tribus du jeu."
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "1192",
-    "question": "Quel est la capitale de la Tunisie ?",
-    "answer": "Tunis",
+    "id": "1332",
+    "question": "Quel est la capitale de Cuba ?",
+    "answer": "La Havane",
     "badAnswers": [
-      "Sfax",
-      "Sousse",
-      "Kairouan"
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
   },
   {
-    "id": "239",
-    "question": "Dans quelle série Omar Sy est le personnage principal ?",
-    "answer": "Lupin",
+    "id": "2034",
+    "question": "Quel est le nom du groupe qui a chanté 'Think for Yourself' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Marseille",
-      "Intouchables",
-      "La Casa de Papel"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Séries",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
+    "description": "'Think for Yourself', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "727",
-    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
-    "answer": "James Clerk Maxwell",
+    "id": "1420",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
+    "answer": "Final Fantasy VII",
     "badAnswers": [
-      "Michael Faraday",
-      "Heinrich Hertz",
-      "Nikola Tesla"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
-  },
-  {
-    "id": "1368",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sm ?",
-    "answer": "Samarium",
-    "badAnswers": [
-      "Scandium",
-      "Sélénium",
-      "Strontium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le samarium, symbolisé par Sm, est un métal rare utilisé dans les aimants et les réacteurs nucléaires pour ses propriétés absorbant les neutrons."
-  },
-  {
-    "id": "51",
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "answer": "Uruguay",
-    "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
-  },
-  {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
+    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
   },
   {
-    "id": "1598",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Zelda ?",
-    "answer": "The Legend of Zelda",
+    "id": "1011",
+    "question": "Dans la mythologie nordique, quel marteau est brandi par Thor ?",
+    "answer": "Mjolnir",
     "badAnswers": [
-      "Super Mario",
-      "Metroid",
-      "Fire Emblem"
+      "Gungnir",
+      "Stormbreaker",
+      "Sleipnir"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Mjolnir est le marteau mythique de Thor, dieu du tonnerre dans la mythologie nordique, capable de provoquer des éclairs et de revenir à son porteur."
+  },
+  {
+    "id": "1545",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lr ?",
+    "answer": "Lawrencium",
+    "badAnswers": [
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le lawrencium, symbolisé par Lr, est un élément radioactif synthétique, nommé d'après Ernest Lawrence, utilisé dans la recherche."
+  },
+  {
+    "id": "1697",
+    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+  },
+  {
+    "id": "1322",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Gordon Freeman ?",
+    "answer": "Half-Life",
+    "badAnswers": [
+      "Portal",
+      "Doom",
+      "Quake"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Zelda, princesse d'Hyrule, est un personnage central de la série The Legend of Zelda, souvent sauvée par le héros Link."
+    "description": "Gordon Freeman est le scientifique silencieux héros de la série Half-Life, luttant contre des extraterrestres et des forces militaires."
+  },
+  {
+    "id": "1501",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1955 ?",
+    "answer": "Marty",
+    "badAnswers": [
+      "The Rose Tattoo",
+      "Love Is a Many-Splendored Thing",
+      "Mister Roberts"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Marty, réalisé par Delbert Mann, a remporté l'Oscar du meilleur film en 1955, une comédie dramatique sur un boucher en quête d'amour."
+  },
+  {
+    "id": "2080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928/29 ?",
+    "answer": "The Broadway Melody",
+    "badAnswers": [
+      "In Old Arizona",
+      "Alibi",
+      "The Hollywood Revue"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1928/29, une comédie musicale."
   }
 ]
