@@ -1,85 +1,33 @@
 [
   {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
+    "id": "705",
+    "question": "Quel yōkai farceur est un chien viverrin capable de se transformer ?",
+    "answer": "Tanuki",
     "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
-    "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
-  },
-  {
-    "id": "2034",
-    "question": "Quel est le nom du groupe qui a chanté 'Think for Yourself' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Think for Yourself', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1420",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
-  },
-  {
-    "id": "1011",
-    "question": "Dans la mythologie nordique, quel marteau est brandi par Thor ?",
-    "answer": "Mjolnir",
-    "badAnswers": [
-      "Gungnir",
-      "Stormbreaker",
-      "Sleipnir"
+      "Kitsune",
+      "Kappa",
+      "Bakeneko"
     ],
     "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Mjolnir est le marteau mythique de Thor, dieu du tonnerre dans la mythologie nordique, capable de provoquer des éclairs et de revenir à son porteur."
+    "difficulty": "normal",
+    "description": "Le Tanuki est un animal légendaire farceur, maître de la métamorphose et symbole de chance."
   },
   {
-    "id": "1545",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lr ?",
-    "answer": "Lawrencium",
+    "id": "2033",
+    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le lawrencium, symbolisé par Lr, est un élément radioactif synthétique, nommé d'après Ernest Lawrence, utilisé dans la recherche."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
   },
   {
-    "id": "1697",
-    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
+    "id": "1702",
+    "question": "Quel est le nom du groupe qui a chanté 'Shine On You Crazy Diamond' ?",
     "answer": "Pink Floyd",
     "badAnswers": [
       "Led Zeppelin",
@@ -88,45 +36,97 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+    "description": "'Shine On You Crazy Diamond', sorti en 1975 par Pink Floyd, est une chanson hommage tirée de l'album Wish You Were Here."
   },
   {
-    "id": "1322",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Gordon Freeman ?",
-    "answer": "Half-Life",
+    "id": "319",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+    "answer": "France",
     "badAnswers": [
-      "Portal",
-      "Doom",
-      "Quake"
+      "Belgique",
+      "Allemagne",
+      "Croatie"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
+  },
+  {
+    "id": "569",
+    "question": "Dans Super Mario 64, quel est le nom du château où Mario explore les mondes ?",
+    "answer": "Château de Peach",
+    "badAnswers": [
+      "Château de Bowser",
+      "Château de Toad",
+      "Château étoilé"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Gordon Freeman est le scientifique silencieux héros de la série Half-Life, luttant contre des extraterrestres et des forces militaires."
+    "description": "Le château de Peach est le hub central de Super Mario 64, où Mario accède aux mondes via des tableaux. Le château de Bowser est un lieu final, et les autres options sont fictives."
   },
   {
-    "id": "1501",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1955 ?",
-    "answer": "Marty",
+    "id": "1201",
+    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
+    "answer": "The Rolling Stones",
     "badAnswers": [
-      "The Rose Tattoo",
-      "Love Is a Many-Splendored Thing",
-      "Mister Roberts"
+      "The Beatles",
+      "The Who",
+      "The Kinks"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Marty, réalisé par Delbert Mann, a remporté l'Oscar du meilleur film en 1955, une comédie dramatique sur un boucher en quête d'amour."
-  },
-  {
-    "id": "2080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928/29 ?",
-    "answer": "The Broadway Melody",
-    "badAnswers": [
-      "In Old Arizona",
-      "Alibi",
-      "The Hollywood Revue"
-    ],
-    "category": "Cinéma",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1928/29, une comédie musicale."
+    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
+  },
+  {
+    "id": "1713",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+  },
+  {
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
+    "badAnswers": [
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+  },
+  {
+    "id": "1732",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
+    "answer": "Manfred von Ardenne",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+  },
+  {
+    "id": "781",
+    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
   }
 ]
