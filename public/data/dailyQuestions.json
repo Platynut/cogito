@@ -1,132 +1,132 @@
 [
   {
-    "id": "705",
-    "question": "Quel yōkai farceur est un chien viverrin capable de se transformer ?",
-    "answer": "Tanuki",
+    "id": "486",
+    "question": "Quel est le plus grand oiseau prédateur du monde ?",
+    "answer": "Condor des Andes",
     "badAnswers": [
-      "Kitsune",
-      "Kappa",
-      "Bakeneko"
+      "Aigle royal",
+      "Vautour fauve",
+      "Harfang des neiges"
     ],
-    "category": "Mythologie",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le Tanuki est un animal légendaire farceur, maître de la métamorphose et symbole de chance."
+    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
   },
   {
-    "id": "2033",
-    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "347",
+    "question": "Dans Animal Crossing: New Horizons, quel est le nom de l'île où vit le joueur ?",
+    "answer": "Choisi par le joueur",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Nook Island",
+      "Horizon Isle",
+      "Tomville"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
-  },
-  {
-    "id": "1702",
-    "question": "Quel est le nom du groupe qui a chanté 'Shine On You Crazy Diamond' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
-    ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Shine On You Crazy Diamond', sorti en 1975 par Pink Floyd, est une chanson hommage tirée de l'album Wish You Were Here."
+    "description": "Dans Animal Crossing: New Horizons, le joueur choisit le nom de son île au début du jeu, ce qui en fait une réponse personnalisée. Les autres options, comme Nook Island, ne sont pas des noms prédéfinis, bien que Tom Nook soit un personnage central."
   },
   {
-    "id": "319",
-    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
-    "answer": "France",
+    "id": "98",
+    "question": "Comment s'appelle le petit-fils de Raymond Poulidor ?",
+    "answer": "Mathieu van der Poel",
     "badAnswers": [
-      "Belgique",
-      "Allemagne",
-      "Croatie"
+      "Thibault Pinot",
+      "Romain Bardet",
+      "Victor Lafay"
     ],
     "category": "Sports",
-    "difficulty": "facile",
-    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
+    "difficulty": "normal",
+    "description": "Mathieu van der Poel, coureur cycliste néerlandais, est le petit-fils de Raymond Poulidor, légende du cyclisme français. Thibault Pinot, Romain Bardet et Victor Lafay sont d'autres cyclistes français."
   },
   {
-    "id": "569",
-    "question": "Dans Super Mario 64, quel est le nom du château où Mario explore les mondes ?",
-    "answer": "Château de Peach",
+    "id": "654",
+    "question": "Quel est le nom du plus grand désert d'Asie ?",
+    "answer": "Désert de Gobi",
     "badAnswers": [
-      "Château de Bowser",
-      "Château de Toad",
-      "Château étoilé"
+      "Désert du Taklamakan",
+      "Désert de Karakum",
+      "Désert de Thar"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le château de Peach est le hub central de Super Mario 64, où Mario accède aux mondes via des tableaux. Le château de Bowser est un lieu final, et les autres options sont fictives."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
   },
   {
-    "id": "1201",
-    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
-    "answer": "The Rolling Stones",
+    "id": "1632",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "The Beatles",
-      "The Who",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
-  },
-  {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
       "The Legend of Zelda",
-      "Kirby"
+      "Metroid",
+      "Donkey Kong"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
   },
   {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
     "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
+      "Plume",
+      "Étoile",
+      "Champignon"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
   },
   {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
+    "id": "727",
+    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
+    "answer": "James Clerk Maxwell",
     "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
-  },
-  {
-    "id": "781",
-    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "Nikola Tesla"
     ],
     "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "331",
+    "question": "Quel est le nom du protagoniste dans Assassin's Creed II ?",
+    "answer": "Ezio Auditore da Firenze",
+    "badAnswers": [
+      "Altaïr Ibn-La'Ahad",
+      "Desmond Miles",
+      "Connor Kenway"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ezio Auditore da Firenze est le protagoniste principal d'Assassin's Creed II (2009), un noble italien devenu assassin dans la Renaissance. Charismatique et emblématique, il est au cœur de plusieurs jeux de la série. Altaïr, Desmond et Connor sont des personnages d'autres jeux Assassin's Creed."
+  },
+  {
+    "id": "333",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Ciri",
+      "Triss Merigold",
+      "Keira Metz"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
+  },
+  {
+    "id": "1009",
+    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
+    "answer": "Ludwig van Beethoven",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Johannes Brahms",
+      "Franz Schubert"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
   }
 ]
