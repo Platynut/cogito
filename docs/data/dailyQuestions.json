@@ -1,132 +1,132 @@
 [
   {
-    "id": "486",
-    "question": "Quel est le plus grand oiseau prédateur du monde ?",
-    "answer": "Condor des Andes",
+    "id": "1356",
+    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
+    "answer": "John Froelich",
     "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Harfang des neiges"
+      "Henry Ford",
+      "George Stephenson",
+      "Eli Whitney"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
   },
   {
-    "id": "347",
-    "question": "Dans Animal Crossing: New Horizons, quel est le nom de l'île où vit le joueur ?",
-    "answer": "Choisi par le joueur",
+    "id": "332",
+    "question": "Quel élément chimique a le numéro atomique 1 ?",
+    "answer": "Hydrogène",
     "badAnswers": [
-      "Nook Island",
-      "Horizon Isle",
-      "Tomville"
+      "Hélium",
+      "Lithium",
+      "Carbone"
     ],
-    "category": "Jeux vidéo",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Dans Animal Crossing: New Horizons, le joueur choisit le nom de son île au début du jeu, ce qui en fait une réponse personnalisée. Les autres options, comme Nook Island, ne sont pas des noms prédéfinis, bien que Tom Nook soit un personnage central."
+    "description": "L'hydrogène, avec le numéro atomique 1, est le premier élément du tableau périodique. C'est l'élément le plus simple, composé d'un proton et d'un électron, et le plus abondant dans l'univers. L'hélium (2), le lithium (3) et le carbone (6) ont des numéros atomiques supérieurs."
   },
   {
-    "id": "98",
-    "question": "Comment s'appelle le petit-fils de Raymond Poulidor ?",
-    "answer": "Mathieu van der Poel",
+    "id": "549",
+    "question": "Dans Harry Potter, quel est le nom du gardien des clés à Poudlard ?",
+    "answer": "Rubeus Hagrid",
     "badAnswers": [
-      "Thibault Pinot",
-      "Romain Bardet",
-      "Victor Lafay"
+      "Argus Rusard",
+      "Filius Flitwick",
+      "Pomona Chourave"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, ainsi que professeur de soins aux créatures magiques. Rusard est le concierge, Flitwick et Chourave sont des professeurs."
+  },
+  {
+    "id": "99",
+    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
+    "answer": "Route du café",
+    "badAnswers": [
+      "Route du rhum",
+      "Vendée Globe",
+      "Trophée du rhum"
     ],
     "category": "Sports",
     "difficulty": "normal",
-    "description": "Mathieu van der Poel, coureur cycliste néerlandais, est le petit-fils de Raymond Poulidor, légende du cyclisme français. Thibault Pinot, Romain Bardet et Victor Lafay sont d'autres cyclistes français."
+    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
   },
   {
-    "id": "654",
-    "question": "Quel est le nom du plus grand désert d'Asie ?",
-    "answer": "Désert de Gobi",
+    "id": "1241",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mo ?",
+    "answer": "Molybdène",
     "badAnswers": [
-      "Désert du Taklamakan",
-      "Désert de Karakum",
-      "Désert de Thar"
+      "Magnésium",
+      "Manganèse",
+      "Mercure"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le molybdène, symbolisé par Mo, est un métal utilisé dans les alliages d'acier pour améliorer la résistance à la corrosion et à la chaleur."
+  },
+  {
+    "id": "1275",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
+    "answer": "Brome",
+    "badAnswers": [
+      "Bore",
+      "Baryum",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
+  },
+  {
+    "id": "1136",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
+    "answer": "Silicium",
+    "badAnswers": [
+      "Soufre",
+      "Sélénium",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "372",
+    "question": "Quel est le nom du plus grand volcan actif du monde ?",
+    "answer": "Mauna Loa",
+    "badAnswers": [
+      "Vésuve",
+      "Etna",
+      "Kilimandjaro"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
+    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
   },
   {
-    "id": "1632",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
-    "answer": "Super Mario",
+    "id": "1225",
+    "question": "Quel est la capitale du Qatar ?",
+    "answer": "Doha",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Al Rayyan",
+      "Al Wakrah",
+      "Umm Salal"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
-  },
-  {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
-    "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
-  },
-  {
-    "id": "727",
-    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
-    "answer": "James Clerk Maxwell",
-    "badAnswers": [
-      "Michael Faraday",
-      "Heinrich Hertz",
-      "Nikola Tesla"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "331",
-    "question": "Quel est le nom du protagoniste dans Assassin's Creed II ?",
-    "answer": "Ezio Auditore da Firenze",
-    "badAnswers": [
-      "Altaïr Ibn-La'Ahad",
-      "Desmond Miles",
-      "Connor Kenway"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ezio Auditore da Firenze est le protagoniste principal d'Assassin's Creed II (2009), un noble italien devenu assassin dans la Renaissance. Charismatique et emblématique, il est au cœur de plusieurs jeux de la série. Altaïr, Desmond et Connor sont des personnages d'autres jeux Assassin's Creed."
-  },
-  {
-    "id": "333",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
-    "answer": "Yennefer de Vengerberg",
-    "badAnswers": [
-      "Ciri",
-      "Triss Merigold",
-      "Keira Metz"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
-  },
-  {
-    "id": "1009",
-    "question": "Quel compositeur a écrit la symphonie n°5, célèbre pour son motif 'ta-ta-ta-tam' ?",
-    "answer": "Ludwig van Beethoven",
-    "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Johannes Brahms",
-      "Franz Schubert"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "La symphonie n°5 de Beethoven, composée entre 1804 et 1808, est célèbre pour son motif d'ouverture distinctif, souvent associé à l'idée du destin."
+    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
   }
 ]
