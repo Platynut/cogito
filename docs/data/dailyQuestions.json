@@ -1,132 +1,132 @@
 [
   {
-    "id": "1356",
-    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
-    "answer": "John Froelich",
+    "id": "946",
+    "question": "Dans le film Mad Max: Fury Road, le Dies Irae provient du requiem de quel compositeur ?",
+    "answer": "Verdi",
     "badAnswers": [
-      "Henry Ford",
-      "George Stephenson",
-      "Eli Whitney"
+      "Mozart",
+      "Berlioz",
+      "Brahms"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road pour renforcer l'intensité dramatique des scènes d'action."
+  },
+  {
+    "id": "427",
+    "question": "Quel est le plus grand oiseau volant du monde ?",
+    "answer": "Albatros hurleur",
+    "badAnswers": [
+      "Condor des Andes",
+      "Aigle royal",
+      "Vautour fauve"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
+  },
+  {
+    "id": "1353",
+    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
+    "answer": "Franz Kafka",
+    "badAnswers": [
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Günter Grass"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
+  },
+  {
+    "id": "1563",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
+    "answer": "Cornelis Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
     ],
     "category": "Histoire",
     "difficulty": "difficile",
-    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
+    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
   },
   {
-    "id": "332",
-    "question": "Quel élément chimique a le numéro atomique 1 ?",
-    "answer": "Hydrogène",
+    "id": "1327",
+    "question": "Quel est la capitale du Guatemala ?",
+    "answer": "Guatemala",
     "badAnswers": [
-      "Hélium",
-      "Lithium",
-      "Carbone"
+      "Antigua",
+      "Quetzaltenango",
+      "Escuintla"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Guatemala, capitale du Guatemala, est une ville située dans une vallée montagneuse, connue pour ses marchés et son patrimoine maya."
+  },
+  {
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
+    "badAnswers": [
+      "Argent",
+      "Cuivre",
+      "Platine"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "L'hydrogène, avec le numéro atomique 1, est le premier élément du tableau périodique. C'est l'élément le plus simple, composé d'un proton et d'un électron, et le plus abondant dans l'univers. L'hélium (2), le lithium (3) et le carbone (6) ont des numéros atomiques supérieurs."
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
   },
   {
-    "id": "549",
-    "question": "Dans Harry Potter, quel est le nom du gardien des clés à Poudlard ?",
-    "answer": "Rubeus Hagrid",
+    "id": "1071",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
+    "answer": "Super Mario Bros.",
     "badAnswers": [
-      "Argus Rusard",
-      "Filius Flitwick",
-      "Pomona Chourave"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, ainsi que professeur de soins aux créatures magiques. Rusard est le concierge, Flitwick et Chourave sont des professeurs."
-  },
-  {
-    "id": "99",
-    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
-    "answer": "Route du café",
-    "badAnswers": [
-      "Route du rhum",
-      "Vendée Globe",
-      "Trophée du rhum"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
-  },
-  {
-    "id": "1241",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mo ?",
-    "answer": "Molybdène",
-    "badAnswers": [
-      "Magnésium",
-      "Manganèse",
-      "Mercure"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le molybdène, symbolisé par Mo, est un métal utilisé dans les alliages d'acier pour améliorer la résistance à la corrosion et à la chaleur."
-  },
-  {
-    "id": "1275",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Br ?",
-    "answer": "Brome",
-    "badAnswers": [
-      "Bore",
-      "Baryum",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le brome, symbolisé par Br, est un élément liquide à température ambiante, utilisé comme désinfectant et dans les produits ignifuges."
-  },
-  {
-    "id": "1136",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
-    "answer": "Silicium",
-    "badAnswers": [
-      "Soufre",
-      "Sélénium",
-      "Sodium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
-  },
-  {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
-    "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
+      "The Legend of Zelda",
+      "Donkey Kong",
+      "Metroid"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
-  },
-  {
-    "id": "372",
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "answer": "Mauna Loa",
-    "badAnswers": [
-      "Vésuve",
-      "Etna",
-      "Kilimandjaro"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
-  },
-  {
-    "id": "1225",
-    "question": "Quel est la capitale du Qatar ?",
-    "answer": "Doha",
-    "badAnswers": [
-      "Al Rayyan",
-      "Al Wakrah",
-      "Umm Salal"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
+    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
+  },
+  {
+    "id": "486",
+    "question": "Quel est le plus grand oiseau prédateur du monde ?",
+    "answer": "Condor des Andes",
+    "badAnswers": [
+      "Aigle royal",
+      "Vautour fauve",
+      "Harfang des neiges"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
+  },
+  {
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "1149",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
+    "answer": "Parasite",
+    "badAnswers": [
+      "1917",
+      "Joker",
+      "Ford v Ferrari"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
   }
 ]
