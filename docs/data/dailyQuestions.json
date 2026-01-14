@@ -1,132 +1,132 @@
 [
   {
-    "id": "946",
-    "question": "Dans le film Mad Max: Fury Road, le Dies Irae provient du requiem de quel compositeur ?",
-    "answer": "Verdi",
+    "id": "803",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
+    "answer": "Remus Lupin",
     "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
+      "Gilderoy Lockhart",
+      "Quirinus Quirrell",
+      "Alastor Maugrey"
     ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road pour renforcer l'intensité dramatique des scènes d'action."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
   },
   {
-    "id": "427",
-    "question": "Quel est le plus grand oiseau volant du monde ?",
-    "answer": "Albatros hurleur",
+    "id": "690",
+    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
+    "answer": "Johannes Kepler",
     "badAnswers": [
-      "Condor des Andes",
-      "Aigle royal",
-      "Vautour fauve"
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
     ],
-    "category": "Animaux",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
+    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
   },
   {
-    "id": "1353",
-    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
-    "answer": "Franz Kafka",
+    "id": "463",
+    "question": "Quel compositeur a écrit l'opéra 'Carmen' ?",
+    "answer": "Georges Bizet",
     "badAnswers": [
-      "Hermann Hesse",
-      "Thomas Mann",
-      "Günter Grass"
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Georges Bizet a composé Carmen, un opéra en quatre actes créé en 1875, célèbre pour ses airs comme L'amour est un oiseau rebelle. Verdi, Wagner et Puccini sont d'autres compositeurs d'opéras, mais ils n'ont pas écrit Carmen."
+  },
+  {
+    "id": "1625",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Og ?",
+    "answer": "Oganesson",
+    "badAnswers": [
+      "Osmium",
+      "Oxygène",
+      "Or"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'oganesson, symbolisé par Og, est un élément radioactif synthétique, nommé d'après Yuri Oganessian, utilisé dans la recherche."
+  },
+  {
+    "id": "2000",
+    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
+    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
   },
   {
-    "id": "1563",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
-    "answer": "Cornelis Drebbel",
+    "id": "1214",
+    "question": "Quel est le nom du dieu grec de la victoire ?",
+    "answer": "Niké",
     "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "Athéna",
+      "Aphrodite",
+      "Artémis"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
-  },
-  {
-    "id": "1327",
-    "question": "Quel est la capitale du Guatemala ?",
-    "answer": "Guatemala",
-    "badAnswers": [
-      "Antigua",
-      "Quetzaltenango",
-      "Escuintla"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Guatemala, capitale du Guatemala, est une ville située dans une vallée montagneuse, connue pour ses marchés et son patrimoine maya."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
-  },
-  {
-    "id": "1071",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
-    "answer": "Super Mario Bros.",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Donkey Kong",
-      "Metroid"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
-  },
-  {
-    "id": "486",
-    "question": "Quel est le plus grand oiseau prédateur du monde ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Harfang des neiges"
-    ],
-    "category": "Animaux",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau prédateur, avec une envergure pouvant atteindre 3,2 mètres. Vivant en Amérique du Sud, il se nourrit principalement de charognes. L'aigle royal, le vautour fauve et le harfang des neiges sont plus petits."
+    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
   },
   {
-    "id": "1847",
-    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
-    "answer": "The Doors",
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1149",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
-    "answer": "Parasite",
-    "badAnswers": [
-      "1917",
-      "Joker",
-      "Ford v Ferrari"
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
+  },
+  {
+    "id": "2100",
+    "question": "Quel est le nom de l'inventeur du premier système de tomographie par émission de positons (TEP) ?",
+    "answer": "David E. Kuhl",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "David E. Kuhl a développé les bases de la tomographie par émission de positons dans les années 1950, utilisée pour l'imagerie cérébrale."
+  },
+  {
+    "id": "433",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
+    "answer": "Expecto Patronum",
+    "badAnswers": [
+      "Expelliarmus",
+      "Lumos",
+      "Accio"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expecto Patronum est le sortilège utilisé dans Harry Potter pour invoquer un Patronus, qui repousse les Détraqueurs. Expelliarmus désarme, Lumos éclaire, et Accio attire des objets."
+  },
+  {
+    "id": "1370",
+    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
+    "answer": "Red Hot Chili Peppers",
+    "badAnswers": [
+      "Foo Fighters",
+      "Nirvana",
+      "Pearl Jam"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
   }
 ]
