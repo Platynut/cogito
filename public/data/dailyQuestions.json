@@ -1,60 +1,86 @@
 [
   {
-    "id": "803",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
-    "answer": "Remus Lupin",
+    "id": "1437",
+    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
+    "answer": "Metallica",
     "badAnswers": [
-      "Gilderoy Lockhart",
-      "Quirinus Quirrell",
-      "Alastor Maugrey"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
-  },
-  {
-    "id": "690",
-    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
-  },
-  {
-    "id": "463",
-    "question": "Quel compositeur a écrit l'opéra 'Carmen' ?",
-    "answer": "Georges Bizet",
-    "badAnswers": [
-      "Giuseppe Verdi",
-      "Richard Wagner",
-      "Giacomo Puccini"
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Georges Bizet a composé Carmen, un opéra en quatre actes créé en 1875, célèbre pour ses airs comme L'amour est un oiseau rebelle. Verdi, Wagner et Puccini sont d'autres compositeurs d'opéras, mais ils n'ont pas écrit Carmen."
+    "difficulty": "facile",
+    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
   },
   {
-    "id": "1625",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Og ?",
-    "answer": "Oganesson",
+    "id": "753",
+    "question": "Quel est le nom du plus grand glacier d'Europe ?",
+    "answer": "Vatnajökull",
     "badAnswers": [
-      "Osmium",
-      "Oxygène",
-      "Or"
+      "Jostedalsbreen",
+      "Aletsch",
+      "Langjökull"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'oganesson, symbolisé par Og, est un élément radioactif synthétique, nommé d'après Yuri Oganessian, utilisé dans la recherche."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Vatnajökull, situé en Islande, est le plus vaste glacier d'Europe avec une superficie d'environ 8 100 km². Parmi les autres glaciers européens importants, on trouve le Jostedalsbreen en Norvège, l'Aletsch en Suisse et le Langjökull en Islande, tous plus petits."
   },
   {
-    "id": "2000",
-    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
-    "answer": "Marguerite Duras",
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
+    "badAnswers": [
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+  },
+  {
+    "id": "1118",
+    "question": "Quel est le nom du groupe qui a chanté 'Viva La Vida' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Muse",
+      "Keane",
+      "Snow Patrol"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Viva La Vida', sorti en 2008 par Coldplay, est une chanson pop-rock inspirée par l'histoire et l'art, tirée de l'album éponyme."
+  },
+  {
+    "id": "1767",
+    "question": "Quel est le nom du dieu grec de la peur ?",
+    "answer": "Phobos",
+    "badAnswers": [
+      "Éros",
+      "Thanatos",
+      "Hypnos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+  },
+  {
+    "id": "910",
+    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
+    "answer": "Arbre de l'Esprit",
+    "badAnswers": [
+      "Arbre de la Lumière",
+      "Arbre de Vie",
+      "Arbre des Âmes"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
+  },
+  {
+    "id": "2122",
+    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -62,71 +88,45 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
+    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
   },
   {
-    "id": "1214",
-    "question": "Quel est le nom du dieu grec de la victoire ?",
-    "answer": "Niké",
+    "id": "1846",
+    "question": "Quel est le nom de l'auteur de 'La Montagne magique' ?",
+    "answer": "Thomas Mann",
     "badAnswers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis"
+      "Franz Kafka",
+      "Hermann Hesse",
+      "Rainer Maria Rilke"
     ],
-    "category": "Mythologie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Niké, déesse grecque de la victoire, est souvent représentée avec des ailes, symbolisant le triomphe dans les compétitions et les batailles."
+    "description": "Thomas Mann a écrit 'La Montagne magique' (1924), un roman philosophique sur la maladie et le temps."
   },
   {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
+    "id": "540",
+    "question": "Quel scientifique a proposé le concept de 'mème' pour expliquer la transmission culturelle ?",
+    "answer": "Richard Dawkins",
     "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
+      "Charles Darwin",
+      "Edward O. Wilson",
+      "Stephen Jay Gould"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
-  },
-  {
-    "id": "2100",
-    "question": "Quel est le nom de l'inventeur du premier système de tomographie par émission de positons (TEP) ?",
-    "answer": "David E. Kuhl",
-    "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
-    ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "David E. Kuhl a développé les bases de la tomographie par émission de positons dans les années 1950, utilisée pour l'imagerie cérébrale."
+    "description": "Richard Dawkins a introduit en 1976, dans son livre 'Le Gène égoïste', le concept de 'mème' pour décrire la transmission d'idées et de comportements par imitation, établissant une base pour une forme d'évolution culturelle. Darwin a travaillé sur l'évolution biologique, Wilson sur la sociobiologie, et Gould sur l'évolution des espèces avec la théorie de l'équilibre ponctué."
   },
   {
-    "id": "433",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
-    "answer": "Expecto Patronum",
+    "id": "1822",
+    "question": "Quel est le nom de l'auteur de 'De la Terre à la Lune' ?",
+    "answer": "Jules Verne",
     "badAnswers": [
-      "Expelliarmus",
-      "Lumos",
-      "Accio"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Littérature",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Expecto Patronum est le sortilège utilisé dans Harry Potter pour invoquer un Patronus, qui repousse les Détraqueurs. Expelliarmus désarme, Lumos éclaire, et Accio attire des objets."
-  },
-  {
-    "id": "1370",
-    "question": "Quel est le nom du groupe qui a chanté 'Californication' ?",
-    "answer": "Red Hot Chili Peppers",
-    "badAnswers": [
-      "Foo Fighters",
-      "Nirvana",
-      "Pearl Jam"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Californication', sorti en 1999 par Red Hot Chili Peppers, est une chanson funk-rock réfléchissant sur la culture et le rêve américain."
+    "description": "Jules Verne a écrit 'De la Terre à la Lune' (1865), un roman de science-fiction sur un voyage spatial."
   }
 ]
