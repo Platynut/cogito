@@ -1,132 +1,132 @@
 [
   {
-    "id": "1437",
-    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
-    "answer": "Metallica",
+    "id": "176",
+    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
+    "answer": "House of Cards",
     "badAnswers": [
-      "Megadeth",
-      "Slayer",
-      "Anthrax"
+      "Orange is the new black",
+      "Stranger Things",
+      "The Crown"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
-  },
-  {
-    "id": "753",
-    "question": "Quel est le nom du plus grand glacier d'Europe ?",
-    "answer": "Vatnajökull",
-    "badAnswers": [
-      "Jostedalsbreen",
-      "Aletsch",
-      "Langjökull"
-    ],
-    "category": "Géographie",
+    "category": "Séries",
     "difficulty": "normal",
-    "description": "Le Vatnajökull, situé en Islande, est le plus vaste glacier d'Europe avec une superficie d'environ 8 100 km². Parmi les autres glaciers européens importants, on trouve le Jostedalsbreen en Norvège, l'Aletsch en Suisse et le Langjökull en Islande, tous plus petits."
+    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
   },
   {
-    "id": "2029",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
-    "answer": "Willem Kolff",
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
     "badAnswers": [
-      "Joseph Murray",
-      "John Gibbon",
-      "Christiaan Barnard"
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
     ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
   },
   {
-    "id": "1118",
-    "question": "Quel est le nom du groupe qui a chanté 'Viva La Vida' ?",
-    "answer": "Coldplay",
+    "id": "682",
+    "question": "Quel est le plus grand oiseau aquatique du monde ?",
+    "answer": "Pélican frisé",
     "badAnswers": [
-      "Muse",
-      "Keane",
-      "Snow Patrol"
+      "Cygne noir",
+      "Albatros hurleur",
+      "Flamant rose"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Viva La Vida', sorti en 2008 par Coldplay, est une chanson pop-rock inspirée par l'histoire et l'art, tirée de l'album éponyme."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
   },
   {
-    "id": "1767",
-    "question": "Quel est le nom du dieu grec de la peur ?",
-    "answer": "Phobos",
+    "id": "606",
+    "question": "Quel dieu japonais est le protecteur des guerriers et de la guerre ?",
+    "answer": "Hachiman",
     "badAnswers": [
-      "Éros",
-      "Thanatos",
-      "Hypnos"
+      "Susanoo",
+      "Raijin",
+      "Ebisu"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
+    "description": "Hachiman est le défenseur des îles japonaises et protecteur des guerriers."
   },
   {
-    "id": "910",
-    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
-    "answer": "Arbre de l'Esprit",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Arbre de la Lumière",
-      "Arbre de Vie",
-      "Arbre des Âmes"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+  },
+  {
+    "id": "2002",
+    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
+    "answer": "Federico Faggin",
+    "badAnswers": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
+  },
+  {
+    "id": "1501",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1955 ?",
+    "answer": "Marty",
+    "badAnswers": [
+      "The Rose Tattoo",
+      "Love Is a Many-Splendored Thing",
+      "Mister Roberts"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Marty, réalisé par Delbert Mann, a remporté l'Oscar du meilleur film en 1955, une comédie dramatique sur un boucher en quête d'amour."
+  },
+  {
+    "id": "1156",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ezio Auditore ?",
+    "answer": "Assassin's Creed",
+    "badAnswers": [
+      "Dishonored",
+      "Thief",
+      "Hitman"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
+    "description": "Ezio Auditore est le protagoniste principal de plusieurs jeux Assassin's Creed, un assassin charismatique de la Renaissance italienne."
   },
   {
-    "id": "2122",
-    "question": "Quel est le nom de l'auteur de 'L'Invitée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "1666",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tortank ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'L'Invitée' (1943), un roman sur les relations amoureuses et la liberté."
-  },
-  {
-    "id": "1846",
-    "question": "Quel est le nom de l'auteur de 'La Montagne magique' ?",
-    "answer": "Thomas Mann",
-    "badAnswers": [
-      "Franz Kafka",
-      "Hermann Hesse",
-      "Rainer Maria Rilke"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Thomas Mann a écrit 'La Montagne magique' (1924), un roman philosophique sur la maladie et le temps."
-  },
-  {
-    "id": "540",
-    "question": "Quel scientifique a proposé le concept de 'mème' pour expliquer la transmission culturelle ?",
-    "answer": "Richard Dawkins",
-    "badAnswers": [
-      "Charles Darwin",
-      "Edward O. Wilson",
-      "Stephen Jay Gould"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Richard Dawkins a introduit en 1976, dans son livre 'Le Gène égoïste', le concept de 'mème' pour décrire la transmission d'idées et de comportements par imitation, établissant une base pour une forme d'évolution culturelle. Darwin a travaillé sur l'évolution biologique, Wilson sur la sociobiologie, et Gould sur l'évolution des espèces avec la théorie de l'équilibre ponctué."
-  },
-  {
-    "id": "1822",
-    "question": "Quel est le nom de l'auteur de 'De la Terre à la Lune' ?",
-    "answer": "Jules Verne",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jules Verne a écrit 'De la Terre à la Lune' (1865), un roman de science-fiction sur un voyage spatial."
+    "description": "Tortank, Pokémon de type eau, est l'évolution finale de Carapuce dans la série Pokémon, équipé de canons à eau."
+  },
+  {
+    "id": "1963",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
+    "answer": "Willem Kolff",
+    "badAnswers": [
+      "Georg Haas",
+      "John Abel",
+      "Nils Alwall"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
   }
 ]
