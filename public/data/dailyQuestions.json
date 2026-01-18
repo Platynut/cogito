@@ -1,112 +1,60 @@
 [
   {
-    "id": "587",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Persona 5 ?",
-    "answer": "Joker",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "Ryuji",
-      "Ann",
-      "Makoto"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Jeux vidéo",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Joker est le protagoniste de Persona 5 et un personnage jouable dans Super Smash Bros. Ultimate, leader des Voleurs Fantômes. Ryuji, Ann et Makoto sont ses alliés dans Persona 5."
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   },
   {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
     "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
-  },
-  {
-    "id": "1531",
-    "question": "Quel est la capitale du Tchad ?",
-    "answer": "N'Djaména",
-    "badAnswers": [
-      "Moundou",
-      "Sarh",
-      "Abéché"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
-  },
-  {
-    "id": "873",
-    "question": "Dans Control, quel est le nom de la protagoniste ?",
-    "answer": "Jesse Faden",
-    "badAnswers": [
-      "Emily Pope",
-      "Courtney Hope",
-      "Helen Marshall"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
-  },
-  {
-    "id": "1970",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
-    "answer": "William Kouwenhoven",
-    "badAnswers": [
-      "Paul Zoll",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
-  },
-  {
-    "id": "1492",
-    "question": "Quel est le nom de l'inventeur du premier projecteur cinématographique ?",
-    "answer": "Frères Lumière",
-    "badAnswers": [
-      "Thomas Edison",
-      "Eadweard Muybridge",
-      "Georges Méliès"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Les frères Lumière, Auguste et Louis, ont inventé le cinématographe en 1895, permettant la projection de films pour le public."
-  },
-  {
-    "id": "870",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
-    "answer": "Kassadin",
-    "badAnswers": [
-      "Malzahar",
-      "Karthus",
-      "Veigar"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
-  },
-  {
-    "id": "2025",
-    "question": "Quel est le nom du groupe qui a chanté 'Girl' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Metallica",
+      "Guns N' Roses",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Girl', sorti en 1965 par The Beatles, est une chanson mélancolique tirée de l'album Rubber Soul."
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
   },
   {
-    "id": "1975",
-    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
-    "answer": "Louis Aragon",
+    "id": "469",
+    "question": "Quel artiste a peint Le Baiser ?",
+    "answer": "Gustav Klimt",
+    "badAnswers": [
+      "Edvard Munch",
+      "Egon Schiele",
+      "Marc Chagall"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "640",
+    "question": "Quel est le nom du dieu égyptien du soleil ?",
+    "answer": "Râ",
+    "badAnswers": [
+      "Osiris",
+      "Anubis",
+      "Horus"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Râ est le dieu égyptien du soleil, souvent représenté avec une tête de faucon. Osiris est le dieu des morts, Anubis celui de l'embaumement, et Horus celui du ciel."
+  },
+  {
+    "id": "1988",
+    "question": "Quel est le nom de l'auteur de 'Le Diable au corps' ?",
+    "answer": "Raymond Radiguet",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -114,19 +62,71 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
+    "description": "Raymond Radiguet a écrit 'Le Diable au corps' (1923), un roman sur une liaison passionnée pendant la Première Guerre mondiale."
   },
   {
-    "id": "1912",
-    "question": "Quel est le nom de l'inventeur du premier système de réfrigérateur ?",
-    "answer": "Carl von Linde",
+    "id": "1225",
+    "question": "Quel est la capitale du Qatar ?",
+    "answer": "Doha",
     "badAnswers": [
-      "Jacob Perkins",
-      "John Gorrie",
-      "Oliver Evans"
+      "Al Rayyan",
+      "Al Wakrah",
+      "Umm Salal"
     ],
-    "category": "Technologie",
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
+  },
+  {
+    "id": "1074",
+    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
+    "answer": "Hydrogène",
+    "badAnswers": [
+      "Hélium",
+      "Hafnium",
+      "Holmium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
+  },
+  {
+    "id": "1981",
+    "question": "Quel est la capitale de la République centrafricaine ?",
+    "answer": "Bangui",
+    "badAnswers": [
+      "Berbérati",
+      "Bambari",
+      "Bouar"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Carl von Linde a développé le premier réfrigérateur moderne à compression en 1876, utilisé pour la conservation alimentaire."
+    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
+  },
+  {
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
+    "badAnswers": [
+      "Navi",
+      "Tatl",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "1641",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
+    "answer": "Cimarron",
+    "badAnswers": [
+      "The Front Page",
+      "Skippy",
+      "East Lynne"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
   }
 ]
