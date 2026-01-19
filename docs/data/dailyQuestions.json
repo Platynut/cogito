@@ -1,132 +1,132 @@
 [
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "1431",
+    "question": "Quel est la capitale de l'Azerbaïdjan ?",
+    "answer": "Bakou",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
-  },
-  {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
-    "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
-  },
-  {
-    "id": "469",
-    "question": "Quel artiste a peint Le Baiser ?",
-    "answer": "Gustav Klimt",
-    "badAnswers": [
-      "Edvard Munch",
-      "Egon Schiele",
-      "Marc Chagall"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "640",
-    "question": "Quel est le nom du dieu égyptien du soleil ?",
-    "answer": "Râ",
-    "badAnswers": [
-      "Osiris",
-      "Anubis",
-      "Horus"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Râ est le dieu égyptien du soleil, souvent représenté avec une tête de faucon. Osiris est le dieu des morts, Anubis celui de l'embaumement, et Horus celui du ciel."
-  },
-  {
-    "id": "1988",
-    "question": "Quel est le nom de l'auteur de 'Le Diable au corps' ?",
-    "answer": "Raymond Radiguet",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Raymond Radiguet a écrit 'Le Diable au corps' (1923), un roman sur une liaison passionnée pendant la Première Guerre mondiale."
-  },
-  {
-    "id": "1225",
-    "question": "Quel est la capitale du Qatar ?",
-    "answer": "Doha",
-    "badAnswers": [
-      "Al Rayyan",
-      "Al Wakrah",
-      "Umm Salal"
+      "Ganja",
+      "Sumqayit",
+      "Lankaran"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
+    "description": "Bakou, capitale de l'Azerbaïdjan, est une ville côtière sur la mer Caspienne, connue pour ses tours flamboyantes et son centre historique."
   },
   {
-    "id": "1074",
-    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
-    "answer": "Hydrogène",
+    "id": "1339",
+    "question": "Quel est la capitale du Honduras ?",
+    "answer": "Tegucigalpa",
     "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
-  },
-  {
-    "id": "1981",
-    "question": "Quel est la capitale de la République centrafricaine ?",
-    "answer": "Bangui",
-    "badAnswers": [
-      "Berbérati",
-      "Bambari",
-      "Bouar"
+      "San Pedro Sula",
+      "La Ceiba",
+      "Comayagua"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
+    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
   },
   {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
+    "id": "298",
+    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
+  },
+  {
+    "id": "1504",
+    "question": "Quel est le nom de l'inventeur du premier télescope réfracteur ?",
+    "answer": "Hans Lippershey",
+    "badAnswers": [
+      "Galilée",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Hans Lippershey, opticien néerlandais, est crédité pour le premier télescope réfracteur en 1608, ouvrant la voie à l'astronomie moderne."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
   },
   {
-    "id": "1641",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1931 ?",
-    "answer": "Cimarron",
+    "id": "1241",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mo ?",
+    "answer": "Molybdène",
     "badAnswers": [
-      "The Front Page",
-      "Skippy",
-      "East Lynne"
+      "Magnésium",
+      "Manganèse",
+      "Mercure"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Cimarron, réalisé par Wesley Ruggles, a remporté l'Oscar du meilleur film en 1931, un western épique sur la ruée vers l'Oklahoma."
+    "description": "Le molybdène, symbolisé par Mo, est un métal utilisé dans les alliages d'acier pour améliorer la résistance à la corrosion et à la chaleur."
+  },
+  {
+    "id": "802",
+    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
+    "answer": "Morgana",
+    "badAnswers": [
+      "Kayle",
+      "Akali",
+      "Ahri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
+  },
+  {
+    "id": "1178",
+    "question": "Quel est la capitale du Zimbabwe ?",
+    "answer": "Harare",
+    "badAnswers": [
+      "Bulawayo",
+      "Gweru",
+      "Mutare"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
+  },
+  {
+    "id": "580",
+    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "André Malraux",
+      "Antoine de Saint-Exupéry"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
   }
 ]
