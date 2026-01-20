@@ -1,132 +1,132 @@
 [
   {
-    "id": "1431",
-    "question": "Quel est la capitale de l'Azerbaïdjan ?",
-    "answer": "Bakou",
+    "id": "1591",
+    "question": "Quel est la capitale d'Eswatini ?",
+    "answer": "Mbabane",
     "badAnswers": [
-      "Ganja",
-      "Sumqayit",
-      "Lankaran"
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
     "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Mbabane, capitale administrative d'Eswatini, est une ville nichée dans les collines, connue pour son marché artisanal."
+  },
+  {
+    "id": "1278",
+    "question": "Quel est le nom de la déesse grecque de la beauté ?",
+    "answer": "Aphrodite",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Bakou, capitale de l'Azerbaïdjan, est une ville côtière sur la mer Caspienne, connue pour ses tours flamboyantes et son centre historique."
+    "description": "Aphrodite, déesse grecque de la beauté et de l'amour, est souvent représentée émergeant de la mer ou accompagnée de colombes."
   },
   {
-    "id": "1339",
-    "question": "Quel est la capitale du Honduras ?",
-    "answer": "Tegucigalpa",
+    "id": "353",
+    "question": "Quel est le nom de l'auteur de Les Misérables ?",
+    "answer": "Victor Hugo",
     "badAnswers": [
-      "San Pedro Sula",
-      "La Ceiba",
-      "Comayagua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
-  },
-  {
-    "id": "298",
-    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
-    "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
-  },
-  {
-    "id": "1504",
-    "question": "Quel est le nom de l'inventeur du premier télescope réfracteur ?",
-    "answer": "Hans Lippershey",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Johannes Kepler"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Hans Lippershey, opticien néerlandais, est crédité pour le premier télescope réfracteur en 1608, ouvrant la voie à l'astronomie moderne."
-  },
-  {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
-    "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
-  },
-  {
-    "id": "1241",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mo ?",
-    "answer": "Molybdène",
-    "badAnswers": [
-      "Magnésium",
-      "Manganèse",
-      "Mercure"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le molybdène, symbolisé par Mo, est un métal utilisé dans les alliages d'acier pour améliorer la résistance à la corrosion et à la chaleur."
-  },
-  {
-    "id": "802",
-    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
-    "answer": "Morgana",
-    "badAnswers": [
-      "Kayle",
-      "Akali",
-      "Ahri"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
-  },
-  {
-    "id": "1178",
-    "question": "Quel est la capitale du Zimbabwe ?",
-    "answer": "Harare",
-    "badAnswers": [
-      "Bulawayo",
-      "Gweru",
-      "Mutare"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Harare, capitale du Zimbabwe, est une ville moderne connue pour ses musées, ses parcs et son rôle économique en Afrique australe."
-  },
-  {
-    "id": "580",
-    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "André Malraux",
-      "Antoine de Saint-Exupéry"
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
     ],
     "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "difficulty": "facile",
+    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
   },
   {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
+    "id": "553",
+    "question": "Quel est le nom de l'auteur de 'Crime et Châtiment' ?",
+    "answer": "Fiodor Dostoïevski",
     "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
+      "Léon Tolstoï",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Fiodor Dostoïevski a écrit Crime et Châtiment (1866), un roman psychologique sur la culpabilité de Raskolnikov après un meurtre. C'est une œuvre majeure de la littérature russe. Tolstoï, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1176",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
+    "answer": "Platine",
+    "badAnswers": [
+      "Palladium",
+      "Plomb",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
+  },
+  {
+    "id": "230",
+    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
+    "answer": "384 400 km",
+    "badAnswers": [
+      "284 400 km",
+      "484 400 km",
+      "584 400 km"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
+  },
+  {
+    "id": "1032",
+    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
+    "answer": "Pokémon Rouge et Vert",
+    "badAnswers": [
+      "Pokémon Or et Argent",
+      "Pokémon Jaune",
+      "Pokémon Diamant et Perle"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
+  },
+  {
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
+    "badAnswers": [
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+  },
+  {
+    "id": "641",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Triss Merigold",
+      "Keira Metz",
+      "Ciri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+  },
+  {
+    "id": "900",
+    "question": "Dans Star Wars, quel est le nom du Jedi qui entraîne Luke dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Qui-Gon Jinn"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Yoda entraîne Luke Skywalker dans L'Empire contre-attaque sur Dagobah. Obi-Wan, Mace Windu et Qui-Gon Jinn sont d'autres Jedi."
   }
 ]
