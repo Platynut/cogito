@@ -1,132 +1,132 @@
 [
   {
-    "id": "1591",
-    "question": "Quel est la capitale d'Eswatini ?",
-    "answer": "Mbabane",
+    "id": "162",
+    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
+    "answer": "Superman",
     "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
+      "Hulk",
+      "Spiderman",
+      "Batman"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
+  },
+  {
+    "id": "360",
+    "question": "Quel est le plus grand pays du monde en superficie ?",
+    "answer": "Russie",
+    "badAnswers": [
+      "Canada",
+      "Chine",
+      "États-Unis"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
+  },
+  {
+    "id": "1384",
+    "question": "Quel est la capitale des Maldives ?",
+    "answer": "Malé",
+    "badAnswers": [
+      "Gan",
+      "Addu",
+      "Fuvahmulah"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Mbabane, capitale administrative d'Eswatini, est une ville nichée dans les collines, connue pour son marché artisanal."
+    "description": "Malé, capitale des Maldives, est une petite île densément peuplée, centre administratif et économique de l'archipel."
   },
   {
-    "id": "1278",
-    "question": "Quel est le nom de la déesse grecque de la beauté ?",
-    "answer": "Aphrodite",
+    "id": "2006",
+    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
+    "answer": "Michel Houellebecq",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Artémis"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Aphrodite, déesse grecque de la beauté et de l'amour, est souvent représentée émergeant de la mer ou accompagnée de colombes."
-  },
-  {
-    "id": "353",
-    "question": "Quel est le nom de l'auteur de Les Misérables ?",
-    "answer": "Victor Hugo",
-    "badAnswers": [
-      "Gustave Flaubert",
-      "Émile Zola",
-      "Honoré de Balzac"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
-  },
-  {
-    "id": "553",
-    "question": "Quel est le nom de l'auteur de 'Crime et Châtiment' ?",
-    "answer": "Fiodor Dostoïevski",
-    "badAnswers": [
-      "Léon Tolstoï",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Fiodor Dostoïevski a écrit Crime et Châtiment (1866), un roman psychologique sur la culpabilité de Raskolnikov après un meurtre. C'est une œuvre majeure de la littérature russe. Tolstoï, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1176",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
-    "answer": "Platine",
-    "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
-  },
-  {
-    "id": "230",
-    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
-    "answer": "384 400 km",
-    "badAnswers": [
-      "284 400 km",
-      "484 400 km",
-      "584 400 km"
-    ],
-    "category": "Astronomie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
+    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
   },
   {
-    "id": "1032",
-    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
-    "answer": "Pokémon Rouge et Vert",
+    "id": "1999",
+    "question": "Quel est le nom de l'inventeur du premier système de tomodensitométrie (scanner CT) ?",
+    "answer": "Godfrey Hounsfield",
     "badAnswers": [
-      "Pokémon Or et Argent",
-      "Pokémon Jaune",
-      "Pokémon Diamant et Perle"
+      "Allan Cormack",
+      "Raymond Damadian",
+      "Robert Ledley"
     ],
-    "category": "Jeux vidéo",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
+    "description": "Godfrey Hounsfield a développé le premier scanner CT dans les années 1970, révolutionnant le diagnostic médical."
   },
   {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
+    "id": "873",
+    "question": "Dans Control, quel est le nom de la protagoniste ?",
+    "answer": "Jesse Faden",
     "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
+      "Emily Pope",
+      "Courtney Hope",
+      "Helen Marshall"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
   },
   {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "1440",
+    "question": "Quel est la capitale de la Syrie ?",
+    "answer": "Damas",
     "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
+      "Alep",
+      "Homs",
+      "Lattaquié"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+    "description": "Damas, capitale de la Syrie, est l'une des plus anciennes villes habitées du monde, connue pour sa mosquée des Omeyyades."
   },
   {
-    "id": "900",
-    "question": "Dans Star Wars, quel est le nom du Jedi qui entraîne Luke dans L'Empire contre-attaque ?",
-    "answer": "Yoda",
+    "id": "543",
+    "question": "Quel est le plus grand cétacé à dents du monde ?",
+    "answer": "Cachalot",
     "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Mace Windu",
-      "Qui-Gon Jinn"
+      "Orque",
+      "Narval",
+      "Dauphin commun"
     ],
-    "category": "Cinéma",
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
+  },
+  {
+    "id": "1570",
+    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
+    "answer": "Aerosmith",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Yoda entraîne Luke Skywalker dans L'Empire contre-attaque sur Dagobah. Obi-Wan, Mace Windu et Qui-Gon Jinn sont d'autres Jedi."
+    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
+  },
+  {
+    "id": "1724",
+    "question": "Quel est le nom de l'inventeur du premier circuit intégré ?",
+    "answer": "Jack Kilby",
+    "badAnswers": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "William Shockley"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Jack Kilby a inventé le premier circuit intégré en 1958, posant les bases de l'électronique moderne."
   }
 ]
