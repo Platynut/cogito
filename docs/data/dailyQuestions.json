@@ -1,132 +1,132 @@
 [
   {
-    "id": "162",
-    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
-    "answer": "Superman",
+    "id": "1319",
+    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
+    "answer": "Déméter",
     "badAnswers": [
-      "Hulk",
-      "Spiderman",
-      "Batman"
+      "Héra",
+      "Aphrodite",
+      "Athéna"
     ],
-    "category": "Bandes dessinées",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
+    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
   },
   {
-    "id": "360",
-    "question": "Quel est le plus grand pays du monde en superficie ?",
-    "answer": "Russie",
+    "id": "1965",
+    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Canada",
-      "Chine",
-      "États-Unis"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
-  },
-  {
-    "id": "1384",
-    "question": "Quel est la capitale des Maldives ?",
-    "answer": "Malé",
-    "badAnswers": [
-      "Gan",
-      "Addu",
-      "Fuvahmulah"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Malé, capitale des Maldives, est une petite île densément peuplée, centre administratif et économique de l'archipel."
-  },
-  {
-    "id": "2006",
-    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
-    "answer": "Michel Houellebecq",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
-  },
-  {
-    "id": "1999",
-    "question": "Quel est le nom de l'inventeur du premier système de tomodensitométrie (scanner CT) ?",
-    "answer": "Godfrey Hounsfield",
-    "badAnswers": [
-      "Allan Cormack",
-      "Raymond Damadian",
-      "Robert Ledley"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Godfrey Hounsfield a développé le premier scanner CT dans les années 1970, révolutionnant le diagnostic médical."
-  },
-  {
-    "id": "873",
-    "question": "Dans Control, quel est le nom de la protagoniste ?",
-    "answer": "Jesse Faden",
-    "badAnswers": [
-      "Emily Pope",
-      "Courtney Hope",
-      "Helen Marshall"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
-  },
-  {
-    "id": "1440",
-    "question": "Quel est la capitale de la Syrie ?",
-    "answer": "Damas",
-    "badAnswers": [
-      "Alep",
-      "Homs",
-      "Lattaquié"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Damas, capitale de la Syrie, est l'une des plus anciennes villes habitées du monde, connue pour sa mosquée des Omeyyades."
-  },
-  {
-    "id": "543",
-    "question": "Quel est le plus grand cétacé à dents du monde ?",
-    "answer": "Cachalot",
-    "badAnswers": [
-      "Orque",
-      "Narval",
-      "Dauphin commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
-  },
-  {
-    "id": "1570",
-    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
-    "answer": "Aerosmith",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
+    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
   },
   {
-    "id": "1724",
-    "question": "Quel est le nom de l'inventeur du premier circuit intégré ?",
-    "answer": "Jack Kilby",
+    "id": "1632",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "William Shockley"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
-    "category": "Informatique",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
+  },
+  {
+    "id": "1226",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
+    "answer": "Million Dollar Baby",
+    "badAnswers": [
+      "The Aviator",
+      "Ray",
+      "Sideways"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
+  },
+  {
+    "id": "463",
+    "question": "Quel compositeur a écrit l'opéra 'Carmen' ?",
+    "answer": "Georges Bizet",
+    "badAnswers": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Georges Bizet a composé Carmen, un opéra en quatre actes créé en 1875, célèbre pour ses airs comme L'amour est un oiseau rebelle. Verdi, Wagner et Puccini sont d'autres compositeurs d'opéras, mais ils n'ont pas écrit Carmen."
+  },
+  {
+    "id": "1438",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
+    "answer": "Rhénium",
+    "badAnswers": [
+      "Ruthénium",
+      "Rhodium",
+      "Radon"
+    ],
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Jack Kilby a inventé le premier circuit intégré en 1958, posant les bases de l'électronique moderne."
+    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
+  },
+  {
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
+    "badAnswers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
+  },
+  {
+    "id": "1382",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
+    "answer": "Terbium",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+  },
+  {
+    "id": "429",
+    "question": "Quel est la capitale de la Russie ?",
+    "answer": "Moscou",
+    "badAnswers": [
+      "Saint-Pétersbourg",
+      "Kazan",
+      "Novossibirsk"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
+  },
+  {
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Strontium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
   }
 ]
