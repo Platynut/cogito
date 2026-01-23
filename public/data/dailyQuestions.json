@@ -1,132 +1,132 @@
 [
   {
-    "id": "1319",
-    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
-    "answer": "Déméter",
+    "id": "1431",
+    "question": "Quel est la capitale de l'Azerbaïdjan ?",
+    "answer": "Bakou",
     "badAnswers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
-  },
-  {
-    "id": "1965",
-    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
-  },
-  {
-    "id": "1632",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
-  },
-  {
-    "id": "1226",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
-    "answer": "Million Dollar Baby",
-    "badAnswers": [
-      "The Aviator",
-      "Ray",
-      "Sideways"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
-  },
-  {
-    "id": "463",
-    "question": "Quel compositeur a écrit l'opéra 'Carmen' ?",
-    "answer": "Georges Bizet",
-    "badAnswers": [
-      "Giuseppe Verdi",
-      "Richard Wagner",
-      "Giacomo Puccini"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Georges Bizet a composé Carmen, un opéra en quatre actes créé en 1875, célèbre pour ses airs comme L'amour est un oiseau rebelle. Verdi, Wagner et Puccini sont d'autres compositeurs d'opéras, mais ils n'ont pas écrit Carmen."
-  },
-  {
-    "id": "1438",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
-    "answer": "Rhénium",
-    "badAnswers": [
-      "Ruthénium",
-      "Rhodium",
-      "Radon"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
-  },
-  {
-    "id": "634",
-    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
-    "answer": "Albert Einstein",
-    "badAnswers": [
-      "Isaac Newton",
-      "Max Planck",
-      "Niels Bohr"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
-  },
-  {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
-    "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
-  },
-  {
-    "id": "429",
-    "question": "Quel est la capitale de la Russie ?",
-    "answer": "Moscou",
-    "badAnswers": [
-      "Saint-Pétersbourg",
-      "Kazan",
-      "Novossibirsk"
+      "Ganja",
+      "Sumqayit",
+      "Lankaran"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
+    "description": "Bakou, capitale de l'Azerbaïdjan, est une ville côtière sur la mer Caspienne, connue pour ses tours flamboyantes et son centre historique."
   },
   {
-    "id": "1560",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
-    "answer": "Seaborgium",
+    "id": "1393",
+    "question": "Quel est le nom de la déesse grecque de la mémoire ?",
+    "answer": "Mnémosyne",
     "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Strontium"
+      "Thémis",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "difficile",
+    "description": "Mnémosyne, déesse grecque de la mémoire, est la mère des neuf Muses, associées aux arts et à la connaissance."
+  },
+  {
+    "id": "144",
+    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
+    "answer": "Amman",
+    "badAnswers": [
+      "Téhéran",
+      "Damas",
+      "Bagdad"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
+  },
+  {
+    "id": "317",
+    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
+    "answer": "Link",
+    "badAnswers": [
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
+  },
+  {
+    "id": "1173",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Leon S. Kennedy ?",
+    "answer": "Resident Evil",
+    "badAnswers": [
+      "Silent Hill",
+      "Dead Space",
+      "The Evil Within"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Leon S. Kennedy est un protagoniste clé de la série Resident Evil, un policier luttant contre des zombies et des bio-armes."
+  },
+  {
+    "id": "455",
+    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
+    "answer": "Galar",
+    "badAnswers": [
+      "Sinnoh",
+      "Hoenn",
+      "Alola"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+  },
+  {
+    "id": "1548",
+    "question": "Quel est la capitale de la Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Freetown, capitale de la Sierra Leone, est une ville portuaire fondée par d'anciens esclaves, connue pour son Cotton Tree historique."
+  },
+  {
+    "id": "1059",
+    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
+    "answer": "Carbone",
+    "badAnswers": [
+      "Calcium",
+      "Chlore",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
+  },
+  {
+    "id": "1423",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Hf ?",
+    "answer": "Hafnium",
+    "badAnswers": [
+      "Holmium",
+      "Hélium",
+      "Hydrargyrum"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
+    "description": "L'hafnium, symbolisé par Hf, est un métal utilisé dans les réacteurs nucléaires et les alliages pour sa résistance à la corrosion."
+  },
+  {
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
   }
 ]
