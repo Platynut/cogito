@@ -1,132 +1,132 @@
 [
   {
-    "id": "583",
-    "question": "Quel artiste a peint La Liberté guidant le peuple ?",
-    "answer": "Eugène Delacroix",
+    "id": "1559",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1945 ?",
+    "answer": "The Lost Weekend",
     "badAnswers": [
-      "Jacques-Louis David",
-      "Théodore Géricault",
-      "Jean-Auguste-Dominique Ingres"
+      "Mildred Pierce",
+      "Spellbound",
+      "Anchors Aweigh"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Lost Weekend, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1945, un drame sur l'alcoolisme."
+  },
+  {
+    "id": "198",
+    "question": "Combien de temps dure le mandat du président des États-Unis ?",
+    "answer": "4 ans",
+    "badAnswers": [
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
+  },
+  {
+    "id": "1914",
+    "question": "Quel est le nom de l'auteur de 'Les Caves du Vatican' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'Les Caves du Vatican' (1914), une sotie sur la liberté et l'hypocrisie."
+  },
+  {
+    "id": "596",
+    "question": "Quel scientifique a découvert les lois de l'électromagnétisme ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Georg Ohm"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Michael Faraday a posé les bases de l'électromagnétisme au XIXe siècle avec ses expériences sur l'induction électromagnétique. Maxwell a formalisé les équations, Ampère a étudié les courants, et Ohm la résistance."
+  },
+  {
+    "id": "61",
+    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "answer": "Éléphant d'Afrique",
+    "badAnswers": [
+      "Girafe",
+      "Rhinocéros blanc",
+      "Ours polaire"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
+  },
+  {
+    "id": "829",
+    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans Un nouvel espoir ?",
+    "answer": "Obi-Wan Kenobi",
+    "badAnswers": [
+      "Yoda",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Obi-Wan Kenobi est le mentor de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+  },
+  {
+    "id": "293",
+    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
+    "answer": "Dissonance cognitive",
+    "badAnswers": [
+      "Syndrome de Flip-Flop",
+      "Cerveau divisé",
+      "Vision aveugle"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
+  },
+  {
+    "id": "1968",
+    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+  },
+  {
+    "id": "546",
+    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
+    "answer": "Pablo Picasso",
+    "badAnswers": [
+      "Henri Matisse",
+      "Georges Braque",
+      "Juan Gris"
     ],
     "category": "Art",
     "difficulty": "normal",
-    "description": "La Liberté guidant le peuple (1830) d'Eugène Delacroix est une peinture romantique célébrant la Révolution de 1830. David, Géricault et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
+    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "750",
-    "question": "Quel est la capitale de la Suède ?",
-    "answer": "Stockholm",
+    "id": "1972",
+    "question": "Quel est le nom de l'auteur de 'La Force des choses' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
-  },
-  {
-    "id": "1358",
-    "question": "Quel est la capitale du Belize ?",
-    "answer": "Belmopan",
-    "badAnswers": [
-      "Belize City",
-      "San Ignacio",
-      "Dangriga"
-    ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Belmopan, capitale du Belize depuis 1970, est une ville planifiée conçue pour remplacer Belize City après des catastrophes naturelles."
-  },
-  {
-    "id": "928",
-    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
-    "answer": "Nervosité",
-    "badAnswers": [
-      "Excitation",
-      "Agressivité",
-      "Épuisement"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
-  },
-  {
-    "id": "30",
-    "question": "Quelle entreprise a développé le système d'exploitation Windows ?",
-    "answer": "Microsoft",
-    "badAnswers": [
-      "Apple",
-      "IBM",
-      "Google"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Lancé en 1985, Windows équipe aujourd'hui environ 75% des ordinateurs personnels dans le monde."
-  },
-  {
-    "id": "28",
-    "question": "Quelle pâtisserie française est en forme de petit pain ?",
-    "answer": "Croissant",
-    "badAnswers": [
-      "Éclair",
-      "Mille-feuille",
-      "Tarte Tatin"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
-  },
-  {
-    "id": "686",
-    "question": "Dans Horizon Forbidden West, quel est le nom de l'intelligence artificielle qui guide Aloy ?",
-    "answer": "GAIA",
-    "badAnswers": [
-      "HADES",
-      "APOLLO",
-      "MINERVA"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "GAIA est l'intelligence artificielle qui guide Aloy dans Horizon Forbidden West, visant à restaurer l'écosystème. HADES, APOLLO et MINERVA sont d'autres sous-fonctions de l'IA du jeu."
-  },
-  {
-    "id": "97",
-    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
-    "answer": "Genève-Servette HC",
-    "badAnswers": [
-      "Fribourg Gotteron",
-      "HC Bienne",
-      "Lausanne HC"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
-  },
-  {
-    "id": "334",
-    "question": "Quel écrivain a créé le personnage de James Bond ?",
-    "answer": "Ian Fleming",
-    "badAnswers": [
-      "John le Carré",
-      "Agatha Christie",
-      "Tom Clancy"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
-  },
-  {
-    "id": "480",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
-    "answer": "Kai'Sa",
-    "badAnswers": [
-      "Kassadin",
-      "Malzahar",
-      "Vel'Koz"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
+    "description": "Simone de Beauvoir a écrit 'La Force des choses' (1963), une autobiographie sur sa vie et son engagement."
   }
 ]
