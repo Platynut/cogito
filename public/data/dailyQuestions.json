@@ -1,132 +1,132 @@
 [
   {
-    "id": "1559",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1945 ?",
-    "answer": "The Lost Weekend",
+    "id": "383",
+    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard ?",
+    "answer": "Albus Dumbledore",
     "badAnswers": [
-      "Mildred Pierce",
-      "Spellbound",
-      "Anchors Aweigh"
+      "Severus Rogue",
+      "Minerva McGonagall",
+      "Cornelius Fudge"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Lost Weekend, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1945, un drame sur l'alcoolisme."
-  },
-  {
-    "id": "198",
-    "question": "Combien de temps dure le mandat du président des États-Unis ?",
-    "answer": "4 ans",
-    "badAnswers": [
-      "5 ans",
-      "6 ans",
-      "7 ans"
-    ],
-    "category": "Politique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
+    "description": "Albus Dumbledore est le directeur de Poudlard dans la série Harry Potter de J.K. Rowling, connu pour sa sagesse et sa puissance magique. Severus Rogue et Minerva McGonagall sont des professeurs, et Cornelius Fudge est le ministre de la Magie."
   },
   {
-    "id": "1914",
-    "question": "Quel est le nom de l'auteur de 'Les Caves du Vatican' ?",
-    "answer": "André Gide",
+    "id": "353",
+    "question": "Quel est le nom de l'auteur de Les Misérables ?",
+    "answer": "Victor Hugo",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+  },
+  {
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Caves du Vatican' (1914), une sotie sur la liberté et l'hypocrisie."
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "596",
-    "question": "Quel scientifique a découvert les lois de l'électromagnétisme ?",
-    "answer": "Michael Faraday",
+    "id": "1054",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Child O' Mine' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "James Clerk Maxwell",
-      "André-Marie Ampère",
-      "Georg Ohm"
+      "Aerosmith",
+      "Bon Jovi",
+      "Van Halen"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sweet Child O' Mine', sorti en 1987 par Guns N' Roses, est un classique du hard rock, célèbre pour son riff de guitare emblématique."
+  },
+  {
+    "id": "1529",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
+    "answer": "Fermium",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Fer"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a posé les bases de l'électromagnétisme au XIXe siècle avec ses expériences sur l'induction électromagnétique. Maxwell a formalisé les équations, Ampère a étudié les courants, et Ohm la résistance."
+    "difficulty": "difficile",
+    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
   },
   {
-    "id": "61",
-    "question": "Quel est le plus grand animal terrestre actuel ?",
-    "answer": "Éléphant d'Afrique",
+    "id": "1331",
+    "question": "Quel est le nom de l'auteur de 'Les Raisins de la colère' ?",
+    "answer": "John Steinbeck",
     "badAnswers": [
-      "Girafe",
-      "Rhinocéros blanc",
-      "Ours polaire"
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "John Steinbeck a écrit 'Les Raisins de la colère' (1939), un roman sur la Grande Dépression et la migration des fermiers aux États-Unis."
+  },
+  {
+    "id": "810",
+    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
+    "answer": "Glacier Lambert",
+    "badAnswers": [
+      "Glacier Beardmore",
+      "Glacier Ross",
+      "Glacier Pine Island"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
+  },
+  {
+    "id": "2017",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
+    "answer": "Roger L. Easton",
+    "badAnswers": [
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
+  },
+  {
+    "id": "144",
+    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
+    "answer": "Amman",
+    "badAnswers": [
+      "Téhéran",
+      "Damas",
+      "Bagdad"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
+  },
+  {
+    "id": "149",
+    "question": "Quel est l'animal emblématique de l'Australie ?",
+    "answer": "Kangourou",
+    "badAnswers": [
+      "Koala",
+      "Crocodile",
+      "Émeu"
     ],
     "category": "Nature",
     "difficulty": "facile",
-    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
-  },
-  {
-    "id": "829",
-    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans Un nouvel espoir ?",
-    "answer": "Obi-Wan Kenobi",
-    "badAnswers": [
-      "Yoda",
-      "Qui-Gon Jinn",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le mentor de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
-  },
-  {
-    "id": "293",
-    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
-    "answer": "Dissonance cognitive",
-    "badAnswers": [
-      "Syndrome de Flip-Flop",
-      "Cerveau divisé",
-      "Vision aveugle"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
-  },
-  {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
-  },
-  {
-    "id": "546",
-    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
-    "answer": "Pablo Picasso",
-    "badAnswers": [
-      "Henri Matisse",
-      "Georges Braque",
-      "Juan Gris"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1972",
-    "question": "Quel est le nom de l'auteur de 'La Force des choses' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'La Force des choses' (1963), une autobiographie sur sa vie et son engagement."
+    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
   }
 ]
