@@ -1,132 +1,132 @@
 [
   {
-    "id": "383",
-    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard ?",
-    "answer": "Albus Dumbledore",
+    "id": "1316",
+    "question": "Quel est le nom de l'inventeur de la première machine à écrire ?",
+    "answer": "Christopher Latham Sholes",
     "badAnswers": [
-      "Severus Rogue",
-      "Minerva McGonagall",
-      "Cornelius Fudge"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Albus Dumbledore est le directeur de Poudlard dans la série Harry Potter de J.K. Rowling, connu pour sa sagesse et sa puissance magique. Severus Rogue et Minerva McGonagall sont des professeurs, et Cornelius Fudge est le ministre de la Magie."
-  },
-  {
-    "id": "353",
-    "question": "Quel est le nom de l'auteur de Les Misérables ?",
-    "answer": "Victor Hugo",
-    "badAnswers": [
-      "Gustave Flaubert",
-      "Émile Zola",
-      "Honoré de Balzac"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
-  },
-  {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "1054",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Child O' Mine' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Van Halen"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Sweet Child O' Mine', sorti en 1987 par Guns N' Roses, est un classique du hard rock, célèbre pour son riff de guitare emblématique."
-  },
-  {
-    "id": "1529",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
-    "answer": "Fermium",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fer"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
-  },
-  {
-    "id": "1331",
-    "question": "Quel est le nom de l'auteur de 'Les Raisins de la colère' ?",
-    "answer": "John Steinbeck",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "John Steinbeck a écrit 'Les Raisins de la colère' (1939), un roman sur la Grande Dépression et la migration des fermiers aux États-Unis."
-  },
-  {
-    "id": "810",
-    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
-    "answer": "Glacier Lambert",
-    "badAnswers": [
-      "Glacier Beardmore",
-      "Glacier Ross",
-      "Glacier Pine Island"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
-  },
-  {
-    "id": "2017",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation par satellite ?",
-    "answer": "Roger L. Easton",
-    "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu le système GPS initial dans les années 1970, utilisé pour la navigation mondiale."
-  },
-  {
-    "id": "144",
-    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
-    "answer": "Amman",
-    "badAnswers": [
-      "Téhéran",
-      "Damas",
-      "Bagdad"
+      "Thomas Edison",
+      "Samuel Morse",
+      "Alexander Graham Bell"
     ],
     "category": "Histoire",
     "difficulty": "difficile",
-    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
+    "description": "Christopher Latham Sholes a inventé la première machine à écrire pratique en 1868, introduisant le clavier QWERTY encore utilisé aujourd'hui."
   },
   {
-    "id": "149",
-    "question": "Quel est l'animal emblématique de l'Australie ?",
-    "answer": "Kangourou",
+    "id": "232",
+    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
+    "answer": "Matrix",
     "badAnswers": [
-      "Koala",
-      "Crocodile",
-      "Émeu"
+      "Mad Max",
+      "Scream",
+      "Interstellar"
     ],
-    "category": "Nature",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+  },
+  {
+    "id": "140",
+    "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
+    "answer": "Espagne",
+    "badAnswers": [
+      "Grèce",
+      "Maroc",
+      "Algérie"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "La mantille, voile traditionnel, est encore portée lors d'occasions spéciales en Espagne, notamment pendant les fêtes religieuses. En Grèce et au Maghreb, d'autres types de voiles sont utilisés."
+  },
+  {
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
+    "badAnswers": [
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+  },
+  {
+    "id": "830",
+    "question": "Quel scientifique a découvert la loi des corps flottants ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
+    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+  },
+  {
+    "id": "154",
+    "question": "Qu'est-ce que HTML signifie en informatique ?",
+    "answer": "HyperText Markup Language",
+    "badAnswers": [
+      "HighTech Modern Language",
+      "HyperTransfer Markup Language",
+      "HyperText Machine Language"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
+  },
+  {
+    "id": "1435",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1971 ?",
+    "answer": "The French Connection",
+    "badAnswers": [
+      "A Clockwork Orange",
+      "Fiddler on the Roof",
+      "The Last Picture Show"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The French Connection, réalisé par William Friedkin, a remporté l'Oscar du meilleur film en 1971, un thriller policier sur le trafic de drogue."
+  },
+  {
+    "id": "1892",
+    "question": "Quel est le nom de l'inventeur du premier système de photographie numérique ?",
+    "answer": "Steven Sasson",
+    "badAnswers": [
+      "George Eastman",
+      "Edwin Land",
+      "Willard Boyle"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie."
+  },
+  {
+    "id": "1581",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
+    "answer": "Meitnérium",
+    "badAnswers": [
+      "Molybdène",
+      "Magnésium",
+      "Mendélévium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
+  },
+  {
+    "id": "117",
+    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
+    "answer": "Tous les 4 ans",
+    "badAnswers": [
+      "Tous les 3 ans",
+      "Tous les 5 ans",
+      "Tous les 6 ans"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
   }
 ]
