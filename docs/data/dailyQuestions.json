@@ -1,132 +1,132 @@
 [
   {
-    "id": "1316",
-    "question": "Quel est le nom de l'inventeur de la première machine à écrire ?",
-    "answer": "Christopher Latham Sholes",
+    "id": "187",
+    "question": "Qui a gagné la coupe du monde de football 1998 ?",
+    "answer": "France",
     "badAnswers": [
-      "Thomas Edison",
-      "Samuel Morse",
-      "Alexander Graham Bell"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Christopher Latham Sholes a inventé la première machine à écrire pratique en 1868, introduisant le clavier QWERTY encore utilisé aujourd'hui."
-  },
-  {
-    "id": "232",
-    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
-    "answer": "Matrix",
-    "badAnswers": [
-      "Mad Max",
-      "Scream",
-      "Interstellar"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
-  },
-  {
-    "id": "140",
-    "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
-    "answer": "Espagne",
-    "badAnswers": [
-      "Grèce",
-      "Maroc",
-      "Algérie"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "La mantille, voile traditionnel, est encore portée lors d'occasions spéciales en Espagne, notamment pendant les fêtes religieuses. En Grèce et au Maghreb, d'autres types de voiles sont utilisés."
-  },
-  {
-    "id": "1047",
-    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
-    "answer": "Charles Lindbergh",
-    "badAnswers": [
-      "Amelia Earhart",
-      "Howard Hughes",
-      "Wiley Post"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
-  },
-  {
-    "id": "830",
-    "question": "Quel scientifique a découvert la loi des corps flottants ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
-  },
-  {
-    "id": "154",
-    "question": "Qu'est-ce que HTML signifie en informatique ?",
-    "answer": "HyperText Markup Language",
-    "badAnswers": [
-      "HighTech Modern Language",
-      "HyperTransfer Markup Language",
-      "HyperText Machine Language"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
-  },
-  {
-    "id": "1435",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1971 ?",
-    "answer": "The French Connection",
-    "badAnswers": [
-      "A Clockwork Orange",
-      "Fiddler on the Roof",
-      "The Last Picture Show"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The French Connection, réalisé par William Friedkin, a remporté l'Oscar du meilleur film en 1971, un thriller policier sur le trafic de drogue."
-  },
-  {
-    "id": "1892",
-    "question": "Quel est le nom de l'inventeur du premier système de photographie numérique ?",
-    "answer": "Steven Sasson",
-    "badAnswers": [
-      "George Eastman",
-      "Edwin Land",
-      "Willard Boyle"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie."
-  },
-  {
-    "id": "1581",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
-    "answer": "Meitnérium",
-    "badAnswers": [
-      "Molybdène",
-      "Magnésium",
-      "Mendélévium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
-  },
-  {
-    "id": "117",
-    "question": "À quelle fréquence, la Coupe du Monde de Rugby à XV est-elle organisée ?",
-    "answer": "Tous les 4 ans",
-    "badAnswers": [
-      "Tous les 3 ans",
-      "Tous les 5 ans",
-      "Tous les 6 ans"
+      "Brésil",
+      "Argentine",
+      "Pérou"
     ],
     "category": "Sports",
     "difficulty": "normal",
-    "description": "La Coupe du Monde de Rugby à XV a lieu tous les 4 ans, comme la Coupe du Monde de Football. Les autres fréquences proposées sont incorrectes."
+    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
+  },
+  {
+    "id": "1095",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
+    "answer": "Chlore",
+    "badAnswers": [
+      "Chrome",
+      "Césium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+  },
+  {
+    "id": "1373",
+    "question": "Quel est la capitale du Suriname ?",
+    "answer": "Paramaribo",
+    "badAnswers": [
+      "Nieuw Nickerie",
+      "Moengo",
+      "Albina"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
+  },
+  {
+    "id": "268",
+    "question": "Quel est le nom de la série de films qui suit les aventures d'un groupe de jeunes sorciers à Poudlard ?",
+    "answer": "Harry Potter",
+    "badAnswers": [
+      "Le Seigneur des Anneaux",
+      "Le Trône de Fer",
+      "Percy Jackson"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "'Harry Potter' est une série de livres et de films qui suit les aventures du jeune sorcier Harry Potter et de ses amis Hermione Granger et Ron Weasley à l'école de sorcellerie Poudlard. Elle a été écrite par J.K. Rowling et est devenue un phénomène mondial."
+  },
+  {
+    "id": "2093",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disquette ?",
+    "answer": "Alan Shugart",
+    "badAnswers": [
+      "Reynold Johnson",
+      "David Noble",
+      "Bill Gates"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Alan Shugart a développé le premier lecteur de disquette 8 pouces chez IBM au début des années 1970, révolutionnant le stockage de données."
+  },
+  {
+    "id": "1647",
+    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
+    "answer": "Blur",
+    "badAnswers": [
+      "Oasis",
+      "Radiohead",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+  },
+  {
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
+    "badAnswers": [
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
+  },
+  {
+    "id": "1348",
+    "question": "Quel est le nom du groupe qui a chanté 'Psycho Therapy' ?",
+    "answer": "The Ramones",
+    "badAnswers": [
+      "The Clash",
+      "Sex Pistols",
+      "The Stooges"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Psycho Therapy', sorti en 1983 par The Ramones, est une chanson punk-rock énergique tirée de l'album Subterranean Jungle."
+  },
+  {
+    "id": "867",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L'Empire contre-attaque ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Greedo",
+      "Bossk"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Greedo et Bossk sont d'autres chasseurs de primes."
+  },
+  {
+    "id": "566",
+    "question": "Dans Overwatch, quel personnage est un tireur d'élite français ?",
+    "answer": "Widowmaker",
+    "badAnswers": [
+      "Ashe",
+      "Hanzo",
+      "McCree"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Widowmaker est une tireuse d'élite française dans Overwatch, connue pour son fusil précis. Ashe et McCree sont des tireurs américains, et Hanzo est un archer japonais."
   }
 ]
