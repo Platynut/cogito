@@ -1,132 +1,132 @@
 [
   {
-    "id": "187",
-    "question": "Qui a gagné la coupe du monde de football 1998 ?",
-    "answer": "France",
+    "id": "1456",
+    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
+    "answer": "Oasis",
     "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Pérou"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
-  },
-  {
-    "id": "1095",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
-    "answer": "Chlore",
-    "badAnswers": [
-      "Chrome",
-      "Césium",
-      "Carbone"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
-  },
-  {
-    "id": "1373",
-    "question": "Quel est la capitale du Suriname ?",
-    "answer": "Paramaribo",
-    "badAnswers": [
-      "Nieuw Nickerie",
-      "Moengo",
-      "Albina"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
-  },
-  {
-    "id": "268",
-    "question": "Quel est le nom de la série de films qui suit les aventures d'un groupe de jeunes sorciers à Poudlard ?",
-    "answer": "Harry Potter",
-    "badAnswers": [
-      "Le Seigneur des Anneaux",
-      "Le Trône de Fer",
-      "Percy Jackson"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "'Harry Potter' est une série de livres et de films qui suit les aventures du jeune sorcier Harry Potter et de ses amis Hermione Granger et Ron Weasley à l'école de sorcellerie Poudlard. Elle a été écrite par J.K. Rowling et est devenue un phénomène mondial."
-  },
-  {
-    "id": "2093",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disquette ?",
-    "answer": "Alan Shugart",
-    "badAnswers": [
-      "Reynold Johnson",
-      "David Noble",
-      "Bill Gates"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Alan Shugart a développé le premier lecteur de disquette 8 pouces chez IBM au début des années 1970, révolutionnant le stockage de données."
-  },
-  {
-    "id": "1647",
-    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
-    "answer": "Blur",
-    "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
+      "Blur",
+      "The Verve",
+      "Radiohead"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
   },
   {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
+    "id": "437",
+    "question": "Quel est le plus rapide des animaux terrestres ?",
+    "answer": "Guépard",
     "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
+      "Lion",
+      "Antilope",
+      "Léopard"
     ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "1348",
-    "question": "Quel est le nom du groupe qui a chanté 'Psycho Therapy' ?",
-    "answer": "The Ramones",
-    "badAnswers": [
-      "The Clash",
-      "Sex Pistols",
-      "The Stooges"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Psycho Therapy', sorti en 1983 par The Ramones, est une chanson punk-rock énergique tirée de l'album Subterranean Jungle."
-  },
-  {
-    "id": "867",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L'Empire contre-attaque ?",
-    "answer": "Boba Fett",
-    "badAnswers": [
-      "Jango Fett",
-      "Greedo",
-      "Bossk"
-    ],
-    "category": "Cinéma",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Boba Fett capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Greedo et Bossk sont d'autres chasseurs de primes."
+    "description": "Le guépard est l’animal terrestre le plus rapide, capable d’atteindre des vitesses de 120 km/h sur de courtes distances. Le lion, l’antilope et le léopard sont également rapides, mais aucun ne rivalise avec le guépard."
   },
   {
-    "id": "566",
-    "question": "Dans Overwatch, quel personnage est un tireur d'élite français ?",
-    "answer": "Widowmaker",
+    "id": "537",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
+    "answer": "Shadow Fiend",
     "badAnswers": [
-      "Ashe",
-      "Hanzo",
-      "McCree"
+      "Necrophos",
+      "Lich",
+      "Death Prophet"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Widowmaker est une tireuse d'élite française dans Overwatch, connue pour son fusil précis. Ashe et McCree sont des tireurs américains, et Hanzo est un archer japonais."
+    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
+  },
+  {
+    "id": "2050",
+    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
+    "answer": "James Joyce",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
+  },
+  {
+    "id": "713",
+    "question": "Quel scientifique a découvert les lois de la dynamique ?",
+    "answer": "Isaac Newton",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Robert Hooke"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Isaac Newton a formulé les trois lois de la dynamique au XVIIe siècle, expliquant le mouvement des objets. Galilée a étudié la cinématique, Kepler les orbites, et Hooke la loi des ressorts."
+  },
+  {
+    "id": "1192",
+    "question": "Quel est la capitale de la Tunisie ?",
+    "answer": "Tunis",
+    "badAnswers": [
+      "Sfax",
+      "Sousse",
+      "Kairouan"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
+  },
+  {
+    "id": "1862",
+    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
+  },
+  {
+    "id": "1526",
+    "question": "Quel est la capitale du Mali ?",
+    "answer": "Bamako",
+    "badAnswers": [
+      "Ségou",
+      "Mopti",
+      "Tombouctou"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
+  },
+  {
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
+    "badAnswers": [
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+  },
+  {
+    "id": "1394",
+    "question": "Quel est la capitale du Laos ?",
+    "answer": "Vientiane",
+    "badAnswers": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
   }
 ]
