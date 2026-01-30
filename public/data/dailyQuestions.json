@@ -1,132 +1,132 @@
 [
   {
-    "id": "1456",
-    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
-    "answer": "Oasis",
+    "id": "156",
+    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
+    "answer": "La coccinelle",
     "badAnswers": [
-      "Blur",
-      "The Verve",
-      "Radiohead"
+      "La luciole",
+      "Le scarabée",
+      "La libellule"
     ],
-    "category": "Musique",
+    "category": "Nature",
     "difficulty": "facile",
-    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
+    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
   },
   {
-    "id": "437",
-    "question": "Quel est le plus rapide des animaux terrestres ?",
-    "answer": "Guépard",
+    "id": "1815",
+    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
+    "answer": "Vinton Cerf",
     "badAnswers": [
-      "Lion",
-      "Antilope",
-      "Léopard"
+      "Tim Berners-Lee",
+      "Robert Kahn",
+      "Paul Baran"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le guépard est l’animal terrestre le plus rapide, capable d’atteindre des vitesses de 120 km/h sur de courtes distances. Le lion, l’antilope et le léopard sont également rapides, mais aucun ne rivalise avec le guépard."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
   },
   {
-    "id": "537",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
-    "answer": "Shadow Fiend",
+    "id": "1537",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
+    "answer": "Hamlet",
     "badAnswers": [
-      "Necrophos",
-      "Lich",
-      "Death Prophet"
+      "The Treasure of the Sierra Madre",
+      "Johnny Belinda",
+      "The Red Shoes"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
+  },
+  {
+    "id": "391",
+    "question": "Dans Fortnite, quel est le nom de la tempête qui réduit la zone de jeu ?",
+    "answer": "Tempête",
+    "badAnswers": [
+      "Ouragan",
+      "Typhon",
+      "Cyclone"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Fortnite, la Tempête est la mécanique qui réduit progressivement la zone de jeu, obligeant les joueurs à se rapprocher. Elle inflige des dégâts aux joueurs à l’extérieur de la zone sûre. Ouragan, typhon et cyclone sont des termes météorologiques, mais ne sont pas utilisés dans le jeu."
+  },
+  {
+    "id": "750",
+    "question": "Quel est la capitale de la Suède ?",
+    "answer": "Stockholm",
+    "badAnswers": [
+      "Göteborg",
+      "Malmö",
+      "Uppsala"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
+  },
+  {
+    "id": "758",
+    "question": "Quel artiste a peint L'Angélus ?",
+    "answer": "Jean-François Millet",
+    "badAnswers": [
+      "Gustave Courbet",
+      "Édouard Manet",
+      "Claude Monet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "266",
+    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
+    "answer": "Le Couesnon",
+    "badAnswers": [
+      "La Sélune",
+      "La Vire",
+      "La Rance"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
+  },
+  {
+    "id": "324",
+    "question": "Dans Portal, quelle est l'IA qui guide le joueur à travers les tests d'Aperture Science ?",
+    "answer": "GLaDOS",
+    "badAnswers": [
+      "Wheatley",
+      "Chell",
+      "Atlas"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
+    "description": "GLaDOS est l'intelligence artificielle sarcastique et manipulatrice qui guide le joueur dans Portal à travers les tests d'Aperture Science. Voix emblématique du jeu, elle est à la fois guide et antagoniste. Wheatley est une IA dans Portal 2, Chell est la protagoniste, et Atlas est un robot secondaire."
   },
   {
-    "id": "2050",
-    "question": "Quel est le nom de l'auteur de 'Portrait de l'artiste en jeune homme' ?",
-    "answer": "James Joyce",
+    "id": "865",
+    "question": "Dans Overwatch, quel personnage est un ancien chef d'Overwatch devenu hors-la-loi ?",
+    "answer": "Soldat 76",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Reaper",
+      "McCree",
+      "Ashe"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "James Joyce a écrit 'Portrait de l'artiste en jeune homme' (1916), un roman semi-autobiographique sur la jeunesse et l'art."
-  },
-  {
-    "id": "713",
-    "question": "Quel scientifique a découvert les lois de la dynamique ?",
-    "answer": "Isaac Newton",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Johannes Kepler",
-      "Robert Hooke"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Isaac Newton a formulé les trois lois de la dynamique au XVIIe siècle, expliquant le mouvement des objets. Galilée a étudié la cinématique, Kepler les orbites, et Hooke la loi des ressorts."
+    "description": "Soldat 76, ancien chef d'Overwatch, est un hors-la-loi dans Overwatch, cherchant à faire justice. Reaper est un ancien allié, McCree et Ashe sont d'autres hors-la-loi."
   },
   {
-    "id": "1192",
-    "question": "Quel est la capitale de la Tunisie ?",
-    "answer": "Tunis",
+    "id": "1396",
+    "question": "Quel est la capitale du Cambodge ?",
+    "answer": "Phnom Penh",
     "badAnswers": [
-      "Sfax",
-      "Sousse",
-      "Kairouan"
+      "Siem Reap",
+      "Battambang",
+      "Sihanoukville"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
-  },
-  {
-    "id": "1862",
-    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
-  },
-  {
-    "id": "1526",
-    "question": "Quel est la capitale du Mali ?",
-    "answer": "Bamako",
-    "badAnswers": [
-      "Ségou",
-      "Mopti",
-      "Tombouctou"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
-  },
-  {
-    "id": "1394",
-    "question": "Quel est la capitale du Laos ?",
-    "answer": "Vientiane",
-    "badAnswers": [
-      "Luang Prabang",
-      "Pakse",
-      "Savannakhet"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
+    "description": "Phnom Penh, capitale du Cambodge, est une ville sur le Mékong, connue pour son palais royal et son passé historique tumultueux."
   }
 ]
