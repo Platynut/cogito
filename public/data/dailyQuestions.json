@@ -1,132 +1,132 @@
 [
   {
-    "id": "156",
-    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
-    "answer": "La coccinelle",
+    "id": "230",
+    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
+    "answer": "384 400 km",
     "badAnswers": [
-      "La luciole",
-      "Le scarabée",
-      "La libellule"
+      "284 400 km",
+      "484 400 km",
+      "584 400 km"
     ],
-    "category": "Nature",
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
+  },
+  {
+    "id": "781",
+    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+  },
+  {
+    "id": "599",
+    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
+    "answer": "Gustave Flaubert",
+    "badAnswers": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Stendhal"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
+    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1815",
-    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
-    "answer": "Vinton Cerf",
+    "id": "612",
+    "question": "Quelles sont les quatre divinités gardiennes du bouddhisme au Japon ?",
+    "answer": "Shitenno",
     "badAnswers": [
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Paul Baran"
+      "Ungyo et Agyo",
+      "Raijin et Fujin",
+      "Izanagi et Izanami"
     ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Shitenno est associé aux saisons, aux directions et à la protection des temples."
   },
   {
-    "id": "1537",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
-    "answer": "Hamlet",
+    "id": "1295",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1992 ?",
+    "answer": "Unforgiven",
     "badAnswers": [
-      "The Treasure of the Sierra Madre",
-      "Johnny Belinda",
-      "The Red Shoes"
+      "A Few Good Men",
+      "Scent of a Woman",
+      "Howards End"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
+    "description": "Unforgiven, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 1992, un western revisitant les thèmes de la violence et de la rédemption."
   },
   {
-    "id": "391",
-    "question": "Dans Fortnite, quel est le nom de la tempête qui réduit la zone de jeu ?",
-    "answer": "Tempête",
+    "id": "515",
+    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
+    "answer": "Édouard Manet",
     "badAnswers": [
-      "Ouragan",
-      "Typhon",
-      "Cyclone"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Fortnite, la Tempête est la mécanique qui réduit progressivement la zone de jeu, obligeant les joueurs à se rapprocher. Elle inflige des dégâts aux joueurs à l’extérieur de la zone sûre. Ouragan, typhon et cyclone sont des termes météorologiques, mais ne sont pas utilisés dans le jeu."
-  },
-  {
-    "id": "750",
-    "question": "Quel est la capitale de la Suède ?",
-    "answer": "Stockholm",
-    "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
-  },
-  {
-    "id": "758",
-    "question": "Quel artiste a peint L'Angélus ?",
-    "answer": "Jean-François Millet",
-    "badAnswers": [
-      "Gustave Courbet",
-      "Édouard Manet",
-      "Claude Monet"
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Henri Matisse"
     ],
     "category": "Art",
     "difficulty": "normal",
-    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
+    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "266",
-    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
-    "answer": "Le Couesnon",
+    "id": "280",
+    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
+    "answer": "Dick Grayson",
     "badAnswers": [
-      "La Sélune",
-      "La Vire",
-      "La Rance"
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
     ],
-    "category": "Géographie",
+    "category": "Bandes dessinées",
     "difficulty": "normal",
-    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
+    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
   },
   {
-    "id": "324",
-    "question": "Dans Portal, quelle est l'IA qui guide le joueur à travers les tests d'Aperture Science ?",
-    "answer": "GLaDOS",
+    "id": "2133",
+    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
-      "Wheatley",
-      "Chell",
-      "Atlas"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "GLaDOS est l'intelligence artificielle sarcastique et manipulatrice qui guide le joueur dans Portal à travers les tests d'Aperture Science. Voix emblématique du jeu, elle est à la fois guide et antagoniste. Wheatley est une IA dans Portal 2, Chell est la protagoniste, et Atlas est un robot secondaire."
+    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
   },
   {
-    "id": "865",
-    "question": "Dans Overwatch, quel personnage est un ancien chef d'Overwatch devenu hors-la-loi ?",
-    "answer": "Soldat 76",
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
     "badAnswers": [
-      "Reaper",
-      "McCree",
-      "Ashe"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Soldat 76, ancien chef d'Overwatch, est un hors-la-loi dans Overwatch, cherchant à faire justice. Reaper est un ancien allié, McCree et Ashe sont d'autres hors-la-loi."
-  },
-  {
-    "id": "1396",
-    "question": "Quel est la capitale du Cambodge ?",
-    "answer": "Phnom Penh",
-    "badAnswers": [
-      "Siem Reap",
-      "Battambang",
-      "Sihanoukville"
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Phnom Penh, capitale du Cambodge, est une ville sur le Mékong, connue pour son palais royal et son passé historique tumultueux."
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "1498",
+    "question": "Quel est le nom de la déesse grecque de la terre ?",
+    "answer": "Gaïa",
+    "badAnswers": [
+      "Déméter",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
   }
 ]
