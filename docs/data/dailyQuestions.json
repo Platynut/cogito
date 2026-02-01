@@ -1,132 +1,132 @@
 [
   {
-    "id": "230",
-    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
-    "answer": "384 400 km",
+    "id": "228",
+    "question": "Quel est le pays premier producteur mondial de tomates ?",
+    "answer": "Chine",
     "badAnswers": [
-      "284 400 km",
-      "484 400 km",
-      "584 400 km"
+      "Italie",
+      "Maroc",
+      "Pays-Bas"
     ],
-    "category": "Astronomie",
+    "category": "Agriculture",
     "difficulty": "normal",
-    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
+    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
   },
   {
-    "id": "781",
-    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
-    "answer": "Johannes Kepler",
+    "id": "348",
+    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
+    "answer": "Jane Austen",
     "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
-  },
-  {
-    "id": "599",
-    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
-    "answer": "Gustave Flaubert",
-    "badAnswers": [
-      "Émile Zola",
-      "Honoré de Balzac",
-      "Stendhal"
+      "Charlotte Brontë",
+      "Emily Dickinson",
+      "Virginia Woolf"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
   },
   {
-    "id": "612",
-    "question": "Quelles sont les quatre divinités gardiennes du bouddhisme au Japon ?",
-    "answer": "Shitenno",
+    "id": "751",
+    "question": "Quel artiste a peint Le Printemps ?",
+    "answer": "Sandro Botticelli",
     "badAnswers": [
-      "Ungyo et Agyo",
-      "Raijin et Fujin",
-      "Izanagi et Izanami"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Shitenno est associé aux saisons, aux directions et à la protection des temples."
-  },
-  {
-    "id": "1295",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1992 ?",
-    "answer": "Unforgiven",
-    "badAnswers": [
-      "A Few Good Men",
-      "Scent of a Woman",
-      "Howards End"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Unforgiven, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 1992, un western revisitant les thèmes de la violence et de la rédemption."
-  },
-  {
-    "id": "515",
-    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
-    "answer": "Édouard Manet",
-    "badAnswers": [
-      "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Henri Matisse"
+      "Léonard de Vinci",
+      "Michel-Ange",
+      "Raphaël"
     ],
     "category": "Art",
     "difficulty": "normal",
-    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
+    "description": "Le Printemps (vers 1482) de Sandro Botticelli est une peinture de la Renaissance représentant des figures mythologiques. Léonard, Michel-Ange et Raphaël sont d'autres artistes, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "280",
-    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
-    "answer": "Dick Grayson",
+    "id": "1362",
+    "question": "Quel est la capitale des Bahamas ?",
+    "answer": "Nassau",
     "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
-  },
-  {
-    "id": "2133",
-    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
-    "answer": "Jean Cocteau",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
+      "Freeport",
+      "Marsh Harbour",
+      "George Town"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
   },
   {
-    "id": "1498",
-    "question": "Quel est le nom de la déesse grecque de la terre ?",
-    "answer": "Gaïa",
+    "id": "1575",
+    "question": "Quel est la capitale du Burundi ?",
+    "answer": "Gitega",
     "badAnswers": [
-      "Déméter",
-      "Héra",
-      "Athéna"
+      "Bujumbura",
+      "Ngozi",
+      "Kayanza"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Gitega, capitale du Burundi depuis 2019, est une ville centrale connue pour son palais royal et ses tambours traditionnels."
+  },
+  {
+    "id": "409",
+    "question": "Quel est la capitale de la Chine ?",
+    "answer": "Pékin",
+    "badAnswers": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
+  },
+  {
+    "id": "2023",
+    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
+    "badAnswers": [
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+  },
+  {
+    "id": "748",
+    "question": "Quel est le plus grand reptile terrestre actuel ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Varan de Komodo",
+      "Tortue des Galápagos",
+      "Anaconda vert"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
+  },
+  {
+    "id": "717",
+    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
+    "answer": "Karasu-tengu",
+    "badAnswers": [
+      "Tengu",
+      "Oni",
+      "Kappa"
     ],
     "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
+    "difficulty": "normal",
+    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
   }
 ]
