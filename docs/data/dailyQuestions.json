@@ -1,85 +1,98 @@
 [
   {
-    "id": "228",
-    "question": "Quel est le pays premier producteur mondial de tomates ?",
-    "answer": "Chine",
+    "id": "422",
+    "question": "Quel est le nom du plus grand lac d’eau douce du monde par superficie ?",
+    "answer": "Lac Supérieur",
     "badAnswers": [
-      "Italie",
-      "Maroc",
-      "Pays-Bas"
+      "Lac Baïkal",
+      "Lac Michigan",
+      "Lac Victoria"
     ],
-    "category": "Agriculture",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
+    "description": "Le lac Supérieur, situé entre les États-Unis et le Canada, est le plus grand lac d’eau douce du monde par superficie, couvrant environ 82 100 km². Le lac Baïkal est le plus profond, et le lac Michigan et le lac Victoria sont plus petits en superficie."
   },
   {
-    "id": "348",
-    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
-    "answer": "Jane Austen",
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
     "badAnswers": [
-      "Charlotte Brontë",
-      "Emily Dickinson",
-      "Virginia Woolf"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
   },
   {
-    "id": "751",
-    "question": "Quel artiste a peint Le Printemps ?",
-    "answer": "Sandro Botticelli",
+    "id": "586",
+    "question": "Quel scientifique a découvert la théorie quantique des champs ?",
+    "answer": "Paul Dirac",
     "badAnswers": [
-      "Léonard de Vinci",
-      "Michel-Ange",
-      "Raphaël"
+      "Werner Heisenberg",
+      "Max Planck",
+      "Richard Feynman"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Paul Dirac a posé les bases de la théorie quantique des champs dans les années 1920, intégrant la relativité à la mécanique quantique. Heisenberg, Planck et Feynman ont contribué à d'autres aspects de la physique quantique."
+  },
+  {
+    "id": "479",
+    "question": "Quel artiste a peint Le Jardin des délices ?",
+    "answer": "Jérôme Bosch",
+    "badAnswers": [
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Jan van Eyck"
     ],
     "category": "Art",
     "difficulty": "normal",
-    "description": "Le Printemps (vers 1482) de Sandro Botticelli est une peinture de la Renaissance représentant des figures mythologiques. Léonard, Michel-Ange et Raphaël sont d'autres artistes, mais n'ont pas peint ce tableau."
+    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
   },
   {
-    "id": "1362",
-    "question": "Quel est la capitale des Bahamas ?",
-    "answer": "Nassau",
+    "id": "573",
+    "question": "Quel est la capitale du Maroc ?",
+    "answer": "Rabat",
     "badAnswers": [
-      "Freeport",
-      "Marsh Harbour",
-      "George Town"
+      "Casablanca",
+      "Marrakech",
+      "Fès"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
   },
   {
-    "id": "1575",
-    "question": "Quel est la capitale du Burundi ?",
-    "answer": "Gitega",
+    "id": "1268",
+    "question": "Quel est le nom de l'auteur de 'Le Vieil Homme et la Mer' ?",
+    "answer": "Ernest Hemingway",
     "badAnswers": [
-      "Bujumbura",
-      "Ngozi",
-      "Kayanza"
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
     ],
-    "category": "Géographie",
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Ernest Hemingway a écrit 'Le Vieil Homme et la Mer' (1952), un roman sur la lutte d'un pêcheur cubain contre un énorme poisson."
+  },
+  {
+    "id": "217",
+    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
+    "answer": "Pays-Bas",
+    "badAnswers": [
+      "Belgique",
+      "Suisse",
+      "France"
+    ],
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Gitega, capitale du Burundi depuis 2019, est une ville centrale connue pour son palais royal et ses tambours traditionnels."
+    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
   },
   {
-    "id": "409",
-    "question": "Quel est la capitale de la Chine ?",
-    "answer": "Pékin",
-    "badAnswers": [
-      "Shanghai",
-      "Hong Kong",
-      "Guangzhou"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
-  },
-  {
-    "id": "2023",
-    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
+    "id": "1958",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -88,45 +101,32 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
+    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
   },
   {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
+    "id": "1010",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2014 ?",
+    "answer": "Allemagne",
     "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
+      "Brésil",
+      "Argentine",
+      "Espagne"
     ],
-    "category": "Géographie",
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Allemagne a remporté la Coupe du Monde 2014 en battant l'Argentine 1-0 en finale, grâce à un but de Mario Götze en prolongations."
+  },
+  {
+    "id": "63",
+    "question": "Qui était le premier président noir des États-Unis ?",
+    "answer": "Barack Obama",
+    "badAnswers": [
+      "Martin Luther King",
+      "Colin Powell",
+      "Jesse Jackson"
+    ],
+    "category": "Politique",
     "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
-  },
-  {
-    "id": "748",
-    "question": "Quel est le plus grand reptile terrestre actuel ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Varan de Komodo",
-      "Tortue des Galápagos",
-      "Anaconda vert"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
-  },
-  {
-    "id": "717",
-    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
-    "answer": "Karasu-tengu",
-    "badAnswers": [
-      "Tengu",
-      "Oni",
-      "Kappa"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
+    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
   }
 ]
