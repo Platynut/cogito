@@ -1,132 +1,132 @@
 [
   {
-    "id": "422",
-    "question": "Quel est le nom du plus grand lac d’eau douce du monde par superficie ?",
-    "answer": "Lac Supérieur",
+    "id": "1171",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "Lac Baïkal",
-      "Lac Michigan",
-      "Lac Victoria"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Supérieur, situé entre les États-Unis et le Canada, est le plus grand lac d’eau douce du monde par superficie, couvrant environ 82 100 km². Le lac Baïkal est le plus profond, et le lac Michigan et le lac Victoria sont plus petits en superficie."
-  },
-  {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
-    "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
-  },
-  {
-    "id": "586",
-    "question": "Quel scientifique a découvert la théorie quantique des champs ?",
-    "answer": "Paul Dirac",
-    "badAnswers": [
-      "Werner Heisenberg",
-      "Max Planck",
-      "Richard Feynman"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Paul Dirac a posé les bases de la théorie quantique des champs dans les années 1920, intégrant la relativité à la mécanique quantique. Heisenberg, Planck et Feynman ont contribué à d'autres aspects de la physique quantique."
-  },
-  {
-    "id": "479",
-    "question": "Quel artiste a peint Le Jardin des délices ?",
-    "answer": "Jérôme Bosch",
-    "badAnswers": [
-      "Pieter Bruegel l'Ancien",
-      "Albrecht Dürer",
-      "Jan van Eyck"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
-  },
-  {
-    "id": "573",
-    "question": "Quel est la capitale du Maroc ?",
-    "answer": "Rabat",
-    "badAnswers": [
-      "Casablanca",
-      "Marrakech",
-      "Fès"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
-  },
-  {
-    "id": "1268",
-    "question": "Quel est le nom de l'auteur de 'Le Vieil Homme et la Mer' ?",
-    "answer": "Ernest Hemingway",
-    "badAnswers": [
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Ernest Hemingway a écrit 'Le Vieil Homme et la Mer' (1952), un roman sur la lutte d'un pêcheur cubain contre un énorme poisson."
-  },
-  {
-    "id": "217",
-    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
-    "answer": "Pays-Bas",
-    "badAnswers": [
-      "Belgique",
-      "Suisse",
-      "France"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
-  },
-  {
-    "id": "1958",
-    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "The Band"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
   },
   {
-    "id": "1010",
-    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2014 ?",
-    "answer": "Allemagne",
+    "id": "861",
+    "question": "Dans Spider-Man (2018), quel est le nom de l'antagoniste principal ?",
+    "answer": "Docteur Octopus",
     "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Espagne"
+      "Bouffon Vert",
+      "Vautour",
+      "Rhino"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Allemagne a remporté la Coupe du Monde 2014 en battant l'Argentine 1-0 en finale, grâce à un but de Mario Götze en prolongations."
-  },
-  {
-    "id": "63",
-    "question": "Qui était le premier président noir des États-Unis ?",
-    "answer": "Barack Obama",
-    "badAnswers": [
-      "Martin Luther King",
-      "Colin Powell",
-      "Jesse Jackson"
-    ],
-    "category": "Politique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
+    "description": "Le Docteur Octopus (Otto Octavius) est l'antagoniste principal de Spider-Man (2018) sur PS4, utilisant ses bras mécaniques. Le Bouffon Vert, le Vautour et Rhino sont d'autres ennemis."
+  },
+  {
+    "id": "235",
+    "question": "Quelle est la lune la plus large du système solaire ?",
+    "answer": "Ganymède",
+    "badAnswers": [
+      "Titan",
+      "Lune",
+      "Europe"
+    ],
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "Ganymède, lune de Jupiter, est plus grande que Mercure (5 268 km de diamètre). Titan (Saturne) est la 2e, notre Lune la 5e, Europe (Jupiter) la 6e."
+  },
+  {
+    "id": "1100",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Smash Bros.",
+      "Animal Crossing",
+      "Splatoon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+  },
+  {
+    "id": "393",
+    "question": "Dans Star Wars, quel est le nom du droïde compagnon de C-3PO ?",
+    "answer": "R2-D2",
+    "badAnswers": [
+      "BB-8",
+      "K-2SO",
+      "IG-88"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "R2-D2 est le droïde astromécano compagnon de C-3PO dans Star Wars, connu pour son courage et ses bips caractéristiques. Les deux forment un duo iconique. BB-8, K-2SO et IG-88 sont d’autres droïdes, mais R2-D2 est le partenaire principal de C-3PO."
+  },
+  {
+    "id": "1121",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2013 ?",
+    "answer": "12 Years a Slave",
+    "badAnswers": [
+      "Gravity",
+      "Dallas Buyers Club",
+      "Her"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "12 Years a Slave, réalisé par Steve McQueen, a remporté l'Oscar du meilleur film en 2013, racontant l'histoire vraie d'un homme réduit en esclavage."
+  },
+  {
+    "id": "2138",
+    "question": "Quel est le nom de l'auteur de 'Le Métier d'homme' ?",
+    "answer": "Alexandre Jollien",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Alexandre Jollien a écrit 'Le Métier d'homme' (2002), un essai philosophique sur la condition humaine et le handicap."
+  },
+  {
+    "id": "174",
+    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
+    "answer": "1982",
+    "badAnswers": [
+      "1983",
+      "1985",
+      "1980"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
+  },
+  {
+    "id": "544",
+    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
+    "answer": "Le vaisseau",
+    "badAnswers": [
+      "Radiance",
+      "Grimm",
+      "Hornet"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
+  },
+  {
+    "id": "74",
+    "question": "Quelle épice est obtenue à partir du crocus ?",
+    "answer": "Safran",
+    "badAnswers": [
+      "Curcuma",
+      "Cannelle",
+      "Cardamome"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
   }
 ]
