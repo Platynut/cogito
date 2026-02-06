@@ -1,132 +1,132 @@
 [
   {
-    "id": "614",
-    "question": "Qui est le dieu de la lune dans la mythologie japonaise ?",
-    "answer": "Tsukuyomi",
+    "id": "1293",
+    "question": "Quel est le nom de l'auteur de 'L'Alchimiste' ?",
+    "answer": "Paulo Coelho",
     "badAnswers": [
-      "Amaterasu",
-      "Susanoo",
-      "Benzaiten"
+      "Gabriel García Márquez",
+      "Isabel Allende",
+      "Jorge Luis Borges"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Paulo Coelho a écrit 'L'Alchimiste' (1988), un roman philosophique sur la quête d'un jeune Andalou suivant sa légende personnelle."
+  },
+  {
+    "id": "1210",
+    "question": "Quel est la capitale du Soudan ?",
+    "answer": "Khartoum",
+    "badAnswers": [
+      "Omdurman",
+      "Port-Soudan",
+      "Kassala"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Khartoum, capitale du Soudan, est située au confluent du Nil Bleu et du Nil Blanc, un centre politique et économique clé."
+  },
+  {
+    "id": "690",
+    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+  },
+  {
+    "id": "106",
+    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
+    "answer": "Raymond Domenech",
+    "badAnswers": [
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Michel Hidalgo"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
+  },
+  {
+    "id": "608",
+    "question": "Quels dieux sont considérés comme les créateurs du Japon ?",
+    "answer": "Izanagi et Izanami",
+    "badAnswers": [
+      "Raijin et Fujin",
+      "Susanoo et Amaterasu",
+      "Hachiman et Inari"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Tsukuyomi incarne le calme et le mystère de la nuit."
+    "description": "Izanagi et Izanami ont formé les îles du Japon et sont les parents de nombreux kami."
   },
   {
-    "id": "241",
-    "question": "Quelle est la signification de 'rex' dans le nom T-rex ?",
-    "answer": "Roi",
+    "id": "496",
+    "question": "Quel est le plus grand arbre du monde ?",
+    "answer": "Séquoia géant",
     "badAnswers": [
-      "Tueur",
-      "Géant",
-      "Dominant"
+      "Baobab",
+      "Pin de Bristlecone",
+      "Chêne pédonculé"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "'Rex' signifie 'roi' en latin, soulignant la dominance du T. rex parmi les dinosaures. 'Tyranno' vient du grec 'tyrannos' (despote)."
+    "description": "Le séquoia géant est le plus grand arbre du monde en volume, pouvant atteindre 85 mètres de haut et un volume massif. Le spécimen 'General Sherman' est célèbre. Le baobab, le pin de Bristlecone et le chêne pédonculé sont impressionnants, mais moins volumineux."
   },
   {
-    "id": "215",
-    "question": "De quel pouvoir le président de la République française dispose-t-il ?",
-    "answer": "Exécutif",
+    "id": "1401",
+    "question": "Quel est la capitale de Brunei ?",
+    "answer": "Bandar Seri Begawan",
     "badAnswers": [
-      "Législatif",
-      "Judiciaire",
-      "Tous les pouvoirs"
+      "Kuala Belait",
+      "Seria",
+      "Tutong"
     ],
-    "category": "Politique",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le président français incarne l'autorité exécutive. Le pouvoir législatif revient au Parlement, et le judiciaire aux cours et tribunaux. La séparation des pouvoirs empêche qu'il les cumule tous."
+    "description": "Bandar Seri Begawan, capitale de Brunei, est connue pour ses mosquées majestueuses, comme Omar Ali Saifuddien, et son village sur pilotis."
   },
   {
-    "id": "80",
-    "question": "Quelle est la vitesse de la lumière dans le vide ?",
-    "answer": "299 792 458 m/s",
+    "id": "21",
+    "question": "Quel langage de programmation a créé Guido van Rossum ?",
+    "answer": "Python",
     "badAnswers": [
-      "150 000 km/s",
-      "1 million km/h",
-      "3 000 km/s"
+      "Java",
+      "C++",
+      "JavaScript"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Développé en 1991, Python doit son nom à la troupe de comiques Monty Python, favorite de son créateur."
+  },
+  {
+    "id": "1516",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
+    "answer": "Berkélium",
+    "badAnswers": [
+      "Brome",
+      "Beryllium",
+      "Bore"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Cette constante physique fondamentale est notée 'c'. Rien ne peut se déplacer plus vite selon la théorie de la relativité d'Einstein."
+    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
   },
   {
-    "id": "739",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Pikmin ?",
-    "answer": "Olimar",
+    "id": "1949",
+    "question": "Quel est le nom de l'auteur de 'Les Communistes' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
-      "Alph",
-      "Louie",
-      "Brittany"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Olimar est le protagoniste de la série Pikmin et un personnage jouable dans Super Smash Bros. Ultimate, commandant des Pikmin. Alph, Louie et Brittany sont d'autres personnages de la série."
-  },
-  {
-    "id": "257",
-    "question": "Dans quel océan se situe l'île de la Réunion ?",
-    "answer": "L'océan Indien",
-    "badAnswers": [
-      "L'océan Atlantique",
-      "L'océan Pacifique",
-      "L'océan Austral"
-    ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
-  },
-  {
-    "id": "108",
-    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
-    "answer": "2000",
-    "badAnswers": [
-      "1999",
-      "2001",
-      "2002"
-    ],
-    "category": "Jeux de société",
-    "difficulty": "difficile",
-    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
-  },
-  {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
-    "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
-  },
-  {
-    "id": "1757",
-    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
-  },
-  {
-    "id": "1022",
-    "question": "Dans quel pays se trouve la ville de Machu Picchu ?",
-    "answer": "Pérou",
-    "badAnswers": [
-      "Bolivie",
-      "Chili",
-      "Équateur"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Machu Picchu, ancienne cité inca située dans les Andes, est un site archéologique emblématique du Pérou, inscrit au patrimoine mondial de l'UNESCO."
+    "description": "Louis Aragon a écrit 'Les Communistes' (1949-1951), un cycle romanesque sur l'engagement politique."
   }
 ]
