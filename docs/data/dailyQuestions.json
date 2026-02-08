@@ -1,132 +1,132 @@
 [
   {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
+    "id": "1937",
+    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1014",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
-    "answer": "The Last of Us",
-    "badAnswers": [
-      "Uncharted",
-      "Horizon Zero Dawn",
-      "Tomb Raider"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
-  },
-  {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
-    "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
-  },
-  {
-    "id": "1657",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1927/28 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "Sunrise"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté le premier Oscar du meilleur film en 1927/28, un film muet sur la Première Guerre mondiale."
-  },
-  {
-    "id": "1196",
-    "question": "Quel est la capitale du Sénégal ?",
-    "answer": "Dakar",
-    "badAnswers": [
-      "Thiès",
-      "Saint-Louis",
-      "Ziguinchor"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
-  },
-  {
-    "id": "1348",
-    "question": "Quel est le nom du groupe qui a chanté 'Psycho Therapy' ?",
-    "answer": "The Ramones",
-    "badAnswers": [
-      "The Clash",
-      "Sex Pistols",
-      "The Stooges"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Psycho Therapy', sorti en 1983 par The Ramones, est une chanson punk-rock énergique tirée de l'album Subterranean Jungle."
-  },
-  {
-    "id": "1144",
-    "question": "Quel est le nom de l'auteur de 'Anna Karénine' ?",
-    "answer": "Léon Tolstoï",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Léon Tolstoï a écrit 'Anna Karénine' (1878), un roman réaliste sur l'amour tragique et les tensions sociales dans la Russie du XIXe siècle."
+    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
   },
   {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
+    "id": "810",
+    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
+    "answer": "Glacier Lambert",
     "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
+      "Glacier Beardmore",
+      "Glacier Ross",
+      "Glacier Pine Island"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
   },
   {
-    "id": "188",
-    "question": "Comment s’appelle le capitaine qui veut se venger de Moby-Dick dans le roman d’Hermann Melville ?",
-    "answer": "Capitaine Achab",
+    "id": "260",
+    "question": "Quel est le nom du personnage principal de la série 'Breaking Bad' ?",
+    "answer": "Walter White",
     "badAnswers": [
-      "Capitaine Crochet",
-      "Capitaine Fracasse",
-      "Capitaine Némo"
+      "Jesse Pinkman",
+      "Saul Goodman",
+      "Gus Fring"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "'Breaking Bad' suit Walter White, un professeur de chimie devenu fabricant de méthamphétamine après un diagnostic de cancer. Jesse Pinkman est son ancien élève associé, Saul Goodman leur avocat."
+  },
+  {
+    "id": "740",
+    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
+    "answer": "Umberto Eco",
+    "badAnswers": [
+      "Italo Calvino",
+      "Dario Fo",
+      "Luigi Pirandello"
     ],
     "category": "Littérature",
     "difficulty": "normal",
-    "description": "Le capitaine Achab, dans 'Moby-Dick', est obsédé par sa vengeance contre le cachalot blanc. Crochet est dans 'Peter Pan', Fracasse dans le roman de Théophile Gautier, et Némo dans '20 000 lieues sous les mers'."
+    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1578",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Arbiter ?",
-    "answer": "Halo",
+    "id": "713",
+    "question": "Quelle femme japonaise a un cou pouvant s'allonger surnaturellement ?",
+    "answer": "Rokurokubi",
     "badAnswers": [
-      "Gears of War",
-      "Destiny",
-      "Call of Duty"
+      "Jorōgumo",
+      "Iso-onna",
+      "Yuki-onna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "La Rokurokubi étend son cou la nuit pour espionner ou effrayer les humains."
+  },
+  {
+    "id": "263",
+    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
+    "answer": "The Walking Dead",
+    "badAnswers": [
+      "Game of Thrones",
+      "Stranger Things",
+      "Lost"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+  },
+  {
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
+    "badAnswers": [
+      "Iode",
+      "Indium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
+  },
+  {
+    "id": "710",
+    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
+    "answer": "Annie",
+    "badAnswers": [
+      "Lux",
+      "Ahri",
+      "Morgana"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Arbiter, guerrier élite Sangheili, est un personnage important de la série Halo, jouant un rôle clé dans les conflits intergalactiques."
+    "difficulty": "normal",
+    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
   }
 ]
