@@ -1,8 +1,8 @@
 [
   {
-    "id": "1937",
-    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "2005",
+    "question": "Quel est le nom de l'auteur de 'La Nuit des temps' ?",
+    "answer": "René Barjavel",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -10,123 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
+    "description": "René Barjavel a écrit 'La Nuit des temps' (1968), un roman de science-fiction sur l'amour et une civilisation perdue."
   },
   {
-    "id": "810",
-    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
-    "answer": "Glacier Lambert",
+    "id": "1814",
+    "question": "Quel est le nom de l'auteur de 'Le Tour du monde en quatre-vingts jours' ?",
+    "answer": "Jules Verne",
     "badAnswers": [
-      "Glacier Beardmore",
-      "Glacier Ross",
-      "Glacier Pine Island"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Jules Verne a écrit 'Le Tour du monde en quatre-vingts jours' (1873), un roman d'aventure sur un pari audacieux."
+  },
+  {
+    "id": "1947",
+    "question": "Quel est le nom du groupe qui a chanté 'Ticket to Ride' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Ticket to Ride', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Help!."
+  },
+  {
+    "id": "2120",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) ?",
+    "answer": "Robert Dennard",
+    "badAnswers": [
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie essentielle pour les ordinateurs modernes."
+  },
+  {
+    "id": "1923",
+    "question": "Quel est le nom de l'inventeur du premier système de climatisation ?",
+    "answer": "Willis Carrier",
+    "badAnswers": [
+      "John Gorrie",
+      "Carl von Linde",
+      "Jacob Perkins"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Willis Carrier a inventé le premier système de climatisation moderne en 1902, utilisé pour contrôler l'humidité."
+  },
+  {
+    "id": "1598",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Zelda ?",
+    "answer": "The Legend of Zelda",
+    "badAnswers": [
+      "Super Mario",
+      "Metroid",
+      "Fire Emblem"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zelda, princesse d'Hyrule, est un personnage central de la série The Legend of Zelda, souvent sauvée par le héros Link."
+  },
+  {
+    "id": "208",
+    "question": "Quel édifice datant du VIIe siècle, lieu le plus sacré de l'islam, est recouvert d'une étoffe de soie noire ?",
+    "answer": "La Kaaba",
+    "badAnswers": [
+      "La mosquée Al-Aqsa",
+      "Le Dôme du Rocher",
+      "La Grande Mosquée de Kairouan"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Kaaba, à La Mecque, est recouverte d'une kiswa (étoffe noire) brodée de versets coraniques. Al-Aqsa et le Dôme du Rocher sont à Jérusalem."
+  },
+  {
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+  },
+  {
+    "id": "1703",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
+    "answer": "Walter Bruch",
+    "badAnswers": [
+      "John Logie Baird",
+      "Philo Farnsworth",
+      "Vladimir Zworykin"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
+  },
+  {
+    "id": "1389",
+    "question": "Quel est la capitale du Bhoutan ?",
+    "answer": "Thimphou",
+    "badAnswers": [
+      "Paro",
+      "Punakha",
+      "Jakar"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
-  },
-  {
-    "id": "260",
-    "question": "Quel est le nom du personnage principal de la série 'Breaking Bad' ?",
-    "answer": "Walter White",
-    "badAnswers": [
-      "Jesse Pinkman",
-      "Saul Goodman",
-      "Gus Fring"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "'Breaking Bad' suit Walter White, un professeur de chimie devenu fabricant de méthamphétamine après un diagnostic de cancer. Jesse Pinkman est son ancien élève associé, Saul Goodman leur avocat."
-  },
-  {
-    "id": "740",
-    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
-    "answer": "Umberto Eco",
-    "badAnswers": [
-      "Italo Calvino",
-      "Dario Fo",
-      "Luigi Pirandello"
-    ],
-    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "713",
-    "question": "Quelle femme japonaise a un cou pouvant s'allonger surnaturellement ?",
-    "answer": "Rokurokubi",
-    "badAnswers": [
-      "Jorōgumo",
-      "Iso-onna",
-      "Yuki-onna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "La Rokurokubi étend son cou la nuit pour espionner ou effrayer les humains."
-  },
-  {
-    "id": "263",
-    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
-    "answer": "The Walking Dead",
-    "badAnswers": [
-      "Game of Thrones",
-      "Stranger Things",
-      "Lost"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
-  },
-  {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
-    "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
-  },
-  {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
-    "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
-  },
-  {
-    "id": "710",
-    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
-    "answer": "Annie",
-    "badAnswers": [
-      "Lux",
-      "Ahri",
-      "Morgana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
-  },
-  {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
-    "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
   }
 ]
