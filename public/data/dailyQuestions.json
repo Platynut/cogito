@@ -1,34 +1,8 @@
 [
   {
-    "id": "2005",
-    "question": "Quel est le nom de l'auteur de 'La Nuit des temps' ?",
-    "answer": "René Barjavel",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "René Barjavel a écrit 'La Nuit des temps' (1968), un roman de science-fiction sur l'amour et une civilisation perdue."
-  },
-  {
-    "id": "1814",
-    "question": "Quel est le nom de l'auteur de 'Le Tour du monde en quatre-vingts jours' ?",
-    "answer": "Jules Verne",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Le Tour du monde en quatre-vingts jours' (1873), un roman d'aventure sur un pari audacieux."
-  },
-  {
-    "id": "1947",
-    "question": "Quel est le nom du groupe qui a chanté 'Ticket to Ride' ?",
-    "answer": "The Beatles",
+    "id": "1827",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Dog' ?",
+    "answer": "Led Zeppelin",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
@@ -36,97 +10,123 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Ticket to Ride', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Help!."
+    "description": "'Black Dog', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
   },
   {
-    "id": "2120",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) ?",
-    "answer": "Robert Dennard",
+    "id": "1916",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
+    "answer": "Martin Cooper",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie essentielle pour les ordinateurs modernes."
-  },
-  {
-    "id": "1923",
-    "question": "Quel est le nom de l'inventeur du premier système de climatisation ?",
-    "answer": "Willis Carrier",
-    "badAnswers": [
-      "John Gorrie",
-      "Carl von Linde",
-      "Jacob Perkins"
+      "Alexander Graham Bell",
+      "Reginald Fessenden",
+      "John Pierce"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Willis Carrier a inventé le premier système de climatisation moderne en 1902, utilisé pour contrôler l'humidité."
+    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
   },
   {
-    "id": "1598",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Zelda ?",
-    "answer": "The Legend of Zelda",
+    "id": "896",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
+    "answer": "Ciri",
     "badAnswers": [
-      "Super Mario",
-      "Metroid",
-      "Fire Emblem"
+      "Yennefer",
+      "Triss",
+      "Keira"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Zelda, princesse d'Hyrule, est un personnage central de la série The Legend of Zelda, souvent sauvée par le héros Link."
+    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
   },
   {
-    "id": "208",
-    "question": "Quel édifice datant du VIIe siècle, lieu le plus sacré de l'islam, est recouvert d'une étoffe de soie noire ?",
-    "answer": "La Kaaba",
+    "id": "609",
+    "question": "Quel kami protège les enfants et les défunts dans la mythologie japonaise ?",
+    "answer": "Jizo",
     "badAnswers": [
-      "La mosquée Al-Aqsa",
-      "Le Dôme du Rocher",
-      "La Grande Mosquée de Kairouan"
+      "Kannon",
+      "Ebisu",
+      "Tenjin"
     ],
-    "category": "Histoire",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "La Kaaba, à La Mecque, est recouverte d'une kiswa (étoffe noire) brodée de versets coraniques. Al-Aqsa et le Dôme du Rocher sont à Jérusalem."
+    "description": "Jizo aide les enfants à traverser la rivière Sanzu dans l'au-delà."
   },
   {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
+    "id": "563",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la ville principale de Novigrad ?",
+    "answer": "Novigrad",
     "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
+      "Oxenfurt",
+      "Velen",
+      "Skellige"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+    "description": "Novigrad est la ville principale de The Witcher 3: Wild Hunt, un centre commercial animé. Oxenfurt est une ville universitaire, Velen une région rurale, et Skellige un archipel."
   },
   {
-    "id": "1703",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
-    "answer": "Walter Bruch",
+    "id": "1709",
+    "question": "Quel est la capitale du Kazakhstan ?",
+    "answer": "Nour-Soultan",
     "badAnswers": [
-      "John Logie Baird",
-      "Philo Farnsworth",
-      "Vladimir Zworykin"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
-  },
-  {
-    "id": "1389",
-    "question": "Quel est la capitale du Bhoutan ?",
-    "answer": "Thimphou",
-    "badAnswers": [
-      "Paro",
-      "Punakha",
-      "Jakar"
+      "Almaty",
+      "Shymkent",
+      "Karaganda"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
+    "description": "Nour-Soultan, capitale du Kazakhstan, est une ville moderne connue pour son architecture futuriste, comme la tour Bayterek."
+  },
+  {
+    "id": "1486",
+    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
+    "answer": "The Cure",
+    "badAnswers": [
+      "Depeche Mode",
+      "New Order",
+      "The Smiths"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
+  },
+  {
+    "id": "1437",
+    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
+    "answer": "Metallica",
+    "badAnswers": [
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
+  },
+  {
+    "id": "491",
+    "question": "Quel est le nom du plus grand volcan d'Europe ?",
+    "answer": "Etna",
+    "badAnswers": [
+      "Vésuve",
+      "Stromboli",
+      "Hekla"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
+  },
+  {
+    "id": "1107",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
+    "answer": "Argo",
+    "badAnswers": [
+      "Lincoln",
+      "Life of Pi",
+      "Django Unchained"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
   }
 ]
