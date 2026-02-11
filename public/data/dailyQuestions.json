@@ -1,132 +1,132 @@
 [
   {
-    "id": "1827",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Dog' ?",
-    "answer": "Led Zeppelin",
+    "id": "471",
+    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
+    "answer": "Pont de Çanakkale 1915",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Pont du Golden Gate",
+      "Pont Akashi-Kaikyo",
+      "Pont de Xihoumen"
     ],
-    "category": "Musique",
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+  },
+  {
+    "id": "564",
+    "question": "Quel est la capitale du Pérou ?",
+    "answer": "Lima",
+    "badAnswers": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Black Dog', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
+    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
   },
   {
-    "id": "1916",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
-    "answer": "Martin Cooper",
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
     "badAnswers": [
-      "Alexander Graham Bell",
-      "Reginald Fessenden",
-      "John Pierce"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
-  },
-  {
-    "id": "896",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière principale ?",
-    "answer": "Ciri",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ciri est la sorcière principale et personnage clé de The Witcher 3: Wild Hunt, protégée par Geralt. Yennefer, Triss et Keira sont d'autres sorcières."
-  },
-  {
-    "id": "609",
-    "question": "Quel kami protège les enfants et les défunts dans la mythologie japonaise ?",
-    "answer": "Jizo",
-    "badAnswers": [
-      "Kannon",
-      "Ebisu",
-      "Tenjin"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Jizo aide les enfants à traverser la rivière Sanzu dans l'au-delà."
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
   },
   {
-    "id": "563",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la ville principale de Novigrad ?",
-    "answer": "Novigrad",
+    "id": "1961",
+    "question": "Quel est le nom de l'auteur de 'Les Mandarins' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Oxenfurt",
-      "Velen",
-      "Skellige"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est la ville principale de The Witcher 3: Wild Hunt, un centre commercial animé. Oxenfurt est une ville universitaire, Velen une région rurale, et Skellige un archipel."
-  },
-  {
-    "id": "1709",
-    "question": "Quel est la capitale du Kazakhstan ?",
-    "answer": "Nour-Soultan",
-    "badAnswers": [
-      "Almaty",
-      "Shymkent",
-      "Karaganda"
-    ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Nour-Soultan, capitale du Kazakhstan, est une ville moderne connue pour son architecture futuriste, comme la tour Bayterek."
+    "description": "Simone de Beauvoir a écrit 'Les Mandarins' (1954), un roman sur les intellectuels parisiens après la guerre."
   },
   {
-    "id": "1486",
-    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
-    "answer": "The Cure",
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Depeche Mode",
-      "New Order",
-      "The Smiths"
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
-  },
-  {
-    "id": "1437",
-    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
-    "answer": "Metallica",
-    "badAnswers": [
-      "Megadeth",
-      "Slayer",
-      "Anthrax"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
-  },
-  {
-    "id": "491",
-    "question": "Quel est le nom du plus grand volcan d'Europe ?",
-    "answer": "Etna",
-    "badAnswers": [
-      "Vésuve",
-      "Stromboli",
-      "Hekla"
-    ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "L'Etna, situé en Sicile, Italie, est le plus grand volcan actif d'Europe, culminant à environ 3 326 mètres. Il est connu pour ses fréquentes éruptions. Le Vésuve, Stromboli et Hekla sont d'autres volcans européens, mais plus petits."
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1107",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2012 ?",
-    "answer": "Argo",
+    "id": "1381",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
+    "answer": "Kramer vs. Kramer",
     "badAnswers": [
-      "Lincoln",
-      "Life of Pi",
-      "Django Unchained"
+      "Apocalypse Now",
+      "All That Jazz",
+      "Norma Rae"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Argo, réalisé par Ben Affleck, a remporté l'Oscar du meilleur film en 2012, racontant l'opération de sauvetage d'otages américains en Iran."
+    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
+  },
+  {
+    "id": "1574",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Hs ?",
+    "answer": "Hassium",
+    "badAnswers": [
+      "Hélium",
+      "Hafnium",
+      "Holmium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le hassium, symbolisé par Hs, est un élément radioactif synthétique, nommé d'après la région allemande de Hesse."
+  },
+  {
+    "id": "406",
+    "question": "Quel est le nom de l’auteur de Les Fleurs du mal ?",
+    "answer": "Charles Baudelaire",
+    "badAnswers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Charles Baudelaire a publié Les Fleurs du mal en 1857, un recueil de poèmes symbolistes explorant la beauté, le mal et la modernité. C’est une œuvre majeure de la littérature française. Verlaine, Rimbaud et Mallarmé sont d’autres poètes symbolistes, mais ils n’ont pas écrit ce recueil."
+  },
+  {
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
+    "badAnswers": [
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+  },
+  {
+    "id": "1226",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
+    "answer": "Million Dollar Baby",
+    "badAnswers": [
+      "The Aviator",
+      "Ray",
+      "Sideways"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
   }
 ]
