@@ -1,132 +1,132 @@
 [
   {
-    "id": "471",
-    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
-    "answer": "Pont de Çanakkale 1915",
+    "id": "984",
+    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
+    "answer": "La famille Gothik",
     "badAnswers": [
-      "Pont du Golden Gate",
-      "Pont Akashi-Kaikyo",
-      "Pont de Xihoumen"
+      "La famille",
+      "La famille Simflouz",
+      "La famille Proud"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "difficile",
-    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
   },
   {
-    "id": "564",
-    "question": "Quel est la capitale du Pérou ?",
-    "answer": "Lima",
+    "id": "800",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
+    "answer": "Cappy",
     "badAnswers": [
-      "Cusco",
-      "Arequipa",
-      "Trujillo"
+      "Toad",
+      "Bowser",
+      "Luma"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
   },
   {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
+    "id": "825",
+    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
+    "answer": "Robert Boyle",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Jacques Charles",
+      "Joseph Gay-Lussac",
+      "Émile Clapeyron"
     ],
-    "category": "Mythologie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
   },
   {
-    "id": "1961",
-    "question": "Quel est le nom de l'auteur de 'Les Mandarins' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "1328",
+    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
+    "answer": "Pixies",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Nirvana",
+      "Radiohead",
+      "The Smashing Pumpkins"
     ],
-    "category": "Livres",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Les Mandarins' (1954), un roman sur les intellectuels parisiens après la guerre."
+    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
   },
   {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
+    "id": "361",
+    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
+    "answer": "Épée de Légende",
     "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
+      "Épée du Temps",
+      "Épée de Feu",
+      "Épée d’Ombre"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
   },
   {
-    "id": "1381",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
-    "answer": "Kramer vs. Kramer",
+    "id": "1486",
+    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
+    "answer": "The Cure",
     "badAnswers": [
-      "Apocalypse Now",
-      "All That Jazz",
-      "Norma Rae"
+      "Depeche Mode",
+      "New Order",
+      "The Smiths"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
   },
   {
-    "id": "1574",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Hs ?",
-    "answer": "Hassium",
+    "id": "746",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
+    "answer": "Ness",
     "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
+      "Lucas",
+      "Poo",
+      "Jeff"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
+  },
+  {
+    "id": "1597",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cn ?",
+    "answer": "Copernicium",
+    "badAnswers": [
+      "Cobalt",
+      "Cuivre",
+      "Chrome"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le hassium, symbolisé par Hs, est un élément radioactif synthétique, nommé d'après la région allemande de Hesse."
+    "description": "Le copernicium, symbolisé par Cn, est un élément radioactif synthétique, nommé d'après Nicolas Copernic, utilisé dans la recherche."
   },
   {
-    "id": "406",
-    "question": "Quel est le nom de l’auteur de Les Fleurs du mal ?",
-    "answer": "Charles Baudelaire",
+    "id": "1496",
+    "question": "Quel est le nom du groupe qui a chanté 'Personal Jesus' ?",
+    "answer": "Depeche Mode",
     "badAnswers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
+      "New Order",
+      "The Cure",
+      "The Smiths"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Personal Jesus', sorti en 1989 par Depeche Mode, est une chanson synthpop influente tirée de l'album Violator."
+  },
+  {
+    "id": "376",
+    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
+    "answer": "Herman Melville",
+    "badAnswers": [
+      "Nathaniel Hawthorne",
+      "Mark Twain",
+      "Walt Whitman"
     ],
     "category": "Littérature",
     "difficulty": "normal",
-    "description": "Charles Baudelaire a publié Les Fleurs du mal en 1857, un recueil de poèmes symbolistes explorant la beauté, le mal et la modernité. C’est une œuvre majeure de la littérature française. Verlaine, Rimbaud et Mallarmé sont d’autres poètes symbolistes, mais ils n’ont pas écrit ce recueil."
-  },
-  {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
-    "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
-  },
-  {
-    "id": "1226",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
-    "answer": "Million Dollar Baby",
-    "badAnswers": [
-      "The Aviator",
-      "Ray",
-      "Sideways"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
+    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
   }
 ]
