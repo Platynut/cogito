@@ -1,132 +1,132 @@
 [
   {
-    "id": "984",
-    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
-    "answer": "La famille Gothik",
+    "id": "431",
+    "question": "Dans League of Legends, quel champion est surnommé L’Explorateur prodigieux ?",
+    "answer": "Ezreal",
     "badAnswers": [
-      "La famille",
-      "La famille Simflouz",
-      "La famille Proud"
+      "Jayce",
+      "Caitlyn",
+      "Teemo"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
+    "difficulty": "normal",
+    "description": "Ezreal, surnommé L’Explorateur prodigieux dans League of Legends, est un champion tireur utilisant des attaques magiques à distance. Jayce, Caitlyn et Teemo ont d’autres titres et rôles distincts dans le jeu."
   },
   {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
+    "id": "531",
+    "question": "Dans Super Mario Odyssey, quel est le nom de la planète principale où Mario voyage ?",
+    "answer": "Terre",
     "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
+      "Lune",
+      "Champignon",
+      "Étoile"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
+    "description": "Dans Super Mario Odyssey, Mario voyage à travers différents royaumes sur la Terre, comme le Royaume des Chapeaux. La Lune est une destination finale, le Champignon est dans d'autres jeux, et l'Étoile est une entité différente."
   },
   {
-    "id": "825",
-    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
-    "answer": "Robert Boyle",
+    "id": "268",
+    "question": "Quel est le nom de la série de films qui suit les aventures d'un groupe de jeunes sorciers à Poudlard ?",
+    "answer": "Harry Potter",
     "badAnswers": [
+      "Le Seigneur des Anneaux",
+      "Le Trône de Fer",
+      "Percy Jackson"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "'Harry Potter' est une série de livres et de films qui suit les aventures du jeune sorcier Harry Potter et de ses amis Hermione Granger et Ron Weasley à l'école de sorcellerie Poudlard. Elle a été écrite par J.K. Rowling et est devenue un phénomène mondial."
+  },
+  {
+    "id": "1533",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
+    "answer": "Mendélévium",
+    "badAnswers": [
+      "Magnésium",
+      "Molybdène",
+      "Mercure"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
+  },
+  {
+    "id": "1190",
+    "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
+    "answer": "Athéna",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
+  },
+  {
+    "id": "84",
+    "question": "Quel est le seul continent sans désert ?",
+    "answer": "Europe",
+    "badAnswers": [
+      "Asie",
+      "Amérique du Sud",
+      "Australie"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
+  },
+  {
+    "id": "454",
+    "question": "Quel scientifique a découvert la loi des gaz parfaits ?",
+    "answer": "Émile Clapeyron",
+    "badAnswers": [
+      "Robert Boyle",
       "Jacques Charles",
-      "Joseph Gay-Lussac",
-      "Émile Clapeyron"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1328",
-    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
-    "answer": "Pixies",
-    "badAnswers": [
-      "Nirvana",
-      "Radiohead",
-      "The Smashing Pumpkins"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
-  },
-  {
-    "id": "361",
-    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
-    "answer": "Épée de Légende",
-    "badAnswers": [
-      "Épée du Temps",
-      "Épée de Feu",
-      "Épée d’Ombre"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
-  },
-  {
-    "id": "1486",
-    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
-    "answer": "The Cure",
-    "badAnswers": [
-      "Depeche Mode",
-      "New Order",
-      "The Smiths"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
-  },
-  {
-    "id": "746",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
-    "answer": "Ness",
-    "badAnswers": [
-      "Lucas",
-      "Poo",
-      "Jeff"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
-  },
-  {
-    "id": "1597",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cn ?",
-    "answer": "Copernicium",
-    "badAnswers": [
-      "Cobalt",
-      "Cuivre",
-      "Chrome"
+      "Joseph Louis Gay-Lussac"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le copernicium, symbolisé par Cn, est un élément radioactif synthétique, nommé d'après Nicolas Copernic, utilisé dans la recherche."
+    "description": "Émile Clapeyron a formulé la loi des gaz parfaits en 1834, combinant les travaux de Boyle, Charles et Gay-Lussac dans l’équation PV=nRT. Boyle, Charles et Gay-Lussac ont contribué à des lois partielles sur les gaz, mais Clapeyron a unifié ces concepts."
   },
   {
-    "id": "1496",
-    "question": "Quel est le nom du groupe qui a chanté 'Personal Jesus' ?",
-    "answer": "Depeche Mode",
+    "id": "482",
+    "question": "Dans Harry Potter, quel est le nom du professeur de potions à Poudlard dans le premier livre ?",
+    "answer": "Severus Rogue",
     "badAnswers": [
-      "New Order",
-      "The Cure",
-      "The Smiths"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Personal Jesus', sorti en 1989 par Depeche Mode, est une chanson synthpop influente tirée de l'album Violator."
-  },
-  {
-    "id": "376",
-    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
-    "answer": "Herman Melville",
-    "badAnswers": [
-      "Nathaniel Hawthorne",
-      "Mark Twain",
-      "Walt Whitman"
+      "Albus Dumbledore",
+      "Minerva McGonagall",
+      "Horace Slughorn"
     ],
     "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Severus Rogue est le professeur de potions à Poudlard dans Harry Potter à l'école des sorciers. Connu pour son comportement sévère, il joue un rôle clé dans la série. Dumbledore est le directeur, McGonagall enseigne la métamorphose, et Slughorn devient professeur plus tard."
+  },
+  {
+    "id": "1171",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
+    "answer": "Lynyrd Skynyrd",
+    "badAnswers": [
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "The Band"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
+  },
+  {
+    "id": "679",
+    "question": "Quel est le plus lourd poisson osseux du monde ?",
+    "answer": "Poisson-lune",
+    "badAnswers": [
+      "Régalec",
+      "Thon rouge",
+      "Espadon"
+    ],
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
+    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
   }
 ]
