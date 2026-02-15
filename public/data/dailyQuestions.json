@@ -1,132 +1,132 @@
 [
   {
-    "id": "50",
-    "question": "Quelle ville française est célèbre pour sa moutarde ?",
-    "answer": "Dijon",
+    "id": "512",
+    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Ère viking",
     "badAnswers": [
-      "Bordeaux",
-      "Lyon",
-      "Reims"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "La moutarde de Dijon, apparue au 14e siècle, doit son nom à la ville bien que la plupart des graines soient maintenant importées."
-  },
-  {
-    "id": "1949",
-    "question": "Quel est le nom de l'auteur de 'Les Communistes' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Communistes' (1949-1951), un cycle romanesque sur l'engagement politique."
-  },
-  {
-    "id": "2018",
-    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
-  },
-  {
-    "id": "155",
-    "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
-    "answer": "Florence Artaud",
-    "badAnswers": [
-      "Isabelle Autissier",
-      "Mathilde Géron",
-      "Maud Fontenoy"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Florence Artaud a été la première femme à remporter la Transat anglaise en 1990 avec le bateau 'Pierre 1er'. Isabelle Autissier et Maud Fontenoy sont d'autres navigatrices célèbres."
-  },
-  {
-    "id": "601",
-    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
-    "answer": "Raijin",
-    "badAnswers": [
-      "Fujin",
-      "Susanoo",
-      "Hachiman"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
-  },
-  {
-    "id": "577",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
-    "answer": "Gilderoy Lockhart",
-    "badAnswers": [
-      "Remus Lupin",
-      "Alastor Maugrey",
-      "Dolores Ombrage"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
-  },
-  {
-    "id": "1720",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Moyen Âge tardif",
+      "Renaissance",
+      "Époque romaine"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
+    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
   },
   {
-    "id": "792",
-    "question": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
-    "answer": "Thomas Graham",
+    "id": "1655",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
+    "answer": "Elisha Otis",
     "badAnswers": [
-      "John Dalton",
-      "Robert Boyle",
-      "Joseph Gay-Lussac"
+      "Thomas Edison",
+      "George Westinghouse",
+      "Nikola Tesla"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
+  },
+  {
+    "id": "506",
+    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
+    "answer": "Navi",
+    "badAnswers": [
+      "Tatl",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "225",
+    "question": "Quelles célèbres fontaines furent implantées en premier à Paris ?",
+    "answer": "Wallace",
+    "badAnswers": [
+      "Morris",
+      "Miller",
+      "Barnett"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Les fontaines Wallace, offertes par le philanthrope Richard Wallace en 1872, fournissaient de l'eau potable gratuitement à Paris. Les autres noms sont inventés."
+  },
+  {
+    "id": "1732",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
+    "answer": "Manfred von Ardenne",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+  },
+  {
+    "id": "852",
+    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
+    "answer": "Ellie",
+    "badAnswers": [
+      "Tess",
+      "Marlene",
+      "Sarah"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
+  },
+  {
+    "id": "48",
+    "question": "Quelle console a lancé la franchise Mario ?",
+    "answer": "NES",
+    "badAnswers": [
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Mario apparaît d'abord dans 'Donkey Kong' (1981) mais devient star avec 'Super Mario Bros.' sur NES (Nintendo Entertainment System) en 1985."
+  },
+  {
+    "id": "1529",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
+    "answer": "Fermium",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Fer"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Thomas Graham a formulé la loi de la diffusion des gaz au XIXe siècle, expliquant le mouvement des gaz à travers une barrière poreuse. Dalton, Boyle et Gay-Lussac ont contribué à d'autres lois des gaz."
+    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
   },
   {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
+    "id": "146",
+    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
+    "answer": "L'endive",
     "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
+      "Le radis",
+      "L'oignon",
+      "Le chou-fleur"
     ],
-    "category": "Jeux vidéo",
+    "category": "Agriculture",
     "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
   },
   {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
+    "id": "292",
+    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
+    "answer": "Point d'exclamation",
     "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
+      "Signe dollar",
+      "Signe pourcentage",
+      "Astérisque"
     ],
-    "category": "Musique",
+    "category": "Informatique",
     "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
   }
 ]
