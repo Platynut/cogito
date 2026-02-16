@@ -1,132 +1,132 @@
 [
   {
-    "id": "512",
-    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Ère viking",
+    "id": "1963",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Moyen Âge tardif",
-      "Renaissance",
-      "Époque romaine"
+      "Georg Haas",
+      "John Abel",
+      "Nils Alwall"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
-  },
-  {
-    "id": "1655",
-    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
-    "answer": "Elisha Otis",
-    "badAnswers": [
-      "Thomas Edison",
-      "George Westinghouse",
-      "Nikola Tesla"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
-  },
-  {
-    "id": "506",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
-    "answer": "Navi",
-    "badAnswers": [
-      "Tatl",
-      "Midna",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "225",
-    "question": "Quelles célèbres fontaines furent implantées en premier à Paris ?",
-    "answer": "Wallace",
-    "badAnswers": [
-      "Morris",
-      "Miller",
-      "Barnett"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Les fontaines Wallace, offertes par le philanthrope Richard Wallace en 1872, fournissaient de l'eau potable gratuitement à Paris. Les autres noms sont inventés."
-  },
-  {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
+    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
   },
   {
-    "id": "852",
-    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
-    "answer": "Ellie",
+    "id": "1516",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
+    "answer": "Berkélium",
     "badAnswers": [
-      "Tess",
-      "Marlene",
-      "Sarah"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
-  },
-  {
-    "id": "48",
-    "question": "Quelle console a lancé la franchise Mario ?",
-    "answer": "NES",
-    "badAnswers": [
-      "Game Boy",
-      "Super Nintendo",
-      "Nintendo 64"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "Mario apparaît d'abord dans 'Donkey Kong' (1981) mais devient star avec 'Super Mario Bros.' sur NES (Nintendo Entertainment System) en 1985."
-  },
-  {
-    "id": "1529",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fm ?",
-    "answer": "Fermium",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fer"
+      "Brome",
+      "Beryllium",
+      "Bore"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le fermium, symbolisé par Fm, est un élément radioactif synthétique, nommé d'après Enrico Fermi, utilisé dans la recherche nucléaire."
+    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
   },
   {
-    "id": "146",
-    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
-    "answer": "L'endive",
+    "id": "2095",
+    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
+    "answer": "Dale Heatherington",
     "badAnswers": [
-      "Le radis",
-      "L'oignon",
-      "Le chou-fleur"
-    ],
-    "category": "Agriculture",
-    "difficulty": "normal",
-    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
-  },
-  {
-    "id": "292",
-    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
-    "answer": "Point d'exclamation",
-    "badAnswers": [
-      "Signe dollar",
-      "Signe pourcentage",
-      "Astérisque"
+      "Dennis Hayes",
+      "Vinton Cerf",
+      "Ray Tomlinson"
     ],
     "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
+  },
+  {
+    "id": "440",
+    "question": "Quel artiste a créé la sculpture Le Penseur ?",
+    "answer": "Auguste Rodin",
+    "badAnswers": [
+      "Michel-Ange",
+      "Donatello",
+      "Bernin"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
+  },
+  {
+    "id": "720",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
+    "answer": "Slurpy Swamp",
+    "badAnswers": [
+      "Misty Meadows",
+      "Craggy Cliffs",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
+  },
+  {
+    "id": "1163",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
+    "answer": "Cornelius Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+  },
+  {
+    "id": "611",
+    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
+    "answer": "Oscar Wilde",
+    "badAnswers": [
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
+    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
+    "badAnswers": [
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
+  },
+  {
+    "id": "1028",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
+    "badAnswers": [
+      "Vénus",
+      "Mars",
+      "Jupiter"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
+  },
+  {
+    "id": "1321",
+    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
+    "answer": "Ernst Ruska",
+    "badAnswers": [
+      "Hans Jansen",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
   }
 ]
