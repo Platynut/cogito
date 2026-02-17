@@ -1,132 +1,132 @@
 [
   {
-    "id": "1963",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
-    "answer": "Willem Kolff",
+    "id": "111",
+    "question": "Avec quel autre animal vit généralement une oie ?",
+    "answer": "Le jars",
     "badAnswers": [
-      "Georg Haas",
-      "John Abel",
-      "Nils Alwall"
+      "Le canard",
+      "Le cygne",
+      "La poule"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
   },
   {
-    "id": "1516",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
-    "answer": "Berkélium",
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
     "badAnswers": [
-      "Brome",
-      "Beryllium",
-      "Bore"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
   },
   {
-    "id": "2095",
-    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
-    "answer": "Dale Heatherington",
+    "id": "38",
+    "question": "Dans quel jeu trouve-t-on des Creepers ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Dennis Hayes",
-      "Vinton Cerf",
-      "Ray Tomlinson"
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
   },
   {
-    "id": "440",
-    "question": "Quel artiste a créé la sculpture Le Penseur ?",
-    "answer": "Auguste Rodin",
+    "id": "42",
+    "question": "Quelle entreprise fabrique la Model 3 ?",
+    "answer": "Tesla",
     "badAnswers": [
-      "Michel-Ange",
-      "Donatello",
-      "Bernin"
+      "Toyota",
+      "Ford",
+      "Volkswagen"
     ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
   },
   {
-    "id": "720",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
-    "answer": "Slurpy Swamp",
+    "id": "683",
+    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Misty Meadows",
-      "Craggy Cliffs",
-      "Sweaty Sands"
+      "Shen",
+      "Zed",
+      "Talon"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
+    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "1163",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
-    "answer": "Cornelius Drebbel",
+    "id": "213",
+    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
+    "answer": "Le flamboyant",
     "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "Le tamarin",
+      "Le frangipanier",
+      "Le vacoa"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
   },
   {
-    "id": "611",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
+    "id": "254",
+    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
+    "answer": "La danse du soleil",
     "badAnswers": [
-      "Bram Stoker",
-      "Robert Louis Stevenson",
-      "Arthur Conan Doyle"
+      "La danse des esprits",
+      "La danse de la pluie",
+      "La danse des étoiles"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
   },
   {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
+    "id": "2144",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
+    "answer": "Aucun Oscar décerné",
     "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
+      "The Covered Wagon",
+      "The Hunchback of Notre Dame",
+      "Safety Last!"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
+    "difficulty": "difficile",
+    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
   },
   {
-    "id": "1028",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
+    "id": "428",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
+    "answer": "Guilde des Voleurs",
     "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Jupiter"
+      "Confrérie Noire",
+      "Compagnons",
+      "Collège de Fortdhiver"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
+    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
   },
   {
-    "id": "1321",
-    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
-    "answer": "Ernst Ruska",
+    "id": "1867",
+    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
+    "answer": "Emile Berliner",
     "badAnswers": [
-      "Hans Jansen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Eldridge Johnson"
     ],
     "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
+    "difficulty": "normal",
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
   }
 ]
