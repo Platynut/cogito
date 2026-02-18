@@ -1,132 +1,132 @@
 [
   {
-    "id": "111",
-    "question": "Avec quel autre animal vit généralement une oie ?",
-    "answer": "Le jars",
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Le canard",
-      "Le cygne",
-      "La poule"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
-  },
-  {
-    "id": "1847",
-    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Creepers ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
-  },
-  {
-    "id": "42",
-    "question": "Quelle entreprise fabrique la Model 3 ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Toyota",
-      "Ford",
-      "Volkswagen"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
-  },
-  {
-    "id": "683",
-    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Shen",
-      "Zed",
-      "Talon"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
   },
   {
-    "id": "213",
-    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
-    "answer": "Le flamboyant",
+    "id": "2097",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
+    "answer": "Fritz Pfleumer",
     "badAnswers": [
-      "Le tamarin",
-      "Le frangipanier",
-      "Le vacoa"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
-  },
-  {
-    "id": "254",
-    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
-    "answer": "La danse du soleil",
-    "badAnswers": [
-      "La danse des esprits",
-      "La danse de la pluie",
-      "La danse des étoiles"
-    ],
-    "category": "Danse",
-    "difficulty": "normal",
-    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
-  },
-  {
-    "id": "2144",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
-    "answer": "Aucun Oscar décerné",
-    "badAnswers": [
-      "The Covered Wagon",
-      "The Hunchback of Notre Dame",
-      "Safety Last!"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "428",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
-    "answer": "Guilde des Voleurs",
-    "badAnswers": [
-      "Confrérie Noire",
-      "Compagnons",
-      "Collège de Fortdhiver"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
-  },
-  {
-    "id": "1867",
-    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
-    "answer": "Emile Berliner",
-    "badAnswers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Eldridge Johnson"
+      "Valdemar Poulsen",
+      "Oberlin Smith",
+      "Thomas Edison"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
+    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
+  },
+  {
+    "id": "1541",
+    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
+  },
+  {
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
+    "badAnswers": [
+      "Barcelone",
+      "Séville",
+      "Valence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+  },
+  {
+    "id": "408",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la monture principale de Link ?",
+    "answer": "Epona",
+    "badAnswers": [
+      "Rauru",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Epona est la monture principale de Link dans The Legend of Zelda: Breath of the Wild, un cheval fidèle apparaissant également dans d’autres jeux de la série, comme Ocarina of Time. Rauru, Midna et Fi sont des personnages ou entités, mais pas des montures."
+  },
+  {
+    "id": "1058",
+    "question": "Quel est le nom du premier film d'animation de Pixar ?",
+    "answer": "Toy Story",
+    "badAnswers": [
+      "Monstres et Cie",
+      "Le Monde de Nemo",
+      "Les Indestructibles"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Toy Story, sorti en 1995, est le premier film d'animation de Pixar, révolutionnant l'animation 3D avec l'histoire de Woody et Buzz l'Éclair."
+  },
+  {
+    "id": "2107",
+    "question": "Quel est le nom de l'inventeur du premier système de télécommande sans fil ?",
+    "answer": "Nikola Tesla",
+    "badAnswers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "John Logie Baird"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Nikola Tesla a démontré une télécommande sans fil en 1898, utilisée pour contrôler un bateau miniature."
+  },
+  {
+    "id": "1374",
+    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
+  },
+  {
+    "id": "1655",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
+    "answer": "Elisha Otis",
+    "badAnswers": [
+      "Thomas Edison",
+      "George Westinghouse",
+      "Nikola Tesla"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
+  },
+  {
+    "id": "2073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
+    "answer": "Grand Hotel",
+    "badAnswers": [
+      "Dr. Jekyll and Mr. Hyde",
+      "The Champ",
+      "Five Star Final"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
   }
 ]
