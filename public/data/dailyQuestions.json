@@ -1,132 +1,132 @@
 [
   {
-    "id": "1724",
-    "question": "Quel est le nom de l'inventeur du premier circuit intégré ?",
-    "answer": "Jack Kilby",
+    "id": "490",
+    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
+    "answer": "Bois",
     "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "William Shockley"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Jack Kilby a inventé le premier circuit intégré en 1958, posant les bases de l'électronique moderne."
-  },
-  {
-    "id": "1587",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1942 ?",
-    "answer": "How Green Was My Valley",
-    "badAnswers": [
-      "Citizen Kane",
-      "The Maltese Falcon",
-      "Suspicion"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "How Green Was My Valley, réalisé par John Ford, a remporté l'Oscar du meilleur film en 1942, un drame sur une famille de mineurs gallois."
-  },
-  {
-    "id": "1702",
-    "question": "Quel est le nom du groupe qui a chanté 'Shine On You Crazy Diamond' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Shine On You Crazy Diamond', sorti en 1975 par Pink Floyd, est une chanson hommage tirée de l'album Wish You Were Here."
-  },
-  {
-    "id": "946",
-    "question": "Dans le film Mad Max: Fury Road, le Dies Irae provient du requiem de quel compositeur ?",
-    "answer": "Verdi",
-    "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road pour renforcer l'intensité dramatique des scènes d'action."
-  },
-  {
-    "id": "314",
-    "question": "Quel est le nom du dieu grec de la guerre ?",
-    "answer": "Arès",
-    "badAnswers": [
-      "Athéna",
-      "Apollon",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
-  },
-  {
-    "id": "631",
-    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
-    "answer": "V-Bucks",
-    "badAnswers": [
-      "Robux",
-      "Credits",
-      "Battle Points"
+      "Métal",
+      "Pierre",
+      "Brique"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
   },
   {
-    "id": "257",
-    "question": "Dans quel océan se situe l'île de la Réunion ?",
-    "answer": "L'océan Indien",
+    "id": "356",
+    "question": "Quel est le nom de l'inventeur du World Wide Web ?",
+    "answer": "Tim Berners-Lee",
     "badAnswers": [
-      "L'océan Atlantique",
-      "L'océan Pacifique",
-      "L'océan Austral"
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Tim Berners-Lee a inventé le World Wide Web en 1989 au CERN, en développant les concepts d'HTML, HTTP et des URL. Cette invention a transformé l'internet. Bill Gates, Steve Jobs et Mark Zuckerberg sont associés à d'autres innovations technologiques, mais pas au WWW."
+  },
+  {
+    "id": "1077",
+    "question": "Quel est le nom du groupe qui a chanté 'Stairway to Heaven' ?",
+    "answer": "Led Zeppelin",
+    "badAnswers": [
+      "Deep Purple",
+      "Black Sabbath",
+      "The Who"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Stairway to Heaven', sorti en 1971 par Led Zeppelin, est une chanson rock légendaire, souvent considérée comme un chef-d'œuvre du genre."
+  },
+  {
+    "id": "1791",
+    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
+    "answer": "Creedence Clearwater Revival",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
+  },
+  {
+    "id": "1614",
+    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
+    "answer": "Soundgarden",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
+  },
+  {
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
+    "badAnswers": [
+      "Danube",
+      "Rhin",
+      "Elbe"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
   },
   {
-    "id": "1268",
-    "question": "Quel est le nom de l'auteur de 'Le Vieil Homme et la Mer' ?",
-    "answer": "Ernest Hemingway",
+    "id": "1566",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
+    "answer": "Going My Way",
     "badAnswers": [
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
+      "Gaslight",
+      "Since You Went Away",
+      "Wilson"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
+  },
+  {
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
+  },
+  {
+    "id": "1332",
+    "question": "Quel est la capitale de Cuba ?",
+    "answer": "La Havane",
+    "badAnswers": [
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+  },
+  {
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Ernest Hemingway a écrit 'Le Vieil Homme et la Mer' (1952), un roman sur la lutte d'un pêcheur cubain contre un énorme poisson."
-  },
-  {
-    "id": "1408",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Yb ?",
-    "answer": "Ytterbium",
-    "badAnswers": [
-      "Yttrium",
-      "Zirconium",
-      "Uranium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'ytterbium, symbolisé par Yb, est un métal rare utilisé dans les lasers et les alliages pour ses propriétés uniques."
-  },
-  {
-    "id": "1538",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobelium",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le nobelium, symbolisé par No, est un élément radioactif synthétique, nommé d'après Alfred Nobel, utilisé dans la recherche scientifique."
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
   }
 ]
