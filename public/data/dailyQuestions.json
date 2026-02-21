@@ -1,132 +1,132 @@
 [
   {
-    "id": "490",
-    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
-    "answer": "Bois",
+    "id": "1753",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision mécanique ?",
+    "answer": "John Logie Baird",
     "badAnswers": [
-      "Métal",
-      "Pierre",
-      "Brique"
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Walter Bruch"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "John Logie Baird a démontré le premier système de télévision mécanique en 1925, pionnier de la télévision."
+  },
+  {
+    "id": "2028",
+    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1464",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Po ?",
+    "answer": "Polonium",
+    "badAnswers": [
+      "Plomb",
+      "Potassium",
+      "Prométhium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le polonium, symbolisé par Po, est un élément radioactif découvert par Marie Curie, utilisé dans certaines applications industrielles."
+  },
+  {
+    "id": "1120",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
+    "answer": "Crash Bandicoot",
+    "badAnswers": [
+      "Spyro the Dragon",
+      "Jak and Daxter",
+      "Ratchet & Clank"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
+    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
   },
   {
-    "id": "356",
-    "question": "Quel est le nom de l'inventeur du World Wide Web ?",
-    "answer": "Tim Berners-Lee",
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
     "badAnswers": [
-      "Bill Gates",
-      "Steve Jobs",
-      "Mark Zuckerberg"
+      "Palkia",
+      "Giratina",
+      "Arceus"
     ],
-    "category": "Informatique",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Tim Berners-Lee a inventé le World Wide Web en 1989 au CERN, en développant les concepts d'HTML, HTTP et des URL. Cette invention a transformé l'internet. Bill Gates, Steve Jobs et Mark Zuckerberg sont associés à d'autres innovations technologiques, mais pas au WWW."
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
   },
   {
-    "id": "1077",
-    "question": "Quel est le nom du groupe qui a chanté 'Stairway to Heaven' ?",
-    "answer": "Led Zeppelin",
+    "id": "1661",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
+    "answer": "All Quiet on the Western Front",
     "badAnswers": [
-      "Deep Purple",
-      "Black Sabbath",
-      "The Who"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Stairway to Heaven', sorti en 1971 par Led Zeppelin, est une chanson rock légendaire, souvent considérée comme un chef-d'œuvre du genre."
-  },
-  {
-    "id": "1791",
-    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
-    "answer": "Creedence Clearwater Revival",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
-  },
-  {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
-  },
-  {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
-    "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
-  },
-  {
-    "id": "1566",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
-    "answer": "Going My Way",
-    "badAnswers": [
-      "Gaslight",
-      "Since You Went Away",
-      "Wilson"
+      "The Big House",
+      "Disraeli",
+      "The Divorcee"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
+    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
   },
   {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
     "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+  },
+  {
+    "id": "1283",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
+    "answer": "Gallium",
+    "badAnswers": [
+      "Germanium",
+      "Gadolinium",
+      "Graphite"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
+  },
+  {
+    "id": "720",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
+    "answer": "Slurpy Swamp",
+    "badAnswers": [
+      "Misty Meadows",
+      "Craggy Cliffs",
+      "Sweaty Sands"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
+    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
   },
   {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
+    "id": "917",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
+    "answer": "F. Scott Fitzgerald",
     "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
     ],
-    "category": "Géographie",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
-  },
-  {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
+    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
   }
 ]
