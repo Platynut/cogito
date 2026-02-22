@@ -1,72 +1,111 @@
 [
   {
-    "id": "1753",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision mécanique ?",
-    "answer": "John Logie Baird",
+    "id": "1788",
+    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Philo Farnsworth",
-      "Vladimir Zworykin",
-      "Walter Bruch"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "John Logie Baird a démontré le premier système de télévision mécanique en 1925, pionnier de la télévision."
-  },
-  {
-    "id": "2028",
-    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
   },
   {
-    "id": "1464",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Po ?",
-    "answer": "Polonium",
+    "id": "862",
+    "question": "Quel compositeur a écrit 'Don Giovanni' ?",
+    "answer": "Wolfgang Amadeus Mozart",
     "badAnswers": [
-      "Plomb",
-      "Potassium",
-      "Prométhium"
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Richard Wagner"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le polonium, symbolisé par Po, est un élément radioactif découvert par Marie Curie, utilisé dans certaines applications industrielles."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Wolfgang Amadeus Mozart a composé *Don Giovanni* en 1787, un opéra mêlant drame et comédie, basé sur la légende de Don Juan. Réputé pour sa profondeur psychologique et sa richesse musicale, l’œuvre est l’une des plus célèbres de Mozart. Rossini, Verdi et Wagner sont également de grands compositeurs d’opéras, mais aucun d’eux n’est l’auteur de *Don Giovanni*."
   },
   {
-    "id": "1120",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
-    "answer": "Crash Bandicoot",
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Spyro the Dragon",
-      "Jak and Daxter",
-      "Ratchet & Clank"
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+  },
+  {
+    "id": "1332",
+    "question": "Quel est la capitale de Cuba ?",
+    "answer": "La Havane",
+    "badAnswers": [
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+  },
+  {
+    "id": "641",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Triss Merigold",
+      "Keira Metz",
+      "Ciri"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
   },
   {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
+    "id": "581",
+    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Lothric",
     "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
   },
   {
-    "id": "1661",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
+    "id": "232",
+    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
+    "answer": "Matrix",
+    "badAnswers": [
+      "Mad Max",
+      "Scream",
+      "Interstellar"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+  },
+  {
+    "id": "1642",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1930 ?",
     "answer": "All Quiet on the Western Front",
     "badAnswers": [
       "The Big House",
@@ -75,58 +114,19 @@
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
+    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1930, un drame anti-guerre."
   },
   {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
+    "id": "391",
+    "question": "Dans Fortnite, quel est le nom de la tempête qui réduit la zone de jeu ?",
+    "answer": "Tempête",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
-  },
-  {
-    "id": "1283",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
-    "answer": "Gallium",
-    "badAnswers": [
-      "Germanium",
-      "Gadolinium",
-      "Graphite"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
-  },
-  {
-    "id": "720",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
-    "answer": "Slurpy Swamp",
-    "badAnswers": [
-      "Misty Meadows",
-      "Craggy Cliffs",
-      "Sweaty Sands"
+      "Ouragan",
+      "Typhon",
+      "Cyclone"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
-  },
-  {
-    "id": "917",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
-    "answer": "F. Scott Fitzgerald",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "category": "Littérature",
     "difficulty": "facile",
-    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
+    "description": "Dans Fortnite, la Tempête est la mécanique qui réduit progressivement la zone de jeu, obligeant les joueurs à se rapprocher. Elle inflige des dégâts aux joueurs à l’extérieur de la zone sûre. Ouragan, typhon et cyclone sont des termes météorologiques, mais ne sont pas utilisés dans le jeu."
   }
 ]
