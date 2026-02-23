@@ -1,132 +1,132 @@
 [
   {
-    "id": "1788",
-    "question": "Quel est le nom du groupe qui a chanté 'Bad Moon Rising' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "556",
+    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Isaac Newton"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bad Moon Rising', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Green River."
-  },
-  {
-    "id": "862",
-    "question": "Quel compositeur a écrit 'Don Giovanni' ?",
-    "answer": "Wolfgang Amadeus Mozart",
-    "badAnswers": [
-      "Gioachino Rossini",
-      "Giuseppe Verdi",
-      "Richard Wagner"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Wolfgang Amadeus Mozart a composé *Don Giovanni* en 1787, un opéra mêlant drame et comédie, basé sur la légende de Don Juan. Réputé pour sa profondeur psychologique et sa richesse musicale, l’œuvre est l’une des plus célèbres de Mozart. Rossini, Verdi et Wagner sont également de grands compositeurs d’opéras, mais aucun d’eux n’est l’auteur de *Don Giovanni*."
-  },
-  {
-    "id": "2029",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Joseph Murray",
-      "John Gibbon",
-      "Christiaan Barnard"
-    ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
   },
   {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
+    "id": "1389",
+    "question": "Quel est la capitale du Bhoutan ?",
+    "answer": "Thimphou",
     "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "Paro",
+      "Punakha",
+      "Jakar"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
+  },
+  {
+    "id": "1059",
+    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
+    "answer": "Carbone",
+    "badAnswers": [
+      "Calcium",
+      "Chlore",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
+  },
+  {
+    "id": "749",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la ville principale des Impériaux ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Markarth"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Solitude est la ville principale des Impériaux dans The Elder Scrolls V: Skyrim, siège de l'Empire. Vendeaume est la base des Sombrages, et Faillaise et Markarth sont d'autres villes."
+  },
+  {
+    "id": "452",
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon",
+    "badAnswers": [
+      "Canyon de Colca",
+      "Canyon de Fish River",
+      "Canyon de Copper"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
   },
   {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "1526",
+    "question": "Quel est la capitale du Mali ?",
+    "answer": "Bamako",
     "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
+      "Ségou",
+      "Mopti",
+      "Tombouctou"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
+  },
+  {
+    "id": "38",
+    "question": "Dans quel jeu trouve-t-on des Creepers ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
   },
   {
-    "id": "581",
-    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Lothric",
+    "id": "376",
+    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
+    "answer": "Herman Melville",
     "badAnswers": [
-      "Lordran",
-      "Drangleic",
-      "Yharnam"
+      "Nathaniel Hawthorne",
+      "Mark Twain",
+      "Walt Whitman"
     ],
-    "category": "Jeux vidéo",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
+    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
   },
   {
-    "id": "232",
-    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
-    "answer": "Matrix",
+    "id": "1916",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
+    "answer": "Martin Cooper",
     "badAnswers": [
-      "Mad Max",
-      "Scream",
-      "Interstellar"
+      "Alexander Graham Bell",
+      "Reginald Fessenden",
+      "John Pierce"
     ],
-    "category": "Cinéma",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
   },
   {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
+    "id": "748",
+    "question": "Quel est le plus grand reptile terrestre actuel ?",
+    "answer": "Crocodile marin",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Varan de Komodo",
+      "Tortue des Galápagos",
+      "Anaconda vert"
     ],
-    "category": "Musique",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
-  },
-  {
-    "id": "1642",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1930 ?",
-    "answer": "All Quiet on the Western Front",
-    "badAnswers": [
-      "The Big House",
-      "Disraeli",
-      "The Divorcee"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1930, un drame anti-guerre."
-  },
-  {
-    "id": "391",
-    "question": "Dans Fortnite, quel est le nom de la tempête qui réduit la zone de jeu ?",
-    "answer": "Tempête",
-    "badAnswers": [
-      "Ouragan",
-      "Typhon",
-      "Cyclone"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Fortnite, la Tempête est la mécanique qui réduit progressivement la zone de jeu, obligeant les joueurs à se rapprocher. Elle inflige des dégâts aux joueurs à l’extérieur de la zone sûre. Ouragan, typhon et cyclone sont des termes météorologiques, mais ne sont pas utilisés dans le jeu."
+    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
   }
 ]
