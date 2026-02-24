@@ -1,132 +1,132 @@
 [
   {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
+    "id": "1441",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
+    "answer": "Patton",
     "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
+      "MASH",
+      "Airport",
+      "Five Easy Pieces"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
+  },
+  {
+    "id": "1620",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
+    "answer": "Tennesse",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+    "difficulty": "difficile",
+    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
   },
   {
-    "id": "1389",
-    "question": "Quel est la capitale du Bhoutan ?",
-    "answer": "Thimphou",
+    "id": "192",
+    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
+    "answer": "150 millions de km",
     "badAnswers": [
-      "Paro",
-      "Punakha",
-      "Jakar"
+      "4 millions de km",
+      "60 millions de km",
+      "350 millions de km"
     ],
-    "category": "Géographie",
+    "category": "Astronomie",
     "difficulty": "normal",
-    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
+    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
   },
   {
-    "id": "1059",
-    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
-    "answer": "Carbone",
+    "id": "986",
+    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
+    "answer": "M. Bun",
     "badAnswers": [
-      "Calcium",
-      "Chlore",
-      "Césium"
+      "M. Bunbun",
+      "M. Lapin",
+      "M. Hoppy"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
   },
   {
-    "id": "749",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la ville principale des Impériaux ?",
-    "answer": "Solitude",
+    "id": "317",
+    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
+    "answer": "Link",
     "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Markarth"
+      "Zelda",
+      "Ganon",
+      "Epona"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Solitude est la ville principale des Impériaux dans The Elder Scrolls V: Skyrim, siège de l'Empire. Vendeaume est la base des Sombrages, et Faillaise et Markarth sont d'autres villes."
+    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
   },
   {
-    "id": "452",
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "answer": "Grand Canyon",
+    "id": "1108",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
+    "answer": "Calcium",
     "badAnswers": [
-      "Canyon de Colca",
-      "Canyon de Fish River",
-      "Canyon de Copper"
+      "Carbone",
+      "Césium",
+      "Chlore"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
+    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
   },
   {
-    "id": "1526",
-    "question": "Quel est la capitale du Mali ?",
-    "answer": "Bamako",
+    "id": "704",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
+    "answer": "Kashyyyk",
     "badAnswers": [
-      "Ségou",
-      "Mopti",
-      "Tombouctou"
+      "Tatooine",
+      "Endor",
+      "Hoth"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
+    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
   },
   {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Creepers ?",
-    "answer": "Minecraft",
+    "id": "1562",
+    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
+    "answer": "Def Leppard",
     "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
+  },
+  {
+    "id": "1922",
+    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
+  },
+  {
+    "id": "702",
+    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
+    "answer": "Hache Léviathan",
+    "badAnswers": [
+      "Lames du Chaos",
+      "Marteau Mjöllnir",
+      "Épée d'Olympe"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
-  },
-  {
-    "id": "376",
-    "question": "Quel est le nom de l’auteur de Moby-Dick ?",
-    "answer": "Herman Melville",
-    "badAnswers": [
-      "Nathaniel Hawthorne",
-      "Mark Twain",
-      "Walt Whitman"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Herman Melville a écrit Moby-Dick (1851), un roman épique sur la chasse à la baleine et l’obsession du capitaine Achab. C’est une œuvre majeure de la littérature américaine. Hawthorne, Twain et Whitman sont d’autres écrivains américains, mais ils n’ont pas écrit ce roman."
-  },
-  {
-    "id": "1916",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
-    "answer": "Martin Cooper",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Reginald Fessenden",
-      "John Pierce"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
-  },
-  {
-    "id": "748",
-    "question": "Quel est le plus grand reptile terrestre actuel ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Varan de Komodo",
-      "Tortue des Galápagos",
-      "Anaconda vert"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile terrestre actuel, pouvant atteindre 7 mètres de long. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
+    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
   }
 ]
