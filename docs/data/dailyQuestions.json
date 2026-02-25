@@ -1,132 +1,132 @@
 [
   {
-    "id": "1441",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
-    "answer": "Patton",
+    "id": "1424",
+    "question": "Quel est le nom de la déesse grecque de la paix ?",
+    "answer": "Irène",
     "badAnswers": [
-      "MASH",
-      "Airport",
-      "Five Easy Pieces"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
-    "category": "Cinéma",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
+    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
   },
   {
-    "id": "1620",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
-    "answer": "Tennesse",
+    "id": "1921",
+    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
+    "answer": "André Gide",
     "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
-  },
-  {
-    "id": "192",
-    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
-    "answer": "150 millions de km",
-    "badAnswers": [
-      "4 millions de km",
-      "60 millions de km",
-      "350 millions de km"
-    ],
-    "category": "Astronomie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
+    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
   },
   {
-    "id": "986",
-    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
-    "answer": "M. Bun",
+    "id": "329",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
+    "answer": "Faucon Millenium",
     "badAnswers": [
-      "M. Bunbun",
-      "M. Lapin",
-      "M. Hoppy"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
-  },
-  {
-    "id": "317",
-    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
-    "answer": "Link",
-    "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
-  },
-  {
-    "id": "1108",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
-    "answer": "Calcium",
-    "badAnswers": [
-      "Carbone",
-      "Césium",
-      "Chlore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
-  },
-  {
-    "id": "704",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
-    "answer": "Kashyyyk",
-    "badAnswers": [
-      "Tatooine",
-      "Endor",
-      "Hoth"
+      "Étoile de la Mort",
+      "Chasseur TIE",
+      "X-Wing"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
+    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
   },
   {
-    "id": "1562",
-    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
-    "answer": "Def Leppard",
+    "id": "1170",
+    "question": "Quel est la capitale de l'Angola ?",
+    "answer": "Luanda",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Huambo",
+      "Lobito",
+      "Benguela"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
+  },
+  {
+    "id": "82",
+    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
+    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
   },
   {
-    "id": "1922",
-    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
-    "answer": "The Beatles",
+    "id": "1979",
+    "question": "Quel est le nom de l'auteur de 'Huis clos' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Huis clos' (1944), une pièce de théâtre existentialiste célèbre pour la phrase 'L'enfer, c'est les autres'."
   },
   {
-    "id": "702",
-    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
-    "answer": "Hache Léviathan",
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
     "badAnswers": [
-      "Lames du Chaos",
-      "Marteau Mjöllnir",
-      "Épée d'Olympe"
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
     ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+  },
+  {
+    "id": "1763",
+    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
+    "answer": "Stendhal",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
+  },
+  {
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
+    "badAnswers": [
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "625",
+    "question": "Dans Star Wars, quel est le nom de l'organisation qui combat l'Empire ?",
+    "answer": "Alliance Rebelle",
+    "badAnswers": [
+      "Premier Ordre",
+      "Résistance",
+      "Fédération du commerce"
+    ],
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
+    "description": "L'Alliance Rebelle est l'organisation qui combat l'Empire dans la trilogie originale Star Wars. La Résistance lutte contre le Premier Ordre, et la Fédération du commerce est une entité de la prélogie."
   }
 ]
