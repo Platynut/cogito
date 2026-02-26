@@ -1,132 +1,132 @@
 [
   {
-    "id": "1424",
-    "question": "Quel est le nom de la déesse grecque de la paix ?",
-    "answer": "Irène",
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
     "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
+      "Iode",
+      "Indium",
+      "Iron"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Irène, déesse grecque de la paix, est l'une des Heures, souvent associée à l'harmonie et à la prospérité dans la mythologie."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
   },
   {
-    "id": "1921",
-    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
-    "answer": "André Gide",
+    "id": "1511",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1953 ?",
+    "answer": "From Here to Eternity",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
-  },
-  {
-    "id": "329",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
-    "answer": "Faucon Millenium",
-    "badAnswers": [
-      "Étoile de la Mort",
-      "Chasseur TIE",
-      "X-Wing"
+      "Roman Holiday",
+      "Shane",
+      "The Robe"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
-  },
-  {
-    "id": "1170",
-    "question": "Quel est la capitale de l'Angola ?",
-    "answer": "Luanda",
-    "badAnswers": [
-      "Huambo",
-      "Lobito",
-      "Benguela"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
+    "description": "From Here to Eternity, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1953, un drame sur l'amour et la guerre à Hawaï."
   },
   {
-    "id": "82",
-    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
-    "answer": "Nirvana",
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Sceptre d'Aghanim",
     "badAnswers": [
+      "Barre du Roi Noir",
+      "Rapier Divine",
+      "Cœur de Tarrasque"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
+  },
+  {
+    "id": "278",
+    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
+    "answer": "Verdi",
+    "badAnswers": [
+      "Mozart",
+      "Berlioz",
+      "Brahms"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
+  },
+  {
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
+    "badAnswers": [
+      "Plume",
+      "Étoile",
+      "Champignon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+  },
+  {
+    "id": "789",
+    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
+    "answer": "Rayquaza",
+    "badAnswers": [
+      "Groudon",
+      "Kyogre",
+      "Latios"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
+  },
+  {
+    "id": "440",
+    "question": "Quel artiste a créé la sculpture Le Penseur ?",
+    "answer": "Auguste Rodin",
+    "badAnswers": [
+      "Michel-Ange",
+      "Donatello",
+      "Bernin"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
+  },
+  {
+    "id": "20",
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "answer": "Jupiter",
+    "badAnswers": [
+      "Saturne",
+      "Neptune",
+      "Terre"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Avec un diamètre de 142.984 km, Jupiter pourrait contenir 1.300 Terres. C'est une géante gazeuse."
+  },
+  {
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
+    "badAnswers": [
+      "Nirvana",
       "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
+      "Soundgarden"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
   },
   {
-    "id": "1979",
-    "question": "Quel est le nom de l'auteur de 'Huis clos' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "417",
+    "question": "Quel est le plus grand mammifère marin ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Albert Camus",
-      "Simone de Beauvoir",
-      "André Gide"
+      "Cachalot",
+      "Orque",
+      "Rorqual commun"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Huis clos' (1944), une pièce de théâtre existentialiste célèbre pour la phrase 'L'enfer, c'est les autres'."
-  },
-  {
-    "id": "1047",
-    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
-    "answer": "Charles Lindbergh",
-    "badAnswers": [
-      "Amelia Earhart",
-      "Howard Hughes",
-      "Wiley Post"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
-  },
-  {
-    "id": "1763",
-    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
-    "answer": "Stendhal",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
-  },
-  {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
-    "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
-  },
-  {
-    "id": "625",
-    "question": "Dans Star Wars, quel est le nom de l'organisation qui combat l'Empire ?",
-    "answer": "Alliance Rebelle",
-    "badAnswers": [
-      "Premier Ordre",
-      "Résistance",
-      "Fédération du commerce"
-    ],
-    "category": "Cinéma",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "L'Alliance Rebelle est l'organisation qui combat l'Empire dans la trilogie originale Star Wars. La Résistance lutte contre le Premier Ordre, et la Fédération du commerce est une entité de la prélogie."
+    "description": "La baleine bleue est le plus grand mammifère marin, et le plus grand animal jamais recensé, pouvant atteindre 30 mètres et peser 200 tonnes. Le cachalot, l’orque et le rorqual commun sont également grands, mais plus petits que la baleine bleue."
   }
 ]
