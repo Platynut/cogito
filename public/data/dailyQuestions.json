@@ -1,132 +1,132 @@
 [
   {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
-  },
-  {
-    "id": "1511",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1953 ?",
-    "answer": "From Here to Eternity",
-    "badAnswers": [
-      "Roman Holiday",
-      "Shane",
-      "The Robe"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "From Here to Eternity, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1953, un drame sur l'amour et la guerre à Hawaï."
-  },
-  {
-    "id": "401",
-    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
-    "answer": "Sceptre d'Aghanim",
-    "badAnswers": [
-      "Barre du Roi Noir",
-      "Rapier Divine",
-      "Cœur de Tarrasque"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
-  },
-  {
-    "id": "278",
-    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
-    "answer": "Verdi",
-    "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
-  },
-  {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
-    "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
-  },
-  {
-    "id": "789",
-    "question": "Dans Pokémon Émeraude, quel est le Pokémon légendaire associé au ciel ?",
-    "answer": "Rayquaza",
-    "badAnswers": [
-      "Groudon",
-      "Kyogre",
-      "Latios"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Rayquaza est le Pokémon légendaire associé au ciel dans Pokémon Émeraude, résolvant le conflit entre Groudon et Kyogre. Groudon représente la terre, Kyogre la mer, et Latios est un autre légendaire."
-  },
-  {
-    "id": "440",
-    "question": "Quel artiste a créé la sculpture Le Penseur ?",
-    "answer": "Auguste Rodin",
-    "badAnswers": [
-      "Michel-Ange",
-      "Donatello",
-      "Bernin"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Auguste Rodin a créé Le Penseur (1904), une sculpture en bronze représentant un homme en méditation. C’est une œuvre emblématique du réalisme. Michel-Ange, Donatello et Bernin sont d’autres sculpteurs célèbres, mais n’ont pas créé cette œuvre."
-  },
-  {
-    "id": "20",
-    "question": "Quelle est la plus grande planète du système solaire ?",
-    "answer": "Jupiter",
-    "badAnswers": [
-      "Saturne",
-      "Neptune",
-      "Terre"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Avec un diamètre de 142.984 km, Jupiter pourrait contenir 1.300 Terres. C'est une géante gazeuse."
-  },
-  {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
   },
   {
-    "id": "417",
-    "question": "Quel est le plus grand mammifère marin ?",
-    "answer": "Baleine bleue",
+    "id": "1106",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2024 ?",
+    "answer": "Anora",
     "badAnswers": [
-      "Cachalot",
-      "Orque",
-      "Rorqual commun"
+      "The Brutalist",
+      "Dune: Part Two",
+      "Wicked"
     ],
-    "category": "Animaux",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Anora, réalisé par Sean Baker, a remporté l'Oscar du meilleur film lors de la 97ᵉ cérémonie en 2024, récompensant les films de 2024. Le film a totalisé cinq statuettes, dont Meilleur réalisateur (Sean Baker) et Meilleure actrice (Mikey Madison)."
+  },
+  {
+    "id": "2040",
+    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
+    "answer": "Nathalie Sarraute",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
+  },
+  {
+    "id": "1142",
+    "question": "Quel est la capitale de l'Algérie ?",
+    "answer": "Alger",
+    "badAnswers": [
+      "Oran",
+      "Constantine",
+      "Annaba"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, et le plus grand animal jamais recensé, pouvant atteindre 30 mètres et peser 200 tonnes. Le cachalot, l’orque et le rorqual commun sont également grands, mais plus petits que la baleine bleue."
+    "description": "Alger, capitale de l'Algérie, est une ville méditerranéenne connue pour sa casbah historique et son architecture coloniale."
+  },
+  {
+    "id": "202",
+    "question": "Que déposent les Norvégiens sous le sapin, la veille de Noël ?",
+    "answer": "Un bol d'avoine",
+    "badAnswers": [
+      "Des carottes",
+      "Des pièces de monnaie",
+      "Du lait"
+    ],
+    "category": "Culture générale",
+    "difficulty": "normal",
+    "description": "En Norvège, on dépose un bol d'avoine pour le 'nisse' (lutin protecteur) lors de la nuit de Noël. Aux Pays-Bas, ce sont des carottes pour les rennes du Père Noël."
+  },
+  {
+    "id": "1207",
+    "question": "Quel est la capitale du Mozambique ?",
+    "answer": "Maputo",
+    "badAnswers": [
+      "Beira",
+      "Nampula",
+      "Matola"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maputo, capitale du Mozambique, est une ville portuaire connue pour son architecture coloniale et son dynamisme culturel."
+  },
+  {
+    "id": "1821",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astate",
+    "badAnswers": [
+      "Argon",
+      "Antimoine",
+      "Actinium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
+  },
+  {
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
+  },
+  {
+    "id": "2023",
+    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1198",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zn ?",
+    "answer": "Zinc",
+    "badAnswers": [
+      "Zirconium",
+      "Xenon",
+      "Yttrium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le zinc, symbolisé par Zn, est un métal utilisé pour galvaniser l'acier et dans les compléments alimentaires pour soutenir le système immunitaire."
   }
 ]
