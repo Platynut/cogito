@@ -1,132 +1,132 @@
 [
   {
-    "id": "1684",
-    "question": "Quel est le nom du groupe qui a chanté 'Whole Lotta Love' ?",
-    "answer": "Led Zeppelin",
+    "id": "654",
+    "question": "Quel est le nom du plus grand désert d'Asie ?",
+    "answer": "Désert de Gobi",
     "badAnswers": [
-      "The Who",
-      "Pink Floyd",
-      "Deep Purple"
+      "Désert du Taklamakan",
+      "Désert de Karakum",
+      "Désert de Thar"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Whole Lotta Love', sorti en 1969 par Led Zeppelin, est une chanson rock emblématique tirée de l'album Led Zeppelin II."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
   },
   {
-    "id": "1292",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Kr ?",
-    "answer": "Krypton",
+    "id": "1588",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
+    "answer": "Darmstadtium",
     "badAnswers": [
-      "Xenon",
-      "Radon",
-      "Argon"
+      "Dysprosium",
+      "Deutérium",
+      "Dubnium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Le krypton, symbolisé par Kr, est un gaz noble utilisé dans les lampes fluorescentes et les lasers, connu pour son éclat lumineux."
-  },
-  {
-    "id": "395",
-    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
-    "answer": "3",
-    "badAnswers": [
-      "7",
-      "5",
-      "10"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
-  },
-  {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
-  },
-  {
-    "id": "493",
-    "question": "Quel scientifique a découvert la loi de la chute des corps ?",
-    "answer": "Galileo Galilei",
-    "badAnswers": [
-      "Isaac Newton",
-      "Johannes Kepler",
-      "Tycho Brahe"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Galileo Galilei a découvert la loi de la chute des corps au XVIe siècle, démontrant que tous les objets tombent à la même vitesse indépendamment de leur masse (sans résistance de l'air). Newton a formulé la gravité, Kepler les orbites, et Brahe a collecté des données astronomiques."
-  },
-  {
-    "id": "629",
-    "question": "Quel est le plus grand reptile terrestre du monde ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Varan de Komodo",
-      "Tortue des Galápagos",
-      "Anaconda vert"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile terrestre, pouvant atteindre 7 mètres de long et 1 000 kg. Le varan de Komodo, la tortue des Galápagos et l'anaconda vert sont plus petits."
-  },
-  {
-    "id": "1356",
-    "question": "Quel est le nom de l'inventeur du premier tracteur à essence ?",
-    "answer": "John Froelich",
-    "badAnswers": [
-      "Henry Ford",
-      "George Stephenson",
-      "Eli Whitney"
-    ],
-    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "John Froelich a construit le premier tracteur à essence en 1892, révolutionnant l'agriculture mécanisée."
+    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
   },
   {
-    "id": "997",
-    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
-    "answer": "Frank Bruno",
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
     "badAnswers": [
-      "Henry Cooper",
-      "Muhammad Ali",
-      "Joe Frazier"
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
     ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
   },
   {
-    "id": "129",
-    "question": "Quelle est la durée d'une mi-temps dans un match de rugby à XV ?",
-    "answer": "40 min",
+    "id": "713",
+    "question": "Quelle femme japonaise a un cou pouvant s'allonger surnaturellement ?",
+    "answer": "Rokurokubi",
     "badAnswers": [
-      "30 min",
-      "35 min",
-      "45 min"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Un match de rugby à XV est divisé en deux mi-temps de 40 minutes chacune. Les autres durées ne correspondent pas aux règles officielles."
-  },
-  {
-    "id": "718",
-    "question": "Quel yōkai est un parapluie vivant doté d'un œil et d'une jambe ?",
-    "answer": "Karakasa-obake",
-    "badAnswers": [
-      "Nurarihyon",
-      "Zashiki-warashi",
-      "Tanuki"
+      "Jorōgumo",
+      "Iso-onna",
+      "Yuki-onna"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Karakasa-obake est un objet inanimé devenu vivant, célèbre pour ses facéties."
+    "description": "La Rokurokubi étend son cou la nuit pour espionner ou effrayer les humains."
+  },
+  {
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+  },
+  {
+    "id": "302",
+    "question": "En programmation, comment appelle-t-on des fonctions portant le même nom mais ayant des implémentations différentes ?",
+    "answer": "Surcharge",
+    "badAnswers": [
+      "Polymorphisme",
+      "Abstraction",
+      "Héritage"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "La surcharge (overloading) en programmation permet de définir plusieurs fonctions avec le même nom mais des paramètres ou types de retour différents, chaque fonction ayant une implémentation spécifique. C'est une fonctionnalité courante dans des langages comme C++ ou Java. La surcharge (overriding) concerne la redéfinition dans une classe dérivée, l'abstraction est un concept général, et l'héritage est un mécanisme de hiérarchie de classes."
+  },
+  {
+    "id": "788",
+    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
+    "answer": "Joseph Gay-Lussac",
+    "badAnswers": [
+      "Robert Boyle",
+      "Jacques Charles",
+      "Émile Clapeyron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "1717",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Feunard ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Feunard, Pokémon de type feu, est l'évolution de Goupix dans la série Pokémon, inspiré par le renard à neuf queues."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+  },
+  {
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
+    "badAnswers": [
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
   }
 ]
