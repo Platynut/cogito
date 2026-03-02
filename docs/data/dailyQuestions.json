@@ -1,132 +1,132 @@
 [
   {
-    "id": "654",
-    "question": "Quel est le nom du plus grand désert d'Asie ?",
-    "answer": "Désert de Gobi",
+    "id": "232",
+    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
+    "answer": "Matrix",
     "badAnswers": [
-      "Désert du Taklamakan",
-      "Désert de Karakum",
-      "Désert de Thar"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
-  },
-  {
-    "id": "1588",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
-    "answer": "Darmstadtium",
-    "badAnswers": [
-      "Dysprosium",
-      "Deutérium",
-      "Dubnium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
-  },
-  {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
-    "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "713",
-    "question": "Quelle femme japonaise a un cou pouvant s'allonger surnaturellement ?",
-    "answer": "Rokurokubi",
-    "badAnswers": [
-      "Jorōgumo",
-      "Iso-onna",
-      "Yuki-onna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "La Rokurokubi étend son cou la nuit pour espionner ou effrayer les humains."
-  },
-  {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
-  },
-  {
-    "id": "302",
-    "question": "En programmation, comment appelle-t-on des fonctions portant le même nom mais ayant des implémentations différentes ?",
-    "answer": "Surcharge",
-    "badAnswers": [
-      "Polymorphisme",
-      "Abstraction",
-      "Héritage"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "La surcharge (overloading) en programmation permet de définir plusieurs fonctions avec le même nom mais des paramètres ou types de retour différents, chaque fonction ayant une implémentation spécifique. C'est une fonctionnalité courante dans des langages comme C++ ou Java. La surcharge (overriding) concerne la redéfinition dans une classe dérivée, l'abstraction est un concept général, et l'héritage est un mécanisme de hiérarchie de classes."
-  },
-  {
-    "id": "788",
-    "question": "Quel scientifique a découvert la loi des gaz à volume constant ?",
-    "answer": "Joseph Gay-Lussac",
-    "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Émile Clapeyron"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Joseph Gay-Lussac a formulé la loi des gaz à volume constant (loi de Gay-Lussac) au début du XIXe siècle, reliant pression et température. Boyle, Charles et Clapeyron ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1717",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Feunard ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Feunard, Pokémon de type feu, est l'évolution de Goupix dans la série Pokémon, inspiré par le renard à neuf queues."
-  },
-  {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
-    "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
-  },
-  {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
-    "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
+      "Mad Max",
+      "Scream",
+      "Interstellar"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
+    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+  },
+  {
+    "id": "185",
+    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
+    "answer": "Youri Gagarine",
+    "badAnswers": [
+      "Guerman Titov",
+      "Buzz Aldrin",
+      "Neil Armstrong"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
+  },
+  {
+    "id": "337",
+    "question": "Quel est le nom de l'inventeur du téléphone ?",
+    "answer": "Alexander Graham Bell",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
+  },
+  {
+    "id": "1983",
+    "question": "Quel est le nom de l'inventeur du premier système de carte à puce ?",
+    "answer": "Roland Moreno",
+    "badAnswers": [
+      "Robert Noyce",
+      "Jack Kilby",
+      "Martin Cooper"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Roland Moreno a inventé la carte à puce en 1974, utilisée dans les cartes bancaires et les systèmes sécurisés."
+  },
+  {
+    "id": "556",
+    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+  },
+  {
+    "id": "1669",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
+    "answer": "Mutiny on the Bounty",
+    "badAnswers": [
+      "The Informer",
+      "Captain Blood",
+      "Top Hat"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
+  },
+  {
+    "id": "1555",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
+    "answer": "Dubnium",
+    "badAnswers": [
+      "Dysprosium",
+      "Darmstadtium",
+      "Deutérium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
+  },
+  {
+    "id": "1604",
+    "question": "Quel est la capitale des Seychelles ?",
+    "answer": "Victoria",
+    "badAnswers": [
+      "Mahé",
+      "Praslin",
+      "La Digue"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
+  },
+  {
+    "id": "2138",
+    "question": "Quel est le nom de l'auteur de 'Le Métier d'homme' ?",
+    "answer": "Alexandre Jollien",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Alexandre Jollien a écrit 'Le Métier d'homme' (2002), un essai philosophique sur la condition humaine et le handicap."
+  },
+  {
+    "id": "852",
+    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
+    "answer": "Ellie",
+    "badAnswers": [
+      "Tess",
+      "Marlene",
+      "Sarah"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
   }
 ]
