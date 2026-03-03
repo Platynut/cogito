@@ -1,132 +1,133 @@
 [
   {
-    "id": "232",
-    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
-    "answer": "Matrix",
+    "id": "1179",
+    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
+    "answer": "Bruce Springsteen",
     "badAnswers": [
-      "Mad Max",
-      "Scream",
-      "Interstellar"
+      "Bob Dylan",
+      "Tom Petty",
+      "John Mellencamp"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
-  },
-  {
-    "id": "185",
-    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
-    "answer": "Youri Gagarine",
-    "badAnswers": [
-      "Guerman Titov",
-      "Buzz Aldrin",
-      "Neil Armstrong"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
-  },
-  {
-    "id": "337",
-    "question": "Quel est le nom de l'inventeur du téléphone ?",
-    "answer": "Alexander Graham Bell",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
+    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
   },
   {
-    "id": "1983",
-    "question": "Quel est le nom de l'inventeur du premier système de carte à puce ?",
-    "answer": "Roland Moreno",
+    "id": "1044",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
+    "answer": "Fer",
     "badAnswers": [
-      "Robert Noyce",
-      "Jack Kilby",
-      "Martin Cooper"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Roland Moreno a inventé la carte à puce en 1974, utilisée dans les cartes bancaires et les systèmes sécurisés."
-  },
-  {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
+      "Fluor",
+      "Francium",
+      "Phosphore"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+    "difficulty": "facile",
+    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
   },
   {
-    "id": "1669",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
-    "answer": "Mutiny on the Bounty",
+    "id": "611",
+    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
+    "answer": "Kannon",
     "badAnswers": [
-      "The Informer",
-      "Captain Blood",
-      "Top Hat"
+      "Kannon",
+      "Benzaiten",
+      "Amaterasu",
+      "Inari"
     ],
-    "category": "Cinéma",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
+    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
   },
   {
-    "id": "1555",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Db ?",
-    "answer": "Dubnium",
+    "id": "739",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Pikmin ?",
+    "answer": "Olimar",
     "badAnswers": [
-      "Dysprosium",
-      "Darmstadtium",
-      "Deutérium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dubnium, symbolisé par Db, est un élément radioactif synthétique, nommé d'après la ville de Doubna, utilisé dans la recherche."
-  },
-  {
-    "id": "1604",
-    "question": "Quel est la capitale des Seychelles ?",
-    "answer": "Victoria",
-    "badAnswers": [
-      "Mahé",
-      "Praslin",
-      "La Digue"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
-  },
-  {
-    "id": "2138",
-    "question": "Quel est le nom de l'auteur de 'Le Métier d'homme' ?",
-    "answer": "Alexandre Jollien",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Alexandre Jollien a écrit 'Le Métier d'homme' (2002), un essai philosophique sur la condition humaine et le handicap."
-  },
-  {
-    "id": "852",
-    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
-    "answer": "Ellie",
-    "badAnswers": [
-      "Tess",
-      "Marlene",
-      "Sarah"
+      "Alph",
+      "Louie",
+      "Brittany"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
+    "description": "Olimar est le protagoniste de la série Pikmin et un personnage jouable dans Super Smash Bros. Ultimate, commandant des Pikmin. Alph, Louie et Brittany sont d'autres personnages de la série."
+  },
+  {
+    "id": "318",
+    "question": "Dans Harry Potter, quelle est la maison de Poudlard associée à la loyauté et au travail acharné ?",
+    "answer": "Poufsouffle",
+    "badAnswers": [
+      "Gryffondor",
+      "Serpentard",
+      "Serdaigle"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Poufsouffle, l'une des quatre maisons de Poudlard dans Harry Potter de J.K. Rowling, valorise la loyauté, le travail acharné et la justice. Représentée par un blaireau et les couleurs jaune et noir, elle est souvent sous-estimée mais compte des membres honorables comme Cédric Diggory. Les autres maisons ont des valeurs différentes : courage pour Gryffondor, ambition pour Serpentard, et intelligence pour Serdaigle."
+  },
+  {
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+  },
+  {
+    "id": "76",
+    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
+    "answer": "Tesla",
+    "badAnswers": [
+      "Rivian",
+      "Lucid Motors",
+      "Nio"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
+  },
+  {
+    "id": "479",
+    "question": "Quel artiste a peint Le Jardin des délices ?",
+    "answer": "Jérôme Bosch",
+    "badAnswers": [
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Jan van Eyck"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
+  },
+  {
+    "id": "585",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
+    "answer": "Expelliarmus",
+    "badAnswers": [
+      "Stupéfix",
+      "Lumos",
+      "Accio"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
+  },
+  {
+    "id": "682",
+    "question": "Quel est le plus grand oiseau aquatique du monde ?",
+    "answer": "Pélican frisé",
+    "badAnswers": [
+      "Cygne noir",
+      "Albatros hurleur",
+      "Flamant rose"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
   }
 ]
