@@ -1,74 +1,60 @@
 [
   {
-    "id": "1179",
-    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
-    "answer": "Bruce Springsteen",
+    "id": "1158",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2020 ?",
+    "answer": "Nomadland",
     "badAnswers": [
-      "Bob Dylan",
-      "Tom Petty",
-      "John Mellencamp"
+      "The Trial of the Chicago 7",
+      "Promising Young Woman",
+      "Minari"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Nomadland, réalisé par Chloé Zhao, a remporté l'Oscar du meilleur film en 2020, explorant la vie nomade aux États-Unis."
+  },
+  {
+    "id": "325",
+    "question": "Quel est le plus grand lac du monde ?",
+    "answer": "Mer Caspienne",
+    "badAnswers": [
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Tanganyika"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "La mer Caspienne est le plus grand lac du monde en superficie, couvrant environ 371 000 km². Bien qu'elle soit appelée 'mer', elle est en réalité un lac salé. Le lac Supérieur est le plus grand lac d'eau douce, tandis que le lac Victoria est le plus grand lac d'Afrique."
+  },
+  {
+    "id": "1885",
+    "question": "Quel est le nom de l'auteur de 'Les Mots' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Mots' (1964), une autobiographie sur son enfance et sa découverte de la littérature."
+  },
+  {
+    "id": "1111",
+    "question": "Quel est le nom du groupe qui a chanté 'Creep' ?",
+    "answer": "Radiohead",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
+    "description": "'Creep', sorti en 1992 par Radiohead, est une chanson alternative rock devenue un hymne pour une génération, tirée de l'album Pablo Honey."
   },
   {
-    "id": "1044",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
-  },
-  {
-    "id": "611",
-    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
-    "answer": "Kannon",
-    "badAnswers": [
-      "Kannon",
-      "Benzaiten",
-      "Amaterasu",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
-  },
-  {
-    "id": "739",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Pikmin ?",
-    "answer": "Olimar",
-    "badAnswers": [
-      "Alph",
-      "Louie",
-      "Brittany"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Olimar est le protagoniste de la série Pikmin et un personnage jouable dans Super Smash Bros. Ultimate, commandant des Pikmin. Alph, Louie et Brittany sont d'autres personnages de la série."
-  },
-  {
-    "id": "318",
-    "question": "Dans Harry Potter, quelle est la maison de Poudlard associée à la loyauté et au travail acharné ?",
-    "answer": "Poufsouffle",
-    "badAnswers": [
-      "Gryffondor",
-      "Serpentard",
-      "Serdaigle"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Poufsouffle, l'une des quatre maisons de Poudlard dans Harry Potter de J.K. Rowling, valorise la loyauté, le travail acharné et la justice. Représentée par un blaireau et les couleurs jaune et noir, elle est souvent sous-estimée mais compte des membres honorables comme Cédric Diggory. Les autres maisons ont des valeurs différentes : courage pour Gryffondor, ambition pour Serpentard, et intelligence pour Serdaigle."
-  },
-  {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "1949",
+    "question": "Quel est le nom de l'auteur de 'Les Communistes' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -76,58 +62,71 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "description": "Louis Aragon a écrit 'Les Communistes' (1949-1951), un cycle romanesque sur l'engagement politique."
   },
   {
-    "id": "76",
-    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
-    "answer": "Tesla",
+    "id": "150",
+    "question": "Quel dessert doit son nom à une opérette de Jacques Offenbach ?",
+    "answer": "Poire Belle-Hélène",
     "badAnswers": [
-      "Rivian",
-      "Lucid Motors",
-      "Nio"
+      "Fraise Melba",
+      "Crème Chiboust",
+      "Opéra"
     ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
-  },
-  {
-    "id": "479",
-    "question": "Quel artiste a peint Le Jardin des délices ?",
-    "answer": "Jérôme Bosch",
-    "badAnswers": [
-      "Pieter Bruegel l'Ancien",
-      "Albrecht Dürer",
-      "Jan van Eyck"
-    ],
-    "category": "Art",
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
+    "description": "La 'Poire Belle-Hélène' (poire pochée, glace vanille et chocolat) tire son nom de l'héroïne de l'opérette 'La Belle Hélène' d'Offenbach. La Fraise Melba honore la cantatrice Nellie Melba."
   },
   {
-    "id": "585",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
-    "answer": "Expelliarmus",
+    "id": "1458",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1965 ?",
+    "answer": "The Sound of Music",
     "badAnswers": [
-      "Stupéfix",
-      "Lumos",
-      "Accio"
+      "Doctor Zhivago",
+      "Darling",
+      "Ship of Fools"
     ],
-    "category": "Littérature",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
+    "description": "The Sound of Music, réalisé par Robert Wise, a remporté l'Oscar du meilleur film en 1965, une comédie musicale sur la famille von Trapp."
   },
   {
-    "id": "682",
-    "question": "Quel est le plus grand oiseau aquatique du monde ?",
-    "answer": "Pélican frisé",
+    "id": "1056",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
+    "answer": "Uncharted",
     "badAnswers": [
-      "Cygne noir",
-      "Albatros hurleur",
-      "Flamant rose"
+      "Tomb Raider",
+      "The Last of Us",
+      "Far Cry"
     ],
-    "category": "Animaux",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
+  },
+  {
+    "id": "1297",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Juba",
+    "badAnswers": [
+      "Wau",
+      "Malakal",
+      "Yei"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
+    "description": "Juba, capitale du Soudan du Sud depuis l'indépendance en 2011, est une ville située sur le Nil Blanc, en pleine croissance."
+  },
+  {
+    "id": "1438",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
+    "answer": "Rhénium",
+    "badAnswers": [
+      "Ruthénium",
+      "Rhodium",
+      "Radon"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
   }
 ]
