@@ -1,132 +1,132 @@
 [
   {
-    "id": "106",
-    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
-    "answer": "Raymond Domenech",
+    "id": "640",
+    "question": "Quel est le nom du dieu égyptien du soleil ?",
+    "answer": "Râ",
     "badAnswers": [
-      "Didier Deschamps",
-      "Aimé Jacquet",
-      "Michel Hidalgo"
+      "Osiris",
+      "Anubis",
+      "Horus"
     ],
-    "category": "Sports",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
+    "description": "Râ est le dieu égyptien du soleil, souvent représenté avec une tête de faucon. Osiris est le dieu des morts, Anubis celui de l'embaumement, et Horus celui du ciel."
   },
   {
-    "id": "690",
-    "question": "Quel scientifique a découvert la loi des orbites planétaires elliptiques ?",
-    "answer": "Johannes Kepler",
+    "id": "881",
+    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
+    "answer": "Dark Sidious",
     "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Dark Maul",
+      "Comte Dooku",
+      "Yoda"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les lois des orbites planétaires elliptiques au début du XVIIe siècle. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
   },
   {
-    "id": "1616",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1937 ?",
-    "answer": "The Great Ziegfeld",
+    "id": "1566",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
+    "answer": "Going My Way",
     "badAnswers": [
-      "Mr. Deeds Goes to Town",
-      "San Francisco",
-      "The Story of Louis Pasteur"
+      "Gaslight",
+      "Since You Went Away",
+      "Wilson"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Great Ziegfeld, réalisé par Robert Z. Leonard, a remporté l'Oscar du meilleur film en 1937, un biopic sur le producteur de Broadway."
+    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
   },
   {
-    "id": "1632",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
-    "answer": "Super Mario",
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Émeu",
+      "Casoar",
+      "Nandou"
     ],
-    "category": "Jeux vidéo",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
   },
   {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
+    "id": "1373",
+    "question": "Quel est la capitale du Suriname ?",
+    "answer": "Paramaribo",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Nieuw Nickerie",
+      "Moengo",
+      "Albina"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
-  },
-  {
-    "id": "1357",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dante ?",
-    "answer": "Devil May Cry",
-    "badAnswers": [
-      "God of War",
-      "Bayonetta",
-      "Dante's Inferno"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dante, chasseur de démons charismatique, est le héros de la série Devil May Cry, connu pour ses combats stylés."
-  },
-  {
-    "id": "1457",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tl ?",
-    "answer": "Thallium",
-    "badAnswers": [
-      "Tellure",
-      "Thorium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le thallium, symbolisé par Tl, est un métal toxique autrefois utilisé dans les poisons et aujourd'hui dans certains appareils électroniques."
-  },
-  {
-    "id": "1112",
-    "question": "Quel est le nom de l'inventeur du vaccin contre la polio ?",
-    "answer": "Jonas Salk",
-    "badAnswers": [
-      "Albert Sabin",
-      "Louis Pasteur",
-      "Edward Jenner"
-    ],
-    "category": "Médecine",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Jonas Salk a développé le premier vaccin efficace contre la polio en 1955, contribuant à éradiquer cette maladie dans de nombreuses régions."
+    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
   },
   {
-    "id": "1542",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur mécanique ?",
-    "answer": "Charles Babbage",
+    "id": "703",
+    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+    "answer": "Iso-onna",
     "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John Presper Eckert"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Charles Babbage a conçu la machine analytique dans les années 1830, considérée comme le premier ordinateur mécanique."
-  },
-  {
-    "id": "1096",
-    "question": "Quel est le nom du dieu grec de la médecine ?",
-    "answer": "Asclépios",
-    "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
+      "Yuki-onna",
+      "Jorōgumo",
+      "Onryō"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
+    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+  },
+  {
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
+    "badAnswers": [
+      "Argent",
+      "Cuivre",
+      "Platine"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+  },
+  {
+    "id": "546",
+    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
+    "answer": "Pablo Picasso",
+    "badAnswers": [
+      "Henri Matisse",
+      "Georges Braque",
+      "Juan Gris"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1984",
+    "question": "Quel est le nom de l'auteur de 'Les Séquestrés d'Altona' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Séquestrés d'Altona' (1959), une pièce sur la culpabilité et les conflits familiaux."
+  },
+  {
+    "id": "33",
+    "question": "Quel scientifique a découvert la pénicilline ?",
+    "answer": "Alexander Fleming",
+    "badAnswers": [
+      "Louis Pasteur",
+      "Marie Curie",
+      "Albert Einstein"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
   }
 ]
