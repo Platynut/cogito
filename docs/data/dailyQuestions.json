@@ -1,132 +1,132 @@
 [
   {
-    "id": "640",
-    "question": "Quel est le nom du dieu égyptien du soleil ?",
-    "answer": "Râ",
+    "id": "1227",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mn ?",
+    "answer": "Manganèse",
     "badAnswers": [
-      "Osiris",
-      "Anubis",
-      "Horus"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Râ est le dieu égyptien du soleil, souvent représenté avec une tête de faucon. Osiris est le dieu des morts, Anubis celui de l'embaumement, et Horus celui du ciel."
-  },
-  {
-    "id": "881",
-    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
-    "answer": "Dark Sidious",
-    "badAnswers": [
-      "Dark Maul",
-      "Comte Dooku",
-      "Yoda"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
-  },
-  {
-    "id": "1566",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
-    "answer": "Going My Way",
-    "badAnswers": [
-      "Gaslight",
-      "Since You Went Away",
-      "Wilson"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
-  },
-  {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "1373",
-    "question": "Quel est la capitale du Suriname ?",
-    "answer": "Paramaribo",
-    "badAnswers": [
-      "Nieuw Nickerie",
-      "Moengo",
-      "Albina"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
-  },
-  {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
-    "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
+      "Magnésium",
+      "Mercure",
+      "Molybdène"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+    "description": "Le manganèse, symbolisé par Mn, est un métal utilisé dans les alliages d'acier et les batteries, essentiel pour certaines enzymes biologiques."
   },
   {
-    "id": "546",
-    "question": "Quel artiste a peint Les Demoiselles d'Avignon ?",
-    "answer": "Pablo Picasso",
+    "id": "1490",
+    "question": "Quel est le nom de la déesse grecque de la nuit ?",
+    "answer": "Nyx",
     "badAnswers": [
-      "Henri Matisse",
-      "Georges Braque",
-      "Juan Gris"
+      "Héra",
+      "Athéna",
+      "Artémis"
     ],
-    "category": "Art",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Les Demoiselles d'Avignon (1907) de Pablo Picasso est une œuvre cubiste révolutionnaire, marquant le début du cubisme. Matisse, Braque et Gris sont d'autres artistes liés au cubisme ou au fauvisme, mais n'ont pas peint ce tableau."
+    "description": "Nyx, déesse grecque de la nuit, est une figure primordiale puissante, mère de divinités comme Hypnos et Thanatos."
   },
   {
-    "id": "1984",
-    "question": "Quel est le nom de l'auteur de 'Les Séquestrés d'Altona' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1412",
+    "question": "Quel est le nom de l'inventeur du premier réfrigérateur mécanique ?",
+    "answer": "Carl von Linde",
     "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Harrison"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Carl von Linde a développé le premier réfrigérateur mécanique en 1876, révolutionnant la conservation des aliments."
+  },
+  {
+    "id": "283",
+    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
+    "answer": "1995",
+    "badAnswers": [
+      "1992",
+      "1996",
+      "1991"
+    ],
+    "category": "Célébrités",
+    "difficulty": "normal",
+    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
+  },
+  {
+    "id": "282",
+    "question": "En quelle année a eu lieu le premier Comic-Con de San Diego ?",
+    "answer": "1970",
+    "badAnswers": [
+      "2000",
+      "1990",
+      "1985"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "difficile",
+    "description": "Le premier Comic-Con de San Diego a eu lieu en 1970, fondé par Shel Dorf et d'autres passionnés de comics. Initialement un petit événement axé sur les bandes dessinées, il est devenu l'une des plus grandes conventions de culture pop au monde. Les autres années proposées sont bien postérieures à cet événement inaugural."
+  },
+  {
+    "id": "1896",
+    "question": "Quel est le nom de l'auteur de 'Le Temps retrouvé' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Jean-Paul Sartre",
       "Albert Camus",
-      "Simone de Beauvoir",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Séquestrés d'Altona' (1959), une pièce sur la culpabilité et les conflits familiaux."
+    "description": "Marcel Proust a écrit 'Le Temps retrouvé' (1927), le dernier volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "33",
-    "question": "Quel scientifique a découvert la pénicilline ?",
-    "answer": "Alexander Fleming",
+    "id": "926",
+    "question": "Quel était le premier pack d'armes pour PAYDAY 2 ?",
+    "answer": "Gage Weapon Pack #1",
     "badAnswers": [
-      "Louis Pasteur",
-      "Marie Curie",
-      "Albert Einstein"
+      "The Overkill Pack",
+      "The Gage Chivalry Pack",
+      "The Gage Historical Pack"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Gage Weapon Pack #1 est le premier pack d'armes sorti pour PAYDAY 2, introduisant de nouvelles armes et modifications pour enrichir l'expérience de braquage. Sorti en 2013, il a marqué le début d'une série de contenus téléchargeables par Gage, un personnage clé du jeu. Les autres packs mentionnés sont sortis plus tard."
+  },
+  {
+    "id": "890",
+    "question": "Dans Star Wars, quel est le nom de la princesse de la Rébellion ?",
+    "answer": "Leia Organa",
+    "badAnswers": [
+      "Padmé Amidala",
+      "Rey",
+      "Ahsoka Tano"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Leia Organa est la princesse de la Rébellion dans Star Wars : Un nouvel espoir. Padmé est sa mère, Rey une héroïne plus récente, et Ahsoka une Jedi."
+  },
+  {
+    "id": "1516",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
+    "answer": "Berkélium",
+    "badAnswers": [
+      "Brome",
+      "Beryllium",
+      "Bore"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
+    "difficulty": "difficile",
+    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
+  },
+  {
+    "id": "574",
+    "question": "Quel artiste a peint Guernica ?",
+    "answer": "Pablo Picasso",
+    "badAnswers": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Diego Rivera"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Guernica (1937) de Pablo Picasso est une peinture anti-guerre représentant le bombardement de la ville basque. C'est une œuvre majeure du XXe siècle. Dalí, Miró et Rivera sont d'autres artistes, mais n'ont pas peint ce tableau."
   }
 ]
