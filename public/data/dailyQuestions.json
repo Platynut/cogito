@@ -1,132 +1,132 @@
 [
   {
-    "id": "1227",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mn ?",
-    "answer": "Manganèse",
+    "id": "405",
+    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
+    "answer": "70",
     "badAnswers": [
-      "Magnésium",
-      "Mercure",
-      "Molybdène"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le manganèse, symbolisé par Mn, est un métal utilisé dans les alliages d'acier et les batteries, essentiel pour certaines enzymes biologiques."
-  },
-  {
-    "id": "1490",
-    "question": "Quel est le nom de la déesse grecque de la nuit ?",
-    "answer": "Nyx",
-    "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Artémis"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Nyx, déesse grecque de la nuit, est une figure primordiale puissante, mère de divinités comme Hypnos et Thanatos."
-  },
-  {
-    "id": "1412",
-    "question": "Quel est le nom de l'inventeur du premier réfrigérateur mécanique ?",
-    "answer": "Carl von Linde",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "James Harrison"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Carl von Linde a développé le premier réfrigérateur mécanique en 1876, révolutionnant la conservation des aliments."
-  },
-  {
-    "id": "283",
-    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
-    "answer": "1995",
-    "badAnswers": [
-      "1992",
-      "1996",
-      "1991"
-    ],
-    "category": "Célébrités",
-    "difficulty": "normal",
-    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
-  },
-  {
-    "id": "282",
-    "question": "En quelle année a eu lieu le premier Comic-Con de San Diego ?",
-    "answer": "1970",
-    "badAnswers": [
-      "2000",
-      "1990",
-      "1985"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "difficile",
-    "description": "Le premier Comic-Con de San Diego a eu lieu en 1970, fondé par Shel Dorf et d'autres passionnés de comics. Initialement un petit événement axé sur les bandes dessinées, il est devenu l'une des plus grandes conventions de culture pop au monde. Les autres années proposées sont bien postérieures à cet événement inaugural."
-  },
-  {
-    "id": "1896",
-    "question": "Quel est le nom de l'auteur de 'Le Temps retrouvé' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Le Temps retrouvé' (1927), le dernier volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "926",
-    "question": "Quel était le premier pack d'armes pour PAYDAY 2 ?",
-    "answer": "Gage Weapon Pack #1",
-    "badAnswers": [
-      "The Overkill Pack",
-      "The Gage Chivalry Pack",
-      "The Gage Historical Pack"
+      "50",
+      "100",
+      "120"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Gage Weapon Pack #1 est le premier pack d'armes sorti pour PAYDAY 2, introduisant de nouvelles armes et modifications pour enrichir l'expérience de braquage. Sorti en 2013, il a marqué le début d'une série de contenus téléchargeables par Gage, un personnage clé du jeu. Les autres packs mentionnés sont sortis plus tard."
+    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
   },
   {
-    "id": "890",
-    "question": "Dans Star Wars, quel est le nom de la princesse de la Rébellion ?",
-    "answer": "Leia Organa",
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
     "badAnswers": [
-      "Padmé Amidala",
-      "Rey",
-      "Ahsoka Tano"
+      "Titane",
+      "Tantale",
+      "Thallium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+  },
+  {
+    "id": "1399",
+    "question": "Quel est le nom de la déesse grecque des arts ?",
+    "answer": "Les Muses",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
+  },
+  {
+    "id": "1207",
+    "question": "Quel est la capitale du Mozambique ?",
+    "answer": "Maputo",
+    "badAnswers": [
+      "Beira",
+      "Nampula",
+      "Matola"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maputo, capitale du Mozambique, est une ville portuaire connue pour son architecture coloniale et son dynamisme culturel."
+  },
+  {
+    "id": "132",
+    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
+    "answer": "Gavin Wood",
+    "badAnswers": [
+      "Charlie Lee",
+      "Sunny King",
+      "Roger Ver"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
+  },
+  {
+    "id": "907",
+    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
+    "answer": "Han Solo",
+    "badAnswers": [
+      "Lando Calrissian",
+      "Chewbacca",
+      "Boba Fett"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Leia Organa est la princesse de la Rébellion dans Star Wars : Un nouvel espoir. Padmé est sa mère, Rey une héroïne plus récente, et Ahsoka une Jedi."
+    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
   },
   {
-    "id": "1516",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
-    "answer": "Berkélium",
+    "id": "1028",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
     "badAnswers": [
-      "Brome",
-      "Beryllium",
-      "Bore"
+      "Vénus",
+      "Mars",
+      "Jupiter"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
   },
   {
-    "id": "574",
-    "question": "Quel artiste a peint Guernica ?",
-    "answer": "Pablo Picasso",
+    "id": "59",
+    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
+    "answer": "Michael Jackson",
     "badAnswers": [
-      "Salvador Dalí",
-      "Joan Miró",
-      "Diego Rivera"
+      "Prince",
+      "Madonna",
+      "The Jacksons"
     ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Guernica (1937) de Pablo Picasso est une peinture anti-guerre représentant le bombardement de la ville basque. C'est une œuvre majeure du XXe siècle. Dalí, Miró et Rivera sont d'autres artistes, mais n'ont pas peint ce tableau."
+    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+  },
+  {
+    "id": "217",
+    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
+    "answer": "Pays-Bas",
+    "badAnswers": [
+      "Belgique",
+      "Suisse",
+      "France"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
+  },
+  {
+    "id": "57",
+    "question": "Quelle entreprise a développé le processeur Ryzen ?",
+    "answer": "AMD",
+    "badAnswers": [
+      "Intel",
+      "Nvidia",
+      "Qualcomm"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
   }
 ]
