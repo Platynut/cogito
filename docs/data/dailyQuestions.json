@@ -1,132 +1,132 @@
 [
   {
-    "id": "405",
-    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
-    "answer": "70",
+    "id": "1341",
+    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
+    "answer": "Igor Sikorsky",
     "badAnswers": [
-      "50",
-      "100",
-      "120"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "1399",
-    "question": "Quel est le nom de la déesse grecque des arts ?",
-    "answer": "Les Muses",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
-  },
-  {
-    "id": "1207",
-    "question": "Quel est la capitale du Mozambique ?",
-    "answer": "Maputo",
-    "badAnswers": [
-      "Beira",
-      "Nampula",
-      "Matola"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Maputo, capitale du Mozambique, est une ville portuaire connue pour son architecture coloniale et son dynamisme culturel."
-  },
-  {
-    "id": "132",
-    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
-    "answer": "Gavin Wood",
-    "badAnswers": [
-      "Charlie Lee",
-      "Sunny King",
-      "Roger Ver"
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Orville Wright"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
   },
   {
-    "id": "907",
-    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
-    "answer": "Han Solo",
+    "id": "1604",
+    "question": "Quel est la capitale des Seychelles ?",
+    "answer": "Victoria",
     "badAnswers": [
-      "Lando Calrissian",
-      "Chewbacca",
-      "Boba Fett"
+      "Mahé",
+      "Praslin",
+      "La Digue"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
+  },
+  {
+    "id": "1747",
+    "question": "Quel est le nom de l'auteur de 'La Condition humaine' ?",
+    "answer": "André Malraux",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'La Condition humaine' (1933), un roman sur la révolution chinoise et l'existentialisme."
+  },
+  {
+    "id": "1226",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
+    "answer": "Million Dollar Baby",
+    "badAnswers": [
+      "The Aviator",
+      "Ray",
+      "Sideways"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+    "difficulty": "normal",
+    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
   },
   {
-    "id": "1028",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
+    "id": "844",
+    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du boss final ?",
+    "answer": "Isshin, le Saint de l'Épée",
     "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Jupiter"
+      "Genichiro Ashina",
+      "Démon de la Haine",
+      "Grande Chouette Shinobi"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Isshin, le Saint de l'Épée, est le boss final de Sekiro: Shadows Die Twice dans la fin standard. Genichiro, le Démon de la Haine et la Chouette sont d'autres boss."
   },
   {
-    "id": "59",
-    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
-    "answer": "Michael Jackson",
+    "id": "2060",
+    "question": "Quel est le nom de l'inventeur du premier système de réseau Ethernet ?",
+    "answer": "Robert Metcalfe",
     "badAnswers": [
-      "Prince",
-      "Madonna",
-      "The Jacksons"
+      "Vinton Cerf",
+      "Tim Berners-Lee",
+      "Ray Tomlinson"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Robert Metcalfe, avec l'aide de son équipe chez Xerox PARC, a inventé Ethernet en 1973, un protocole clé pour les réseaux locaux (LAN)."
+  },
+  {
+    "id": "1596",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
+    "answer": "Rebecca",
+    "badAnswers": [
+      "The Grapes of Wrath",
+      "The Great Dictator",
+      "Kitty Foyle"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
+  },
+  {
+    "id": "1558",
+    "question": "Quel est la capitale de la Guinée équatoriale ?",
+    "answer": "Malabo",
+    "badAnswers": [
+      "Bata",
+      "Ebebiyín",
+      "Mongomo"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
+  },
+  {
+    "id": "728",
+    "question": "Dans Pokémon Noir et Blanc, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Zekrom",
+    "badAnswers": [
+      "Reshiram",
+      "Kyurem",
+      "Victini"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zekrom est le Pokémon légendaire associé à la foudre dans Pokémon Noir, représentant les idéaux. Reshiram représente la vérité, Kyurem la fusion, et Victini est un autre légendaire."
+  },
+  {
+    "id": "1647",
+    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
+    "answer": "Blur",
+    "badAnswers": [
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
-  },
-  {
-    "id": "217",
-    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
-    "answer": "Pays-Bas",
-    "badAnswers": [
-      "Belgique",
-      "Suisse",
-      "France"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
-  },
-  {
-    "id": "57",
-    "question": "Quelle entreprise a développé le processeur Ryzen ?",
-    "answer": "AMD",
-    "badAnswers": [
-      "Intel",
-      "Nvidia",
-      "Qualcomm"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
+    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
   }
 ]
