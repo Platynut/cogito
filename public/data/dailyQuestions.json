@@ -1,132 +1,132 @@
 [
   {
-    "id": "1341",
-    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
-    "answer": "Igor Sikorsky",
+    "id": "1319",
+    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
+    "answer": "Déméter",
     "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Orville Wright"
+      "Héra",
+      "Aphrodite",
+      "Athéna"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
   },
   {
-    "id": "1604",
-    "question": "Quel est la capitale des Seychelles ?",
-    "answer": "Victoria",
+    "id": "965",
+    "question": "Qui a écrit la pièce de théâtre Angels in America ?",
+    "answer": "Tony Kushner",
     "badAnswers": [
-      "Mahé",
-      "Praslin",
-      "La Digue"
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
+    "category": "Comédies musicales et théâtre",
+    "difficulty": "facile",
+    "description": "Tony Kushner est l'auteur de Angels in America, une pièce en deux parties sur l'épidémie de sida aux États-Unis dans les années 1980, acclamée pour sa profondeur et son style."
   },
   {
-    "id": "1747",
-    "question": "Quel est le nom de l'auteur de 'La Condition humaine' ?",
-    "answer": "André Malraux",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Malraux a écrit 'La Condition humaine' (1933), un roman sur la révolution chinoise et l'existentialisme."
-  },
-  {
-    "id": "1226",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2004 ?",
-    "answer": "Million Dollar Baby",
-    "badAnswers": [
-      "The Aviator",
-      "Ray",
-      "Sideways"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Million Dollar Baby, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 2004, une histoire émouvante sur la boxe et le sacrifice."
-  },
-  {
-    "id": "844",
-    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du boss final ?",
-    "answer": "Isshin, le Saint de l'Épée",
-    "badAnswers": [
-      "Genichiro Ashina",
-      "Démon de la Haine",
-      "Grande Chouette Shinobi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Isshin, le Saint de l'Épée, est le boss final de Sekiro: Shadows Die Twice dans la fin standard. Genichiro, le Démon de la Haine et la Chouette sont d'autres boss."
-  },
-  {
-    "id": "2060",
-    "question": "Quel est le nom de l'inventeur du premier système de réseau Ethernet ?",
-    "answer": "Robert Metcalfe",
-    "badAnswers": [
-      "Vinton Cerf",
-      "Tim Berners-Lee",
-      "Ray Tomlinson"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Robert Metcalfe, avec l'aide de son équipe chez Xerox PARC, a inventé Ethernet en 1973, un protocole clé pour les réseaux locaux (LAN)."
-  },
-  {
-    "id": "1596",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
-    "answer": "Rebecca",
-    "badAnswers": [
-      "The Grapes of Wrath",
-      "The Great Dictator",
-      "Kitty Foyle"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
-  },
-  {
-    "id": "1558",
-    "question": "Quel est la capitale de la Guinée équatoriale ?",
-    "answer": "Malabo",
-    "badAnswers": [
-      "Bata",
-      "Ebebiyín",
-      "Mongomo"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
-  },
-  {
-    "id": "728",
-    "question": "Dans Pokémon Noir et Blanc, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Zekrom",
-    "badAnswers": [
-      "Reshiram",
-      "Kyurem",
-      "Victini"
+      "Navi",
+      "Tatl",
+      "Fi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Zekrom est le Pokémon légendaire associé à la foudre dans Pokémon Noir, représentant les idéaux. Reshiram représente la vérité, Kyurem la fusion, et Victini est un autre légendaire."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
   },
   {
-    "id": "1647",
-    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
-    "answer": "Blur",
+    "id": "631",
+    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
+    "answer": "V-Bucks",
     "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
+      "Robux",
+      "Credits",
+      "Battle Points"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+  },
+  {
+    "id": "1534",
+    "question": "Quel est la capitale du Bénin ?",
+    "answer": "Porto-Novo",
+    "badAnswers": [
+      "Cotonou",
+      "Abomey",
+      "Parakou"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Porto-Novo, capitale du Bénin, est une ville historique connue pour son architecture afro-brésilienne et son musée ethnographique."
+  },
+  {
+    "id": "425",
+    "question": "Dans Super Mario Kart, quel personnage est le frère de Mario ?",
+    "answer": "Luigi",
+    "badAnswers": [
+      "Wario",
+      "Yoshi",
+      "Toad"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Luigi est le frère de Mario et un personnage jouable dans Super Mario Kart. Connu pour sa combinaison verte, il est un pilier de la série Mario. Wario est un rival, Yoshi un dinosaure, et Toad un serviteur du Royaume Champignon."
+  },
+  {
+    "id": "196",
+    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
+    "answer": "Alsace",
+    "badAnswers": [
+      "Bretagne",
+      "Corse",
+      "Auvergne"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
+  },
+  {
+    "id": "8",
+    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
+    "answer": "Quentin Tarantino",
+    "badAnswers": [
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
+  },
+  {
+    "id": "2030",
+    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
+    "difficulty": "normal",
+    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "315",
+    "question": "La série Fallout se déroule dans un monde post-apocalyptique causé par quel type de catastrophe ?",
+    "answer": "Guerre nucléaire",
+    "badAnswers": [
+      "Invasion extraterrestre",
+      "Épidémie virale",
+      "Catastrophe climatique"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+    "description": "La série Fallout se déroule dans un univers rétrofuturiste dévasté par une guerre nucléaire mondiale, survenue en 2077 dans la chronologie du jeu. Cette catastrophe a transformé la Terre en un wasteland, avec des abris souterrains (Vaults) comme refuges. Les autres options ne correspondent pas à l'histoire de la série."
   }
 ]
