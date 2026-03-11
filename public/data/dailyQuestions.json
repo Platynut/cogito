@@ -1,111 +1,46 @@
 [
   {
-    "id": "1319",
-    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
-    "answer": "Déméter",
+    "id": "263",
+    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
+    "answer": "The Walking Dead",
     "badAnswers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna"
+      "Game of Thrones",
+      "Stranger Things",
+      "Lost"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
   },
   {
-    "id": "965",
-    "question": "Qui a écrit la pièce de théâtre Angels in America ?",
-    "answer": "Tony Kushner",
+    "id": "442",
+    "question": "Quel est le nom du plus grand archipel du monde ?",
+    "answer": "Indonésie",
     "badAnswers": [
-      "Tom Stoppard",
-      "Matthew Lopez",
-      "Anthony Neilson"
-    ],
-    "category": "Comédies musicales et théâtre",
-    "difficulty": "facile",
-    "description": "Tony Kushner est l'auteur de Angels in America, une pièce en deux parties sur l'épidémie de sida aux États-Unis dans les années 1980, acclamée pour sa profondeur et son style."
-  },
-  {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
-    "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "631",
-    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
-    "answer": "V-Bucks",
-    "badAnswers": [
-      "Robux",
-      "Credits",
-      "Battle Points"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
-  },
-  {
-    "id": "1534",
-    "question": "Quel est la capitale du Bénin ?",
-    "answer": "Porto-Novo",
-    "badAnswers": [
-      "Cotonou",
-      "Abomey",
-      "Parakou"
+      "Philippines",
+      "Maldives",
+      "Japon"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Porto-Novo, capitale du Bénin, est une ville historique connue pour son architecture afro-brésilienne et son musée ethnographique."
+    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
   },
   {
-    "id": "425",
-    "question": "Dans Super Mario Kart, quel personnage est le frère de Mario ?",
-    "answer": "Luigi",
+    "id": "1547",
+    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
+    "answer": "Bon Jovi",
     "badAnswers": [
-      "Wario",
-      "Yoshi",
-      "Toad"
+      "Aerosmith",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Luigi est le frère de Mario et un personnage jouable dans Super Mario Kart. Connu pour sa combinaison verte, il est un pilier de la série Mario. Wario est un rival, Yoshi un dinosaure, et Toad un serviteur du Royaume Champignon."
+    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
   },
   {
-    "id": "196",
-    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
-    "answer": "Alsace",
-    "badAnswers": [
-      "Bretagne",
-      "Corse",
-      "Auvergne"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
-  },
-  {
-    "id": "8",
-    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
-    "answer": "Quentin Tarantino",
-    "badAnswers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Guy Ritchie"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
-  },
-  {
-    "id": "2030",
-    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
+    "id": "1886",
+    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -113,20 +48,85 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
+    "difficulty": "facile",
+    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "315",
-    "question": "La série Fallout se déroule dans un monde post-apocalyptique causé par quel type de catastrophe ?",
-    "answer": "Guerre nucléaire",
+    "id": "1679",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
+    "answer": "You Can't Take It with You",
     "badAnswers": [
-      "Invasion extraterrestre",
-      "Épidémie virale",
-      "Catastrophe climatique"
+      "The Adventures of Robin Hood",
+      "Boys Town",
+      "Jezebel"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
+  },
+  {
+    "id": "796",
+    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
+    "answer": "Jin Sakai",
+    "badAnswers": [
+      "Khotun Khan",
+      "Lord Shimura",
+      "Yuna"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La série Fallout se déroule dans un univers rétrofuturiste dévasté par une guerre nucléaire mondiale, survenue en 2077 dans la chronologie du jeu. Cette catastrophe a transformé la Terre en un wasteland, avec des abris souterrains (Vaults) comme refuges. Les autres options ne correspondent pas à l'histoire de la série."
+    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
+  },
+  {
+    "id": "317",
+    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
+    "answer": "Link",
+    "badAnswers": [
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
+  },
+  {
+    "id": "185",
+    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
+    "answer": "Youri Gagarine",
+    "badAnswers": [
+      "Guerman Titov",
+      "Buzz Aldrin",
+      "Neil Armstrong"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
+  },
+  {
+    "id": "682",
+    "question": "Quel est le plus grand oiseau aquatique du monde ?",
+    "answer": "Pélican frisé",
+    "badAnswers": [
+      "Cygne noir",
+      "Albatros hurleur",
+      "Flamant rose"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
+  },
+  {
+    "id": "469",
+    "question": "Quel artiste a peint Le Baiser ?",
+    "answer": "Gustav Klimt",
+    "badAnswers": [
+      "Edvard Munch",
+      "Egon Schiele",
+      "Marc Chagall"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
   }
 ]
