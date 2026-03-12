@@ -1,132 +1,132 @@
 [
   {
-    "id": "263",
-    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
-    "answer": "The Walking Dead",
+    "id": "1670",
+    "question": "Quel est le nom du groupe qui a chanté 'Fix You' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Game of Thrones",
-      "Stranger Things",
-      "Lost"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
-  },
-  {
-    "id": "442",
-    "question": "Quel est le nom du plus grand archipel du monde ?",
-    "answer": "Indonésie",
-    "badAnswers": [
-      "Philippines",
-      "Maldives",
-      "Japon"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
-  },
-  {
-    "id": "1547",
-    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
-    "answer": "Bon Jovi",
-    "badAnswers": [
-      "Aerosmith",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
+    "description": "'Fix You', sorti en 2005 par Coldplay, est une ballade émouvante tirée de l'album X&Y."
   },
   {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
+    "id": "1795",
+    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
   },
   {
-    "id": "1679",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
-    "answer": "You Can't Take It with You",
+    "id": "1701",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
+    "answer": "Ruthénium",
     "badAnswers": [
-      "The Adventures of Robin Hood",
-      "Boys Town",
-      "Jezebel"
+      "Radon",
+      "Rubidium",
+      "Rhodium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
+  },
+  {
+    "id": "724",
+    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
+    "answer": "Franz Kafka",
+    "badAnswers": [
+      "Albert Camus",
+      "Thomas Mann",
+      "Hermann Hesse"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1382",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
+    "answer": "Terbium",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+  },
+  {
+    "id": "285",
+    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
+    "answer": "Nez",
+    "badAnswers": [
+      "Oreilles",
+      "Menton",
+      "Cou"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
+  },
+  {
+    "id": "572",
+    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
+    "answer": "Atelier",
+    "badAnswers": [
+      "Confrérie",
+      "Église de la Guérison",
+      "Vilebloods"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+  },
+  {
+    "id": "1617",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
+    "answer": "Livermorium",
+    "badAnswers": [
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
+  },
+  {
+    "id": "1232",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
+    "answer": "The Lord of the Rings: The Return of the King",
+    "badAnswers": [
+      "Mystic River",
+      "Lost in Translation",
+      "Master and Commander"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
-  },
-  {
-    "id": "796",
-    "question": "Dans Ghost of Tsushima, quel est le nom du protagoniste ?",
-    "answer": "Jin Sakai",
-    "badAnswers": [
-      "Khotun Khan",
-      "Lord Shimura",
-      "Yuna"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jin Sakai est le protagoniste de Ghost of Tsushima, un samouraï luttant contre l'invasion mongole. Khotun Khan est l'antagoniste, Lord Shimura un allié, et Yuna une compagne."
+    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
   },
   {
-    "id": "317",
-    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
-    "answer": "Link",
+    "id": "341",
+    "question": "Quel animal est le symbole national de l'Australie ?",
+    "answer": "Kangourou",
     "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
+      "Koala",
+      "Wombat",
+      "Diable de Tasmanie"
     ],
-    "category": "Jeux vidéo",
+    "category": "Culture générale",
     "difficulty": "facile",
-    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
-  },
-  {
-    "id": "185",
-    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
-    "answer": "Youri Gagarine",
-    "badAnswers": [
-      "Guerman Titov",
-      "Buzz Aldrin",
-      "Neil Armstrong"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
-  },
-  {
-    "id": "682",
-    "question": "Quel est le plus grand oiseau aquatique du monde ?",
-    "answer": "Pélican frisé",
-    "badAnswers": [
-      "Cygne noir",
-      "Albatros hurleur",
-      "Flamant rose"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
-  },
-  {
-    "id": "469",
-    "question": "Quel artiste a peint Le Baiser ?",
-    "answer": "Gustav Klimt",
-    "badAnswers": [
-      "Edvard Munch",
-      "Egon Schiele",
-      "Marc Chagall"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+    "description": "Le kangourou est un symbole national de l'Australie, apparaissant sur les armoiries du pays aux côtés de l'émeu. Cet animal emblématique est unique à la faune australienne. Le koala, le wombat et le diable de Tasmanie sont également des animaux australiens, mais le kangourou est le symbole officiel."
   }
 ]
