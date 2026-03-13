@@ -1,132 +1,132 @@
 [
   {
-    "id": "1670",
-    "question": "Quel est le nom du groupe qui a chanté 'Fix You' ?",
-    "answer": "Coldplay",
+    "id": "1455",
+    "question": "Quel est la capitale du Viêt Nam ?",
+    "answer": "Hanoï",
     "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
+      "Hô Chi Minh-Ville",
+      "Da Nang",
+      "Huế"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Fix You', sorti en 2005 par Coldplay, est une ballade émouvante tirée de l'album X&Y."
+    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
   },
   {
-    "id": "1795",
-    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "81",
+    "question": "Qui a dirigé 'Le Parrain' ?",
+    "answer": "Francis Ford Coppola",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
-  },
-  {
-    "id": "1701",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
-    "answer": "Ruthénium",
-    "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Rhodium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
-  },
-  {
-    "id": "724",
-    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
-    "answer": "Franz Kafka",
-    "badAnswers": [
-      "Albert Camus",
-      "Thomas Mann",
-      "Hermann Hesse"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
-    "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
-  },
-  {
-    "id": "285",
-    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
-    "answer": "Nez",
-    "badAnswers": [
-      "Oreilles",
-      "Menton",
-      "Cou"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
-  },
-  {
-    "id": "572",
-    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
-    "answer": "Atelier",
-    "badAnswers": [
-      "Confrérie",
-      "Église de la Guérison",
-      "Vilebloods"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
-  },
-  {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
-    "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
-  },
-  {
-    "id": "1232",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
-    "answer": "The Lord of the Rings: The Return of the King",
-    "badAnswers": [
-      "Mystic River",
-      "Lost in Translation",
-      "Master and Commander"
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Alfred Hitchcock"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
+    "difficulty": "normal",
+    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
   },
   {
-    "id": "341",
-    "question": "Quel animal est le symbole national de l'Australie ?",
-    "answer": "Kangourou",
+    "id": "928",
+    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
+    "answer": "Nervosité",
     "badAnswers": [
-      "Koala",
-      "Wombat",
-      "Diable de Tasmanie"
+      "Excitation",
+      "Agressivité",
+      "Épuisement"
     ],
-    "category": "Culture générale",
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
+  },
+  {
+    "id": "1638",
+    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
+    "answer": "August Köhler",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
+  },
+  {
+    "id": "877",
+    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Le kangourou est un symbole national de l'Australie, apparaissant sur les armoiries du pays aux côtés de l'émeu. Cet animal emblématique est unique à la faune australienne. Le koala, le wombat et le diable de Tasmanie sont également des animaux australiens, mais le kangourou est le symbole officiel."
+    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1896",
+    "question": "Quel est le nom de l'auteur de 'Le Temps retrouvé' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'Le Temps retrouvé' (1927), le dernier volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "737",
+    "question": "Dans Star Wars, quel est le nom de l'apprenti de Dark Vador dans L'Apprenti Sith ?",
+    "answer": "Galen Marek",
+    "badAnswers": [
+      "Kylo Ren",
+      "Asajj Ventress",
+      "Maul"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Galen Marek, alias Starkiller, est l'apprenti de Dark Vador dans le jeu Star Wars : Le Pouvoir de la Force. Kylo Ren, Ventress et Maul sont d'autres antagonistes, mais pas dans ce contexte."
+  },
+  {
+    "id": "810",
+    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
+    "answer": "Glacier Lambert",
+    "badAnswers": [
+      "Glacier Beardmore",
+      "Glacier Ross",
+      "Glacier Pine Island"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
+  },
+  {
+    "id": "1965",
+    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "1421",
+    "question": "Quel est la capitale du Kazakhstan ?",
+    "answer": "Nur-Sultan",
+    "badAnswers": [
+      "Almaty",
+      "Shymkent",
+      "Karaganda"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Nur-Sultan, capitale du Kazakhstan, est une ville moderne planifiée, connue pour son architecture futuriste et ses monuments comme la tour Bayterek."
   }
 ]
