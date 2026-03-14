@@ -1,73 +1,34 @@
 [
   {
-    "id": "1455",
-    "question": "Quel est la capitale du Viêt Nam ?",
-    "answer": "Hanoï",
+    "id": "479",
+    "question": "Quel artiste a peint Le Jardin des délices ?",
+    "answer": "Jérôme Bosch",
     "badAnswers": [
-      "Hô Chi Minh-Ville",
-      "Da Nang",
-      "Huế"
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Jan van Eyck"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Hanoï, capitale du Viêt Nam, est une ville historique connue pour son lac Hoan Kiem, ses temples et son quartier colonial."
-  },
-  {
-    "id": "81",
-    "question": "Qui a dirigé 'Le Parrain' ?",
-    "answer": "Francis Ford Coppola",
-    "badAnswers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Alfred Hitchcock"
-    ],
-    "category": "Cinéma",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
+    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
   },
   {
-    "id": "928",
-    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
-    "answer": "Nervosité",
+    "id": "467",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
+    "answer": "Ciri",
     "badAnswers": [
-      "Excitation",
-      "Agressivité",
-      "Épuisement"
+      "Yennefer",
+      "Triss",
+      "Keira"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
-  },
-  {
-    "id": "1638",
-    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
-    "answer": "August Köhler",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
-  },
-  {
-    "id": "877",
-    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
-    "answer": "Léon Tolstoï",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
-    ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
   },
   {
-    "id": "1896",
-    "question": "Quel est le nom de l'auteur de 'Le Temps retrouvé' ?",
-    "answer": "Marcel Proust",
+    "id": "1946",
+    "question": "Quel est le nom de l'auteur de 'Aurélien' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -75,58 +36,97 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Le Temps retrouvé' (1927), le dernier volume de 'À la recherche du temps perdu'."
+    "description": "Louis Aragon a écrit 'Aurélien' (1944), un roman sur l'amour et les désillusions dans l'entre-deux-guerres."
   },
   {
-    "id": "737",
-    "question": "Dans Star Wars, quel est le nom de l'apprenti de Dark Vador dans L'Apprenti Sith ?",
-    "answer": "Galen Marek",
+    "id": "1267",
+    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
+    "answer": "Arsenic",
     "badAnswers": [
-      "Kylo Ren",
-      "Asajj Ventress",
-      "Maul"
+      "Antimoine",
+      "Argon",
+      "Astatine"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
+  },
+  {
+    "id": "453",
+    "question": "Dans Harry Potter, quel est le nom de l’école de magie concurrente française ?",
+    "answer": "Beauxbâtons",
+    "badAnswers": [
+      "Durmstrang",
+      "Ilvermorny",
+      "Castelobruxo"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Beauxbâtons est l’école de magie française dans Harry Potter, présentée dans La Coupe de feu. Dirigée par Madame Maxime, elle participe au Tournoi des trois sorciers. Durmstrang est une école nordique, Ilvermorny américaine, et Castelobruxo brésilienne."
+  },
+  {
+    "id": "228",
+    "question": "Quel est le pays premier producteur mondial de tomates ?",
+    "answer": "Chine",
+    "badAnswers": [
+      "Italie",
+      "Maroc",
+      "Pays-Bas"
+    ],
+    "category": "Agriculture",
+    "difficulty": "normal",
+    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
+  },
+  {
+    "id": "1422",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
+    "answer": "The Sting",
+    "badAnswers": [
+      "The Exorcist",
+      "American Graffiti",
+      "A Touch of Class"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Galen Marek, alias Starkiller, est l'apprenti de Dark Vador dans le jeu Star Wars : Le Pouvoir de la Force. Kylo Ren, Ventress et Maul sont d'autres antagonistes, mais pas dans ce contexte."
+    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
   },
   {
-    "id": "810",
-    "question": "Quel est le nom du plus grand glacier d'Antarctique ?",
-    "answer": "Glacier Lambert",
+    "id": "1355",
+    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
+    "answer": "The Police",
     "badAnswers": [
-      "Glacier Beardmore",
-      "Glacier Ross",
-      "Glacier Pine Island"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Lambert est le plus grand glacier d'Antarctique, s'étendant sur environ 400 km. Beardmore, Ross et Pine Island sont d'autres glaciers antarctiques, mais plus petits."
-  },
-  {
-    "id": "1965",
-    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "U2",
+      "The Clash",
+      "Blondie"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
   },
   {
-    "id": "1421",
-    "question": "Quel est la capitale du Kazakhstan ?",
-    "answer": "Nur-Sultan",
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
     "badAnswers": [
-      "Almaty",
-      "Shymkent",
-      "Karaganda"
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Nur-Sultan, capitale du Kazakhstan, est une ville moderne planifiée, connue pour son architecture futuriste et ses monuments comme la tour Bayterek."
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
+  },
+  {
+    "id": "2087",
+    "question": "Quel est le nom de l'auteur de 'Sodome et Gomorrhe' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'Sodome et Gomorrhe' (1921), le quatrième volume de 'À la recherche du temps perdu'."
   }
 ]
