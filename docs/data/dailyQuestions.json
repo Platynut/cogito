@@ -1,132 +1,132 @@
 [
   {
-    "id": "479",
-    "question": "Quel artiste a peint Le Jardin des délices ?",
-    "answer": "Jérôme Bosch",
+    "id": "381",
+    "question": "Dans League of Legends, quel champion est connu comme le Ninja de l’ombre ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Pieter Bruegel l'Ancien",
-      "Albrecht Dürer",
-      "Jan van Eyck"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
-  },
-  {
-    "id": "467",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
-    "answer": "Ciri",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
+      "Shen",
+      "Zed",
+      "Kennen"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
-  },
-  {
-    "id": "1946",
-    "question": "Quel est le nom de l'auteur de 'Aurélien' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Aurélien' (1944), un roman sur l'amour et les désillusions dans l'entre-deux-guerres."
+    "description": "Akali, surnommée le Ninja de l’ombre dans League of Legends, est une championne ninja utilisant des techniques furtives et des shurikens. Shen, Zed et Kennen sont également des ninjas, mais seul Akali porte ce titre spécifique."
   },
   {
-    "id": "1267",
-    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
-    "answer": "Arsenic",
+    "id": "785",
+    "question": "Quel est le plus grand oiseau terrestre actuel ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "Antimoine",
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "447",
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre",
+    "badAnswers": [
+      "Lion",
+      "Jaguar",
+      "Léopard"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
+  },
+  {
+    "id": "103",
+    "question": "Quel est le point culminant de la France métropolitaine ?",
+    "answer": "Le Mont Blanc",
+    "badAnswers": [
+      "Le Pic du Midi",
+      "Le Puy de Dôme",
+      "Le Mont Ventoux"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Mont Blanc, culminant à 4 808 mètres, est le plus haut sommet des Alpes et de la France métropolitaine. Les autres montagnes sont moins élevées."
+  },
+  {
+    "id": "1478",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
+    "answer": "Actinium",
+    "badAnswers": [
+      "Aluminium",
       "Argon",
       "Astatine"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
+    "difficulty": "difficile",
+    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
   },
   {
-    "id": "453",
-    "question": "Dans Harry Potter, quel est le nom de l’école de magie concurrente française ?",
-    "answer": "Beauxbâtons",
+    "id": "605",
+    "question": "Quel est le plus grand mammifère terrestre du monde ?",
+    "answer": "Éléphant de savane",
     "badAnswers": [
-      "Durmstrang",
-      "Ilvermorny",
-      "Castelobruxo"
+      "Rhinocéros blanc",
+      "Girafe",
+      "Hippopotame"
     ],
-    "category": "Littérature",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Beauxbâtons est l’école de magie française dans Harry Potter, présentée dans La Coupe de feu. Dirigée par Madame Maxime, elle participe au Tournoi des trois sorciers. Durmstrang est une école nordique, Ilvermorny américaine, et Castelobruxo brésilienne."
+    "description": "L'éléphant de savane est le plus grand mammifère terrestre, pouvant peser jusqu'à 7 tonnes et atteindre 4 mètres de haut. Le rhinocéros blanc, la girafe et l'hippopotame sont plus petits."
   },
   {
-    "id": "228",
-    "question": "Quel est le pays premier producteur mondial de tomates ?",
-    "answer": "Chine",
+    "id": "772",
+    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
+    "answer": "Moira",
     "badAnswers": [
-      "Italie",
-      "Maroc",
-      "Pays-Bas"
+      "Widowmaker",
+      "Ana",
+      "Ashe"
     ],
-    "category": "Agriculture",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
+    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
   },
   {
-    "id": "1422",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
-    "answer": "The Sting",
+    "id": "1366",
+    "question": "Quel est la capitale de la Barbade ?",
+    "answer": "Bridgetown",
     "badAnswers": [
-      "The Exorcist",
-      "American Graffiti",
-      "A Touch of Class"
+      "Speightstown",
+      "Holetown",
+      "Oistins"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+  },
+  {
+    "id": "230",
+    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
+    "answer": "384 400 km",
+    "badAnswers": [
+      "284 400 km",
+      "484 400 km",
+      "584 400 km"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
+  },
+  {
+    "id": "1493",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1956 ?",
+    "answer": "Around the World in 80 Days",
+    "badAnswers": [
+      "The King and I",
+      "Giant",
+      "Friendly Persuasion"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
-  },
-  {
-    "id": "1355",
-    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
-    "answer": "The Police",
-    "badAnswers": [
-      "U2",
-      "The Clash",
-      "Blondie"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
-  },
-  {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
-    "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
-  },
-  {
-    "id": "2087",
-    "question": "Quel est le nom de l'auteur de 'Sodome et Gomorrhe' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Sodome et Gomorrhe' (1921), le quatrième volume de 'À la recherche du temps perdu'."
+    "description": "Around the World in 80 Days, réalisé par Michael Anderson, a remporté l'Oscar du meilleur film en 1956, une aventure basée sur le roman de Jules Verne."
   }
 ]
