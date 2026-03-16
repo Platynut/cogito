@@ -1,132 +1,132 @@
 [
   {
-    "id": "381",
-    "question": "Dans League of Legends, quel champion est connu comme le Ninja de l’ombre ?",
-    "answer": "Akali",
+    "id": "1798",
+    "question": "Quel est le nom du groupe qui a chanté 'Brown Sugar' ?",
+    "answer": "The Rolling Stones",
     "badAnswers": [
-      "Shen",
-      "Zed",
-      "Kennen"
+      "The Who",
+      "The Doors",
+      "The Kinks"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Akali, surnommée le Ninja de l’ombre dans League of Legends, est une championne ninja utilisant des techniques furtives et des shurikens. Shen, Zed et Kennen sont également des ninjas, mais seul Akali porte ce titre spécifique."
-  },
-  {
-    "id": "785",
-    "question": "Quel est le plus grand oiseau terrestre actuel ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
+    "description": "'Brown Sugar', sorti en 1971 par The Rolling Stones, est une chanson rock tirée de l'album Sticky Fingers."
   },
   {
-    "id": "447",
-    "question": "Quel est le plus grand félin du monde ?",
-    "answer": "Tigre",
+    "id": "2083",
+    "question": "Quel est le nom de l'auteur de 'L'Automne à Pékin' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
-      "Lion",
-      "Jaguar",
-      "Léopard"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
-  },
-  {
-    "id": "103",
-    "question": "Quel est le point culminant de la France métropolitaine ?",
-    "answer": "Le Mont Blanc",
-    "badAnswers": [
-      "Le Pic du Midi",
-      "Le Puy de Dôme",
-      "Le Mont Ventoux"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Mont Blanc, culminant à 4 808 mètres, est le plus haut sommet des Alpes et de la France métropolitaine. Les autres montagnes sont moins élevées."
-  },
-  {
-    "id": "1478",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
-    "answer": "Actinium",
-    "badAnswers": [
-      "Aluminium",
-      "Argon",
-      "Astatine"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
-  },
-  {
-    "id": "605",
-    "question": "Quel est le plus grand mammifère terrestre du monde ?",
-    "answer": "Éléphant de savane",
-    "badAnswers": [
-      "Rhinocéros blanc",
-      "Girafe",
-      "Hippopotame"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'éléphant de savane est le plus grand mammifère terrestre, pouvant peser jusqu'à 7 tonnes et atteindre 4 mètres de haut. Le rhinocéros blanc, la girafe et l'hippopotame sont plus petits."
-  },
-  {
-    "id": "772",
-    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
-    "answer": "Moira",
-    "badAnswers": [
-      "Widowmaker",
-      "Ana",
-      "Ashe"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
+    "description": "Boris Vian a écrit 'L'Automne à Pékin' (1947), un roman surréaliste explorant l'absurde et l'imaginaire."
   },
   {
-    "id": "1366",
-    "question": "Quel est la capitale de la Barbade ?",
-    "answer": "Bridgetown",
+    "id": "1185",
+    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
+    "answer": "Samuel Morse",
     "badAnswers": [
-      "Speightstown",
-      "Holetown",
-      "Oistins"
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
   },
   {
-    "id": "230",
-    "question": "À quelle distance, en moyenne, la Lune se trouve-t-elle de la Terre ?",
-    "answer": "384 400 km",
+    "id": "1528",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
+    "answer": "All About Eve",
     "badAnswers": [
-      "284 400 km",
-      "484 400 km",
-      "584 400 km"
-    ],
-    "category": "Astronomie",
-    "difficulty": "normal",
-    "description": "La distance Terre-Lune moyenne est de 384 400 km (périgée : 363 300 km, apogée : 405 500 km). Les autres valeurs sont incorrectes."
-  },
-  {
-    "id": "1493",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1956 ?",
-    "answer": "Around the World in 80 Days",
-    "badAnswers": [
-      "The King and I",
-      "Giant",
-      "Friendly Persuasion"
+      "Sunset Boulevard",
+      "Born Yesterday",
+      "King Solomon's Mines"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Around the World in 80 Days, réalisé par Michael Anderson, a remporté l'Oscar du meilleur film en 1956, une aventure basée sur le roman de Jules Verne."
+    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+  },
+  {
+    "id": "859",
+    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
+    "answer": "Groudon",
+    "badAnswers": [
+      "Kyogre",
+      "Rayquaza",
+      "Deoxys"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
+  },
+  {
+    "id": "585",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
+    "answer": "Expelliarmus",
+    "badAnswers": [
+      "Stupéfix",
+      "Lumos",
+      "Accio"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
+  },
+  {
+    "id": "918",
+    "question": "Quel est le plus grand oiseau de proie nocturne ?",
+    "answer": "Grand-duc d'Europe",
+    "badAnswers": [
+      "Chouette effraie",
+      "Hibou moyen-duc",
+      "Chouette hulotte"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le grand-duc d'Europe est le plus grand oiseau de proie nocturne, pouvant atteindre 75 cm. La chouette effraie, le hibou moyen-duc et la chouette hulotte sont plus petits."
+  },
+  {
+    "id": "454",
+    "question": "Quel scientifique a découvert la loi des gaz parfaits ?",
+    "answer": "Émile Clapeyron",
+    "badAnswers": [
+      "Robert Boyle",
+      "Jacques Charles",
+      "Joseph Louis Gay-Lussac"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Émile Clapeyron a formulé la loi des gaz parfaits en 1834, combinant les travaux de Boyle, Charles et Gay-Lussac dans l’équation PV=nRT. Boyle, Charles et Gay-Lussac ont contribué à des lois partielles sur les gaz, mais Clapeyron a unifié ces concepts."
+  },
+  {
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
+    "badAnswers": [
+      "Danube",
+      "Rhin",
+      "Elbe"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+  },
+  {
+    "id": "1663",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
   }
 ]
