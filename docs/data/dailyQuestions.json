@@ -1,132 +1,132 @@
 [
   {
-    "id": "1798",
-    "question": "Quel est le nom du groupe qui a chanté 'Brown Sugar' ?",
-    "answer": "The Rolling Stones",
+    "id": "1241",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mo ?",
+    "answer": "Molybdène",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Brown Sugar', sorti en 1971 par The Rolling Stones, est une chanson rock tirée de l'album Sticky Fingers."
-  },
-  {
-    "id": "2083",
-    "question": "Quel est le nom de l'auteur de 'L'Automne à Pékin' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Automne à Pékin' (1947), un roman surréaliste explorant l'absurde et l'imaginaire."
-  },
-  {
-    "id": "1185",
-    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
-    "answer": "Samuel Morse",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
-  },
-  {
-    "id": "1528",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
-    "answer": "All About Eve",
-    "badAnswers": [
-      "Sunset Boulevard",
-      "Born Yesterday",
-      "King Solomon's Mines"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
-  },
-  {
-    "id": "859",
-    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
-    "answer": "Groudon",
-    "badAnswers": [
-      "Kyogre",
-      "Rayquaza",
-      "Deoxys"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
-  },
-  {
-    "id": "585",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour désarmer un adversaire ?",
-    "answer": "Expelliarmus",
-    "badAnswers": [
-      "Stupéfix",
-      "Lumos",
-      "Accio"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Expelliarmus est le sortilège de désarmement dans Harry Potter, utilisé pour faire voler la baguette d'un adversaire. Stupéfix étourdit, Lumos éclaire, et Accio attire des objets."
-  },
-  {
-    "id": "918",
-    "question": "Quel est le plus grand oiseau de proie nocturne ?",
-    "answer": "Grand-duc d'Europe",
-    "badAnswers": [
-      "Chouette effraie",
-      "Hibou moyen-duc",
-      "Chouette hulotte"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le grand-duc d'Europe est le plus grand oiseau de proie nocturne, pouvant atteindre 75 cm. La chouette effraie, le hibou moyen-duc et la chouette hulotte sont plus petits."
-  },
-  {
-    "id": "454",
-    "question": "Quel scientifique a découvert la loi des gaz parfaits ?",
-    "answer": "Émile Clapeyron",
-    "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Joseph Louis Gay-Lussac"
+      "Magnésium",
+      "Manganèse",
+      "Mercure"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Émile Clapeyron a formulé la loi des gaz parfaits en 1834, combinant les travaux de Boyle, Charles et Gay-Lussac dans l’équation PV=nRT. Boyle, Charles et Gay-Lussac ont contribué à des lois partielles sur les gaz, mais Clapeyron a unifié ces concepts."
-  },
-  {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
-    "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+    "description": "Le molybdène, symbolisé par Mo, est un métal utilisé dans les alliages d'acier pour améliorer la résistance à la corrosion et à la chaleur."
   },
   {
-    "id": "1663",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
-    "answer": "Pokémon",
+    "id": "1987",
+    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
+    "answer": "Theodore Maiman",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Gordon Gould",
+      "Charles Townes",
+      "Arthur Schawlow"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
+  },
+  {
+    "id": "24",
+    "question": "Quel film a remporté le plus d'Oscars ?",
+    "answer": "Titanic",
+    "badAnswers": [
+      "E.T.",
+      "Avatar",
+      "La La Land"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le film Titanic détient le record du plus grand nombre d’Oscars remportés, avec 11 récompenses.<br />E.T. en a obtenu 4, Avatar 3, et La La Land 6."
+  },
+  {
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
+    "badAnswers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
+  },
+  {
+    "id": "1631",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
+    "answer": "Max Knoll",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
+  },
+  {
+    "id": "1164",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Joel Miller ?",
+    "answer": "The Last of Us",
+    "badAnswers": [
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "God of War"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
+    "description": "Joel Miller est le protagoniste principal de The Last of Us, un survivant dans un monde post-apocalyptique, protégeant Ellie dans leur voyage."
+  },
+  {
+    "id": "1281",
+    "question": "Quel est la capitale des Philippines ?",
+    "answer": "Manille",
+    "badAnswers": [
+      "Davao",
+      "Cebu",
+      "Quezon City"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
+  },
+  {
+    "id": "2095",
+    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
+    "answer": "Dale Heatherington",
+    "badAnswers": [
+      "Dennis Hayes",
+      "Vinton Cerf",
+      "Ray Tomlinson"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
+  },
+  {
+    "id": "140",
+    "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
+    "answer": "Espagne",
+    "badAnswers": [
+      "Grèce",
+      "Maroc",
+      "Algérie"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "La mantille, voile traditionnel, est encore portée lors d'occasions spéciales en Espagne, notamment pendant les fêtes religieuses. En Grèce et au Maghreb, d'autres types de voiles sont utilisés."
+  },
+  {
+    "id": "1786",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone ?",
+    "answer": "Alexander Graham Bell",
+    "badAnswers": [
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Alexander Graham Bell a inventé le premier téléphone en 1876, révolutionnant les communications à distance."
   }
 ]
