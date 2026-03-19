@@ -1,132 +1,132 @@
 [
   {
-    "id": "461",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
-    "answer": "Ho-Oh",
+    "id": "1678",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Raikou"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+  },
+  {
+    "id": "580",
+    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "André Malraux",
+      "Antoine de Saint-Exupéry"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "305",
+    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
+    "badAnswers": [
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
+  },
+  {
+    "id": "137",
+    "question": "En quelle année a été projeté le premier film ?",
+    "answer": "1895",
+    "badAnswers": [
+      "1924",
+      "1912",
+      "1904"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
+  },
+  {
+    "id": "1105",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
+    "answer": "Oppenheimer",
+    "badAnswers": [
+      "Poor Things",
+      "Killers of the Flower Moon",
+      "Barbie"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
+  },
+  {
+    "id": "575",
+    "question": "Dans League of Legends, quel champion est surnommé La sorcière des glaces ?",
+    "answer": "Lissandra",
+    "badAnswers": [
+      "Ashe",
+      "Sejuani",
+      "Anivia"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
+    "description": "Lissandra, surnommée La sorcière des glaces dans League of Legends, est une mage manipulant la glace noire. Ashe, Sejuani et Anivia sont également associées au froid, mais n'ont pas ce titre."
   },
   {
-    "id": "1141",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Jak ?",
-    "answer": "Jak and Daxter",
+    "id": "298",
+    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Ratchet & Clank",
-      "Crash Bandicoot",
-      "Spyro the Dragon"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jak, héros de la série Jak and Daxter, est un aventurier explorant un monde fantastique avec son ami Daxter, créé par Naughty Dog."
-  },
-  {
-    "id": "831",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Électhor",
-    "badAnswers": [
-      "Sulfura",
-      "Artikodin",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
-  },
-  {
-    "id": "839",
-    "question": "Dans Celeste, quel est le nom de la montagne que Madeline escalade ?",
-    "answer": "Mont Celeste",
-    "badAnswers": [
-      "Mont Ebott",
-      "Mont Coronet",
-      "Mont Lanayru"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Mont Celeste est la montagne centrale de Celeste, où Madeline affronte ses défis personnels. Ebott est dans Undertale, Coronet dans Pokémon, et Lanayru dans Zelda."
-  },
-  {
-    "id": "1498",
-    "question": "Quel est le nom de la déesse grecque de la terre ?",
-    "answer": "Gaïa",
-    "badAnswers": [
-      "Déméter",
-      "Héra",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Gaïa, déesse primordiale grecque de la terre, est la mère de nombreux dieux et Titans, symbole de la création."
-  },
-  {
-    "id": "1373",
-    "question": "Quel est la capitale du Suriname ?",
-    "answer": "Paramaribo",
-    "badAnswers": [
-      "Nieuw Nickerie",
-      "Moengo",
-      "Albina"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
+    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
   },
   {
-    "id": "607",
-    "question": "Quel artiste a peint La Persistance de la mémoire ?",
-    "answer": "Salvador Dalí",
+    "id": "1732",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
+    "answer": "Manfred von Ardenne",
     "badAnswers": [
-      "Pablo Picasso",
-      "Joan Miró",
-      "Max Ernst"
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1487",
-    "question": "Quel est le nom de l'inventeur du premier anesthésique par inhalation ?",
-    "answer": "Crawford Long",
-    "badAnswers": [
-      "William Morton",
-      "James Simpson",
-      "Humphry Davy"
-    ],
-    "category": "Médecine",
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Crawford Long a utilisé l'éther comme anesthésique par inhalation en 1842, révolutionnant la chirurgie en réduisant la douleur."
+    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
   },
   {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
+    "id": "1550",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rf ?",
+    "answer": "Rutherfordium",
     "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
+      "Radon",
+      "Rhodium",
+      "Rubidium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le rutherfordium, symbolisé par Rf, est un élément radioactif synthétique, nommé d'après Ernest Rutherford, utilisé dans la recherche."
+  },
+  {
+    "id": "445",
+    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
+    "answer": "Samus Aran",
+    "badAnswers": [
+      "Ridley",
+      "Zero Suit Samus",
+      "Dark Samus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
-  },
-  {
-    "id": "856",
-    "question": "Dans Pokémon Platine, quel est le Pokémon légendaire associé à l'antimatière ?",
-    "answer": "Giratina",
-    "badAnswers": [
-      "Dialga",
-      "Palkia",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Giratina est le Pokémon légendaire associé à l'antimatière dans Pokémon Platine, régnant sur le Monde Distorsion. Dialga représente le temps, Palkia l'espace, et Arceus est le créateur."
+    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
   }
 ]
