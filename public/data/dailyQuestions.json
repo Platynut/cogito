@@ -1,132 +1,132 @@
 [
   {
-    "id": "1678",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
-    "answer": "Pokémon",
+    "id": "1540",
+    "question": "Quel est la capitale du Gabon ?",
+    "answer": "Libreville",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Port-Gentil",
+      "Franceville",
+      "Oyem"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
   },
   {
-    "id": "580",
-    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
+    "id": "334",
+    "question": "Quel écrivain a créé le personnage de James Bond ?",
+    "answer": "Ian Fleming",
+    "badAnswers": [
+      "John le Carré",
+      "Agatha Christie",
+      "Tom Clancy"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+  },
+  {
+    "id": "1727",
+    "question": "Quel est le nom de l'auteur de 'L'Homme révolté' ?",
     "answer": "Albert Camus",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "André Malraux",
-      "Antoine de Saint-Exupéry"
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit 'L'Homme révolté' (1951), un essai philosophique sur la révolte et la liberté."
+  },
+  {
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
+    "badAnswers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
     ],
     "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "305",
-    "question": "Qui était le réalisateur de Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
-    "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Edgar Wright a réalisé Scott Pilgrim vs. the World (2010), une comédie d'action basée sur la bande dessinée de Bryan Lee O'Malley. Connu pour son style visuel dynamique et son humour, Wright est également derrière des films comme Shaun of the Dead. Les autres options incluent des réalisateurs ou acteurs non associés à ce film."
-  },
-  {
-    "id": "137",
-    "question": "En quelle année a été projeté le premier film ?",
-    "answer": "1895",
-    "badAnswers": [
-      "1924",
-      "1912",
-      "1904"
-    ],
-    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
   },
   {
-    "id": "1105",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
-    "answer": "Oppenheimer",
+    "id": "1773",
+    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
+    "answer": "François Rabelais",
     "badAnswers": [
-      "Poor Things",
-      "Killers of the Flower Moon",
-      "Barbie"
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
     ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
+    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
   },
   {
-    "id": "575",
-    "question": "Dans League of Legends, quel champion est surnommé La sorcière des glaces ?",
-    "answer": "Lissandra",
+    "id": "715",
+    "question": "Quel est le plus grand reptile marin du monde ?",
+    "answer": "Crocodile marin",
     "badAnswers": [
-      "Ashe",
-      "Sejuani",
-      "Anivia"
+      "Tortue luth",
+      "Iguane marin",
+      "Serpent de mer"
     ],
-    "category": "Jeux vidéo",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Lissandra, surnommée La sorcière des glaces dans League of Legends, est une mage manipulant la glace noire. Ashe, Sejuani et Anivia sont également associées au froid, mais n'ont pas ce titre."
+    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
   },
   {
-    "id": "298",
-    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
+    "id": "1770",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
+    "answer": "Charles Stark Draper",
     "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
-  },
-  {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
+      "Elmer Sperry",
+      "Robert Goddard",
+      "Wernher von Braun"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
   },
   {
-    "id": "1550",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rf ?",
-    "answer": "Rutherfordium",
+    "id": "1028",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
     "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Rubidium"
+      "Vénus",
+      "Mars",
+      "Jupiter"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rutherfordium, symbolisé par Rf, est un élément radioactif synthétique, nommé d'après Ernest Rutherford, utilisé dans la recherche."
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
   },
   {
-    "id": "445",
-    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
-    "answer": "Samus Aran",
+    "id": "993",
+    "question": "Qui fut le 40e président des États-Unis ?",
+    "answer": "Ronald Reagan",
     "badAnswers": [
-      "Ridley",
-      "Zero Suit Samus",
-      "Dark Samus"
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
+  },
+  {
+    "id": "985",
+    "question": "Combien d'ordinateurs Apple I ont été approximativement créés ?",
+    "answer": "200",
+    "badAnswers": [
+      "100",
+      "500",
+      "1000"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Environ 200 Apple I ont été fabriqués en 1976 par Steve Wozniak et Steve Jobs, marquant les débuts d'Apple avec un ordinateur artisanal."
   }
 ]
