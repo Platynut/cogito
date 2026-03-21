@@ -1,132 +1,132 @@
 [
   {
-    "id": "1540",
-    "question": "Quel est la capitale du Gabon ?",
-    "answer": "Libreville",
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
     "badAnswers": [
-      "Port-Gentil",
-      "Franceville",
-      "Oyem"
+      "Danube",
+      "Rhin",
+      "Elbe"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+    "difficulty": "normal",
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
   },
   {
-    "id": "334",
-    "question": "Quel écrivain a créé le personnage de James Bond ?",
-    "answer": "Ian Fleming",
+    "id": "1113",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
+    "answer": "Metal Gear Solid",
     "badAnswers": [
-      "John le Carré",
-      "Agatha Christie",
-      "Tom Clancy"
+      "Splinter Cell",
+      "Hitman",
+      "Deus Ex"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
   },
   {
-    "id": "1727",
-    "question": "Quel est le nom de l'auteur de 'L'Homme révolté' ?",
-    "answer": "Albert Camus",
+    "id": "2127",
+    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "André Gide",
-      "Marcel Proust"
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Camus a écrit 'L'Homme révolté' (1951), un essai philosophique sur la révolte et la liberté."
+    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
   },
   {
-    "id": "416",
-    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
-    "answer": "Miguel de Cervantès",
+    "id": "58",
+    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "answer": "Jean-Pierre Jeunet",
     "badAnswers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Federico García Lorca"
+      "Luc Besson",
+      "François Ozon",
+      "Michel Gondry"
     ],
-    "category": "Littérature",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
+  },
+  {
+    "id": "1105",
+    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
+    "answer": "Igor Sikorsky",
+    "badAnswers": [
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Ferdinand von Zeppelin"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
+  },
+  {
+    "id": "704",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
+    "answer": "Kashyyyk",
+    "badAnswers": [
+      "Tatooine",
+      "Endor",
+      "Hoth"
+    ],
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
+    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
   },
   {
-    "id": "1773",
-    "question": "Quel est le nom de l'auteur de 'Pantagruel' ?",
-    "answer": "François Rabelais",
+    "id": "2015",
+    "question": "Quel est le nom de l'ingénieur principal derrière le développement de la première disquette ?",
+    "answer": "Alan Shugart",
     "badAnswers": [
-      "Voltaire",
-      "Jean-Jacques Rousseau",
-      "Denis Diderot"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "François Rabelais a écrit 'Pantagruel' (1532), un roman satirique et humaniste sur les aventures d'un géant."
-  },
-  {
-    "id": "715",
-    "question": "Quel est le plus grand reptile marin du monde ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Tortue luth",
-      "Iguane marin",
-      "Serpent de mer"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
-  },
-  {
-    "id": "1770",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
-    "answer": "Charles Stark Draper",
-    "badAnswers": [
-      "Elmer Sperry",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
-  },
-  {
-    "id": "1028",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
-    "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Jupiter"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, orbitant à environ 58 millions de kilomètres, ce qui la rend extrêmement chaude et inhospitalière."
-  },
-  {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
-    "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
-  },
-  {
-    "id": "985",
-    "question": "Combien d'ordinateurs Apple I ont été approximativement créés ?",
-    "answer": "200",
-    "badAnswers": [
-      "100",
-      "500",
-      "1000"
+      "Steve Wozniak",
+      "Bill Gates",
+      "David Noble"
     ],
     "category": "Informatique",
     "difficulty": "normal",
-    "description": "Environ 200 Apple I ont été fabriqués en 1976 par Steve Wozniak et Steve Jobs, marquant les débuts d'Apple avec un ordinateur artisanal."
+    "description": "Alan Shugart a dirigé l'équipe d'IBM qui a développé la première disquette 8 pouces en 1971, un support de stockage amovible qui a marqué un tournant dans l'informatique. David Noble a également joué un rôle clé dans sa conception."
+  },
+  {
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
+    "badAnswers": [
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "1136",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
+    "answer": "Silicium",
+    "badAnswers": [
+      "Soufre",
+      "Sélénium",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+  },
+  {
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
+    "badAnswers": [
+      "Argent",
+      "Cuivre",
+      "Platine"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
   }
 ]
