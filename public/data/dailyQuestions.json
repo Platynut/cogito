@@ -1,132 +1,132 @@
 [
   {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
+    "id": "25",
+    "question": "Quel groupe musical était mené par Freddie Mercury ?",
+    "answer": "Queen",
     "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
+      "The Rolling Stones",
+      "Pink Floyd",
+      "The Who"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
+  },
+  {
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
+    "badAnswers": [
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+  },
+  {
+    "id": "818",
+    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
+    "answer": "Moira",
+    "badAnswers": [
+      "Sigma",
+      "Winston",
+      "Mercy"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
+  },
+  {
+    "id": "1942",
+    "question": "Quel est le nom du groupe qui a chanté 'Love Me Do' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Love Me Do', sorti en 1962 par The Beatles, est leur premier single, tiré de l'album Please Please Me."
+  },
+  {
+    "id": "382",
+    "question": "Quel est le nom du plus long fleuve du monde ?",
+    "answer": "Nil",
+    "badAnswers": [
+      "Amazone",
+      "Yangtsé",
+      "Mississippi"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
   },
   {
-    "id": "1113",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
-    "answer": "Metal Gear Solid",
+    "id": "433",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
+    "answer": "Expecto Patronum",
     "badAnswers": [
-      "Splinter Cell",
-      "Hitman",
-      "Deus Ex"
+      "Expelliarmus",
+      "Lumos",
+      "Accio"
     ],
-    "category": "Jeux vidéo",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+    "description": "Expecto Patronum est le sortilège utilisé dans Harry Potter pour invoquer un Patronus, qui repousse les Détraqueurs. Expelliarmus désarme, Lumos éclaire, et Accio attire des objets."
   },
   {
-    "id": "2127",
-    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
-    "answer": "Jean Cocteau",
+    "id": "1779",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS commercial ?",
+    "answer": "Bradford Parkinson",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Roger L. Easton",
+      "Ivan Getting",
+      "Gladys West"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Bradford Parkinson a dirigé le développement du GPS commercial dans les années 1970, utilisé aujourd'hui dans le monde entier."
   },
   {
-    "id": "58",
-    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "answer": "Jean-Pierre Jeunet",
+    "id": "1290",
+    "question": "Quel est le nom de la déesse grecque de la lune ?",
+    "answer": "Séléné",
     "badAnswers": [
-      "Luc Besson",
-      "François Ozon",
-      "Michel Gondry"
+      "Artémis",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
+  },
+  {
+    "id": "1274",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
+    "answer": "The English Patient",
+    "badAnswers": [
+      "Fargo",
+      "Jerry Maguire",
+      "Shine"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
+    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
   },
   {
-    "id": "1105",
-    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
-    "answer": "Igor Sikorsky",
+    "id": "1074",
+    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
+    "answer": "Hydrogène",
     "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Ferdinand von Zeppelin"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
-  },
-  {
-    "id": "704",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Chewbacca ?",
-    "answer": "Kashyyyk",
-    "badAnswers": [
-      "Tatooine",
-      "Endor",
-      "Hoth"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Kashyyyk est la planète natale de Chewbacca, un monde forestier habité par les Wookiees dans Star Wars. Tatooine, Endor et Hoth sont d'autres planètes de la saga."
-  },
-  {
-    "id": "2015",
-    "question": "Quel est le nom de l'ingénieur principal derrière le développement de la première disquette ?",
-    "answer": "Alan Shugart",
-    "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "David Noble"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Alan Shugart a dirigé l'équipe d'IBM qui a développé la première disquette 8 pouces en 1971, un support de stockage amovible qui a marqué un tournant dans l'informatique. David Noble a également joué un rôle clé dans sa conception."
-  },
-  {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
-  },
-  {
-    "id": "1136",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
-    "answer": "Silicium",
-    "badAnswers": [
-      "Soufre",
-      "Sélénium",
-      "Sodium"
+      "Hélium",
+      "Hafnium",
+      "Holmium"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
   }
 ]
