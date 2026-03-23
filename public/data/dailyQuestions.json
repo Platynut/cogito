@@ -1,47 +1,86 @@
 [
   {
-    "id": "25",
-    "question": "Quel groupe musical était mené par Freddie Mercury ?",
-    "answer": "Queen",
+    "id": "717",
+    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
+    "answer": "Dobby",
     "badAnswers": [
-      "The Rolling Stones",
-      "Pink Floyd",
-      "The Who"
+      "Kreattur",
+      "Winky",
+      "Hokey"
     ],
-    "category": "Musique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
+    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
   },
   {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
+    "id": "1835",
+    "question": "Quel est le nom de l'inventeur du premier système de scanner à rayons X ?",
+    "answer": "Godfrey Hounsfield",
     "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
+      "Wilhelm Röntgen",
+      "Marie Curie",
+      "Raymond Damadian"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Godfrey Hounsfield a inventé le premier scanner à rayons X (tomographie) en 1971, révolutionnant le diagnostic médical."
   },
   {
-    "id": "818",
-    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
-    "answer": "Moira",
+    "id": "215",
+    "question": "De quel pouvoir le président de la République française dispose-t-il ?",
+    "answer": "Exécutif",
     "badAnswers": [
-      "Sigma",
-      "Winston",
-      "Mercy"
+      "Législatif",
+      "Judiciaire",
+      "Tous les pouvoirs"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Le président français incarne l'autorité exécutive. Le pouvoir législatif revient au Parlement, et le judiciaire aux cours et tribunaux. La séparation des pouvoirs empêche qu'il les cumule tous."
+  },
+  {
+    "id": "975",
+    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
+    "answer": "Blanches Colombes et Vilains Messieurs",
+    "badAnswers": [
+      "L'Ancre en main",
+      "Tant qu'il y aura des hommes",
+      "Haute Société"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
+  },
+  {
+    "id": "821",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle de lumière ?",
+    "answer": "Akali",
+    "badAnswers": [
+      "Lux",
+      "Vayne",
+      "Senna"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
+    "description": "Akali, surnommée La Sentinelle de lumière dans League of Legends, est une ninja utilisant des techniques lumineuses. Lux, Vayne et Senna sont d'autres champions liés à la lumière."
   },
   {
-    "id": "1942",
-    "question": "Quel est le nom du groupe qui a chanté 'Love Me Do' ?",
-    "answer": "The Beatles",
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+  },
+  {
+    "id": "2071",
+    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
+    "answer": "Rod Stewart",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
@@ -49,84 +88,45 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Love Me Do', sorti en 1962 par The Beatles, est leur premier single, tiré de l'album Please Please Me."
+    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
   },
   {
-    "id": "382",
-    "question": "Quel est le nom du plus long fleuve du monde ?",
-    "answer": "Nil",
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Amazone",
-      "Yangtsé",
-      "Mississippi"
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "433",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
-    "answer": "Expecto Patronum",
+    "id": "621",
+    "question": "Dans Red Dead Redemption 2, quel est le nom du chef du gang Van der Linde ?",
+    "answer": "Dutch van der Linde",
     "badAnswers": [
-      "Expelliarmus",
-      "Lumos",
-      "Accio"
+      "Arthur Morgan",
+      "John Marston",
+      "Micah Bell"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Expecto Patronum est le sortilège utilisé dans Harry Potter pour invoquer un Patronus, qui repousse les Détraqueurs. Expelliarmus désarme, Lumos éclaire, et Accio attire des objets."
+    "description": "Dutch van der Linde est le chef du gang Van der Linde dans Red Dead Redemption 2, guidant ses membres dans l'Ouest américain. Arthur Morgan et John Marston sont des membres, et Micah Bell est un antagoniste."
   },
   {
-    "id": "1779",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS commercial ?",
-    "answer": "Bradford Parkinson",
+    "id": "196",
+    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
+    "answer": "Alsace",
     "badAnswers": [
-      "Roger L. Easton",
-      "Ivan Getting",
-      "Gladys West"
+      "Bretagne",
+      "Corse",
+      "Auvergne"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Bradford Parkinson a dirigé le développement du GPS commercial dans les années 1970, utilisé aujourd'hui dans le monde entier."
-  },
-  {
-    "id": "1290",
-    "question": "Quel est le nom de la déesse grecque de la lune ?",
-    "answer": "Séléné",
-    "badAnswers": [
-      "Artémis",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
-  },
-  {
-    "id": "1274",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
-    "answer": "The English Patient",
-    "badAnswers": [
-      "Fargo",
-      "Jerry Maguire",
-      "Shine"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
-  },
-  {
-    "id": "1074",
-    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
-    "answer": "Hydrogène",
-    "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
+    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
   }
 ]
