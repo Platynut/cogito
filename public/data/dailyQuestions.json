@@ -1,132 +1,132 @@
 [
   {
-    "id": "717",
-    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
-    "answer": "Dobby",
+    "id": "735",
+    "question": "Quel est la capitale de l'Irlande ?",
+    "answer": "Dublin",
     "badAnswers": [
-      "Kreattur",
-      "Winky",
-      "Hokey"
+      "Cork",
+      "Galway",
+      "Limerick"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
+  },
+  {
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
+    "badAnswers": [
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+  },
+  {
+    "id": "641",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Triss Merigold",
+      "Keira Metz",
+      "Ciri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+  },
+  {
+    "id": "465",
+    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
+    "answer": "Mark Twain",
+    "badAnswers": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "F. Scott Fitzgerald"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
+    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
   },
   {
-    "id": "1835",
-    "question": "Quel est le nom de l'inventeur du premier système de scanner à rayons X ?",
-    "answer": "Godfrey Hounsfield",
+    "id": "1547",
+    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
+    "answer": "Bon Jovi",
     "badAnswers": [
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Raymond Damadian"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Godfrey Hounsfield a inventé le premier scanner à rayons X (tomographie) en 1971, révolutionnant le diagnostic médical."
-  },
-  {
-    "id": "215",
-    "question": "De quel pouvoir le président de la République française dispose-t-il ?",
-    "answer": "Exécutif",
-    "badAnswers": [
-      "Législatif",
-      "Judiciaire",
-      "Tous les pouvoirs"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Le président français incarne l'autorité exécutive. Le pouvoir législatif revient au Parlement, et le judiciaire aux cours et tribunaux. La séparation des pouvoirs empêche qu'il les cumule tous."
-  },
-  {
-    "id": "975",
-    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
-    "answer": "Blanches Colombes et Vilains Messieurs",
-    "badAnswers": [
-      "L'Ancre en main",
-      "Tant qu'il y aura des hommes",
-      "Haute Société"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
-  },
-  {
-    "id": "821",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle de lumière ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Lux",
-      "Vayne",
-      "Senna"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Akali, surnommée La Sentinelle de lumière dans League of Legends, est une ninja utilisant des techniques lumineuses. Lux, Vayne et Senna sont d'autres champions liés à la lumière."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "2071",
-    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
-    "answer": "Rod Stewart",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Aerosmith",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
+    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
   },
   {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
+    "id": "100",
+    "question": "Comment s'appelle le héro de la licence Metal Gear ?",
+    "answer": "Solid Snake",
     "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "621",
-    "question": "Dans Red Dead Redemption 2, quel est le nom du chef du gang Van der Linde ?",
-    "answer": "Dutch van der Linde",
-    "badAnswers": [
-      "Arthur Morgan",
-      "John Marston",
-      "Micah Bell"
+      "Big Boss",
+      "Liquid Snake",
+      "Link"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dutch van der Linde est le chef du gang Van der Linde dans Red Dead Redemption 2, guidant ses membres dans l'Ouest américain. Arthur Morgan et John Marston sont des membres, et Micah Bell est un antagoniste."
+    "difficulty": "normal",
+    "description": "Solid Snake est le protagoniste principal de la série 'Metal Gear'. Big Boss et Liquid Snake sont des personnages secondaires, tandis que Link est le héros de la série 'Zelda'."
   },
   {
-    "id": "196",
-    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
-    "answer": "Alsace",
+    "id": "1287",
+    "question": "Quel est la capitale de Singapour ?",
+    "answer": "Singapour",
     "badAnswers": [
-      "Bretagne",
-      "Corse",
-      "Auvergne"
+      "Jurong",
+      "Tampines",
+      "Woodlands"
     ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
+  },
+  {
+    "id": "1563",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
+    "answer": "Cornelis Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
+  },
+  {
+    "id": "452",
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon",
+    "badAnswers": [
+      "Canyon de Colca",
+      "Canyon de Fish River",
+      "Canyon de Copper"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
+  },
+  {
+    "id": "668",
+    "question": "Quel est la capitale du Pakistan ?",
+    "answer": "Islamabad",
+    "badAnswers": [
+      "Karachi",
+      "Lahore",
+      "Rawalpindi"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Islamabad est la capitale du Pakistan, une ville planifiée abritant le Parlement. Karachi, Lahore et Rawalpindi sont d'autres grandes villes, mais pas la capitale."
   }
 ]
