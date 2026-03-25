@@ -1,132 +1,132 @@
 [
   {
-    "id": "735",
-    "question": "Quel est la capitale de l'Irlande ?",
-    "answer": "Dublin",
+    "id": "447",
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre",
     "badAnswers": [
-      "Cork",
-      "Galway",
-      "Limerick"
+      "Lion",
+      "Jaguar",
+      "Léopard"
     ],
-    "category": "Géographie",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
+    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
   },
   {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
+    "id": "45",
+    "question": "Quel écrivain a créé Sherlock Holmes ?",
+    "answer": "Arthur Conan Doyle",
     "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
-  },
-  {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
-    "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
-  },
-  {
-    "id": "465",
-    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
-    "answer": "Mark Twain",
-    "badAnswers": [
-      "Herman Melville",
-      "Nathaniel Hawthorne",
-      "F. Scott Fitzgerald"
+      "Agatha Christie",
+      "Charles Dickens",
+      "Jules Verne"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
+    "description": "Ce détective légendaire apparaît pour la première fois dans 'Une étude en rouge' en 1887."
   },
   {
-    "id": "1547",
-    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
-    "answer": "Bon Jovi",
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
     "badAnswers": [
-      "Aerosmith",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Brésil",
+      "Argentine",
+      "Italie"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
   },
   {
-    "id": "100",
-    "question": "Comment s'appelle le héro de la licence Metal Gear ?",
-    "answer": "Solid Snake",
+    "id": "1656",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bulbizarre ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Big Boss",
-      "Liquid Snake",
-      "Link"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Solid Snake est le protagoniste principal de la série 'Metal Gear'. Big Boss et Liquid Snake sont des personnages secondaires, tandis que Link est le héros de la série 'Zelda'."
-  },
-  {
-    "id": "1287",
-    "question": "Quel est la capitale de Singapour ?",
-    "answer": "Singapour",
-    "badAnswers": [
-      "Jurong",
-      "Tampines",
-      "Woodlands"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
+    "description": "Bulbizarre, Pokémon de type plante et poison, est l'un des starters de la série Pokémon, évoluant en Herbizarre."
   },
   {
-    "id": "1563",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
-    "answer": "Cornelis Drebbel",
+    "id": "10",
+    "question": "Quel est le héros principal de 'The Legend of Zelda' ?",
+    "answer": "Link",
     "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "Zelda",
+      "Ganon",
+      "Epona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le protagoniste muet qui sauve la princesse Zelda dans cette série Nintendo depuis 1986."
+  },
+  {
+    "id": "147",
+    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
+    "answer": "Le fémur",
+    "badAnswers": [
+      "Le radius",
+      "Le cubitus",
+      "Le carpe"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
+  },
+  {
+    "id": "1532",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1949 ?",
+    "answer": "All the King's Men",
+    "badAnswers": [
+      "A Letter to Three Wives",
+      "Twelve O'Clock High",
+      "The Heiress"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "All the King's Men, réalisé par Robert Rossen, a remporté l'Oscar du meilleur film en 1949, un drame sur la corruption politique."
+  },
+  {
+    "id": "54",
+    "question": "Quel est l'organe principal du système respiratoire ?",
+    "answer": "Poumons",
+    "badAnswers": [
+      "Cœur",
+      "Foie",
+      "Estomac"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Les poumons permettent les échanges gazeux entre l'air et le sang. Un adulte inspire environ 11.000 litres d'air par jour."
+  },
+  {
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
+    "badAnswers": [
+      "-2900",
+      "-10500",
+      "-3600"
     ],
     "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
+    "difficulty": "facile",
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
   },
   {
-    "id": "452",
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "answer": "Grand Canyon",
+    "id": "1088",
+    "question": "Quel est le nom de l'élément chimique avec le symbole S ?",
+    "answer": "Soufre",
     "badAnswers": [
-      "Canyon de Colca",
-      "Canyon de Fish River",
-      "Canyon de Copper"
+      "Silicium",
+      "Sélénium",
+      "Sodium"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
-  },
-  {
-    "id": "668",
-    "question": "Quel est la capitale du Pakistan ?",
-    "answer": "Islamabad",
-    "badAnswers": [
-      "Karachi",
-      "Lahore",
-      "Rawalpindi"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Islamabad est la capitale du Pakistan, une ville planifiée abritant le Parlement. Karachi, Lahore et Rawalpindi sont d'autres grandes villes, mais pas la capitale."
+    "description": "Le soufre, symbolisé par S, est un élément utilisé dans la fabrication d'engrais, de poudre à canon et dans divers processus chimiques."
   }
 ]
