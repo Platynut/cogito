@@ -1,132 +1,132 @@
 [
   {
-    "id": "447",
-    "question": "Quel est le plus grand félin du monde ?",
-    "answer": "Tigre",
+    "id": "967",
+    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
     "badAnswers": [
-      "Lion",
-      "Jaguar",
-      "Léopard"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
-  },
-  {
-    "id": "45",
-    "question": "Quel écrivain a créé Sherlock Holmes ?",
-    "answer": "Arthur Conan Doyle",
-    "badAnswers": [
-      "Agatha Christie",
-      "Charles Dickens",
-      "Jules Verne"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Ce détective légendaire apparaît pour la première fois dans 'Une étude en rouge' en 1887."
-  },
-  {
-    "id": "51",
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "answer": "Uruguay",
-    "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
-  },
-  {
-    "id": "1656",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bulbizarre ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bulbizarre, Pokémon de type plante et poison, est l'un des starters de la série Pokémon, évoluant en Herbizarre."
-  },
-  {
-    "id": "10",
-    "question": "Quel est le héros principal de 'The Legend of Zelda' ?",
-    "answer": "Link",
-    "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Link est le protagoniste muet qui sauve la princesse Zelda dans cette série Nintendo depuis 1986."
-  },
-  {
-    "id": "147",
-    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
-    "answer": "Le fémur",
-    "badAnswers": [
-      "Le radius",
-      "Le cubitus",
-      "Le carpe"
-    ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
-  },
-  {
-    "id": "1532",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1949 ?",
-    "answer": "All the King's Men",
-    "badAnswers": [
-      "A Letter to Three Wives",
-      "Twelve O'Clock High",
-      "The Heiress"
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "All the King's Men, réalisé par Robert Rossen, a remporté l'Oscar du meilleur film en 1949, un drame sur la corruption politique."
+    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
   },
   {
-    "id": "54",
-    "question": "Quel est l'organe principal du système respiratoire ?",
-    "answer": "Poumons",
+    "id": "80",
+    "question": "Quelle est la vitesse de la lumière dans le vide ?",
+    "answer": "299 792 458 m/s",
     "badAnswers": [
-      "Cœur",
-      "Foie",
-      "Estomac"
+      "150 000 km/s",
+      "1 million km/h",
+      "3 000 km/s"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Les poumons permettent les échanges gazeux entre l'air et le sang. Un adulte inspire environ 11.000 litres d'air par jour."
+    "difficulty": "difficile",
+    "description": "Cette constante physique fondamentale est notée 'c'. Rien ne peut se déplacer plus vite selon la théorie de la relativité d'Einstein."
   },
   {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
+    "id": "1114",
+    "question": "Quel est la capitale de l'Éthiopie ?",
+    "answer": "Addis-Abeba",
     "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
+      "Nairobi",
+      "Khartoum",
+      "Kampala"
     ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Addis-Abeba, capitale de l'Éthiopie, est un centre diplomatique majeur, abritant le siège de l'Union africaine et de nombreuses ambassades."
   },
   {
-    "id": "1088",
-    "question": "Quel est le nom de l'élément chimique avec le symbole S ?",
-    "answer": "Soufre",
+    "id": "641",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
+    "answer": "Yennefer de Vengerberg",
     "badAnswers": [
-      "Silicium",
-      "Sélénium",
-      "Sodium"
+      "Triss Merigold",
+      "Keira Metz",
+      "Ciri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+  },
+  {
+    "id": "601",
+    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
+    "answer": "Raijin",
+    "badAnswers": [
+      "Fujin",
+      "Susanoo",
+      "Hachiman"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
+  },
+  {
+    "id": "520",
+    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
+    "answer": "Obi-Wan Kenobi",
+    "badAnswers": [
+      "Yoda",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+  },
+  {
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+  },
+  {
+    "id": "1832",
+    "question": "Quel est le nom du groupe qui a chanté 'Rock and Roll' ?",
+    "answer": "Led Zeppelin",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le soufre, symbolisé par S, est un élément utilisé dans la fabrication d'engrais, de poudre à canon et dans divers processus chimiques."
+    "description": "'Rock and Roll', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
+  },
+  {
+    "id": "180",
+    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Venise",
+      "Barcelone",
+      "Séville"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+  },
+  {
+    "id": "707",
+    "question": "Quel est le nom de l'auteur de 'Fahrenheit 451' ?",
+    "answer": "Ray Bradbury",
+    "badAnswers": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Philip K. Dick"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ray Bradbury a écrit Fahrenheit 451 (1953), un roman dystopique sur la censure des livres. Orwell, Huxley et Dick sont d'autres auteurs dystopiques, mais n'ont pas écrit ce roman."
   }
 ]
