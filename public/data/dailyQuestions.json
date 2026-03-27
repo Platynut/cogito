@@ -1,132 +1,132 @@
 [
   {
-    "id": "967",
-    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
+    "id": "687",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
+    "answer": "Earthshaker",
     "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
+      "Sand King",
+      "Tidehunter",
+      "Slardar"
     ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
+    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
   },
   {
-    "id": "80",
-    "question": "Quelle est la vitesse de la lumière dans le vide ?",
-    "answer": "299 792 458 m/s",
+    "id": "582",
+    "question": "Quel est la capitale de la Colombie ?",
+    "answer": "Bogotá",
     "badAnswers": [
-      "150 000 km/s",
-      "1 million km/h",
-      "3 000 km/s"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Cette constante physique fondamentale est notée 'c'. Rien ne peut se déplacer plus vite selon la théorie de la relativité d'Einstein."
-  },
-  {
-    "id": "1114",
-    "question": "Quel est la capitale de l'Éthiopie ?",
-    "answer": "Addis-Abeba",
-    "badAnswers": [
-      "Nairobi",
-      "Khartoum",
-      "Kampala"
+      "Medellín",
+      "Cali",
+      "Cartagena"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Addis-Abeba, capitale de l'Éthiopie, est un centre diplomatique majeur, abritant le siège de l'Union africaine et de nombreuses ambassades."
+    "difficulty": "facile",
+    "description": "Bogotá est la capitale de la Colombie, une ville située à 2 600 mètres d'altitude, abritant le musée de l'or. Medellín, Cali et Cartagena sont d'autres villes colombiennes, mais pas la capitale."
   },
   {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
     "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
+      "-2900",
+      "-10500",
+      "-3600"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
+  },
+  {
+    "id": "38",
+    "question": "Dans quel jeu trouve-t-on des Creepers ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
   },
   {
-    "id": "601",
-    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
-    "answer": "Raijin",
+    "id": "146",
+    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
+    "answer": "L'endive",
     "badAnswers": [
-      "Fujin",
-      "Susanoo",
-      "Hachiman"
+      "Le radis",
+      "L'oignon",
+      "Le chou-fleur"
     ],
-    "category": "Mythologie",
+    "category": "Agriculture",
     "difficulty": "normal",
-    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
+    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
   },
   {
-    "id": "520",
-    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
-    "answer": "Obi-Wan Kenobi",
+    "id": "1334",
+    "question": "Quel est le nom de l'inventeur du premier moteur à réaction ?",
+    "answer": "Frank Whittle",
     "badAnswers": [
-      "Yoda",
-      "Qui-Gon Jinn",
-      "Mace Windu"
+      "Wernher von Braun",
+      "Robert Goddard",
+      "Guglielmo Marconi"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation moderne."
   },
   {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
+    "id": "1626",
+    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
+    "answer": "Stone Temple Pilots",
     "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "1832",
-    "question": "Quel est le nom du groupe qui a chanté 'Rock and Roll' ?",
-    "answer": "Led Zeppelin",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Rock and Roll', sorti en 1971 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin IV."
+    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
   },
   {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
     "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
+      "Plume",
+      "Étoile",
+      "Champignon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+  },
+  {
+    "id": "84",
+    "question": "Quel est le seul continent sans désert ?",
+    "answer": "Europe",
+    "badAnswers": [
+      "Asie",
+      "Amérique du Sud",
+      "Australie"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+    "difficulty": "difficile",
+    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
   },
   {
-    "id": "707",
-    "question": "Quel est le nom de l'auteur de 'Fahrenheit 451' ?",
-    "answer": "Ray Bradbury",
+    "id": "1407",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
+    "answer": "One Flew Over the Cuckoo's Nest",
     "badAnswers": [
-      "George Orwell",
-      "Aldous Huxley",
-      "Philip K. Dick"
+      "Jaws",
+      "Dog Day Afternoon",
+      "Barry Lyndon"
     ],
-    "category": "Littérature",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Ray Bradbury a écrit Fahrenheit 451 (1953), un roman dystopique sur la censure des livres. Orwell, Huxley et Dick sont d'autres auteurs dystopiques, mais n'ont pas écrit ce roman."
+    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
   }
 ]
