@@ -1,132 +1,132 @@
 [
   {
-    "id": "687",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Echo Slam ?",
-    "answer": "Earthshaker",
+    "id": "1189",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
+    "answer": "Nickel",
     "badAnswers": [
-      "Sand King",
-      "Tidehunter",
-      "Slardar"
+      "Néon",
+      "Nitrure",
+      "Sodium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Earthshaker est un héros de Dota 2 connu pour son sort ultime Echo Slam, qui inflige des dégâts massifs en zone. Sand King, Tidehunter et Slardar ont d'autres sorts ultimes."
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
   },
   {
-    "id": "582",
-    "question": "Quel est la capitale de la Colombie ?",
-    "answer": "Bogotá",
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
     "badAnswers": [
-      "Medellín",
-      "Cali",
-      "Cartagena"
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+  },
+  {
+    "id": "1404",
+    "question": "Quel est la capitale de l'Ouzbékistan ?",
+    "answer": "Tachkent",
+    "badAnswers": [
+      "Samarcande",
+      "Boukhara",
+      "Khiva"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Bogotá est la capitale de la Colombie, une ville située à 2 600 mètres d'altitude, abritant le musée de l'or. Medellín, Cali et Cartagena sont d'autres villes colombiennes, mais pas la capitale."
-  },
-  {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
-    "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
-  },
-  {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Creepers ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
-  },
-  {
-    "id": "146",
-    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
-    "answer": "L'endive",
-    "badAnswers": [
-      "Le radis",
-      "L'oignon",
-      "Le chou-fleur"
-    ],
-    "category": "Agriculture",
     "difficulty": "normal",
-    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
+    "description": "Tachkent, capitale de l'Ouzbékistan, est une ville moderne avec des influences soviétiques et des sites historiques comme le bazar Chorsu."
   },
   {
-    "id": "1334",
-    "question": "Quel est le nom de l'inventeur du premier moteur à réaction ?",
-    "answer": "Frank Whittle",
+    "id": "1108",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
+    "answer": "Calcium",
     "badAnswers": [
-      "Wernher von Braun",
-      "Robert Goddard",
-      "Guglielmo Marconi"
+      "Carbone",
+      "Césium",
+      "Chlore"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation moderne."
-  },
-  {
-    "id": "1626",
-    "question": "Quel est le nom du groupe qui a chanté 'Plush' ?",
-    "answer": "Stone Temple Pilots",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "'Plush', sorti en 1992 par Stone Temple Pilots, est une chanson grunge tirée de l'album Core."
+    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
   },
   {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
     "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
   },
   {
-    "id": "84",
-    "question": "Quel est le seul continent sans désert ?",
-    "answer": "Europe",
+    "id": "1477",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
+    "answer": "Ben-Hur",
     "badAnswers": [
-      "Asie",
-      "Amérique du Sud",
-      "Australie"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Même l'Antarctique contient des vallées sèches considérées comme déserts polaires. L'Europe est le seul continent sans classification désertique."
-  },
-  {
-    "id": "1407",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
-    "answer": "One Flew Over the Cuckoo's Nest",
-    "badAnswers": [
-      "Jaws",
-      "Dog Day Afternoon",
-      "Barry Lyndon"
+      "The Diary of Anne Frank",
+      "Anatomy of a Murder",
+      "Room at the Top"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
+    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
+  },
+  {
+    "id": "1305",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
+    "answer": "Philo Farnsworth",
+    "badAnswers": [
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Thomas Edison"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
+  },
+  {
+    "id": "1310",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1988 ?",
+    "answer": "Rain Man",
+    "badAnswers": [
+      "Dangerous Liaisons",
+      "Working Girl",
+      "The Accidental Tourist"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Rain Man, réalisé par Barry Levinson, a remporté l'Oscar du meilleur film en 1988, une histoire émouvante sur un autiste savant et son frère."
+  },
+  {
+    "id": "1411",
+    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Metallica",
+      "Bon Jovi"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
+  },
+  {
+    "id": "1846",
+    "question": "Quel est le nom de l'auteur de 'La Montagne magique' ?",
+    "answer": "Thomas Mann",
+    "badAnswers": [
+      "Franz Kafka",
+      "Hermann Hesse",
+      "Rainer Maria Rilke"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Thomas Mann a écrit 'La Montagne magique' (1924), un roman philosophique sur la maladie et le temps."
   }
 ]
