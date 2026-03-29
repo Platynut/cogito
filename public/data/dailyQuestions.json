@@ -1,132 +1,132 @@
 [
   {
-    "id": "1189",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
-    "answer": "Nickel",
+    "id": "707",
+    "question": "Quelle créature japonaise possède une tête de singe, un corps de tigre et une queue de serpent ?",
+    "answer": "Nue",
     "badAnswers": [
-      "Néon",
-      "Nitrure",
-      "Sodium"
+      "Jorōgumo",
+      "Oni",
+      "Tengu"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Nue est une créature composite apportant malheur et maladie."
   },
   {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
+    "id": "731",
+    "question": "Dans Assassin's Creed Syndicate, dans quelle ville se déroule l'histoire ?",
+    "answer": "Londres",
     "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
+      "Paris",
+      "Rome",
+      "New York"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+    "description": "Assassin's Creed Syndicate se déroule à Londres pendant la Révolution industrielle, avec les jumeaux Frye. Paris, Rome et New York sont les décors d'autres jeux de la série."
   },
   {
-    "id": "1404",
-    "question": "Quel est la capitale de l'Ouzbékistan ?",
-    "answer": "Tachkent",
+    "id": "1228",
+    "question": "Quel est la capitale de l'Oman ?",
+    "answer": "Mascate",
     "badAnswers": [
-      "Samarcande",
-      "Boukhara",
-      "Khiva"
+      "Salalah",
+      "Sohar",
+      "Nizwa"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Tachkent, capitale de l'Ouzbékistan, est une ville moderne avec des influences soviétiques et des sites historiques comme le bazar Chorsu."
+    "description": "Mascate, capitale de l'Oman, est une ville portuaire entourée de montagnes, connue pour son opéra royal et ses souks traditionnels."
   },
   {
-    "id": "1108",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
-    "answer": "Calcium",
+    "id": "655",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
+    "answer": "Spero Patronum",
     "badAnswers": [
-      "Carbone",
-      "Césium",
-      "Chlore"
+      "Expecto Patronum",
+      "Lumos",
+      "Protego"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expecto Patronum est le sortilège pour invoquer un Patronus dans Harry Potter, utilisé contre les Détraqueurs. Lumos éclaire, et Protego crée un bouclier. (Note : 'Spero Patronum' est une erreur courante, la bonne réponse est Expecto Patronum.)"
+  },
+  {
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
+    "badAnswers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
+  },
+  {
+    "id": "478",
+    "question": "Quel est la capitale du Mexique ?",
+    "answer": "Mexico",
+    "badAnswers": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancún"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Mexico est la capitale du Mexique, une métropole vibrante abritant le Zócalo et le Palais national. Guadalajara, Monterrey et Cancún sont d'autres villes mexicaines, mais pas la capitale."
+  },
+  {
+    "id": "259",
+    "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
+    "answer": "Sandrine Rousseau",
+    "badAnswers": [
+      "Marlène Schiappa",
+      "Brigitte Macron",
+      "Camilla Parker Bowles"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
+  },
+  {
+    "id": "382",
+    "question": "Quel est le nom du plus long fleuve du monde ?",
+    "answer": "Nil",
+    "badAnswers": [
+      "Amazone",
+      "Yangtsé",
+      "Mississippi"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
+  },
+  {
+    "id": "1588",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
+    "answer": "Darmstadtium",
+    "badAnswers": [
+      "Dysprosium",
+      "Deutérium",
+      "Dubnium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
-  },
-  {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
-    "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
-  },
-  {
-    "id": "1477",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
-    "answer": "Ben-Hur",
-    "badAnswers": [
-      "The Diary of Anne Frank",
-      "Anatomy of a Murder",
-      "Room at the Top"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
-  },
-  {
-    "id": "1305",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
-    "answer": "Philo Farnsworth",
-    "badAnswers": [
-      "John Logie Baird",
-      "Vladimir Zworykin",
-      "Thomas Edison"
-    ],
-    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
+    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
   },
   {
-    "id": "1310",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1988 ?",
-    "answer": "Rain Man",
+    "id": "633",
+    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
+    "answer": "Minerva McGonagall",
     "badAnswers": [
-      "Dangerous Liaisons",
-      "Working Girl",
-      "The Accidental Tourist"
+      "Severus Rogue",
+      "Filius Flitwick",
+      "Pomona Chourave"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Rain Man, réalisé par Barry Levinson, a remporté l'Oscar du meilleur film en 1988, une histoire émouvante sur un autiste savant et son frère."
-  },
-  {
-    "id": "1411",
-    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Metallica",
-      "Bon Jovi"
-    ],
-    "category": "Musique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "1846",
-    "question": "Quel est le nom de l'auteur de 'La Montagne magique' ?",
-    "answer": "Thomas Mann",
-    "badAnswers": [
-      "Franz Kafka",
-      "Hermann Hesse",
-      "Rainer Maria Rilke"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Thomas Mann a écrit 'La Montagne magique' (1924), un roman philosophique sur la maladie et le temps."
+    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
   }
 ]
