@@ -1,132 +1,132 @@
 [
   {
-    "id": "707",
-    "question": "Quelle créature japonaise possède une tête de singe, un corps de tigre et une queue de serpent ?",
-    "answer": "Nue",
+    "id": "488",
+    "question": "Quel est la capitale de l'Indonésie ?",
+    "answer": "Jakarta",
     "badAnswers": [
-      "Jorōgumo",
-      "Oni",
-      "Tengu"
+      "Bali",
+      "Surabaya",
+      "Bandung"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Le Nue est une créature composite apportant malheur et maladie."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
   },
   {
-    "id": "731",
-    "question": "Dans Assassin's Creed Syndicate, dans quelle ville se déroule l'histoire ?",
-    "answer": "Londres",
+    "id": "1523",
+    "question": "Quel est la capitale du Botswana ?",
+    "answer": "Gaborone",
     "badAnswers": [
-      "Paris",
-      "Rome",
-      "New York"
+      "Francistown",
+      "Maun",
+      "Serowe"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Gaborone, capitale du Botswana, est une ville moderne proche de la frontière sud-africaine, connue pour son parc national de Mokolodi."
+  },
+  {
+    "id": "1449",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
+    "answer": "In the Heat of the Night",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "The Graduate",
+      "Guess Who's Coming to Dinner"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
+  },
+  {
+    "id": "1503",
+    "question": "Quel est le nom du groupe qui a chanté 'Disarm' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Disarm', sorti en 1993 par The Smashing Pumpkins, est une chanson alternative rock tirée de l'album Siamese Dream."
+  },
+  {
+    "id": "1650",
+    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
+    "answer": "Blur",
+    "badAnswers": [
+      "Oasis",
+      "Radiohead",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
+  },
+  {
+    "id": "1394",
+    "question": "Quel est la capitale du Laos ?",
+    "answer": "Vientiane",
+    "badAnswers": [
+      "Luang Prabang",
+      "Pakse",
+      "Savannakhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
+  },
+  {
+    "id": "579",
+    "question": "Dans Super Mario Kart, quel objet ralentit directement les adversaires lorsqu'il est utilisé ?",
+    "answer": "Carapace rouge",
+    "badAnswers": [
+      "Peau de banane",
+      "Étoile",
+      "Champignon"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed Syndicate se déroule à Londres pendant la Révolution industrielle, avec les jumeaux Frye. Paris, Rome et New York sont les décors d'autres jeux de la série."
+    "description": "La carapace rouge dans Super Mario Kart est un projectile qui poursuit un adversaire et le ralentit en le touchant. La peau de banane est un piège statique, l'étoile rend invincible, et le champignon augmente la vitesse."
   },
   {
-    "id": "1228",
-    "question": "Quel est la capitale de l'Oman ?",
-    "answer": "Mascate",
+    "id": "106",
+    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
+    "answer": "Raymond Domenech",
     "badAnswers": [
-      "Salalah",
-      "Sohar",
-      "Nizwa"
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Michel Hidalgo"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Mascate, capitale de l'Oman, est une ville portuaire entourée de montagnes, connue pour son opéra royal et ses souks traditionnels."
-  },
-  {
-    "id": "655",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
-    "answer": "Spero Patronum",
-    "badAnswers": [
-      "Expecto Patronum",
-      "Lumos",
-      "Protego"
-    ],
-    "category": "Littérature",
+    "category": "Sports",
     "difficulty": "facile",
-    "description": "Expecto Patronum est le sortilège pour invoquer un Patronus dans Harry Potter, utilisé contre les Détraqueurs. Lumos éclaire, et Protego crée un bouclier. (Note : 'Spero Patronum' est une erreur courante, la bonne réponse est Expecto Patronum.)"
+    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
   },
   {
-    "id": "416",
-    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
-    "answer": "Miguel de Cervantès",
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
     "badAnswers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Federico García Lorca"
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
-  },
-  {
-    "id": "478",
-    "question": "Quel est la capitale du Mexique ?",
-    "answer": "Mexico",
-    "badAnswers": [
-      "Guadalajara",
-      "Monterrey",
-      "Cancún"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Mexico est la capitale du Mexique, une métropole vibrante abritant le Zócalo et le Palais national. Guadalajara, Monterrey et Cancún sont d'autres villes mexicaines, mais pas la capitale."
-  },
-  {
-    "id": "259",
-    "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
-    "answer": "Sandrine Rousseau",
-    "badAnswers": [
-      "Marlène Schiappa",
-      "Brigitte Macron",
-      "Camilla Parker Bowles"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
-  },
-  {
-    "id": "382",
-    "question": "Quel est le nom du plus long fleuve du monde ?",
-    "answer": "Nil",
-    "badAnswers": [
-      "Amazone",
-      "Yangtsé",
-      "Mississippi"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Nil est le plus long fleuve du monde, s’étendant sur environ 6 650 km à travers l’Afrique, principalement en Égypte et au Soudan. Bien que l’Amazone soit plus large et ait un débit plus important, le Nil est légèrement plus long. Le Yangtsé et le Mississippi sont plus courts."
-  },
-  {
-    "id": "1588",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ds ?",
-    "answer": "Darmstadtium",
-    "badAnswers": [
-      "Dysprosium",
-      "Deutérium",
-      "Dubnium"
-    ],
-    "category": "Science",
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Le darmstadtium, symbolisé par Ds, est un élément radioactif synthétique, nommé d'après la ville de Darmstadt, utilisé dans la recherche."
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
   },
   {
-    "id": "633",
-    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
-    "answer": "Minerva McGonagall",
+    "id": "1647",
+    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
+    "answer": "Blur",
     "badAnswers": [
-      "Severus Rogue",
-      "Filius Flitwick",
-      "Pomona Chourave"
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
-    "category": "Littérature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
   }
 ]
