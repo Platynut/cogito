@@ -1,132 +1,132 @@
 [
   {
-    "id": "488",
-    "question": "Quel est la capitale de l'Indonésie ?",
-    "answer": "Jakarta",
+    "id": "551",
+    "question": "Dans Pokémon Soleil et Lune, quelle est la région où se déroule le jeu ?",
+    "answer": "Alola",
     "badAnswers": [
-      "Bali",
-      "Surabaya",
-      "Bandung"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
-  },
-  {
-    "id": "1523",
-    "question": "Quel est la capitale du Botswana ?",
-    "answer": "Gaborone",
-    "badAnswers": [
-      "Francistown",
-      "Maun",
-      "Serowe"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Gaborone, capitale du Botswana, est une ville moderne proche de la frontière sud-africaine, connue pour son parc national de Mokolodi."
-  },
-  {
-    "id": "1449",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
-    "answer": "In the Heat of the Night",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "The Graduate",
-      "Guess Who's Coming to Dinner"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
-  },
-  {
-    "id": "1503",
-    "question": "Quel est le nom du groupe qui a chanté 'Disarm' ?",
-    "answer": "The Smashing Pumpkins",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Disarm', sorti en 1993 par The Smashing Pumpkins, est une chanson alternative rock tirée de l'album Siamese Dream."
-  },
-  {
-    "id": "1650",
-    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
-    "answer": "Blur",
-    "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
-  },
-  {
-    "id": "1394",
-    "question": "Quel est la capitale du Laos ?",
-    "answer": "Vientiane",
-    "badAnswers": [
-      "Luang Prabang",
-      "Pakse",
-      "Savannakhet"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Vientiane, capitale du Laos, est une ville paisible sur les rives du Mékong, connue pour ses temples bouddhistes et son ambiance détendue."
-  },
-  {
-    "id": "579",
-    "question": "Dans Super Mario Kart, quel objet ralentit directement les adversaires lorsqu'il est utilisé ?",
-    "answer": "Carapace rouge",
-    "badAnswers": [
-      "Peau de banane",
-      "Étoile",
-      "Champignon"
+      "Kalos",
+      "Galar",
+      "Unys"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La carapace rouge dans Super Mario Kart est un projectile qui poursuit un adversaire et le ralentit en le touchant. La peau de banane est un piège statique, l'étoile rend invincible, et le champignon augmente la vitesse."
+    "description": "Pokémon Soleil et Lune se déroule dans la région d'Alola, inspirée d'Hawaï, avec des îles tropicales. Kalos, Galar et Unys sont les régions d'autres jeux Pokémon."
   },
   {
-    "id": "106",
-    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
-    "answer": "Raymond Domenech",
+    "id": "846",
+    "question": "Dans Star Wars, quel est le nom de la planète désertique où Luke grandit ?",
+    "answer": "Tatooine",
     "badAnswers": [
-      "Didier Deschamps",
-      "Aimé Jacquet",
-      "Michel Hidalgo"
+      "Jakku",
+      "Hoth",
+      "Naboo"
     ],
-    "category": "Sports",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
+    "description": "Tatooine est la planète désertique où Luke Skywalker grandit dans Star Wars : Un nouvel espoir. Jakku, Hoth et Naboo sont d'autres planètes de la saga."
   },
   {
-    "id": "1738",
-    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
-    "answer": "Robert Watson-Watt",
+    "id": "308",
+    "question": "Dans Night In The Woods, où travaille Gregg ?",
+    "answer": "Snack Falcon",
     "badAnswers": [
-      "Heinrich Hertz",
-      "Christian Hülsmeyer",
-      "Karl Ferdinand Braun"
+      "Ol' Pickaxe",
+      "Video Outpost 'Too'",
+      "Food Donkey"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Night In The Woods (2017), Gregg travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs. Ce lieu est un élément clé de l'histoire, où Gregg, un ami proche du protagoniste Mae, est employé. Les autres options sont des lieux du jeu, mais pas son lieu de travail."
   },
   {
-    "id": "1647",
-    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
-    "answer": "Blur",
+    "id": "1244",
+    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
+    "answer": "The Doors",
     "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
+      "The Rolling Stones",
+      "The Who",
+      "Jimi Hendrix Experience"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
+  },
+  {
+    "id": "443",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L’Empire contre-attaque ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Cad Bane",
+      "Bossk"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L’Empire contre-attaque (1980) pour le livrer à Jabba le Hutt. Jango Fett est son père, et Cad Bane et Bossk sont d’autres chasseurs de primes dans l’univers Star Wars."
+  },
+  {
+    "id": "497",
+    "question": "Dans Horizon Zero Dawn, quel est le nom de la protagoniste ?",
+    "answer": "Aloy",
+    "badAnswers": [
+      "Erend",
+      "Sylens",
+      "Avad"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aloy est la protagoniste de Horizon Zero Dawn, une chasseuse dans un monde post-apocalyptique dominé par des machines. Erend, Sylens et Avad sont des personnages secondaires dans le jeu."
+  },
+  {
+    "id": "1391",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
+    "answer": "Annie Hall",
+    "badAnswers": [
+      "Star Wars",
+      "Close Encounters of the Third Kind",
+      "The Goodbye Girl"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Annie Hall, réalisé par Woody Allen, a remporté l'Oscar du meilleur film en 1977, une comédie romantique sur l'amour et la névrose."
+  },
+  {
+    "id": "1437",
+    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
+    "answer": "Metallica",
+    "badAnswers": [
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
+  },
+  {
+    "id": "168",
+    "question": "Avec quel film de Steven Soderbergh le COVID-19 présente-t-il des points communs ?",
+    "answer": "Contagion",
+    "badAnswers": [
+      "Bubble",
+      "Paranoïa",
+      "Traffic"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "'Contagion' (2011) décrit une pandémie mondiale avec des similitudes frappantes avec le COVID-19. 'Traffic' parle de trafic de drogue, les autres titres sont inventés."
+  },
+  {
+    "id": "870",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
+    "answer": "Kassadin",
+    "badAnswers": [
+      "Malzahar",
+      "Karthus",
+      "Veigar"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
   }
 ]
