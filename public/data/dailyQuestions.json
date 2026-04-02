@@ -1,132 +1,132 @@
 [
   {
-    "id": "469",
-    "question": "Quel artiste a peint Le Baiser ?",
-    "answer": "Gustav Klimt",
+    "id": "1857",
+    "question": "Quel est le nom de l'auteur de 'Le Château' ?",
+    "answer": "Franz Kafka",
     "badAnswers": [
-      "Edvard Munch",
-      "Egon Schiele",
-      "Marc Chagall"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "369",
-    "question": "Quel est la capitale du Brésil ?",
-    "answer": "Brasília",
-    "badAnswers": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Salvador"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
-  },
-  {
-    "id": "667",
-    "question": "Dans Red Dead Redemption 2, quel est le nom du camp principal du gang Van der Linde au début du jeu ?",
-    "answer": "Colter",
-    "badAnswers": [
-      "Horseshoe Overlook",
-      "Clemens Point",
-      "Shady Belle"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Colter est le camp initial du gang Van der Linde dans Red Dead Redemption 2, situé dans les montagnes enneigées. Horseshoe Overlook, Clemens Point et Shady Belle sont des camps ultérieurs."
-  },
-  {
-    "id": "817",
-    "question": "Quel est la capitale de la Pologne ?",
-    "answer": "Varsovie",
-    "badAnswers": [
-      "Cracovie",
-      "Gdansk",
-      "Wroclaw"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
-  },
-  {
-    "id": "1004",
-    "question": "Dans quelle université travaillent les personnages Wolowitz, Cooper, Hofstadter et Koothrappali dans The Big Bang Theory ?",
-    "answer": "Caltech",
-    "badAnswers": [
-      "UCLA",
-      "MIT",
-      "UC Berkeley"
-    ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Dans la série The Big Bang Theory, les quatre scientifiques principaux travaillent à Caltech, l'Institut de Technologie de Californie, un cadre clé de l'intrigue."
-  },
-  {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Rainer Maria Rilke"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+    "description": "Franz Kafka a écrit 'Le Château' (1926), un roman inachevé sur l'aliénation et la bureaucratie."
   },
   {
-    "id": "1434",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ciri ?",
-    "answer": "The Witcher 3: Wild Hunt",
+    "id": "744",
+    "question": "Quel artiste a peint La Ronde de nuit ?",
+    "answer": "Rembrandt",
     "badAnswers": [
-      "Dragon Age: Inquisition",
-      "Skyrim",
-      "Dark Souls II"
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Ronde de nuit (1642) de Rembrandt est une peinture baroque représentant une milice. Vermeer, Hals et Steen sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "301",
+    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+    "answer": "Temps et Dimensions Relatives Dans l'Espace",
+    "badAnswers": [
+      "Temps et Réalité Dimensionnelle Dans l'Espace",
+      "Temps et Dimensions Relatives Dans le Style",
+      "Toilette, Corde, Chien, Soupe"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+  },
+  {
+    "id": "129",
+    "question": "Quelle est la durée d'une mi-temps dans un match de rugby à XV ?",
+    "answer": "40 min",
+    "badAnswers": [
+      "30 min",
+      "35 min",
+      "45 min"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "Un match de rugby à XV est divisé en deux mi-temps de 40 minutes chacune. Les autres durées ne correspondent pas aux règles officielles."
+  },
+  {
+    "id": "1760",
+    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
+  },
+  {
+    "id": "484",
+    "question": "Dans Super Mario Galaxy, quel est le nom de la compagne de Mario ?",
+    "answer": "Rosalina",
+    "badAnswers": [
+      "Peach",
+      "Toad",
+      "Luma"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ciri, puissante sorceleuse et fille adoptive de Geralt, est un personnage central de The Witcher 3: Wild Hunt."
+    "description": "Rosalina est la compagne et guide de Mario dans Super Mario Galaxy. Luma est une petite créature étoilée qui l'accompagne. Peach est la princesse à sauver, et Toad un allié."
   },
   {
-    "id": "162",
-    "question": "Dans quelles aventures retrouve-t-on les personnages de Loïs et Clark ?",
-    "answer": "Superman",
+    "id": "1237",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
     "badAnswers": [
-      "Hulk",
-      "Spiderman",
-      "Batman"
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
     ],
-    "category": "Bandes dessinées",
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
+  },
+  {
+    "id": "930",
+    "question": "Quel est le nom collectif pour un groupe de lions ?",
+    "answer": "Fierté",
+    "badAnswers": [
+      "Meute",
+      "Horde",
+      "Tribu"
+    ],
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Loïs Lane et Clark Kent (alias Superman) sont les personnages centraux des comics 'Superman'. Hulk, Spiderman et Batman appartiennent à d'autres univers."
+    "description": "Un groupe de lions est appelé une 'fierté', un terme qui souligne leur nature sociale et leur structure familiale. Les autres termes, comme 'meute' ou 'horde', sont utilisés pour d'autres animaux sociaux."
   },
   {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
+    "id": "1172",
+    "question": "Quel est le nom de l'inventeur du premier microscope ?",
+    "answer": "Zacharias Janssen",
     "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
+      "Galilée",
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
-  },
-  {
-    "id": "280",
-    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
-    "answer": "Dick Grayson",
-    "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Zacharias Janssen est crédité pour la création du premier microscope composé vers 1590, bien que des débats subsistent sur son invention."
   }
 ]
