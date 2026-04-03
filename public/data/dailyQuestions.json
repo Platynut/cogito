@@ -1,132 +1,132 @@
 [
   {
-    "id": "1857",
-    "question": "Quel est le nom de l'auteur de 'Le Château' ?",
-    "answer": "Franz Kafka",
+    "id": "1246",
+    "question": "Quel est la capitale de l'Irak ?",
+    "answer": "Bagdad",
     "badAnswers": [
-      "Thomas Mann",
-      "Hermann Hesse",
-      "Rainer Maria Rilke"
+      "Mossoul",
+      "Bassorah",
+      "Erbil"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'Le Château' (1926), un roman inachevé sur l'aliénation et la bureaucratie."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bagdad, capitale de l'Irak, est une ville historique située sur le Tigre, connue pour son riche patrimoine culturel et ses mosquées."
   },
   {
-    "id": "744",
-    "question": "Quel artiste a peint La Ronde de nuit ?",
-    "answer": "Rembrandt",
+    "id": "461",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
+    "answer": "Ho-Oh",
     "badAnswers": [
-      "Johannes Vermeer",
-      "Frans Hals",
-      "Jan Steen"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "La Ronde de nuit (1642) de Rembrandt est une peinture baroque représentant une milice. Vermeer, Hals et Steen sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
-    "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
+      "Lugia",
+      "Suicune",
+      "Raikou"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
   },
   {
-    "id": "301",
-    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-    "answer": "Temps et Dimensions Relatives Dans l'Espace",
+    "id": "904",
+    "question": "Quel organe est principalement responsable de la filtration du sang ?",
+    "answer": "Le rein",
     "badAnswers": [
-      "Temps et Réalité Dimensionnelle Dans l'Espace",
-      "Temps et Dimensions Relatives Dans le Style",
-      "Toilette, Corde, Chien, Soupe"
+      "Le foie",
+      "Le cœur",
+      "La rate"
     ],
-    "category": "Séries",
+    "category": "Anatomie",
     "difficulty": "facile",
-    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+    "description": "Les reins filtrent le sang pour éliminer les déchets et maintenir l'équilibre hydrique et électrolytique du corps via l'urine."
   },
   {
-    "id": "129",
-    "question": "Quelle est la durée d'une mi-temps dans un match de rugby à XV ?",
-    "answer": "40 min",
+    "id": "1937",
+    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "30 min",
-      "35 min",
-      "45 min"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Un match de rugby à XV est divisé en deux mi-temps de 40 minutes chacune. Les autres durées ne correspondent pas aux règles officielles."
-  },
-  {
-    "id": "1760",
-    "question": "Quel est le nom de l'auteur de 'Les Mains sales' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
+      "Jean-Paul Sartre",
       "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Mains sales' (1948), une pièce de théâtre existentialiste sur la politique et la morale."
+    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
   },
   {
-    "id": "484",
-    "question": "Dans Super Mario Galaxy, quel est le nom de la compagne de Mario ?",
-    "answer": "Rosalina",
+    "id": "1046",
+    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
+    "answer": "Eagles",
     "badAnswers": [
-      "Peach",
-      "Toad",
-      "Luma"
+      "The Doors",
+      "Fleetwood Mac",
+      "The Rolling Stones"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Rosalina est la compagne et guide de Mario dans Super Mario Galaxy. Luma est une petite créature étoilée qui l'accompagne. Peach est la princesse à sauver, et Toad un allié."
+    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
   },
   {
-    "id": "1237",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
+    "id": "1175",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2022 ?",
+    "answer": "Everything Everywhere All at Once",
     "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
+      "The Banshees of Inisherin",
+      "Top Gun: Maverick",
+      "Avatar: The Way of Water"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Everything Everywhere All at Once, réalisé par les Daniels, a remporté l'Oscar du meilleur film en 2022, mêlant science-fiction et comédie."
   },
   {
-    "id": "930",
-    "question": "Quel est le nom collectif pour un groupe de lions ?",
-    "answer": "Fierté",
+    "id": "231",
+    "question": "Quel nom porte le logiciel de traitement de texte mis au point par Microsoft ?",
+    "answer": "Word",
     "badAnswers": [
-      "Meute",
-      "Horde",
-      "Tribu"
+      "Access",
+      "Excel",
+      "PowerPoint"
     ],
-    "category": "Animaux",
+    "category": "Technologie",
     "difficulty": "facile",
-    "description": "Un groupe de lions est appelé une 'fierté', un terme qui souligne leur nature sociale et leur structure familiale. Les autres termes, comme 'meute' ou 'horde', sont utilisés pour d'autres animaux sociaux."
+    "description": "Microsoft Word est le logiciel de traitement de texte de la suite Office. Access gère les bases de données, Excel les tableaux, PowerPoint les présentations."
   },
   {
-    "id": "1172",
-    "question": "Quel est le nom de l'inventeur du premier microscope ?",
-    "answer": "Zacharias Janssen",
+    "id": "1763",
+    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
+    "answer": "Stendhal",
     "badAnswers": [
-      "Galilée",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Zacharias Janssen est crédité pour la création du premier microscope composé vers 1590, bien que des débats subsistent sur son invention."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
+  },
+  {
+    "id": "9",
+    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "answer": "Queen",
+    "badAnswers": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Ce titre emblématique de 1975 combine avec brio rock, opéra et ballade, mettant en lumière l’éclectisme musical et la créativité audacieuse du groupe Queen, qui a su repousser les frontières du genre."
+  },
+  {
+    "id": "275",
+    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
+    "answer": "Andorre",
+    "badAnswers": [
+      "Saint-Marin",
+      "Cité du Vatican",
+      "Liechtenstein"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
   }
 ]
