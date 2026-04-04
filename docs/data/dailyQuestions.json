@@ -1,132 +1,132 @@
 [
   {
-    "id": "1246",
-    "question": "Quel est la capitale de l'Irak ?",
-    "answer": "Bagdad",
+    "id": "1056",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
+    "answer": "Uncharted",
     "badAnswers": [
-      "Mossoul",
-      "Bassorah",
-      "Erbil"
+      "Tomb Raider",
+      "The Last of Us",
+      "Far Cry"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Bagdad, capitale de l'Irak, est une ville historique située sur le Tigre, connue pour son riche patrimoine culturel et ses mosquées."
+    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
   },
   {
-    "id": "461",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
-    "answer": "Ho-Oh",
+    "id": "310",
+    "question": "Quel est le nom de l'arme principale de Cloud Strife dans Final Fantasy VII ?",
+    "answer": "Épée broyeuse",
     "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Raikou"
+      "Gunblade",
+      "Masamune",
+      "Lame du chaos"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Final Fantasy VII, Cloud Strife utilise l'Épée broyeuse (Buster Sword), une arme massive et emblématique qui symbolise son passé de SOLDAT. Cette épée est devenue un symbole iconique de la série Final Fantasy. Le Gunblade est associé à Squall dans Final Fantasy VIII, la Masamune à Sephiroth, et la Lame du chaos n'existe pas dans ce contexte."
+  },
+  {
+    "id": "1209",
+    "question": "Quel est le nom de l'inventeur de la dynamo ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
+  },
+  {
+    "id": "664",
+    "question": "Quel scientifique a découvert la théorie de l'évolution par sélection naturelle ?",
+    "answer": "Charles Darwin",
+    "badAnswers": [
+      "Alfred Russel Wallace",
+      "Gregor Mendel",
+      "Jean-Baptiste Lamarck"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Charles Darwin a publié la théorie de l'évolution par sélection naturelle en 1859 dans L'Origine des espèces. Wallace a co-découvert le concept, Mendel a étudié l'hérédité, et Lamarck a proposé une théorie différente."
+  },
+  {
+    "id": "1163",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
+    "answer": "Cornelius Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+  },
+  {
+    "id": "1855",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire flash ?",
+    "answer": "Fujio Masuoka",
+    "badAnswers": [
+      "Robert Dennard",
+      "Gordon Moore",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Fujio Masuoka a inventé la mémoire flash en 1984 chez Toshiba, utilisée dans les clés USB et les SSD."
+  },
+  {
+    "id": "1671",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
+  },
+  {
+    "id": "1863",
+    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
+    "answer": "Norman Woodland",
+    "badAnswers": [
+      "Bernard Silver",
+      "George Laurer",
+      "Alan Haberman"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+  },
+  {
+    "id": "650",
+    "question": "Quel est le plus grand mammifère marin du monde ?",
+    "answer": "Baleine bleue",
+    "badAnswers": [
+      "Cachalot",
+      "Orque",
+      "Rorqual commun"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
+  },
+  {
+    "id": "575",
+    "question": "Dans League of Legends, quel champion est surnommé La sorcière des glaces ?",
+    "answer": "Lissandra",
+    "badAnswers": [
+      "Ashe",
+      "Sejuani",
+      "Anivia"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
-  },
-  {
-    "id": "904",
-    "question": "Quel organe est principalement responsable de la filtration du sang ?",
-    "answer": "Le rein",
-    "badAnswers": [
-      "Le foie",
-      "Le cœur",
-      "La rate"
-    ],
-    "category": "Anatomie",
-    "difficulty": "facile",
-    "description": "Les reins filtrent le sang pour éliminer les déchets et maintenir l'équilibre hydrique et électrolytique du corps via l'urine."
-  },
-  {
-    "id": "1937",
-    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
-  },
-  {
-    "id": "1046",
-    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
-    "answer": "Eagles",
-    "badAnswers": [
-      "The Doors",
-      "Fleetwood Mac",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
-  },
-  {
-    "id": "1175",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2022 ?",
-    "answer": "Everything Everywhere All at Once",
-    "badAnswers": [
-      "The Banshees of Inisherin",
-      "Top Gun: Maverick",
-      "Avatar: The Way of Water"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Everything Everywhere All at Once, réalisé par les Daniels, a remporté l'Oscar du meilleur film en 2022, mêlant science-fiction et comédie."
-  },
-  {
-    "id": "231",
-    "question": "Quel nom porte le logiciel de traitement de texte mis au point par Microsoft ?",
-    "answer": "Word",
-    "badAnswers": [
-      "Access",
-      "Excel",
-      "PowerPoint"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Microsoft Word est le logiciel de traitement de texte de la suite Office. Access gère les bases de données, Excel les tableaux, PowerPoint les présentations."
-  },
-  {
-    "id": "1763",
-    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
-    "answer": "Stendhal",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
-  },
-  {
-    "id": "9",
-    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
-    "answer": "Queen",
-    "badAnswers": [
-      "The Beatles",
-      "Led Zeppelin",
-      "Pink Floyd"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Ce titre emblématique de 1975 combine avec brio rock, opéra et ballade, mettant en lumière l’éclectisme musical et la créativité audacieuse du groupe Queen, qui a su repousser les frontières du genre."
-  },
-  {
-    "id": "275",
-    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
-    "answer": "Andorre",
-    "badAnswers": [
-      "Saint-Marin",
-      "Cité du Vatican",
-      "Liechtenstein"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
+    "description": "Lissandra, surnommée La sorcière des glaces dans League of Legends, est une mage manipulant la glace noire. Ashe, Sejuani et Anivia sont également associées au froid, mais n'ont pas ce titre."
   }
 ]
