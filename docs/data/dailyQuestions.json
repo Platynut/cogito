@@ -1,132 +1,132 @@
 [
   {
-    "id": "1056",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
-    "answer": "Uncharted",
+    "id": "1795",
+    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Tomb Raider",
-      "The Last of Us",
-      "Far Cry"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
+    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
   },
   {
-    "id": "310",
-    "question": "Quel est le nom de l'arme principale de Cloud Strife dans Final Fantasy VII ?",
-    "answer": "Épée broyeuse",
+    "id": "1026",
+    "question": "Quel est le nom de la devise officielle du Japon ?",
+    "answer": "Yen",
     "badAnswers": [
-      "Gunblade",
-      "Masamune",
-      "Lame du chaos"
+      "Won",
+      "Yuan",
+      "Roupie"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Dans Final Fantasy VII, Cloud Strife utilise l'Épée broyeuse (Buster Sword), une arme massive et emblématique qui symbolise son passé de SOLDAT. Cette épée est devenue un symbole iconique de la série Final Fantasy. Le Gunblade est associé à Squall dans Final Fantasy VIII, la Masamune à Sephiroth, et la Lame du chaos n'existe pas dans ce contexte."
+    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
   },
   {
-    "id": "1209",
-    "question": "Quel est le nom de l'inventeur de la dynamo ?",
-    "answer": "Michael Faraday",
+    "id": "759",
+    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
+    "answer": "Frenzy Farm",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert le principe d'induction électromagnétique dans les années 1830, base théorique essentielle pour la dynamo. La première dynamo pratique a été inventée plus tard par Zénobe Gramme."
-  },
-  {
-    "id": "664",
-    "question": "Quel scientifique a découvert la théorie de l'évolution par sélection naturelle ?",
-    "answer": "Charles Darwin",
-    "badAnswers": [
-      "Alfred Russel Wallace",
-      "Gregor Mendel",
-      "Jean-Baptiste Lamarck"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Charles Darwin a publié la théorie de l'évolution par sélection naturelle en 1859 dans L'Origine des espèces. Wallace a co-découvert le concept, Mendel a étudié l'hérédité, et Lamarck a proposé une théorie différente."
-  },
-  {
-    "id": "1163",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
-    "answer": "Cornelius Drebbel",
-    "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
-  },
-  {
-    "id": "1855",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire flash ?",
-    "answer": "Fujio Masuoka",
-    "badAnswers": [
-      "Robert Dennard",
-      "Gordon Moore",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Fujio Masuoka a inventé la mémoire flash en 1984 chez Toshiba, utilisée dans les clés USB et les SSD."
-  },
-  {
-    "id": "1671",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
-  },
-  {
-    "id": "1863",
-    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
-    "answer": "Norman Woodland",
-    "badAnswers": [
-      "Bernard Silver",
-      "George Laurer",
-      "Alan Haberman"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
-  },
-  {
-    "id": "650",
-    "question": "Quel est le plus grand mammifère marin du monde ?",
-    "answer": "Baleine bleue",
-    "badAnswers": [
-      "Cachalot",
-      "Orque",
-      "Rorqual commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
-  },
-  {
-    "id": "575",
-    "question": "Dans League of Legends, quel champion est surnommé La sorcière des glaces ?",
-    "answer": "Lissandra",
-    "badAnswers": [
-      "Ashe",
-      "Sejuani",
-      "Anivia"
+      "Haunted Hills",
+      "Salty Springs",
+      "Lazy Lake"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Lissandra, surnommée La sorcière des glaces dans League of Legends, est une mage manipulant la glace noire. Ashe, Sejuani et Anivia sont également associées au froid, mais n'ont pas ce titre."
+    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
+  },
+  {
+    "id": "471",
+    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
+    "answer": "Pont de Çanakkale 1915",
+    "badAnswers": [
+      "Pont du Golden Gate",
+      "Pont Akashi-Kaikyo",
+      "Pont de Xihoumen"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+  },
+  {
+    "id": "688",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
+    "answer": "Lac Supérieur",
+    "badAnswers": [
+      "Lac Michigan",
+      "Lac Huron",
+      "Lac Ontario"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+  },
+  {
+    "id": "1751",
+    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
+    "answer": "Voltaire",
+    "badAnswers": [
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
+  },
+  {
+    "id": "1654",
+    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
+    "answer": "R.E.M.",
+    "badAnswers": [
+      "The Verve",
+      "Radiohead",
+      "Oasis"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
+  },
+  {
+    "id": "1930",
+    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
+  },
+  {
+    "id": "369",
+    "question": "Quel est la capitale du Brésil ?",
+    "answer": "Brasília",
+    "badAnswers": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
+  },
+  {
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
+    "badAnswers": [
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
   }
 ]
