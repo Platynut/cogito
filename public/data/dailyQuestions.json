@@ -1,98 +1,111 @@
 [
   {
-    "id": "1795",
-    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
   },
   {
-    "id": "1026",
-    "question": "Quel est le nom de la devise officielle du Japon ?",
-    "answer": "Yen",
+    "id": "960",
+    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Won",
-      "Yuan",
-      "Roupie"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
-  },
-  {
-    "id": "759",
-    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
-    "answer": "Frenzy Farm",
-    "badAnswers": [
-      "Haunted Hills",
-      "Salty Springs",
-      "Lazy Lake"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
+    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
   },
   {
-    "id": "471",
-    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
-    "answer": "Pont de Çanakkale 1915",
+    "id": "1212",
+    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Pont du Golden Gate",
-      "Pont Akashi-Kaikyo",
-      "Pont de Xihoumen"
+      "Thomas Edison",
+      "Samuel Morse",
+      "Guglielmo Marconi"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
   },
   {
-    "id": "688",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
-    "answer": "Lac Supérieur",
+    "id": "672",
+    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
+    "answer": "Qui-Gon Jinn",
     "badAnswers": [
-      "Lac Michigan",
-      "Lac Huron",
-      "Lac Ontario"
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
+  },
+  {
+    "id": "63",
+    "question": "Qui était le premier président noir des États-Unis ?",
+    "answer": "Barack Obama",
+    "badAnswers": [
+      "Martin Luther King",
+      "Colin Powell",
+      "Jesse Jackson"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
+  },
+  {
+    "id": "711",
+    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
+    "answer": "Yangtsé",
+    "badAnswers": [
+      "Mékong",
+      "Gange",
+      "Amour"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
   },
   {
-    "id": "1751",
-    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
-    "answer": "Voltaire",
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Jean-Jacques Rousseau",
-      "Denis Diderot",
-      "Montesquieu"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
   },
   {
-    "id": "1654",
-    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
-    "answer": "R.E.M.",
+    "id": "2019",
+    "question": "Quel est le nom du groupe qui a chanté 'I'm Looking Through You' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "The Verve",
-      "Radiohead",
-      "Oasis"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
+    "difficulty": "normal",
+    "description": "'I'm Looking Through You', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
   },
   {
-    "id": "1930",
-    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
+    "id": "2041",
+    "question": "Quel est le nom du groupe qui a chanté 'Octopus's Garden' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -101,32 +114,19 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
+    "description": "'Octopus's Garden', sorti en 1969 par The Beatles, est une chanson ludique écrite par Ringo Starr, tirée de l'album Abbey Road."
   },
   {
-    "id": "369",
-    "question": "Quel est la capitale du Brésil ?",
-    "answer": "Brasília",
+    "id": "1277",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
+    "answer": "Zirconium",
     "badAnswers": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Salvador"
+      "Zinc",
+      "Yttrium",
+      "Xenon"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
-  },
-  {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
-    "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
   }
 ]
