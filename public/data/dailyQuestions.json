@@ -1,132 +1,132 @@
 [
   {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
+    "id": "210",
+    "question": "Quel joueur possède le numéro 44 en Formule 1 ?",
+    "answer": "Lewis Hamilton",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Esteban Ocon",
+      "Oscar Piastri",
+      "Valtteri Bottas"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "Lewis Hamilton a utilisé le numéro 44 en hommage à son père (année de naissance : 1944). Ocon porte le 31, Piastri le 81, et Bottas le 77."
+  },
+  {
+    "id": "111",
+    "question": "Avec quel autre animal vit généralement une oie ?",
+    "answer": "Le jars",
+    "badAnswers": [
+      "Le canard",
+      "Le cygne",
+      "La poule"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
+  },
+  {
+    "id": "707",
+    "question": "Quelle créature japonaise possède une tête de singe, un corps de tigre et une queue de serpent ?",
+    "answer": "Nue",
+    "badAnswers": [
+      "Jorōgumo",
+      "Oni",
+      "Tengu"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+    "description": "Le Nue est une créature composite apportant malheur et maladie."
   },
   {
-    "id": "960",
-    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Jeux vidéo",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   },
   {
-    "id": "1212",
-    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
-    "answer": "Alexander Graham Bell",
+    "id": "1263",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bi ?",
+    "answer": "Bismuth",
     "badAnswers": [
-      "Thomas Edison",
-      "Samuel Morse",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
-  },
-  {
-    "id": "672",
-    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
-    "answer": "Qui-Gon Jinn",
-    "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Yoda",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
-  },
-  {
-    "id": "63",
-    "question": "Qui était le premier président noir des États-Unis ?",
-    "answer": "Barack Obama",
-    "badAnswers": [
-      "Martin Luther King",
-      "Colin Powell",
-      "Jesse Jackson"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
-  },
-  {
-    "id": "711",
-    "question": "Quel est le nom du plus grand fleuve d'Asie ?",
-    "answer": "Yangtsé",
-    "badAnswers": [
-      "Mékong",
-      "Gange",
-      "Amour"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Yangtsé, en Chine, est le plus grand fleuve d'Asie, s'étendant sur environ 6 300 km. Le Mékong, le Gange et l'Amour sont d'autres fleuves asiatiques, mais plus courts."
-  },
-  {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
-  },
-  {
-    "id": "2019",
-    "question": "Quel est le nom du groupe qui a chanté 'I'm Looking Through You' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'I'm Looking Through You', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "2041",
-    "question": "Quel est le nom du groupe qui a chanté 'Octopus's Garden' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Octopus's Garden', sorti en 1969 par The Beatles, est une chanson ludique écrite par Ringo Starr, tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1277",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zr ?",
-    "answer": "Zirconium",
-    "badAnswers": [
-      "Zinc",
-      "Yttrium",
-      "Xenon"
+      "Bore",
+      "Brome",
+      "Baryum"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le zirconium, symbolisé par Zr, est un métal résistant à la corrosion, utilisé dans les réacteurs nucléaires et les bijoux en zircone cubique."
+    "description": "Le bismuth, symbolisé par Bi, est un métal utilisé dans les alliages et les médicaments, connu pour ses cristaux iridescents."
+  },
+  {
+    "id": "503",
+    "question": "Quel scientifique a découvert les électrons ?",
+    "answer": "Joseph Thomson",
+    "badAnswers": [
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
+  },
+  {
+    "id": "386",
+    "question": "Quel est le nom de l’auteur de L’Étranger ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Franz Kafka",
+      "Simone de Beauvoir"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
+  },
+  {
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+  },
+  {
+    "id": "1660",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Carapuce ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Carapuce, Pokémon de type eau, est l'un des starters de la série Pokémon, évoluant en Carabaffe."
+  },
+  {
+    "id": "91",
+    "question": "Quel groupe a sorti l'album 'Abbey Road' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Pink Floyd"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Sorti en 1969, c'est le dernier album enregistré par les Beatles (bien que 'Let It Be' soit sorti après). Sa pochette avec le passage piéton est iconique."
   }
 ]
