@@ -1,132 +1,132 @@
 [
   {
-    "id": "210",
-    "question": "Quel joueur possède le numéro 44 en Formule 1 ?",
-    "answer": "Lewis Hamilton",
+    "id": "1212",
+    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Esteban Ocon",
-      "Oscar Piastri",
-      "Valtteri Bottas"
+      "Thomas Edison",
+      "Samuel Morse",
+      "Guglielmo Marconi"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Lewis Hamilton a utilisé le numéro 44 en hommage à son père (année de naissance : 1944). Ocon porte le 31, Piastri le 81, et Bottas le 77."
-  },
-  {
-    "id": "111",
-    "question": "Avec quel autre animal vit généralement une oie ?",
-    "answer": "Le jars",
-    "badAnswers": [
-      "Le canard",
-      "Le cygne",
-      "La poule"
-    ],
-    "category": "Nature",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
+    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
   },
   {
-    "id": "707",
-    "question": "Quelle créature japonaise possède une tête de singe, un corps de tigre et une queue de serpent ?",
-    "answer": "Nue",
+    "id": "1482",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1958 ?",
+    "answer": "Gigi",
     "badAnswers": [
-      "Jorōgumo",
-      "Oni",
-      "Tengu"
+      "Cat on a Hot Tin Roof",
+      "The Defiant Ones",
+      "Separate Tables"
     ],
-    "category": "Mythologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Le Nue est une créature composite apportant malheur et maladie."
+    "description": "Gigi, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1958, une comédie musicale romantique sur une jeune Parisienne."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "1570",
+    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
+    "answer": "Aerosmith",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
   },
   {
-    "id": "1263",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bi ?",
-    "answer": "Bismuth",
-    "badAnswers": [
-      "Bore",
-      "Brome",
-      "Baryum"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le bismuth, symbolisé par Bi, est un métal utilisé dans les alliages et les médicaments, connu pour ses cristaux iridescents."
-  },
-  {
-    "id": "503",
-    "question": "Quel scientifique a découvert les électrons ?",
-    "answer": "Joseph Thomson",
-    "badAnswers": [
-      "Ernest Rutherford",
-      "Niels Bohr",
-      "James Chadwick"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
-  },
-  {
-    "id": "386",
-    "question": "Quel est le nom de l’auteur de L’Étranger ?",
-    "answer": "Albert Camus",
+    "id": "2127",
+    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Franz Kafka",
+      "Albert Camus",
       "Simone de Beauvoir"
     ],
-    "category": "Littérature",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
+    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
   },
   {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
+    "id": "1925",
+    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
+    "answer": "Michel Leiris",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
+  },
+  {
+    "id": "564",
+    "question": "Quel est la capitale du Pérou ?",
+    "answer": "Lima",
+    "badAnswers": [
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+  },
+  {
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
+    "badAnswers": [
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
+  },
+  {
+    "id": "1355",
+    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
+    "answer": "The Police",
+    "badAnswers": [
+      "U2",
+      "The Clash",
+      "Blondie"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
   },
   {
-    "id": "1660",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Carapuce ?",
-    "answer": "Pokémon",
+    "id": "1515",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
+    "answer": "The Greatest Show on Earth",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "High Noon",
+      "The Quiet Man",
+      "Moulin Rouge"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Carapuce, Pokémon de type eau, est l'un des starters de la série Pokémon, évoluant en Carabaffe."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
   },
   {
-    "id": "91",
-    "question": "Quel groupe a sorti l'album 'Abbey Road' ?",
-    "answer": "The Beatles",
+    "id": "120",
+    "question": "Quelle est cette danse d’origine espagnole ?",
+    "answer": "Flamenco",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Pink Floyd"
+      "Mambo",
+      "Jive",
+      "Valse"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Sorti en 1969, c'est le dernier album enregistré par les Beatles (bien que 'Let It Be' soit sorti après). Sa pochette avec le passage piéton est iconique."
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "Le flamenco est une danse traditionnelle espagnole, originaire d'Andalousie. Le mambo est cubain, le jive est américain et la valse est européenne."
   }
 ]
