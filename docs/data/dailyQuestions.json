@@ -1,132 +1,132 @@
 [
   {
-    "id": "1212",
-    "question": "Quel est le nom de l'inventeur du premier téléphone ?",
-    "answer": "Alexander Graham Bell",
+    "id": "126",
+    "question": "Quel long balai-brosse est généralement utilisé pour ramoner une cheminée ?",
+    "answer": "Un hérisson",
     "badAnswers": [
-      "Thomas Edison",
-      "Samuel Morse",
-      "Guglielmo Marconi"
+      "Une girafe",
+      "Un col de cygne",
+      "Un blaireau"
     ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell a inventé le téléphone en 1876, permettant pour la première fois la transmission de la voix à distance."
-  },
-  {
-    "id": "1482",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1958 ?",
-    "answer": "Gigi",
-    "badAnswers": [
-      "Cat on a Hot Tin Roof",
-      "The Defiant Ones",
-      "Separate Tables"
-    ],
-    "category": "Cinéma",
+    "category": "Culture générale",
     "difficulty": "normal",
-    "description": "Gigi, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1958, une comédie musicale romantique sur une jeune Parisienne."
+    "description": "Un hérisson est le nom donné au balai-brosse utilisé pour ramoner les cheminées. Les autres termes sont des inventions ou des confusions."
   },
   {
-    "id": "1570",
-    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
-    "answer": "Aerosmith",
+    "id": "422",
+    "question": "Quel est le nom du plus grand lac d’eau douce du monde par superficie ?",
+    "answer": "Lac Supérieur",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
-  },
-  {
-    "id": "2127",
-    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
-    "answer": "Jean Cocteau",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
-  },
-  {
-    "id": "1925",
-    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
-    "answer": "Michel Leiris",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
-  },
-  {
-    "id": "564",
-    "question": "Quel est la capitale du Pérou ?",
-    "answer": "Lima",
-    "badAnswers": [
-      "Cusco",
-      "Arequipa",
-      "Trujillo"
+      "Lac Baïkal",
+      "Lac Michigan",
+      "Lac Victoria"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+    "difficulty": "normal",
+    "description": "Le lac Supérieur, situé entre les États-Unis et le Canada, est le plus grand lac d’eau douce du monde par superficie, couvrant environ 82 100 km². Le lac Baïkal est le plus profond, et le lac Michigan et le lac Victoria sont plus petits en superficie."
   },
   {
-    "id": "773",
-    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
+    "id": "423",
+    "question": "Dans Star Wars, quel est le nom de l’arme principale de Darth Vader ?",
+    "answer": "Sabre laser",
     "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
+      "Blaster",
+      "Vibrolame",
+      "Lance-plasma"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Darth Vader utilise un sabre laser rouge dans Star Wars, une arme emblématique des Jedi et des Sith. Le blaster est une arme à feu, la vibrolame une arme de mêlée, et la lance-plasma n’existe pas dans cet univers."
   },
   {
-    "id": "1355",
-    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
-    "answer": "The Police",
+    "id": "795",
+    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
+    "answer": "Sam Porter Bridges",
     "badAnswers": [
-      "U2",
-      "The Clash",
-      "Blondie"
+      "Cliff Unger",
+      "Die-Hardman",
+      "Fragile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
+  },
+  {
+    "id": "2016",
+    "question": "Quel est le nom du groupe qui a chanté 'I Feel Fine' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
+    "description": "'I Feel Fine', sorti en 1964 par The Beatles, est une chanson pop connue pour son riff de guitare innovant."
   },
   {
-    "id": "1515",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
-    "answer": "The Greatest Show on Earth",
+    "id": "147",
+    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
+    "answer": "Le fémur",
     "badAnswers": [
-      "High Noon",
-      "The Quiet Man",
-      "Moulin Rouge"
+      "Le radius",
+      "Le cubitus",
+      "Le carpe"
     ],
-    "category": "Cinéma",
+    "category": "Anatomie",
     "difficulty": "normal",
-    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
   },
   {
-    "id": "120",
-    "question": "Quelle est cette danse d’origine espagnole ?",
-    "answer": "Flamenco",
+    "id": "1894",
+    "question": "Quel est le nom de l'inventeur du premier système de télécommande ?",
+    "answer": "Nikola Tesla",
     "badAnswers": [
-      "Mambo",
-      "Jive",
-      "Valse"
+      "Robert Adler",
+      "Eugene Polley",
+      "Philo Farnsworth"
     ],
-    "category": "Danse",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Le flamenco est une danse traditionnelle espagnole, originaire d'Andalousie. Le mambo est cubain, le jive est américain et la valse est européenne."
+    "description": "Nikola Tesla a démontré le premier système de télécommande en 1898, contrôlant un bateau miniature par ondes radio."
+  },
+  {
+    "id": "1690",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Arcanin ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Arcanin, Pokémon de type feu, est l'évolution de Caninos dans la série Pokémon, connu pour sa rapidité et sa force."
+  },
+  {
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
+    "badAnswers": [
+      "Metallica",
+      "Guns N' Roses",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
+  },
+  {
+    "id": "1990",
+    "question": "Quel est le nom du groupe qui a chanté 'All You Need Is Love' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'All You Need Is Love', sorti en 1967 par The Beatles, est une chanson pacifiste tirée de l'album Magical Mystery Tour."
   }
 ]
