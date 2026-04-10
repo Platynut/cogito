@@ -1,132 +1,132 @@
 [
   {
-    "id": "126",
-    "question": "Quel long balai-brosse est généralement utilisé pour ramoner une cheminée ?",
-    "answer": "Un hérisson",
+    "id": "684",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles 2 ?",
+    "answer": "Rex",
     "badAnswers": [
-      "Une girafe",
-      "Un col de cygne",
-      "Un blaireau"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "Un hérisson est le nom donné au balai-brosse utilisé pour ramoner les cheminées. Les autres termes sont des inventions ou des confusions."
-  },
-  {
-    "id": "422",
-    "question": "Quel est le nom du plus grand lac d’eau douce du monde par superficie ?",
-    "answer": "Lac Supérieur",
-    "badAnswers": [
-      "Lac Baïkal",
-      "Lac Michigan",
-      "Lac Victoria"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Supérieur, situé entre les États-Unis et le Canada, est le plus grand lac d’eau douce du monde par superficie, couvrant environ 82 100 km². Le lac Baïkal est le plus profond, et le lac Michigan et le lac Victoria sont plus petits en superficie."
-  },
-  {
-    "id": "423",
-    "question": "Dans Star Wars, quel est le nom de l’arme principale de Darth Vader ?",
-    "answer": "Sabre laser",
-    "badAnswers": [
-      "Blaster",
-      "Vibrolame",
-      "Lance-plasma"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Darth Vader utilise un sabre laser rouge dans Star Wars, une arme emblématique des Jedi et des Sith. Le blaster est une arme à feu, la vibrolame une arme de mêlée, et la lance-plasma n’existe pas dans cet univers."
-  },
-  {
-    "id": "795",
-    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
-    "answer": "Sam Porter Bridges",
-    "badAnswers": [
-      "Cliff Unger",
-      "Die-Hardman",
-      "Fragile"
+      "Pyra/Mythra",
+      "Shulk",
+      "Malos"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
-  },
-  {
-    "id": "2016",
-    "question": "Quel est le nom du groupe qui a chanté 'I Feel Fine' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Feel Fine', sorti en 1964 par The Beatles, est une chanson pop connue pour son riff de guitare innovant."
-  },
-  {
-    "id": "147",
-    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
-    "answer": "Le fémur",
-    "badAnswers": [
-      "Le radius",
-      "Le cubitus",
-      "Le carpe"
-    ],
-    "category": "Anatomie",
     "difficulty": "normal",
-    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
+    "description": "Rex est le protagoniste principal de Xenoblade Chronicles 2, maniant Pyra et Mythra comme lames. Dans Super Smash Bros. Ultimate, ce sont Pyra et Mythra qui sont jouables, mais Rex reste le héros principal de l'histoire du jeu."
   },
   {
-    "id": "1894",
-    "question": "Quel est le nom de l'inventeur du premier système de télécommande ?",
-    "answer": "Nikola Tesla",
+    "id": "1985",
+    "question": "Quel est le nom de l'auteur de 'La Critique de la raison dialectique' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Robert Adler",
-      "Eugene Polley",
-      "Philo Farnsworth"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'La Critique de la raison dialectique' (1960), un traité philosophique sur le marxisme."
+  },
+  {
+    "id": "1972",
+    "question": "Quel est le nom de l'auteur de 'La Force des choses' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'La Force des choses' (1963), une autobiographie sur sa vie et son engagement."
+  },
+  {
+    "id": "1912",
+    "question": "Quel est le nom de l'inventeur du premier système de réfrigérateur ?",
+    "answer": "Carl von Linde",
+    "badAnswers": [
+      "Jacob Perkins",
+      "John Gorrie",
+      "Oliver Evans"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Nikola Tesla a démontré le premier système de télécommande en 1898, contrôlant un bateau miniature par ondes radio."
+    "description": "Carl von Linde a développé le premier réfrigérateur moderne à compression en 1876, utilisé pour la conservation alimentaire."
   },
   {
-    "id": "1690",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Arcanin ?",
-    "answer": "Pokémon",
+    "id": "1646",
+    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
+    "answer": "John Steinbeck",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
+  },
+  {
+    "id": "1608",
+    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
+    "answer": "Pearl Jam",
+    "badAnswers": [
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
+  },
+  {
+    "id": "1224",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Dragon Quest"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Arcanin, Pokémon de type feu, est l'évolution de Caninos dans la série Pokémon, connu pour sa rapidité et sa force."
+    "difficulty": "normal",
+    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
   },
   {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
+    "id": "1757",
+    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
+    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
   },
   {
-    "id": "1990",
-    "question": "Quel est le nom du groupe qui a chanté 'All You Need Is Love' ?",
-    "answer": "The Beatles",
+    "id": "104",
+    "question": "Qui a joué en premier le rôle de James Bond ?",
+    "answer": "Sean Connery",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Roger Moore",
+      "George Lazenby",
+      "Timothy Dalton"
     ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'All You Need Is Love', sorti en 1967 par The Beatles, est une chanson pacifiste tirée de l'album Magical Mystery Tour."
+    "description": "Sean Connery a été le premier acteur à incarner James Bond au cinéma en 1962 dans 'Dr. No'. Roger Moore, George Lazenby et Timothy Dalton ont également joué le rôle, mais après lui."
+  },
+  {
+    "id": "104",
+    "question": "Quelle est la capitale de l'Islande ?",
+    "answer": "Reykjavik",
+    "badAnswers": [
+      "Akureyri",
+      "Kopavogur",
+      "Hafnarfjordur"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
   }
 ]
