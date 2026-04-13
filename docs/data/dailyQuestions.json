@@ -1,132 +1,132 @@
 [
   {
-    "id": "1999",
-    "question": "Quel est le nom de l'inventeur du premier système de tomodensitométrie (scanner CT) ?",
-    "answer": "Godfrey Hounsfield",
+    "id": "138",
+    "question": "Au repos, combien de fois en moyenne le cœur d’un homme bat-il en 1 minute ?",
+    "answer": "60 à 80",
     "badAnswers": [
-      "Allan Cormack",
-      "Raymond Damadian",
-      "Robert Ledley"
+      "25 à 40",
+      "40 à 60",
+      "80 à 100"
     ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Godfrey Hounsfield a développé le premier scanner CT dans les années 1970, révolutionnant le diagnostic médical."
+    "description": "Au repos, le cœur d'un adulte bat en moyenne entre 60 et 80 fois par minute. Un rythme cardiaque inférieur ou supérieur peut indiquer des problèmes de santé."
   },
   {
-    "id": "458",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la princesse du Crépuscule ?",
-    "answer": "Midna",
+    "id": "1922",
+    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Zelda",
-      "Epona",
-      "Navi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Midna est la princesse du Crépuscule dans The Legend of Zelda: Twilight Princess, une alliée clé de Link qui l'accompagne dans sa quête. Zelda est la princesse d'Hyrule, Epona est le cheval de Link, et Navi est une fée dans Ocarina of Time."
-  },
-  {
-    "id": "566",
-    "question": "Dans Overwatch, quel personnage est un tireur d'élite français ?",
-    "answer": "Widowmaker",
-    "badAnswers": [
-      "Ashe",
-      "Hanzo",
-      "McCree"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Widowmaker est une tireuse d'élite française dans Overwatch, connue pour son fusil précis. Ashe et McCree sont des tireurs américains, et Hanzo est un archer japonais."
-  },
-  {
-    "id": "59",
-    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
-    "answer": "Michael Jackson",
-    "badAnswers": [
-      "Prince",
-      "Madonna",
-      "The Jacksons"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
   },
   {
-    "id": "2130",
-    "question": "Quel est le nom de l'auteur de 'La Machine infernale' ?",
-    "answer": "Jean Cocteau",
+    "id": "1339",
+    "question": "Quel est la capitale du Honduras ?",
+    "answer": "Tegucigalpa",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "San Pedro Sula",
+      "La Ceiba",
+      "Comayagua"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
+  },
+  {
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
+    "badAnswers": [
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Machine infernale' (1934), une pièce de théâtre réinterprétant le mythe d'Œdipe."
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
   },
   {
-    "id": "212",
-    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
-    "answer": "Le bit",
+    "id": "1445",
+    "question": "Quel est la capitale des Émirats arabes unis ?",
+    "answer": "Abou Dabi",
     "badAnswers": [
-      "Le byte",
-      "Le méga",
-      "Le giga"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
-  },
-  {
-    "id": "1663",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
-  },
-  {
-    "id": "1350",
-    "question": "Quel est la capitale de Haïti ?",
-    "answer": "Port-au-Prince",
-    "badAnswers": [
-      "Cap-Haïtien",
-      "Gonaïves",
-      "Jacmel"
+      "Dubaï",
+      "Sharjah",
+      "Ajman"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Port-au-Prince, capitale d'Haïti, est une ville portuaire connue pour son histoire coloniale et sa résilience face aux catastrophes naturelles."
+    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
   },
   {
-    "id": "656",
-    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
-    "answer": "James Prescott Joule",
+    "id": "291",
+    "question": "Quel est le premier livre de l'Ancien Testament ?",
+    "answer": "Genèse",
     "badAnswers": [
-      "Michael Faraday",
-      "Hermann von Helmholtz",
-      "Sadi Carnot"
+      "Exode",
+      "Lévitique",
+      "Nombres"
+    ],
+    "category": "Culture générale",
+    "difficulty": "facile",
+    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
+  },
+  {
+    "id": "1205",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sn ?",
+    "answer": "Étain",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Soufre"
     ],
     "category": "Science",
+    "difficulty": "facile",
+    "description": "L'étain, symbolisé par Sn (du latin 'stannum'), est un métal utilisé dans les alliages comme le bronze et pour l'électronique."
+  },
+  {
+    "id": "1812",
+    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
+    "answer": "John Bardeen",
+    "badAnswers": [
+      "William Shockley",
+      "Walter Brattain",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
     "difficulty": "difficile",
-    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
+    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
+  },
+  {
+    "id": "2045",
+    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+  },
+  {
+    "id": "512",
+    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Ère viking",
+    "badAnswers": [
+      "Moyen Âge tardif",
+      "Renaissance",
+      "Époque romaine"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
   }
 ]
