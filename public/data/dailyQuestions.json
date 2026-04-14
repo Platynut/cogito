@@ -1,112 +1,8 @@
 [
   {
-    "id": "138",
-    "question": "Au repos, combien de fois en moyenne le cœur d’un homme bat-il en 1 minute ?",
-    "answer": "60 à 80",
-    "badAnswers": [
-      "25 à 40",
-      "40 à 60",
-      "80 à 100"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Au repos, le cœur d'un adulte bat en moyenne entre 60 et 80 fois par minute. Un rythme cardiaque inférieur ou supérieur peut indiquer des problèmes de santé."
-  },
-  {
-    "id": "1922",
-    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
-  },
-  {
-    "id": "1339",
-    "question": "Quel est la capitale du Honduras ?",
-    "answer": "Tegucigalpa",
-    "badAnswers": [
-      "San Pedro Sula",
-      "La Ceiba",
-      "Comayagua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
-  },
-  {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
-    "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
-  },
-  {
-    "id": "1445",
-    "question": "Quel est la capitale des Émirats arabes unis ?",
-    "answer": "Abou Dabi",
-    "badAnswers": [
-      "Dubaï",
-      "Sharjah",
-      "Ajman"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
-  },
-  {
-    "id": "291",
-    "question": "Quel est le premier livre de l'Ancien Testament ?",
-    "answer": "Genèse",
-    "badAnswers": [
-      "Exode",
-      "Lévitique",
-      "Nombres"
-    ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
-  },
-  {
-    "id": "1205",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sn ?",
-    "answer": "Étain",
-    "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Soufre"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'étain, symbolisé par Sn (du latin 'stannum'), est un métal utilisé dans les alliages comme le bronze et pour l'électronique."
-  },
-  {
-    "id": "1812",
-    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
-    "answer": "John Bardeen",
-    "badAnswers": [
-      "William Shockley",
-      "Walter Brattain",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
-  },
-  {
-    "id": "2045",
-    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
-    "answer": "Marguerite Duras",
+    "id": "2003",
+    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
+    "answer": "Patrick Modiano",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -114,19 +10,123 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
   },
   {
-    "id": "512",
-    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Ère viking",
+    "id": "747",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
+    "answer": "Tantive IV",
     "badAnswers": [
-      "Moyen Âge tardif",
-      "Renaissance",
-      "Époque romaine"
+      "X-Wing",
+      "Millennium Falcon",
+      "Slave I"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
+  },
+  {
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
+    "badAnswers": [
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+  },
+  {
+    "id": "1793",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Djouba",
+    "badAnswers": [
+      "Wau",
+      "Malakal",
+      "Bor"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
+  },
+  {
+    "id": "1805",
+    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
+    "answer": "Guy de Maupassant",
+    "badAnswers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
+  },
+  {
+    "id": "1429",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
+    "answer": "Tantale",
+    "badAnswers": [
+      "Tellure",
+      "Technétium",
+      "Thorium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
+  },
+  {
+    "id": "786",
+    "question": "Dans Horizon Forbidden West, quel est le nom du peuple tribal connu pour ses machines ?",
+    "answer": "Oseram",
+    "badAnswers": [
+      "Carja",
+      "Tenakth",
+      "Banjai"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Les Oseram sont un peuple tribal dans Horizon Forbidden West, connu pour ses forgerons et sa maîtrise des machines. Carja, Tenakth et Banjai sont d'autres tribus du jeu."
+  },
+  {
+    "id": "1921",
+    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
+  },
+  {
+    "id": "997",
+    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
+    "answer": "Frank Bruno",
+    "badAnswers": [
+      "Henry Cooper",
+      "Muhammad Ali",
+      "Joe Frazier"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
+  },
+  {
+    "id": "1379",
+    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
+    "answer": "Apollon",
+    "badAnswers": [
+      "Hélios",
+      "Zeus",
+      "Poséidon"
+    ],
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
+    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
   }
 ]
