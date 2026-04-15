@@ -1,132 +1,132 @@
 [
   {
-    "id": "2003",
-    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
-    "answer": "Patrick Modiano",
+    "id": "1579",
+    "question": "Quel est la capitale du Malawi ?",
+    "answer": "Lilongwe",
     "badAnswers": [
-      "Jean-Paul Sartre",
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
+  },
+  {
+    "id": "1838",
+    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
+  },
+  {
+    "id": "1321",
+    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
+    "answer": "Ernst Ruska",
+    "badAnswers": [
+      "Hans Jansen",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
+  },
+  {
+    "id": "2030",
+    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1326",
+    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
+    "answer": "Louis-Ferdinand Céline",
+    "badAnswers": [
       "Albert Camus",
+      "Jean-Paul Sartre",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
+    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
   },
   {
-    "id": "747",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
-    "answer": "Tantive IV",
+    "id": "1404",
+    "question": "Quel est la capitale de l'Ouzbékistan ?",
+    "answer": "Tachkent",
     "badAnswers": [
-      "X-Wing",
-      "Millennium Falcon",
-      "Slave I"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
-  },
-  {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
-    "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
-  },
-  {
-    "id": "1793",
-    "question": "Quel est la capitale du Soudan du Sud ?",
-    "answer": "Djouba",
-    "badAnswers": [
-      "Wau",
-      "Malakal",
-      "Bor"
+      "Samarcande",
+      "Boukhara",
+      "Khiva"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
+    "description": "Tachkent, capitale de l'Ouzbékistan, est une ville moderne avec des influences soviétiques et des sites historiques comme le bazar Chorsu."
   },
   {
-    "id": "1805",
-    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
-    "answer": "Guy de Maupassant",
+    "id": "378",
+    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Night City",
     "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
-  },
-  {
-    "id": "1429",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ta ?",
-    "answer": "Tantale",
-    "badAnswers": [
-      "Tellure",
-      "Technétium",
-      "Thorium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tantale, symbolisé par Ta, est un métal résistant à la corrosion, utilisé dans les condensateurs électroniques et les alliages."
-  },
-  {
-    "id": "786",
-    "question": "Dans Horizon Forbidden West, quel est le nom du peuple tribal connu pour ses machines ?",
-    "answer": "Oseram",
-    "badAnswers": [
-      "Carja",
-      "Tenakth",
-      "Banjai"
+      "Neo Tokyo",
+      "Liberty City",
+      "New Vegas"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Les Oseram sont un peuple tribal dans Horizon Forbidden West, connu pour ses forgerons et sa maîtrise des machines. Carja, Tenakth et Banjai sont d'autres tribus du jeu."
-  },
-  {
-    "id": "1921",
-    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
-  },
-  {
-    "id": "997",
-    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
-    "answer": "Frank Bruno",
-    "badAnswers": [
-      "Henry Cooper",
-      "Muhammad Ali",
-      "Joe Frazier"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
-  },
-  {
-    "id": "1379",
-    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
-    "answer": "Apollon",
-    "badAnswers": [
-      "Hélios",
-      "Zeus",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
+    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
+  },
+  {
+    "id": "128",
+    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
+    "answer": "Adamantium",
+    "badAnswers": [
+      "Vibranium",
+      "Cavorite",
+      "Neutronium"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+  },
+  {
+    "id": "1274",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
+    "answer": "The English Patient",
+    "badAnswers": [
+      "Fargo",
+      "Jerry Maguire",
+      "Shine"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
+  },
+  {
+    "id": "1602",
+    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
+    "answer": "São Tomé",
+    "badAnswers": [
+      "Príncipe",
+      "Neves",
+      "Santana"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
   }
 ]
