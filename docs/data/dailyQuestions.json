@@ -1,132 +1,132 @@
 [
   {
-    "id": "1579",
-    "question": "Quel est la capitale du Malawi ?",
-    "answer": "Lilongwe",
+    "id": "618",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
+    "answer": "Bayonetta",
     "badAnswers": [
-      "Blantyre",
-      "Mzuzu",
-      "Zomba"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
-  },
-  {
-    "id": "1838",
-    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
-  },
-  {
-    "id": "1321",
-    "question": "Quel est le nom de l'inventeur du premier microscope électronique ?",
-    "answer": "Ernst Ruska",
-    "badAnswers": [
-      "Hans Jansen",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Ernst Ruska a développé le premier microscope électronique en 1931, permettant d'observer des structures à l'échelle atomique."
-  },
-  {
-    "id": "2030",
-    "question": "Quel est le nom du groupe qui a chanté 'If I Needed Someone' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'If I Needed Someone', sorti en 1965 par The Beatles, est une chanson folk-rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1326",
-    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
-    "answer": "Louis-Ferdinand Céline",
-    "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
-  },
-  {
-    "id": "1404",
-    "question": "Quel est la capitale de l'Ouzbékistan ?",
-    "answer": "Tachkent",
-    "badAnswers": [
-      "Samarcande",
-      "Boukhara",
-      "Khiva"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Tachkent, capitale de l'Ouzbékistan, est une ville moderne avec des influences soviétiques et des sites historiques comme le bazar Chorsu."
-  },
-  {
-    "id": "378",
-    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Night City",
-    "badAnswers": [
-      "Neo Tokyo",
-      "Liberty City",
-      "New Vegas"
+      "Jeanne",
+      "Rodin",
+      "Luka"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
+    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
   },
   {
-    "id": "128",
-    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
-    "answer": "Adamantium",
+    "id": "453",
+    "question": "Dans Harry Potter, quel est le nom de l’école de magie concurrente française ?",
+    "answer": "Beauxbâtons",
     "badAnswers": [
-      "Vibranium",
-      "Cavorite",
-      "Neutronium"
+      "Durmstrang",
+      "Ilvermorny",
+      "Castelobruxo"
     ],
-    "category": "Bandes dessinées",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+    "description": "Beauxbâtons est l’école de magie française dans Harry Potter, présentée dans La Coupe de feu. Dirigée par Madame Maxime, elle participe au Tournoi des trois sorciers. Durmstrang est une école nordique, Ilvermorny américaine, et Castelobruxo brésilienne."
   },
   {
-    "id": "1274",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
-    "answer": "The English Patient",
+    "id": "1153",
+    "question": "Quel est la capitale de l'Uruguay ?",
+    "answer": "Montevideo",
     "badAnswers": [
-      "Fargo",
-      "Jerry Maguire",
-      "Shine"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
-  },
-  {
-    "id": "1602",
-    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
-    "answer": "São Tomé",
-    "badAnswers": [
-      "Príncipe",
-      "Neves",
-      "Santana"
+      "Salto",
+      "Paysandú",
+      "Colonia"
     ],
     "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Montevideo, capitale de l'Uruguay, est une ville côtière connue pour sa culture du tango et son architecture coloniale."
+  },
+  {
+    "id": "60",
+    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
+    "answer": "The Witcher",
+    "badAnswers": [
+      "Skyrim",
+      "Dark Souls",
+      "Dragon Age"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
+    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+  },
+  {
+    "id": "712",
+    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
+    "answer": "Tengu",
+    "badAnswers": [
+      "Karasu-tengu",
+      "Oni",
+      "Kappa"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+  },
+  {
+    "id": "998",
+    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
+    "answer": "Le traumatisme d'enfance du personnage principal",
+    "badAnswers": [
+      "Le lien avec le meurtre d'innocents",
+      "Le plat préféré du méchant",
+      "La voix des innocents étouffée par les puissants"
+    ],
+    "category": "Livres",
+    "difficulty": "difficile",
+    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
+  },
+  {
+    "id": "1704",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pyroli ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pyroli, Pokémon de type feu, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa puissance ardente."
+  },
+  {
+    "id": "1360",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
+    "answer": "Néodyme",
+    "badAnswers": [
+      "Nickel",
+      "Niobium",
+      "Nobelium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
+  },
+  {
+    "id": "421",
+    "question": "Dans Overwatch, quel personnage est un moine robotique ?",
+    "answer": "Zenyatta",
+    "badAnswers": [
+      "Genji",
+      "Bastion",
+      "Orisa"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zenyatta est un moine robotique dans Overwatch, un héros de soutien utilisant des orbes pour soigner et infliger des dégâts. Il prône l’harmonie spirituelle. Genji est un ninja cyborg, Bastion un robot de combat, et Orisa un tank robotique."
+  },
+  {
+    "id": "1189",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
+    "answer": "Nickel",
+    "badAnswers": [
+      "Néon",
+      "Nitrure",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
   }
 ]
