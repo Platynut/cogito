@@ -1,132 +1,132 @@
 [
   {
-    "id": "618",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
-    "answer": "Bayonetta",
+    "id": "298",
+    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Jeanne",
-      "Rodin",
-      "Luka"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
+    "difficulty": "normal",
+    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
   },
   {
-    "id": "453",
-    "question": "Dans Harry Potter, quel est le nom de l’école de magie concurrente française ?",
-    "answer": "Beauxbâtons",
+    "id": "180",
+    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
+    "answer": "Rome",
     "badAnswers": [
-      "Durmstrang",
-      "Ilvermorny",
-      "Castelobruxo"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Beauxbâtons est l’école de magie française dans Harry Potter, présentée dans La Coupe de feu. Dirigée par Madame Maxime, elle participe au Tournoi des trois sorciers. Durmstrang est une école nordique, Ilvermorny américaine, et Castelobruxo brésilienne."
-  },
-  {
-    "id": "1153",
-    "question": "Quel est la capitale de l'Uruguay ?",
-    "answer": "Montevideo",
-    "badAnswers": [
-      "Salto",
-      "Paysandú",
-      "Colonia"
+      "Venise",
+      "Barcelone",
+      "Séville"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Montevideo, capitale de l'Uruguay, est une ville côtière connue pour sa culture du tango et son architecture coloniale."
+    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
   },
   {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
   },
   {
-    "id": "712",
-    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
-    "answer": "Tengu",
+    "id": "974",
+    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
+    "answer": "Gary",
     "badAnswers": [
-      "Karasu-tengu",
-      "Oni",
-      "Kappa"
+      "Orville",
+      "Carlo",
+      "Squidina"
+    ],
+    "category": "Dessins animés",
+    "difficulty": "facile",
+    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
+  },
+  {
+    "id": "1181",
+    "question": "Quel est le nom du dieu grec du ciel ?",
+    "answer": "Zeus",
+    "badAnswers": [
+      "Poséidon",
+      "Hadès",
+      "Apollon"
     ],
     "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+    "difficulty": "facile",
+    "description": "Zeus, roi des dieux grecs, est le dieu du ciel et du tonnerre, souvent représenté avec un éclair et régnant sur l'Olympe."
   },
   {
-    "id": "998",
-    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
-    "answer": "Le traumatisme d'enfance du personnage principal",
+    "id": "296",
+    "question": "Dans le film Retour vers le futur, à quelle vitesse la DeLorean de Doc Brown doit-elle atteindre pour voyager dans le temps ?",
+    "answer": "142 km/h",
     "badAnswers": [
-      "Le lien avec le meurtre d'innocents",
-      "Le plat préféré du méchant",
-      "La voix des innocents étouffée par les puissants"
+      "122 km/h",
+      "160 km/h",
+      "112 km/h"
     ],
-    "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Dans Retour vers le futur (1985), la DeLorean de Doc Brown doit atteindre 141 km/h pour activer le convecteur temporel et voyager dans le temps. Cette vitesse est devenue un élément iconique du film, souvent référencée dans la culture populaire. Les autres vitesses sont incorrectes."
   },
   {
-    "id": "1704",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pyroli ?",
-    "answer": "Pokémon",
+    "id": "445",
+    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
+    "answer": "Samus Aran",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Ridley",
+      "Zero Suit Samus",
+      "Dark Samus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Pyroli, Pokémon de type feu, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa puissance ardente."
+    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
   },
   {
-    "id": "1360",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
-    "answer": "Néodyme",
+    "id": "1581",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
+    "answer": "Meitnérium",
     "badAnswers": [
-      "Nickel",
-      "Niobium",
-      "Nobelium"
+      "Molybdène",
+      "Magnésium",
+      "Mendélévium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
+    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
   },
   {
-    "id": "421",
-    "question": "Dans Overwatch, quel personnage est un moine robotique ?",
-    "answer": "Zenyatta",
+    "id": "200",
+    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+    "answer": "Ubac",
     "badAnswers": [
-      "Genji",
-      "Bastion",
-      "Orisa"
+      "Adret",
+      "Étang",
+      "Ressac"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
+  },
+  {
+    "id": "1789",
+    "question": "Quel est la capitale de l'Eswatini ?",
+    "answer": "Mbabane",
+    "badAnswers": [
+      "Lobamba",
+      "Manzini",
+      "Siteki"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Zenyatta est un moine robotique dans Overwatch, un héros de soutien utilisant des orbes pour soigner et infliger des dégâts. Il prône l’harmonie spirituelle. Genji est un ninja cyborg, Bastion un robot de combat, et Orisa un tank robotique."
-  },
-  {
-    "id": "1189",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
-    "answer": "Nickel",
-    "badAnswers": [
-      "Néon",
-      "Nitrure",
-      "Sodium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
   }
 ]
