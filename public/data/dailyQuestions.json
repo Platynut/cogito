@@ -1,132 +1,132 @@
 [
   {
-    "id": "298",
-    "question": "Qui sont les deux protagonistes du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
+    "id": "443",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L’Empire contre-attaque ?",
+    "answer": "Boba Fett",
     "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
+      "Jango Fett",
+      "Cad Bane",
+      "Bossk"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Yakuza 0 (2015), les deux protagonistes jouables sont Kazuma Kiryu, un yakuza loyal et stoïque, et Goro Majima, connu pour son comportement excentrique. Ce prequel de la série Yakuza explore leurs origines dans le Japon des années 1980. Les autres personnages sont secondaires ou antagonistes dans l'histoire."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L’Empire contre-attaque (1980) pour le livrer à Jabba le Hutt. Jango Fett est son père, et Cad Bane et Bossk sont d’autres chasseurs de primes dans l’univers Star Wars."
   },
   {
-    "id": "180",
-    "question": "Dans quelle ville se trouve la fontaine de Trevi ?",
-    "answer": "Rome",
+    "id": "1944",
+    "question": "Quel est la capitale de l'Île Maurice ?",
+    "answer": "Port Louis",
     "badAnswers": [
-      "Venise",
-      "Barcelone",
-      "Séville"
+      "Curepipe",
+      "Quatre Bornes",
+      "Vacoas-Phoenix"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "La fontaine de Trevi, chef-d'œuvre baroque, est située à Rome. Venise a ses canaux, Barcelone la Sagrada Família, et Séville l'Alcázar."
+    "description": "Port Louis, capitale de l'Île Maurice, est une ville portuaire connue pour son marché central et sa citadelle."
   },
   {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
+    "id": "1679",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
+    "answer": "You Can't Take It with You",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
-  },
-  {
-    "id": "974",
-    "question": "Dans SpongeBob SquarePants, quel personnage n'est pas un calmar ?",
-    "answer": "Gary",
-    "badAnswers": [
-      "Orville",
-      "Carlo",
-      "Squidina"
-    ],
-    "category": "Dessins animés",
-    "difficulty": "facile",
-    "description": "Gary est un escargot domestique, contrairement à Carlo, Squidina et Orville, qui sont des calmars dans l'univers de Bob l'Éponge."
-  },
-  {
-    "id": "1181",
-    "question": "Quel est le nom du dieu grec du ciel ?",
-    "answer": "Zeus",
-    "badAnswers": [
-      "Poséidon",
-      "Hadès",
-      "Apollon"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Zeus, roi des dieux grecs, est le dieu du ciel et du tonnerre, souvent représenté avec un éclair et régnant sur l'Olympe."
-  },
-  {
-    "id": "296",
-    "question": "Dans le film Retour vers le futur, à quelle vitesse la DeLorean de Doc Brown doit-elle atteindre pour voyager dans le temps ?",
-    "answer": "142 km/h",
-    "badAnswers": [
-      "122 km/h",
-      "160 km/h",
-      "112 km/h"
+      "The Adventures of Robin Hood",
+      "Boys Town",
+      "Jezebel"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Dans Retour vers le futur (1985), la DeLorean de Doc Brown doit atteindre 141 km/h pour activer le convecteur temporel et voyager dans le temps. Cette vitesse est devenue un élément iconique du film, souvent référencée dans la culture populaire. Les autres vitesses sont incorrectes."
+    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
   },
   {
-    "id": "445",
-    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
-    "answer": "Samus Aran",
+    "id": "527",
+    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
+    "answer": "Darius",
     "badAnswers": [
-      "Ridley",
-      "Zero Suit Samus",
-      "Dark Samus"
+      "Draven",
+      "Swain",
+      "Kled"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+  },
+  {
+    "id": "470",
+    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
+    "answer": "Zarya",
+    "badAnswers": [
+      "Mei",
+      "Winston",
+      "Symmetra"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
+  },
+  {
+    "id": "1628",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
+    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
   },
   {
-    "id": "1581",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
-    "answer": "Meitnérium",
+    "id": "770",
+    "question": "Quel est la capitale de la Finlande ?",
+    "answer": "Helsinki",
     "badAnswers": [
-      "Molybdène",
-      "Magnésium",
-      "Mendélévium"
+      "Tampere",
+      "Turku",
+      "Oulu"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Helsinki est la capitale de la Finlande, située sur la côte sud, connue pour sa cathédrale blanche. Tampere, Turku et Oulu sont d'autres villes finlandaises, mais pas la capitale."
+  },
+  {
+    "id": "450",
+    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
+    "answer": "Sandro Botticelli",
+    "badAnswers": [
+      "William-Adolphe Bouguereau",
+      "Gustave Courbet",
+      "Eugène Delacroix"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
+  },
+  {
+    "id": "602",
+    "question": "Qui est le dieu du vent dans la mythologie japonaise ?",
+    "answer": "Fujin",
+    "badAnswers": [
+      "Raijin",
+      "Tsukuyomi",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Fujin est représenté avec une poche à vent et associé aux dégâts causés par la tempête."
+  },
+  {
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
+    "badAnswers": [
+      "Chrome",
+      "Cuivre",
+      "Césium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
-  },
-  {
-    "id": "200",
-    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
-    "answer": "Ubac",
-    "badAnswers": [
-      "Adret",
-      "Étang",
-      "Ressac"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
-  },
-  {
-    "id": "1789",
-    "question": "Quel est la capitale de l'Eswatini ?",
-    "answer": "Mbabane",
-    "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
+    "difficulty": "facile",
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
   }
 ]
