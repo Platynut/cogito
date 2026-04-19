@@ -1,132 +1,132 @@
 [
   {
-    "id": "443",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L’Empire contre-attaque ?",
-    "answer": "Boba Fett",
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
     "badAnswers": [
-      "Jango Fett",
-      "Cad Bane",
-      "Bossk"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L’Empire contre-attaque (1980) pour le livrer à Jabba le Hutt. Jango Fett est son père, et Cad Bane et Bossk sont d’autres chasseurs de primes dans l’univers Star Wars."
-  },
-  {
-    "id": "1944",
-    "question": "Quel est la capitale de l'Île Maurice ?",
-    "answer": "Port Louis",
-    "badAnswers": [
-      "Curepipe",
-      "Quatre Bornes",
-      "Vacoas-Phoenix"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Port Louis, capitale de l'Île Maurice, est une ville portuaire connue pour son marché central et sa citadelle."
-  },
-  {
-    "id": "1679",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
-    "answer": "You Can't Take It with You",
-    "badAnswers": [
-      "The Adventures of Robin Hood",
-      "Boys Town",
-      "Jezebel"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
-  },
-  {
-    "id": "527",
-    "question": "Dans League of Legends, quel champion est surnommé Le Boucher de Noxus ?",
-    "answer": "Darius",
-    "badAnswers": [
-      "Draven",
-      "Swain",
-      "Kled"
+      "Entei",
+      "Raikou",
+      "Lugia"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Darius, surnommé Le Boucher de Noxus dans League of Legends, est un champion guerrier utilisant une hache pour des attaques puissantes. Draven, Swain et Kled sont d'autres champions de Noxus, mais n'ont pas ce titre."
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
   },
   {
-    "id": "470",
-    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
-    "answer": "Zarya",
+    "id": "1821",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astate",
     "badAnswers": [
-      "Mei",
-      "Winston",
-      "Symmetra"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
-  },
-  {
-    "id": "1628",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
-  },
-  {
-    "id": "770",
-    "question": "Quel est la capitale de la Finlande ?",
-    "answer": "Helsinki",
-    "badAnswers": [
-      "Tampere",
-      "Turku",
-      "Oulu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Helsinki est la capitale de la Finlande, située sur la côte sud, connue pour sa cathédrale blanche. Tampere, Turku et Oulu sont d'autres villes finlandaises, mais pas la capitale."
-  },
-  {
-    "id": "450",
-    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
-    "answer": "Sandro Botticelli",
-    "badAnswers": [
-      "William-Adolphe Bouguereau",
-      "Gustave Courbet",
-      "Eugène Delacroix"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
-  },
-  {
-    "id": "602",
-    "question": "Qui est le dieu du vent dans la mythologie japonaise ?",
-    "answer": "Fujin",
-    "badAnswers": [
-      "Raijin",
-      "Tsukuyomi",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Fujin est représenté avec une poche à vent et associé aux dégâts causés par la tempête."
-  },
-  {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
-    "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
+      "Argon",
+      "Antimoine",
+      "Actinium"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
+  },
+  {
+    "id": "1909",
+    "question": "Quel est le nom du groupe qui a chanté 'Eleanor Rigby' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+    "description": "'Eleanor Rigby', sorti en 1966 par The Beatles, est une chanson mélancolique tirée de l'album Revolver."
+  },
+  {
+    "id": "1093",
+    "question": "Quelle est la capitale de l'Angleterre ?",
+    "answer": "Londres",
+    "badAnswers": [
+      "Manchester",
+      "Birmingham",
+      "Liverpool"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Londres est la capitale de l'Angleterre et aussi du Royaume-Uni. C'est une ville mondiale célèbre pour Big Ben, le palais de Buckingham et son importance historique."
+  },
+  {
+    "id": "1118",
+    "question": "Quel est le nom du groupe qui a chanté 'Viva La Vida' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Muse",
+      "Keane",
+      "Snow Patrol"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Viva La Vida', sorti en 2008 par Coldplay, est une chanson pop-rock inspirée par l'histoire et l'art, tirée de l'album éponyme."
+  },
+  {
+    "id": "1207",
+    "question": "Quel est la capitale du Mozambique ?",
+    "answer": "Maputo",
+    "badAnswers": [
+      "Beira",
+      "Nampula",
+      "Matola"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maputo, capitale du Mozambique, est une ville portuaire connue pour son architecture coloniale et son dynamisme culturel."
+  },
+  {
+    "id": "912",
+    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
+    "answer": "Zilean",
+    "badAnswers": [
+      "Ekko",
+      "Chrono",
+      "Lux"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
+  },
+  {
+    "id": "1138",
+    "question": "Quel est le nom de l'auteur de 'Les Frères Karamazov' ?",
+    "answer": "Fiodor Dostoïevski",
+    "badAnswers": [
+      "Léon Tolstoï",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Fiodor Dostoïevski a écrit 'Les Frères Karamazov' (1880), un roman philosophique explorant la foi, la morale et les relations familiales."
+  },
+  {
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
+    "badAnswers": [
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
+  },
+  {
+    "id": "30",
+    "question": "Quelle entreprise a développé le système d'exploitation Windows ?",
+    "answer": "Microsoft",
+    "badAnswers": [
+      "Apple",
+      "IBM",
+      "Google"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Lancé en 1985, Windows équipe aujourd'hui environ 75% des ordinateurs personnels dans le monde."
   }
 ]
