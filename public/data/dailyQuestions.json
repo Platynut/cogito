@@ -1,132 +1,132 @@
 [
   {
-    "id": "239",
-    "question": "Dans quelle série Omar Sy est le personnage principal ?",
-    "answer": "Lupin",
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
     "badAnswers": [
-      "Marseille",
-      "Intouchables",
-      "La Casa de Papel"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Omar Sy incarne Assane Diop, gentleman cambrioleur inspiré d'Arsène Lupin, dans la série 'Lupin'. 'Intouchables' est un film, 'La Casa de Papel' une série espagnole."
-  },
-  {
-    "id": "679",
-    "question": "Quel est le plus lourd poisson osseux du monde ?",
-    "answer": "Poisson-lune",
-    "badAnswers": [
-      "Régalec",
-      "Thon rouge",
-      "Espadon"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
-  },
-  {
-    "id": "1315",
-    "question": "Quel est le nom du groupe qui a chanté 'Come As You Are' ?",
-    "answer": "Nirvana",
-    "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come As You Are', sorti en 1991 par Nirvana, est une chanson grunge emblématique tirée de l'album Nevermind."
-  },
-  {
-    "id": "231",
-    "question": "Quel nom porte le logiciel de traitement de texte mis au point par Microsoft ?",
-    "answer": "Word",
-    "badAnswers": [
-      "Access",
-      "Excel",
-      "PowerPoint"
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
     ],
     "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Microsoft Word est le logiciel de traitement de texte de la suite Office. Access gère les bases de données, Excel les tableaux, PowerPoint les présentations."
-  },
-  {
-    "id": "1451",
-    "question": "Quel est la capitale d'Oman ?",
-    "answer": "Mascate",
-    "badAnswers": [
-      "Sohar",
-      "Salalah",
-      "Nizwa"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Mascate, capitale d'Oman, est une ville portuaire connue pour son opéra royal et son souk traditionnel de Muttrah."
-  },
-  {
-    "id": "2074",
-    "question": "Quel est le nom de l'auteur de 'Les Nourritures terrestres' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Nourritures terrestres' (1897), un recueil poétique célébrant la liberté et les plaisirs."
-  },
-  {
-    "id": "1844",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
-    "answer": "Wilson Greatbatch",
-    "badAnswers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Earl Bakken"
-    ],
-    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
   },
   {
-    "id": "1558",
-    "question": "Quel est la capitale de la Guinée équatoriale ?",
-    "answer": "Malabo",
+    "id": "1057",
+    "question": "Quel est le nom de l'inventeur de l'ampoule électrique commercialement viable ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "Bata",
-      "Ebebiyín",
-      "Mongomo"
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Humphry Davy"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Thomas Edison a développé l'ampoule à incandescence commercialement viable en 1879, bien que d'autres inventeurs aient travaillé sur des concepts similaires."
   },
   {
-    "id": "471",
-    "question": "Quel est le pont suspendu avec la plus longue portée principale au monde en 2025 ?",
-    "answer": "Pont de Çanakkale 1915",
+    "id": "394",
+    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
+    "answer": "Isaac Newton",
     "badAnswers": [
-      "Pont du Golden Gate",
-      "Pont Akashi-Kaikyo",
-      "Pont de Xihoumen"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le pont de Çanakkale 1915, en Turquie, détient en 2025 le record de la plus longue portée principale d'un pont suspendu au monde, mesurant 2 023 mètres. En comparaison, le Golden Gate, l'Akashi-Kaikyo et le Xihoumen ont des portées principales plus courtes."
-  },
-  {
-    "id": "1074",
-    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
-    "answer": "Hydrogène",
-    "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Johannes Kepler"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
+    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
+  },
+  {
+    "id": "103",
+    "question": "Quel est le point culminant de la France métropolitaine ?",
+    "answer": "Le Mont Blanc",
+    "badAnswers": [
+      "Le Pic du Midi",
+      "Le Puy de Dôme",
+      "Le Mont Ventoux"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Mont Blanc, culminant à 4 808 mètres, est le plus haut sommet des Alpes et de la France métropolitaine. Les autres montagnes sont moins élevées."
+  },
+  {
+    "id": "705",
+    "question": "Quel yōkai farceur est un chien viverrin capable de se transformer ?",
+    "answer": "Tanuki",
+    "badAnswers": [
+      "Kitsune",
+      "Kappa",
+      "Bakeneko"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Tanuki est un animal légendaire farceur, maître de la métamorphose et symbole de chance."
+  },
+  {
+    "id": "1953",
+    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
+  },
+  {
+    "id": "747",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
+    "answer": "Tantive IV",
+    "badAnswers": [
+      "X-Wing",
+      "Millennium Falcon",
+      "Slave I"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
+  },
+  {
+    "id": "903",
+    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
+    "answer": "Le grand fessier",
+    "badAnswers": [
+      "Le biceps",
+      "Le quadriceps",
+      "Le deltoïde"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
+  },
+  {
+    "id": "2008",
+    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
+  },
+  {
+    "id": "183",
+    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
+    "answer": "Edmond Rostand",
+    "badAnswers": [
+      "Victor Hugo",
+      "Molière",
+      "Alfred de Musset"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
   }
 ]
