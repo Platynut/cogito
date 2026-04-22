@@ -1,132 +1,132 @@
 [
   {
-    "id": "1738",
-    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
-    "answer": "Robert Watson-Watt",
+    "id": "219",
+    "question": "En quoi un nihiliste croit-il ?",
+    "answer": "En rien",
     "badAnswers": [
-      "Heinrich Hertz",
-      "Christian Hülsmeyer",
-      "Karl Ferdinand Braun"
+      "En la chance",
+      "En tout",
+      "En lui-même"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
-  },
-  {
-    "id": "1057",
-    "question": "Quel est le nom de l'inventeur de l'ampoule électrique commercialement viable ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Humphry Davy"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Thomas Edison a développé l'ampoule à incandescence commercialement viable en 1879, bien que d'autres inventeurs aient travaillé sur des concepts similaires."
-  },
-  {
-    "id": "394",
-    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
-    "answer": "Isaac Newton",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Albert Einstein",
-      "Johannes Kepler"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
-  },
-  {
-    "id": "103",
-    "question": "Quel est le point culminant de la France métropolitaine ?",
-    "answer": "Le Mont Blanc",
-    "badAnswers": [
-      "Le Pic du Midi",
-      "Le Puy de Dôme",
-      "Le Mont Ventoux"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Mont Blanc, culminant à 4 808 mètres, est le plus haut sommet des Alpes et de la France métropolitaine. Les autres montagnes sont moins élevées."
-  },
-  {
-    "id": "705",
-    "question": "Quel yōkai farceur est un chien viverrin capable de se transformer ?",
-    "answer": "Tanuki",
-    "badAnswers": [
-      "Kitsune",
-      "Kappa",
-      "Bakeneko"
-    ],
-    "category": "Mythologie",
+    "category": "Philosophie",
     "difficulty": "normal",
-    "description": "Le Tanuki est un animal légendaire farceur, maître de la métamorphose et symbole de chance."
+    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
   },
   {
-    "id": "1953",
-    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
-    "answer": "Louis Aragon",
+    "id": "1313",
+    "question": "Quel est le nom de l'auteur de 'Bel-Ami' ?",
+    "answer": "Guy de Maupassant",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Victor Hugo"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
+    "description": "Guy de Maupassant a écrit 'Bel-Ami' (1885), un roman réaliste sur l'ambition sociale d'un jeune homme dans le Paris du XIXe siècle."
   },
   {
-    "id": "747",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de la princesse Leia ?",
-    "answer": "Tantive IV",
+    "id": "769",
+    "question": "Quel est le plus grand arachnide du monde ?",
+    "answer": "Tarantule Goliath",
     "badAnswers": [
-      "X-Wing",
-      "Millennium Falcon",
-      "Slave I"
+      "Scorpion empereur",
+      "Araignée-loup",
+      "Veuve noire"
     ],
-    "category": "Cinéma",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le Tantive IV est le vaisseau de la princesse Leia dans Un nouvel espoir, un corvette CR90. L'X-Wing est un chasseur rebelle, le Millennium Falcon est celui de Han Solo, et Slave I est le vaisseau de Boba Fett."
+    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
   },
   {
-    "id": "903",
-    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
-    "answer": "Le grand fessier",
+    "id": "526",
+    "question": "Quel artiste a peint La Cène ?",
+    "answer": "Léonard de Vinci",
     "badAnswers": [
-      "Le biceps",
-      "Le quadriceps",
-      "Le deltoïde"
+      "Michel-Ange",
+      "Raphaël",
+      "Caravage"
     ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Cène (vers 1495–1498) de Léonard de Vinci est une fresque représentant le dernier repas de Jésus avec ses apôtres. C'est une œuvre majeure de la Renaissance. Michel-Ange, Raphaël et Caravage sont d'autres artistes, mais n'ont pas peint cette fresque."
   },
   {
-    "id": "2008",
-    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
-    "answer": "The Beatles",
+    "id": "54",
+    "question": "Quel est l'organe principal du système respiratoire ?",
+    "answer": "Poumons",
+    "badAnswers": [
+      "Cœur",
+      "Foie",
+      "Estomac"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Les poumons permettent les échanges gazeux entre l'air et le sang. Un adulte inspire environ 11.000 litres d'air par jour."
+  },
+  {
+    "id": "1850",
+    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
+    "answer": "The Who",
     "badAnswers": [
       "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "The Doors",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
+    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
   },
   {
-    "id": "183",
-    "question": "Qui a écrit la pièce de théâtre Cyrano de Bergerac ?",
-    "answer": "Edmond Rostand",
+    "id": "927",
+    "question": "Qui a créé la série animée RWBY ?",
+    "answer": "Monty Oum",
+    "badAnswers": [
+      "Miles Luna",
+      "Kerry Shawcross",
+      "Shane Newville"
+    ],
+    "category": "Dessins animés",
+    "difficulty": "normal",
+    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
+  },
+  {
+    "id": "1720",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
+  },
+  {
+    "id": "165",
+    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
+    "answer": "Jean Dujardin",
+    "badAnswers": [
+      "Christian Clavier",
+      "Guillaume Canet",
+      "Neil Patrick Harris"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
+  },
+  {
+    "id": "1743",
+    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
+    "answer": "Émile Zola",
     "badAnswers": [
       "Victor Hugo",
-      "Molière",
-      "Alfred de Musset"
+      "Gustave Flaubert",
+      "Honoré de Balzac"
     ],
-    "category": "Littérature",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "'Cyrano de Bergerac' (1897) est une pièce en vers d'Edmond Rostand. Victor Hugo a écrit 'Hernani', Molière 'Le Misanthrope', et Musset 'Lorenzaccio'."
+    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
   }
 ]
