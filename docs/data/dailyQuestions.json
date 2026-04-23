@@ -1,132 +1,132 @@
 [
   {
-    "id": "219",
-    "question": "En quoi un nihiliste croit-il ?",
-    "answer": "En rien",
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
     "badAnswers": [
-      "En la chance",
-      "En tout",
-      "En lui-même"
+      "Barcelone",
+      "Séville",
+      "Valence"
     ],
-    "category": "Philosophie",
-    "difficulty": "normal",
-    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
-  },
-  {
-    "id": "1313",
-    "question": "Quel est le nom de l'auteur de 'Bel-Ami' ?",
-    "answer": "Guy de Maupassant",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Victor Hugo"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Bel-Ami' (1885), un roman réaliste sur l'ambition sociale d'un jeune homme dans le Paris du XIXe siècle."
-  },
-  {
-    "id": "769",
-    "question": "Quel est le plus grand arachnide du monde ?",
-    "answer": "Tarantule Goliath",
-    "badAnswers": [
-      "Scorpion empereur",
-      "Araignée-loup",
-      "Veuve noire"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
-  },
-  {
-    "id": "526",
-    "question": "Quel artiste a peint La Cène ?",
-    "answer": "Léonard de Vinci",
-    "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Caravage"
-    ],
-    "category": "Art",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "La Cène (vers 1495–1498) de Léonard de Vinci est une fresque représentant le dernier repas de Jésus avec ses apôtres. C'est une œuvre majeure de la Renaissance. Michel-Ange, Raphaël et Caravage sont d'autres artistes, mais n'ont pas peint cette fresque."
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
   },
   {
-    "id": "54",
-    "question": "Quel est l'organe principal du système respiratoire ?",
-    "answer": "Poumons",
+    "id": "301",
+    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+    "answer": "Temps et Dimensions Relatives Dans l'Espace",
     "badAnswers": [
-      "Cœur",
-      "Foie",
-      "Estomac"
+      "Temps et Réalité Dimensionnelle Dans l'Espace",
+      "Temps et Dimensions Relatives Dans le Style",
+      "Toilette, Corde, Chien, Soupe"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+  },
+  {
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
+    "badAnswers": [
+      "Indium",
+      "Iridium",
+      "Iron"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Les poumons permettent les échanges gazeux entre l'air et le sang. Un adulte inspire environ 11.000 litres d'air par jour."
-  },
-  {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "927",
-    "question": "Qui a créé la série animée RWBY ?",
-    "answer": "Monty Oum",
-    "badAnswers": [
-      "Miles Luna",
-      "Kerry Shawcross",
-      "Shane Newville"
-    ],
-    "category": "Dessins animés",
     "difficulty": "normal",
-    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
   },
   {
-    "id": "1720",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
-    "answer": "Pokémon",
+    "id": "254",
+    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
+    "answer": "La danse du soleil",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "La danse des esprits",
+      "La danse de la pluie",
+      "La danse des étoiles"
+    ],
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
+  },
+  {
+    "id": "537",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
+    "answer": "Shadow Fiend",
+    "badAnswers": [
+      "Necrophos",
+      "Lich",
+      "Death Prophet"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
+    "difficulty": "normal",
+    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
   },
   {
-    "id": "165",
-    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
-    "answer": "Jean Dujardin",
+    "id": "1133",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre la variole ?",
+    "answer": "Edward Jenner",
     "badAnswers": [
-      "Christian Clavier",
-      "Guillaume Canet",
-      "Neil Patrick Harris"
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Robert Koch"
     ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, utilisant le virus de la vaccine, posant les bases de l'immunologie."
   },
   {
-    "id": "1743",
-    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
-    "answer": "Émile Zola",
+    "id": "1751",
+    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
+    "answer": "Voltaire",
     "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
+    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
+  },
+  {
+    "id": "353",
+    "question": "Quel est le nom de l'auteur de Les Misérables ?",
+    "answer": "Victor Hugo",
+    "badAnswers": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+  },
+  {
+    "id": "70",
+    "question": "Quelle est la plus longue rivière du monde ?",
+    "answer": "Nil",
+    "badAnswers": [
+      "Amazone",
+      "Yangzi Jiang",
+      "Mississippi"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Avec environ 6 650 km, le Nil (Afrique) devance légèrement l'Amazone. Récemment des mesures ont confirmé que le Nil plus long.<br /> (l'Amazone mesure environ 6 575 km selon les dernières études)"
+  },
+  {
+    "id": "1520",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
+    "answer": "An American in Paris",
+    "badAnswers": [
+      "A Streetcar Named Desire",
+      "Decision Before Dawn",
+      "Quo Vadis"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
   }
 ]
