@@ -1,132 +1,132 @@
 [
   {
-    "id": "606",
-    "question": "Quel est la capitale de l'Espagne ?",
-    "answer": "Madrid",
+    "id": "729",
+    "question": "Quel est le nom du dieu grec des mers ?",
+    "answer": "Poséidon",
     "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
+      "Zeus",
+      "Hadès",
+      "Apollon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Poséidon est le dieu grec des mers, des tremblements de terre et des chevaux, souvent représenté avec un trident. Zeus est le dieu du ciel, Hadès celui des enfers, et Apollon celui des arts."
+  },
+  {
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
+    "badAnswers": [
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
   },
   {
-    "id": "301",
-    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-    "answer": "Temps et Dimensions Relatives Dans l'Espace",
+    "id": "1987",
+    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
+    "answer": "Theodore Maiman",
     "badAnswers": [
-      "Temps et Réalité Dimensionnelle Dans l'Espace",
-      "Temps et Dimensions Relatives Dans le Style",
-      "Toilette, Corde, Chien, Soupe"
+      "Gordon Gould",
+      "Charles Townes",
+      "Arthur Schawlow"
     ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
   },
   {
-    "id": "1304",
-    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
-    "answer": "Iode",
+    "id": "1821",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astate",
     "badAnswers": [
-      "Indium",
-      "Iridium",
-      "Iron"
+      "Argon",
+      "Antimoine",
+      "Actinium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
   },
   {
-    "id": "254",
-    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
-    "answer": "La danse du soleil",
+    "id": "1696",
+    "question": "Quel est le nom de l'auteur de 'Le Mythe de Sisyphe' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "La danse des esprits",
-      "La danse de la pluie",
-      "La danse des étoiles"
-    ],
-    "category": "Danse",
-    "difficulty": "normal",
-    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
-  },
-  {
-    "id": "537",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Requiem of Souls ?",
-    "answer": "Shadow Fiend",
-    "badAnswers": [
-      "Necrophos",
-      "Lich",
-      "Death Prophet"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shadow Fiend est un héros de Dota 2 connu pour son sort ultime Requiem of Souls, libérant des vagues d'énergie destructrice. Necrophos, Lich et Death Prophet ont d'autres sorts ultimes."
-  },
-  {
-    "id": "1133",
-    "question": "Quel est le nom de l'inventeur du premier vaccin contre la variole ?",
-    "answer": "Edward Jenner",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Robert Koch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, utilisant le virus de la vaccine, posant les bases de l'immunologie."
-  },
-  {
-    "id": "1751",
-    "question": "Quel est le nom de l'auteur de 'Zadig' ?",
-    "answer": "Voltaire",
-    "badAnswers": [
-      "Jean-Jacques Rousseau",
-      "Denis Diderot",
-      "Montesquieu"
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Marcel Proust"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Voltaire a écrit 'Zadig' (1747), un conte philosophique sur le destin et la quête de justice."
+    "description": "Albert Camus a écrit 'Le Mythe de Sisyphe' (1942), un essai philosophique sur l'absurde et la condition humaine."
   },
   {
-    "id": "353",
-    "question": "Quel est le nom de l'auteur de Les Misérables ?",
-    "answer": "Victor Hugo",
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
     "badAnswers": [
-      "Gustave Flaubert",
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
       "Émile Zola",
-      "Honoré de Balzac"
+      "Gustave Flaubert",
+      "Alain-Fournier"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "1713",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+  },
+  {
+    "id": "747",
+    "question": "Quel est le nom de l'auteur de 'L'Attrape-cœurs' ?",
+    "answer": "J.D. Salinger",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "70",
-    "question": "Quelle est la plus longue rivière du monde ?",
-    "answer": "Nil",
+    "id": "838",
+    "question": "Quel est le plus grand oiseau de proie diurne ?",
+    "answer": "Condor des Andes",
     "badAnswers": [
-      "Amazone",
-      "Yangzi Jiang",
-      "Mississippi"
+      "Aigle royal",
+      "Vautour fauve",
+      "Faucon pèlerin"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Avec environ 6 650 km, le Nil (Afrique) devance légèrement l'Amazone. Récemment des mesures ont confirmé que le Nil plus long.<br /> (l'Amazone mesure environ 6 575 km selon les dernières études)"
-  },
-  {
-    "id": "1520",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
-    "answer": "An American in Paris",
-    "badAnswers": [
-      "A Streetcar Named Desire",
-      "Decision Before Dawn",
-      "Quo Vadis"
-    ],
-    "category": "Cinéma",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
+    "description": "Le condor des Andes est le plus grand oiseau de proie diurne, avec une envergure pouvant atteindre 3,3 mètres. L'aigle royal, le vautour fauve et le faucon pèlerin sont plus petits."
   }
 ]
