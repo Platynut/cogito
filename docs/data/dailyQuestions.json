@@ -1,132 +1,131 @@
 [
   {
-    "id": "729",
-    "question": "Quel est le nom du dieu grec des mers ?",
-    "answer": "Poséidon",
+    "id": "800",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
+    "answer": "Cappy",
     "badAnswers": [
-      "Zeus",
-      "Hadès",
-      "Apollon"
+      "Toad",
+      "Bowser",
+      "Luma"
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Poséidon est le dieu grec des mers, des tremblements de terre et des chevaux, souvent représenté avec un trident. Zeus est le dieu du ciel, Hadès celui des enfers, et Apollon celui des arts."
+    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
   },
   {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
+    "id": "2143",
+    "question": "Quel est le nom de l'auteur de 'Le K' ?",
+    "answer": "Dino Buzzati",
     "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
     ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
   },
   {
-    "id": "1987",
-    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
-    "answer": "Theodore Maiman",
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
     "badAnswers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
   },
   {
-    "id": "1821",
-    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
-    "answer": "Astate",
+    "id": "1059",
+    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
+    "answer": "Carbone",
     "badAnswers": [
-      "Argon",
-      "Antimoine",
-      "Actinium"
+      "Calcium",
+      "Chlore",
+      "Césium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
+    "difficulty": "facile",
+    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
   },
   {
-    "id": "1696",
-    "question": "Quel est le nom de l'auteur de 'Le Mythe de Sisyphe' ?",
-    "answer": "Albert Camus",
+    "id": "1386",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1978 ?",
+    "answer": "The Deer Hunter",
+    "badAnswers": [
+      "Coming Home",
+      "Midnight Express",
+      "Heaven Can Wait"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1978, un drame poignant sur la guerre du Vietnam."
+  },
+  {
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
+    "badAnswers": [
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+  },
+  {
+    "id": "604",
+    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
+    "answer": "Benzaiten",
+    "badAnswers": [
+      "Amaterasu",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
+  },
+  {
+    "id": "2112",
+    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
+    "answer": "Jack Kilby",
+    "badAnswers": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
+  },
+  {
+    "id": "2074",
+    "question": "Quel est le nom de l'auteur de 'Les Nourritures terrestres' ?",
+    "answer": "André Gide",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "André Gide",
-      "Marcel Proust"
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Camus a écrit 'Le Mythe de Sisyphe' (1942), un essai philosophique sur l'absurde et la condition humaine."
+    "description": "André Gide a écrit 'Les Nourritures terrestres' (1897), un recueil poétique célébrant la liberté et les plaisirs."
   },
   {
-    "id": "350",
-    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
-    "answer": "Master Chief",
+    "id": "1984",
+    "question": "Quel est le nom de l'auteur de 'Les Séquestrés d'Altona' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Cortana",
-      "Arbiter",
-      "Noble Six"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
-  },
-  {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
-  },
-  {
-    "id": "747",
-    "question": "Quel est le nom de l'auteur de 'L'Attrape-cœurs' ?",
-    "answer": "J.D. Salinger",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "838",
-    "question": "Quel est le plus grand oiseau de proie diurne ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Faucon pèlerin"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau de proie diurne, avec une envergure pouvant atteindre 3,3 mètres. L'aigle royal, le vautour fauve et le faucon pèlerin sont plus petits."
+    "description": "Jean-Paul Sartre a écrit 'Les Séquestrés d'Altona' (1959), une pièce sur la culpabilité et les conflits familiaux."
   }
 ]
