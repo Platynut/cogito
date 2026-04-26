@@ -1,131 +1,132 @@
 [
   {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
+    "id": "1957",
+    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
-  },
-  {
-    "id": "2143",
-    "question": "Quel est le nom de l'auteur de 'Le K' ?",
-    "answer": "Dino Buzzati",
-    "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
-  },
-  {
-    "id": "1847",
-    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1059",
-    "question": "Quel est le nom de l'élément chimique avec le symbole C ?",
-    "answer": "Carbone",
-    "badAnswers": [
-      "Calcium",
-      "Chlore",
-      "Césium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le carbone, symbolisé par C, est un élément fondamental pour la vie, formant la base des molécules organiques comme l'ADN et les protéines."
-  },
-  {
-    "id": "1386",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1978 ?",
-    "answer": "The Deer Hunter",
-    "badAnswers": [
-      "Coming Home",
-      "Midnight Express",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1978, un drame poignant sur la guerre du Vietnam."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
-  },
-  {
-    "id": "604",
-    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
-    "answer": "Benzaiten",
-    "badAnswers": [
-      "Amaterasu",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
-  },
-  {
-    "id": "2112",
-    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
-    "answer": "Jack Kilby",
-    "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
-  },
-  {
-    "id": "2074",
-    "question": "Quel est le nom de l'auteur de 'Les Nourritures terrestres' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
       "Albert Camus",
+      "André Gide",
       "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Nourritures terrestres' (1897), un recueil poétique célébrant la liberté et les plaisirs."
+    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
   },
   {
-    "id": "1984",
-    "question": "Quel est le nom de l'auteur de 'Les Séquestrés d'Altona' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1543",
+    "question": "Quel est la capitale de la Guinée ?",
+    "answer": "Conakry",
     "badAnswers": [
-      "Albert Camus",
+      "Labé",
+      "Nzérékoré",
+      "Kankan"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
+  },
+  {
+    "id": "1552",
+    "question": "Quel est le nom de l'auteur de 'L'Homme invisible' ?",
+    "answer": "H.G. Wells",
+    "badAnswers": [
+      "Jules Verne",
+      "Mary Shelley",
+      "Bram Stoker"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "H.G. Wells a écrit 'L'Homme invisible' (1897), un roman de science-fiction sur un scientifique devenu invisible et ses conséquences tragiques."
+  },
+  {
+    "id": "2018",
+    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
       "Simone de Beauvoir",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Séquestrés d'Altona' (1959), une pièce sur la culpabilité et les conflits familiaux."
+    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
+  },
+  {
+    "id": "566",
+    "question": "Dans Overwatch, quel personnage est un tireur d'élite français ?",
+    "answer": "Widowmaker",
+    "badAnswers": [
+      "Ashe",
+      "Hanzo",
+      "McCree"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Widowmaker est une tireuse d'élite française dans Overwatch, connue pour son fusil précis. Ashe et McCree sont des tireurs américains, et Hanzo est un archer japonais."
+  },
+  {
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
+    "badAnswers": [
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
+  },
+  {
+    "id": "703",
+    "question": "Quel est le nom du plus grand désert d'Afrique ?",
+    "answer": "Sahara",
+    "badAnswers": [
+      "Kalahari",
+      "Namib",
+      "Désert de Libye"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le Sahara est le plus grand désert d'Afrique, couvrant environ 9,2 millions de km². Le Kalahari, le Namib et le désert de Libye sont d'autres déserts africains, mais plus petits."
+  },
+  {
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
+    "badAnswers": [
+      "Indium",
+      "Iridium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+  },
+  {
+    "id": "1434",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ciri ?",
+    "answer": "The Witcher 3: Wild Hunt",
+    "badAnswers": [
+      "Dragon Age: Inquisition",
+      "Skyrim",
+      "Dark Souls II"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ciri, puissante sorceleuse et fille adoptive de Geralt, est un personnage central de The Witcher 3: Wild Hunt."
+  },
+  {
+    "id": "1596",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
+    "answer": "Rebecca",
+    "badAnswers": [
+      "The Grapes of Wrath",
+      "The Great Dictator",
+      "Kitty Foyle"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
   }
 ]
