@@ -1,132 +1,132 @@
 [
   {
-    "id": "1405",
-    "question": "Quel est le nom de l'inventeur du premier satellite artificiel ?",
-    "answer": "Sergueï Korolev",
+    "id": "1941",
+    "question": "Quel est la capitale du Madagascar ?",
+    "answer": "Antananarivo",
     "badAnswers": [
-      "Wernher von Braun",
-      "Robert Goddard",
-      "Konstantin Tsiolkovski"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Sergueï Korolev a conçu Spoutnik 1, le premier satellite artificiel lancé en 1957, marquant le début de l'ère spatiale."
-  },
-  {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
-    "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
+      "Toamasina",
+      "Fianarantsoa",
+      "Mahajanga"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
-  },
-  {
-    "id": "1908",
-    "question": "Quel est le nom de l'auteur de 'Les Faux-Monnayeurs' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Faux-Monnayeurs' (1925), un roman sur la quête d'identité et la morale."
-  },
-  {
-    "id": "42",
-    "question": "Quelle entreprise fabrique la Model 3 ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Toyota",
-      "Ford",
-      "Volkswagen"
-    ],
-    "category": "Economie",
     "difficulty": "facile",
-    "description": "Cette berline électrique lancée en 2017 est devenue la voiture électrique la plus vendue au monde en 2020."
+    "description": "Antananarivo, capitale de Madagascar, est une ville située sur des collines, connue pour son palais de la Reine."
   },
   {
-    "id": "772",
-    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
-    "answer": "Moira",
+    "id": "277",
+    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
+    "answer": "M. Spittle",
     "badAnswers": [
-      "Widowmaker",
-      "Ana",
-      "Ashe"
+      "M. Boreman",
+      "M. Spitling",
+      "M. Moe"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
+  },
+  {
+    "id": "1186",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Geralt de Riv ?",
+    "answer": "The Witcher",
+    "badAnswers": [
+      "Dragon Age",
+      "Skyrim",
+      "Dark Souls"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
+    "difficulty": "facile",
+    "description": "Geralt de Riv est le sorceleur, héros de la série The Witcher, chassant des monstres dans un monde fantastique inspiré des romans d'Andrzej Sapkowski."
   },
   {
-    "id": "1537",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
-    "answer": "Hamlet",
+    "id": "1684",
+    "question": "Quel est le nom du groupe qui a chanté 'Whole Lotta Love' ?",
+    "answer": "Led Zeppelin",
     "badAnswers": [
-      "The Treasure of the Sierra Madre",
-      "Johnny Belinda",
-      "The Red Shoes"
+      "The Who",
+      "Pink Floyd",
+      "Deep Purple"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Whole Lotta Love', sorti en 1969 par Led Zeppelin, est une chanson rock emblématique tirée de l'album Led Zeppelin II."
   },
   {
-    "id": "1859",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS militaire ?",
-    "answer": "Roger L. Easton",
+    "id": "660",
+    "question": "Dans Horizon Zero Dawn, quel est le nom de la tribu d'Aloy ?",
+    "answer": "Nora",
     "badAnswers": [
-      "Bradford Parkinson",
-      "Ivan Getting",
-      "Gladys West"
+      "Carja",
+      "Oseram",
+      "Banuk"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a développé le concept de navigation par satellite pour le GPS militaire dans les années 1960."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aloy appartient à la tribu Nora dans Horizon Zero Dawn, un peuple matriarcal vivant dans les montagnes. Les Carja, Oseram et Banuk sont d'autres tribus du jeu."
   },
   {
-    "id": "2150",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS grand public ?",
-    "answer": "Magellan Corporation",
+    "id": "360",
+    "question": "Quel est le plus grand pays du monde en superficie ?",
+    "answer": "Russie",
     "badAnswers": [
-      "Garmin Team",
-      "TomTom Team",
-      "Bradford Parkinson"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "La Magellan Corporation a lancé le premier GPS portable grand public, le NAV 1000, en 1989."
-  },
-  {
-    "id": "1782",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire à semi-conducteur ?",
-    "answer": "Robert Dennard",
-    "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Robert Dennard a inventé la mémoire DRAM en 1968, essentielle pour les ordinateurs modernes."
-  },
-  {
-    "id": "688",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
-    "answer": "Lac Supérieur",
-    "badAnswers": [
-      "Lac Michigan",
-      "Lac Huron",
-      "Lac Ontario"
+      "Canada",
+      "Chine",
+      "États-Unis"
     ],
     "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
+  },
+  {
+    "id": "171",
+    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
+    "answer": "Ours d'or",
+    "badAnswers": [
+      "Léopard d'or",
+      "Pyramide d'or",
+      "Lion d'or"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
+  },
+  {
+    "id": "1701",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
+    "answer": "Ruthénium",
+    "badAnswers": [
+      "Radon",
+      "Rubidium",
+      "Rhodium"
+    ],
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
+  },
+  {
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
+    "badAnswers": [
+      "Lion",
+      "Aigle",
+      "Ours"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+  },
+  {
+    "id": "1390",
+    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alessandro Volta"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
   }
 ]
