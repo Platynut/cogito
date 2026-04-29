@@ -1,132 +1,132 @@
 [
   {
-    "id": "1941",
-    "question": "Quel est la capitale du Madagascar ?",
-    "answer": "Antananarivo",
+    "id": "904",
+    "question": "Quel organe est principalement responsable de la filtration du sang ?",
+    "answer": "Le rein",
     "badAnswers": [
-      "Toamasina",
-      "Fianarantsoa",
-      "Mahajanga"
+      "Le foie",
+      "Le cœur",
+      "La rate"
     ],
-    "category": "Géographie",
+    "category": "Anatomie",
     "difficulty": "facile",
-    "description": "Antananarivo, capitale de Madagascar, est une ville située sur des collines, connue pour son palais de la Reine."
+    "description": "Les reins filtrent le sang pour éliminer les déchets et maintenir l'équilibre hydrique et électrolytique du corps via l'urine."
   },
   {
-    "id": "277",
-    "question": "Quel est le nom du directeur de l'école de Calvin dans Calvin et Hobbes ?",
-    "answer": "M. Spittle",
+    "id": "1654",
+    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "M. Boreman",
-      "M. Spitling",
-      "M. Moe"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dans la bande dessinée Calvin et Hobbes de Bill Watterson, M. Spittle est le directeur de l'école de Calvin, souvent dépassé par les frasques du jeune garçon. Ce personnage apparaît rarement, mais son nom est bien établi dans l'univers de la série. Les autres options sont des noms inventés ou incorrects."
-  },
-  {
-    "id": "1186",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Geralt de Riv ?",
-    "answer": "The Witcher",
-    "badAnswers": [
-      "Dragon Age",
-      "Skyrim",
-      "Dark Souls"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Geralt de Riv est le sorceleur, héros de la série The Witcher, chassant des monstres dans un monde fantastique inspiré des romans d'Andrzej Sapkowski."
-  },
-  {
-    "id": "1684",
-    "question": "Quel est le nom du groupe qui a chanté 'Whole Lotta Love' ?",
-    "answer": "Led Zeppelin",
-    "badAnswers": [
-      "The Who",
-      "Pink Floyd",
-      "Deep Purple"
+      "The Verve",
+      "Radiohead",
+      "Oasis"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Whole Lotta Love', sorti en 1969 par Led Zeppelin, est une chanson rock emblématique tirée de l'album Led Zeppelin II."
+    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
   },
   {
-    "id": "660",
-    "question": "Dans Horizon Zero Dawn, quel est le nom de la tribu d'Aloy ?",
-    "answer": "Nora",
+    "id": "1805",
+    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
+    "answer": "Guy de Maupassant",
     "badAnswers": [
-      "Carja",
-      "Oseram",
-      "Banuk"
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aloy appartient à la tribu Nora dans Horizon Zero Dawn, un peuple matriarcal vivant dans les montagnes. Les Carja, Oseram et Banuk sont d'autres tribus du jeu."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
   },
   {
-    "id": "360",
-    "question": "Quel est le plus grand pays du monde en superficie ?",
-    "answer": "Russie",
+    "id": "97",
+    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
+    "answer": "Genève-Servette HC",
     "badAnswers": [
-      "Canada",
-      "Chine",
-      "États-Unis"
+      "Fribourg Gotteron",
+      "HC Bienne",
+      "Lausanne HC"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Russie est le plus grand pays du monde en superficie, couvrant environ 17,1 millions de km², s’étendant sur l’Europe et l’Asie. Le Canada, la Chine et les États-Unis sont également vastes, mais leur superficie est inférieure à celle de la Russie."
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
   },
   {
-    "id": "171",
-    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
-    "answer": "Ours d'or",
+    "id": "8",
+    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
+    "answer": "Quentin Tarantino",
     "badAnswers": [
-      "Léopard d'or",
-      "Pyramide d'or",
-      "Lion d'or"
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie"
     ],
     "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
+    "difficulty": "facile",
+    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
   },
   {
-    "id": "1701",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
-    "answer": "Ruthénium",
+    "id": "1807",
+    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Rhodium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
-  },
-  {
-    "id": "27",
-    "question": "Quel est l'animal national de l'Écosse ?",
-    "answer": "Licorne",
-    "badAnswers": [
-      "Lion",
-      "Aigle",
-      "Ours"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
-  },
-  {
-    "id": "1390",
-    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "Thomas Edison",
+      "Humphry Davy",
       "Nikola Tesla",
-      "Alessandro Volta"
+      "George Westinghouse"
     ],
     "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
+  },
+  {
+    "id": "1418",
+    "question": "Quel est la capitale du Kirghizistan ?",
+    "answer": "Bichkek",
+    "badAnswers": [
+      "Osh",
+      "Jalal-Abad",
+      "Karakol"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
+    "description": "Bichkek, capitale du Kirghizistan, est une ville moderne entourée de montagnes, connue pour ses bazars et son architecture soviétique."
+  },
+  {
+    "id": "1419",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin militaire ?",
+    "answer": "David Bushnell",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Holland",
+      "Cornelius Drebbel"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "David Bushnell a conçu le Turtle en 1775, le premier sous-marin militaire utilisé pendant la guerre d'indépendance américaine."
+  },
+  {
+    "id": "1136",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
+    "answer": "Silicium",
+    "badAnswers": [
+      "Soufre",
+      "Sélénium",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+  },
+  {
+    "id": "759",
+    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
+    "answer": "Frenzy Farm",
+    "badAnswers": [
+      "Haunted Hills",
+      "Salty Springs",
+      "Lazy Lake"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
   }
 ]
