@@ -1,132 +1,132 @@
 [
   {
-    "id": "904",
-    "question": "Quel organe est principalement responsable de la filtration du sang ?",
-    "answer": "Le rein",
+    "id": "1083",
+    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
+    "answer": "Anubis",
     "badAnswers": [
-      "Le foie",
-      "Le cœur",
-      "La rate"
+      "Osiris",
+      "Seth",
+      "Ptah"
     ],
-    "category": "Anatomie",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Les reins filtrent le sang pour éliminer les déchets et maintenir l'équilibre hydrique et électrolytique du corps via l'urine."
+    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
   },
   {
-    "id": "1654",
-    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
-    "answer": "R.E.M.",
+    "id": "855",
+    "question": "Quel scientifique a découvert la loi de la dilatation des liquides ?",
+    "answer": "Guillaume Amontons",
     "badAnswers": [
-      "The Verve",
-      "Radiohead",
-      "Oasis"
+      "Robert Boyle",
+      "Jacques Charles",
+      "Anders Celsius"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Guillaume Amontons a étudié la dilatation des liquides au XVIIe siècle, contribuant aux bases de la thermométrie. Boyle, Charles et Celsius ont travaillé sur d'autres lois physiques."
   },
   {
-    "id": "1805",
-    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
-    "answer": "Guy de Maupassant",
+    "id": "1113",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
+    "answer": "Metal Gear Solid",
     "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
+      "Splinter Cell",
+      "Hitman",
+      "Deus Ex"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+  },
+  {
+    "id": "2136",
+    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
+    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
   },
   {
-    "id": "97",
-    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
-    "answer": "Genève-Servette HC",
+    "id": "1281",
+    "question": "Quel est la capitale des Philippines ?",
+    "answer": "Manille",
     "badAnswers": [
-      "Fribourg Gotteron",
-      "HC Bienne",
-      "Lausanne HC"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
-  },
-  {
-    "id": "8",
-    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
-    "answer": "Quentin Tarantino",
-    "badAnswers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Guy Ritchie"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
-  },
-  {
-    "id": "1807",
-    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
-  },
-  {
-    "id": "1418",
-    "question": "Quel est la capitale du Kirghizistan ?",
-    "answer": "Bichkek",
-    "badAnswers": [
-      "Osh",
-      "Jalal-Abad",
-      "Karakol"
+      "Davao",
+      "Cebu",
+      "Quezon City"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bichkek, capitale du Kirghizistan, est une ville moderne entourée de montagnes, connue pour ses bazars et son architecture soviétique."
-  },
-  {
-    "id": "1419",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin militaire ?",
-    "answer": "David Bushnell",
-    "badAnswers": [
-      "Robert Fulton",
-      "John Holland",
-      "Cornelius Drebbel"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "David Bushnell a conçu le Turtle en 1775, le premier sous-marin militaire utilisé pendant la guerre d'indépendance américaine."
-  },
-  {
-    "id": "1136",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
-    "answer": "Silicium",
-    "badAnswers": [
-      "Soufre",
-      "Sélénium",
-      "Sodium"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
   },
   {
-    "id": "759",
-    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
-    "answer": "Frenzy Farm",
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Haunted Hills",
-      "Salty Springs",
-      "Lazy Lake"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+  },
+  {
+    "id": "365",
+    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Los Santos",
+    "badAnswers": [
+      "Liberty City",
+      "Vice City",
+      "San Fierro"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
+  },
+  {
+    "id": "1008",
+    "question": "Quel animal est le symbole de l'organisation WWF ?",
+    "answer": "Panda",
+    "badAnswers": [
+      "Tigre",
+      "Ours polaire",
+      "Aigle"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le panda est le symbole du Fonds mondial pour la nature (WWF), choisi pour représenter la conservation des espèces menacées depuis la création de l'organisation en 1961."
+  },
+  {
+    "id": "1543",
+    "question": "Quel est la capitale de la Guinée ?",
+    "answer": "Conakry",
+    "badAnswers": [
+      "Labé",
+      "Nzérékoré",
+      "Kankan"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
+  },
+  {
+    "id": "192",
+    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
+    "answer": "150 millions de km",
+    "badAnswers": [
+      "4 millions de km",
+      "60 millions de km",
+      "350 millions de km"
+    ],
+    "category": "Astronomie",
     "difficulty": "normal",
-    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
+    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
   }
 ]
