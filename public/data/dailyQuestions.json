@@ -1,47 +1,99 @@
 [
   {
-    "id": "1083",
-    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
-    "answer": "Anubis",
+    "id": "413",
+    "question": "Dans Fallout 4, quelle est la ville principale où commence l’histoire du joueur ?",
+    "answer": "Sanctuary Hills",
     "badAnswers": [
-      "Osiris",
-      "Seth",
-      "Ptah"
+      "Diamond City",
+      "Goodneighbor",
+      "Bunker Hill"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sanctuary Hills est la ville de départ de Fallout 4, où le joueur commence avant l’apocalypse nucléaire. C’est un lieu clé pour la construction de bases. Diamond City, Goodneighbor et Bunker Hill sont d’autres lieux importants, mais pas le point de départ."
   },
   {
-    "id": "855",
-    "question": "Quel scientifique a découvert la loi de la dilatation des liquides ?",
-    "answer": "Guillaume Amontons",
+    "id": "1516",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
+    "answer": "Berkélium",
     "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Anders Celsius"
+      "Brome",
+      "Beryllium",
+      "Bore"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Guillaume Amontons a étudié la dilatation des liquides au XVIIe siècle, contribuant aux bases de la thermométrie. Boyle, Charles et Celsius ont travaillé sur d'autres lois physiques."
+    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
   },
   {
-    "id": "1113",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
-    "answer": "Metal Gear Solid",
+    "id": "1867",
+    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
+    "answer": "Emile Berliner",
     "badAnswers": [
-      "Splinter Cell",
-      "Hitman",
-      "Deus Ex"
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Eldridge Johnson"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
+  },
+  {
+    "id": "1619",
+    "question": "Quel est le nom du groupe qui a chanté 'Man in the Box' ?",
+    "answer": "Alice in Chains",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Man in the Box', sorti en 1990 par Alice in Chains, est une chanson grunge tirée de l'album Facelift."
+  },
+  {
+    "id": "361",
+    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
+    "answer": "Épée de Légende",
+    "badAnswers": [
+      "Épée du Temps",
+      "Épée de Feu",
+      "Épée d’Ombre"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
   },
   {
-    "id": "2136",
-    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "1443",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1969 ?",
+    "answer": "Midnight Cowboy",
+    "badAnswers": [
+      "Butch Cassidy and the Sundance Kid",
+      "Easy Rider",
+      "The Wild Bunch"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Midnight Cowboy, réalisé par John Schlesinger, a remporté l'Oscar du meilleur film en 1969, un drame sur l'amitié dans les rues de New York."
+  },
+  {
+    "id": "656",
+    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
+    "answer": "James Prescott Joule",
+    "badAnswers": [
+      "Michael Faraday",
+      "Hermann von Helmholtz",
+      "Sadi Carnot"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
+  },
+  {
+    "id": "2001",
+    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -49,84 +101,32 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
+    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
   },
   {
-    "id": "1281",
-    "question": "Quel est la capitale des Philippines ?",
-    "answer": "Manille",
+    "id": "1491",
+    "question": "Quel est le nom du groupe qui a chanté 'Friday I'm in Love' ?",
+    "answer": "The Cure",
     "badAnswers": [
-      "Davao",
-      "Cebu",
-      "Quezon City"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
-  },
-  {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
+      "Depeche Mode",
+      "New Order",
+      "The Smiths"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+    "description": "'Friday I'm in Love', sorti en 1992 par The Cure, est une chanson pop-rock joyeuse tirée de l'album Wish."
   },
   {
-    "id": "365",
-    "question": "Dans Grand Theft Auto V, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Los Santos",
+    "id": "883",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom du royaume principal ?",
+    "answer": "Hyrule",
     "badAnswers": [
-      "Liberty City",
-      "Vice City",
-      "San Fierro"
+      "Termina",
+      "Lorule",
+      "Holodrum"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Grand Theft Auto V se déroule à Los Santos, une ville fictive inspirée de Los Angeles, dans l’État fictif de San Andreas. Liberty City et Vice City sont les cadres d’autres jeux de la série, et San Fierro est une ville de GTA: San Andreas, mais pas de GTA V."
-  },
-  {
-    "id": "1008",
-    "question": "Quel animal est le symbole de l'organisation WWF ?",
-    "answer": "Panda",
-    "badAnswers": [
-      "Tigre",
-      "Ours polaire",
-      "Aigle"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le panda est le symbole du Fonds mondial pour la nature (WWF), choisi pour représenter la conservation des espèces menacées depuis la création de l'organisation en 1961."
-  },
-  {
-    "id": "1543",
-    "question": "Quel est la capitale de la Guinée ?",
-    "answer": "Conakry",
-    "badAnswers": [
-      "Labé",
-      "Nzérékoré",
-      "Kankan"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
-  },
-  {
-    "id": "192",
-    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
-    "answer": "150 millions de km",
-    "badAnswers": [
-      "4 millions de km",
-      "60 millions de km",
-      "350 millions de km"
-    ],
-    "category": "Astronomie",
-    "difficulty": "normal",
-    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
+    "description": "Hyrule est le royaume principal de The Legend of Zelda: Breath of the Wild, où Link explore un monde ouvert. Termina, Lorule et Holodrum sont des royaumes d'autres jeux Zelda."
   }
 ]
