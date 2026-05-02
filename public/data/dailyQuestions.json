@@ -1,132 +1,133 @@
 [
   {
-    "id": "413",
-    "question": "Dans Fallout 4, quelle est la ville principale où commence l’histoire du joueur ?",
-    "answer": "Sanctuary Hills",
+    "id": "1865",
+    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
+    "answer": "Hermann Hesse",
     "badAnswers": [
-      "Diamond City",
-      "Goodneighbor",
-      "Bunker Hill"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sanctuary Hills est la ville de départ de Fallout 4, où le joueur commence avant l’apocalypse nucléaire. C’est un lieu clé pour la construction de bases. Diamond City, Goodneighbor et Bunker Hill sont d’autres lieux importants, mais pas le point de départ."
-  },
-  {
-    "id": "1516",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
-    "answer": "Berkélium",
-    "badAnswers": [
-      "Brome",
-      "Beryllium",
-      "Bore"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
-  },
-  {
-    "id": "1867",
-    "question": "Quel est le nom de l'inventeur du premier système de disque vinyle ?",
-    "answer": "Emile Berliner",
-    "badAnswers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Eldridge Johnson"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Emile Berliner a inventé le disque vinyle en 1887, révolutionnant l'enregistrement et la lecture de musique."
-  },
-  {
-    "id": "1619",
-    "question": "Quel est le nom du groupe qui a chanté 'Man in the Box' ?",
-    "answer": "Alice in Chains",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Man in the Box', sorti en 1990 par Alice in Chains, est une chanson grunge tirée de l'album Facelift."
-  },
-  {
-    "id": "361",
-    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
-    "answer": "Épée de Légende",
-    "badAnswers": [
-      "Épée du Temps",
-      "Épée de Feu",
-      "Épée d’Ombre"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
-  },
-  {
-    "id": "1443",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1969 ?",
-    "answer": "Midnight Cowboy",
-    "badAnswers": [
-      "Butch Cassidy and the Sundance Kid",
-      "Easy Rider",
-      "The Wild Bunch"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Midnight Cowboy, réalisé par John Schlesinger, a remporté l'Oscar du meilleur film en 1969, un drame sur l'amitié dans les rues de New York."
-  },
-  {
-    "id": "656",
-    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
-    "answer": "James Prescott Joule",
-    "badAnswers": [
-      "Michael Faraday",
-      "Hermann von Helmholtz",
-      "Sadi Carnot"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
-  },
-  {
-    "id": "2001",
-    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Franz Kafka",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
+    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
   },
   {
-    "id": "1491",
-    "question": "Quel est le nom du groupe qui a chanté 'Friday I'm in Love' ?",
-    "answer": "The Cure",
+    "id": "933",
+    "question": "Autrefois, qu'est-ce qu'un gentleman gardait dans sa poche à gousset ?",
+    "answer": "Montre",
     "badAnswers": [
-      "Depeche Mode",
-      "New Order",
-      "The Smiths"
+      "Argent",
+      "Clés",
+      "Carnet"
     ],
-    "category": "Musique",
+    "category": "Culture générale",
     "difficulty": "facile",
-    "description": "'Friday I'm in Love', sorti en 1992 par The Cure, est une chanson pop-rock joyeuse tirée de l'album Wish."
+    "description": "La poche à gousset, souvent située sur un gilet, était utilisée pour ranger une montre à gousset, un accessoire courant chez les gentlemen au XIXe siècle, avant l'avènement des montres-bracelets."
   },
   {
-    "id": "883",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom du royaume principal ?",
-    "answer": "Hyrule",
+    "id": "873",
+    "question": "Dans Control, quel est le nom de la protagoniste ?",
+    "answer": "Jesse Faden",
     "badAnswers": [
-      "Termina",
-      "Lorule",
-      "Holodrum"
+      "Emily Pope",
+      "Courtney Hope",
+      "Helen Marshall"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Hyrule est le royaume principal de The Legend of Zelda: Breath of the Wild, où Link explore un monde ouvert. Termina, Lorule et Holodrum sont des royaumes d'autres jeux Zelda."
+    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
+  },
+  {
+    "id": "2022",
+    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
+    "answer": "IBM",
+    "badAnswers": [
+      "Steve Wozniak",
+      "Bill Gates",
+      "Ed Roberts"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
+  },
+  {
+    "id": "611",
+    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
+    "answer": "Kannon",
+    "badAnswers": [
+      "Kannon",
+      "Benzaiten",
+      "Amaterasu",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
+  },
+  {
+    "id": "602",
+    "question": "Qui est le dieu du vent dans la mythologie japonaise ?",
+    "answer": "Fujin",
+    "badAnswers": [
+      "Raijin",
+      "Tsukuyomi",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Fujin est représenté avec une poche à vent et associé aux dégâts causés par la tempête."
+  },
+  {
+    "id": "993",
+    "question": "Qui fut le 40e président des États-Unis ?",
+    "answer": "Ronald Reagan",
+    "badAnswers": [
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
+  },
+  {
+    "id": "740",
+    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
+    "answer": "Umberto Eco",
+    "badAnswers": [
+      "Italo Calvino",
+      "Dario Fo",
+      "Luigi Pirandello"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1387",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
+    "answer": "Dysprosium",
+    "badAnswers": [
+      "Dysnomium",
+      "Dubnium",
+      "Darmstadtium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
+  },
+  {
+    "id": "442",
+    "question": "Quel est le nom du plus grand archipel du monde ?",
+    "answer": "Indonésie",
+    "badAnswers": [
+      "Philippines",
+      "Maldives",
+      "Japon"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
   }
 ]
