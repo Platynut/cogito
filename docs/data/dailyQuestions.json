@@ -1,133 +1,132 @@
 [
   {
-    "id": "1865",
-    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
-    "answer": "Hermann Hesse",
+    "id": "1789",
+    "question": "Quel est la capitale de l'Eswatini ?",
+    "answer": "Mbabane",
     "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Rainer Maria Rilke"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
-  },
-  {
-    "id": "933",
-    "question": "Autrefois, qu'est-ce qu'un gentleman gardait dans sa poche à gousset ?",
-    "answer": "Montre",
-    "badAnswers": [
-      "Argent",
-      "Clés",
-      "Carnet"
-    ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "La poche à gousset, souvent située sur un gilet, était utilisée pour ranger une montre à gousset, un accessoire courant chez les gentlemen au XIXe siècle, avant l'avènement des montres-bracelets."
-  },
-  {
-    "id": "873",
-    "question": "Dans Control, quel est le nom de la protagoniste ?",
-    "answer": "Jesse Faden",
-    "badAnswers": [
-      "Emily Pope",
-      "Courtney Hope",
-      "Helen Marshall"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
-  },
-  {
-    "id": "2022",
-    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
-    "answer": "IBM",
-    "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "Ed Roberts"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
-  },
-  {
-    "id": "611",
-    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
-    "answer": "Kannon",
-    "badAnswers": [
-      "Kannon",
-      "Benzaiten",
-      "Amaterasu",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
-  },
-  {
-    "id": "602",
-    "question": "Qui est le dieu du vent dans la mythologie japonaise ?",
-    "answer": "Fujin",
-    "badAnswers": [
-      "Raijin",
-      "Tsukuyomi",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Fujin est représenté avec une poche à vent et associé aux dégâts causés par la tempête."
-  },
-  {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
-    "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
-  },
-  {
-    "id": "740",
-    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
-    "answer": "Umberto Eco",
-    "badAnswers": [
-      "Italo Calvino",
-      "Dario Fo",
-      "Luigi Pirandello"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1387",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
-    "answer": "Dysprosium",
-    "badAnswers": [
-      "Dysnomium",
-      "Dubnium",
-      "Darmstadtium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
-  },
-  {
-    "id": "442",
-    "question": "Quel est le nom du plus grand archipel du monde ?",
-    "answer": "Indonésie",
-    "badAnswers": [
-      "Philippines",
-      "Maldives",
-      "Japon"
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
+    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
+  },
+  {
+    "id": "651",
+    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
+    "answer": "Vicaire Amelia",
+    "badAnswers": [
+      "Clerc Bestial",
+      "Père Gascoigne",
+      "Ludwig"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
+  },
+  {
+    "id": "994",
+    "question": "Dans un orchestre, quel est l'instrument le plus grave de la famille des cuivres ?",
+    "answer": "Tuba",
+    "badAnswers": [
+      "Trombone",
+      "Contrebasse",
+      "Basson"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Le tuba est l'instrument le plus grave de la famille des cuivres dans un orchestre, produisant des sons profonds et puissants."
+  },
+  {
+    "id": "1242",
+    "question": "Quel est le nom du dieu grec de la messagerie ?",
+    "answer": "Hermès",
+    "badAnswers": [
+      "Apollon",
+      "Dionysos",
+      "Arès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hermès, dieu grec des messagers, du commerce et des voyageurs, est représenté avec des sandales ailées et un caducée."
+  },
+  {
+    "id": "1898",
+    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
+  },
+  {
+    "id": "1280",
+    "question": "Quel est le nom de l'inventeur du premier microscope optique ?",
+    "answer": "Zacharias Jansen",
+    "badAnswers": [
+      "Galilée",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Hans et Zacharias Jansen, opticiens néerlandais, ont créé le premier microscope optique vers 1590, ouvrant la voie à l'étude des micro-organismes."
+  },
+  {
+    "id": "1203",
+    "question": "Quel est la capitale de la Côte d'Ivoire ?",
+    "answer": "Yamoussoukro",
+    "badAnswers": [
+      "Abidjan",
+      "Bouaké",
+      "Daloa"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Yamoussoukro, capitale de la Côte d'Ivoire, est connue pour sa basilique Notre-Dame de la Paix, l'une des plus grandes églises du monde."
+  },
+  {
+    "id": "766",
+    "question": "Dans The Last of Us Part II, quel est le nom de la protagoniste principale ?",
+    "answer": "Ellie",
+    "badAnswers": [
+      "Joel",
+      "Abby",
+      "Tess"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est la protagoniste principale de The Last of Us Part II, poursuivant son histoire dans un monde post-apocalyptique. Joel est le héros du premier jeu, Abby une co-protagoniste, et Tess un personnage secondaire."
+  },
+  {
+    "id": "88",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "Antarctique",
+    "badAnswers": [
+      "Sahara",
+      "Gobi",
+      "Kalahari"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Bien que couvert de glace, l'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles. Il couvre 14 millions de km²."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
   }
 ]
