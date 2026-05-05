@@ -17,14 +17,14 @@ export default function Profile() {
         setUser(currentUser);
 
         if (currentUser) {
-        const docRef = doc(db, "users", currentUser.uid);
-        const docSnap = await getDoc(docRef);
+            const docRef = doc(db, "users", currentUser.uid);
+            const docSnap = await getDoc(docRef);
 
-        if (docSnap.exists()) {
-            setProfile(docSnap.data());
-        } else {
-            setProfile(null);
-        }
+            if (docSnap.exists()) {
+                setProfile(docSnap.data());
+            } else {
+                setProfile(null);
+            }
         } else {
         setProfile(null);
         }
@@ -36,11 +36,20 @@ export default function Profile() {
     if (user) {
     return (
         <div className="profile-connected">
-        <h2>Bienvenue {profile?.pseudo} !</h2>
-        <ChangePseudo
-            onPseudoChange={(newPseudo) => setProfile({ pseudo: newPseudo })}
-        />
-        <button onClick={() => auth.signOut()}>Se déconnecter</button>
+            <h2>Bienvenue {profile?.pseudo} !</h2>
+            <ChangePseudo
+                onPseudoChange={(newPseudo) => setProfile({ pseudo: newPseudo })}
+            />
+            <button onClick={() => auth.signOut()}>Se déconnecter</button>
+            <div className="profile-stats">
+                <h3>Statistiques</h3>
+                <ul>
+                    <li>Série quotidienne : {profile?.dayStreak ?? 0}</li>
+                    <li>Série max quotidienne : {profile?.maxDaystreak ?? 0}</li>
+                    <li>Série de victoires : {profile?.winStreak ?? 0}</li>
+                    <li>Série max de victoires : {profile?.maxWinstreak ?? 0}</li>
+                </ul>
+            </div>
         </div>
     );
     }
