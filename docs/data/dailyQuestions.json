@@ -1,7 +1,33 @@
 [
   {
-    "id": "2041",
-    "question": "Quel est le nom du groupe qui a chanté 'Octopus's Garden' ?",
+    "id": "1163",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
+    "answer": "Cornelius Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+  },
+  {
+    "id": "1477",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
+    "answer": "Ben-Hur",
+    "badAnswers": [
+      "The Diary of Anne Frank",
+      "Anatomy of a Murder",
+      "Room at the Top"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
+  },
+  {
+    "id": "2023",
+    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -10,123 +36,97 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Octopus's Garden', sorti en 1969 par The Beatles, est une chanson ludique écrite par Ringo Starr, tirée de l'album Abbey Road."
+    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
   },
   {
-    "id": "1336",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
-    "answer": "Out of Africa",
+    "id": "2000",
+    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
-      "Witness",
-      "The Color Purple",
-      "Kiss of the Spider Woman"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
+    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
   },
   {
-    "id": "1175",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2022 ?",
-    "answer": "Everything Everywhere All at Once",
+    "id": "16",
+    "question": "Quelle est la capitale de l'Australie ?",
+    "answer": "Canberra",
     "badAnswers": [
-      "The Banshees of Inisherin",
-      "Top Gun: Maverick",
-      "Avatar: The Way of Water"
+      "Sydney",
+      "Melbourne",
+      "Perth"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Everything Everywhere All at Once, réalisé par les Daniels, a remporté l'Oscar du meilleur film en 2022, mêlant science-fiction et comédie."
+    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
   },
   {
-    "id": "489",
-    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
-    "answer": "Vincent van Gogh",
+    "id": "1543",
+    "question": "Quel est la capitale de la Guinée ?",
+    "answer": "Conakry",
     "badAnswers": [
-      "Édouard Manet",
-      "Claude Monet",
-      "Pierre-Auguste Renoir"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "242",
-    "question": "Klein a déposé une couleur qui porte son nom ...",
-    "answer": "Bleu",
-    "badAnswers": [
-      "Noir",
-      "Rouge",
-      "Violet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
-  },
-  {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
-    "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
-  },
-  {
-    "id": "1516",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bk ?",
-    "answer": "Berkélium",
-    "badAnswers": [
-      "Brome",
-      "Beryllium",
-      "Bore"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le berkélium, symbolisé par Bk, est un élément radioactif synthétique, utilisé principalement dans la recherche scientifique."
-  },
-  {
-    "id": "498",
-    "question": "Quel est la capitale de l'Argentine ?",
-    "answer": "Buenos Aires",
-    "badAnswers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
+      "Labé",
+      "Nzérékoré",
+      "Kankan"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
   },
   {
-    "id": "109",
-    "question": "Quel est le nom du jeu de société où les joueurs construisent des routes, des villes et des champs dans un paysage médiéval ?",
-    "answer": "Carcassonne",
+    "id": "518",
+    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
+    "answer": "Sombra",
     "badAnswers": [
-      "Monopoly",
-      "Risk",
-      "Cluedo"
+      "Reaper",
+      "Tracer",
+      "D.Va"
     ],
-    "category": "Jeux de société",
-    "difficulty": "facile",
-    "description": "'Carcassonne' est un jeu de société où les joueurs placent des tuiles pour construire un paysage médiéval, créant des routes, des villes et des champs. Il a été créé par Klaus-Jürgen Wrede et publié pour la première fois en 2000."
-  },
-  {
-    "id": "1488",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
-    "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
+    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
+  },
+  {
+    "id": "7",
+    "question": "Quel est le système d'exploitation mobile développé par Google ?",
+    "answer": "Android",
+    "badAnswers": [
+      "iOS",
+      "Windows Phone",
+      "Symbian"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
+  },
+  {
+    "id": "2134",
+    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
+    "answer": "Edward Jenner",
+    "badAnswers": [
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Albert Sabin"
+    ],
+    "category": "Médecine",
+    "difficulty": "facile",
+    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
+  },
+  {
+    "id": "994",
+    "question": "Dans un orchestre, quel est l'instrument le plus grave de la famille des cuivres ?",
+    "answer": "Tuba",
+    "badAnswers": [
+      "Trombone",
+      "Contrebasse",
+      "Basson"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Le tuba est l'instrument le plus grave de la famille des cuivres dans un orchestre, produisant des sons profonds et puissants."
   }
 ]
