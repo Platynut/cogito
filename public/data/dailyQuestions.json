@@ -1,132 +1,132 @@
 [
   {
-    "id": "1163",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
-    "answer": "Cornelius Drebbel",
+    "id": "1496",
+    "question": "Quel est le nom du groupe qui a chanté 'Personal Jesus' ?",
+    "answer": "Depeche Mode",
     "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "New Order",
+      "The Cure",
+      "The Smiths"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Personal Jesus', sorti en 1989 par Depeche Mode, est une chanson synthpop influente tirée de l'album Violator."
   },
   {
-    "id": "1477",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1959 ?",
-    "answer": "Ben-Hur",
+    "id": "1586",
+    "question": "Quel est la capitale du Lesotho ?",
+    "answer": "Maseru",
     "badAnswers": [
-      "The Diary of Anne Frank",
-      "Anatomy of a Murder",
-      "Room at the Top"
+      "Teyateyaneng",
+      "Leribe",
+      "Mafeteng"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
+  },
+  {
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
+    "badAnswers": [
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
+  },
+  {
+    "id": "1288",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
+    "badAnswers": [
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Quiz Show"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Ben-Hur, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1959, une épopée sur la vengeance et la rédemption dans la Rome antique."
+    "description": "Forrest Gump, réalisé par Robert Zemeckis, a remporté l'Oscar du meilleur film en 1994, une histoire émouvante sur la vie de Forrest, un homme simple."
   },
   {
-    "id": "2023",
-    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
-    "answer": "The Beatles",
+    "id": "703",
+    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
+    "answer": "Iso-onna",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Yuki-onna",
+      "Jorōgumo",
+      "Onryō"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "2000",
-    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
+    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
   },
   {
-    "id": "16",
-    "question": "Quelle est la capitale de l'Australie ?",
-    "answer": "Canberra",
+    "id": "175",
+    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Sydney",
-      "Melbourne",
-      "Perth"
+      "Espagne",
+      "Yémen",
+      "Inde"
     ],
-    "category": "Géographie",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
+    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
   },
   {
-    "id": "1543",
-    "question": "Quel est la capitale de la Guinée ?",
-    "answer": "Conakry",
+    "id": "1815",
+    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
+    "answer": "Vinton Cerf",
     "badAnswers": [
-      "Labé",
-      "Nzérékoré",
-      "Kankan"
+      "Tim Berners-Lee",
+      "Robert Kahn",
+      "Paul Baran"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
   },
   {
-    "id": "518",
-    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
-    "answer": "Sombra",
+    "id": "108",
+    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
+    "answer": "2000",
     "badAnswers": [
-      "Reaper",
-      "Tracer",
-      "D.Va"
+      "1999",
+      "2001",
+      "2002"
+    ],
+    "category": "Jeux de société",
+    "difficulty": "difficile",
+    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
+  },
+  {
+    "id": "1413",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+  },
+  {
+    "id": "480",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
+    "answer": "Kai'Sa",
+    "badAnswers": [
+      "Kassadin",
+      "Malzahar",
+      "Vel'Koz"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
-  },
-  {
-    "id": "7",
-    "question": "Quel est le système d'exploitation mobile développé par Google ?",
-    "answer": "Android",
-    "badAnswers": [
-      "iOS",
-      "Windows Phone",
-      "Symbian"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
-  },
-  {
-    "id": "2134",
-    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
-    "answer": "Edward Jenner",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Albert Sabin"
-    ],
-    "category": "Médecine",
-    "difficulty": "facile",
-    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
-  },
-  {
-    "id": "994",
-    "question": "Dans un orchestre, quel est l'instrument le plus grave de la famille des cuivres ?",
-    "answer": "Tuba",
-    "badAnswers": [
-      "Trombone",
-      "Contrebasse",
-      "Basson"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Le tuba est l'instrument le plus grave de la famille des cuivres dans un orchestre, produisant des sons profonds et puissants."
+    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
   }
 ]
