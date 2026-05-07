@@ -1,132 +1,132 @@
 [
   {
-    "id": "1496",
-    "question": "Quel est le nom du groupe qui a chanté 'Personal Jesus' ?",
-    "answer": "Depeche Mode",
+    "id": "1474",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
+    "answer": "The Apartment",
     "badAnswers": [
-      "New Order",
-      "The Cure",
-      "The Smiths"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Personal Jesus', sorti en 1989 par Depeche Mode, est une chanson synthpop influente tirée de l'album Violator."
-  },
-  {
-    "id": "1586",
-    "question": "Quel est la capitale du Lesotho ?",
-    "answer": "Maseru",
-    "badAnswers": [
-      "Teyateyaneng",
-      "Leribe",
-      "Mafeteng"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
-  },
-  {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
-    "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
+      "Psycho",
+      "The Alamo",
+      "Sons and Lovers"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
+    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
   },
   {
-    "id": "1288",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
-    "answer": "Forrest Gump",
+    "id": "710",
+    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
+    "answer": "Annie",
     "badAnswers": [
-      "Pulp Fiction",
-      "The Shawshank Redemption",
-      "Quiz Show"
+      "Lux",
+      "Ahri",
+      "Morgana"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Forrest Gump, réalisé par Robert Zemeckis, a remporté l'Oscar du meilleur film en 1994, une histoire émouvante sur la vie de Forrest, un homme simple."
-  },
-  {
-    "id": "703",
-    "question": "Quelle femme fantomatique des côtes attire les pêcheurs vers la noyade ?",
-    "answer": "Iso-onna",
-    "badAnswers": [
-      "Yuki-onna",
-      "Jorōgumo",
-      "Onryō"
-    ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "L'Iso-onna est un esprit féminin qui hante les côtes et séduit les pêcheurs pour les entraîner sous l'eau."
+    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
   },
   {
-    "id": "175",
-    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-    "answer": "Japon",
+    "id": "973",
+    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
+    "answer": "IMKO-1",
     "badAnswers": [
-      "Espagne",
-      "Yémen",
-      "Inde"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
-  },
-  {
-    "id": "1815",
-    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
-    "answer": "Vinton Cerf",
-    "badAnswers": [
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Paul Baran"
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030"
     ],
     "category": "Informatique",
     "difficulty": "difficile",
-    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
+    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
   },
   {
-    "id": "108",
-    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
-    "answer": "2000",
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
     "badAnswers": [
-      "1999",
-      "2001",
-      "2002"
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
     ],
-    "category": "Jeux de société",
-    "difficulty": "difficile",
-    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
   },
   {
-    "id": "1413",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
-    "answer": "Final Fantasy VII",
+    "id": "1668",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
   },
   {
-    "id": "480",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
-    "answer": "Kai'Sa",
+    "id": "851",
+    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
+    "answer": "Charlotte Brontë",
     "badAnswers": [
-      "Kassadin",
-      "Malzahar",
-      "Vel'Koz"
+      "Emily Brontë",
+      "Jane Austen",
+      "George Eliot"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Charlotte Brontë a écrit Jane Eyre (1847), un roman sur une gouvernante et son amour pour Mr. Rochester. Emily Brontë, Austen et Eliot sont d'autres écrivaines, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "2126",
+    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
+    "answer": "André Malraux",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
+  },
+  {
+    "id": "717",
+    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
+    "answer": "Karasu-tengu",
+    "badAnswers": [
+      "Tengu",
+      "Oni",
+      "Kappa"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
+  },
+  {
+    "id": "1387",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
+    "answer": "Dysprosium",
+    "badAnswers": [
+      "Dysnomium",
+      "Dubnium",
+      "Darmstadtium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
+  },
+  {
+    "id": "1006",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
+    "answer": "BioShock",
+    "badAnswers": [
+      "Half-Life",
+      "Portal",
+      "Dead Space"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
+    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
   }
 ]
