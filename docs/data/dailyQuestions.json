@@ -1,132 +1,132 @@
 [
   {
-    "id": "1474",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1960 ?",
-    "answer": "The Apartment",
+    "id": "1897",
+    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Psycho",
-      "The Alamo",
-      "Sons and Lovers"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Apartment, réalisé par Billy Wilder, a remporté l'Oscar du meilleur film en 1960, une comédie dramatique sur l'ambition et l'amour."
-  },
-  {
-    "id": "710",
-    "question": "Dans League of Legends, quel champion est surnommé L'Enfant des Ténèbres ?",
-    "answer": "Annie",
-    "badAnswers": [
-      "Lux",
-      "Ahri",
-      "Morgana"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Annie, surnommée L'Enfant des Ténèbres dans League of Legends, est une mage utilisant des sorts de feu et son ours Tibbers. Lux, Ahri et Morgana sont d'autres champions magiques."
-  },
-  {
-    "id": "973",
-    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
-    "answer": "IMKO-1",
-    "badAnswers": [
-      "Pravetz 82",
-      "Pravetz 8D",
-      "IZOT 1030"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
-  },
-  {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
-    "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "1668",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Herbizarre ?",
-    "answer": "Pokémon",
+    "id": "1116",
+    "question": "Quel est le nom du dieu grec du commerce et des voyageurs ?",
+    "answer": "Hermès",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Apollon",
+      "Arès",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hermès, dieu grec du commerce, des voyageurs et des voleurs, est souvent représenté avec des sandales ailées et un caducée."
+  },
+  {
+    "id": "244",
+    "question": "Quel est l’exutoire de la rivière Drac, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
+    "answer": "L’Isère",
+    "badAnswers": [
+      "La Durance",
+      "Le Rhône",
+      "Le Giffre"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le Drac, rivière des Alpes, rejoint l'Isère près de Grenoble. La Durance est un affluent du Rhône, le Giffre un affluent de l'Arve."
+  },
+  {
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+  },
+  {
+    "id": "1224",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Dragon Quest"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Herbizarre, Pokémon de type plante et poison, est l'évolution finale de Bulbizarre dans la série Pokémon."
-  },
-  {
-    "id": "851",
-    "question": "Quel est le nom de l'auteur de 'Jane Eyre' ?",
-    "answer": "Charlotte Brontë",
-    "badAnswers": [
-      "Emily Brontë",
-      "Jane Austen",
-      "George Eliot"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Charlotte Brontë a écrit Jane Eyre (1847), un roman sur une gouvernante et son amour pour Mr. Rochester. Emily Brontë, Austen et Eliot sont d'autres écrivaines, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "2126",
-    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
-    "answer": "André Malraux",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
+    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
   },
   {
-    "id": "717",
-    "question": "Quelle version de tengu possède un bec et des plumes de corbeau ?",
-    "answer": "Karasu-tengu",
+    "id": "204",
+    "question": "Quel est le nom du premier album des Black Eyed Peas ?",
+    "answer": "Behind the Front",
     "badAnswers": [
-      "Tengu",
-      "Oni",
-      "Kappa"
+      "Bridging the Gap",
+      "Elephunk",
+      "Monkey Business"
+    ],
+    "category": "Musique",
+    "difficulty": "difficile",
+    "description": "'Behind the Front' (1998) est le premier album du groupe, avant leur succès mondial. 'Elephunk' (2003) inclut 'Where Is the Love?', et 'Monkey Business' (2005) 'My Humps'."
+  },
+  {
+    "id": "1362",
+    "question": "Quel est la capitale des Bahamas ?",
+    "answer": "Nassau",
+    "badAnswers": [
+      "Freeport",
+      "Marsh Harbour",
+      "George Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+  },
+  {
+    "id": "1201",
+    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Beatles",
+      "The Who",
+      "The Kinks"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
+  },
+  {
+    "id": "1734",
+    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
+    "answer": "Zeus",
+    "badAnswers": [
+      "Apollon",
+      "Hermès",
+      "Dionysos"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Karasu-tengu est une variante de tengu à tête de corbeau, souvent messager des dieux."
+    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
   },
   {
-    "id": "1387",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
-    "answer": "Dysprosium",
+    "id": "1273",
+    "question": "Quel est le nom de l'inventeur de la lampe à incandescence commercialement viable ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "Dysnomium",
-      "Dubnium",
-      "Darmstadtium"
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
-  },
-  {
-    "id": "1006",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
-    "answer": "BioShock",
-    "badAnswers": [
-      "Half-Life",
-      "Portal",
-      "Dead Space"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, la rendant pratique pour un usage domestique et commercial."
   }
 ]
