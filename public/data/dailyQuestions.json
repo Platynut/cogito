@@ -1,7 +1,85 @@
 [
   {
-    "id": "1897",
-    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
+    "id": "479",
+    "question": "Quel artiste a peint Le Jardin des délices ?",
+    "answer": "Jérôme Bosch",
+    "badAnswers": [
+      "Pieter Bruegel l'Ancien",
+      "Albrecht Dürer",
+      "Jan van Eyck"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
+  },
+  {
+    "id": "1713",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
+  },
+  {
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
+    "badAnswers": [
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+  },
+  {
+    "id": "1234",
+    "question": "Quel est le nom du dieu grec de la justice ?",
+    "answer": "Thémis",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
+  },
+  {
+    "id": "7",
+    "question": "Quel est le système d'exploitation mobile développé par Google ?",
+    "answer": "Android",
+    "badAnswers": [
+      "iOS",
+      "Windows Phone",
+      "Symbian"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
+  },
+  {
+    "id": "9",
+    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
+    "answer": "Queen",
+    "badAnswers": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Ce titre emblématique de 1975 combine avec brio rock, opéra et ballade, mettant en lumière l’éclectisme musical et la créativité audacieuse du groupe Queen, qui a su repousser les frontières du genre."
+  },
+  {
+    "id": "2032",
+    "question": "Quel est le nom du groupe qui a chanté 'You Won't See Me' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -9,124 +87,46 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1116",
-    "question": "Quel est le nom du dieu grec du commerce et des voyageurs ?",
-    "answer": "Hermès",
-    "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hermès, dieu grec du commerce, des voyageurs et des voleurs, est souvent représenté avec des sandales ailées et un caducée."
-  },
-  {
-    "id": "244",
-    "question": "Quel est l’exutoire de la rivière Drac, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
-    "answer": "L’Isère",
-    "badAnswers": [
-      "La Durance",
-      "Le Rhône",
-      "Le Giffre"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le Drac, rivière des Alpes, rejoint l'Isère près de Grenoble. La Durance est un affluent du Rhône, le Giffre un affluent de l'Arve."
-  },
-  {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
-  },
-  {
-    "id": "1224",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Chrono Trigger",
-      "Dragon Quest"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
+    "description": "'You Won't See Me', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
   },
   {
-    "id": "204",
-    "question": "Quel est le nom du premier album des Black Eyed Peas ?",
-    "answer": "Behind the Front",
+    "id": "564",
+    "question": "Quel est la capitale du Pérou ?",
+    "answer": "Lima",
     "badAnswers": [
-      "Bridging the Gap",
-      "Elephunk",
-      "Monkey Business"
-    ],
-    "category": "Musique",
-    "difficulty": "difficile",
-    "description": "'Behind the Front' (1998) est le premier album du groupe, avant leur succès mondial. 'Elephunk' (2003) inclut 'Where Is the Love?', et 'Monkey Business' (2005) 'My Humps'."
-  },
-  {
-    "id": "1362",
-    "question": "Quel est la capitale des Bahamas ?",
-    "answer": "Nassau",
-    "badAnswers": [
-      "Freeport",
-      "Marsh Harbour",
-      "George Town"
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
   },
   {
-    "id": "1201",
-    "question": "Quel est le nom du groupe qui a chanté 'Paint It Black' ?",
-    "answer": "The Rolling Stones",
+    "id": "556",
+    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
     "badAnswers": [
-      "The Beatles",
-      "The Who",
-      "The Kinks"
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Isaac Newton"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Paint It Black', sorti en 1966 par The Rolling Stones, est une chanson rock psychédélique connue pour son utilisation du sitar."
-  },
-  {
-    "id": "1734",
-    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
-    "answer": "Zeus",
-    "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
   },
   {
-    "id": "1273",
-    "question": "Quel est le nom de l'inventeur de la lampe à incandescence commercialement viable ?",
-    "answer": "Thomas Edison",
+    "id": "2116",
+    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
+    "answer": "Godfrey Hounsfield",
     "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "Raymond Damadian",
+      "Paul Lauterbur",
+      "Peter Mansfield"
     ],
-    "category": "Histoire",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, la rendant pratique pour un usage domestique et commercial."
+    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
   }
 ]
