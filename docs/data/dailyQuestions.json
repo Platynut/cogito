@@ -1,85 +1,33 @@
 [
   {
-    "id": "479",
-    "question": "Quel artiste a peint Le Jardin des délices ?",
-    "answer": "Jérôme Bosch",
+    "id": "1925",
+    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
+    "answer": "Michel Leiris",
     "badAnswers": [
-      "Pieter Bruegel l'Ancien",
-      "Albrecht Dürer",
-      "Jan van Eyck"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Art",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le Jardin des délices (vers 1490–1510) de Jérôme Bosch est un triptyque fantastique explorant le paradis, l'enfer et les péchés humains. Bruegel, Dürer et van Eyck sont d'autres peintres de la Renaissance nordique, mais n'ont pas peint cette œuvre."
+    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
   },
   {
-    "id": "1713",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Raichu ?",
-    "answer": "Pokémon",
+    "id": "1556",
+    "question": "Quel est la capitale du Cap-Vert ?",
+    "answer": "Praia",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Raichu, Pokémon de type électrique, est l'évolution de Pikachu dans la série Pokémon, connu pour sa puissance électrique."
-  },
-  {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
-    "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
+      "Mindelo",
+      "Sal",
+      "Santo Antão"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
+    "description": "Praia, capitale du Cap-Vert, est une ville côtière sur l'île de Santiago, connue pour sa plage de Quebra Canela."
   },
   {
-    "id": "1234",
-    "question": "Quel est le nom du dieu grec de la justice ?",
-    "answer": "Thémis",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
-  },
-  {
-    "id": "7",
-    "question": "Quel est le système d'exploitation mobile développé par Google ?",
-    "answer": "Android",
-    "badAnswers": [
-      "iOS",
-      "Windows Phone",
-      "Symbian"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
-  },
-  {
-    "id": "9",
-    "question": "Quel groupe a chanté 'Bohemian Rhapsody' ?",
-    "answer": "Queen",
-    "badAnswers": [
-      "The Beatles",
-      "Led Zeppelin",
-      "Pink Floyd"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Ce titre emblématique de 1975 combine avec brio rock, opéra et ballade, mettant en lumière l’éclectisme musical et la créativité audacieuse du groupe Queen, qui a su repousser les frontières du genre."
-  },
-  {
-    "id": "2032",
-    "question": "Quel est le nom du groupe qui a chanté 'You Won't See Me' ?",
+    "id": "2035",
+    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -88,45 +36,97 @@
     ],
     "category": "Musique",
     "difficulty": "normal",
-    "description": "'You Won't See Me', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
+    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "564",
-    "question": "Quel est la capitale du Pérou ?",
-    "answer": "Lima",
+    "id": "1224",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
+    "answer": "Final Fantasy VII",
     "badAnswers": [
-      "Cusco",
-      "Arequipa",
-      "Trujillo"
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Dragon Quest"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
+  },
+  {
+    "id": "1309",
+    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
+    "answer": "Alessandro Volta",
+    "badAnswers": [
+      "Michael Faraday",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
+  },
+  {
+    "id": "941",
+    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
+    "answer": "Lishana Deni",
+    "badAnswers": [
+      "Hulaulá",
+      "Lishan Didan",
+      "Chaldéen néo-araméen"
     ],
     "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
+  },
+  {
+    "id": "1743",
+    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
+    "answer": "Émile Zola",
+    "badAnswers": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
+  },
+  {
+    "id": "2133",
+    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "answer": "Jean Cocteau",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
+  },
+  {
+    "id": "2051",
+    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
   },
   {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
+    "id": "822",
+    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
+    "answer": "Severus Rogue",
     "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
+      "Horace Slughorn",
+      "Remus Lupin",
+      "Gilderoy Lockhart"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
-  },
-  {
-    "id": "2116",
-    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
-    "answer": "Godfrey Hounsfield",
-    "badAnswers": [
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
   }
 ]
