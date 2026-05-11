@@ -1,98 +1,124 @@
 [
   {
-    "id": "1925",
-    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
-    "answer": "Michel Leiris",
+    "id": "23",
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Jules Verne",
+      "Victor Hugo",
+      "Albert Camus"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
   },
   {
-    "id": "1556",
-    "question": "Quel est la capitale du Cap-Vert ?",
-    "answer": "Praia",
+    "id": "175",
+    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Mindelo",
-      "Sal",
-      "Santo Antão"
+      "Espagne",
+      "Yémen",
+      "Inde"
     ],
-    "category": "Géographie",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "Praia, capitale du Cap-Vert, est une ville côtière sur l'île de Santiago, connue pour sa plage de Quebra Canela."
+    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
   },
   {
-    "id": "2035",
-    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
-    "answer": "The Beatles",
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1224",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Chrono Trigger",
-      "Dragon Quest"
+      "Palkia",
+      "Giratina",
+      "Arceus"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
   },
   {
-    "id": "1309",
-    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
-    "answer": "Alessandro Volta",
+    "id": "692",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
+    "answer": "Alduin",
     "badAnswers": [
-      "Michael Faraday",
-      "Thomas Edison",
-      "Nikola Tesla"
+      "Paarthurnax",
+      "Odahviing",
+      "Durnehviir"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
   },
   {
-    "id": "941",
-    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
-    "answer": "Lishana Deni",
+    "id": "1381",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
+    "answer": "Kramer vs. Kramer",
     "badAnswers": [
-      "Hulaulá",
-      "Lishan Didan",
-      "Chaldéen néo-araméen"
+      "Apocalypse Now",
+      "All That Jazz",
+      "Norma Rae"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
+  },
+  {
+    "id": "864",
+    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
+    "answer": "Toriel",
+    "badAnswers": [
+      "Sans",
+      "Papyrus",
+      "Undyne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
+  },
+  {
+    "id": "188",
+    "question": "Comment s’appelle le capitaine qui veut se venger de Moby-Dick dans le roman d’Hermann Melville ?",
+    "answer": "Capitaine Achab",
+    "badAnswers": [
+      "Capitaine Crochet",
+      "Capitaine Fracasse",
+      "Capitaine Némo"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Le capitaine Achab, dans 'Moby-Dick', est obsédé par sa vengeance contre le cachalot blanc. Crochet est dans 'Peter Pan', Fracasse dans le roman de Théophile Gautier, et Némo dans '20 000 lieues sous les mers'."
+  },
+  {
+    "id": "1558",
+    "question": "Quel est la capitale de la Guinée équatoriale ?",
+    "answer": "Malabo",
+    "badAnswers": [
+      "Bata",
+      "Ebebiyín",
+      "Mongomo"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
-  },
-  {
-    "id": "1743",
-    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
-    "answer": "Émile Zola",
-    "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
+    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
   },
   {
-    "id": "2133",
-    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "id": "1484",
+    "question": "Quel est le nom du dieu grec du vent du nord ?",
+    "answer": "Borée",
+    "badAnswers": [
+      "Éole",
+      "Zéphyr",
+      "Notos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
+  },
+  {
+    "id": "2127",
+    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
     "answer": "Jean Cocteau",
     "badAnswers": [
       "Jean-Paul Sartre",
@@ -101,32 +127,6 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
-  },
-  {
-    "id": "2051",
-    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
-  },
-  {
-    "id": "822",
-    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
-    "answer": "Severus Rogue",
-    "badAnswers": [
-      "Horace Slughorn",
-      "Remus Lupin",
-      "Gilderoy Lockhart"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
+    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
   }
 ]
