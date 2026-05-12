@@ -1,132 +1,132 @@
 [
   {
-    "id": "23",
-    "question": "Qui a écrit 'Le Petit Prince' ?",
-    "answer": "Antoine de Saint-Exupéry",
+    "id": "1541",
+    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Jules Verne",
-      "Victor Hugo",
-      "Albert Camus"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
     ],
-    "category": "Littérature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
+    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
   },
   {
-    "id": "175",
-    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-    "answer": "Japon",
+    "id": "722",
+    "question": "Quel est le plus grand mammifère terrestre préhistorique connu ?",
+    "answer": "Mammouth laineux",
     "badAnswers": [
-      "Espagne",
-      "Yémen",
-      "Inde"
+      "Saber-tooth tiger",
+      "Megatherium",
+      "Mastodonte"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+    "category": "Animaux",
+    "difficulty": "difficile",
+    "description": "Le mammouth laineux est le plus grand mammifère terrestre préhistorique, pouvant atteindre 4 mètres de haut et peser jusqu'à 12 tonnes. Le tigre à dents de sabre, le mégathérium et le mastodonte sont plus petits."
   },
   {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
+    "id": "1628",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
-  },
-  {
-    "id": "692",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
-    "answer": "Alduin",
-    "badAnswers": [
-      "Paarthurnax",
-      "Odahviing",
-      "Durnehviir"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
+    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
   },
   {
-    "id": "1381",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
-    "answer": "Kramer vs. Kramer",
+    "id": "1494",
+    "question": "Quel est le nom de l'élément chimique avec le symbole U ?",
+    "answer": "Uranium",
     "badAnswers": [
-      "Apocalypse Now",
-      "All That Jazz",
-      "Norma Rae"
+      "Ununennium",
+      "Uranus",
+      "Ytterbium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'uranium, symbolisé par U, est un métal radioactif utilisé comme combustible dans les réacteurs nucléaires et dans les armes atomiques."
+  },
+  {
+    "id": "74",
+    "question": "Quelle épice est obtenue à partir du crocus ?",
+    "answer": "Safran",
+    "badAnswers": [
+      "Curcuma",
+      "Cannelle",
+      "Cardamome"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
+  },
+  {
+    "id": "303",
+    "question": "Qui a écrit la pièce Anges en Amérique ?",
+    "answer": "Tony Kushner",
+    "badAnswers": [
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
+    ],
+    "category": "Comédies musicales et théâtre",
+    "difficulty": "facile",
+    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
+  },
+  {
+    "id": "980",
+    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
+    "answer": "Luke la main froide",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "Le Lauréat",
+      "Dans la chaleur de la nuit"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
+    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
   },
   {
-    "id": "864",
-    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
-    "answer": "Toriel",
+    "id": "1915",
+    "question": "Quel est le nom du groupe qui a chanté 'Penny Lane' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Sans",
-      "Papyrus",
-      "Undyne"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
+    "description": "'Penny Lane', sorti en 1967 par The Beatles, est une chanson pop tirée de leur catalogue de singles."
   },
   {
-    "id": "188",
-    "question": "Comment s’appelle le capitaine qui veut se venger de Moby-Dick dans le roman d’Hermann Melville ?",
-    "answer": "Capitaine Achab",
+    "id": "605",
+    "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
+    "answer": "Tenjin",
     "badAnswers": [
-      "Capitaine Crochet",
-      "Capitaine Fracasse",
-      "Capitaine Némo"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Le capitaine Achab, dans 'Moby-Dick', est obsédé par sa vengeance contre le cachalot blanc. Crochet est dans 'Peter Pan', Fracasse dans le roman de Théophile Gautier, et Némo dans '20 000 lieues sous les mers'."
-  },
-  {
-    "id": "1558",
-    "question": "Quel est la capitale de la Guinée équatoriale ?",
-    "answer": "Malabo",
-    "badAnswers": [
-      "Bata",
-      "Ebebiyín",
-      "Mongomo"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
-  },
-  {
-    "id": "1484",
-    "question": "Quel est le nom du dieu grec du vent du nord ?",
-    "answer": "Borée",
-    "badAnswers": [
-      "Éole",
-      "Zéphyr",
-      "Notos"
+      "Hachiman",
+      "Jizo",
+      "Shitenno"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
+    "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
   },
   {
-    "id": "2127",
-    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
-    "answer": "Jean Cocteau",
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
   }
 ]
