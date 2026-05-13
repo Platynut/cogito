@@ -1,98 +1,59 @@
 [
   {
-    "id": "1541",
-    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
-    "answer": "Guns N' Roses",
+    "id": "238",
+    "question": "Le film Trainspotting décrit la démarche d'un ... ?",
+    "answer": "Drogué",
     "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "722",
-    "question": "Quel est le plus grand mammifère terrestre préhistorique connu ?",
-    "answer": "Mammouth laineux",
-    "badAnswers": [
-      "Saber-tooth tiger",
-      "Megatherium",
-      "Mastodonte"
-    ],
-    "category": "Animaux",
-    "difficulty": "difficile",
-    "description": "Le mammouth laineux est le plus grand mammifère terrestre préhistorique, pouvant atteindre 4 mètres de haut et peser jusqu'à 12 tonnes. Le tigre à dents de sabre, le mégathérium et le mastodonte sont plus petits."
-  },
-  {
-    "id": "1628",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
-  },
-  {
-    "id": "1494",
-    "question": "Quel est le nom de l'élément chimique avec le symbole U ?",
-    "answer": "Uranium",
-    "badAnswers": [
-      "Ununennium",
-      "Uranus",
-      "Ytterbium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'uranium, symbolisé par U, est un métal radioactif utilisé comme combustible dans les réacteurs nucléaires et dans les armes atomiques."
-  },
-  {
-    "id": "74",
-    "question": "Quelle épice est obtenue à partir du crocus ?",
-    "answer": "Safran",
-    "badAnswers": [
-      "Curcuma",
-      "Cannelle",
-      "Cardamome"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
-  },
-  {
-    "id": "303",
-    "question": "Qui a écrit la pièce Anges en Amérique ?",
-    "answer": "Tony Kushner",
-    "badAnswers": [
-      "Tom Stoppard",
-      "Matthew Lopez",
-      "Anthony Neilson"
-    ],
-    "category": "Comédies musicales et théâtre",
-    "difficulty": "facile",
-    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
-  },
-  {
-    "id": "980",
-    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
-    "answer": "Luke la main froide",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "Le Lauréat",
-      "Dans la chaleur de la nuit"
+      "Stripteaseur",
+      "Tueur en série",
+      "Contrôleur de train"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+    "description": "'Trainspotting' (1996) suit des toxicomanes à Édimbourg, adapté du roman d'Irvine Welsh. Les autres métiers n'ont aucun lien avec le film."
   },
   {
-    "id": "1915",
-    "question": "Quel est le nom du groupe qui a chanté 'Penny Lane' ?",
+    "id": "1995",
+    "question": "Quel est le nom du dieu grec de la vigne et du vin ?",
+    "answer": "Dionysos",
+    "badAnswers": [
+      "Apollon",
+      "Arès",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Dionysos, dieu grec de la vigne, du vin et de l'extase, est souvent représenté avec une couronne de lierre."
+  },
+  {
+    "id": "1257",
+    "question": "Quel est le nom du dieu grec du feu ?",
+    "answer": "Héphaïstos",
+    "badAnswers": [
+      "Apollon",
+      "Arès",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+  },
+  {
+    "id": "1113",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
+    "answer": "Metal Gear Solid",
+    "badAnswers": [
+      "Splinter Cell",
+      "Hitman",
+      "Deus Ex"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+  },
+  {
+    "id": "2036",
+    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -100,33 +61,72 @@
       "The Doors"
     ],
     "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "1",
+    "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
+    "answer": "Afrique du Sud",
+    "badAnswers": [
+      "Australie",
+      "Nouvelle-Zélande",
+      "Angleterre"
+    ],
+    "category": "Sports",
     "difficulty": "facile",
-    "description": "'Penny Lane', sorti en 1967 par The Beatles, est une chanson pop tirée de leur catalogue de singles."
+    "description": "Les Springboks représentent l'Afrique du Sud depuis 1906. Leur nom vient de l'antilope springbok, animal emblématique du pays."
   },
   {
-    "id": "605",
-    "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
-    "answer": "Tenjin",
+    "id": "878",
+    "question": "Quel est le plus grand reptile aquatique actuel ?",
+    "answer": "Crocodile marin",
     "badAnswers": [
-      "Hachiman",
-      "Jizo",
-      "Shitenno"
+      "Alligator du Mississippi",
+      "Caiman noir",
+      "Tortue luth"
     ],
-    "category": "Mythologie",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
+    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
   },
   {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Yangon",
+      "Mandalay",
+      "Bago"
     ],
-    "category": "Mythologie",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+  },
+  {
+    "id": "2074",
+    "question": "Quel est le nom de l'auteur de 'Les Nourritures terrestres' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'Les Nourritures terrestres' (1897), un recueil poétique célébrant la liberté et les plaisirs."
+  },
+  {
+    "id": "2018",
+    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
   }
 ]
