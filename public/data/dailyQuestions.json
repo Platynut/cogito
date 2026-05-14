@@ -1,132 +1,132 @@
 [
   {
-    "id": "238",
-    "question": "Le film Trainspotting décrit la démarche d'un ... ?",
-    "answer": "Drogué",
+    "id": "1267",
+    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
+    "answer": "Arsenic",
     "badAnswers": [
-      "Stripteaseur",
-      "Tueur en série",
-      "Contrôleur de train"
+      "Antimoine",
+      "Argon",
+      "Astatine"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "'Trainspotting' (1996) suit des toxicomanes à Édimbourg, adapté du roman d'Irvine Welsh. Les autres métiers n'ont aucun lien avec le film."
+    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
   },
   {
-    "id": "1995",
-    "question": "Quel est le nom du dieu grec de la vigne et du vin ?",
-    "answer": "Dionysos",
+    "id": "619",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
+    "answer": "Alain-Fournier",
     "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Hermès"
+      "Marcel Proust",
+      "André Gide",
+      "François Mauriac"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Dionysos, dieu grec de la vigne, du vin et de l'extase, est souvent représenté avec une couronne de lierre."
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1257",
-    "question": "Quel est le nom du dieu grec du feu ?",
-    "answer": "Héphaïstos",
+    "id": "397",
+    "question": "Quel est le plus grand poisson du monde ?",
+    "answer": "Requin-baleine",
     "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Hermès"
+      "Requin blanc",
+      "Baleine bleue",
+      "Manta"
     ],
-    "category": "Mythologie",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
   },
   {
-    "id": "1113",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Solid Snake ?",
-    "answer": "Metal Gear Solid",
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
     "badAnswers": [
-      "Splinter Cell",
-      "Hitman",
-      "Deus Ex"
+      "Vénus",
+      "Jupiter",
+      "Saturne"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
+  },
+  {
+    "id": "1420",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Solid Snake est le protagoniste emblématique de la série Metal Gear Solid, un agent secret infiltrant des installations ennemies."
+    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
   },
   {
-    "id": "2036",
-    "question": "Quel est le nom du groupe qui a chanté 'Wait' ?",
-    "answer": "The Beatles",
+    "id": "1582",
+    "question": "Quel est la capitale de l'Érythrée ?",
+    "answer": "Asmara",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Wait', sorti en 1965 par The Beatles, est une chanson pop-rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "1",
-    "question": "Quelle équipe de rugby est surnommée 'les Springboks' ?",
-    "answer": "Afrique du Sud",
-    "badAnswers": [
-      "Australie",
-      "Nouvelle-Zélande",
-      "Angleterre"
-    ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "Les Springboks représentent l'Afrique du Sud depuis 1906. Leur nom vient de l'antilope springbok, animal emblématique du pays."
-  },
-  {
-    "id": "878",
-    "question": "Quel est le plus grand reptile aquatique actuel ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Alligator du Mississippi",
-      "Caiman noir",
-      "Tortue luth"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
-  },
-  {
-    "id": "1466",
-    "question": "Quel est la capitale du Myanmar ?",
-    "answer": "Naypyidaw",
-    "badAnswers": [
-      "Yangon",
-      "Mandalay",
-      "Bago"
+      "Massawa",
+      "Keren",
+      "Assab"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
   },
   {
-    "id": "2074",
-    "question": "Quel est le nom de l'auteur de 'Les Nourritures terrestres' ?",
-    "answer": "André Gide",
+    "id": "373",
+    "question": "Dans Star Wars, quel est le nom de l’ordre monastique qui utilise la Force ?",
+    "answer": "Jedi",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Sith",
+      "Mandaloriens",
+      "Chasseurs de primes"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Les Jedi sont un ordre monastique dans Star Wars qui utilise la Force pour maintenir la paix et la justice. Ils manient des sabres lasers et suivent un code éthique. Les Sith sont leurs antagonistes, les Mandaloriens sont des guerriers, et les chasseurs de primes ne sont pas liés à la Force."
+  },
+  {
+    "id": "1062",
+    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
+    "answer": "Michael Jackson",
+    "badAnswers": [
+      "The Jackson 5",
+      "Prince",
+      "Stevie Wonder"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
+  },
+  {
+    "id": "1987",
+    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
+    "answer": "Theodore Maiman",
+    "badAnswers": [
+      "Gordon Gould",
+      "Charles Townes",
+      "Arthur Schawlow"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
+  },
+  {
+    "id": "1809",
+    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
+    "answer": "Guy de Maupassant",
+    "badAnswers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Nourritures terrestres' (1897), un recueil poétique célébrant la liberté et les plaisirs."
-  },
-  {
-    "id": "2018",
-    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
+    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
   }
 ]
