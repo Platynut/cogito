@@ -1,132 +1,132 @@
 [
   {
-    "id": "1267",
-    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
-    "answer": "Arsenic",
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
     "badAnswers": [
-      "Antimoine",
-      "Argon",
-      "Astatine"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
-  },
-  {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
-    "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "397",
-    "question": "Quel est le plus grand poisson du monde ?",
-    "answer": "Requin-baleine",
-    "badAnswers": [
-      "Requin blanc",
-      "Baleine bleue",
-      "Manta"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
-  },
-  {
-    "id": "194",
-    "question": "Quel est le nom de la planète rouge ?",
-    "answer": "Mars",
-    "badAnswers": [
-      "Vénus",
-      "Jupiter",
-      "Saturne"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
-  },
-  {
-    "id": "1420",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aerith Gainsborough ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Aerith Gainsborough, guérisseuse et membre d'AVALANCHE, est un personnage clé de Final Fantasy VII, connue pour son lien avec la planète."
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
   },
   {
-    "id": "1582",
-    "question": "Quel est la capitale de l'Érythrée ?",
-    "answer": "Asmara",
+    "id": "795",
+    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
+    "answer": "Sam Porter Bridges",
     "badAnswers": [
-      "Massawa",
-      "Keren",
-      "Assab"
+      "Cliff Unger",
+      "Die-Hardman",
+      "Fragile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
+  },
+  {
+    "id": "1531",
+    "question": "Quel est la capitale du Tchad ?",
+    "answer": "N'Djaména",
+    "badAnswers": [
+      "Moundou",
+      "Sarh",
+      "Abéché"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
+    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
   },
   {
-    "id": "373",
-    "question": "Dans Star Wars, quel est le nom de l’ordre monastique qui utilise la Force ?",
-    "answer": "Jedi",
+    "id": "357",
+    "question": "Dans The Sims, quel est le nom de la monnaie utilisée dans le jeu ?",
+    "answer": "Simflouz",
     "badAnswers": [
-      "Sith",
-      "Mandaloriens",
-      "Chasseurs de primes"
+      "Simoleons",
+      "Simdollars",
+      "Simcents"
     ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Les Jedi sont un ordre monastique dans Star Wars qui utilise la Force pour maintenir la paix et la justice. Ils manient des sabres lasers et suivent un code éthique. Les Sith sont leurs antagonistes, les Mandaloriens sont des guerriers, et les chasseurs de primes ne sont pas liés à la Force."
+    "description": "Dans The Sims, la monnaie utilisée est appelée Simflouz en français (Simoleons en anglais). C'est l'unité monétaire pour acheter des objets, construire des maisons, etc. Les autres options sont des termes inventés ou incorrects dans le contexte du jeu."
   },
   {
-    "id": "1062",
-    "question": "Quel est le nom du groupe qui a chanté 'Billie Jean' ?",
-    "answer": "Michael Jackson",
+    "id": "695",
+    "question": "Quel est le nom du plus haut sommet d'Asie ?",
+    "answer": "Everest",
     "badAnswers": [
-      "The Jackson 5",
-      "Prince",
-      "Stevie Wonder"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Everest, dans l'Himalaya, est le plus haut sommet d'Asie et du monde, culminant à 8 848 mètres. K2, Kangchenjunga et Lhotse sont d'autres sommets himalayens, mais plus bas."
+  },
+  {
+    "id": "1200",
+    "question": "Quel est la capitale du Cameroun ?",
+    "answer": "Yaoundé",
+    "badAnswers": [
+      "Douala",
+      "Bamenda",
+      "Garoua"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Yaoundé, capitale du Cameroun, est une ville située dans une région vallonnée, centre administratif et politique du pays."
+  },
+  {
+    "id": "173",
+    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
+    "answer": "Serge Gainsbourg",
+    "badAnswers": [
+      "Jean-Jacques Goldman",
+      "Patrick Bruel",
+      "Nicola Sirkis"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Billie Jean', sorti en 1982 par Michael Jackson, est l'un des plus grands succès de l'album Thriller, marquant l'apogée de sa carrière."
+    "difficulty": "normal",
+    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
   },
   {
-    "id": "1987",
-    "question": "Quel est le nom de l'inventeur du premier système de laser à rubis ?",
-    "answer": "Theodore Maiman",
+    "id": "1482",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1958 ?",
+    "answer": "Gigi",
     "badAnswers": [
-      "Gordon Gould",
-      "Charles Townes",
-      "Arthur Schawlow"
+      "Cat on a Hot Tin Roof",
+      "The Defiant Ones",
+      "Separate Tables"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Gigi, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1958, une comédie musicale romantique sur une jeune Parisienne."
+  },
+  {
+    "id": "1305",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
+    "answer": "Philo Farnsworth",
+    "badAnswers": [
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Thomas Edison"
     ],
     "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Theodore Maiman a construit le premier laser à rubis fonctionnel en 1960, révolutionnant la technologie optique."
+    "difficulty": "difficile",
+    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
   },
   {
-    "id": "1809",
-    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
-    "answer": "Guy de Maupassant",
+    "id": "1106",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
+    "answer": "Star Fox",
     "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
+      "F-Zero",
+      "Metroid",
+      "Fire Emblem"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
+    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
   }
 ]
