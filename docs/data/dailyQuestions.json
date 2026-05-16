@@ -1,132 +1,132 @@
 [
   {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
+    "id": "1391",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
+    "answer": "Annie Hall",
     "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
-  },
-  {
-    "id": "795",
-    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
-    "answer": "Sam Porter Bridges",
-    "badAnswers": [
-      "Cliff Unger",
-      "Die-Hardman",
-      "Fragile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
-  },
-  {
-    "id": "1531",
-    "question": "Quel est la capitale du Tchad ?",
-    "answer": "N'Djaména",
-    "badAnswers": [
-      "Moundou",
-      "Sarh",
-      "Abéché"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
-  },
-  {
-    "id": "357",
-    "question": "Dans The Sims, quel est le nom de la monnaie utilisée dans le jeu ?",
-    "answer": "Simflouz",
-    "badAnswers": [
-      "Simoleons",
-      "Simdollars",
-      "Simcents"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans The Sims, la monnaie utilisée est appelée Simflouz en français (Simoleons en anglais). C'est l'unité monétaire pour acheter des objets, construire des maisons, etc. Les autres options sont des termes inventés ou incorrects dans le contexte du jeu."
-  },
-  {
-    "id": "695",
-    "question": "Quel est le nom du plus haut sommet d'Asie ?",
-    "answer": "Everest",
-    "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "L'Everest, dans l'Himalaya, est le plus haut sommet d'Asie et du monde, culminant à 8 848 mètres. K2, Kangchenjunga et Lhotse sont d'autres sommets himalayens, mais plus bas."
-  },
-  {
-    "id": "1200",
-    "question": "Quel est la capitale du Cameroun ?",
-    "answer": "Yaoundé",
-    "badAnswers": [
-      "Douala",
-      "Bamenda",
-      "Garoua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Yaoundé, capitale du Cameroun, est une ville située dans une région vallonnée, centre administratif et politique du pays."
-  },
-  {
-    "id": "173",
-    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
-    "answer": "Serge Gainsbourg",
-    "badAnswers": [
-      "Jean-Jacques Goldman",
-      "Patrick Bruel",
-      "Nicola Sirkis"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
-  },
-  {
-    "id": "1482",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1958 ?",
-    "answer": "Gigi",
-    "badAnswers": [
-      "Cat on a Hot Tin Roof",
-      "The Defiant Ones",
-      "Separate Tables"
+      "Star Wars",
+      "Close Encounters of the Third Kind",
+      "The Goodbye Girl"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Gigi, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1958, une comédie musicale romantique sur une jeune Parisienne."
+    "description": "Annie Hall, réalisé par Woody Allen, a remporté l'Oscar du meilleur film en 1977, une comédie romantique sur l'amour et la névrose."
   },
   {
-    "id": "1305",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur électronique ?",
-    "answer": "Philo Farnsworth",
+    "id": "1128",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
+    "answer": "Moonlight",
     "badAnswers": [
-      "John Logie Baird",
-      "Vladimir Zworykin",
-      "Thomas Edison"
+      "La La Land",
+      "Manchester by the Sea",
+      "Hacksaw Ridge"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Philo Farnsworth a inventé le premier téléviseur électronique en 1927, utilisant un tube à rayons cathodiques pour transmettre des images."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
   },
   {
-    "id": "1106",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
-    "answer": "Star Fox",
+    "id": "1540",
+    "question": "Quel est la capitale du Gabon ?",
+    "answer": "Libreville",
     "badAnswers": [
-      "F-Zero",
-      "Metroid",
-      "Fire Emblem"
+      "Port-Gentil",
+      "Franceville",
+      "Oyem"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+  },
+  {
+    "id": "1084",
+    "question": "Quel est le nom du groupe qui a chanté 'Imagine' ?",
+    "answer": "John Lennon",
+    "badAnswers": [
+      "The Beatles",
+      "Wings",
+      "Oasis"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Imagine', sorti en 1971 par John Lennon, est une chanson emblématique prônant la paix et l'harmonie, devenue un hymne universel."
+  },
+  {
+    "id": "992",
+    "question": "Qui est le principal antagoniste dans Call of Duty: Black Ops II ?",
+    "answer": "Raul Menendez",
+    "badAnswers": [
+      "Vladimir Makarov",
+      "Frank Woods",
+      "DeFalco"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
+    "description": "Raul Menendez est l'antagoniste central de Call of Duty: Black Ops II, un chef révolutionnaire motivé par la vengeance contre les puissances occidentales."
+  },
+  {
+    "id": "1880",
+    "question": "Quel est le nom du groupe qui a chanté 'Foxy Lady' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Foxy Lady', sorti en 1967 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
+  },
+  {
+    "id": "1151",
+    "question": "Quel est le nom du dieu grec des rêves ?",
+    "answer": "Morpheus",
+    "badAnswers": [
+      "Hypnos",
+      "Thanatos",
+      "Éros"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+  },
+  {
+    "id": "1526",
+    "question": "Quel est la capitale du Mali ?",
+    "answer": "Bamako",
+    "badAnswers": [
+      "Ségou",
+      "Mopti",
+      "Tombouctou"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
+  },
+  {
+    "id": "470",
+    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
+    "answer": "Zarya",
+    "badAnswers": [
+      "Mei",
+      "Winston",
+      "Symmetra"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
   }
 ]
