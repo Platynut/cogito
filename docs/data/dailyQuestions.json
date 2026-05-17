@@ -1,132 +1,132 @@
 [
   {
-    "id": "1391",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
-    "answer": "Annie Hall",
+    "id": "716",
+    "question": "Quel vieil homme yōkai s'invite chez les gens comme s'il était chez lui ?",
+    "answer": "Nurarihyon",
     "badAnswers": [
-      "Star Wars",
-      "Close Encounters of the Third Kind",
-      "The Goodbye Girl"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Annie Hall, réalisé par Woody Allen, a remporté l'Oscar du meilleur film en 1977, une comédie romantique sur l'amour et la névrose."
-  },
-  {
-    "id": "1128",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2016 ?",
-    "answer": "Moonlight",
-    "badAnswers": [
-      "La La Land",
-      "Manchester by the Sea",
-      "Hacksaw Ridge"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Moonlight, réalisé par Barry Jenkins, a remporté l'Oscar du meilleur film en 2016, explorant l'identité et la sexualité à travers l'histoire de Chiron."
-  },
-  {
-    "id": "1540",
-    "question": "Quel est la capitale du Gabon ?",
-    "answer": "Libreville",
-    "badAnswers": [
-      "Port-Gentil",
-      "Franceville",
-      "Oyem"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
-  },
-  {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
-  },
-  {
-    "id": "1084",
-    "question": "Quel est le nom du groupe qui a chanté 'Imagine' ?",
-    "answer": "John Lennon",
-    "badAnswers": [
-      "The Beatles",
-      "Wings",
-      "Oasis"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Imagine', sorti en 1971 par John Lennon, est une chanson emblématique prônant la paix et l'harmonie, devenue un hymne universel."
-  },
-  {
-    "id": "992",
-    "question": "Qui est le principal antagoniste dans Call of Duty: Black Ops II ?",
-    "answer": "Raul Menendez",
-    "badAnswers": [
-      "Vladimir Makarov",
-      "Frank Woods",
-      "DeFalco"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Raul Menendez est l'antagoniste central de Call of Duty: Black Ops II, un chef révolutionnaire motivé par la vengeance contre les puissances occidentales."
-  },
-  {
-    "id": "1880",
-    "question": "Quel est le nom du groupe qui a chanté 'Foxy Lady' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Foxy Lady', sorti en 1967 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "1151",
-    "question": "Quel est le nom du dieu grec des rêves ?",
-    "answer": "Morpheus",
-    "badAnswers": [
-      "Hypnos",
-      "Thanatos",
-      "Éros"
+      "Zashiki-warashi",
+      "Tengu",
+      "Karasu-tengu"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+    "description": "Le Nurarihyon se comporte comme le maître des lieux quand il pénètre dans une maison."
   },
   {
-    "id": "1526",
-    "question": "Quel est la capitale du Mali ?",
-    "answer": "Bamako",
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
     "badAnswers": [
-      "Ségou",
-      "Mopti",
-      "Tombouctou"
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Bamako, capitale du Mali, est une ville animée sur le fleuve Niger, connue pour ses marchés et son musée national."
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
   },
   {
-    "id": "470",
-    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
-    "answer": "Zarya",
+    "id": "1583",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Emotion' ?",
+    "answer": "Aerosmith",
     "badAnswers": [
-      "Mei",
-      "Winston",
-      "Symmetra"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sweet Emotion', sorti en 1975 par Aerosmith, est une chanson rock tirée de l'album Toys in the Attic."
+  },
+  {
+    "id": "1363",
+    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
+    "answer": "Red Hot Chili Peppers",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Foo Fighters"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
+  },
+  {
+    "id": "269",
+    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
+    "answer": "Singes",
+    "badAnswers": [
+      "Chats",
+      "Pigeons",
+      "Lézards"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
+    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
+  },
+  {
+    "id": "1179",
+    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
+    "answer": "Bruce Springsteen",
+    "badAnswers": [
+      "Bob Dylan",
+      "Tom Petty",
+      "John Mellencamp"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
+  },
+  {
+    "id": "2054",
+    "question": "Quel est le nom du dieu grec du mariage ?",
+    "answer": "Hyménaios",
+    "badAnswers": [
+      "Apollon",
+      "Arès",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hyménaios, dieu grec du mariage, est souvent représenté comme un jeune homme portant une torche lors des cérémonies nuptiales."
+  },
+  {
+    "id": "1479",
+    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
+    "answer": "Depeche Mode",
+    "badAnswers": [
+      "New Order",
+      "The Cure",
+      "Duran Duran"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
+  },
+  {
+    "id": "340",
+    "question": "Dans Mass Effect, quel est le nom du vaisseau du commandant Shepard ?",
+    "answer": "Normandy",
+    "badAnswers": [
+      "Citadel",
+      "Destiny Ascension",
+      "Tempest"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Normandy est le vaisseau emblématique du commandant Shepard dans la trilogie Mass Effect, servant de base mobile pour l'équipe. Conçu avec une technologie furtive, il est central à l'histoire. La Citadel est une station spatiale, la Destiny Ascension un vaisseau asari, et le Tempest apparaît dans Mass Effect: Andromeda."
+  },
+  {
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
+    "badAnswers": [
+      "Algérie",
+      "Tunisie",
+      "Égypte"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   }
 ]
