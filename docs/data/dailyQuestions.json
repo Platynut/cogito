@@ -1,132 +1,132 @@
 [
   {
-    "id": "716",
-    "question": "Quel vieil homme yōkai s'invite chez les gens comme s'il était chez lui ?",
-    "answer": "Nurarihyon",
+    "id": "2134",
+    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
+    "answer": "Edward Jenner",
     "badAnswers": [
-      "Zashiki-warashi",
-      "Tengu",
-      "Karasu-tengu"
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Albert Sabin"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Le Nurarihyon se comporte comme le maître des lieux quand il pénètre dans une maison."
+    "category": "Médecine",
+    "difficulty": "facile",
+    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
   },
   {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
+    "id": "312",
+    "question": "Quel gaz, découvert sur le soleil avant la Terre, est le deuxième élément le plus abondant dans l'univers ?",
+    "answer": "Hélium",
     "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
+      "Hydrogène",
+      "Oxygène",
+      "Azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'hélium a été découvert sur le soleil en 1868 par spectroscopie, avant d'être identifié sur Terre. C'est le deuxième élément le plus abondant dans l'univers après l'hydrogène, constituant une part importante des étoiles. L'hydrogène est le plus abondant, tandis que l'oxygène et l'azote sont moins présents à l'échelle cosmique."
+  },
+  {
+    "id": "1457",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tl ?",
+    "answer": "Thallium",
+    "badAnswers": [
+      "Tellure",
+      "Thorium",
+      "Technétium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le thallium, symbolisé par Tl, est un métal toxique autrefois utilisé dans les poisons et aujourd'hui dans certains appareils électroniques."
+  },
+  {
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
+    "badAnswers": [
+      "Guépard",
+      "Martinet",
+      "Voilier"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
+  },
+  {
+    "id": "163",
+    "question": "Qui a été élu 'Personnalité de l’année 2022' par le magazine américain Time ?",
+    "answer": "Volodymyr Zelensky",
+    "badAnswers": [
+      "Elon Musk",
+      "Vladimir Poutine",
+      "Kanye West"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Volodymyr Zelensky, président ukrainien, a été élu par le Time pour sa résistance lors de l'invasion russe. Elon Musk (Tesla), Poutine et Kanye West étaient également médiatisés mais non primés."
+  },
+  {
+    "id": "19",
+    "question": "Quel peintre a coupé une partie de son oreille ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+  },
+  {
+    "id": "1810",
+    "question": "Quel est la capitale du Sierra Leone ?",
+    "answer": "Freetown",
+    "badAnswers": [
+      "Bo",
+      "Kenema",
+      "Makeni"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
   },
   {
-    "id": "1583",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Emotion' ?",
-    "answer": "Aerosmith",
+    "id": "993",
+    "question": "Qui fut le 40e président des États-Unis ?",
+    "answer": "Ronald Reagan",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Sweet Emotion', sorti en 1975 par Aerosmith, est une chanson rock tirée de l'album Toys in the Attic."
-  },
-  {
-    "id": "1363",
-    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
-    "answer": "Red Hot Chili Peppers",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Foo Fighters"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
-  },
-  {
-    "id": "269",
-    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
-    "answer": "Singes",
-    "badAnswers": [
-      "Chats",
-      "Pigeons",
-      "Lézards"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
+    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
   },
   {
-    "id": "1179",
-    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
-    "answer": "Bruce Springsteen",
+    "id": "175",
+    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Bob Dylan",
-      "Tom Petty",
-      "John Mellencamp"
+      "Espagne",
+      "Yémen",
+      "Inde"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
-  },
-  {
-    "id": "2054",
-    "question": "Quel est le nom du dieu grec du mariage ?",
-    "answer": "Hyménaios",
-    "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Hermès"
-    ],
-    "category": "Mythologie",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "Hyménaios, dieu grec du mariage, est souvent représenté comme un jeune homme portant une torche lors des cérémonies nuptiales."
+    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
   },
   {
-    "id": "1479",
-    "question": "Quel est le nom du groupe qui a chanté 'Enjoy the Silence' ?",
-    "answer": "Depeche Mode",
+    "id": "252",
+    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
+    "answer": "Anticyclone des Açores",
     "badAnswers": [
-      "New Order",
-      "The Cure",
-      "Duran Duran"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Enjoy the Silence', sorti en 1990 par Depeche Mode, est une chanson synthpop tirée de l'album Violator."
-  },
-  {
-    "id": "340",
-    "question": "Dans Mass Effect, quel est le nom du vaisseau du commandant Shepard ?",
-    "answer": "Normandy",
-    "badAnswers": [
-      "Citadel",
-      "Destiny Ascension",
-      "Tempest"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Normandy est le vaisseau emblématique du commandant Shepard dans la trilogie Mass Effect, servant de base mobile pour l'équipe. Conçu avec une technologie furtive, il est central à l'histoire. La Citadel est une station spatiale, la Destiny Ascension un vaisseau asari, et le Tempest apparaît dans Mass Effect: Andromeda."
-  },
-  {
-    "id": "68",
-    "question": "Dans quel pays se trouve la ville de Marrakech ?",
-    "answer": "Maroc",
-    "badAnswers": [
-      "Algérie",
-      "Tunisie",
-      "Égypte"
+      "Anticyclone de Sainte-Hélène",
+      "Anticyclone de Lucifer",
+      "Anticyclone Alfredo"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
+    "difficulty": "normal",
+    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
   }
 ]
