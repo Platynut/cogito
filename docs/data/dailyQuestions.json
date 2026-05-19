@@ -1,132 +1,132 @@
 [
   {
-    "id": "2134",
-    "question": "Quel est le nom de l'inventeur du premier système de vaccin contre la variole ?",
-    "answer": "Edward Jenner",
+    "id": "1647",
+    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
+    "answer": "Blur",
     "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Albert Sabin"
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
-    "category": "Médecine",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Edward Jenner a développé le premier vaccin contre la variole en 1796, posant les bases de l'immunologie moderne."
+    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
   },
   {
-    "id": "312",
-    "question": "Quel gaz, découvert sur le soleil avant la Terre, est le deuxième élément le plus abondant dans l'univers ?",
-    "answer": "Hélium",
+    "id": "1897",
+    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Hydrogène",
-      "Oxygène",
-      "Azote"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'hélium a été découvert sur le soleil en 1868 par spectroscopie, avant d'être identifié sur Terre. C'est le deuxième élément le plus abondant dans l'univers après l'hydrogène, constituant une part importante des étoiles. L'hydrogène est le plus abondant, tandis que l'oxygène et l'azote sont moins présents à l'échelle cosmique."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "1457",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tl ?",
-    "answer": "Thallium",
+    "id": "1382",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
+    "answer": "Terbium",
     "badAnswers": [
-      "Tellure",
-      "Thorium",
+      "Thallium",
+      "Thulium",
       "Technétium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le thallium, symbolisé par Tl, est un métal toxique autrefois utilisé dans les poisons et aujourd'hui dans certains appareils électroniques."
+    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "1501",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1955 ?",
+    "answer": "Marty",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
+      "The Rose Tattoo",
+      "Love Is a Many-Splendored Thing",
+      "Mister Roberts"
     ],
-    "category": "Nature",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
+    "description": "Marty, réalisé par Delbert Mann, a remporté l'Oscar du meilleur film en 1955, une comédie dramatique sur un boucher en quête d'amour."
   },
   {
-    "id": "163",
-    "question": "Qui a été élu 'Personnalité de l’année 2022' par le magazine américain Time ?",
-    "answer": "Volodymyr Zelensky",
+    "id": "1969",
+    "question": "Quel est le nom du groupe qui a chanté 'Helter Skelter' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Elon Musk",
-      "Vladimir Poutine",
-      "Kanye West"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Volodymyr Zelensky, président ukrainien, a été élu par le Time pour sa résistance lors de l'invasion russe. Elon Musk (Tesla), Poutine et Kanye West étaient également médiatisés mais non primés."
-  },
-  {
-    "id": "19",
-    "question": "Quel peintre a coupé une partie de son oreille ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+    "description": "'Helter Skelter', sorti en 1968 par The Beatles, est une chanson proto-heavy metal tirée de l'album The White Album."
   },
   {
-    "id": "1810",
-    "question": "Quel est la capitale du Sierra Leone ?",
-    "answer": "Freetown",
+    "id": "618",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
+    "answer": "Bayonetta",
     "badAnswers": [
-      "Bo",
-      "Kenema",
-      "Makeni"
+      "Jeanne",
+      "Rodin",
+      "Luka"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Freetown, capitale du Sierra Leone, est une ville portuaire connue pour son histoire coloniale et son Cotton Tree."
+    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
   },
   {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
+    "id": "1686",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mew ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Mew, Pokémon légendaire de type psy, est une créature rare et mythique dans la série Pokémon."
   },
   {
-    "id": "175",
-    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-    "answer": "Japon",
+    "id": "1145",
+    "question": "Quel est le nom du groupe qui a chanté 'Somebody That I Used to Know' ?",
+    "answer": "Gotye",
     "badAnswers": [
-      "Espagne",
-      "Yémen",
-      "Inde"
+      "Foster the People",
+      "Fun.",
+      "The Lumineers"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Somebody That I Used to Know', sorti en 2011 par Gotye avec Kimbra, est une chanson pop devenue un succès mondial."
   },
   {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
+    "id": "831",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Électhor",
     "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
+      "Sulfura",
+      "Artikodin",
+      "Mewtwo"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
+  },
+  {
+    "id": "1290",
+    "question": "Quel est le nom de la déesse grecque de la lune ?",
+    "answer": "Séléné",
+    "badAnswers": [
+      "Artémis",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
   }
 ]
