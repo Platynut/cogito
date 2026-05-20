@@ -1,132 +1,132 @@
 [
   {
-    "id": "1647",
-    "question": "Quel est le nom du groupe qui a chanté 'Song 2' ?",
-    "answer": "Blur",
+    "id": "1162",
+    "question": "Quelle est la capitale administrative de la Bolivie ?",
+    "answer": "La Paz",
     "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
+      "Sucre",
+      "Santa Cruz",
+      "Cochabamba"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Song 2', sorti en 1997 par Blur, est une chanson britpop énergique tirée de l'album Blur."
+    "description": "La Paz est la capitale administrative de la Bolivie et la plus haute capitale du monde, située à plus de 3 600 mètres d'altitude."
   },
   {
-    "id": "1897",
-    "question": "Quel est le nom du groupe qui a chanté 'Something' ?",
-    "answer": "The Beatles",
+    "id": "1220",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cr ?",
+    "answer": "Chrome",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Something', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
-    "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "Cobalt",
+      "Cuivre",
+      "Césium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+    "difficulty": "facile",
+    "description": "Le chrome, symbolisé par Cr, est un métal utilisé pour ses propriétés anticorrosives, notamment dans l'acier inoxydable et le chromage."
   },
   {
-    "id": "1501",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1955 ?",
-    "answer": "Marty",
+    "id": "1563",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
+    "answer": "Cornelis Drebbel",
     "badAnswers": [
-      "The Rose Tattoo",
-      "Love Is a Many-Splendored Thing",
-      "Mister Roberts"
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
+  },
+  {
+    "id": "536",
+    "question": "Quel artiste a sculpté la Pietà ?",
+    "answer": "Michel-Ange",
+    "badAnswers": [
+      "Donatello",
+      "Bernin",
+      "Rodin"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Michel-Ange a sculpté la Pietà (1498–1499), une œuvre de la Renaissance représentant la Vierge Marie tenant Jésus. Donatello, Bernin et Rodin sont d'autres sculpteurs, mais n'ont pas créé cette œuvre."
+  },
+  {
+    "id": "263",
+    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
+    "answer": "The Walking Dead",
+    "badAnswers": [
+      "Game of Thrones",
+      "Stranger Things",
+      "Lost"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
+  },
+  {
+    "id": "702",
+    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
+    "answer": "Hache Léviathan",
+    "badAnswers": [
+      "Lames du Chaos",
+      "Marteau Mjöllnir",
+      "Épée d'Olympe"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
+  },
+  {
+    "id": "388",
+    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
+    "answer": "La Ruche",
+    "badAnswers": [
+      "Les Cabals",
+      "Les Vex",
+      "Les Déchus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
+  },
+  {
+    "id": "1328",
+    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
+    "answer": "Pixies",
+    "badAnswers": [
+      "Nirvana",
+      "Radiohead",
+      "The Smashing Pumpkins"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
+  },
+  {
+    "id": "672",
+    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
+    "answer": "Qui-Gon Jinn",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "Mace Windu"
     ],
     "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
+  },
+  {
+    "id": "612",
+    "question": "Quel est le plus grand oiseau de proie du monde ?",
+    "answer": "Condor des Andes",
+    "badAnswers": [
+      "Aigle harpie",
+      "Vautour royal",
+      "Aigle royal"
+    ],
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Marty, réalisé par Delbert Mann, a remporté l'Oscar du meilleur film en 1955, une comédie dramatique sur un boucher en quête d'amour."
-  },
-  {
-    "id": "1969",
-    "question": "Quel est le nom du groupe qui a chanté 'Helter Skelter' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Helter Skelter', sorti en 1968 par The Beatles, est une chanson proto-heavy metal tirée de l'album The White Album."
-  },
-  {
-    "id": "618",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Bayonetta ?",
-    "answer": "Bayonetta",
-    "badAnswers": [
-      "Jeanne",
-      "Rodin",
-      "Luka"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bayonetta est la protagoniste de la série Bayonetta et un personnage jouable dans Super Smash Bros. Ultimate, utilisant ses pouvoirs magiques. Jeanne, Rodin et Luka sont des personnages secondaires."
-  },
-  {
-    "id": "1686",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mew ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mew, Pokémon légendaire de type psy, est une créature rare et mythique dans la série Pokémon."
-  },
-  {
-    "id": "1145",
-    "question": "Quel est le nom du groupe qui a chanté 'Somebody That I Used to Know' ?",
-    "answer": "Gotye",
-    "badAnswers": [
-      "Foster the People",
-      "Fun.",
-      "The Lumineers"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Somebody That I Used to Know', sorti en 2011 par Gotye avec Kimbra, est une chanson pop devenue un succès mondial."
-  },
-  {
-    "id": "831",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Électhor",
-    "badAnswers": [
-      "Sulfura",
-      "Artikodin",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
-  },
-  {
-    "id": "1290",
-    "question": "Quel est le nom de la déesse grecque de la lune ?",
-    "answer": "Séléné",
-    "badAnswers": [
-      "Artémis",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
+    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
   }
 ]
