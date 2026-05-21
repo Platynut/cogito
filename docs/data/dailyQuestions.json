@@ -1,132 +1,132 @@
 [
   {
-    "id": "1162",
-    "question": "Quelle est la capitale administrative de la Bolivie ?",
-    "answer": "La Paz",
+    "id": "2114",
+    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Sucre",
-      "Santa Cruz",
-      "Cochabamba"
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Paz est la capitale administrative de la Bolivie et la plus haute capitale du monde, située à plus de 3 600 mètres d'altitude."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
   },
   {
-    "id": "1220",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cr ?",
-    "answer": "Chrome",
+    "id": "596",
+    "question": "Quel scientifique a découvert les lois de l'électromagnétisme ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Cobalt",
-      "Cuivre",
-      "Césium"
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Georg Ohm"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chrome, symbolisé par Cr, est un métal utilisé pour ses propriétés anticorrosives, notamment dans l'acier inoxydable et le chromage."
+    "difficulty": "normal",
+    "description": "Michael Faraday a posé les bases de l'électromagnétisme au XIXe siècle avec ses expériences sur l'induction électromagnétique. Maxwell a formalisé les équations, Ampère a étudié les courants, et Ohm la résistance."
   },
   {
-    "id": "1563",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin expérimental ?",
-    "answer": "Cornelis Drebbel",
+    "id": "1185",
+    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
+    "answer": "Samuel Morse",
     "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
     ],
     "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelis Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise pour la marine anglaise."
+    "difficulty": "normal",
+    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
   },
   {
-    "id": "536",
-    "question": "Quel artiste a sculpté la Pietà ?",
-    "answer": "Michel-Ange",
+    "id": "860",
+    "question": "Quel est le nom de la déesse grecque de l'amour ?",
+    "answer": "Aphrodite",
     "badAnswers": [
-      "Donatello",
-      "Bernin",
-      "Rodin"
+      "Athéna",
+      "Artémis",
+      "Héra"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Aphrodite est la déesse grecque de l'amour et de la beauté, souvent représentée avec une colombe. Athéna est la déesse de la sagesse, Artémis de la chasse, et Héra du mariage."
+  },
+  {
+    "id": "2012",
+    "question": "Quel est le nom de l'inventeur du premier système de transplantation cardiaque humaine ?",
+    "answer": "Christiaan Barnard",
+    "badAnswers": [
+      "Norman Shumway",
+      "Michael DeBakey",
+      "René Favaloro"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Christiaan Barnard a réalisé la première transplantation cardiaque humaine en 1967 en Afrique du Sud."
+  },
+  {
+    "id": "2",
+    "question": "Qui était le premier empereur romain ?",
+    "answer": "Auguste",
+    "badAnswers": [
+      "Jules César",
+      "Néron",
+      "Caligula"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Auguste (Octave) régna de 27 av. J.-C. à 14 ap. J.-C. Il mit fin à la République romaine et établit l'Empire."
+  },
+  {
+    "id": "12",
+    "question": "Quel fromage français est connu pour ses trous ?",
+    "answer": "Emmental",
+    "badAnswers": [
+      "Camembert",
+      "Roquefort",
+      "Brie"
+    ],
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
+  },
+  {
+    "id": "170",
+    "question": "Jeff Koons est surtout connu pour ses ... ?",
+    "answer": "Sculptures",
+    "badAnswers": [
+      "Tags",
+      "Peintures",
+      "Dessins"
     ],
     "category": "Art",
+    "difficulty": "normal",
+    "description": "Jeff Koons est célèbre pour ses sculptures kitsch en acier inoxydable, comme 'Balloon Dog'. Il n'est pas associé au street art (tags) ni à la peinture traditionnelle."
+  },
+  {
+    "id": "1823",
+    "question": "Quel est le nom de l'auteur de 'Voyage au centre de la Terre' ?",
+    "answer": "Jules Verne",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Michel-Ange a sculpté la Pietà (1498–1499), une œuvre de la Renaissance représentant la Vierge Marie tenant Jésus. Donatello, Bernin et Rodin sont d'autres sculpteurs, mais n'ont pas créé cette œuvre."
+    "description": "Jules Verne a écrit 'Voyage au centre de la Terre' (1864), un roman d'aventure scientifique sur une expédition souterraine."
   },
   {
-    "id": "263",
-    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
-    "answer": "The Walking Dead",
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
     "badAnswers": [
-      "Game of Thrones",
-      "Stranger Things",
-      "Lost"
+      "-2900",
+      "-10500",
+      "-3600"
     ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
-  },
-  {
-    "id": "702",
-    "question": "Dans God of War (2018), quel est le nom de l'arme principale de Kratos ?",
-    "answer": "Hache Léviathan",
-    "badAnswers": [
-      "Lames du Chaos",
-      "Marteau Mjöllnir",
-      "Épée d'Olympe"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "La Hache Léviathan est l'arme principale de Kratos dans God of War (2018), utilisée pour combattre dans le monde nordique. Les Lames du Chaos sont dans les jeux précédents, Mjöllnir est l'arme de Thor, et l'Épée d'Olympe est fictive."
-  },
-  {
-    "id": "388",
-    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
-    "answer": "La Ruche",
-    "badAnswers": [
-      "Les Cabals",
-      "Les Vex",
-      "Les Déchus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
-  },
-  {
-    "id": "1328",
-    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
-    "answer": "Pixies",
-    "badAnswers": [
-      "Nirvana",
-      "Radiohead",
-      "The Smashing Pumpkins"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
-  },
-  {
-    "id": "672",
-    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
-    "answer": "Qui-Gon Jinn",
-    "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Yoda",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
-  },
-  {
-    "id": "612",
-    "question": "Quel est le plus grand oiseau de proie du monde ?",
-    "answer": "Condor des Andes",
-    "badAnswers": [
-      "Aigle harpie",
-      "Vautour royal",
-      "Aigle royal"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau de proie, avec une envergure de 3 mètres et des serres puissantes, vivant en Amérique du Sud."
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
   }
 ]
