@@ -1,132 +1,132 @@
 [
   {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
+    "id": "2057",
+    "question": "Quel est le nom de l'auteur de 'L'Arrache-cœur' ?",
+    "answer": "Boris Vian",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Boris Vian a écrit 'L'Arrache-cœur' (1953), un roman surréaliste explorant la famille et la société."
+  },
+  {
+    "id": "46",
+    "question": "Quelle est la capitale de l'Italie ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Milan",
+      "Venise",
+      "Florence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
+  },
+  {
+    "id": "572",
+    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
+    "answer": "Atelier",
+    "badAnswers": [
+      "Confrérie",
+      "Église de la Guérison",
+      "Vilebloods"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+  },
+  {
+    "id": "541",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
+    "answer": "Shulk",
+    "badAnswers": [
+      "Rex",
+      "Pyra",
+      "Mythra"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
+  },
+  {
+    "id": "330",
+    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
+    "answer": "Spoutnik 1",
+    "badAnswers": [
+      "Explorer 1",
+      "Vostok 1",
+      "Telstar"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
+  },
+  {
+    "id": "1719",
+    "question": "Quel est le nom de l'auteur de 'La Nausée' ?",
     "answer": "Jean-Paul Sartre",
     "badAnswers": [
       "Albert Camus",
       "André Gide",
-      "Simone de Beauvoir"
+      "Marcel Proust"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
+    "description": "Jean-Paul Sartre a écrit 'La Nausée' (1938), un roman existentialiste explorant le sens de l'existence."
   },
   {
-    "id": "596",
-    "question": "Quel scientifique a découvert les lois de l'électromagnétisme ?",
-    "answer": "Michael Faraday",
+    "id": "1200",
+    "question": "Quel est la capitale du Cameroun ?",
+    "answer": "Yaoundé",
     "badAnswers": [
-      "James Clerk Maxwell",
-      "André-Marie Ampère",
-      "Georg Ohm"
+      "Douala",
+      "Bamenda",
+      "Garoua"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Yaoundé, capitale du Cameroun, est une ville située dans une région vallonnée, centre administratif et politique du pays."
+  },
+  {
+    "id": "134",
+    "question": "A quelle classe animale le scorpion appartient-il ?",
+    "answer": "Arachnide",
+    "badAnswers": [
+      "Mammifère",
+      "Reptile",
+      "Insecte"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
+  },
+  {
+    "id": "1100",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Smash Bros.",
+      "Animal Crossing",
+      "Splatoon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+  },
+  {
+    "id": "1318",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Rb ?",
+    "answer": "Rubidium",
+    "badAnswers": [
+      "Radon",
+      "Rhodium",
+      "Ruthénium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Michael Faraday a posé les bases de l'électromagnétisme au XIXe siècle avec ses expériences sur l'induction électromagnétique. Maxwell a formalisé les équations, Ampère a étudié les courants, et Ohm la résistance."
-  },
-  {
-    "id": "1185",
-    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
-    "answer": "Samuel Morse",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
-  },
-  {
-    "id": "860",
-    "question": "Quel est le nom de la déesse grecque de l'amour ?",
-    "answer": "Aphrodite",
-    "badAnswers": [
-      "Athéna",
-      "Artémis",
-      "Héra"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Aphrodite est la déesse grecque de l'amour et de la beauté, souvent représentée avec une colombe. Athéna est la déesse de la sagesse, Artémis de la chasse, et Héra du mariage."
-  },
-  {
-    "id": "2012",
-    "question": "Quel est le nom de l'inventeur du premier système de transplantation cardiaque humaine ?",
-    "answer": "Christiaan Barnard",
-    "badAnswers": [
-      "Norman Shumway",
-      "Michael DeBakey",
-      "René Favaloro"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Christiaan Barnard a réalisé la première transplantation cardiaque humaine en 1967 en Afrique du Sud."
-  },
-  {
-    "id": "2",
-    "question": "Qui était le premier empereur romain ?",
-    "answer": "Auguste",
-    "badAnswers": [
-      "Jules César",
-      "Néron",
-      "Caligula"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Auguste (Octave) régna de 27 av. J.-C. à 14 ap. J.-C. Il mit fin à la République romaine et établit l'Empire."
-  },
-  {
-    "id": "12",
-    "question": "Quel fromage français est connu pour ses trous ?",
-    "answer": "Emmental",
-    "badAnswers": [
-      "Camembert",
-      "Roquefort",
-      "Brie"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
-  },
-  {
-    "id": "170",
-    "question": "Jeff Koons est surtout connu pour ses ... ?",
-    "answer": "Sculptures",
-    "badAnswers": [
-      "Tags",
-      "Peintures",
-      "Dessins"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Jeff Koons est célèbre pour ses sculptures kitsch en acier inoxydable, comme 'Balloon Dog'. Il n'est pas associé au street art (tags) ni à la peinture traditionnelle."
-  },
-  {
-    "id": "1823",
-    "question": "Quel est le nom de l'auteur de 'Voyage au centre de la Terre' ?",
-    "answer": "Jules Verne",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Voyage au centre de la Terre' (1864), un roman d'aventure scientifique sur une expédition souterraine."
-  },
-  {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
-    "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
+    "description": "Le rubidium, symbolisé par Rb, est un métal alcalin utilisé dans les horloges atomiques et la recherche scientifique."
   }
 ]
