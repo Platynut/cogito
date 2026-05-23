@@ -1,132 +1,132 @@
 [
   {
-    "id": "2057",
-    "question": "Quel est le nom de l'auteur de 'L'Arrache-cœur' ?",
-    "answer": "Boris Vian",
+    "id": "79",
+    "question": "Quel pays a inventé le sushi ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Jean-Paul Sartre",
+      "Chine",
+      "Corée du Sud",
+      "Thaïlande"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
+  },
+  {
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
+    "badAnswers": [
+      "Indium",
+      "Iridium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+  },
+  {
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
+    "badAnswers": [
+      "Barcelone",
+      "Séville",
+      "Valence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+  },
+  {
+    "id": "708",
+    "question": "Quelle femme des neiges gèle ses victimes dans la mythologie japonaise ?",
+    "answer": "Yuki-onna",
+    "badAnswers": [
+      "Iso-onna",
+      "Onryō",
+      "Jorōgumo"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "La Yuki-onna est un esprit hivernal qui attire les voyageurs et les glace à mort."
+  },
+  {
+    "id": "1280",
+    "question": "Quel est le nom de l'inventeur du premier microscope optique ?",
+    "answer": "Zacharias Jansen",
+    "badAnswers": [
+      "Galilée",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Hans et Zacharias Jansen, opticiens néerlandais, ont créé le premier microscope optique vers 1590, ouvrant la voie à l'étude des micro-organismes."
+  },
+  {
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
       "Albert Camus",
+      "Boris Vian",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Arrache-cœur' (1953), un roman surréaliste explorant la famille et la société."
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
   },
   {
-    "id": "46",
-    "question": "Quelle est la capitale de l'Italie ?",
-    "answer": "Rome",
+    "id": "327",
+    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
+    "answer": "Jack Morrison",
     "badAnswers": [
-      "Milan",
-      "Venise",
-      "Florence"
+      "John Smith",
+      "Gabriel Reyes",
+      "Reinhardt Wilhelm"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
+  },
+  {
+    "id": "1699",
+    "question": "Quel est la capitale de Taïwan ?",
+    "answer": "Taipei",
+    "badAnswers": [
+      "Kaohsiung",
+      "Tainan",
+      "Taichung"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
+    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
   },
   {
-    "id": "572",
-    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
-    "answer": "Atelier",
+    "id": "2116",
+    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
+    "answer": "Godfrey Hounsfield",
     "badAnswers": [
-      "Confrérie",
-      "Église de la Guérison",
-      "Vilebloods"
+      "Raymond Damadian",
+      "Paul Lauterbur",
+      "Peter Mansfield"
     ],
-    "category": "Jeux vidéo",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
   },
   {
-    "id": "541",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
-    "answer": "Shulk",
+    "id": "1341",
+    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
+    "answer": "Igor Sikorsky",
     "badAnswers": [
-      "Rex",
-      "Pyra",
-      "Mythra"
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Orville Wright"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
-  },
-  {
-    "id": "330",
-    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
-    "answer": "Spoutnik 1",
-    "badAnswers": [
-      "Explorer 1",
-      "Vostok 1",
-      "Telstar"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
-  },
-  {
-    "id": "1719",
-    "question": "Quel est le nom de l'auteur de 'La Nausée' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'La Nausée' (1938), un roman existentialiste explorant le sens de l'existence."
-  },
-  {
-    "id": "1200",
-    "question": "Quel est la capitale du Cameroun ?",
-    "answer": "Yaoundé",
-    "badAnswers": [
-      "Douala",
-      "Bamenda",
-      "Garoua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Yaoundé, capitale du Cameroun, est une ville située dans une région vallonnée, centre administratif et politique du pays."
-  },
-  {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
-    "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
-  },
-  {
-    "id": "1100",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Smash Bros.",
-      "Animal Crossing",
-      "Splatoon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
-  },
-  {
-    "id": "1318",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rb ?",
-    "answer": "Rubidium",
-    "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Ruthénium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le rubidium, symbolisé par Rb, est un métal alcalin utilisé dans les horloges atomiques et la recherche scientifique."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
   }
 ]
