@@ -1,132 +1,132 @@
 [
   {
-    "id": "79",
-    "question": "Quel pays a inventé le sushi ?",
-    "answer": "Japon",
+    "id": "147",
+    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
+    "answer": "Le fémur",
     "badAnswers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande"
+      "Le radius",
+      "Le cubitus",
+      "Le carpe"
     ],
-    "category": "Cuisine",
+    "category": "Anatomie",
     "difficulty": "normal",
-    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
+    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
   },
   {
-    "id": "1304",
-    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
-    "answer": "Iode",
+    "id": "877",
+    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï",
     "badAnswers": [
-      "Indium",
-      "Iridium",
-      "Iron"
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "606",
-    "question": "Quel est la capitale de l'Espagne ?",
-    "answer": "Madrid",
+    "id": "750",
+    "question": "Quel est la capitale de la Suède ?",
+    "answer": "Stockholm",
     "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
+      "Göteborg",
+      "Malmö",
+      "Uppsala"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
   },
   {
-    "id": "708",
-    "question": "Quelle femme des neiges gèle ses victimes dans la mythologie japonaise ?",
-    "answer": "Yuki-onna",
+    "id": "552",
+    "question": "Quel est le nom de l'auteur de 'Du côté de chez Swann' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Iso-onna",
-      "Onryō",
-      "Jorōgumo"
+      "André Gide",
+      "Jean Cocteau",
+      "Guillaume Apollinaire"
     ],
-    "category": "Mythologie",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "La Yuki-onna est un esprit hivernal qui attire les voyageurs et les glace à mort."
+    "description": "Marcel Proust a écrit Du côté de chez Swann (1913), le premier volume de À la recherche du temps perdu, une œuvre majeure de la littérature française. Gide, Cocteau et Apollinaire sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "1280",
-    "question": "Quel est le nom de l'inventeur du premier microscope optique ?",
-    "answer": "Zacharias Jansen",
+    "id": "1179",
+    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
+    "answer": "Bruce Springsteen",
     "badAnswers": [
-      "Galilée",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
+      "Bob Dylan",
+      "Tom Petty",
+      "John Mellencamp"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Hans et Zacharias Jansen, opticiens néerlandais, ont créé le premier microscope optique vers 1590, ouvrant la voie à l'étude des micro-organismes."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
   },
   {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+  },
+  {
+    "id": "769",
+    "question": "Quel est le plus grand arachnide du monde ?",
+    "answer": "Tarantule Goliath",
+    "badAnswers": [
+      "Scorpion empereur",
+      "Araignée-loup",
+      "Veuve noire"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
+  },
+  {
+    "id": "1763",
+    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
+    "answer": "Stendhal",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
   },
   {
-    "id": "327",
-    "question": "Dans Overwatch, quel est le véritable nom du personnage Soldier: 76 ?",
-    "answer": "Jack Morrison",
+    "id": "1229",
+    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "John Smith",
-      "Gabriel Reyes",
-      "Reinhardt Wilhelm"
+      "Led Zeppelin",
+      "The Doors",
+      "The Rolling Stones"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Overwatch, Soldier: 76 est le pseudonyme de Jack Morrison, ancien commandant de l'organisation Overwatch. Ce personnage est un héros jouable de type DPS, connu pour son passé militaire. Gabriel Reyes est Reaper, et Reinhardt Wilhelm est un autre personnage, tandis que John Smith est un nom fictif."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
   },
   {
-    "id": "1699",
-    "question": "Quel est la capitale de Taïwan ?",
-    "answer": "Taipei",
+    "id": "325",
+    "question": "Quel est le plus grand lac du monde ?",
+    "answer": "Mer Caspienne",
     "badAnswers": [
-      "Kaohsiung",
-      "Tainan",
-      "Taichung"
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Tanganyika"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
-  },
-  {
-    "id": "2116",
-    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
-    "answer": "Godfrey Hounsfield",
-    "badAnswers": [
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
-  },
-  {
-    "id": "1341",
-    "question": "Quel est le nom de l'inventeur du premier hélicoptère fonctionnel ?",
-    "answer": "Igor Sikorsky",
-    "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Orville Wright"
-    ],
-    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation verticale."
+    "description": "La mer Caspienne est le plus grand lac du monde en superficie, couvrant environ 371 000 km². Bien qu'elle soit appelée 'mer', elle est en réalité un lac salé. Le lac Supérieur est le plus grand lac d'eau douce, tandis que le lac Victoria est le plus grand lac d'Afrique."
   }
 ]
