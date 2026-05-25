@@ -1,132 +1,132 @@
 [
   {
-    "id": "147",
-    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
-    "answer": "Le fémur",
+    "id": "567",
+    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
+    "answer": "BB-8",
     "badAnswers": [
-      "Le radius",
-      "Le cubitus",
-      "Le carpe"
+      "R2-D2",
+      "C-3PO",
+      "D-O"
     ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
   },
   {
-    "id": "877",
-    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
-    "answer": "Léon Tolstoï",
+    "id": "793",
+    "question": "Dans Pokémon Soleil et Lune, quel est le Pokémon légendaire associé au soleil ?",
+    "answer": "Solgaleo",
     "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "Lunala",
+      "Necrozma",
+      "Tapu Koko"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Solgaleo est le Pokémon légendaire associé au soleil dans Pokémon Soleil. Lunala représente la lune, Necrozma l'ultra-brèche, et Tapu Koko est un gardien d'île."
+  },
+  {
+    "id": "109",
+    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
+    "answer": "Itachi",
+    "badAnswers": [
+      "Obito",
+      "Madara",
+      "Kakashi"
+    ],
+    "category": "Anime et Manga",
+    "difficulty": "facile",
+    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
+  },
+  {
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Max Ernst",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+  },
+  {
+    "id": "1121",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2013 ?",
+    "answer": "12 Years a Slave",
+    "badAnswers": [
+      "Gravity",
+      "Dallas Buyers Club",
+      "Her"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "12 Years a Slave, réalisé par Steve McQueen, a remporté l'Oscar du meilleur film en 2013, racontant l'histoire vraie d'un homme réduit en esclavage."
+  },
+  {
+    "id": "1023",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong",
+    "badAnswers": [
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "Alan Shepard"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
+  },
+  {
+    "id": "628",
+    "question": "Quel est le nom de l'auteur de 'Germinal' ?",
+    "answer": "Émile Zola",
+    "badAnswers": [
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Guy de Maupassant"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+    "description": "Émile Zola a écrit Germinal (1885), un roman naturaliste sur les conditions des mineurs en France. Flaubert, Hugo et Maupassant sont d'autres écrivains français, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "750",
-    "question": "Quel est la capitale de la Suède ?",
-    "answer": "Stockholm",
+    "id": "380",
+    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
+    "answer": "Les Nymphéas",
     "badAnswers": [
-      "Göteborg",
-      "Malmö",
-      "Uppsala"
+      "Impression, soleil levant",
+      "La Promenade",
+      "Le Déjeuner sur l’herbe"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Stockholm est la capitale de la Suède, une ville construite sur des îles avec le palais royal. Göteborg, Malmö et Uppsala sont d'autres villes suédoises, mais pas la capitale."
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
   },
   {
-    "id": "552",
-    "question": "Quel est le nom de l'auteur de 'Du côté de chez Swann' ?",
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
+    "badAnswers": [
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+  },
+  {
+    "id": "2089",
+    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
     "answer": "Marcel Proust",
     "badAnswers": [
-      "André Gide",
-      "Jean Cocteau",
-      "Guillaume Apollinaire"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit Du côté de chez Swann (1913), le premier volume de À la recherche du temps perdu, une œuvre majeure de la littérature française. Gide, Cocteau et Apollinaire sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1179",
-    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
-    "answer": "Bruce Springsteen",
-    "badAnswers": [
-      "Bob Dylan",
-      "Tom Petty",
-      "John Mellencamp"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
-  },
-  {
-    "id": "769",
-    "question": "Quel est le plus grand arachnide du monde ?",
-    "answer": "Tarantule Goliath",
-    "badAnswers": [
-      "Scorpion empereur",
-      "Araignée-loup",
-      "Veuve noire"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
-  },
-  {
-    "id": "1763",
-    "question": "Quel est le nom de l'auteur de 'La Chartreuse de Parme' ?",
-    "answer": "Stendhal",
-    "badAnswers": [
-      "Victor Hugo",
       "Émile Zola",
-      "Gustave Flaubert"
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Stendhal a écrit 'La Chartreuse de Parme' (1839), un roman sur l'amour et l'ambition dans l'Italie du XIXe siècle."
-  },
-  {
-    "id": "1229",
-    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Doors",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
-  },
-  {
-    "id": "325",
-    "question": "Quel est le plus grand lac du monde ?",
-    "answer": "Mer Caspienne",
-    "badAnswers": [
-      "Lac Supérieur",
-      "Lac Victoria",
-      "Lac Tanganyika"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "La mer Caspienne est le plus grand lac du monde en superficie, couvrant environ 371 000 km². Bien qu'elle soit appelée 'mer', elle est en réalité un lac salé. Le lac Supérieur est le plus grand lac d'eau douce, tandis que le lac Victoria est le plus grand lac d'Afrique."
+    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
   }
 ]
