@@ -1,132 +1,132 @@
 [
   {
-    "id": "567",
-    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
-    "answer": "BB-8",
+    "id": "1815",
+    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
+    "answer": "Vinton Cerf",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "D-O"
+      "Tim Berners-Lee",
+      "Robert Kahn",
+      "Paul Baran"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
+  },
+  {
+    "id": "2142",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Thief of Bagdad",
+      "The Last Laugh",
+      "Greed"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
+    "difficulty": "difficile",
+    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
   },
   {
-    "id": "793",
-    "question": "Dans Pokémon Soleil et Lune, quel est le Pokémon légendaire associé au soleil ?",
-    "answer": "Solgaleo",
+    "id": "1237",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
     "badAnswers": [
-      "Lunala",
-      "Necrozma",
-      "Tapu Koko"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Solgaleo est le Pokémon légendaire associé au soleil dans Pokémon Soleil. Lunala représente la lune, Necrozma l'ultra-brèche, et Tapu Koko est un gardien d'île."
-  },
-  {
-    "id": "109",
-    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
-    "answer": "Itachi",
-    "badAnswers": [
-      "Obito",
-      "Madara",
-      "Kakashi"
-    ],
-    "category": "Anime et Manga",
-    "difficulty": "facile",
-    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
-  },
-  {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
-  },
-  {
-    "id": "1121",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2013 ?",
-    "answer": "12 Years a Slave",
-    "badAnswers": [
-      "Gravity",
-      "Dallas Buyers Club",
-      "Her"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "12 Years a Slave, réalisé par Steve McQueen, a remporté l'Oscar du meilleur film en 2013, racontant l'histoire vraie d'un homme réduit en esclavage."
-  },
-  {
-    "id": "1023",
-    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
-    "answer": "Neil Armstrong",
-    "badAnswers": [
-      "Buzz Aldrin",
-      "Yuri Gagarine",
-      "Alan Shepard"
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
     ],
     "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
+    "difficulty": "difficile",
+    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
   },
   {
-    "id": "628",
-    "question": "Quel est le nom de l'auteur de 'Germinal' ?",
-    "answer": "Émile Zola",
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
     "badAnswers": [
-      "Gustave Flaubert",
-      "Victor Hugo",
-      "Guy de Maupassant"
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
     ],
-    "category": "Littérature",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Émile Zola a écrit Germinal (1885), un roman naturaliste sur les conditions des mineurs en France. Flaubert, Hugo et Maupassant sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
   },
   {
-    "id": "380",
-    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
-    "answer": "Les Nymphéas",
+    "id": "1533",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
+    "answer": "Mendélévium",
     "badAnswers": [
-      "Impression, soleil levant",
-      "La Promenade",
-      "Le Déjeuner sur l’herbe"
+      "Magnésium",
+      "Molybdène",
+      "Mercure"
     ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
   },
   {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
+    "id": "1096",
+    "question": "Quelle est la capitale de l'Irlande du Nord ?",
+    "answer": "Belfast",
     "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
+      "Derry",
+      "Lisburn",
+      "Newry"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
+  },
+  {
+    "id": "749",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la ville principale des Impériaux ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Markarth"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+    "description": "Solitude est la ville principale des Impériaux dans The Elder Scrolls V: Skyrim, siège de l'Empire. Vendeaume est la base des Sombrages, et Faillaise et Markarth sont d'autres villes."
   },
   {
-    "id": "2089",
-    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
-    "answer": "Marcel Proust",
+    "id": "221",
+    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
+    "answer": "The Big Bang Theory",
     "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "La Petite Maison dans la Prairie"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
+  },
+  {
+    "id": "1074",
+    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
+    "answer": "Hydrogène",
+    "badAnswers": [
+      "Hélium",
+      "Hafnium",
+      "Holmium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
+  },
+  {
+    "id": "520",
+    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
+    "answer": "Obi-Wan Kenobi",
+    "badAnswers": [
+      "Yoda",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
   }
 ]
