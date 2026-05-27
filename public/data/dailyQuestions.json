@@ -1,132 +1,132 @@
 [
   {
-    "id": "1815",
-    "question": "Qui est considéré comme l'un des co-inventeurs des protocoles à l'origine d'Internet ?",
-    "answer": "Vinton Cerf",
+    "id": "427",
+    "question": "Quel est le plus grand oiseau volant du monde ?",
+    "answer": "Albatros hurleur",
     "badAnswers": [
-      "Tim Berners-Lee",
-      "Robert Kahn",
-      "Paul Baran"
+      "Condor des Andes",
+      "Aigle royal",
+      "Vautour fauve"
     ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Vinton Cerf est reconnu, aux côtés de Robert Kahn, comme l'un des co-inventeurs des protocoles TCP/IP, fondamentaux pour le fonctionnement d'Internet tel qu'on le connaît aujourd'hui."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
   },
   {
-    "id": "2142",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
-    "answer": "Aucun Oscar décerné",
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
     "badAnswers": [
-      "The Thief of Bagdad",
-      "The Last Laugh",
-      "Greed"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "1237",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
-    "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
-  },
-  {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
-    "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
-  },
-  {
-    "id": "1533",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
-    "answer": "Mendélévium",
-    "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mercure"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
-  },
-  {
-    "id": "1096",
-    "question": "Quelle est la capitale de l'Irlande du Nord ?",
-    "answer": "Belfast",
-    "badAnswers": [
-      "Derry",
-      "Lisburn",
-      "Newry"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Belfast est la capitale de l'Irlande du Nord, célèbre pour son histoire industrielle et le chantier naval où le Titanic a été construit."
-  },
-  {
-    "id": "749",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la ville principale des Impériaux ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Markarth"
+      "Skellige",
+      "Toussaint",
+      "Velen"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Solitude est la ville principale des Impériaux dans The Elder Scrolls V: Skyrim, siège de l'Empire. Vendeaume est la base des Sombrages, et Faillaise et Markarth sont d'autres villes."
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
   },
   {
-    "id": "221",
-    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
-    "answer": "The Big Bang Theory",
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
     "badAnswers": [
-      "How I Met Your Mother",
-      "Game of Thrones",
-      "La Petite Maison dans la Prairie"
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
     ],
-    "category": "Séries",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
   },
   {
-    "id": "1074",
-    "question": "Quel est le nom de l'élément chimique avec le symbole H ?",
-    "answer": "Hydrogène",
+    "id": "928",
+    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
+    "answer": "Nervosité",
     "badAnswers": [
-      "Hélium",
-      "Hafnium",
-      "Holmium"
+      "Excitation",
+      "Agressivité",
+      "Épuisement"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'hydrogène, avec le symbole H, est l'élément le plus léger et le plus abondant de l'univers, essentiel pour la formation des étoiles et des molécules."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
   },
   {
-    "id": "520",
-    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
-    "answer": "Obi-Wan Kenobi",
+    "id": "1403",
+    "question": "Quel est le nom de la déesse grecque de la discorde ?",
+    "answer": "Éris",
     "badAnswers": [
-      "Yoda",
-      "Qui-Gon Jinn",
-      "Mace Windu"
+      "Némésis",
+      "Athéna",
+      "Héra"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
+  },
+  {
+    "id": "1366",
+    "question": "Quel est la capitale de la Barbade ?",
+    "answer": "Bridgetown",
+    "badAnswers": [
+      "Speightstown",
+      "Holetown",
+      "Oistins"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+  },
+  {
+    "id": "1515",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
+    "answer": "The Greatest Show on Earth",
+    "badAnswers": [
+      "High Noon",
+      "The Quiet Man",
+      "Moulin Rouge"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+  },
+  {
+    "id": "361",
+    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
+    "answer": "Épée de Légende",
+    "badAnswers": [
+      "Épée du Temps",
+      "Épée de Feu",
+      "Épée d’Ombre"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
+  },
+  {
+    "id": "572",
+    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
+    "answer": "Atelier",
+    "badAnswers": [
+      "Confrérie",
+      "Église de la Guérison",
+      "Vilebloods"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+  },
+  {
+    "id": "929",
+    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
+    "answer": "9 mai 1945",
+    "badAnswers": [
+      "2 septembre 1945",
+      "9 août 1945",
+      "11 décembre 1945"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
   }
 ]
