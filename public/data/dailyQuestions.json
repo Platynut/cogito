@@ -1,132 +1,130 @@
 [
   {
-    "id": "427",
-    "question": "Quel est le plus grand oiseau volant du monde ?",
-    "answer": "Albatros hurleur",
+    "id": "43",
+    "question": "Qui a peint 'La Nuit étoilée' ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "Condor des Andes",
-      "Aigle royal",
-      "Vautour fauve"
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
-  },
-  {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+    "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
   },
   {
-    "id": "416",
-    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
-    "answer": "Miguel de Cervantès",
+    "id": "134",
+    "question": "A quelle classe animale le scorpion appartient-il ?",
+    "answer": "Arachnide",
     "badAnswers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Federico García Lorca"
+      "Mammifère",
+      "Reptile",
+      "Insecte"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
-  },
-  {
-    "id": "928",
-    "question": "Pour quelle raison une hyène tachetée 'rit'-elle ?",
-    "answer": "Nervosité",
-    "badAnswers": [
-      "Excitation",
-      "Agressivité",
-      "Épuisement"
-    ],
-    "category": "Animaux",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Le 'rire' de la hyène tachetée est un son distinctif émis principalement lorsqu'elle est nerveuse ou soumise, souvent dans des situations de stress ou de conflit social au sein du clan. Ce son, qui ressemble à un rire humain, est une vocalisation unique et ne reflète pas l'excitation ou l'agressivité, contrairement à ce que l'on pourrait penser."
+    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
   },
   {
-    "id": "1403",
-    "question": "Quel est le nom de la déesse grecque de la discorde ?",
-    "answer": "Éris",
+    "id": "1174",
+    "question": "Quel est la capitale de l'Ouganda ?",
+    "answer": "Kampala",
     "badAnswers": [
-      "Némésis",
-      "Athéna",
-      "Héra"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Éris, déesse grecque de la discorde, est connue pour avoir déclenché la guerre de Troie en lançant une pomme d'or inscrite 'à la plus belle'."
-  },
-  {
-    "id": "1366",
-    "question": "Quel est la capitale de la Barbade ?",
-    "answer": "Bridgetown",
-    "badAnswers": [
-      "Speightstown",
-      "Holetown",
-      "Oistins"
+      "Gulu",
+      "Jinja",
+      "Mbale"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
   },
   {
-    "id": "1515",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
-    "answer": "The Greatest Show on Earth",
+    "id": "1176",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
+    "answer": "Platine",
     "badAnswers": [
-      "High Noon",
-      "The Quiet Man",
-      "Moulin Rouge"
+      "Palladium",
+      "Plomb",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
+  },
+  {
+    "id": "671",
+    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
+    "answer": "Aconcagua",
+    "badAnswers": [
+      "Huascarán",
+      "Chimborazo",
+      "Cerro Torre"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
+  },
+  {
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+  },
+  {
+    "id": "1051",
+    "question": "Quel est le nom de l'élément chimique avec le symbole O ?",
+    "answer": "Oxygène",
+    "badAnswers": [
+      "Osmium",
+      "Or",
+      "Ozone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'oxygène, symbolisé par O, est un élément essentiel à la respiration et à la combustion, constituant environ 21 % de l'atmosphère terrestre."
+  },
+  {
+    "id": "1219",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
+    "answer": "Crash",
+    "badAnswers": [
+      "Brokeback Mountain",
+      "Capote",
+      "Munich"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
   },
   {
-    "id": "361",
-    "question": "Dans The Legend of Zelda, quel est le nom de l’épée légendaire de Link ?",
-    "answer": "Épée de Légende",
+    "id": "276",
+    "question": "La personnalité YouTube Jenna Marbles a été productrice exécutive du film Maximum Ride (2016).",
+    "answer": "Vrai",
     "badAnswers": [
-      "Épée du Temps",
-      "Épée de Feu",
-      "Épée d’Ombre"
+      "Faux"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Jenna Marbles, de son vrai nom Jenna Mourey, a effectivement été productrice exécutive du film Maximum Ride (2016), une adaptation du roman de James Patterson. Connue pour ses vidéos YouTube, elle a contribué à la production de ce film de science-fiction à petit budget, bien que son rôle ait été peu médiatisé."
+  },
+  {
+    "id": "466",
+    "question": "Quel est le plus grand requin prédateur du monde ?",
+    "answer": "Requin blanc",
+    "badAnswers": [
+      "Requin-tigre",
+      "Requin-marteau",
+      "Requin-baleine"
+    ],
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "L’Épée de Légende (Master Sword) est l’arme légendaire de Link dans la série The Legend of Zelda, utilisée pour vaincre Ganon. Elle est souvent cachée dans un lieu sacré, comme le Bois Perdus. Les autres noms d’épées sont fictifs ou ne correspondent pas à cette arme emblématique."
-  },
-  {
-    "id": "572",
-    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
-    "answer": "Atelier",
-    "badAnswers": [
-      "Confrérie",
-      "Église de la Guérison",
-      "Vilebloods"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
-  },
-  {
-    "id": "929",
-    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
-    "answer": "9 mai 1945",
-    "badAnswers": [
-      "2 septembre 1945",
-      "9 août 1945",
-      "11 décembre 1945"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
+    "description": "Le grand requin blanc est le plus grand requin prédateur, pouvant atteindre 6 mètres de long et connu pour sa puissance. Le requin-tigre et le requin-marteau sont également prédateurs, mais plus petits. Le requin-baleine est inoffensif et se nourrit de plancton."
   }
 ]
