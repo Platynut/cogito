@@ -1,130 +1,132 @@
 [
   {
-    "id": "43",
-    "question": "Qui a peint 'La Nuit étoilée' ?",
-    "answer": "Vincent van Gogh",
+    "id": "1791",
+    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Claude Monet",
-      "Pablo Picasso",
-      "Salvador Dalí"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
+    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
   },
   {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
+    "id": "910",
+    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
+    "answer": "Arbre de l'Esprit",
     "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
+      "Arbre de la Lumière",
+      "Arbre de Vie",
+      "Arbre des Âmes"
     ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
   },
   {
-    "id": "1174",
-    "question": "Quel est la capitale de l'Ouganda ?",
-    "answer": "Kampala",
+    "id": "1716",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS ?",
+    "answer": "Roger Easton",
     "badAnswers": [
-      "Gulu",
-      "Jinja",
-      "Mbale"
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu les bases du système GPS dans les années 1960, permettant la navigation par satellite."
   },
   {
-    "id": "1176",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
-    "answer": "Platine",
+    "id": "1413",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
+    "answer": "Final Fantasy VII",
     "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Phosphore"
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+  },
+  {
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+  },
+  {
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
-  },
-  {
-    "id": "671",
-    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
-    "answer": "Aconcagua",
-    "badAnswers": [
-      "Huascarán",
-      "Chimborazo",
-      "Cerro Torre"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
   },
   {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
+    "id": "709",
+    "question": "Quel esprit vengeur japonais revient hanter les vivants après une mort injuste ?",
+    "answer": "Onryō",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Noppera-bō",
+      "Yuki-onna",
+      "Iso-onna"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+    "description": "L'Onryō est un fantôme vengeur cherchant à punir ceux qui lui ont fait du tort."
   },
   {
-    "id": "1051",
-    "question": "Quel est le nom de l'élément chimique avec le symbole O ?",
-    "answer": "Oxygène",
+    "id": "1654",
+    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "Osmium",
-      "Or",
-      "Ozone"
+      "The Verve",
+      "Radiohead",
+      "Oasis"
     ],
-    "category": "Science",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "L'oxygène, symbolisé par O, est un élément essentiel à la respiration et à la combustion, constituant environ 21 % de l'atmosphère terrestre."
+    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
   },
   {
-    "id": "1219",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
-    "answer": "Crash",
+    "id": "1675",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Alakazam ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Brokeback Mountain",
-      "Capote",
-      "Munich"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Alakazam, Pokémon de type psy, est l'évolution finale d'Abra dans la série Pokémon, connu pour son intelligence."
   },
   {
-    "id": "276",
-    "question": "La personnalité YouTube Jenna Marbles a été productrice exécutive du film Maximum Ride (2016).",
-    "answer": "Vrai",
+    "id": "869",
+    "question": "Quel est le plus grand oiseau du monde ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "Faux"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jenna Marbles, de son vrai nom Jenna Mourey, a effectivement été productrice exécutive du film Maximum Ride (2016), une adaptation du roman de James Patterson. Connue pour ses vidéos YouTube, elle a contribué à la production de ce film de science-fiction à petit budget, bien que son rôle ait été peu médiatisé."
-  },
-  {
-    "id": "466",
-    "question": "Quel est le plus grand requin prédateur du monde ?",
-    "answer": "Requin blanc",
-    "badAnswers": [
-      "Requin-tigre",
-      "Requin-marteau",
-      "Requin-baleine"
+      "Condor des Andes",
+      "Albatros hurleur",
+      "Grue royale"
     ],
     "category": "Animaux",
     "difficulty": "facile",
-    "description": "Le grand requin blanc est le plus grand requin prédateur, pouvant atteindre 6 mètres de long et connu pour sa puissance. Le requin-tigre et le requin-marteau sont également prédateurs, mais plus petits. Le requin-baleine est inoffensif et se nourrit de plancton."
+    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
   }
 ]
