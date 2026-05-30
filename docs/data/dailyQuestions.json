@@ -1,132 +1,132 @@
 [
   {
-    "id": "1791",
-    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "1705",
+    "question": "Quel est la capitale de l'Asie ?",
+    "answer": "Aucune",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "Tokyo",
+      "Pékin",
+      "New Delhi"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
-  },
-  {
-    "id": "910",
-    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
-    "answer": "Arbre de l'Esprit",
-    "badAnswers": [
-      "Arbre de la Lumière",
-      "Arbre de Vie",
-      "Arbre des Âmes"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
-  },
-  {
-    "id": "1716",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS ?",
-    "answer": "Roger Easton",
-    "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu les bases du système GPS dans les années 1960, permettant la navigation par satellite."
-  },
-  {
-    "id": "1413",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
-  },
-  {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
+    "description": "L'Asie n'a pas de capitale unique, car c'est un continent regroupant de nombreux pays avec leurs propres capitales."
   },
   {
-    "id": "709",
-    "question": "Quel esprit vengeur japonais revient hanter les vivants après une mort injuste ?",
-    "answer": "Onryō",
+    "id": "567",
+    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
+    "answer": "BB-8",
     "badAnswers": [
-      "Noppera-bō",
-      "Yuki-onna",
-      "Iso-onna"
+      "R2-D2",
+      "C-3PO",
+      "D-O"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'Onryō est un fantôme vengeur cherchant à punir ceux qui lui ont fait du tort."
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
   },
   {
-    "id": "1654",
-    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
-    "answer": "R.E.M.",
+    "id": "1847",
+    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
+    "answer": "The Doors",
     "badAnswers": [
-      "The Verve",
-      "Radiohead",
-      "Oasis"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
+    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
   },
   {
-    "id": "1675",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Alakazam ?",
-    "answer": "Pokémon",
+    "id": "1271",
+    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
+    "answer": "Héra",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
+  },
+  {
+    "id": "1105",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
+    "answer": "Oppenheimer",
+    "badAnswers": [
+      "Poor Things",
+      "Killers of the Flower Moon",
+      "Barbie"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
+  },
+  {
+    "id": "314",
+    "question": "Quel est le nom du dieu grec de la guerre ?",
+    "answer": "Arès",
+    "badAnswers": [
+      "Athéna",
+      "Apollon",
+      "Poséidon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
+  },
+  {
+    "id": "1994",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flerovium",
+    "badAnswers": [
+      "Fluor",
+      "Francium",
+      "Fermium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
+  },
+  {
+    "id": "1453",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1966 ?",
+    "answer": "A Man for All Seasons",
+    "badAnswers": [
+      "Who's Afraid of Virginia Woolf?",
+      "The Sand Pebbles",
+      "Alfie"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "A Man for All Seasons, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1966, un drame historique sur Thomas More."
+  },
+  {
+    "id": "673",
+    "question": "Dans Pokémon Platine, quel est le Pokémon légendaire associé à l'Origine ?",
+    "answer": "Giratina",
+    "badAnswers": [
+      "Dialga",
+      "Palkia",
+      "Arceus"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Alakazam, Pokémon de type psy, est l'évolution finale d'Abra dans la série Pokémon, connu pour son intelligence."
-  },
-  {
-    "id": "869",
-    "question": "Quel est le plus grand oiseau du monde ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Condor des Andes",
-      "Albatros hurleur",
-      "Grue royale"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
+    "difficulty": "normal",
+    "description": "Giratina est le Pokémon légendaire associé à l'Origine dans Pokémon Platine, régnant sur le Monde Distorsion. Dialga représente le temps, Palkia l'espace, et Arceus est le créateur."
   }
 ]
