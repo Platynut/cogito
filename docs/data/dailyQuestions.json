@@ -1,132 +1,132 @@
 [
   {
-    "id": "1705",
-    "question": "Quel est la capitale de l'Asie ?",
-    "answer": "Aucune",
+    "id": "386",
+    "question": "Quel est le nom de l’auteur de L’Étranger ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "Tokyo",
-      "Pékin",
-      "New Delhi"
+      "Jean-Paul Sartre",
+      "Franz Kafka",
+      "Simone de Beauvoir"
     ],
-    "category": "Géographie",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "L'Asie n'a pas de capitale unique, car c'est un continent regroupant de nombreux pays avec leurs propres capitales."
+    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
   },
   {
-    "id": "567",
-    "question": "Dans Star Wars, quel est le nom du droïde astromécano de Rey ?",
-    "answer": "BB-8",
+    "id": "1374",
+    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
+    "answer": "Nirvana",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "D-O"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "BB-8 est le droïde astromécano de Rey dans Star Wars : Le Réveil de la Force, un petit robot sphérique. R2-D2 et C-3PO sont associés à Luke et Leia, et D-O apparaît dans L'Ascension de Skywalker."
-  },
-  {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
-    "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
-  },
-  {
-    "id": "1847",
-    "question": "Quel est le nom du groupe qui a chanté 'L.A. Woman' ?",
-    "answer": "The Doors",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'L.A. Woman', sorti en 1971 par The Doors, est une chanson rock tirée de l'album éponyme."
+    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
   },
   {
-    "id": "1271",
-    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
-    "answer": "Héra",
+    "id": "38",
+    "question": "Dans quel jeu trouve-t-on des Creepers ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
+      "Terraria",
+      "Roblox",
+      "Fortnite"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
-  },
-  {
-    "id": "1105",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2023 ?",
-    "answer": "Oppenheimer",
-    "badAnswers": [
-      "Poor Things",
-      "Killers of the Flower Moon",
-      "Barbie"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Oppenheimer, réalisé par Christopher Nolan, a remporté l'Oscar du meilleur film lors de la 95ᵉ cérémonie en 2023, avec sept statuettes au total, dont meilleur réalisateur et meilleur acteur."
-  },
-  {
-    "id": "314",
-    "question": "Quel est le nom du dieu grec de la guerre ?",
-    "answer": "Arès",
-    "badAnswers": [
-      "Athéna",
-      "Apollon",
-      "Poséidon"
-    ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Arès est le dieu grec de la guerre, représentant la violence et le chaos des combats. Fils de Zeus et Héra, il est souvent dépeint comme impulsif et brutal. Athéna, bien que liée à la guerre, est la déesse de la stratégie, tandis qu'Apollon et Poséidon ont des domaines différents (arts, mer)."
+    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
   },
   {
-    "id": "1994",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flerovium",
+    "id": "650",
+    "question": "Quel est le plus grand mammifère marin du monde ?",
+    "answer": "Baleine bleue",
     "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Fermium"
+      "Cachalot",
+      "Orque",
+      "Rorqual commun"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le flerovium, symbolisé par Fl, est un élément radioactif synthétique utilisé en recherche scientifique."
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
   },
   {
-    "id": "1453",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1966 ?",
-    "answer": "A Man for All Seasons",
+    "id": "870",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
+    "answer": "Kassadin",
     "badAnswers": [
-      "Who's Afraid of Virginia Woolf?",
-      "The Sand Pebbles",
-      "Alfie"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "A Man for All Seasons, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1966, un drame historique sur Thomas More."
-  },
-  {
-    "id": "673",
-    "question": "Dans Pokémon Platine, quel est le Pokémon légendaire associé à l'Origine ?",
-    "answer": "Giratina",
-    "badAnswers": [
-      "Dialga",
-      "Palkia",
-      "Arceus"
+      "Malzahar",
+      "Karthus",
+      "Veigar"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Giratina est le Pokémon légendaire associé à l'Origine dans Pokémon Platine, régnant sur le Monde Distorsion. Dialga représente le temps, Palkia l'espace, et Arceus est le créateur."
+    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
+  },
+  {
+    "id": "1842",
+    "question": "Quel est le nom de l'auteur de 'Les Cahiers de Malte Laurids Brigge' ?",
+    "answer": "Rainer Maria Rilke",
+    "badAnswers": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Rainer Maria Rilke a écrit 'Les Cahiers de Malte Laurids Brigge' (1910), un roman poétique sur l'existence."
+  },
+  {
+    "id": "1274",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
+    "answer": "The English Patient",
+    "badAnswers": [
+      "Fargo",
+      "Jerry Maguire",
+      "Shine"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
+  },
+  {
+    "id": "1456",
+    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
+    "answer": "Oasis",
+    "badAnswers": [
+      "Blur",
+      "The Verve",
+      "Radiohead"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
+  },
+  {
+    "id": "881",
+    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
+    "answer": "Dark Sidious",
+    "badAnswers": [
+      "Dark Maul",
+      "Comte Dooku",
+      "Yoda"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
+  },
+  {
+    "id": "987",
+    "question": "Dans la mythologie grecque, quelle est la raison du retour périodique de Perséphone aux Enfers ?",
+    "answer": "Graines de grenade",
+    "badAnswers": [
+      "Graines de tournesol",
+      "Orange",
+      "Figue"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Selon la mythologie grecque, Perséphone doit retourner chaque année aux Enfers car elle y a mangé des graines de grenade offertes par Hadès. Ce geste l'a symboliquement liée au royaume des morts, expliquant le cycle des saisons."
   }
 ]
