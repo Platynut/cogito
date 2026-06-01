@@ -1,132 +1,132 @@
 [
   {
-    "id": "386",
-    "question": "Quel est le nom de l’auteur de L’Étranger ?",
-    "answer": "Albert Camus",
+    "id": "1761",
+    "question": "Quel est le nom du groupe qui a chanté 'La Grange' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Franz Kafka",
-      "Simone de Beauvoir"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit L’Étranger (1942), un roman existentialiste explorant l’absurde à travers le personnage de Meursault. Camus, lauréat du prix Nobel, est une figure majeure de la littérature française. Sartre et Beauvoir sont aussi existentialistes, et Kafka est connu pour La Métamorphose."
-  },
-  {
-    "id": "1374",
-    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
-    "answer": "Nirvana",
-    "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
+    "description": "'La Grange', sorti en 1973 par ZZ Top, est une chanson rock tirée de l'album Tres Hombres."
   },
   {
-    "id": "38",
-    "question": "Dans quel jeu trouve-t-on des Creepers ?",
-    "answer": "Minecraft",
+    "id": "1449",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
+    "answer": "In the Heat of the Night",
     "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ces ennemies vertes qui explosent sont devenues l'icône involontaire de Minecraft depuis leur création en 2009."
-  },
-  {
-    "id": "650",
-    "question": "Quel est le plus grand mammifère marin du monde ?",
-    "answer": "Baleine bleue",
-    "badAnswers": [
-      "Cachalot",
-      "Orque",
-      "Rorqual commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "La baleine bleue est le plus grand mammifère marin, pouvant atteindre 30 mètres de long et peser 200 tonnes. Le cachalot, l'orque et le rorqual commun sont plus petits."
-  },
-  {
-    "id": "870",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
-    "answer": "Kassadin",
-    "badAnswers": [
-      "Malzahar",
-      "Karthus",
-      "Veigar"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
-  },
-  {
-    "id": "1842",
-    "question": "Quel est le nom de l'auteur de 'Les Cahiers de Malte Laurids Brigge' ?",
-    "answer": "Rainer Maria Rilke",
-    "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Hermann Hesse"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Rainer Maria Rilke a écrit 'Les Cahiers de Malte Laurids Brigge' (1910), un roman poétique sur l'existence."
-  },
-  {
-    "id": "1274",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1996 ?",
-    "answer": "The English Patient",
-    "badAnswers": [
-      "Fargo",
-      "Jerry Maguire",
-      "Shine"
+      "Bonnie and Clyde",
+      "The Graduate",
+      "Guess Who's Coming to Dinner"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The English Patient, réalisé par Anthony Minghella, a remporté l'Oscar du meilleur film en 1996, une romance dramatique sur fond de guerre."
+    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
   },
   {
-    "id": "1456",
-    "question": "Quel est le nom du groupe qui a chanté 'Don't Look Back in Anger' ?",
-    "answer": "Oasis",
+    "id": "1344",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ce ?",
+    "answer": "Cérium",
     "badAnswers": [
-      "Blur",
-      "The Verve",
-      "Radiohead"
+      "Césium",
+      "Chrome",
+      "Cobalt"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le cérium, symbolisé par Ce, est un métal rare utilisé dans les catalyseurs automobiles et les alliages pour sa réactivité."
+  },
+  {
+    "id": "1970",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
+    "answer": "William Kouwenhoven",
+    "badAnswers": [
+      "Paul Zoll",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
+  },
+  {
+    "id": "1435",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1971 ?",
+    "answer": "The French Connection",
+    "badAnswers": [
+      "A Clockwork Orange",
+      "Fiddler on the Roof",
+      "The Last Picture Show"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The French Connection, réalisé par William Friedkin, a remporté l'Oscar du meilleur film en 1971, un thriller policier sur le trafic de drogue."
+  },
+  {
+    "id": "814",
+    "question": "Quel compositeur a écrit 'Le Barbier de Séville' ?",
+    "answer": "Gioachino Rossini",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Gaetano Donizetti"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Gioachino Rossini est le compositeur du célèbre opéra-comique *Le Barbier de Séville*, créé en 1816. Adapté d’une pièce de Beaumarchais, l’opéra est connu pour son énergie, ses airs mémorables et son humour vif. Bien que Mozart, Verdi et Donizetti soient également de grands noms de l’opéra, aucun d’eux n’a composé cette œuvre en particulier."
+  },
+  {
+    "id": "1491",
+    "question": "Quel est le nom du groupe qui a chanté 'Friday I'm in Love' ?",
+    "answer": "The Cure",
+    "badAnswers": [
+      "Depeche Mode",
+      "New Order",
+      "The Smiths"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Don't Look Back in Anger', sorti en 1995 par Oasis, est une chanson britpop emblématique tirée de l'album (What's the Story) Morning Glory?."
+    "description": "'Friday I'm in Love', sorti en 1992 par The Cure, est une chanson pop-rock joyeuse tirée de l'album Wish."
   },
   {
-    "id": "881",
-    "question": "Dans Star Wars, quel est le nom du maître de Darth Vader ?",
-    "answer": "Dark Sidious",
+    "id": "1023",
+    "question": "Quel est le nom du premier homme à avoir marché sur la Lune ?",
+    "answer": "Neil Armstrong",
     "badAnswers": [
-      "Dark Maul",
-      "Comte Dooku",
-      "Yoda"
+      "Buzz Aldrin",
+      "Yuri Gagarine",
+      "Alan Shepard"
     ],
-    "category": "Cinéma",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "Dark Sidious, alias l'Empereur Palpatine, est le maître de Darth Vader dans Star Wars. Dark Maul et le Comte Dooku sont d'autres Sith, et Yoda est un Jedi."
+    "description": "Neil Armstrong, lors de la mission Apollo 11 en 1969, fut le premier humain à poser le pied sur la Lune, prononçant la célèbre phrase : 'Un petit pas pour l'homme...'."
   },
   {
-    "id": "987",
-    "question": "Dans la mythologie grecque, quelle est la raison du retour périodique de Perséphone aux Enfers ?",
-    "answer": "Graines de grenade",
+    "id": "1072",
+    "question": "Quel est la capitale de l'Allemagne ?",
+    "answer": "Berlin",
     "badAnswers": [
-      "Graines de tournesol",
-      "Orange",
-      "Figue"
+      "Munich",
+      "Hambourg",
+      "Francfort"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Selon la mythologie grecque, Perséphone doit retourner chaque année aux Enfers car elle y a mangé des graines de grenade offertes par Hadès. Ce geste l'a symboliquement liée au royaume des morts, expliquant le cycle des saisons."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Berlin, capitale de l'Allemagne, est une ville riche en histoire, connue pour des sites comme la Porte de Brandebourg et le Mur de Berlin."
+  },
+  {
+    "id": "48",
+    "question": "Quelle console a lancé la franchise Mario ?",
+    "answer": "NES",
+    "badAnswers": [
+      "Game Boy",
+      "Super Nintendo",
+      "Nintendo 64"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Mario apparaît d'abord dans 'Donkey Kong' (1981) mais devient star avec 'Super Mario Bros.' sur NES (Nintendo Entertainment System) en 1985."
   }
 ]
