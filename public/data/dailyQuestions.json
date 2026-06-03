@@ -1,132 +1,132 @@
 [
   {
-    "id": "1407",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
-    "answer": "One Flew Over the Cuckoo's Nest",
+    "id": "414",
+    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
+    "answer": "Antonio Vivaldi",
     "badAnswers": [
-      "Jaws",
-      "Dog Day Afternoon",
-      "Barry Lyndon"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
-  },
-  {
-    "id": "1537",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
-    "answer": "Hamlet",
-    "badAnswers": [
-      "The Treasure of the Sierra Madre",
-      "Johnny Belinda",
-      "The Red Shoes"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
-  },
-  {
-    "id": "129",
-    "question": "Quelle est la durée d'une mi-temps dans un match de rugby à XV ?",
-    "answer": "40 min",
-    "badAnswers": [
-      "30 min",
-      "35 min",
-      "45 min"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Un match de rugby à XV est divisé en deux mi-temps de 40 minutes chacune. Les autres durées ne correspondent pas aux règles officielles."
-  },
-  {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
-    "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
-  },
-  {
-    "id": "261",
-    "question": "Quel est le nom de la première femme à avoir remporté le prix Nobel de la paix ?",
-    "answer": "Marie Curie",
-    "badAnswers": [
-      "Malala Yousafzai",
-      "Mère Teresa",
-      "Ellen Johnson Sirleaf"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Marie Curie a reçu le prix Nobel de la paix en 1903 pour ses recherches sur la radioactivité. Elle est la première femme à recevoir ce prix, et elle a également remporté le prix Nobel de chimie en 1911."
-  },
-  {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Alice in Chains"
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Claudio Monteverdi"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
-  },
-  {
-    "id": "1123",
-    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
-    "answer": "Héra",
-    "badAnswers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
-    ],
-    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
   },
   {
-    "id": "641",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui guide Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "291",
+    "question": "Quel est le premier livre de l'Ancien Testament ?",
+    "answer": "Genèse",
     "badAnswers": [
-      "Triss Merigold",
-      "Keira Metz",
-      "Ciri"
+      "Exode",
+      "Lévitique",
+      "Nombres"
+    ],
+    "category": "Culture générale",
+    "difficulty": "facile",
+    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
+  },
+  {
+    "id": "1523",
+    "question": "Quel est la capitale du Botswana ?",
+    "answer": "Gaborone",
+    "badAnswers": [
+      "Francistown",
+      "Maun",
+      "Serowe"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Gaborone, capitale du Botswana, est une ville moderne proche de la frontière sud-africaine, connue pour son parc national de Mokolodi."
+  },
+  {
+    "id": "701",
+    "question": "Dans Assassin's Creed Origins, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Égypte ptolémaïque",
+    "badAnswers": [
+      "Empire romain",
+      "Grèce antique",
+      "Moyen Âge"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des personnages principaux qui guide Geralt dans The Witcher 3: Wild Hunt. Triss et Keira sont d'autres sorcières, et Ciri est la fille adoptive de Geralt."
+    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek explorant Alexandrie. L'Empire romain, la Grèce antique et le Moyen Âge sont les décors d'autres jeux."
   },
   {
-    "id": "1441",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1970 ?",
-    "answer": "Patton",
+    "id": "541",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
+    "answer": "Shulk",
     "badAnswers": [
-      "MASH",
-      "Airport",
-      "Five Easy Pieces"
+      "Rex",
+      "Pyra",
+      "Mythra"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
+  },
+  {
+    "id": "877",
+    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
+    "badAnswers": [
+      "Plume",
+      "Étoile",
+      "Champignon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+  },
+  {
+    "id": "1029",
+    "question": "Dans quel film trouve-t-on le personnage Tony Montana ?",
+    "answer": "Scarface",
+    "badAnswers": [
+      "Le Parrain",
+      "Les Affranchis",
+      "Casino"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Patton, réalisé par Franklin J. Schaffner, a remporté l'Oscar du meilleur film en 1970, une biographie sur le général George S. Patton."
+    "description": "Tony Montana, interprété par Al Pacino dans Scarface (1983), est un immigrant cubain devenu baron de la drogue à Miami, personnage emblématique du cinéma."
   },
   {
-    "id": "1965",
-    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
-    "answer": "The Beatles",
+    "id": "348",
+    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
+    "answer": "Jane Austen",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Charlotte Brontë",
+      "Emily Dickinson",
+      "Virginia Woolf"
     ],
-    "category": "Musique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1339",
+    "question": "Quel est la capitale du Honduras ?",
+    "answer": "Tegucigalpa",
+    "badAnswers": [
+      "San Pedro Sula",
+      "La Ceiba",
+      "Comayagua"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
   }
 ]
