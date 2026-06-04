@@ -1,132 +1,132 @@
 [
   {
-    "id": "414",
-    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
-    "answer": "Antonio Vivaldi",
+    "id": "2147",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1923 ?",
+    "answer": "Aucun Oscar décerné",
     "badAnswers": [
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Claudio Monteverdi"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
-  },
-  {
-    "id": "291",
-    "question": "Quel est le premier livre de l'Ancien Testament ?",
-    "answer": "Genèse",
-    "badAnswers": [
-      "Exode",
-      "Lévitique",
-      "Nombres"
-    ],
-    "category": "Culture générale",
-    "difficulty": "facile",
-    "description": "La Genèse est le premier livre de l'Ancien Testament dans la Bible, décrivant la création du monde, l'histoire d'Adam et Ève, et les récits des patriarches comme Abraham. Les autres livres (Exode, Lévitique, Nombres) suivent dans l'ordre du Pentateuque, mais la Genèse est le point de départ."
-  },
-  {
-    "id": "1523",
-    "question": "Quel est la capitale du Botswana ?",
-    "answer": "Gaborone",
-    "badAnswers": [
-      "Francistown",
-      "Maun",
-      "Serowe"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Gaborone, capitale du Botswana, est une ville moderne proche de la frontière sud-africaine, connue pour son parc national de Mokolodi."
-  },
-  {
-    "id": "701",
-    "question": "Dans Assassin's Creed Origins, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Égypte ptolémaïque",
-    "badAnswers": [
-      "Empire romain",
-      "Grèce antique",
-      "Moyen Âge"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Origins se déroule dans l'Égypte ptolémaïque (Ier siècle av. J.-C.), avec Bayek explorant Alexandrie. L'Empire romain, la Grèce antique et le Moyen Âge sont les décors d'autres jeux."
-  },
-  {
-    "id": "541",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
-    "answer": "Shulk",
-    "badAnswers": [
-      "Rex",
-      "Pyra",
-      "Mythra"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
-  },
-  {
-    "id": "877",
-    "question": "Quel est le nom de l'auteur de 'Guerre et Paix' ?",
-    "answer": "Léon Tolstoï",
-    "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Léon Tolstoï a écrit Guerre et Paix (1865–1869), un roman épique sur la Russie napoléonienne. Dostoïevski, Tchekhov et Tourgueniev sont d'autres écrivains russes, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
-    "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
-  },
-  {
-    "id": "1029",
-    "question": "Dans quel film trouve-t-on le personnage Tony Montana ?",
-    "answer": "Scarface",
-    "badAnswers": [
-      "Le Parrain",
-      "Les Affranchis",
-      "Casino"
+      "The Kid",
+      "The Four Horsemen",
+      "Robin Hood"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Tony Montana, interprété par Al Pacino dans Scarface (1983), est un immigrant cubain devenu baron de la drogue à Miami, personnage emblématique du cinéma."
+    "difficulty": "difficile",
+    "description": "En 1923, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
   },
   {
-    "id": "348",
-    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
-    "answer": "Jane Austen",
+    "id": "1640",
+    "question": "Quel est le nom du groupe qui a chanté 'Champagne Supernova' ?",
+    "answer": "Oasis",
     "badAnswers": [
-      "Charlotte Brontë",
-      "Emily Dickinson",
-      "Virginia Woolf"
+      "Blur",
+      "Radiohead",
+      "The Verve"
     ],
-    "category": "Littérature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+    "description": "'Champagne Supernova', sorti en 1995 par Oasis, est une chanson britpop tirée de l'album (What's the Story) Morning Glory?."
   },
   {
-    "id": "1339",
-    "question": "Quel est la capitale du Honduras ?",
-    "answer": "Tegucigalpa",
+    "id": "1716",
+    "question": "Quel est le nom de l'inventeur du premier système de GPS ?",
+    "answer": "Roger Easton",
     "badAnswers": [
-      "San Pedro Sula",
-      "La Ceiba",
-      "Comayagua"
+      "Ivan Getting",
+      "Bradford Parkinson",
+      "Gladys West"
     ],
-    "category": "Géographie",
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Roger L. Easton a conçu les bases du système GPS dans les années 1960, permettant la navigation par satellite."
+  },
+  {
+    "id": "1997",
+    "question": "Quel est le nom de l'inventeur du premier système de greffe de rein ?",
+    "answer": "Joseph Murray",
+    "badAnswers": [
+      "Willem Kolff",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Joseph Murray a réalisé la première greffe de rein réussie en 1954, ouvrant la voie à la transplantation d'organes."
+  },
+  {
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
+    "badAnswers": [
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "759",
+    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
+    "answer": "Frenzy Farm",
+    "badAnswers": [
+      "Haunted Hills",
+      "Salty Springs",
+      "Lazy Lake"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Tegucigalpa, capitale du Honduras, est une ville montagneuse connue pour ses églises coloniales et son marché animé."
+    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+  },
+  {
+    "id": "1437",
+    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
+    "answer": "Metallica",
+    "badAnswers": [
+      "Megadeth",
+      "Slayer",
+      "Anthrax"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
+  },
+  {
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
+    "badAnswers": [
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "758",
+    "question": "Quel artiste a peint L'Angélus ?",
+    "answer": "Jean-François Millet",
+    "badAnswers": [
+      "Gustave Courbet",
+      "Édouard Manet",
+      "Claude Monet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
   }
 ]
