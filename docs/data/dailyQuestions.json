@@ -1,132 +1,132 @@
 [
   {
-    "id": "2147",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1923 ?",
-    "answer": "Aucun Oscar décerné",
+    "id": "116",
+    "question": "Quel est le mouvement artistique d'Andy Warhol ?",
+    "answer": "Pop Art",
     "badAnswers": [
-      "The Kid",
-      "The Four Horsemen",
-      "Robin Hood"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1923, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "1640",
-    "question": "Quel est le nom du groupe qui a chanté 'Champagne Supernova' ?",
-    "answer": "Oasis",
-    "badAnswers": [
-      "Blur",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Champagne Supernova', sorti en 1995 par Oasis, est une chanson britpop tirée de l'album (What's the Story) Morning Glory?."
-  },
-  {
-    "id": "1716",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS ?",
-    "answer": "Roger Easton",
-    "badAnswers": [
-      "Ivan Getting",
-      "Bradford Parkinson",
-      "Gladys West"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Roger L. Easton a conçu les bases du système GPS dans les années 1960, permettant la navigation par satellite."
-  },
-  {
-    "id": "1997",
-    "question": "Quel est le nom de l'inventeur du premier système de greffe de rein ?",
-    "answer": "Joseph Murray",
-    "badAnswers": [
-      "Willem Kolff",
-      "John Gibbon",
-      "Christiaan Barnard"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Joseph Murray a réalisé la première greffe de rein réussie en 1954, ouvrant la voie à la transplantation d'organes."
-  },
-  {
-    "id": "350",
-    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
-    "answer": "Master Chief",
-    "badAnswers": [
-      "Cortana",
-      "Arbiter",
-      "Noble Six"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
-  },
-  {
-    "id": "759",
-    "question": "Dans Fortnite, quel est le nom du lieu avec un grand manoir hanté ?",
-    "answer": "Frenzy Farm",
-    "badAnswers": [
-      "Haunted Hills",
-      "Salty Springs",
-      "Lazy Lake"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Haunted Hills est un lieu de Fortnite avec un thème hanté, incluant des éléments effrayants. Frenzy Farm, Salty Springs et Lazy Lake sont d'autres lieux, mais sans ce thème."
-  },
-  {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
-    "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
-  },
-  {
-    "id": "1437",
-    "question": "Quel est le nom du groupe qui a chanté 'Nothing Else Matters' ?",
-    "answer": "Metallica",
-    "badAnswers": [
-      "Megadeth",
-      "Slayer",
-      "Anthrax"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Nothing Else Matters', sorti en 1991 par Metallica, est une ballade heavy metal introspective tirée de l'album éponyme."
-  },
-  {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
-    "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
-  },
-  {
-    "id": "758",
-    "question": "Quel artiste a peint L'Angélus ?",
-    "answer": "Jean-François Millet",
-    "badAnswers": [
-      "Gustave Courbet",
-      "Édouard Manet",
-      "Claude Monet"
+      "Street Art",
+      "Land Art",
+      "Art Abstrait"
     ],
     "category": "Art",
     "difficulty": "normal",
-    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
+    "description": "Andy Warhol est une figure emblématique du Pop Art, mouvement qui s'inspire de la culture populaire et des médias. Le Street Art, le Land Art et l'Art Abstrait sont d'autres courants artistiques."
+  },
+  {
+    "id": "333",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Ciri",
+      "Triss Merigold",
+      "Keira Metz"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
+  },
+  {
+    "id": "1678",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+  },
+  {
+    "id": "843",
+    "question": "Quel est le plus grand primate du monde ?",
+    "answer": "Gorille des montagnes",
+    "badAnswers": [
+      "Orang-outan",
+      "Chimpanzé",
+      "Gibbon"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le gorille des montagnes est le plus grand primate, pouvant peser jusqu'à 200 kg. L'orang-outan, le chimpanzé et le gibbon sont plus petits."
+  },
+  {
+    "id": "1925",
+    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
+    "answer": "Michel Leiris",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
+  },
+  {
+    "id": "1353",
+    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
+    "answer": "Franz Kafka",
+    "badAnswers": [
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Günter Grass"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
+  },
+  {
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
+    "badAnswers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
+  },
+  {
+    "id": "601",
+    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
+    "answer": "Raijin",
+    "badAnswers": [
+      "Fujin",
+      "Susanoo",
+      "Hachiman"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
+  },
+  {
+    "id": "1399",
+    "question": "Quel est le nom de la déesse grecque des arts ?",
+    "answer": "Les Muses",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
+  },
+  {
+    "id": "822",
+    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
+    "answer": "Severus Rogue",
+    "badAnswers": [
+      "Horace Slughorn",
+      "Remus Lupin",
+      "Gilderoy Lockhart"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
   }
 ]
