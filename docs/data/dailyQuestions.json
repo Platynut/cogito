@@ -1,132 +1,132 @@
 [
   {
-    "id": "116",
-    "question": "Quel est le mouvement artistique d'Andy Warhol ?",
-    "answer": "Pop Art",
+    "id": "967",
+    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
     "badAnswers": [
-      "Street Art",
-      "Land Art",
-      "Art Abstrait"
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
     ],
-    "category": "Art",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Andy Warhol est une figure emblématique du Pop Art, mouvement qui s'inspire de la culture populaire et des médias. Le Street Art, le Land Art et l'Art Abstrait sont d'autres courants artistiques."
+    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
   },
   {
-    "id": "333",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
-    "answer": "Yennefer de Vengerberg",
+    "id": "558",
+    "question": "Quel est le nom du dieu romain de la mer ?",
+    "answer": "Neptune",
     "badAnswers": [
-      "Ciri",
-      "Triss Merigold",
-      "Keira Metz"
+      "Jupiter",
+      "Mars",
+      "Mercure"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Neptune est le dieu romain de la mer, équivalent de Poséidon dans la mythologie grecque. Jupiter est le dieu du ciel, Mars celui de la guerre, et Mercure celui du commerce."
   },
   {
-    "id": "1678",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
-    "answer": "Pokémon",
+    "id": "766",
+    "question": "Dans The Last of Us Part II, quel est le nom de la protagoniste principale ?",
+    "answer": "Ellie",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Joel",
+      "Abby",
+      "Tess"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+    "description": "Ellie est la protagoniste principale de The Last of Us Part II, poursuivant son histoire dans un monde post-apocalyptique. Joel est le héros du premier jeu, Abby une co-protagoniste, et Tess un personnage secondaire."
   },
   {
-    "id": "843",
-    "question": "Quel est le plus grand primate du monde ?",
-    "answer": "Gorille des montagnes",
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
     "badAnswers": [
-      "Orang-outan",
-      "Chimpanzé",
-      "Gibbon"
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
+  },
+  {
+    "id": "514",
+    "question": "Quel est le plus gros herbivore terrestre du monde ?",
+    "answer": "Rhinocéros blanc",
+    "badAnswers": [
+      "Éléphant",
+      "Girafe",
+      "Hippopotame"
     ],
     "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+  },
+  {
+    "id": "2090",
+    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
+    "answer": "Ian Donald",
+    "badAnswers": [
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+  },
+  {
+    "id": "1732",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
+    "answer": "Manfred von Ardenne",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+  },
+  {
+    "id": "133",
+    "question": "Comment s'appelle l'héroïne de Nier ?",
+    "answer": "2B",
+    "badAnswers": [
+      "C4",
+      "69",
+      "96"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le gorille des montagnes est le plus grand primate, pouvant peser jusqu'à 200 kg. L'orang-outan, le chimpanzé et le gibbon sont plus petits."
+    "description": "2B (YoRHa No.2 Type B) est l'héroïne du jeu 'Nier: Automata'. Les autres propositions sont des codes ou des chiffres sans rapport."
   },
   {
-    "id": "1925",
-    "question": "Quel est le nom de l'auteur de 'L'Âge d'homme' ?",
-    "answer": "Michel Leiris",
+    "id": "621",
+    "question": "Dans Red Dead Redemption 2, quel est le nom du chef du gang Van der Linde ?",
+    "answer": "Dutch van der Linde",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Arthur Morgan",
+      "John Marston",
+      "Micah Bell"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel Leiris a écrit 'L'Âge d'homme' (1939), une autobiographie introspective sur sa jeunesse."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dutch van der Linde est le chef du gang Van der Linde dans Red Dead Redemption 2, guidant ses membres dans l'Ouest américain. Arthur Morgan et John Marston sont des membres, et Micah Bell est un antagoniste."
   },
   {
-    "id": "1353",
-    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
-    "answer": "Franz Kafka",
+    "id": "658",
+    "question": "Quel est le nom de l'auteur de 'L'Île au trésor' ?",
+    "answer": "Robert Louis Stevenson",
     "badAnswers": [
-      "Hermann Hesse",
-      "Thomas Mann",
-      "Günter Grass"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
-  },
-  {
-    "id": "634",
-    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
-    "answer": "Albert Einstein",
-    "badAnswers": [
-      "Isaac Newton",
-      "Max Planck",
-      "Niels Bohr"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
-  },
-  {
-    "id": "601",
-    "question": "Quel dieu japonais est associé à la foudre, au tonnerre et aux tempêtes ?",
-    "answer": "Raijin",
-    "badAnswers": [
-      "Fujin",
-      "Susanoo",
-      "Hachiman"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Raijin est représenté avec des marteaux et des tambours, craignant de provoquer des tempêtes. Il est gardien des entrées de temple, symbole de protection."
-  },
-  {
-    "id": "1399",
-    "question": "Quel est le nom de la déesse grecque des arts ?",
-    "answer": "Les Muses",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
-  },
-  {
-    "id": "822",
-    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
-    "answer": "Severus Rogue",
-    "badAnswers": [
-      "Horace Slughorn",
-      "Remus Lupin",
-      "Gilderoy Lockhart"
+      "Jules Verne",
+      "Herman Melville",
+      "Daniel Defoe"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
+    "description": "Robert Louis Stevenson a écrit L'Île au trésor (1883), un roman d'aventure sur des pirates et un trésor caché. Verne, Melville et Defoe sont d'autres écrivains d'aventures, mais n'ont pas écrit ce roman."
   }
 ]
