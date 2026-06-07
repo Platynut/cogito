@@ -1,132 +1,132 @@
 [
   {
-    "id": "967",
-    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
+    "id": "219",
+    "question": "En quoi un nihiliste croit-il ?",
+    "answer": "En rien",
     "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
+      "En la chance",
+      "En tout",
+      "En lui-même"
     ],
-    "category": "Cinéma",
+    "category": "Philosophie",
     "difficulty": "normal",
-    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
+    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
   },
   {
-    "id": "558",
-    "question": "Quel est le nom du dieu romain de la mer ?",
-    "answer": "Neptune",
+    "id": "765",
+    "question": "Quel est le nom du dieu grec des enfers ?",
+    "answer": "Hadès",
     "badAnswers": [
-      "Jupiter",
-      "Mars",
-      "Mercure"
+      "Zeus",
+      "Poséidon",
+      "Arès"
     ],
     "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Neptune est le dieu romain de la mer, équivalent de Poséidon dans la mythologie grecque. Jupiter est le dieu du ciel, Mars celui de la guerre, et Mercure celui du commerce."
+    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
   },
   {
-    "id": "766",
-    "question": "Dans The Last of Us Part II, quel est le nom de la protagoniste principale ?",
-    "answer": "Ellie",
+    "id": "464",
+    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Révolution américaine",
     "badAnswers": [
-      "Joel",
-      "Abby",
-      "Tess"
+      "Guerre civile américaine",
+      "Révolution française",
+      "Guerre d'indépendance espagnole"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ellie est la protagoniste principale de The Last of Us Part II, poursuivant son histoire dans un monde post-apocalyptique. Joel est le héros du premier jeu, Abby une co-protagoniste, et Tess un personnage secondaire."
+    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
   },
   {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
+    "id": "221",
+    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
+    "answer": "The Big Bang Theory",
     "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "La Petite Maison dans la Prairie"
     ],
-    "category": "Cinéma",
+    "category": "Séries",
     "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
+    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
   },
   {
-    "id": "514",
-    "question": "Quel est le plus gros herbivore terrestre du monde ?",
-    "answer": "Rhinocéros blanc",
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Éléphant",
-      "Girafe",
-      "Hippopotame"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
   },
   {
-    "id": "2090",
-    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
-    "answer": "Ian Donald",
+    "id": "2088",
+    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
-    "category": "Médecine",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
+    "id": "1003",
+    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
+    "answer": "Alan Moore",
     "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
+  },
+  {
+    "id": "1297",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Juba",
+    "badAnswers": [
+      "Wau",
+      "Malakal",
+      "Yei"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Juba, capitale du Soudan du Sud depuis l'indépendance en 2011, est une ville située sur le Nil Blanc, en pleine croissance."
+  },
+  {
+    "id": "1283",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
+    "answer": "Gallium",
+    "badAnswers": [
+      "Germanium",
+      "Gadolinium",
+      "Graphite"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
+  },
+  {
+    "id": "2117",
+    "question": "Quel est le nom de l'inventeur du premier système de fibre optique ?",
+    "answer": "Charles Kao",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Robert Metcalfe"
     ],
     "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
-  },
-  {
-    "id": "133",
-    "question": "Comment s'appelle l'héroïne de Nier ?",
-    "answer": "2B",
-    "badAnswers": [
-      "C4",
-      "69",
-      "96"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "2B (YoRHa No.2 Type B) est l'héroïne du jeu 'Nier: Automata'. Les autres propositions sont des codes ou des chiffres sans rapport."
-  },
-  {
-    "id": "621",
-    "question": "Dans Red Dead Redemption 2, quel est le nom du chef du gang Van der Linde ?",
-    "answer": "Dutch van der Linde",
-    "badAnswers": [
-      "Arthur Morgan",
-      "John Marston",
-      "Micah Bell"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dutch van der Linde est le chef du gang Van der Linde dans Red Dead Redemption 2, guidant ses membres dans l'Ouest américain. Arthur Morgan et John Marston sont des membres, et Micah Bell est un antagoniste."
-  },
-  {
-    "id": "658",
-    "question": "Quel est le nom de l'auteur de 'L'Île au trésor' ?",
-    "answer": "Robert Louis Stevenson",
-    "badAnswers": [
-      "Jules Verne",
-      "Herman Melville",
-      "Daniel Defoe"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Robert Louis Stevenson a écrit L'Île au trésor (1883), un roman d'aventure sur des pirates et un trésor caché. Verne, Melville et Defoe sont d'autres écrivains d'aventures, mais n'ont pas écrit ce roman."
+    "difficulty": "normal",
+    "description": "Charles Kao a développé la fibre optique dans les années 1960, révolutionnant les télécommunications."
   }
 ]
