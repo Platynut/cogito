@@ -1,59 +1,111 @@
 [
   {
-    "id": "219",
-    "question": "En quoi un nihiliste croit-il ?",
-    "answer": "En rien",
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
     "badAnswers": [
-      "En la chance",
-      "En tout",
-      "En lui-même"
+      "Google",
+      "Microsoft",
+      "Amazon"
     ],
-    "category": "Philosophie",
+    "category": "Economie",
     "difficulty": "normal",
-    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
   },
   {
-    "id": "765",
-    "question": "Quel est le nom du dieu grec des enfers ?",
-    "answer": "Hadès",
+    "id": "1361",
+    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
     "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Arès"
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola"
     ],
-    "category": "Mythologie",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
+    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
   },
   {
-    "id": "464",
-    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Révolution américaine",
+    "id": "572",
+    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
+    "answer": "Atelier",
     "badAnswers": [
-      "Guerre civile américaine",
-      "Révolution française",
-      "Guerre d'indépendance espagnole"
+      "Confrérie",
+      "Église de la Guérison",
+      "Vilebloods"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
+    "difficulty": "normal",
+    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
   },
   {
-    "id": "221",
-    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
-    "answer": "The Big Bang Theory",
+    "id": "1326",
+    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
+    "answer": "Louis-Ferdinand Céline",
     "badAnswers": [
-      "How I Met Your Mother",
-      "Game of Thrones",
-      "La Petite Maison dans la Prairie"
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide"
     ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
   },
   {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "530",
+    "question": "Quel scientifique a découvert le neutron ?",
+    "answer": "James Chadwick",
+    "badAnswers": [
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Niels Bohr"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "James Chadwick a découvert le neutron en 1932, complétant le modèle de l'atome. Thomson a découvert l'électron, Rutherford le noyau, et Bohr a proposé le modèle atomique."
+  },
+  {
+    "id": "556",
+    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
+    "answer": "Johannes Kepler",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Isaac Newton"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
+  },
+  {
+    "id": "2040",
+    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
+    "answer": "Nathalie Sarraute",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
+  },
+  {
+    "id": "1954",
+    "question": "Quel est le nom du groupe qui a chanté 'Day Tripper' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -62,71 +114,19 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+    "description": "'Day Tripper', sorti en 1965 par The Beatles, est une chanson rock tirée de leur catalogue de singles."
   },
   {
-    "id": "2088",
-    "question": "Quel est le nom de l'auteur de 'La Prisonnière' ?",
-    "answer": "Marcel Proust",
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Livres",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'La Prisonnière' (1923), le cinquième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "1003",
-    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
-    "answer": "Alan Moore",
-    "badAnswers": [
-      "Bill Finger",
-      "Frank Miller",
-      "Jerry Siegel"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
-  },
-  {
-    "id": "1297",
-    "question": "Quel est la capitale du Soudan du Sud ?",
-    "answer": "Juba",
-    "badAnswers": [
-      "Wau",
-      "Malakal",
-      "Yei"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Juba, capitale du Soudan du Sud depuis l'indépendance en 2011, est une ville située sur le Nil Blanc, en pleine croissance."
-  },
-  {
-    "id": "1283",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
-    "answer": "Gallium",
-    "badAnswers": [
-      "Germanium",
-      "Gadolinium",
-      "Graphite"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
-  },
-  {
-    "id": "2117",
-    "question": "Quel est le nom de l'inventeur du premier système de fibre optique ?",
-    "answer": "Charles Kao",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Robert Metcalfe"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Charles Kao a développé la fibre optique dans les années 1960, révolutionnant les télécommunications."
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
   }
 ]
