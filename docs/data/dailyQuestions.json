@@ -1,132 +1,132 @@
 [
   {
-    "id": "64",
-    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
-    "answer": "Meta",
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Google",
-      "Microsoft",
-      "Amazon"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
-  },
-  {
-    "id": "1361",
-    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
-    "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Émile Zola"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
+    "difficulty": "normal",
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
   },
   {
-    "id": "572",
-    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
-    "answer": "Atelier",
+    "id": "464",
+    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Révolution américaine",
     "badAnswers": [
-      "Confrérie",
-      "Église de la Guérison",
-      "Vilebloods"
+      "Guerre civile américaine",
+      "Révolution française",
+      "Guerre d'indépendance espagnole"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+    "difficulty": "facile",
+    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
   },
   {
-    "id": "1326",
-    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "2116",
+    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
+    "answer": "Godfrey Hounsfield",
     "badAnswers": [
-      "Albert Camus",
+      "Raymond Damadian",
+      "Paul Lauterbur",
+      "Peter Mansfield"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
+  },
+  {
+    "id": "1964",
+    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
       "Jean-Paul Sartre",
+      "Albert Camus",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
+    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
   },
   {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
+    "id": "1269",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
+    "answer": "Titanic",
     "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
+      "Good Will Hunting",
+      "L.A. Confidential",
+      "As Good as It Gets"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
+  },
+  {
+    "id": "656",
+    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
+    "answer": "James Prescott Joule",
+    "badAnswers": [
+      "Michael Faraday",
+      "Hermann von Helmholtz",
+      "Sadi Carnot"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
+  },
+  {
+    "id": "354",
+    "question": "Quel est le nom du plus grand lac d'Afrique ?",
+    "answer": "Lac Victoria",
+    "badAnswers": [
+      "Lac Tanganyika",
+      "Lac Malawi",
+      "Lac Tchad"
     ],
     "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
+  },
+  {
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+  },
+  {
+    "id": "1122",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
+    "answer": "Sodium",
+    "badAnswers": [
+      "Nickel",
+      "Néon",
+      "Nitrure"
+    ],
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
   },
   {
-    "id": "530",
-    "question": "Quel scientifique a découvert le neutron ?",
-    "answer": "James Chadwick",
+    "id": "1346",
+    "question": "Quel est le nom de l'auteur de 'Candide' ?",
+    "answer": "Voltaire",
     "badAnswers": [
-      "J.J. Thomson",
-      "Ernest Rutherford",
-      "Niels Bohr"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "James Chadwick a découvert le neutron en 1932, complétant le modèle de l'atome. Thomson a découvert l'électron, Rutherford le noyau, et Bohr a proposé le modèle atomique."
-  },
-  {
-    "id": "556",
-    "question": "Quel scientifique a découvert les lois du mouvement planétaire ?",
-    "answer": "Johannes Kepler",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Tycho Brahe",
-      "Isaac Newton"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Johannes Kepler a formulé les trois lois du mouvement planétaire au début du XVIIe siècle, décrivant les orbites elliptiques des planètes. Galilée a soutenu l'héliocentrisme, Brahe a collecté des données, et Newton a formulé la gravitation universelle."
-  },
-  {
-    "id": "2040",
-    "question": "Quel est le nom de l'auteur de 'Les Fruits d'or' ?",
-    "answer": "Nathalie Sarraute",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Jean-Jacques Rousseau",
+      "Denis Diderot",
+      "Montesquieu"
     ],
     "category": "Livres",
-    "difficulty": "normal",
-    "description": "Nathalie Sarraute a écrit 'Les Fruits d'or' (1963), un roman du Nouveau Roman explorant la critique littéraire."
-  },
-  {
-    "id": "1954",
-    "question": "Quel est le nom du groupe qui a chanté 'Day Tripper' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Day Tripper', sorti en 1965 par The Beatles, est une chanson rock tirée de leur catalogue de singles."
-  },
-  {
-    "id": "1778",
-    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
-    "answer": "The Allman Brothers Band",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
+    "description": "Voltaire a écrit 'Candide' (1759), une satire philosophique critiquant l'optimisme naïf à travers les mésaventures du jeune Candide."
   }
 ]
