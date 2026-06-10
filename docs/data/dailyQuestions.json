@@ -1,132 +1,132 @@
 [
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "1622",
+    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
+    "answer": "Alice in Chains",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
   },
   {
-    "id": "464",
-    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Révolution américaine",
+    "id": "1958",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Guerre civile américaine",
-      "Révolution française",
-      "Guerre d'indépendance espagnole"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "1413",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
+    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
   },
   {
-    "id": "2116",
-    "question": "Quel est le nom de l'inventeur du premier système de CT scan (tomographie) ?",
-    "answer": "Godfrey Hounsfield",
+    "id": "481",
+    "question": "Quel est le nom du plus grand récif corallien du monde ?",
+    "answer": "Grande Barrière de Corail",
     "badAnswers": [
-      "Raymond Damadian",
-      "Paul Lauterbur",
-      "Peter Mansfield"
+      "Récif de Belize",
+      "Récif de Ningaloo",
+      "Récif de Palau"
     ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Godfrey Hounsfield a développé le premier scanner de tomographie en 1971, une avancée majeure en imagerie médicale."
-  },
-  {
-    "id": "1964",
-    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
-  },
-  {
-    "id": "1269",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
-    "answer": "Titanic",
-    "badAnswers": [
-      "Good Will Hunting",
-      "L.A. Confidential",
-      "As Good as It Gets"
-    ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
+    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
   },
   {
-    "id": "656",
-    "question": "Quel scientifique a découvert le principe de la conservation de l'énergie ?",
-    "answer": "James Prescott Joule",
+    "id": "874",
+    "question": "Quel est le nom du plus haut sommet d'Australie ?",
+    "answer": "Mont Kosciuszko",
     "badAnswers": [
-      "Michael Faraday",
-      "Hermann von Helmholtz",
-      "Sadi Carnot"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Prescott Joule a établi le principe de la conservation de l'énergie au XIXe siècle grâce à ses travaux sur la chaleur et l'énergie mécanique. Faraday, Helmholtz et Carnot ont contribué à d'autres domaines de la physique."
-  },
-  {
-    "id": "354",
-    "question": "Quel est le nom du plus grand lac d'Afrique ?",
-    "answer": "Lac Victoria",
-    "badAnswers": [
-      "Lac Tanganyika",
-      "Lac Malawi",
-      "Lac Tchad"
+      "Mont Ossa",
+      "Mont Bogong",
+      "Mont Hotham"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
+    "description": "Le Mont Kosciuszko, en Nouvelle-Galles du Sud, est le plus haut sommet d'Australie, culminant à 2 228 mètres. Ossa, Bogong et Hotham sont d'autres sommets australiens, mais plus bas."
   },
   {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
+    "id": "1016",
+    "question": "Quel philosophe a écrit l'ouvrage 'Ainsi parlait Zarathoustra' ?",
+    "answer": "Friedrich Nietzsche",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Søren Kierkegaard",
+      "Jean-Paul Sartre",
+      "Immanuel Kant"
     ],
-    "category": "Mythologie",
+    "category": "Philosophie",
     "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+    "description": "Friedrich Nietzsche a publié 'Ainsi parlait Zarathoustra' entre 1883 et 1885, une œuvre philosophique explorant des thèmes comme le surhumain et la mort de Dieu."
   },
   {
-    "id": "1122",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
-    "answer": "Sodium",
+    "id": "303",
+    "question": "Qui a écrit la pièce Anges en Amérique ?",
+    "answer": "Tony Kushner",
     "badAnswers": [
-      "Nickel",
-      "Néon",
-      "Nitrure"
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
     ],
-    "category": "Science",
+    "category": "Comédies musicales et théâtre",
     "difficulty": "facile",
-    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
+    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
   },
   {
-    "id": "1346",
-    "question": "Quel est le nom de l'auteur de 'Candide' ?",
-    "answer": "Voltaire",
+    "id": "1927",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
+    "answer": "Frank Whittle",
     "badAnswers": [
-      "Jean-Jacques Rousseau",
-      "Denis Diderot",
-      "Montesquieu"
+      "Hans von Ohain",
+      "Robert Goddard",
+      "Wernher von Braun"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Voltaire a écrit 'Candide' (1759), une satire philosophique critiquant l'optimisme naïf à travers les mésaventures du jeune Candide."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+  },
+  {
+    "id": "715",
+    "question": "Quel est le plus grand reptile marin du monde ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Tortue luth",
+      "Iguane marin",
+      "Serpent de mer"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
+  },
+  {
+    "id": "1259",
+    "question": "Quel est le nom de l'inventeur qui a popularisé la machine à coudre ?",
+    "answer": "Isaac Singer",
+    "badAnswers": [
+      "Elias Howe",
+      "Thomas Edison",
+      "Samuel Morse"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Isaac Singer a amélioré et popularisé la machine à coudre dans les années 1850, permettant une production de vêtements plus rapide et à grande échelle. L'invention initiale est souvent attribuée à Elias Howe."
   }
 ]
