@@ -1,20 +1,20 @@
 [
   {
-    "id": "1622",
-    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
-    "answer": "Alice in Chains",
+    "id": "96",
+    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
+    "answer": "Sherlock Holmes",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Hercule Poirot",
+      "Miss Marple",
+      "Sam Spade"
     ],
-    "category": "Musique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
   },
   {
-    "id": "1958",
-    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
+    "id": "1905",
+    "question": "Quel est le nom du groupe qui a chanté 'A Day in the Life' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -23,110 +23,110 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "'A Day in the Life', sorti en 1967 par The Beatles, est une chanson expérimentale tirée de l'album Sgt. Pepper's."
   },
   {
-    "id": "1413",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
-    "answer": "Final Fantasy VII",
+    "id": "154",
+    "question": "Qu'est-ce que HTML signifie en informatique ?",
+    "answer": "HyperText Markup Language",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
-  },
-  {
-    "id": "481",
-    "question": "Quel est le nom du plus grand récif corallien du monde ?",
-    "answer": "Grande Barrière de Corail",
-    "badAnswers": [
-      "Récif de Belize",
-      "Récif de Ningaloo",
-      "Récif de Palau"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
-  },
-  {
-    "id": "874",
-    "question": "Quel est le nom du plus haut sommet d'Australie ?",
-    "answer": "Mont Kosciuszko",
-    "badAnswers": [
-      "Mont Ossa",
-      "Mont Bogong",
-      "Mont Hotham"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mont Kosciuszko, en Nouvelle-Galles du Sud, est le plus haut sommet d'Australie, culminant à 2 228 mètres. Ossa, Bogong et Hotham sont d'autres sommets australiens, mais plus bas."
-  },
-  {
-    "id": "1016",
-    "question": "Quel philosophe a écrit l'ouvrage 'Ainsi parlait Zarathoustra' ?",
-    "answer": "Friedrich Nietzsche",
-    "badAnswers": [
-      "Søren Kierkegaard",
-      "Jean-Paul Sartre",
-      "Immanuel Kant"
-    ],
-    "category": "Philosophie",
-    "difficulty": "normal",
-    "description": "Friedrich Nietzsche a publié 'Ainsi parlait Zarathoustra' entre 1883 et 1885, une œuvre philosophique explorant des thèmes comme le surhumain et la mort de Dieu."
-  },
-  {
-    "id": "303",
-    "question": "Qui a écrit la pièce Anges en Amérique ?",
-    "answer": "Tony Kushner",
-    "badAnswers": [
-      "Tom Stoppard",
-      "Matthew Lopez",
-      "Anthony Neilson"
-    ],
-    "category": "Comédies musicales et théâtre",
-    "difficulty": "facile",
-    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
-  },
-  {
-    "id": "1927",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
-    "answer": "Frank Whittle",
-    "badAnswers": [
-      "Hans von Ohain",
-      "Robert Goddard",
-      "Wernher von Braun"
+      "HighTech Modern Language",
+      "HyperTransfer Markup Language",
+      "HyperText Machine Language"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
   },
   {
-    "id": "715",
-    "question": "Quel est le plus grand reptile marin du monde ?",
-    "answer": "Crocodile marin",
+    "id": "2037",
+    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "Tortue luth",
-      "Iguane marin",
-      "Serpent de mer"
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "André Gide"
     ],
-    "category": "Animaux",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
+    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
   },
   {
-    "id": "1259",
-    "question": "Quel est le nom de l'inventeur qui a popularisé la machine à coudre ?",
-    "answer": "Isaac Singer",
+    "id": "2133",
+    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
-      "Elias Howe",
-      "Thomas Edison",
-      "Samuel Morse"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
-    "category": "Histoire",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Isaac Singer a amélioré et popularisé la machine à coudre dans les années 1850, permettant une production de vêtements plus rapide et à grande échelle. L'invention initiale est souvent attribuée à Elias Howe."
+    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
+  },
+  {
+    "id": "631",
+    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
+    "answer": "V-Bucks",
+    "badAnswers": [
+      "Robux",
+      "Credits",
+      "Battle Points"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+  },
+  {
+    "id": "1151",
+    "question": "Quel est le nom du dieu grec des rêves ?",
+    "answer": "Morpheus",
+    "badAnswers": [
+      "Hypnos",
+      "Thanatos",
+      "Éros"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+  },
+  {
+    "id": "1983",
+    "question": "Quel est le nom de l'inventeur du premier système de carte à puce ?",
+    "answer": "Roland Moreno",
+    "badAnswers": [
+      "Robert Noyce",
+      "Jack Kilby",
+      "Martin Cooper"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Roland Moreno a inventé la carte à puce en 1974, utilisée dans les cartes bancaires et les systèmes sécurisés."
+  },
+  {
+    "id": "414",
+    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
+    "answer": "Antonio Vivaldi",
+    "badAnswers": [
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Claudio Monteverdi"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
+  },
+  {
+    "id": "338",
+    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Aubétoile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
   }
 ]
