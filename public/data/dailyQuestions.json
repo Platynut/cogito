@@ -1,132 +1,132 @@
 [
   {
-    "id": "96",
-    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
-    "answer": "Sherlock Holmes",
+    "id": "661",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
+    "answer": "Enigma",
     "badAnswers": [
-      "Hercule Poirot",
-      "Miss Marple",
-      "Sam Spade"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
-  },
-  {
-    "id": "1905",
-    "question": "Quel est le nom du groupe qui a chanté 'A Day in the Life' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'A Day in the Life', sorti en 1967 par The Beatles, est une chanson expérimentale tirée de l'album Sgt. Pepper's."
-  },
-  {
-    "id": "154",
-    "question": "Qu'est-ce que HTML signifie en informatique ?",
-    "answer": "HyperText Markup Language",
-    "badAnswers": [
-      "HighTech Modern Language",
-      "HyperTransfer Markup Language",
-      "HyperText Machine Language"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
-  },
-  {
-    "id": "2037",
-    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
-  },
-  {
-    "id": "2133",
-    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
-    "answer": "Jean Cocteau",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
-  },
-  {
-    "id": "631",
-    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
-    "answer": "V-Bucks",
-    "badAnswers": [
-      "Robux",
-      "Credits",
-      "Battle Points"
+      "Void Spirit",
+      "Dark Seer",
+      "Faceless Void"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
   },
   {
-    "id": "1151",
-    "question": "Quel est le nom du dieu grec des rêves ?",
-    "answer": "Morpheus",
+    "id": "998",
+    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
+    "answer": "Le traumatisme d'enfance du personnage principal",
     "badAnswers": [
-      "Hypnos",
-      "Thanatos",
-      "Éros"
+      "Le lien avec le meurtre d'innocents",
+      "Le plat préféré du méchant",
+      "La voix des innocents étouffée par les puissants"
+    ],
+    "category": "Livres",
+    "difficulty": "difficile",
+    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
+  },
+  {
+    "id": "2079",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Sunrise: A Song of Two Humans",
+    "badAnswers": [
+      "The Last Command",
+      "Wings",
+      "The Crowd"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
+  },
+  {
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Sceptre d'Aghanim",
+    "badAnswers": [
+      "Barre du Roi Noir",
+      "Rapier Divine",
+      "Cœur de Tarrasque"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
+  },
+  {
+    "id": "765",
+    "question": "Quel est le nom du dieu grec des enfers ?",
+    "answer": "Hadès",
+    "badAnswers": [
+      "Zeus",
+      "Poséidon",
+      "Arès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
+  },
+  {
+    "id": "1168",
+    "question": "Quel est le nom du dieu grec de la forge ?",
+    "answer": "Héphaïstos",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+  },
+  {
+    "id": "1265",
+    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
+    "answer": "Adret",
+    "badAnswers": [
+      "Ubac",
+      "Étang",
+      "Ressac"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
+  },
+  {
+    "id": "1388",
+    "question": "Quel est le nom de la déesse grecque de la jeunesse ?",
+    "answer": "Hébé",
+    "badAnswers": [
+      "Athéna",
+      "Aphrodite",
+      "Artémis"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+    "description": "Hébé, déesse grecque de la jeunesse, est la fille de Zeus et Héra, souvent représentée comme la coupeuse des dieux sur l'Olympe."
   },
   {
-    "id": "1983",
-    "question": "Quel est le nom de l'inventeur du premier système de carte à puce ?",
-    "answer": "Roland Moreno",
+    "id": "1425",
+    "question": "Quel est la capitale de l'Arménie ?",
+    "answer": "Erevan",
     "badAnswers": [
-      "Robert Noyce",
-      "Jack Kilby",
-      "Martin Cooper"
+      "Gyumri",
+      "Vanadzor",
+      "Hrazdan"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Roland Moreno a inventé la carte à puce en 1974, utilisée dans les cartes bancaires et les systèmes sécurisés."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Erevan, capitale de l'Arménie, est l'une des plus anciennes villes habitées du monde, connue pour ses musées et sa vue sur le mont Ararat."
   },
   {
-    "id": "414",
-    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
-    "answer": "Antonio Vivaldi",
+    "id": "257",
+    "question": "Dans quel océan se situe l'île de la Réunion ?",
+    "answer": "L'océan Indien",
     "badAnswers": [
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Claudio Monteverdi"
+      "L'océan Atlantique",
+      "L'océan Pacifique",
+      "L'océan Austral"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
-  },
-  {
-    "id": "338",
-    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Aubétoile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
+    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
   }
 ]
