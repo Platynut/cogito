@@ -1,132 +1,132 @@
 [
   {
-    "id": "661",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Black Hole ?",
-    "answer": "Enigma",
+    "id": "1549",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1946 ?",
+    "answer": "The Best Years of Our Lives",
     "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Faceless Void"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui aspire les ennemis dans une zone. Void Spirit, Dark Seer et Faceless Void ont d'autres sorts ultimes."
-  },
-  {
-    "id": "998",
-    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
-    "answer": "Le traumatisme d'enfance du personnage principal",
-    "badAnswers": [
-      "Le lien avec le meurtre d'innocents",
-      "Le plat préféré du méchant",
-      "La voix des innocents étouffée par les puissants"
-    ],
-    "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
-  },
-  {
-    "id": "2079",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Sunrise: A Song of Two Humans",
-    "badAnswers": [
-      "The Last Command",
-      "Wings",
-      "The Crowd"
+      "It's a Wonderful Life",
+      "The Razor's Edge",
+      "The Yearling"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
-  },
-  {
-    "id": "401",
-    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
-    "answer": "Sceptre d'Aghanim",
-    "badAnswers": [
-      "Barre du Roi Noir",
-      "Rapier Divine",
-      "Cœur de Tarrasque"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
+    "description": "The Best Years of Our Lives, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1946, un drame sur le retour des vétérans."
   },
   {
-    "id": "765",
-    "question": "Quel est le nom du dieu grec des enfers ?",
-    "answer": "Hadès",
+    "id": "1247",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2001 ?",
+    "answer": "A Beautiful Mind",
     "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Arès"
+      "Moulin Rouge!",
+      "Gosford Park",
+      "The Lord of the Rings: The Fellowship of the Ring"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "A Beautiful Mind, réalisé par Ron Howard, a remporté l'Oscar du meilleur film en 2001, racontant la vie du mathématicien John Nash."
   },
   {
-    "id": "1168",
-    "question": "Quel est le nom du dieu grec de la forge ?",
-    "answer": "Héphaïstos",
+    "id": "481",
+    "question": "Quel est le nom du plus grand récif corallien du monde ?",
+    "answer": "Grande Barrière de Corail",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
-  },
-  {
-    "id": "1265",
-    "question": "Comment appelle-t-on le versant de la montagne situé au soleil ?",
-    "answer": "Adret",
-    "badAnswers": [
-      "Ubac",
-      "Étang",
-      "Ressac"
+      "Récif de Belize",
+      "Récif de Ningaloo",
+      "Récif de Palau"
     ],
     "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
+  },
+  {
+    "id": "1303",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
+    "answer": "Dances with Wolves",
+    "badAnswers": [
+      "Goodfellas",
+      "Awakenings",
+      "Ghost"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
+  },
+  {
+    "id": "1863",
+    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
+    "answer": "Norman Woodland",
+    "badAnswers": [
+      "Bernard Silver",
+      "George Laurer",
+      "Alan Haberman"
+    ],
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "L'adret est le versant d'une montagne exposé au soleil, souvent plus sec et moins boisé. À l'inverse, l'ubac est le versant ombragé, généralement plus humide et plus végétalisé. L'étang et le ressac ne sont pas liés à ces notions."
+    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
   },
   {
-    "id": "1388",
-    "question": "Quel est le nom de la déesse grecque de la jeunesse ?",
-    "answer": "Hébé",
+    "id": "1764",
+    "question": "Quel est le nom du groupe qui a chanté 'Gimme All Your Lovin' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Athéna",
-      "Aphrodite",
-      "Artémis"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Hébé, déesse grecque de la jeunesse, est la fille de Zeus et Héra, souvent représentée comme la coupeuse des dieux sur l'Olympe."
-  },
-  {
-    "id": "1425",
-    "question": "Quel est la capitale de l'Arménie ?",
-    "answer": "Erevan",
-    "badAnswers": [
-      "Gyumri",
-      "Vanadzor",
-      "Hrazdan"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Erevan, capitale de l'Arménie, est l'une des plus anciennes villes habitées du monde, connue pour ses musées et sa vue sur le mont Ararat."
+    "description": "'Gimme All Your Lovin', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
   },
   {
-    "id": "257",
-    "question": "Dans quel océan se situe l'île de la Réunion ?",
-    "answer": "L'océan Indien",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "L'océan Atlantique",
-      "L'océan Pacifique",
-      "L'océan Austral"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Géographie",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
+  },
+  {
+    "id": "1902",
+    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
+  },
+  {
+    "id": "198",
+    "question": "Combien de temps dure le mandat du président des États-Unis ?",
+    "answer": "4 ans",
+    "badAnswers": [
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
+  },
+  {
+    "id": "1735",
+    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
+    "answer": "Michel de Montaigne",
+    "badAnswers": [
+      "François Rabelais",
+      "Jean-Jacques Rousseau",
+      "Voltaire"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La Réunion, département français d'outre-mer, est située dans l'océan Indien à 700km à l'est de Madagascar. Cette île volcanique de 2 512 km² fait partie de l'archipel des Mascareignes avec Maurice et Rodrigues."
+    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
   }
 ]
