@@ -1,132 +1,132 @@
 [
   {
-    "id": "1549",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1946 ?",
-    "answer": "The Best Years of Our Lives",
+    "id": "12",
+    "question": "Quel fromage français est connu pour ses trous ?",
+    "answer": "Emmental",
     "badAnswers": [
-      "It's a Wonderful Life",
-      "The Razor's Edge",
-      "The Yearling"
+      "Camembert",
+      "Roquefort",
+      "Brie"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Best Years of Our Lives, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1946, un drame sur le retour des vétérans."
-  },
-  {
-    "id": "1247",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2001 ?",
-    "answer": "A Beautiful Mind",
-    "badAnswers": [
-      "Moulin Rouge!",
-      "Gosford Park",
-      "The Lord of the Rings: The Fellowship of the Ring"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "A Beautiful Mind, réalisé par Ron Howard, a remporté l'Oscar du meilleur film en 2001, racontant la vie du mathématicien John Nash."
-  },
-  {
-    "id": "481",
-    "question": "Quel est le nom du plus grand récif corallien du monde ?",
-    "answer": "Grande Barrière de Corail",
-    "badAnswers": [
-      "Récif de Belize",
-      "Récif de Ningaloo",
-      "Récif de Palau"
-    ],
-    "category": "Géographie",
+    "category": "Cuisine",
     "difficulty": "facile",
-    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
+    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
   },
   {
-    "id": "1303",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
-    "answer": "Dances with Wolves",
+    "id": "2002",
+    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
+    "answer": "Federico Faggin",
     "badAnswers": [
-      "Goodfellas",
-      "Awakenings",
-      "Ghost"
+      "Robert Noyce",
+      "Gordon Moore",
+      "Jack Kilby"
     ],
-    "category": "Cinéma",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
+    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
   },
   {
-    "id": "1863",
-    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
-    "answer": "Norman Woodland",
+    "id": "883",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom du royaume principal ?",
+    "answer": "Hyrule",
     "badAnswers": [
-      "Bernard Silver",
-      "George Laurer",
-      "Alan Haberman"
+      "Termina",
+      "Lorule",
+      "Holodrum"
     ],
-    "category": "Technologie",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Hyrule est le royaume principal de The Legend of Zelda: Breath of the Wild, où Link explore un monde ouvert. Termina, Lorule et Holodrum sont des royaumes d'autres jeux Zelda."
+  },
+  {
+    "id": "211",
+    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
+    "answer": "Samus Aran",
+    "badAnswers": [
+      "Sheamus",
+      "Darius",
+      "Prepus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
+  },
+  {
+    "id": "1630",
+    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
+    "answer": "Harmonie",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
+  },
+  {
+    "id": "818",
+    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
+    "answer": "Moira",
+    "badAnswers": [
+      "Sigma",
+      "Winston",
+      "Mercy"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
+  },
+  {
+    "id": "1625",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Og ?",
+    "answer": "Oganesson",
+    "badAnswers": [
+      "Osmium",
+      "Oxygène",
+      "Or"
+    ],
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+    "description": "L'oganesson, symbolisé par Og, est un élément radioactif synthétique, nommé d'après Yuri Oganessian, utilisé dans la recherche."
   },
   {
-    "id": "1764",
-    "question": "Quel est le nom du groupe qui a chanté 'Gimme All Your Lovin' ?",
-    "answer": "ZZ Top",
+    "id": "450",
+    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
+    "answer": "Sandro Botticelli",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival"
+      "William-Adolphe Bouguereau",
+      "Gustave Courbet",
+      "Eugène Delacroix"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Gimme All Your Lovin', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
-  },
-  {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
-  },
-  {
-    "id": "1902",
-    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
-  },
-  {
-    "id": "198",
-    "question": "Combien de temps dure le mandat du président des États-Unis ?",
-    "answer": "4 ans",
-    "badAnswers": [
-      "5 ans",
-      "6 ans",
-      "7 ans"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
-  },
-  {
-    "id": "1735",
-    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
-    "answer": "Michel de Montaigne",
-    "badAnswers": [
-      "François Rabelais",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
-    "category": "Livres",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
+    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
+  },
+  {
+    "id": "2080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928/29 ?",
+    "answer": "The Broadway Melody",
+    "badAnswers": [
+      "In Old Arizona",
+      "Alibi",
+      "The Hollywood Revue"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1928/29, une comédie musicale."
+  },
+  {
+    "id": "1232",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
+    "answer": "The Lord of the Rings: The Return of the King",
+    "badAnswers": [
+      "Mystic River",
+      "Lost in Translation",
+      "Master and Commander"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
   }
 ]
