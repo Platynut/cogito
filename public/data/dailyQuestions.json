@@ -1,132 +1,132 @@
 [
   {
-    "id": "12",
-    "question": "Quel fromage français est connu pour ses trous ?",
-    "answer": "Emmental",
+    "id": "405",
+    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
+    "answer": "70",
     "badAnswers": [
-      "Camembert",
-      "Roquefort",
-      "Brie"
+      "50",
+      "100",
+      "120"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
+  },
+  {
+    "id": "920",
+    "question": "Dans Fortnite, quel est le nom du lieu principal de la saison 7 du chapitre 2 ?",
+    "answer": "Coral Castle",
+    "badAnswers": [
+      "Slurpy Swamp",
+      "Misty Meadows",
+      "Lazy Lake"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Coral Castle est un lieu principal de la saison 7 du chapitre 2 de Fortnite, avec un thème aquatique. Slurpy Swamp, Misty Meadows et Lazy Lake sont d'autres lieux."
+  },
+  {
+    "id": "343",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
+    "answer": "Plateau du Prélude",
+    "badAnswers": [
+      "Plaine d'Hyrule",
+      "Montagne de la Mort",
+      "Désert Gerudo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+  },
+  {
+    "id": "1353",
+    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
+    "answer": "Franz Kafka",
+    "badAnswers": [
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Günter Grass"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
+  },
+  {
+    "id": "2081",
+    "question": "Quel est le nom de l'auteur de 'J'irai cracher sur vos tombes' ?",
+    "answer": "Boris Vian",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Boris Vian a écrit 'J'irai cracher sur vos tombes' (1946) sous le pseudonyme Vernon Sullivan, un roman provocateur sur la vengeance."
+  },
+  {
+    "id": "74",
+    "question": "Quelle épice est obtenue à partir du crocus ?",
+    "answer": "Safran",
+    "badAnswers": [
+      "Curcuma",
+      "Cannelle",
+      "Cardamome"
     ],
     "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
-  },
-  {
-    "id": "2002",
-    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
-    "answer": "Federico Faggin",
-    "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
+    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
   },
   {
-    "id": "883",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom du royaume principal ?",
-    "answer": "Hyrule",
+    "id": "196",
+    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
+    "answer": "Alsace",
     "badAnswers": [
-      "Termina",
-      "Lorule",
-      "Holodrum"
+      "Bretagne",
+      "Corse",
+      "Auvergne"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Hyrule est le royaume principal de The Legend of Zelda: Breath of the Wild, où Link explore un monde ouvert. Termina, Lorule et Holodrum sont des royaumes d'autres jeux Zelda."
-  },
-  {
-    "id": "211",
-    "question": "Comment s'appelle l'héroïne des jeux Metroid ?",
-    "answer": "Samus Aran",
-    "badAnswers": [
-      "Sheamus",
-      "Darius",
-      "Prepus"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Samus Aran est la chasseuse de primes protagoniste de 'Metroid', souvent considérée comme la première héroïne de jeu vidéo. Les autres noms sont inventés."
+    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
   },
   {
-    "id": "1630",
-    "question": "Quel est le nom de la déesse grecque de l'harmonie ?",
-    "answer": "Harmonie",
+    "id": "1488",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
+    "answer": "The Bridge on the River Kwai",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Harmonie, déesse grecque mineure de l'harmonie et de la concorde, est la fille d'Arès et d'Aphrodite."
-  },
-  {
-    "id": "818",
-    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
-    "answer": "Moira",
-    "badAnswers": [
-      "Sigma",
-      "Winston",
-      "Mercy"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
-  },
-  {
-    "id": "1625",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Og ?",
-    "answer": "Oganesson",
-    "badAnswers": [
-      "Osmium",
-      "Oxygène",
-      "Or"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'oganesson, symbolisé par Og, est un élément radioactif synthétique, nommé d'après Yuri Oganessian, utilisé dans la recherche."
-  },
-  {
-    "id": "450",
-    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
-    "answer": "Sandro Botticelli",
-    "badAnswers": [
-      "William-Adolphe Bouguereau",
-      "Gustave Courbet",
-      "Eugène Delacroix"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
-  },
-  {
-    "id": "2080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928/29 ?",
-    "answer": "The Broadway Melody",
-    "badAnswers": [
-      "In Old Arizona",
-      "Alibi",
-      "The Hollywood Revue"
+      "12 Angry Men",
+      "Sayonara",
+      "Peyton Place"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1928/29, une comédie musicale."
+    "difficulty": "normal",
+    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
   },
   {
-    "id": "1232",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2003 ?",
-    "answer": "The Lord of the Rings: The Return of the King",
+    "id": "839",
+    "question": "Dans Celeste, quel est le nom de la montagne que Madeline escalade ?",
+    "answer": "Mont Celeste",
     "badAnswers": [
-      "Mystic River",
-      "Lost in Translation",
-      "Master and Commander"
+      "Mont Ebott",
+      "Mont Coronet",
+      "Mont Lanayru"
     ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "The Lord of the Rings: The Return of the King, réalisé par Peter Jackson, a remporté l'Oscar du meilleur film en 2003, concluant la trilogie épique."
+    "description": "Le Mont Celeste est la montagne centrale de Celeste, où Madeline affronte ses défis personnels. Ebott est dans Undertale, Coronet dans Pokémon, et Lanayru dans Zelda."
+  },
+  {
+    "id": "134",
+    "question": "A quelle classe animale le scorpion appartient-il ?",
+    "answer": "Arachnide",
+    "badAnswers": [
+      "Mammifère",
+      "Reptile",
+      "Insecte"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
   }
 ]
