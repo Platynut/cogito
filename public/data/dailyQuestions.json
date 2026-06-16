@@ -1,132 +1,132 @@
 [
   {
-    "id": "405",
-    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
-    "answer": "70",
+    "id": "1536",
+    "question": "Quel est la capitale du Togo ?",
+    "answer": "Lomé",
     "badAnswers": [
-      "50",
-      "100",
-      "120"
+      "Kara",
+      "Sokodé",
+      "Atakpamé"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
   },
   {
-    "id": "920",
-    "question": "Dans Fortnite, quel est le nom du lieu principal de la saison 7 du chapitre 2 ?",
-    "answer": "Coral Castle",
+    "id": "834",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à l'arc-en-ciel ?",
+    "answer": "Ho-Oh",
     "badAnswers": [
-      "Slurpy Swamp",
-      "Misty Meadows",
-      "Lazy Lake"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Coral Castle est un lieu principal de la saison 7 du chapitre 2 de Fortnite, avec un thème aquatique. Slurpy Swamp, Misty Meadows et Lazy Lake sont d'autres lieux."
-  },
-  {
-    "id": "343",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
-    "answer": "Plateau du Prélude",
-    "badAnswers": [
-      "Plaine d'Hyrule",
-      "Montagne de la Mort",
-      "Désert Gerudo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
-  },
-  {
-    "id": "1353",
-    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
-    "answer": "Franz Kafka",
-    "badAnswers": [
-      "Hermann Hesse",
-      "Thomas Mann",
-      "Günter Grass"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
-  },
-  {
-    "id": "2081",
-    "question": "Quel est le nom de l'auteur de 'J'irai cracher sur vos tombes' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'J'irai cracher sur vos tombes' (1946) sous le pseudonyme Vernon Sullivan, un roman provocateur sur la vengeance."
-  },
-  {
-    "id": "74",
-    "question": "Quelle épice est obtenue à partir du crocus ?",
-    "answer": "Safran",
-    "badAnswers": [
-      "Curcuma",
-      "Cannelle",
-      "Cardamome"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
-  },
-  {
-    "id": "196",
-    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
-    "answer": "Alsace",
-    "badAnswers": [
-      "Bretagne",
-      "Corse",
-      "Auvergne"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
-  },
-  {
-    "id": "1488",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
-    "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
-  },
-  {
-    "id": "839",
-    "question": "Dans Celeste, quel est le nom de la montagne que Madeline escalade ?",
-    "answer": "Mont Celeste",
-    "badAnswers": [
-      "Mont Ebott",
-      "Mont Coronet",
-      "Mont Lanayru"
+      "Lugia",
+      "Suicune",
+      "Entei"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le Mont Celeste est la montagne centrale de Celeste, où Madeline affronte ses défis personnels. Ebott est dans Undertale, Coronet dans Pokémon, et Lanayru dans Zelda."
+    "description": "Ho-Oh est le Pokémon légendaire associé à l'arc-en-ciel dans Pokémon Or. Lugia est lié à la mer, Suicune à l'eau, et Entei au feu."
   },
   {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
+    "id": "1484",
+    "question": "Quel est le nom du dieu grec du vent du nord ?",
+    "answer": "Borée",
     "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
+      "Éole",
+      "Zéphyr",
+      "Notos"
     ],
-    "category": "Nature",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
+    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
+  },
+  {
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
+    "badAnswers": [
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+  },
+  {
+    "id": "3",
+    "question": "Quelle série met en scène le cartel de Medellín ?",
+    "answer": "Narcos",
+    "badAnswers": [
+      "Breaking Bad",
+      "El Chapo",
+      "La Casa de Papel"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+  },
+  {
+    "id": "192",
+    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
+    "answer": "150 millions de km",
+    "badAnswers": [
+      "4 millions de km",
+      "60 millions de km",
+      "350 millions de km"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
+  },
+  {
+    "id": "1438",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
+    "answer": "Rhénium",
+    "badAnswers": [
+      "Ruthénium",
+      "Rhodium",
+      "Radon"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
+  },
+  {
+    "id": "652",
+    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
+    "answer": "Johannes Vermeer",
+    "badAnswers": [
+      "Rembrandt",
+      "Frans Hals",
+      "Jan van Eyck"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1567",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
+    "answer": "Bohrium",
+    "badAnswers": [
+      "Beryllium",
+      "Brome",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "1727",
+    "question": "Quel est le nom de l'auteur de 'L'Homme révolté' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit 'L'Homme révolté' (1951), un essai philosophique sur la révolte et la liberté."
   }
 ]
