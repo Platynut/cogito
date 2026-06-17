@@ -1,132 +1,132 @@
 [
   {
-    "id": "1536",
-    "question": "Quel est la capitale du Togo ?",
-    "answer": "Lomé",
+    "id": "1592",
+    "question": "Quel est le nom du groupe qui a chanté 'Love Bites' ?",
+    "answer": "Def Leppard",
     "badAnswers": [
-      "Kara",
-      "Sokodé",
-      "Atakpamé"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Love Bites', sorti en 1987 par Def Leppard, est une ballade rock tirée de l'album Hysteria."
+  },
+  {
+    "id": "912",
+    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
+    "answer": "Zilean",
+    "badAnswers": [
+      "Ekko",
+      "Chrono",
+      "Lux"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
+  },
+  {
+    "id": "677",
+    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
+    "answer": "Boris Vian",
+    "badAnswers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Breton"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1296",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
+    "answer": "Xénon",
+    "badAnswers": [
+      "Krypton",
+      "Radon",
+      "Argon"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
+  },
+  {
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+  },
+  {
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
+    "badAnswers": [
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
   },
   {
-    "id": "834",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à l'arc-en-ciel ?",
-    "answer": "Ho-Oh",
+    "id": "980",
+    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
+    "answer": "Luke la main froide",
     "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Entei"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ho-Oh est le Pokémon légendaire associé à l'arc-en-ciel dans Pokémon Or. Lugia est lié à la mer, Suicune à l'eau, et Entei au feu."
-  },
-  {
-    "id": "1484",
-    "question": "Quel est le nom du dieu grec du vent du nord ?",
-    "answer": "Borée",
-    "badAnswers": [
-      "Éole",
-      "Zéphyr",
-      "Notos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
-  },
-  {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
-    "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
-  },
-  {
-    "id": "3",
-    "question": "Quelle série met en scène le cartel de Medellín ?",
-    "answer": "Narcos",
-    "badAnswers": [
-      "Breaking Bad",
-      "El Chapo",
-      "La Casa de Papel"
+      "Bonnie and Clyde",
+      "Le Lauréat",
+      "Dans la chaleur de la nuit"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+  },
+  {
+    "id": "864",
+    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
+    "answer": "Toriel",
+    "badAnswers": [
+      "Sans",
+      "Papyrus",
+      "Undyne"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Narcos (2015-2017) retrace l'ascension de Pablo Escobar et du cartel de Medellín. La série mélange faits réels et fiction."
+    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
   },
   {
-    "id": "192",
-    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
-    "answer": "150 millions de km",
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "4 millions de km",
-      "60 millions de km",
-      "350 millions de km"
-    ],
-    "category": "Astronomie",
-    "difficulty": "normal",
-    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
-  },
-  {
-    "id": "1438",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
-    "answer": "Rhénium",
-    "badAnswers": [
-      "Ruthénium",
-      "Rhodium",
-      "Radon"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
-  },
-  {
-    "id": "652",
-    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
-    "answer": "Johannes Vermeer",
-    "badAnswers": [
-      "Rembrandt",
-      "Frans Hals",
-      "Jan van Eyck"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1567",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
-    "answer": "Bohrium",
-    "badAnswers": [
-      "Beryllium",
-      "Brome",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "1727",
-    "question": "Quel est le nom de l'auteur de 'L'Homme révolté' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "André Gide",
-      "Marcel Proust"
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Camus a écrit 'L'Homme révolté' (1951), un essai philosophique sur la révolte et la liberté."
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+  },
+  {
+    "id": "1151",
+    "question": "Quel est le nom du dieu grec des rêves ?",
+    "answer": "Morpheus",
+    "badAnswers": [
+      "Hypnos",
+      "Thanatos",
+      "Éros"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
   }
 ]
