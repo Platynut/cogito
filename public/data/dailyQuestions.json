@@ -1,59 +1,46 @@
 [
   {
-    "id": "1592",
-    "question": "Quel est le nom du groupe qui a chanté 'Love Bites' ?",
-    "answer": "Def Leppard",
+    "id": "608",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
+    "answer": "Boba Fett",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Jango Fett",
+      "Bossk",
+      "Dengar"
     ],
-    "category": "Musique",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'Love Bites', sorti en 1987 par Def Leppard, est une ballade rock tirée de l'album Hysteria."
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
   },
   {
-    "id": "912",
-    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
-    "answer": "Zilean",
+    "id": "141",
+    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
+    "answer": "Afrique du Sud",
     "badAnswers": [
-      "Ekko",
-      "Chrono",
-      "Lux"
+      "Russie",
+      "Etats-Unis",
+      "Italie"
     ],
-    "category": "Jeux vidéo",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
+    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
   },
   {
-    "id": "677",
-    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
-    "answer": "Boris Vian",
+    "id": "2143",
+    "question": "Quel est le nom de l'auteur de 'Le K' ?",
+    "answer": "Dino Buzzati",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Breton"
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
     ],
-    "category": "Littérature",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit L'Écume des jours (1947), un roman poétique et surréaliste sur l'amour tragique de Colin et Chloé. Camus, Sartre et Breton sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
   },
   {
-    "id": "1296",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Xe ?",
-    "answer": "Xénon",
-    "badAnswers": [
-      "Krypton",
-      "Radon",
-      "Argon"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le xénon, symbolisé par Xe, est un gaz noble utilisé dans les lampes à décharge et les propulseurs ioniques pour satellites."
-  },
-  {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "id": "1898",
+    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -62,71 +49,84 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
   },
   {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
+    "id": "1586",
+    "question": "Quel est la capitale du Lesotho ?",
+    "answer": "Maseru",
     "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
+      "Teyateyaneng",
+      "Leribe",
+      "Mafeteng"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+    "difficulty": "normal",
+    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
   },
   {
-    "id": "980",
-    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
-    "answer": "Luke la main froide",
+    "id": "1504",
+    "question": "Quel est le nom de l'inventeur du premier télescope réfracteur ?",
+    "answer": "Hans Lippershey",
     "badAnswers": [
-      "Bonnie and Clyde",
-      "Le Lauréat",
-      "Dans la chaleur de la nuit"
+      "Galilée",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Hans Lippershey, opticien néerlandais, est crédité pour le premier télescope réfracteur en 1608, ouvrant la voie à l'astronomie moderne."
+  },
+  {
+    "id": "2140",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Big Parade",
+      "Ben-Hur",
+      "The Gold Rush"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+    "difficulty": "difficile",
+    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
   },
   {
-    "id": "864",
-    "question": "Dans Undertale, quel est le nom du premier boss rencontré dans les Ruines ?",
-    "answer": "Toriel",
+    "id": "888",
+    "question": "Dans Hades, quel est le nom du protagoniste ?",
+    "answer": "Zagreus",
     "badAnswers": [
-      "Sans",
-      "Papyrus",
-      "Undyne"
+      "Hades",
+      "Thanatos",
+      "Hypnos"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Toriel est le premier boss rencontré dans les Ruines d'Undertale, une figure maternelle. Sans, Papyrus et Undyne sont d'autres personnages rencontrés plus tard."
+    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
   },
   {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "635",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Animal Crossing ?",
+    "answer": "Villageois",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "Isabelle",
+      "Tom Nook",
+      "K.K. Slider"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Villageois est le protagoniste générique de la série Animal Crossing et un personnage jouable dans Super Smash Bros. Ultimate. Isabelle, Tom Nook et K.K. Slider sont d'autres personnages de la série."
   },
   {
-    "id": "1151",
-    "question": "Quel est le nom du dieu grec des rêves ?",
-    "answer": "Morpheus",
+    "id": "1511",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1953 ?",
+    "answer": "From Here to Eternity",
     "badAnswers": [
-      "Hypnos",
-      "Thanatos",
-      "Éros"
+      "Roman Holiday",
+      "Shane",
+      "The Robe"
     ],
-    "category": "Mythologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Morpheus, fils d'Hypnos, est le dieu grec des rêves, capable de prendre n'importe quelle forme humaine dans les songes."
+    "description": "From Here to Eternity, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1953, un drame sur l'amour et la guerre à Hawaï."
   }
 ]
