@@ -1,46 +1,124 @@
 [
   {
-    "id": "608",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
-    "answer": "Boba Fett",
+    "id": "285",
+    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
+    "answer": "Nez",
     "badAnswers": [
-      "Jango Fett",
-      "Bossk",
-      "Dengar"
+      "Oreilles",
+      "Menton",
+      "Cou"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
+  },
+  {
+    "id": "1246",
+    "question": "Quel est la capitale de l'Irak ?",
+    "answer": "Bagdad",
+    "badAnswers": [
+      "Mossoul",
+      "Bassorah",
+      "Erbil"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Bagdad, capitale de l'Irak, est une ville historique située sur le Tigre, connue pour son riche patrimoine culturel et ses mosquées."
+  },
+  {
+    "id": "980",
+    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
+    "answer": "Luke la main froide",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "Le Lauréat",
+      "Dans la chaleur de la nuit"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+  },
+  {
+    "id": "634",
+    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
+    "answer": "Albert Einstein",
+    "badAnswers": [
+      "Isaac Newton",
+      "Max Planck",
+      "Niels Bohr"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
+  },
+  {
+    "id": "216",
+    "question": "Quelle est la bonne traduction en anglais de 'singe' ?",
+    "answer": "Monkey",
+    "badAnswers": [
+      "Chimpanzee",
+      "Tamarin",
+      "Gorilla"
+    ],
+    "category": "Langue",
+    "difficulty": "normal",
+    "description": "'Monkey' désigne les singes en général (ex : macaque). 'Chimpanzee' et 'gorilla' sont des espèces spécifiques, 'tamarin' est un emprunt au français."
+  },
+  {
+    "id": "109",
+    "question": "Quel est le nom du jeu de société où les joueurs construisent des routes, des villes et des champs dans un paysage médiéval ?",
+    "answer": "Carcassonne",
+    "badAnswers": [
+      "Monopoly",
+      "Risk",
+      "Cluedo"
+    ],
+    "category": "Jeux de société",
     "difficulty": "facile",
-    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
+    "description": "'Carcassonne' est un jeu de société où les joueurs placent des tuiles pour construire un paysage médiéval, créant des routes, des villes et des champs. Il a été créé par Klaus-Jürgen Wrede et publié pour la première fois en 2000."
   },
   {
-    "id": "141",
-    "question": "Quelle équipe a été exclue de la Coupe du Monde de Rugby en 1987 et 1991 ?",
-    "answer": "Afrique du Sud",
+    "id": "1290",
+    "question": "Quel est le nom de la déesse grecque de la lune ?",
+    "answer": "Séléné",
     "badAnswers": [
-      "Russie",
-      "Etats-Unis",
-      "Italie"
+      "Artémis",
+      "Héra",
+      "Aphrodite"
     ],
-    "category": "Sports",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'Afrique du Sud a été exclue des Coupes du Monde de Rugby en 1987 et 1991 en raison de l'apartheid. La Russie, les États-Unis et l'Italie y ont participé ou n'étaient pas concernés."
+    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
   },
   {
-    "id": "2143",
-    "question": "Quel est le nom de l'auteur de 'Le K' ?",
-    "answer": "Dino Buzzati",
+    "id": "543",
+    "question": "Quel est le plus grand cétacé à dents du monde ?",
+    "answer": "Cachalot",
     "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Orque",
+      "Narval",
+      "Dauphin commun"
     ],
-    "category": "Livres",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le K' (1966), un recueil de nouvelles fantastiques explorant l'absurde et le mystère."
+    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
   },
   {
-    "id": "1898",
-    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
+    "id": "181",
+    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
+    "answer": "Serpentard",
+    "badAnswers": [
+      "Gryffondor",
+      "Poufsouffle",
+      "Serdaigle"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
+  },
+  {
+    "id": "2019",
+    "question": "Quel est le nom du groupe qui a chanté 'I'm Looking Through You' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -48,85 +126,7 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
-  },
-  {
-    "id": "1586",
-    "question": "Quel est la capitale du Lesotho ?",
-    "answer": "Maseru",
-    "badAnswers": [
-      "Teyateyaneng",
-      "Leribe",
-      "Mafeteng"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
-  },
-  {
-    "id": "1504",
-    "question": "Quel est le nom de l'inventeur du premier télescope réfracteur ?",
-    "answer": "Hans Lippershey",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Johannes Kepler"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Hans Lippershey, opticien néerlandais, est crédité pour le premier télescope réfracteur en 1608, ouvrant la voie à l'astronomie moderne."
-  },
-  {
-    "id": "2140",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
-    "answer": "Aucun Oscar décerné",
-    "badAnswers": [
-      "The Big Parade",
-      "Ben-Hur",
-      "The Gold Rush"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "888",
-    "question": "Dans Hades, quel est le nom du protagoniste ?",
-    "answer": "Zagreus",
-    "badAnswers": [
-      "Hades",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
-  },
-  {
-    "id": "635",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Animal Crossing ?",
-    "answer": "Villageois",
-    "badAnswers": [
-      "Isabelle",
-      "Tom Nook",
-      "K.K. Slider"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Villageois est le protagoniste générique de la série Animal Crossing et un personnage jouable dans Super Smash Bros. Ultimate. Isabelle, Tom Nook et K.K. Slider sont d'autres personnages de la série."
-  },
-  {
-    "id": "1511",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1953 ?",
-    "answer": "From Here to Eternity",
-    "badAnswers": [
-      "Roman Holiday",
-      "Shane",
-      "The Robe"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "From Here to Eternity, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1953, un drame sur l'amour et la guerre à Hawaï."
+    "description": "'I'm Looking Through You', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
   }
 ]
