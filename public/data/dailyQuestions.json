@@ -1,132 +1,132 @@
 [
   {
-    "id": "285",
-    "question": "La rhinoplastie est une intervention chirurgicale sur quelle partie du corps humain ?",
-    "answer": "Nez",
+    "id": "187",
+    "question": "Qui a gagné la coupe du monde de football 1998 ?",
+    "answer": "France",
     "badAnswers": [
-      "Oreilles",
-      "Menton",
-      "Cou"
+      "Brésil",
+      "Argentine",
+      "Pérou"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "La rhinoplastie est une intervention chirurgicale visant à modifier la forme ou la fonction du nez, souvent pour des raisons esthétiques ou pour corriger des problèmes respiratoires. C'est une procédure courante en chirurgie plastique. Les autres parties du corps mentionnées ne sont pas concernées par cette opération."
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
   },
   {
-    "id": "1246",
-    "question": "Quel est la capitale de l'Irak ?",
-    "answer": "Bagdad",
+    "id": "1466",
+    "question": "Quel est la capitale du Myanmar ?",
+    "answer": "Naypyidaw",
     "badAnswers": [
-      "Mossoul",
-      "Bassorah",
-      "Erbil"
+      "Yangon",
+      "Mandalay",
+      "Bago"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Bagdad, capitale de l'Irak, est une ville historique située sur le Tigre, connue pour son riche patrimoine culturel et ses mosquées."
+    "difficulty": "normal",
+    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
   },
   {
-    "id": "980",
-    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
-    "answer": "Luke la main froide",
+    "id": "59",
+    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
+    "answer": "Michael Jackson",
     "badAnswers": [
-      "Bonnie and Clyde",
-      "Le Lauréat",
-      "Dans la chaleur de la nuit"
+      "Prince",
+      "Madonna",
+      "The Jacksons"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+  },
+  {
+    "id": "446",
+    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
+  },
+  {
+    "id": "313",
+    "question": "Dans Pokémon Or et Argent, quelle est la ville de départ du joueur ?",
+    "answer": "Bourg Geon",
+    "badAnswers": [
+      "Céladopole",
+      "Safrania",
+      "Jadielle"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Pokémon Or et Argent, le joueur commence son aventure à Bourg Geon, une petite ville de la région de Johto. C'est là qu'il reçoit son premier Pokémon du Professeur Orme. Les autres villes mentionnées (Céladopole, Safrania, Jadielle) sont situées dans la région de Kanto, présente dans d'autres jeux Pokémon."
+  },
+  {
+    "id": "359",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
+    "answer": "Captain Falcon",
+    "badAnswers": [
+      "Fox McCloud",
+      "Samus Aran",
+      "Marth"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
+  },
+  {
+    "id": "252",
+    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
+    "answer": "Anticyclone des Açores",
+    "badAnswers": [
+      "Anticyclone de Sainte-Hélène",
+      "Anticyclone de Lucifer",
+      "Anticyclone Alfredo"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+  },
+  {
+    "id": "1622",
+    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
+    "answer": "Alice in Chains",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+  },
+  {
+    "id": "296",
+    "question": "Dans le film Retour vers le futur, à quelle vitesse la DeLorean de Doc Brown doit-elle atteindre pour voyager dans le temps ?",
+    "answer": "142 km/h",
+    "badAnswers": [
+      "122 km/h",
+      "160 km/h",
+      "112 km/h"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+    "description": "Dans Retour vers le futur (1985), la DeLorean de Doc Brown doit atteindre 141 km/h pour activer le convecteur temporel et voyager dans le temps. Cette vitesse est devenue un élément iconique du film, souvent référencée dans la culture populaire. Les autres vitesses sont incorrectes."
   },
   {
-    "id": "634",
-    "question": "Quel scientifique a découvert le principe de la relativité restreinte ?",
-    "answer": "Albert Einstein",
+    "id": "39",
+    "question": "Quel est l'animal le plus rapide du monde ?",
+    "answer": "Faucon pèlerin",
     "badAnswers": [
-      "Isaac Newton",
-      "Max Planck",
-      "Niels Bohr"
+      "Guépard",
+      "Martinet",
+      "Voilier"
     ],
-    "category": "Science",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Albert Einstein a formulé la théorie de la relativité restreinte en 1905, introduisant des concepts comme E=mc². Newton a travaillé sur la gravité, Planck sur la théorie quantique, et Bohr sur la structure atomique."
-  },
-  {
-    "id": "216",
-    "question": "Quelle est la bonne traduction en anglais de 'singe' ?",
-    "answer": "Monkey",
-    "badAnswers": [
-      "Chimpanzee",
-      "Tamarin",
-      "Gorilla"
-    ],
-    "category": "Langue",
-    "difficulty": "normal",
-    "description": "'Monkey' désigne les singes en général (ex : macaque). 'Chimpanzee' et 'gorilla' sont des espèces spécifiques, 'tamarin' est un emprunt au français."
-  },
-  {
-    "id": "109",
-    "question": "Quel est le nom du jeu de société où les joueurs construisent des routes, des villes et des champs dans un paysage médiéval ?",
-    "answer": "Carcassonne",
-    "badAnswers": [
-      "Monopoly",
-      "Risk",
-      "Cluedo"
-    ],
-    "category": "Jeux de société",
-    "difficulty": "facile",
-    "description": "'Carcassonne' est un jeu de société où les joueurs placent des tuiles pour construire un paysage médiéval, créant des routes, des villes et des champs. Il a été créé par Klaus-Jürgen Wrede et publié pour la première fois en 2000."
-  },
-  {
-    "id": "1290",
-    "question": "Quel est le nom de la déesse grecque de la lune ?",
-    "answer": "Séléné",
-    "badAnswers": [
-      "Artémis",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Séléné, déesse grecque de la lune, est souvent représentée conduisant un char lunaire, associée à la nuit et à la lumière argentée."
-  },
-  {
-    "id": "543",
-    "question": "Quel est le plus grand cétacé à dents du monde ?",
-    "answer": "Cachalot",
-    "badAnswers": [
-      "Orque",
-      "Narval",
-      "Dauphin commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
-  },
-  {
-    "id": "181",
-    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
-    "answer": "Serpentard",
-    "badAnswers": [
-      "Gryffondor",
-      "Poufsouffle",
-      "Serdaigle"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
-  },
-  {
-    "id": "2019",
-    "question": "Quel est le nom du groupe qui a chanté 'I'm Looking Through You' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'I'm Looking Through You', sorti en 1965 par The Beatles, est une chanson pop tirée de l'album Rubber Soul."
+    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
   }
 ]
