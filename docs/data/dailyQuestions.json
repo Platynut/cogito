@@ -1,132 +1,132 @@
 [
   {
-    "id": "187",
-    "question": "Qui a gagné la coupe du monde de football 1998 ?",
-    "answer": "France",
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
     "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Pérou"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "La France a remporté sa première Coupe du Monde en 1998, battant le Brésil 3-0 en finale. L'Argentine et le Pérou n'étaient pas finalistes."
-  },
-  {
-    "id": "1466",
-    "question": "Quel est la capitale du Myanmar ?",
-    "answer": "Naypyidaw",
-    "badAnswers": [
-      "Yangon",
-      "Mandalay",
-      "Bago"
+      "Danube",
+      "Rhin",
+      "Elbe"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Naypyidaw, capitale du Myanmar depuis 2005, est une ville planifiée conçue pour remplacer Yangon, avec de vastes boulevards et monuments."
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
   },
   {
-    "id": "59",
-    "question": "Quel groupe a sorti l'album 'Thriller' en 1982 ?",
-    "answer": "Michael Jackson",
+    "id": "1795",
+    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Prince",
-      "Madonna",
-      "The Jacksons"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Avec 66 millions d'exemplaires vendus, 'Thriller' reste l'album le plus vendu de l'histoire. Il contient 7 singles classés top 10 aux États-Unis."
+    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
   },
   {
-    "id": "446",
-    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
-    "answer": "Alexandre Dumas",
+    "id": "1638",
+    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
+    "answer": "August Köhler",
     "badAnswers": [
-      "Victor Hugo",
-      "Honoré de Balzac",
-      "Gustave Flaubert"
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
   },
   {
-    "id": "313",
-    "question": "Dans Pokémon Or et Argent, quelle est la ville de départ du joueur ?",
-    "answer": "Bourg Geon",
+    "id": "799",
+    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "Céladopole",
-      "Safrania",
-      "Jadielle"
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Heinrich Hertz"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
+    "badAnswers": [
+      "Londres",
+      "Rome",
+      "Lisbonne"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Pokémon Or et Argent, le joueur commence son aventure à Bourg Geon, une petite ville de la région de Johto. C'est là qu'il reçoit son premier Pokémon du Professeur Orme. Les autres villes mentionnées (Céladopole, Safrania, Jadielle) sont situées dans la région de Kanto, présente dans d'autres jeux Pokémon."
-  },
-  {
-    "id": "359",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est connu pour son attaque Falcon Punch ?",
-    "answer": "Captain Falcon",
-    "badAnswers": [
-      "Fox McCloud",
-      "Samus Aran",
-      "Marth"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Captain Falcon, issu de la série F-Zero, est connu pour son attaque emblématique Falcon Punch dans Super Smash Bros. Ultimate. Ce coup puissant est l’un des mouvements les plus reconnaissables du jeu. Fox, Samus et Marth ont leurs propres attaques, mais aucune n’est le Falcon Punch."
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
   },
   {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
+    "id": "771",
+    "question": "Quel artiste a peint Les Ménines ?",
+    "answer": "Diego Vélasquez",
     "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
+      "Francisco Goya",
+      "El Greco",
+      "Bartolomé Esteban Murillo"
     ],
-    "category": "Géographie",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+    "description": "Les Ménines (1656) de Diego Vélasquez est une peinture baroque complexe représentant la cour espagnole. Goya, El Greco et Murillo sont d'autres peintres espagnols, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "1622",
-    "question": "Quel est le nom du groupe qui a chanté 'Rooster' ?",
-    "answer": "Alice in Chains",
+    "id": "1726",
+    "question": "Quel est le nom du dieu grec du ciel ?",
+    "answer": "Ouranos",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
+      "Zeus",
+      "Poséidon",
+      "Hadès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
+  },
+  {
+    "id": "1244",
+    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Jimi Hendrix Experience"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Rooster', sorti en 1992 par Alice in Chains, est une chanson grunge tirée de l'album Dirt, inspirée par la guerre du Vietnam."
+    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
   },
   {
-    "id": "296",
-    "question": "Dans le film Retour vers le futur, à quelle vitesse la DeLorean de Doc Brown doit-elle atteindre pour voyager dans le temps ?",
-    "answer": "142 km/h",
+    "id": "927",
+    "question": "Qui a créé la série animée RWBY ?",
+    "answer": "Monty Oum",
     "badAnswers": [
-      "122 km/h",
-      "160 km/h",
-      "112 km/h"
+      "Miles Luna",
+      "Kerry Shawcross",
+      "Shane Newville"
     ],
-    "category": "Cinéma",
+    "category": "Dessins animés",
     "difficulty": "normal",
-    "description": "Dans Retour vers le futur (1985), la DeLorean de Doc Brown doit atteindre 141 km/h pour activer le convecteur temporel et voyager dans le temps. Cette vitesse est devenue un élément iconique du film, souvent référencée dans la culture populaire. Les autres vitesses sont incorrectes."
+    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
   },
   {
-    "id": "39",
-    "question": "Quel est l'animal le plus rapide du monde ?",
-    "answer": "Faucon pèlerin",
+    "id": "514",
+    "question": "Quel est le plus gros herbivore terrestre du monde ?",
+    "answer": "Rhinocéros blanc",
     "badAnswers": [
-      "Guépard",
-      "Martinet",
-      "Voilier"
+      "Éléphant",
+      "Girafe",
+      "Hippopotame"
     ],
-    "category": "Nature",
+    "category": "Animaux",
     "difficulty": "normal",
-    "description": "En piqué, il atteint 389 km/h, battant largement le guépard (110 km/h en vitesse de pointe au sol)."
+    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
   }
 ]
