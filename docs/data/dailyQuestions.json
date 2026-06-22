@@ -1,132 +1,132 @@
 [
   {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
+    "id": "2083",
+    "question": "Quel est le nom de l'auteur de 'L'Automne à Pékin' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Géographie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+    "description": "Boris Vian a écrit 'L'Automne à Pékin' (1947), un roman surréaliste explorant l'absurde et l'imaginaire."
   },
   {
-    "id": "1795",
-    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "1767",
+    "question": "Quel est le nom du dieu grec de la peur ?",
+    "answer": "Phobos",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
-  },
-  {
-    "id": "1638",
-    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
-    "answer": "August Köhler",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
-  },
-  {
-    "id": "799",
-    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "James Clerk Maxwell",
-      "André-Marie Ampère",
-      "Heinrich Hertz"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
-    "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
-  },
-  {
-    "id": "771",
-    "question": "Quel artiste a peint Les Ménines ?",
-    "answer": "Diego Vélasquez",
-    "badAnswers": [
-      "Francisco Goya",
-      "El Greco",
-      "Bartolomé Esteban Murillo"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Ménines (1656) de Diego Vélasquez est une peinture baroque complexe représentant la cour espagnole. Goya, El Greco et Murillo sont d'autres peintres espagnols, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1726",
-    "question": "Quel est le nom du dieu grec du ciel ?",
-    "answer": "Ouranos",
-    "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Hadès"
+      "Éros",
+      "Thanatos",
+      "Hypnos"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
+    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
   },
   {
-    "id": "1244",
-    "question": "Quel est le nom du groupe qui a chanté 'Light My Fire' ?",
-    "answer": "The Doors",
+    "id": "108",
+    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
+    "answer": "2000",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "Jimi Hendrix Experience"
+      "1999",
+      "2001",
+      "2002"
+    ],
+    "category": "Jeux de société",
+    "difficulty": "difficile",
+    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
+  },
+  {
+    "id": "1422",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
+    "answer": "The Sting",
+    "badAnswers": [
+      "The Exorcist",
+      "American Graffiti",
+      "A Touch of Class"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
+  },
+  {
+    "id": "1970",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
+    "answer": "William Kouwenhoven",
+    "badAnswers": [
+      "Paul Zoll",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
+  },
+  {
+    "id": "1328",
+    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
+    "answer": "Pixies",
+    "badAnswers": [
+      "Nirvana",
+      "Radiohead",
+      "The Smashing Pumpkins"
     ],
     "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
+  },
+  {
+    "id": "1067",
+    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
+    "answer": "Azote",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Sodium"
+    ],
+    "category": "Science",
     "difficulty": "facile",
-    "description": "'Light My Fire', sorti en 1967 par The Doors, est une chanson rock psychédélique devenue un classique, tirée de leur premier album."
+    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
   },
   {
-    "id": "927",
-    "question": "Qui a créé la série animée RWBY ?",
-    "answer": "Monty Oum",
+    "id": "165",
+    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
+    "answer": "Jean Dujardin",
     "badAnswers": [
-      "Miles Luna",
-      "Kerry Shawcross",
-      "Shane Newville"
+      "Christian Clavier",
+      "Guillaume Canet",
+      "Neil Patrick Harris"
     ],
-    "category": "Dessins animés",
-    "difficulty": "normal",
-    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
   },
   {
-    "id": "514",
-    "question": "Quel est le plus gros herbivore terrestre du monde ?",
-    "answer": "Rhinocéros blanc",
+    "id": "1185",
+    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
+    "answer": "Samuel Morse",
     "badAnswers": [
-      "Éléphant",
-      "Girafe",
-      "Hippopotame"
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
     ],
-    "category": "Animaux",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Le rhinocéros blanc est le plus gros herbivore terrestre, pouvant peser jusqu'à 2 300 kg. Il vit dans les savanes africaines. L'éléphant et l'hippopotame ne sont pas herbivores, et la girafe, bien que grande, est plus légère."
+    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
+  },
+  {
+    "id": "444",
+    "question": "Quel scientifique a découvert le principe de flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galilée",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
   }
 ]
