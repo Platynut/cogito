@@ -1,8 +1,86 @@
 [
   {
-    "id": "2083",
-    "question": "Quel est le nom de l'auteur de 'L'Automne à Pékin' ?",
-    "answer": "Boris Vian",
+    "id": "1791",
+    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
+    "answer": "Creedence Clearwater Revival",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+  },
+  {
+    "id": "766",
+    "question": "Dans The Last of Us Part II, quel est le nom de la protagoniste principale ?",
+    "answer": "Ellie",
+    "badAnswers": [
+      "Joel",
+      "Abby",
+      "Tess"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est la protagoniste principale de The Last of Us Part II, poursuivant son histoire dans un monde post-apocalyptique. Joel est le héros du premier jeu, Abby une co-protagoniste, et Tess un personnage secondaire."
+  },
+  {
+    "id": "489",
+    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Édouard Manet",
+      "Claude Monet",
+      "Pierre-Auguste Renoir"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "2092",
+    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+  },
+  {
+    "id": "712",
+    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
+    "answer": "Tengu",
+    "badAnswers": [
+      "Karasu-tengu",
+      "Oni",
+      "Kappa"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+  },
+  {
+    "id": "1972",
+    "question": "Quel est le nom de l'auteur de 'La Force des choses' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -10,123 +88,45 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Automne à Pékin' (1947), un roman surréaliste explorant l'absurde et l'imaginaire."
+    "description": "Simone de Beauvoir a écrit 'La Force des choses' (1963), une autobiographie sur sa vie et son engagement."
   },
   {
-    "id": "1767",
-    "question": "Quel est le nom du dieu grec de la peur ?",
-    "answer": "Phobos",
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
     "badAnswers": [
-      "Éros",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
-  },
-  {
-    "id": "108",
-    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
-    "answer": "2000",
-    "badAnswers": [
-      "1999",
-      "2001",
-      "2002"
-    ],
-    "category": "Jeux de société",
-    "difficulty": "difficile",
-    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
-  },
-  {
-    "id": "1422",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
-    "answer": "The Sting",
-    "badAnswers": [
-      "The Exorcist",
-      "American Graffiti",
-      "A Touch of Class"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
-  },
-  {
-    "id": "1970",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
-    "answer": "William Kouwenhoven",
-    "badAnswers": [
-      "Paul Zoll",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
-  },
-  {
-    "id": "1328",
-    "question": "Quel est le nom du groupe qui a chanté 'Where Is My Mind?' ?",
-    "answer": "Pixies",
-    "badAnswers": [
-      "Nirvana",
-      "Radiohead",
-      "The Smashing Pumpkins"
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Where Is My Mind?', sorti en 1988 par Pixies, est une chanson alternative rock influente, popularisée par le film Fight Club."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
   },
   {
-    "id": "165",
-    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
-    "answer": "Jean Dujardin",
+    "id": "448",
+    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
+    "answer": "Sekiro",
     "badAnswers": [
-      "Christian Clavier",
-      "Guillaume Canet",
-      "Neil Patrick Harris"
+      "Isshin",
+      "Genichiro",
+      "Kuro"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
+  },
+  {
+    "id": "1073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2000 ?",
+    "answer": "Gladiator",
+    "badAnswers": [
+      "Tigre et Dragon",
+      "Traffic",
+      "Erin Brockovich"
     ],
     "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
-  },
-  {
-    "id": "1185",
-    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
-    "answer": "Samuel Morse",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
-  },
-  {
-    "id": "444",
-    "question": "Quel scientifique a découvert le principe de flottabilité ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+    "description": "Gladiator, réalisé par Ridley Scott et avec Russell Crowe, a remporté l'Oscar du meilleur film en 2000 pour son épopée romaine dramatique."
   }
 ]
