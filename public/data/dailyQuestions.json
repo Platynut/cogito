@@ -1,132 +1,132 @@
 [
   {
-    "id": "1791",
-    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "369",
+    "question": "Quel est la capitale du Brésil ?",
+    "answer": "Brasília",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
+    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
   },
   {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
+    "id": "860",
+    "question": "Quel est le nom de la déesse grecque de l'amour ?",
+    "answer": "Aphrodite",
     "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
-  },
-  {
-    "id": "766",
-    "question": "Dans The Last of Us Part II, quel est le nom de la protagoniste principale ?",
-    "answer": "Ellie",
-    "badAnswers": [
-      "Joel",
-      "Abby",
-      "Tess"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ellie est la protagoniste principale de The Last of Us Part II, poursuivant son histoire dans un monde post-apocalyptique. Joel est le héros du premier jeu, Abby une co-protagoniste, et Tess un personnage secondaire."
-  },
-  {
-    "id": "489",
-    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Édouard Manet",
-      "Claude Monet",
-      "Pierre-Auguste Renoir"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "2092",
-    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
-  },
-  {
-    "id": "712",
-    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
-    "answer": "Tengu",
-    "badAnswers": [
-      "Karasu-tengu",
-      "Oni",
-      "Kappa"
+      "Athéna",
+      "Artémis",
+      "Héra"
     ],
     "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+    "difficulty": "facile",
+    "description": "Aphrodite est la déesse grecque de l'amour et de la beauté, souvent représentée avec une colombe. Athéna est la déesse de la sagesse, Artémis de la chasse, et Héra du mariage."
   },
   {
-    "id": "1972",
-    "question": "Quel est le nom de l'auteur de 'La Force des choses' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "1443",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1969 ?",
+    "answer": "Midnight Cowboy",
+    "badAnswers": [
+      "Butch Cassidy and the Sundance Kid",
+      "Easy Rider",
+      "The Wild Bunch"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Midnight Cowboy, réalisé par John Schlesinger, a remporté l'Oscar du meilleur film en 1969, un drame sur l'amitié dans les rues de New York."
+  },
+  {
+    "id": "1103",
+    "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry",
+    "badAnswers": [
+      "Jules Verne",
+      "Victor Hugo",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Antoine de Saint-Exupéry a écrit 'Le Petit Prince' (1943), un conte philosophique sur l'amitié, l'amour et la simplicité, aimé dans le monde entier."
+  },
+  {
+    "id": "1303",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
+    "answer": "Dances with Wolves",
+    "badAnswers": [
+      "Goodfellas",
+      "Awakenings",
+      "Ghost"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
+  },
+  {
+    "id": "12",
+    "question": "Quel fromage français est connu pour ses trous ?",
+    "answer": "Emmental",
+    "badAnswers": [
+      "Camembert",
+      "Roquefort",
+      "Brie"
+    ],
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
+  },
+  {
+    "id": "156",
+    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
+    "answer": "La coccinelle",
+    "badAnswers": [
+      "La luciole",
+      "Le scarabée",
+      "La libellule"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
+  },
+  {
+    "id": "2018",
+    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Albert Camus",
+      "Simone de Beauvoir",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'La Force des choses' (1963), une autobiographie sur sa vie et son engagement."
+    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
   },
   {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
+    "id": "1179",
+    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
+    "answer": "Bruce Springsteen",
     "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
+      "Bob Dylan",
+      "Tom Petty",
+      "John Mellencamp"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
+    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
   },
   {
-    "id": "448",
-    "question": "Dans Sekiro: Shadows Die Twice, quel est le nom du protagoniste ?",
-    "answer": "Sekiro",
+    "id": "2090",
+    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
+    "answer": "Ian Donald",
     "badAnswers": [
-      "Isshin",
-      "Genichiro",
-      "Kuro"
+      "Godfrey Hounsfield",
+      "Raymond Damadian",
+      "Paul Lauterbur"
     ],
-    "category": "Jeux vidéo",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Sekiro, surnommé le Loup à un bras, est le protagoniste de Sekiro: Shadows Die Twice, un shinobi cherchant à protéger son maître, Kuro. Isshin et Genichiro sont des antagonistes, et Kuro est un personnage clé, mais pas le protagoniste."
-  },
-  {
-    "id": "1073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2000 ?",
-    "answer": "Gladiator",
-    "badAnswers": [
-      "Tigre et Dragon",
-      "Traffic",
-      "Erin Brockovich"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Gladiator, réalisé par Ridley Scott et avec Russell Crowe, a remporté l'Oscar du meilleur film en 2000 pour son épopée romaine dramatique."
+    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
   }
 ]
