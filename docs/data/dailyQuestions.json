@@ -1,132 +1,132 @@
 [
   {
-    "id": "369",
-    "question": "Quel est la capitale du Brésil ?",
-    "answer": "Brasília",
+    "id": "846",
+    "question": "Dans Star Wars, quel est le nom de la planète désertique où Luke grandit ?",
+    "answer": "Tatooine",
     "badAnswers": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Salvador"
+      "Jakku",
+      "Hoth",
+      "Naboo"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Tatooine est la planète désertique où Luke Skywalker grandit dans Star Wars : Un nouvel espoir. Jakku, Hoth et Naboo sont d'autres planètes de la saga."
+  },
+  {
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
+    "badAnswers": [
+      "Chrome",
+      "Cuivre",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+  },
+  {
+    "id": "817",
+    "question": "Quel est la capitale de la Pologne ?",
+    "answer": "Varsovie",
+    "badAnswers": [
+      "Cracovie",
+      "Gdansk",
+      "Wroclaw"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Brasília est la capitale du Brésil, une ville planifiée construite dans les années 1950 pour devenir le centre politique du pays. Rio de Janeiro et São Paulo sont des villes majeures, et Salvador est une ville historique, mais aucune n’est la capitale."
+    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
   },
   {
-    "id": "860",
-    "question": "Quel est le nom de la déesse grecque de l'amour ?",
-    "answer": "Aphrodite",
+    "id": "1445",
+    "question": "Quel est la capitale des Émirats arabes unis ?",
+    "answer": "Abou Dabi",
     "badAnswers": [
-      "Athéna",
-      "Artémis",
-      "Héra"
+      "Dubaï",
+      "Sharjah",
+      "Ajman"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
+  },
+  {
+    "id": "502",
+    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
+    "answer": "Croûtard",
+    "badAnswers": [
+      "Hedwige",
+      "Pattenrond",
+      "Fumseck"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
+  },
+  {
+    "id": "358",
+    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
+    "answer": "J.R.R. Tolkien",
+    "badAnswers": [
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "J.K. Rowling"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
+  },
+  {
+    "id": "66",
+    "question": "Quelle est la monnaie officielle de la Suisse ?",
+    "answer": "Franc suisse",
+    "badAnswers": [
+      "Euro",
+      "Couronne",
+      "Livre"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
     ],
     "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Aphrodite est la déesse grecque de l'amour et de la beauté, souvent représentée avec une colombe. Athéna est la déesse de la sagesse, Artémis de la chasse, et Héra du mariage."
-  },
-  {
-    "id": "1443",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1969 ?",
-    "answer": "Midnight Cowboy",
-    "badAnswers": [
-      "Butch Cassidy and the Sundance Kid",
-      "Easy Rider",
-      "The Wild Bunch"
-    ],
-    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Midnight Cowboy, réalisé par John Schlesinger, a remporté l'Oscar du meilleur film en 1969, un drame sur l'amitié dans les rues de New York."
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
   },
   {
-    "id": "1103",
-    "question": "Quel est le nom de l'auteur de 'Le Petit Prince' ?",
-    "answer": "Antoine de Saint-Exupéry",
+    "id": "1554",
+    "question": "Quel est le nom du groupe qui a chanté 'You Give Love a Bad Name' ?",
+    "answer": "Bon Jovi",
     "badAnswers": [
-      "Jules Verne",
-      "Victor Hugo",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Antoine de Saint-Exupéry a écrit 'Le Petit Prince' (1943), un conte philosophique sur l'amitié, l'amour et la simplicité, aimé dans le monde entier."
-  },
-  {
-    "id": "1303",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1990 ?",
-    "answer": "Dances with Wolves",
-    "badAnswers": [
-      "Goodfellas",
-      "Awakenings",
-      "Ghost"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Dances with Wolves, réalisé par Kevin Costner, a remporté l'Oscar du meilleur film en 1990, une épopée sur la vie des Lakotas dans l'Ouest américain."
-  },
-  {
-    "id": "12",
-    "question": "Quel fromage français est connu pour ses trous ?",
-    "answer": "Emmental",
-    "badAnswers": [
-      "Camembert",
-      "Roquefort",
-      "Brie"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
-  },
-  {
-    "id": "156",
-    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
-    "answer": "La coccinelle",
-    "badAnswers": [
-      "La luciole",
-      "Le scarabée",
-      "La libellule"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
-  },
-  {
-    "id": "2018",
-    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
-  },
-  {
-    "id": "1179",
-    "question": "Quel est le nom du groupe qui a chanté 'Born to Run' ?",
-    "answer": "Bruce Springsteen",
-    "badAnswers": [
-      "Bob Dylan",
-      "Tom Petty",
-      "John Mellencamp"
+      "Aerosmith",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Born to Run', sorti en 1975 par Bruce Springsteen, est une chanson rock emblématique célébrant la liberté et l'évasion."
+    "description": "'You Give Love a Bad Name', sorti en 1986 par Bon Jovi, est une chanson rock tirée de l'album Slippery When Wet."
   },
   {
-    "id": "2090",
-    "question": "Quel est le nom de l'inventeur du premier système d'échographie médicale ?",
-    "answer": "Ian Donald",
+    "id": "214",
+    "question": "À quelle date remonte la découverte du premier fossile de dinosaure entier ?",
+    "answer": "1815",
     "badAnswers": [
-      "Godfrey Hounsfield",
-      "Raymond Damadian",
-      "Paul Lauterbur"
+      "1380",
+      "1609",
+      "1920"
     ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Ian Donald a développé le premier système d'échographie médicale dans les années 1950, révolutionnant l'imagerie prénatale."
+    "description": "Le premier fossile complet (un iguanodon) fut découvert en 1815 par Mary Anning. En 1380 ou 1609, les dinosaures étaient inconnus, et en 1920, beaucoup avaient déjà été identifiés."
   }
 ]
