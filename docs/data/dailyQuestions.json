@@ -1,132 +1,132 @@
 [
   {
-    "id": "846",
-    "question": "Dans Star Wars, quel est le nom de la planète désertique où Luke grandit ?",
-    "answer": "Tatooine",
+    "id": "1386",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1978 ?",
+    "answer": "The Deer Hunter",
     "badAnswers": [
-      "Jakku",
-      "Hoth",
-      "Naboo"
+      "Coming Home",
+      "Midnight Express",
+      "Heaven Can Wait"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Tatooine est la planète désertique où Luke Skywalker grandit dans Star Wars : Un nouvel espoir. Jakku, Hoth et Naboo sont d'autres planètes de la saga."
-  },
-  {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
-    "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
-  },
-  {
-    "id": "817",
-    "question": "Quel est la capitale de la Pologne ?",
-    "answer": "Varsovie",
-    "badAnswers": [
-      "Cracovie",
-      "Gdansk",
-      "Wroclaw"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
-  },
-  {
-    "id": "1445",
-    "question": "Quel est la capitale des Émirats arabes unis ?",
-    "answer": "Abou Dabi",
-    "badAnswers": [
-      "Dubaï",
-      "Sharjah",
-      "Ajman"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Abou Dabi, capitale des Émirats arabes unis, est connue pour sa mosquée Cheikh Zayed et ses développements urbains modernes."
-  },
-  {
-    "id": "502",
-    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
-    "answer": "Croûtard",
-    "badAnswers": [
-      "Hedwige",
-      "Pattenrond",
-      "Fumseck"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
-  },
-  {
-    "id": "358",
-    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
-    "answer": "J.R.R. Tolkien",
-    "badAnswers": [
-      "C.S. Lewis",
-      "George R.R. Martin",
-      "J.K. Rowling"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
-  },
-  {
-    "id": "66",
-    "question": "Quelle est la monnaie officielle de la Suisse ?",
-    "answer": "Franc suisse",
-    "badAnswers": [
-      "Euro",
-      "Couronne",
-      "Livre"
-    ],
-    "category": "Economie",
     "difficulty": "normal",
-    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
+    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1978, un drame poignant sur la guerre du Vietnam."
   },
   {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
+    "id": "351",
+    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
+    "answer": "James Watt",
     "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
+      "George Stephenson",
+      "Thomas Newcomen",
+      "Richard Trevithick"
     ],
-    "category": "Mythologie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
   },
   {
-    "id": "1554",
-    "question": "Quel est le nom du groupe qui a chanté 'You Give Love a Bad Name' ?",
-    "answer": "Bon Jovi",
+    "id": "2086",
+    "question": "Quel est le nom de l'auteur de 'Le Temps des tempêtes' ?",
+    "answer": "Fred Vargas",
     "badAnswers": [
-      "Aerosmith",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'You Give Love a Bad Name', sorti en 1986 par Bon Jovi, est une chanson rock tirée de l'album Slippery When Wet."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Fred Vargas a écrit 'Le Temps des tempêtes' (2006), un roman policier mettant en scène le commissaire Adamsberg."
   },
   {
-    "id": "214",
-    "question": "À quelle date remonte la découverte du premier fossile de dinosaure entier ?",
-    "answer": "1815",
+    "id": "1916",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
+    "answer": "Martin Cooper",
     "badAnswers": [
-      "1380",
-      "1609",
-      "1920"
+      "Alexander Graham Bell",
+      "Reginald Fessenden",
+      "John Pierce"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
+  },
+  {
+    "id": "138",
+    "question": "Au repos, combien de fois en moyenne le cœur d’un homme bat-il en 1 minute ?",
+    "answer": "60 à 80",
+    "badAnswers": [
+      "25 à 40",
+      "40 à 60",
+      "80 à 100"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le premier fossile complet (un iguanodon) fut découvert en 1815 par Mary Anning. En 1380 ou 1609, les dinosaures étaient inconnus, et en 1920, beaucoup avaient déjà été identifiés."
+    "description": "Au repos, le cœur d'un adulte bat en moyenne entre 60 et 80 fois par minute. Un rythme cardiaque inférieur ou supérieur peut indiquer des problèmes de santé."
+  },
+  {
+    "id": "312",
+    "question": "Quel gaz, découvert sur le soleil avant la Terre, est le deuxième élément le plus abondant dans l'univers ?",
+    "answer": "Hélium",
+    "badAnswers": [
+      "Hydrogène",
+      "Oxygène",
+      "Azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'hélium a été découvert sur le soleil en 1868 par spectroscopie, avant d'être identifié sur Terre. C'est le deuxième élément le plus abondant dans l'univers après l'hydrogène, constituant une part importante des étoiles. L'hydrogène est le plus abondant, tandis que l'oxygène et l'azote sont moins présents à l'échelle cosmique."
+  },
+  {
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+  },
+  {
+    "id": "1012",
+    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
+    "answer": "Bois de houx, plume de phénix",
+    "badAnswers": [
+      "Bois de chêne, crin de licorne",
+      "Bois d'if, ventricule de dragon",
+      "Bois de saule, poil de vélane"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
+  },
+  {
+    "id": "160",
+    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
+    "answer": "Un sonar",
+    "badAnswers": [
+      "Un sextant",
+      "Un radar",
+      "Un compteur Geiger"
+    ],
+    "category": "Technologie",
+    "difficulty": "facile",
+    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
+  },
+  {
+    "id": "539",
+    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
+    "answer": "2-1B",
+    "badAnswers": [
+      "R2-D2",
+      "C-3PO",
+      "BB-8"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
   }
 ]
