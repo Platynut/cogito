@@ -1,132 +1,132 @@
 [
   {
-    "id": "1386",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1978 ?",
-    "answer": "The Deer Hunter",
+    "id": "1499",
+    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
+    "answer": "The Verve",
     "badAnswers": [
-      "Coming Home",
-      "Midnight Express",
-      "Heaven Can Wait"
+      "Oasis",
+      "Blur",
+      "Radiohead"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Deer Hunter, réalisé par Michael Cimino, a remporté l'Oscar du meilleur film en 1978, un drame poignant sur la guerre du Vietnam."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
   },
   {
-    "id": "351",
-    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
-    "answer": "James Watt",
+    "id": "852",
+    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
+    "answer": "Ellie",
     "badAnswers": [
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
+      "Tess",
+      "Marlene",
+      "Sarah"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
   },
   {
-    "id": "2086",
-    "question": "Quel est le nom de l'auteur de 'Le Temps des tempêtes' ?",
-    "answer": "Fred Vargas",
+    "id": "1406",
+    "question": "Quel est la capitale du Tadjikistan ?",
+    "answer": "Douchanbé",
     "badAnswers": [
-      "Jean-Paul Sartre",
+      "Khujand",
+      "Kulob",
+      "Bokhtar"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Douchanbé, capitale du Tadjikistan, est une ville moderne située dans une vallée, connue pour son musée national et ses parcs."
+  },
+  {
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
       "Albert Camus",
+      "Boris Vian",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Fred Vargas a écrit 'Le Temps des tempêtes' (2006), un roman policier mettant en scène le commissaire Adamsberg."
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
   },
   {
-    "id": "1916",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
-    "answer": "Martin Cooper",
+    "id": "1208",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in Black' ?",
+    "answer": "AC/DC",
     "badAnswers": [
-      "Alexander Graham Bell",
-      "Reginald Fessenden",
-      "John Pierce"
+      "Metallica",
+      "Guns N' Roses",
+      "Aerosmith"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Back in Black', sorti en 1980 par AC/DC, est une chanson rock emblématique, tirée de l'album éponyme, en hommage à Bon Scott."
   },
   {
-    "id": "138",
-    "question": "Au repos, combien de fois en moyenne le cœur d’un homme bat-il en 1 minute ?",
-    "answer": "60 à 80",
+    "id": "7",
+    "question": "Quel est le système d'exploitation mobile développé par Google ?",
+    "answer": "Android",
     "badAnswers": [
-      "25 à 40",
-      "40 à 60",
-      "80 à 100"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Au repos, le cœur d'un adulte bat en moyenne entre 60 et 80 fois par minute. Un rythme cardiaque inférieur ou supérieur peut indiquer des problèmes de santé."
-  },
-  {
-    "id": "312",
-    "question": "Quel gaz, découvert sur le soleil avant la Terre, est le deuxième élément le plus abondant dans l'univers ?",
-    "answer": "Hélium",
-    "badAnswers": [
-      "Hydrogène",
-      "Oxygène",
-      "Azote"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'hélium a été découvert sur le soleil en 1868 par spectroscopie, avant d'être identifié sur Terre. C'est le deuxième élément le plus abondant dans l'univers après l'hydrogène, constituant une part importante des étoiles. L'hydrogène est le plus abondant, tandis que l'oxygène et l'azote sont moins présents à l'échelle cosmique."
-  },
-  {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
-  },
-  {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
-    "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
-  },
-  {
-    "id": "160",
-    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
-    "answer": "Un sonar",
-    "badAnswers": [
-      "Un sextant",
-      "Un radar",
-      "Un compteur Geiger"
+      "iOS",
+      "Windows Phone",
+      "Symbian"
     ],
     "category": "Technologie",
     "difficulty": "facile",
-    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
+    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
   },
   {
-    "id": "539",
-    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
-    "answer": "2-1B",
+    "id": "1927",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
+    "answer": "Frank Whittle",
     "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "BB-8"
+      "Hans von Ohain",
+      "Robert Goddard",
+      "Wernher von Braun"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+  },
+  {
+    "id": "1447",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1968 ?",
+    "answer": "Oliver!",
+    "badAnswers": [
+      "Funny Girl",
+      "The Lion in Winter",
+      "Romeo and Juliet"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+    "description": "Oliver!, réalisé par Carol Reed, a remporté l'Oscar du meilleur film en 1968, une comédie musicale basée sur le roman de Charles Dickens."
+  },
+  {
+    "id": "2038",
+    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) dynamique ?",
+    "answer": "Robert Dennard",
+    "badAnswers": [
+      "Jack Kilby",
+      "Robert Noyce",
+      "Gordon Moore"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie clé pour les ordinateurs modernes."
+  },
+  {
+    "id": "1450",
+    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
+    "answer": "Artémis",
+    "badAnswers": [
+      "Séléné",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
   }
 ]
