@@ -1,132 +1,132 @@
 [
   {
-    "id": "1499",
-    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
-    "answer": "The Verve",
+    "id": "1230",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur sécurisé ?",
+    "answer": "Elisha Otis",
     "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
+      "Otis Redding",
+      "George Westinghouse",
+      "Thomas Edison"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
-  },
-  {
-    "id": "852",
-    "question": "Dans The Last of Us, quel est le nom de la partenaire de Joel ?",
-    "answer": "Ellie",
-    "badAnswers": [
-      "Tess",
-      "Marlene",
-      "Sarah"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ellie est la partenaire de Joel dans The Last of Us, une adolescente clé dans l'histoire. Tess est une alliée temporaire, Marlene une leader, et Sarah la fille de Joel."
-  },
-  {
-    "id": "1406",
-    "question": "Quel est la capitale du Tadjikistan ?",
-    "answer": "Douchanbé",
-    "badAnswers": [
-      "Khujand",
-      "Kulob",
-      "Bokhtar"
-    ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Douchanbé, capitale du Tadjikistan, est une ville moderne située dans une vallée, connue pour son musée national et ses parcs."
+    "description": "Elisha Otis a inventé le frein de sécurité pour ascenseurs en 1852, rendant les ascenseurs sûrs et facilitant la construction de gratte-ciel."
   },
   {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "337",
+    "question": "Quel est le nom de l'inventeur du téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
+  },
+  {
+    "id": "1273",
+    "question": "Quel est le nom de l'inventeur de la lampe à incandescence commercialement viable ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, la rendant pratique pour un usage domestique et commercial."
+  },
+  {
+    "id": "2089",
+    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Émile Zola",
+      "Gustave Flaubert",
+      "Alain-Fournier"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1208",
-    "question": "Quel est le nom du groupe qui a chanté 'Back in Black' ?",
-    "answer": "AC/DC",
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Fluor",
+      "Fermium",
+      "Francium"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Back in Black', sorti en 1980 par AC/DC, est une chanson rock emblématique, tirée de l'album éponyme, en hommage à Bon Scott."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
   },
   {
-    "id": "7",
-    "question": "Quel est le système d'exploitation mobile développé par Google ?",
-    "answer": "Android",
+    "id": "458",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la princesse du Crépuscule ?",
+    "answer": "Midna",
     "badAnswers": [
-      "iOS",
-      "Windows Phone",
-      "Symbian"
+      "Zelda",
+      "Epona",
+      "Navi"
     ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
-  },
-  {
-    "id": "1927",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
-    "answer": "Frank Whittle",
-    "badAnswers": [
-      "Hans von Ohain",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
+    "description": "Midna est la princesse du Crépuscule dans The Legend of Zelda: Twilight Princess, une alliée clé de Link qui l'accompagne dans sa quête. Zelda est la princesse d'Hyrule, Epona est le cheval de Link, et Navi est une fée dans Ocarina of Time."
   },
   {
-    "id": "1447",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1968 ?",
-    "answer": "Oliver!",
+    "id": "79",
+    "question": "Quel pays a inventé le sushi ?",
+    "answer": "Japon",
     "badAnswers": [
-      "Funny Girl",
-      "The Lion in Winter",
-      "Romeo and Juliet"
+      "Chine",
+      "Corée du Sud",
+      "Thaïlande"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
+  },
+  {
+    "id": "995",
+    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
+    "answer": "Frédéric Auguste Bartholdi",
+    "badAnswers": [
+      "Jean-Léon Gérôme",
+      "Auguste Rodin",
+      "Henri Matisse"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
+  },
+  {
+    "id": "1102",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
+    "answer": "Spotlight",
+    "badAnswers": [
+      "The Revenant",
+      "The Big Short",
+      "Mad Max: Fury Road"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Oliver!, réalisé par Carol Reed, a remporté l'Oscar du meilleur film en 1968, une comédie musicale basée sur le roman de Charles Dickens."
+    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
   },
   {
-    "id": "2038",
-    "question": "Quel est le nom de l'inventeur du premier système de mémoire vive (RAM) dynamique ?",
-    "answer": "Robert Dennard",
+    "id": "768",
+    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Âge d'or de la piraterie",
     "badAnswers": [
-      "Jack Kilby",
-      "Robert Noyce",
-      "Gordon Moore"
+      "Révolution américaine",
+      "Renaissance",
+      "Égypte ptolémaïque"
     ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Robert Dennard a inventé la mémoire vive dynamique (DRAM) en 1968, une technologie clé pour les ordinateurs modernes."
-  },
-  {
-    "id": "1450",
-    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
-    "answer": "Artémis",
-    "badAnswers": [
-      "Séléné",
-      "Héra",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
   }
 ]
