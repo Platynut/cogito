@@ -1,132 +1,132 @@
 [
   {
-    "id": "1230",
-    "question": "Quel est le nom de l'inventeur du premier ascenseur sécurisé ?",
-    "answer": "Elisha Otis",
+    "id": "1533",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
+    "answer": "Mendélévium",
     "badAnswers": [
-      "Otis Redding",
-      "George Westinghouse",
-      "Thomas Edison"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Elisha Otis a inventé le frein de sécurité pour ascenseurs en 1852, rendant les ascenseurs sûrs et facilitant la construction de gratte-ciel."
-  },
-  {
-    "id": "337",
-    "question": "Quel est le nom de l'inventeur du téléphone ?",
-    "answer": "Alexander Graham Bell",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell est crédité pour l'invention du téléphone, avec un brevet déposé en 1876. Sa contribution a révolutionné les communications. Thomas Edison a inventé l'ampoule, Nikola Tesla a travaillé sur l'électricité, et Guglielmo Marconi sur la radio."
-  },
-  {
-    "id": "1273",
-    "question": "Quel est le nom de l'inventeur de la lampe à incandescence commercialement viable ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, la rendant pratique pour un usage domestique et commercial."
-  },
-  {
-    "id": "2089",
-    "question": "Quel est le nom de l'auteur de 'Albertine disparue' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Émile Zola",
-      "Gustave Flaubert",
-      "Alain-Fournier"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'Albertine disparue' (1925), le sixième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
+      "Magnésium",
+      "Molybdène",
+      "Mercure"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
   },
   {
-    "id": "458",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la princesse du Crépuscule ?",
-    "answer": "Midna",
+    "id": "1219",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
+    "answer": "Crash",
     "badAnswers": [
-      "Zelda",
-      "Epona",
-      "Navi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Midna est la princesse du Crépuscule dans The Legend of Zelda: Twilight Princess, une alliée clé de Link qui l'accompagne dans sa quête. Zelda est la princesse d'Hyrule, Epona est le cheval de Link, et Navi est une fée dans Ocarina of Time."
-  },
-  {
-    "id": "79",
-    "question": "Quel pays a inventé le sushi ?",
-    "answer": "Japon",
-    "badAnswers": [
-      "Chine",
-      "Corée du Sud",
-      "Thaïlande"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Bien que des formes primitives existaient en Chine, le sushi moderne (nigiri, maki) s'est développé à Edo (Tokyo) comme restauration rapide au 19e siècle."
-  },
-  {
-    "id": "995",
-    "question": "Quel sculpteur français a conçu la Statue de la Liberté ?",
-    "answer": "Frédéric Auguste Bartholdi",
-    "badAnswers": [
-      "Jean-Léon Gérôme",
-      "Auguste Rodin",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Frédéric Auguste Bartholdi a créé la Statue de la Liberté, offerte par la France aux États-Unis en 1886 comme symbole d'amitié et de liberté."
-  },
-  {
-    "id": "1102",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
-    "answer": "Spotlight",
-    "badAnswers": [
-      "The Revenant",
-      "The Big Short",
-      "Mad Max: Fury Road"
+      "Brokeback Mountain",
+      "Capote",
+      "Munich"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
+    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
   },
   {
-    "id": "768",
-    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Âge d'or de la piraterie",
+    "id": "654",
+    "question": "Quel est le nom du plus grand désert d'Asie ?",
+    "answer": "Désert de Gobi",
     "badAnswers": [
-      "Révolution américaine",
-      "Renaissance",
-      "Égypte ptolémaïque"
+      "Désert du Taklamakan",
+      "Désert de Karakum",
+      "Désert de Thar"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
+  },
+  {
+    "id": "353",
+    "question": "Quel est le nom de l'auteur de Les Misérables ?",
+    "answer": "Victor Hugo",
+    "badAnswers": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1710",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mackogneur ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
+    "description": "Mackogneur, Pokémon de type combat, est l'évolution finale de Machoc dans la série Pokémon, connu pour sa force physique."
+  },
+  {
+    "id": "1916",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
+    "answer": "Martin Cooper",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Reginald Fessenden",
+      "John Pierce"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
+  },
+  {
+    "id": "1602",
+    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
+    "answer": "São Tomé",
+    "badAnswers": [
+      "Príncipe",
+      "Neves",
+      "Santana"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
+  },
+  {
+    "id": "1366",
+    "question": "Quel est la capitale de la Barbade ?",
+    "answer": "Bridgetown",
+    "badAnswers": [
+      "Speightstown",
+      "Holetown",
+      "Oistins"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+  },
+  {
+    "id": "2138",
+    "question": "Quel est le nom de l'auteur de 'Le Métier d'homme' ?",
+    "answer": "Alexandre Jollien",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Alexandre Jollien a écrit 'Le Métier d'homme' (2002), un essai philosophique sur la condition humaine et le handicap."
+  },
+  {
+    "id": "1806",
+    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Who",
+      "The Doors",
+      "The Kinks"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
   }
 ]
