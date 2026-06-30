@@ -1,132 +1,132 @@
 [
   {
-    "id": "1533",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Md ?",
-    "answer": "Mendélévium",
+    "id": "1222",
+    "question": "Quel est la capitale du Liban ?",
+    "answer": "Beyrouth",
     "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mercure"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le mendélévium, symbolisé par Md, est un élément radioactif synthétique, nommé d'après Dmitri Mendeleïev, utilisé dans la recherche."
-  },
-  {
-    "id": "1219",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
-    "answer": "Crash",
-    "badAnswers": [
-      "Brokeback Mountain",
-      "Capote",
-      "Munich"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
-  },
-  {
-    "id": "654",
-    "question": "Quel est le nom du plus grand désert d'Asie ?",
-    "answer": "Désert de Gobi",
-    "badAnswers": [
-      "Désert du Taklamakan",
-      "Désert de Karakum",
-      "Désert de Thar"
+      "Tripoli",
+      "Sidon",
+      "Tyr"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le désert de Gobi, en Mongolie et en Chine, est le plus grand désert d'Asie, couvrant environ 1,3 million de km². Le Taklamakan, le Karakum et le Thar sont d'autres déserts asiatiques, mais plus petits."
-  },
-  {
-    "id": "353",
-    "question": "Quel est le nom de l'auteur de Les Misérables ?",
-    "answer": "Victor Hugo",
-    "badAnswers": [
-      "Gustave Flaubert",
-      "Émile Zola",
-      "Honoré de Balzac"
-    ],
-    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+    "description": "Beyrouth, capitale du Liban, est une ville méditerranéenne connue pour sa vie culturelle, son histoire ancienne et sa résilience."
   },
   {
-    "id": "1710",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mackogneur ?",
-    "answer": "Pokémon",
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "3",
+      "4",
+      "2"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
+  },
+  {
+    "id": "752",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Chronosphere ?",
+    "answer": "Faceless Void",
+    "badAnswers": [
+      "Void Spirit",
+      "Dark Seer",
+      "Enigma"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Faceless Void est un héros de Dota 2 connu pour son sort ultime Chronosphere, qui fige le temps dans une zone. Void Spirit, Dark Seer et Enigma ont d'autres sorts ultimes."
+  },
+  {
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Mackogneur, Pokémon de type combat, est l'évolution finale de Machoc dans la série Pokémon, connu pour sa force physique."
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
   },
   {
-    "id": "1916",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone mobile ?",
-    "answer": "Martin Cooper",
+    "id": "372",
+    "question": "Quel est le nom du plus grand volcan actif du monde ?",
+    "answer": "Mauna Loa",
     "badAnswers": [
-      "Alexander Graham Bell",
-      "Reginald Fessenden",
-      "John Pierce"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Martin Cooper a effectué le premier appel téléphonique mobile en 1973, travaillant pour Motorola."
-  },
-  {
-    "id": "1602",
-    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
-    "answer": "São Tomé",
-    "badAnswers": [
-      "Príncipe",
-      "Neves",
-      "Santana"
+      "Vésuve",
+      "Etna",
+      "Kilimandjaro"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
+    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
   },
   {
-    "id": "1366",
-    "question": "Quel est la capitale de la Barbade ?",
-    "answer": "Bridgetown",
+    "id": "2141",
+    "question": "Quel est le nom de l'auteur de 'Le Désert des Tartares' ?",
+    "answer": "Dino Buzzati",
     "badAnswers": [
-      "Speightstown",
-      "Holetown",
-      "Oistins"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
-  },
-  {
-    "id": "2138",
-    "question": "Quel est le nom de l'auteur de 'Le Métier d'homme' ?",
-    "answer": "Alexandre Jollien",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Alexandre Jollien a écrit 'Le Métier d'homme' (2002), un essai philosophique sur la condition humaine et le handicap."
+    "description": "Dino Buzzati a écrit 'Le Désert des Tartares' (1940), un roman sur l'attente et l'absurde dans un fort isolé."
   },
   {
-    "id": "1806",
-    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
-    "answer": "The Rolling Stones",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
+      "Navi",
+      "Tatl",
+      "Fi"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+  },
+  {
+    "id": "1825",
+    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
+    "answer": "Blaise Pascal",
+    "badAnswers": [
+      "Gottfried Leibniz",
+      "Charles Babbage",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
+  },
+  {
+    "id": "1100",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Smash Bros.",
+      "Animal Crossing",
+      "Splatoon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+  },
+  {
+    "id": "1092",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kirby ?",
+    "answer": "Kirby",
+    "badAnswers": [
+      "Super Mario",
+      "Pokémon",
+      "Yoshi's Island"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Kirby, créé par Nintendo et HAL Laboratory, est le petit héros rose de la série Kirby, connu pour sa capacité à aspirer ses ennemis et copier leurs pouvoirs."
   }
 ]
