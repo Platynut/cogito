@@ -1,132 +1,132 @@
 [
   {
-    "id": "1222",
-    "question": "Quel est la capitale du Liban ?",
-    "answer": "Beyrouth",
+    "id": "1415",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1974 ?",
+    "answer": "The Godfather Part II",
     "badAnswers": [
-      "Tripoli",
-      "Sidon",
-      "Tyr"
+      "Chinatown",
+      "The Conversation",
+      "Lenny"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Godfather Part II, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1974, une suite épique sur la famille Corleone."
+  },
+  {
+    "id": "1540",
+    "question": "Quel est la capitale du Gabon ?",
+    "answer": "Libreville",
+    "badAnswers": [
+      "Port-Gentil",
+      "Franceville",
+      "Oyem"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Beyrouth, capitale du Liban, est une ville méditerranéenne connue pour sa vie culturelle, son histoire ancienne et sa résilience."
+    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
   },
   {
-    "id": "284",
-    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
-    "answer": "1",
+    "id": "144",
+    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
+    "answer": "Amman",
     "badAnswers": [
-      "3",
-      "4",
-      "2"
+      "Téhéran",
+      "Damas",
+      "Bagdad"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
+  },
+  {
+    "id": "1407",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
+    "answer": "One Flew Over the Cuckoo's Nest",
+    "badAnswers": [
+      "Jaws",
+      "Dog Day Afternoon",
+      "Barry Lyndon"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
+  },
+  {
+    "id": "87",
+    "question": "Qui a peint 'Le Cri' ?",
+    "answer": "Edvard Munch",
+    "badAnswers": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
+  },
+  {
+    "id": "272",
+    "question": "Qui est le chanteur principal du groupe Green Day ?",
+    "answer": "Billie Joe Armstrong",
+    "badAnswers": [
+      "Mike Dirnt",
+      "Sean Hughes",
+      "Tré Cool"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
+  },
+  {
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
+    "badAnswers": [
+      "Lion",
+      "Aigle",
+      "Ours"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+  },
+  {
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "1032",
+    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
+    "answer": "Pokémon Rouge et Vert",
+    "badAnswers": [
+      "Pokémon Or et Argent",
+      "Pokémon Jaune",
+      "Pokémon Diamant et Perle"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
+  },
+  {
+    "id": "16",
+    "question": "Quelle est la capitale de l'Australie ?",
+    "answer": "Canberra",
+    "badAnswers": [
+      "Sydney",
+      "Melbourne",
+      "Perth"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
-  },
-  {
-    "id": "752",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Chronosphere ?",
-    "answer": "Faceless Void",
-    "badAnswers": [
-      "Void Spirit",
-      "Dark Seer",
-      "Enigma"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Faceless Void est un héros de Dota 2 connu pour son sort ultime Chronosphere, qui fige le temps dans une zone. Void Spirit, Dark Seer et Enigma ont d'autres sorts ultimes."
-  },
-  {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
-  },
-  {
-    "id": "372",
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "answer": "Mauna Loa",
-    "badAnswers": [
-      "Vésuve",
-      "Etna",
-      "Kilimandjaro"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
-  },
-  {
-    "id": "2141",
-    "question": "Quel est le nom de l'auteur de 'Le Désert des Tartares' ?",
-    "answer": "Dino Buzzati",
-    "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le Désert des Tartares' (1940), un roman sur l'attente et l'absurde dans un fort isolé."
-  },
-  {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
-    "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "1825",
-    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
-    "answer": "Blaise Pascal",
-    "badAnswers": [
-      "Gottfried Leibniz",
-      "Charles Babbage",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
-  },
-  {
-    "id": "1100",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Smash Bros.",
-      "Animal Crossing",
-      "Splatoon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
-  },
-  {
-    "id": "1092",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kirby ?",
-    "answer": "Kirby",
-    "badAnswers": [
-      "Super Mario",
-      "Pokémon",
-      "Yoshi's Island"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Kirby, créé par Nintendo et HAL Laboratory, est le petit héros rose de la série Kirby, connu pour sa capacité à aspirer ses ennemis et copier leurs pouvoirs."
+    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
   }
 ]
