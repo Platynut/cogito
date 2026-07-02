@@ -1,132 +1,132 @@
 [
   {
-    "id": "1415",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1974 ?",
-    "answer": "The Godfather Part II",
+    "id": "1253",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Link ?",
+    "answer": "The Legend of Zelda",
     "badAnswers": [
-      "Chinatown",
-      "The Conversation",
-      "Lenny"
+      "Super Mario",
+      "Metroid",
+      "Kirby"
     ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "The Godfather Part II, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1974, une suite épique sur la famille Corleone."
+    "description": "Link est le héros emblématique de la série The Legend of Zelda, un aventurier courageux explorant le royaume d'Hyrule."
   },
   {
-    "id": "1540",
-    "question": "Quel est la capitale du Gabon ?",
-    "answer": "Libreville",
+    "id": "510",
+    "question": "Dans Mass Effect, quel est le nom du vaisseau spatial du commandant Shepard ?",
+    "answer": "Normandy",
     "badAnswers": [
-      "Port-Gentil",
-      "Franceville",
-      "Oyem"
+      "Tempest",
+      "Citadel",
+      "Destiny Ascension"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Normandy est le vaisseau spatial du commandant Shepard dans la série Mass Effect, servant de base pour ses missions. Le Tempest est dans Andromeda, la Citadel est une station spatiale, et le Destiny Ascension un vaisseau asari."
+  },
+  {
+    "id": "1471",
+    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
+    "answer": "René Laennec",
+    "badAnswers": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
+  },
+  {
+    "id": "263",
+    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
+    "answer": "The Walking Dead",
+    "badAnswers": [
+      "Game of Thrones",
+      "Stranger Things",
+      "Lost"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
+  },
+  {
+    "id": "1414",
+    "question": "Quel est la capitale de l'Afghanistan ?",
+    "answer": "Kaboul",
+    "badAnswers": [
+      "Kandahar",
+      "Herat",
+      "Mazar-i-Sharif"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+    "description": "Kaboul, capitale de l'Afghanistan, est une ville historique située dans une vallée montagneuse, centre politique et culturel."
   },
   {
-    "id": "144",
-    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
-    "answer": "Amman",
+    "id": "1408",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Yb ?",
+    "answer": "Ytterbium",
     "badAnswers": [
-      "Téhéran",
-      "Damas",
-      "Bagdad"
+      "Yttrium",
+      "Zirconium",
+      "Uranium"
     ],
-    "category": "Histoire",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
+    "description": "L'ytterbium, symbolisé par Yb, est un métal rare utilisé dans les lasers et les alliages pour ses propriétés uniques."
   },
   {
-    "id": "1407",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1975 ?",
-    "answer": "One Flew Over the Cuckoo's Nest",
+    "id": "368",
+    "question": "Dans Dark Souls, quel est le nom du royaume où se déroule le jeu ?",
+    "answer": "Lordran",
     "badAnswers": [
-      "Jaws",
-      "Dog Day Afternoon",
-      "Barry Lyndon"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "One Flew Over the Cuckoo's Nest, réalisé par Miloš Forman, a remporté l'Oscar du meilleur film en 1975, un drame sur la rébellion dans un asile."
-  },
-  {
-    "id": "87",
-    "question": "Qui a peint 'Le Cri' ?",
-    "answer": "Edvard Munch",
-    "badAnswers": [
-      "Vincent van Gogh",
-      "Pablo Picasso",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cette œuvre expressionniste norvégienne (1893) existe en quatre versions. Elle exprime l'angoisse existentielle, inspirée par un coucher de soleil sanglant."
-  },
-  {
-    "id": "272",
-    "question": "Qui est le chanteur principal du groupe Green Day ?",
-    "answer": "Billie Joe Armstrong",
-    "badAnswers": [
-      "Mike Dirnt",
-      "Sean Hughes",
-      "Tré Cool"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Billie Joe Armstrong est le chanteur principal et guitariste du groupe punk rock américain Green Day, formé en 1986. Connu pour sa voix distinctive et ses paroles engagées, il est une figure centrale du groupe, célèbre pour des albums comme Dookie et American Idiot. Mike Dirnt et Tré Cool sont respectivement le bassiste et le batteur du groupe, tandis que Sean Hughes n'est pas membre."
-  },
-  {
-    "id": "27",
-    "question": "Quel est l'animal national de l'Écosse ?",
-    "answer": "Licorne",
-    "badAnswers": [
-      "Lion",
-      "Aigle",
-      "Ours"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
-  },
-  {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "1032",
-    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
-    "answer": "Pokémon Rouge et Vert",
-    "badAnswers": [
-      "Pokémon Or et Argent",
-      "Pokémon Jaune",
-      "Pokémon Diamant et Perle"
+      "Drangleic",
+      "Lothric",
+      "Boletaria"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
+    "description": "Dark Souls se déroule dans le royaume de Lordran, un monde sombre et médiéval où les joueurs explorent des lieux comme Anor Londo. Drangleic et Lothric sont les cadres de Dark Souls II et III, et Boletaria est dans Demon’s Souls."
   },
   {
-    "id": "16",
-    "question": "Quelle est la capitale de l'Australie ?",
-    "answer": "Canberra",
+    "id": "492",
+    "question": "Dans Star Wars, quel est le nom du vaisseau amiral du Premier Ordre dans Le Réveil de la Force ?",
+    "answer": "Finalizer",
     "badAnswers": [
-      "Sydney",
-      "Melbourne",
-      "Perth"
+      "Executor",
+      "Home One",
+      "Raddus"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Le Finalizer est le vaisseau amiral du Premier Ordre dans Star Wars : Le Réveil de la Force, commandé par le général Hux. L'Executor est un vaisseau de l'Empire, Home One de l'Alliance Rebelle, et le Raddus apparaît dans Les Derniers Jedi."
+  },
+  {
+    "id": "545",
+    "question": "Quel est la capitale de la Turquie ?",
+    "answer": "Ankara",
+    "badAnswers": [
+      "Istanbul",
+      "Izmir",
+      "Bursa"
     ],
     "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Ankara est la capitale de la Turquie, centre politique abritant le Parlement. Istanbul, Izmir et Bursa sont d'autres grandes villes turques, mais pas la capitale."
+  },
+  {
+    "id": "212",
+    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
+    "answer": "Le bit",
+    "badAnswers": [
+      "Le byte",
+      "Le méga",
+      "Le giga"
+    ],
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
+    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
   }
 ]
