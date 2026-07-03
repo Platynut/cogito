@@ -1,132 +1,132 @@
 [
   {
-    "id": "1253",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Link ?",
-    "answer": "The Legend of Zelda",
+    "id": "478",
+    "question": "Quel est la capitale du Mexique ?",
+    "answer": "Mexico",
     "badAnswers": [
-      "Super Mario",
-      "Metroid",
-      "Kirby"
+      "Guadalajara",
+      "Monterrey",
+      "Cancún"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Link est le héros emblématique de la série The Legend of Zelda, un aventurier courageux explorant le royaume d'Hyrule."
+    "description": "Mexico est la capitale du Mexique, une métropole vibrante abritant le Zócalo et le Palais national. Guadalajara, Monterrey et Cancún sont d'autres villes mexicaines, mais pas la capitale."
   },
   {
-    "id": "510",
-    "question": "Dans Mass Effect, quel est le nom du vaisseau spatial du commandant Shepard ?",
-    "answer": "Normandy",
+    "id": "2073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
+    "answer": "Grand Hotel",
     "badAnswers": [
-      "Tempest",
-      "Citadel",
-      "Destiny Ascension"
+      "Dr. Jekyll and Mr. Hyde",
+      "The Champ",
+      "Five Star Final"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Le Normandy est le vaisseau spatial du commandant Shepard dans la série Mass Effect, servant de base pour ses missions. Le Tempest est dans Andromeda, la Citadel est une station spatiale, et le Destiny Ascension un vaisseau asari."
+    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
   },
   {
-    "id": "1471",
-    "question": "Quel est le nom de l'inventeur du premier stéthoscope ?",
-    "answer": "René Laennec",
+    "id": "781",
+    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
+    "answer": "Johannes Kepler",
     "badAnswers": [
-      "Edward Jenner",
-      "Louis Pasteur",
-      "Joseph Lister"
+      "Tycho Brahe",
+      "Galileo Galilei",
+      "Isaac Newton"
     ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "René Laennec a inventé le stéthoscope en 1816, permettant aux médecins d'écouter les sons internes du corps pour diagnostiquer les maladies."
+    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
   },
   {
-    "id": "263",
-    "question": "Quel est le nom de la série télévisée qui suit les aventures d'un groupe de survivants après une apocalypse zombie ?",
-    "answer": "The Walking Dead",
+    "id": "372",
+    "question": "Quel est le nom du plus grand volcan actif du monde ?",
+    "answer": "Mauna Loa",
     "badAnswers": [
-      "Game of Thrones",
-      "Stranger Things",
-      "Lost"
+      "Vésuve",
+      "Etna",
+      "Kilimandjaro"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
+  },
+  {
+    "id": "1376",
+    "question": "Quel est la capitale du Guyana ?",
+    "answer": "Georgetown",
+    "badAnswers": [
+      "New Amsterdam",
+      "Linden",
+      "Bartica"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Georgetown, capitale du Guyana, est une ville côtière connue pour son architecture coloniale et son phare emblématique."
+  },
+  {
+    "id": "480",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
+    "answer": "Kai'Sa",
+    "badAnswers": [
+      "Kassadin",
+      "Malzahar",
+      "Vel'Koz"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
+  },
+  {
+    "id": "85",
+    "question": "Quelle ville française est célèbre pour ses biscuits ?",
+    "answer": "Nantes",
+    "badAnswers": [
+      "Lyon",
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
+  },
+  {
+    "id": "197",
+    "question": "Sous quel numéro est connu le personnage campé par Millie Bobby Brown dans Stranger Things ?",
+    "answer": "Le 11",
+    "badAnswers": [
+      "Le 9",
+      "Le 7",
+      "Le 15"
     ],
     "category": "Séries",
     "difficulty": "normal",
-    "description": "'The Walking Dead' est une série post-apocalyptique où un groupe de survivants tente de rester en vie face à des zombies. Elle a été créée par Frank Darabont et est basée sur la bande dessinée du même nom."
+    "description": "Millie Bobby Brown incarne 'Onze' (El), une enfant dotée de pouvoirs psychiques dans 'Stranger Things'. Les autres numéros ne correspondent pas à son personnage."
   },
   {
-    "id": "1414",
-    "question": "Quel est la capitale de l'Afghanistan ?",
-    "answer": "Kaboul",
+    "id": "1416",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
+    "answer": "Lutécium",
     "badAnswers": [
-      "Kandahar",
-      "Herat",
-      "Mazar-i-Sharif"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Kaboul, capitale de l'Afghanistan, est une ville historique située dans une vallée montagneuse, centre politique et culturel."
-  },
-  {
-    "id": "1408",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Yb ?",
-    "answer": "Ytterbium",
-    "badAnswers": [
-      "Yttrium",
-      "Zirconium",
-      "Uranium"
+      "Lithium",
+      "Lanthane",
+      "Lawrencium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "L'ytterbium, symbolisé par Yb, est un métal rare utilisé dans les lasers et les alliages pour ses propriétés uniques."
+    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
   },
   {
-    "id": "368",
-    "question": "Dans Dark Souls, quel est le nom du royaume où se déroule le jeu ?",
-    "answer": "Lordran",
+    "id": "1430",
+    "question": "Quel est le nom de la déesse grecque de la fortune ?",
+    "answer": "Tyché",
     "badAnswers": [
-      "Drangleic",
-      "Lothric",
-      "Boletaria"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
-    "category": "Jeux vidéo",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Dark Souls se déroule dans le royaume de Lordran, un monde sombre et médiéval où les joueurs explorent des lieux comme Anor Londo. Drangleic et Lothric sont les cadres de Dark Souls II et III, et Boletaria est dans Demon’s Souls."
-  },
-  {
-    "id": "492",
-    "question": "Dans Star Wars, quel est le nom du vaisseau amiral du Premier Ordre dans Le Réveil de la Force ?",
-    "answer": "Finalizer",
-    "badAnswers": [
-      "Executor",
-      "Home One",
-      "Raddus"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Le Finalizer est le vaisseau amiral du Premier Ordre dans Star Wars : Le Réveil de la Force, commandé par le général Hux. L'Executor est un vaisseau de l'Empire, Home One de l'Alliance Rebelle, et le Raddus apparaît dans Les Derniers Jedi."
-  },
-  {
-    "id": "545",
-    "question": "Quel est la capitale de la Turquie ?",
-    "answer": "Ankara",
-    "badAnswers": [
-      "Istanbul",
-      "Izmir",
-      "Bursa"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Ankara est la capitale de la Turquie, centre politique abritant le Parlement. Istanbul, Izmir et Bursa sont d'autres grandes villes turques, mais pas la capitale."
-  },
-  {
-    "id": "212",
-    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
-    "answer": "Le bit",
-    "badAnswers": [
-      "Le byte",
-      "Le méga",
-      "Le giga"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
+    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
   }
 ]
