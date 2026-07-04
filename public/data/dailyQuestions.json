@@ -1,132 +1,131 @@
 [
   {
-    "id": "478",
-    "question": "Quel est la capitale du Mexique ?",
-    "answer": "Mexico",
+    "id": "502",
+    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
+    "answer": "Croûtard",
     "badAnswers": [
-      "Guadalajara",
-      "Monterrey",
-      "Cancún"
+      "Hedwige",
+      "Pattenrond",
+      "Fumseck"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
+  },
+  {
+    "id": "173",
+    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
+    "answer": "Serge Gainsbourg",
+    "badAnswers": [
+      "Jean-Jacques Goldman",
+      "Patrick Bruel",
+      "Nicola Sirkis"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
+  },
+  {
+    "id": "1172",
+    "question": "Quel est le nom de l'inventeur du premier microscope ?",
+    "answer": "Zacharias Janssen",
+    "badAnswers": [
+      "Galilée",
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Zacharias Janssen est crédité pour la création du premier microscope composé vers 1590, bien que des débats subsistent sur son invention."
+  },
+  {
+    "id": "1569",
+    "question": "Quel est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
+    "badAnswers": [
+      "Goma",
+      "Lubumbashi",
+      "Kisangani"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Mexico est la capitale du Mexique, une métropole vibrante abritant le Zócalo et le Palais national. Guadalajara, Monterrey et Cancún sont d'autres villes mexicaines, mais pas la capitale."
+    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
   },
   {
-    "id": "2073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
-    "answer": "Grand Hotel",
+    "id": "316",
+    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
+    "answer": "Antonín Dvořák",
     "badAnswers": [
-      "Dr. Jekyll and Mr. Hyde",
-      "The Champ",
-      "Five Star Final"
+      "Ludwig van Beethoven",
+      "Johannes Brahms",
+      "Gustav Mahler"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
+  },
+  {
+    "id": "846",
+    "question": "Dans Star Wars, quel est le nom de la planète désertique où Luke grandit ?",
+    "answer": "Tatooine",
+    "badAnswers": [
+      "Jakku",
+      "Hoth",
+      "Naboo"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
+    "description": "Tatooine est la planète désertique où Luke Skywalker grandit dans Star Wars : Un nouvel espoir. Jakku, Hoth et Naboo sont d'autres planètes de la saga."
   },
   {
-    "id": "781",
-    "question": "Quel scientifique a découvert la loi des aires pour les orbites planétaires ?",
-    "answer": "Johannes Kepler",
+    "id": "280",
+    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
+    "answer": "Dick Grayson",
     "badAnswers": [
-      "Tycho Brahe",
-      "Galileo Galilei",
-      "Isaac Newton"
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+  },
+  {
+    "id": "233",
+    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
+    "answer": "Hémoglobine",
+    "badAnswers": [
+      "Albumine",
+      "Plasma",
+      "Gammaglobuline"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Johannes Kepler a formulé la loi des aires (deuxième loi) au début du XVIIe siècle, décrivant la vitesse des planètes. Brahe a fourni des données, Galilée a soutenu l'héliocentrisme, et Newton a développé la gravitation."
+    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
   },
   {
-    "id": "372",
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "answer": "Mauna Loa",
+    "id": "604",
+    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
+    "answer": "Benzaiten",
     "badAnswers": [
-      "Vésuve",
-      "Etna",
-      "Kilimandjaro"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
-  },
-  {
-    "id": "1376",
-    "question": "Quel est la capitale du Guyana ?",
-    "answer": "Georgetown",
-    "badAnswers": [
-      "New Amsterdam",
-      "Linden",
-      "Bartica"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Georgetown, capitale du Guyana, est une ville côtière connue pour son architecture coloniale et son phare emblématique."
-  },
-  {
-    "id": "480",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
-    "answer": "Kai'Sa",
-    "badAnswers": [
-      "Kassadin",
-      "Malzahar",
-      "Vel'Koz"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
-  },
-  {
-    "id": "85",
-    "question": "Quelle ville française est célèbre pour ses biscuits ?",
-    "answer": "Nantes",
-    "badAnswers": [
-      "Lyon",
-      "Bordeaux",
-      "Strasbourg"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
-  },
-  {
-    "id": "197",
-    "question": "Sous quel numéro est connu le personnage campé par Millie Bobby Brown dans Stranger Things ?",
-    "answer": "Le 11",
-    "badAnswers": [
-      "Le 9",
-      "Le 7",
-      "Le 15"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Millie Bobby Brown incarne 'Onze' (El), une enfant dotée de pouvoirs psychiques dans 'Stranger Things'. Les autres numéros ne correspondent pas à son personnage."
-  },
-  {
-    "id": "1416",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
-    "answer": "Lutécium",
-    "badAnswers": [
-      "Lithium",
-      "Lanthane",
-      "Lawrencium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
-  },
-  {
-    "id": "1430",
-    "question": "Quel est le nom de la déesse grecque de la fortune ?",
-    "answer": "Tyché",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
+      "Amaterasu",
+      "Inari"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
+    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
+  },
+  {
+    "id": "902",
+    "question": "Combien de vertèbres compose la colonne vertébrale humaine ?",
+    "answer": "33",
+    "badAnswers": [
+      "24",
+      "28",
+      "36"
+    ],
+    "category": "Anatomie",
+    "difficulty": "difficile",
+    "description": "La colonne vertébrale humaine est composée de 33 vertèbres, réparties entre cervicales, thoraciques, lombaires, sacrées et coccygiennes."
   }
 ]
