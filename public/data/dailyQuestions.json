@@ -1,131 +1,132 @@
 [
   {
-    "id": "502",
-    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
-    "answer": "Croûtard",
+    "id": "2126",
+    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
+    "answer": "André Malraux",
     "badAnswers": [
-      "Hedwige",
-      "Pattenrond",
-      "Fumseck"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
   },
   {
-    "id": "173",
-    "question": "Qui a écrit 'Comme un boomerang', interprété par Étienne Daho et Dani en 2001 ?",
-    "answer": "Serge Gainsbourg",
+    "id": "2140",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
+    "answer": "Aucun Oscar décerné",
     "badAnswers": [
-      "Jean-Jacques Goldman",
-      "Patrick Bruel",
-      "Nicola Sirkis"
+      "The Big Parade",
+      "Ben-Hur",
+      "The Gold Rush"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
+  },
+  {
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
+    "badAnswers": [
+      "Akali",
+      "Zed",
+      "Kennen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
+  },
+  {
+    "id": "200",
+    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
+    "answer": "Mercure",
+    "badAnswers": [
+      "Vénus",
+      "Mars",
+      "Terre"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
+  },
+  {
+    "id": "1236",
+    "question": "Quel est le nom du groupe qui a chanté 'Wish You Were Here' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "The Doors",
+      "Led Zeppelin",
+      "The Rolling Stones"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Comme un boomerang' est une chanson écrite par Serge Gainsbourg en 1975, reprise en duo par Étienne Daho et Dani en 2001. Goldman, Bruel et Sirkis sont d'autres artistes français."
+    "difficulty": "facile",
+    "description": "'Wish You Were Here', sorti en 1975 par Pink Floyd, est une chanson émouvante dédiée à Syd Barrett, tirée de l'album éponyme."
   },
   {
-    "id": "1172",
-    "question": "Quel est le nom de l'inventeur du premier microscope ?",
-    "answer": "Zacharias Janssen",
+    "id": "372",
+    "question": "Quel est le nom du plus grand volcan actif du monde ?",
+    "answer": "Mauna Loa",
     "badAnswers": [
-      "Galilée",
-      "Antonie van Leeuwenhoek",
-      "Robert Hooke"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Zacharias Janssen est crédité pour la création du premier microscope composé vers 1590, bien que des débats subsistent sur son invention."
-  },
-  {
-    "id": "1569",
-    "question": "Quel est la capitale de la République démocratique du Congo ?",
-    "answer": "Kinshasa",
-    "badAnswers": [
-      "Goma",
-      "Lubumbashi",
-      "Kisangani"
+      "Vésuve",
+      "Etna",
+      "Kilimandjaro"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
-  },
-  {
-    "id": "316",
-    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
-    "answer": "Antonín Dvořák",
-    "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johannes Brahms",
-      "Gustav Mahler"
-    ],
-    "category": "Musique",
     "difficulty": "normal",
-    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
+    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
   },
   {
-    "id": "846",
-    "question": "Dans Star Wars, quel est le nom de la planète désertique où Luke grandit ?",
-    "answer": "Tatooine",
+    "id": "1043",
+    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
+    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
     "badAnswers": [
-      "Jakku",
-      "Hoth",
-      "Naboo"
+      "Pirates des Caraïbes : Le Secret du coffre maudit",
+      "Pirates des Caraïbes : Jusqu'au bout du monde",
+      "Pirates des Caraïbes : La Fontaine de jouvence"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Tatooine est la planète désertique où Luke Skywalker grandit dans Star Wars : Un nouvel espoir. Jakku, Hoth et Naboo sont d'autres planètes de la saga."
+    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
   },
   {
-    "id": "280",
-    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
-    "answer": "Dick Grayson",
+    "id": "984",
+    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
+    "answer": "La famille Gothik",
     "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
+      "La famille",
+      "La famille Simflouz",
+      "La famille Proud"
     ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
   },
   {
-    "id": "233",
-    "question": "Quel est le nom de la protéine qui donne sa couleur rouge au sang ?",
-    "answer": "Hémoglobine",
+    "id": "901",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "answer": "La peau",
     "badAnswers": [
-      "Albumine",
-      "Plasma",
-      "Gammaglobuline"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'hémoglobine, contenant du fer, transporte l'oxygène et donne sa couleur rouge au sang. L'albumine est une protéine plasmatique, le plasma est le liquide sanguin."
-  },
-  {
-    "id": "604",
-    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
-    "answer": "Benzaiten",
-    "badAnswers": [
-      "Amaterasu",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
-  },
-  {
-    "id": "902",
-    "question": "Combien de vertèbres compose la colonne vertébrale humaine ?",
-    "answer": "33",
-    "badAnswers": [
-      "24",
-      "28",
-      "36"
+      "Le foie",
+      "Le cerveau",
+      "Le cœur"
     ],
     "category": "Anatomie",
-    "difficulty": "difficile",
-    "description": "La colonne vertébrale humaine est composée de 33 vertèbres, réparties entre cervicales, thoraciques, lombaires, sacrées et coccygiennes."
+    "difficulty": "normal",
+    "description": "La peau est le plus grand organe du corps humain, couvrant environ 2 m² chez un adulte et jouant un rôle essentiel de protection et de régulation thermique."
+  },
+  {
+    "id": "50",
+    "question": "Quelle ville française est célèbre pour sa moutarde ?",
+    "answer": "Dijon",
+    "badAnswers": [
+      "Bordeaux",
+      "Lyon",
+      "Reims"
+    ],
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "La moutarde de Dijon, apparue au 14e siècle, doit son nom à la ville bien que la plupart des graines soient maintenant importées."
   }
 ]
