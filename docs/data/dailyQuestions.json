@@ -1,132 +1,132 @@
 [
   {
-    "id": "2126",
-    "question": "Quel est le nom de l'auteur de 'Les Conquérants' ?",
-    "answer": "André Malraux",
+    "id": "221",
+    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
+    "answer": "The Big Bang Theory",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "La Petite Maison dans la Prairie"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
+  },
+  {
+    "id": "927",
+    "question": "Qui a créé la série animée RWBY ?",
+    "answer": "Monty Oum",
+    "badAnswers": [
+      "Miles Luna",
+      "Kerry Shawcross",
+      "Shane Newville"
+    ],
+    "category": "Dessins animés",
+    "difficulty": "normal",
+    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
+  },
+  {
+    "id": "1735",
+    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
+    "answer": "Michel de Montaigne",
+    "badAnswers": [
+      "François Rabelais",
+      "Jean-Jacques Rousseau",
+      "Voltaire"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "André Malraux a écrit 'Les Conquérants' (1928), un roman sur la révolution chinoise et l'aventure humaine."
+    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
   },
   {
-    "id": "2140",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
-    "answer": "Aucun Oscar décerné",
+    "id": "345",
+    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
+    "answer": "Rapture",
     "badAnswers": [
-      "The Big Parade",
-      "Ben-Hur",
-      "The Gold Rush"
+      "Columbia",
+      "Atlantis",
+      "Arcadia"
     ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
   },
   {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
+    "id": "1809",
+    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
+    "answer": "Guy de Maupassant",
     "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
+  },
+  {
+    "id": "1224",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Chrono Trigger",
+      "Dragon Quest"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
+    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
   },
   {
-    "id": "200",
-    "question": "Quel est le nom de la planète la plus proche du Soleil ?",
-    "answer": "Mercure",
+    "id": "1937",
+    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Vénus",
-      "Mars",
-      "Terre"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mercure est la planète la plus proche du Soleil, suivie de Vénus, Mars et enfin la Terre. C'est une planète rocheuse sans atmosphère significative."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
   },
   {
-    "id": "1236",
-    "question": "Quel est le nom du groupe qui a chanté 'Wish You Were Here' ?",
-    "answer": "Pink Floyd",
+    "id": "450",
+    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
+    "answer": "Sandro Botticelli",
     "badAnswers": [
-      "The Doors",
-      "Led Zeppelin",
-      "The Rolling Stones"
+      "William-Adolphe Bouguereau",
+      "Gustave Courbet",
+      "Eugène Delacroix"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Wish You Were Here', sorti en 1975 par Pink Floyd, est une chanson émouvante dédiée à Syd Barrett, tirée de l'album éponyme."
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
   },
   {
-    "id": "372",
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "answer": "Mauna Loa",
+    "id": "1298",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur mécanique ?",
+    "answer": "John Logie Baird",
     "badAnswers": [
-      "Vésuve",
-      "Etna",
-      "Kilimandjaro"
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Thomas Edison"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "John Logie Baird a démontré le premier téléviseur mécanique en 1925, posant les bases de la télévision moderne."
+  },
+  {
+    "id": "16",
+    "question": "Quelle est la capitale de l'Australie ?",
+    "answer": "Canberra",
+    "badAnswers": [
+      "Sydney",
+      "Melbourne",
+      "Perth"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
-  },
-  {
-    "id": "1043",
-    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
-    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
-    "badAnswers": [
-      "Pirates des Caraïbes : Le Secret du coffre maudit",
-      "Pirates des Caraïbes : Jusqu'au bout du monde",
-      "Pirates des Caraïbes : La Fontaine de jouvence"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
-  },
-  {
-    "id": "984",
-    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
-    "answer": "La famille Gothik",
-    "badAnswers": [
-      "La famille",
-      "La famille Simflouz",
-      "La famille Proud"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
-  },
-  {
-    "id": "901",
-    "question": "Quel est le plus grand organe du corps humain ?",
-    "answer": "La peau",
-    "badAnswers": [
-      "Le foie",
-      "Le cerveau",
-      "Le cœur"
-    ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "La peau est le plus grand organe du corps humain, couvrant environ 2 m² chez un adulte et jouant un rôle essentiel de protection et de régulation thermique."
-  },
-  {
-    "id": "50",
-    "question": "Quelle ville française est célèbre pour sa moutarde ?",
-    "answer": "Dijon",
-    "badAnswers": [
-      "Bordeaux",
-      "Lyon",
-      "Reims"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "La moutarde de Dijon, apparue au 14e siècle, doit son nom à la ville bien que la plupart des graines soient maintenant importées."
+    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
   }
 ]
