@@ -1,132 +1,132 @@
 [
   {
-    "id": "221",
-    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
-    "answer": "The Big Bang Theory",
+    "id": "1678",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "How I Met Your Mother",
-      "Game of Thrones",
-      "La Petite Maison dans la Prairie"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+  },
+  {
+    "id": "1003",
+    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
+    "answer": "Alan Moore",
+    "badAnswers": [
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
+  },
+  {
+    "id": "2016",
+    "question": "Quel est le nom du groupe qui a chanté 'I Feel Fine' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Feel Fine', sorti en 1964 par The Beatles, est une chanson pop connue pour son riff de guitare innovant."
+  },
+  {
+    "id": "727",
+    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
+    "answer": "James Clerk Maxwell",
+    "badAnswers": [
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "Nikola Tesla"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "1333",
+    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
+    "answer": "The Clash",
+    "badAnswers": [
+      "The Ramones",
+      "Sex Pistols",
+      "The Who"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
+  },
+  {
+    "id": "1505",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
+    "answer": "On the Waterfront",
+    "badAnswers": [
+      "The Caine Mutiny",
+      "Seven Brides for Seven Brothers",
+      "Three Coins in the Fountain"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
+  },
+  {
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+  },
+  {
+    "id": "176",
+    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
+    "answer": "House of Cards",
+    "badAnswers": [
+      "Orange is the new black",
+      "Stranger Things",
+      "The Crown"
     ],
     "category": "Séries",
+    "difficulty": "normal",
+    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
+  },
+  {
+    "id": "1160",
+    "question": "Quel est le nom du dieu grec de la mort ?",
+    "answer": "Thanatos",
+    "badAnswers": [
+      "Hypnos",
+      "Morpheus",
+      "Hadès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
+  },
+  {
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
-  },
-  {
-    "id": "927",
-    "question": "Qui a créé la série animée RWBY ?",
-    "answer": "Monty Oum",
-    "badAnswers": [
-      "Miles Luna",
-      "Kerry Shawcross",
-      "Shane Newville"
-    ],
-    "category": "Dessins animés",
-    "difficulty": "normal",
-    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
-  },
-  {
-    "id": "1735",
-    "question": "Quel est le nom de l'auteur de 'Les Essais' ?",
-    "answer": "Michel de Montaigne",
-    "badAnswers": [
-      "François Rabelais",
-      "Jean-Jacques Rousseau",
-      "Voltaire"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel de Montaigne a écrit 'Les Essais' (1580), une collection d'écrits philosophiques et introspectifs."
-  },
-  {
-    "id": "345",
-    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
-    "answer": "Rapture",
-    "badAnswers": [
-      "Columbia",
-      "Atlantis",
-      "Arcadia"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
-  },
-  {
-    "id": "1809",
-    "question": "Quel est le nom de l'auteur de 'Le Horla' ?",
-    "answer": "Guy de Maupassant",
-    "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Le Horla' (1887), une nouvelle fantastique sur la peur de l'invisible."
-  },
-  {
-    "id": "1224",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Sephiroth ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Chrono Trigger",
-      "Dragon Quest"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sephiroth est l'antagoniste emblématique de Final Fantasy VII, un ancien soldat d'élite devenu une menace mondiale."
-  },
-  {
-    "id": "1937",
-    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
-  },
-  {
-    "id": "450",
-    "question": "Quel artiste a peint La Naissance de Vénus la plus célèbre ?",
-    "answer": "Sandro Botticelli",
-    "badAnswers": [
-      "William-Adolphe Bouguereau",
-      "Gustave Courbet",
-      "Eugène Delacroix"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Sandro Botticelli a peint La Naissance de Vénus vers 1485–1486, une œuvre emblématique de la Renaissance italienne, représentant Vénus sortant des eaux sur un coquillage. William-Adolphe Bouguereau a également réalisé un tableau du même nom en 1879, dans un style néoclassique, mais celui de Botticelli est de loin le plus célèbre."
-  },
-  {
-    "id": "1298",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur mécanique ?",
-    "answer": "John Logie Baird",
-    "badAnswers": [
-      "Philo Farnsworth",
-      "Vladimir Zworykin",
-      "Thomas Edison"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "John Logie Baird a démontré le premier téléviseur mécanique en 1925, posant les bases de la télévision moderne."
-  },
-  {
-    "id": "16",
-    "question": "Quelle est la capitale de l'Australie ?",
-    "answer": "Canberra",
-    "badAnswers": [
-      "Sydney",
-      "Melbourne",
-      "Perth"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Canberra est la capitale de l’Australie, choisie comme compromis entre Sydney et Melbourne. C’est une ville planifiée abritant le Parlement. Sydney, Melbourne et Brisbane sont d’autres grandes villes, mais pas la capitale."
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
   }
 ]
