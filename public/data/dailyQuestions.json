@@ -1,124 +1,124 @@
 [
   {
-    "id": "1678",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Léviator ?",
-    "answer": "Pokémon",
+    "id": "500",
+    "question": "Dans Dota 2, quel est le nom du héros connu pour son sort Black Hole ?",
+    "answer": "Enigma",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Void Spirit",
+      "Faceless Void",
+      "Ancient Apparition"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui attire les ennemis dans une zone dévastatrice. Void Spirit, Faceless Void et Ancient Apparition ont d'autres sorts et rôles dans le jeu."
+  },
+  {
+    "id": "90",
+    "question": "Quelle est la capitale du Canada ?",
+    "answer": "Ottawa",
+    "badAnswers": [
+      "Toronto",
+      "Montréal",
+      "Vancouver"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Choix de compromis en 1857 entre Toronto (anglophone) et Québec (francophone), Ottawa se situe dans la province majoritairement anglophone de l'Ontario, à la frontière avec le Québec."
+  },
+  {
+    "id": "680",
+    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
+    "answer": "Niels Bohr",
+    "badAnswers": [
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Max Planck"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
+  },
+  {
+    "id": "619",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
+    "answer": "Alain-Fournier",
+    "badAnswers": [
+      "Marcel Proust",
+      "André Gide",
+      "François Mauriac"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "378",
+    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
+    "answer": "Night City",
+    "badAnswers": [
+      "Neo Tokyo",
+      "Liberty City",
+      "New Vegas"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Léviator, Pokémon de type eau et vol, est l'évolution de Magicarpe dans la série Pokémon, connu pour sa puissance."
+    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
   },
   {
-    "id": "1003",
-    "question": "Qui a écrit la série de comics Batman : The Killing Joke ?",
-    "answer": "Alan Moore",
+    "id": "534",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du chef des Compagnons ?",
+    "answer": "Kodlak Blanc-Mane",
     "badAnswers": [
-      "Bill Finger",
-      "Frank Miller",
-      "Jerry Siegel"
+      "Ulfric Sombrage",
+      "Balgruuf le Grand",
+      "Farkas"
     ],
-    "category": "Bandes dessinées",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Alan Moore, célèbre scénariste, a écrit The Killing Joke (1988), une histoire emblématique explorant la psychologie du Joker et son impact sur Barbara Gordon."
+    "description": "Kodlak Blanc-Mane est le chef des Compagnons, une guilde de guerriers dans The Elder Scrolls V: Skyrim. Ulfric est le chef des Sombrages, Balgruuf un jarl, et Farkas un membre des Compagnons."
   },
   {
-    "id": "2016",
-    "question": "Quel est le nom du groupe qui a chanté 'I Feel Fine' ?",
-    "answer": "The Beatles",
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Feel Fine', sorti en 1964 par The Beatles, est une chanson pop connue pour son riff de guitare innovant."
-  },
-  {
-    "id": "727",
-    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
-    "answer": "James Clerk Maxwell",
-    "badAnswers": [
-      "Michael Faraday",
-      "Heinrich Hertz",
-      "Nikola Tesla"
+      "Argent",
+      "Cuivre",
+      "Platine"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "1333",
-    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
-    "answer": "The Clash",
-    "badAnswers": [
-      "The Ramones",
-      "Sex Pistols",
-      "The Who"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
   },
   {
-    "id": "1505",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
-    "answer": "On the Waterfront",
+    "id": "344",
+    "question": "Quel est la capitale du Japon ?",
+    "answer": "Tokyo",
     "badAnswers": [
-      "The Caine Mutiny",
-      "Seven Brides for Seven Brothers",
-      "Three Coins in the Fountain"
+      "Osaka",
+      "Kyoto",
+      "Hiroshima"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tokyo est la capitale du Japon, une métropole majeure et le centre politique, économique et culturel du pays. Kyoto était l'ancienne capitale impériale, tandis qu'Osaka et Hiroshima sont d'autres grandes villes, mais pas la capitale."
   },
   {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
+    "id": "989",
+    "question": "Quel est le terme médical pour le nombril ?",
+    "answer": "Ombilic",
     "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
+      "Nævus",
+      "Narines",
+      "Paxillus"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'ombilic, communément appelé nombril, est la cicatrice laissée par la coupure du cordon ombilical à la naissance."
   },
   {
-    "id": "176",
-    "question": "Quelle série lancée en 2013 est connue pour être la première série Netflix ?",
-    "answer": "House of Cards",
-    "badAnswers": [
-      "Orange is the new black",
-      "Stranger Things",
-      "The Crown"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "'House of Cards' (2013), adaptation politique avec Kevin Spacey, est considérée comme la première série originale Netflix. Les autres séries sont arrivées plus tard."
-  },
-  {
-    "id": "1160",
-    "question": "Quel est le nom du dieu grec de la mort ?",
-    "answer": "Thanatos",
-    "badAnswers": [
-      "Hypnos",
-      "Morpheus",
-      "Hadès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
-  },
-  {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "id": "1915",
+    "question": "Quel est le nom du groupe qui a chanté 'Penny Lane' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -127,6 +127,6 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+    "description": "'Penny Lane', sorti en 1967 par The Beatles, est une chanson pop tirée de leur catalogue de singles."
   }
 ]
