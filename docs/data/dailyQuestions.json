@@ -1,132 +1,132 @@
 [
   {
-    "id": "500",
-    "question": "Dans Dota 2, quel est le nom du héros connu pour son sort Black Hole ?",
-    "answer": "Enigma",
+    "id": "488",
+    "question": "Quel est la capitale de l'Indonésie ?",
+    "answer": "Jakarta",
     "badAnswers": [
-      "Void Spirit",
-      "Faceless Void",
-      "Ancient Apparition"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Enigma est un héros de Dota 2 connu pour son sort ultime Black Hole, qui attire les ennemis dans une zone dévastatrice. Void Spirit, Faceless Void et Ancient Apparition ont d'autres sorts et rôles dans le jeu."
-  },
-  {
-    "id": "90",
-    "question": "Quelle est la capitale du Canada ?",
-    "answer": "Ottawa",
-    "badAnswers": [
-      "Toronto",
-      "Montréal",
-      "Vancouver"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Choix de compromis en 1857 entre Toronto (anglophone) et Québec (francophone), Ottawa se situe dans la province majoritairement anglophone de l'Ontario, à la frontière avec le Québec."
-  },
-  {
-    "id": "680",
-    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
-    "answer": "Niels Bohr",
-    "badAnswers": [
-      "J.J. Thomson",
-      "Ernest Rutherford",
-      "Max Planck"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
-  },
-  {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
-    "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "378",
-    "question": "Dans Cyberpunk 2077, quelle est la ville où se déroule l’histoire ?",
-    "answer": "Night City",
-    "badAnswers": [
-      "Neo Tokyo",
-      "Liberty City",
-      "New Vegas"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cyberpunk 2077 se déroule à Night City, une métropole futuriste fictive en Californie, connue pour sa technologie avancée et sa criminalité. Neo Tokyo est une ville d’autres œuvres, Liberty City est dans GTA, et New Vegas dans Fallout."
-  },
-  {
-    "id": "534",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du chef des Compagnons ?",
-    "answer": "Kodlak Blanc-Mane",
-    "badAnswers": [
-      "Ulfric Sombrage",
-      "Balgruuf le Grand",
-      "Farkas"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kodlak Blanc-Mane est le chef des Compagnons, une guilde de guerriers dans The Elder Scrolls V: Skyrim. Ulfric est le chef des Sombrages, Balgruuf un jarl, et Farkas un membre des Compagnons."
-  },
-  {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
-    "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
-  },
-  {
-    "id": "344",
-    "question": "Quel est la capitale du Japon ?",
-    "answer": "Tokyo",
-    "badAnswers": [
-      "Osaka",
-      "Kyoto",
-      "Hiroshima"
+      "Bali",
+      "Surabaya",
+      "Bandung"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Tokyo est la capitale du Japon, une métropole majeure et le centre politique, économique et culturel du pays. Kyoto était l'ancienne capitale impériale, tandis qu'Osaka et Hiroshima sont d'autres grandes villes, mais pas la capitale."
+    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
   },
   {
-    "id": "989",
-    "question": "Quel est le terme médical pour le nombril ?",
-    "answer": "Ombilic",
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
     "badAnswers": [
-      "Nævus",
-      "Narines",
-      "Paxillus"
+      "Palkia",
+      "Giratina",
+      "Arceus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+  },
+  {
+    "id": "137",
+    "question": "En quelle année a été projeté le premier film ?",
+    "answer": "1895",
+    "badAnswers": [
+      "1924",
+      "1912",
+      "1904"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
+  },
+  {
+    "id": "547",
+    "question": "Dans Fortnite, quel est le nom de l'événement final d'une partie de Battle Royale ?",
+    "answer": "Cercle final",
+    "badAnswers": [
+      "Tempête ultime",
+      "Zone finale",
+      "Anneau de feu"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Cercle final est l'événement final d'une partie de Fortnite Battle Royale, où la tempête se referme complètement, forçant les derniers joueurs à s'affronter. Les autres termes sont fictifs ou incorrects."
+  },
+  {
+    "id": "1283",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
+    "answer": "Gallium",
+    "badAnswers": [
+      "Germanium",
+      "Gadolinium",
+      "Graphite"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "L'ombilic, communément appelé nombril, est la cicatrice laissée par la coupure du cordon ombilical à la naissance."
+    "difficulty": "normal",
+    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
   },
   {
-    "id": "1915",
-    "question": "Quel est le nom du groupe qui a chanté 'Penny Lane' ?",
-    "answer": "The Beatles",
+    "id": "1961",
+    "question": "Quel est le nom de l'auteur de 'Les Mandarins' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'Les Mandarins' (1954), un roman sur les intellectuels parisiens après la guerre."
+  },
+  {
+    "id": "869",
+    "question": "Quel est le plus grand oiseau du monde ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Condor des Andes",
+      "Albatros hurleur",
+      "Grue royale"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
+  },
+  {
+    "id": "802",
+    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
+    "answer": "Morgana",
+    "badAnswers": [
+      "Kayle",
+      "Akali",
+      "Ahri"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
+  },
+  {
+    "id": "108",
+    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
+    "answer": "2000",
+    "badAnswers": [
+      "1999",
+      "2001",
+      "2002"
+    ],
+    "category": "Jeux de société",
+    "difficulty": "difficile",
+    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
+  },
+  {
+    "id": "1125",
+    "question": "Quel est le nom du groupe qui a chanté 'Yellow' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Keane",
+      "Snow Patrol",
+      "The Killers"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Penny Lane', sorti en 1967 par The Beatles, est une chanson pop tirée de leur catalogue de singles."
+    "description": "'Yellow', sorti en 2000 par Coldplay, est une chanson pop-rock qui a marqué les débuts du groupe et reste l'un de leurs plus grands succès."
   }
 ]
