@@ -1,132 +1,132 @@
 [
   {
-    "id": "488",
-    "question": "Quel est la capitale de l'Indonésie ?",
-    "answer": "Jakarta",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
-      "Bali",
-      "Surabaya",
-      "Bandung"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
-  },
-  {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
-    "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
-  },
-  {
-    "id": "137",
-    "question": "En quelle année a été projeté le premier film ?",
-    "answer": "1895",
-    "badAnswers": [
-      "1924",
-      "1912",
-      "1904"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Le premier film projeté publiquement l'a été en 1895 par les frères Lumière. Les autres dates correspondent à des avancées ultérieures du cinéma."
-  },
-  {
-    "id": "547",
-    "question": "Dans Fortnite, quel est le nom de l'événement final d'une partie de Battle Royale ?",
-    "answer": "Cercle final",
-    "badAnswers": [
-      "Tempête ultime",
-      "Zone finale",
-      "Anneau de feu"
+      "Navi",
+      "Tatl",
+      "Fi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le Cercle final est l'événement final d'une partie de Fortnite Battle Royale, où la tempête se referme complètement, forçant les derniers joueurs à s'affronter. Les autres termes sont fictifs ou incorrects."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
   },
   {
-    "id": "1283",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ga ?",
-    "answer": "Gallium",
+    "id": "1757",
+    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "Germanium",
-      "Gadolinium",
-      "Graphite"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le gallium, symbolisé par Ga, est un métal qui fond à basse température, utilisé dans les semi-conducteurs et les LED."
-  },
-  {
-    "id": "1961",
-    "question": "Quel est le nom de l'auteur de 'Les Mandarins' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Les Mandarins' (1954), un roman sur les intellectuels parisiens après la guerre."
-  },
-  {
-    "id": "869",
-    "question": "Quel est le plus grand oiseau du monde ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Condor des Andes",
-      "Albatros hurleur",
-      "Grue royale"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
-  },
-  {
-    "id": "802",
-    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
-    "answer": "Morgana",
-    "badAnswers": [
-      "Kayle",
-      "Akali",
-      "Ahri"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
-  },
-  {
-    "id": "108",
-    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
-    "answer": "2000",
-    "badAnswers": [
-      "1999",
-      "2001",
-      "2002"
-    ],
-    "category": "Jeux de société",
-    "difficulty": "difficile",
-    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
-  },
-  {
-    "id": "1125",
-    "question": "Quel est le nom du groupe qui a chanté 'Yellow' ?",
-    "answer": "Coldplay",
-    "badAnswers": [
-      "Keane",
-      "Snow Patrol",
-      "The Killers"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Yellow', sorti en 2000 par Coldplay, est une chanson pop-rock qui a marqué les débuts du groupe et reste l'un de leurs plus grands succès."
+    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+  },
+  {
+    "id": "699",
+    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
+    "answer": "Bourg-Clocher",
+    "badAnswers": [
+      "Cité Goron",
+      "Village Kokiri",
+      "Domaine Zora"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
+  },
+  {
+    "id": "1606",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
+    "answer": "Flérovium",
+    "badAnswers": [
+      "Fluor",
+      "Fermium",
+      "Francium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
+  },
+  {
+    "id": "1251",
+    "question": "Quel est le nom de la déesse grecque du foyer ?",
+    "answer": "Hestia",
+    "badAnswers": [
+      "Héra",
+      "Déméter",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hestia, déesse grecque du foyer et de la maison, est une divinité paisible associée à la chaleur domestique et au feu sacré."
+  },
+  {
+    "id": "320",
+    "question": "Quel est le symbole chimique de l'or ?",
+    "answer": "Au",
+    "badAnswers": [
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
+  },
+  {
+    "id": "1726",
+    "question": "Quel est le nom du dieu grec du ciel ?",
+    "answer": "Ouranos",
+    "badAnswers": [
+      "Zeus",
+      "Poséidon",
+      "Hadès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
+  },
+  {
+    "id": "979",
+    "question": "Quel était le dernier message des dauphins dans 'Le Guide du voyageur galactique' ?",
+    "answer": "Salut, et merci pour tout le poisson.",
+    "badAnswers": [
+      "La réponse est 42.",
+      "Terre des braves.",
+      "Adieu, monde cruel !"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Dans le roman de Douglas Adams, les dauphins quittent la Terre en laissant ce message humoristique, en référence à leur intelligence et à leur départ imminent."
+  },
+  {
+    "id": "921",
+    "question": "Quel est le nom du plus grand glacier d'Asie ?",
+    "answer": "Siachen",
+    "badAnswers": [
+      "Gangotri",
+      "Baltoro",
+      "Zemu"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Siachen, dans l'Himalaya, est le plus grand d'Asie, s'étendant sur environ 76 km. Gangotri, Baltoro et Zemu sont d'autres glaciers, mais plus petits."
+  },
+  {
+    "id": "1039",
+    "question": "Quel est le nom de l'auteur de '1984' ?",
+    "answer": "George Orwell",
+    "badAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
   }
 ]
