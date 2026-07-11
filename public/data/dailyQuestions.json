@@ -1,132 +1,132 @@
 [
   {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
+    "id": "1411",
+    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "1757",
-    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "ZZ Top"
+      "Aerosmith",
+      "Metallica",
+      "Bon Jovi"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
   },
   {
-    "id": "699",
-    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
-    "answer": "Bourg-Clocher",
+    "id": "67",
+    "question": "Quelle scientifique a découvert le radium ?",
+    "answer": "Marie Curie",
     "badAnswers": [
-      "Cité Goron",
-      "Village Kokiri",
-      "Domaine Zora"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
-  },
-  {
-    "id": "1606",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fl ?",
-    "answer": "Flérovium",
-    "badAnswers": [
-      "Fluor",
-      "Fermium",
-      "Francium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le flérovium, symbolisé par Fl, est un élément radioactif synthétique, nommé d'après le laboratoire Flerov, utilisé dans la recherche."
-  },
-  {
-    "id": "1251",
-    "question": "Quel est le nom de la déesse grecque du foyer ?",
-    "answer": "Hestia",
-    "badAnswers": [
-      "Héra",
-      "Déméter",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Hestia, déesse grecque du foyer et de la maison, est une divinité paisible associée à la chaleur domestique et au feu sacré."
-  },
-  {
-    "id": "320",
-    "question": "Quel est le symbole chimique de l'or ?",
-    "answer": "Au",
-    "badAnswers": [
-      "Ag",
-      "Fe",
-      "Cu"
+      "Rosalind Franklin",
+      "Lise Meitner",
+      "Dorothy Hodgkin"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
+    "description": "Cette physicienne franco-polonaise a reçu deux prix Nobel (Physique 1903 et Chimie 1911) pour ses travaux sur la radioactivité."
   },
   {
-    "id": "1726",
-    "question": "Quel est le nom du dieu grec du ciel ?",
-    "answer": "Ouranos",
+    "id": "1428",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
+    "answer": "The Godfather",
+    "badAnswers": [
+      "Cabaret",
+      "Deliverance",
+      "The Emigrants"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
+  },
+  {
+    "id": "765",
+    "question": "Quel est le nom du dieu grec des enfers ?",
+    "answer": "Hadès",
     "badAnswers": [
       "Zeus",
       "Poséidon",
-      "Hadès"
+      "Arès"
     ],
     "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
+    "difficulty": "facile",
+    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
   },
   {
-    "id": "979",
-    "question": "Quel était le dernier message des dauphins dans 'Le Guide du voyageur galactique' ?",
-    "answer": "Salut, et merci pour tout le poisson.",
+    "id": "28",
+    "question": "Quelle pâtisserie française est en forme de petit pain ?",
+    "answer": "Croissant",
     "badAnswers": [
-      "La réponse est 42.",
-      "Terre des braves.",
-      "Adieu, monde cruel !"
+      "Éclair",
+      "Mille-feuille",
+      "Tarte Tatin"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dans le roman de Douglas Adams, les dauphins quittent la Terre en laissant ce message humoristique, en référence à leur intelligence et à leur départ imminent."
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
   },
   {
-    "id": "921",
-    "question": "Quel est le nom du plus grand glacier d'Asie ?",
-    "answer": "Siachen",
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
     "badAnswers": [
-      "Gangotri",
-      "Baltoro",
-      "Zemu"
+      "Arès",
+      "Apollon",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+  },
+  {
+    "id": "1118",
+    "question": "Quel est le nom du groupe qui a chanté 'Viva La Vida' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Muse",
+      "Keane",
+      "Snow Patrol"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Viva La Vida', sorti en 2008 par Coldplay, est une chanson pop-rock inspirée par l'histoire et l'art, tirée de l'album éponyme."
+  },
+  {
+    "id": "2044",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
+  },
+  {
+    "id": "1196",
+    "question": "Quel est la capitale du Sénégal ?",
+    "answer": "Dakar",
+    "badAnswers": [
+      "Thiès",
+      "Saint-Louis",
+      "Ziguinchor"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le glacier Siachen, dans l'Himalaya, est le plus grand d'Asie, s'étendant sur environ 76 km. Gangotri, Baltoro et Zemu sont d'autres glaciers, mais plus petits."
+    "difficulty": "facile",
+    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
   },
   {
-    "id": "1039",
-    "question": "Quel est le nom de l'auteur de '1984' ?",
-    "answer": "George Orwell",
+    "id": "444",
+    "question": "Quel scientifique a découvert le principe de flottabilité ?",
+    "answer": "Archimède",
     "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
+      "Galilée",
+      "Isaac Newton",
+      "Blaise Pascal"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "George Orwell a écrit '1984', une dystopie publiée en 1949 qui explore les dangers du totalitarisme et de la surveillance de masse."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
   }
 ]
