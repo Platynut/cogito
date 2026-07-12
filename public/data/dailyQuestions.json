@@ -1,132 +1,132 @@
 [
   {
-    "id": "1411",
-    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
+    "id": "719",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Skellige",
+      "Toussaint",
+      "Velen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+  },
+  {
+    "id": "1333",
+    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
+    "answer": "The Clash",
+    "badAnswers": [
+      "The Ramones",
+      "Sex Pistols",
+      "The Who"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
+  },
+  {
+    "id": "1449",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
+    "answer": "In the Heat of the Night",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "The Graduate",
+      "Guess Who's Coming to Dinner"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
+  },
+  {
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
     "answer": "Guns N' Roses",
     "badAnswers": [
       "Aerosmith",
-      "Metallica",
-      "Bon Jovi"
+      "Bon Jovi",
+      "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
   },
   {
-    "id": "67",
-    "question": "Quelle scientifique a découvert le radium ?",
-    "answer": "Marie Curie",
+    "id": "1603",
+    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
+    "answer": "Pearl Jam",
     "badAnswers": [
-      "Rosalind Franklin",
-      "Lise Meitner",
-      "Dorothy Hodgkin"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Cette physicienne franco-polonaise a reçu deux prix Nobel (Physique 1903 et Chimie 1911) pour ses travaux sur la radioactivité."
-  },
-  {
-    "id": "1428",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1972 ?",
-    "answer": "The Godfather",
-    "badAnswers": [
-      "Cabaret",
-      "Deliverance",
-      "The Emigrants"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Godfather, réalisé par Francis Ford Coppola, a remporté l'Oscar du meilleur film en 1972, un chef-d'œuvre sur la mafia italienne."
-  },
-  {
-    "id": "765",
-    "question": "Quel est le nom du dieu grec des enfers ?",
-    "answer": "Hadès",
-    "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Arès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
-  },
-  {
-    "id": "28",
-    "question": "Quelle pâtisserie française est en forme de petit pain ?",
-    "answer": "Croissant",
-    "badAnswers": [
-      "Éclair",
-      "Mille-feuille",
-      "Tarte Tatin"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
-  },
-  {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
-  },
-  {
-    "id": "1118",
-    "question": "Quel est le nom du groupe qui a chanté 'Viva La Vida' ?",
-    "answer": "Coldplay",
-    "badAnswers": [
-      "Muse",
-      "Keane",
-      "Snow Patrol"
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Viva La Vida', sorti en 2008 par Coldplay, est une chanson pop-rock inspirée par l'histoire et l'art, tirée de l'album éponyme."
+    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
   },
   {
-    "id": "2044",
-    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+  },
+  {
+    "id": "1968",
+    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+  },
+  {
+    "id": "480",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
+    "answer": "Kai'Sa",
+    "badAnswers": [
+      "Kassadin",
+      "Malzahar",
+      "Vel'Koz"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
+  },
+  {
+    "id": "1805",
+    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
+    "answer": "Guy de Maupassant",
+    "badAnswers": [
+      "Émile Zola",
+      "Victor Hugo",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
+  },
+  {
+    "id": "1154",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
-      "The Doors"
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1196",
-    "question": "Quel est la capitale du Sénégal ?",
-    "answer": "Dakar",
-    "badAnswers": [
-      "Thiès",
-      "Saint-Louis",
-      "Ziguinchor"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
-  },
-  {
-    "id": "444",
-    "question": "Quel scientifique a découvert le principe de flottabilité ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
   }
 ]
