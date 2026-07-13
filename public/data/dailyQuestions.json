@@ -1,132 +1,132 @@
 [
   {
-    "id": "719",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom du royaume principal exploré ?",
-    "answer": "Novigrad",
+    "id": "199",
+    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
+    "answer": "Francis Bacon",
     "badAnswers": [
-      "Skellige",
-      "Toussaint",
-      "Velen"
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "René Magritte"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Novigrad est une ville-royaume clé dans The Witcher 3: Wild Hunt, un centre commercial majeur. Skellige, Toussaint et Velen sont d'autres régions explorées dans le jeu."
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
   },
   {
-    "id": "1333",
-    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
-    "answer": "The Clash",
-    "badAnswers": [
-      "The Ramones",
-      "Sex Pistols",
-      "The Who"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
-  },
-  {
-    "id": "1449",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1967 ?",
-    "answer": "In the Heat of the Night",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "The Graduate",
-      "Guess Who's Coming to Dinner"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "In the Heat of the Night, réalisé par Norman Jewison, a remporté l'Oscar du meilleur film en 1967, un drame sur le racisme et la justice."
-  },
-  {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
-  },
-  {
-    "id": "1603",
-    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
-    "answer": "Pearl Jam",
-    "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
-  },
-  {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
-    "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
-  },
-  {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
-  },
-  {
-    "id": "480",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Vide ?",
-    "answer": "Kai'Sa",
-    "badAnswers": [
-      "Kassadin",
-      "Malzahar",
-      "Vel'Koz"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kai'Sa est surnommée La Fille du Vide dans League of Legends. C’est une tireuse qui utilise les pouvoirs du Vide pour combattre. Kassadin, Malzahar et Vel'Koz sont aussi liés au Vide, mais ils ont d'autres titres."
-  },
-  {
-    "id": "1805",
-    "question": "Quel est le nom de l'auteur de 'Une vie' ?",
-    "answer": "Guy de Maupassant",
-    "badAnswers": [
-      "Émile Zola",
-      "Victor Hugo",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Guy de Maupassant a écrit 'Une vie' (1883), un roman réaliste sur les désillusions d'une femme."
-  },
-  {
-    "id": "1154",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
+    "id": "1902",
+    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
-      "The Kinks"
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
+    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
+  },
+  {
+    "id": "1930",
+    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
+  },
+  {
+    "id": "34",
+    "question": "Dans quelle ville se trouve la Maison Blanche ?",
+    "answer": "Washington D.C.",
+    "badAnswers": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
+  },
+  {
+    "id": "1335",
+    "question": "Quel est la capitale de la République dominicaine ?",
+    "answer": "Saint-Domingue",
+    "badAnswers": [
+      "Santiago",
+      "Puerto Plata",
+      "La Romana"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Saint-Domingue, capitale de la République dominicaine, est connue pour sa zone coloniale, un site classé au patrimoine mondial de l'UNESCO."
+  },
+  {
+    "id": "1633",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
+    "answer": "Cavalcade",
+    "badAnswers": [
+      "Lady for a Day",
+      "Little Women",
+      "The Private Life of Henry VIII"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
+  },
+  {
+    "id": "221",
+    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
+    "answer": "The Big Bang Theory",
+    "badAnswers": [
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "La Petite Maison dans la Prairie"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
+  },
+  {
+    "id": "148",
+    "question": "Quel célèbre artiste est représenté sur les masques de la série Casa de Papel ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Paco Rabanne",
+      "Francisco de Goya"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Les masques portés par les braqueurs dans 'La Casa de Papel' représentent Salvador Dalí, symbole du surréalisme. Picasso était cubiste, Paco Rabanne un designer, et Goya un peintre classique."
+  },
+  {
+    "id": "1534",
+    "question": "Quel est la capitale du Bénin ?",
+    "answer": "Porto-Novo",
+    "badAnswers": [
+      "Cotonou",
+      "Abomey",
+      "Parakou"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Porto-Novo, capitale du Bénin, est une ville historique connue pour son architecture afro-brésilienne et son musée ethnographique."
+  },
+  {
+    "id": "993",
+    "question": "Qui fut le 40e président des États-Unis ?",
+    "answer": "Ronald Reagan",
+    "badAnswers": [
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
   }
 ]
