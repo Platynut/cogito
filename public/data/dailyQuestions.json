@@ -1,20 +1,7 @@
 [
   {
-    "id": "199",
-    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
-    "answer": "Francis Bacon",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Salvador Dalí",
-      "René Magritte"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
-  },
-  {
-    "id": "1902",
-    "question": "Quel est le nom du groupe qui a chanté 'Lucy in the Sky with Diamonds' ?",
+    "id": "2028",
+    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -23,110 +10,123 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Lucy in the Sky with Diamonds', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Sgt. Pepper's."
+    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "1930",
-    "question": "Quel est le nom du groupe qui a chanté 'Can't Buy Me Love' ?",
-    "answer": "The Beatles",
+    "id": "1390",
+    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alessandro Volta"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Can't Buy Me Love', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album A Hard Day's Night."
-  },
-  {
-    "id": "34",
-    "question": "Dans quelle ville se trouve la Maison Blanche ?",
-    "answer": "Washington D.C.",
-    "badAnswers": [
-      "New York",
-      "Los Angeles",
-      "Chicago"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
-  },
-  {
-    "id": "1335",
-    "question": "Quel est la capitale de la République dominicaine ?",
-    "answer": "Saint-Domingue",
-    "badAnswers": [
-      "Santiago",
-      "Puerto Plata",
-      "La Romana"
-    ],
-    "category": "Géographie",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Saint-Domingue, capitale de la République dominicaine, est connue pour sa zone coloniale, un site classé au patrimoine mondial de l'UNESCO."
+    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
   },
   {
-    "id": "1633",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1934 ?",
-    "answer": "Cavalcade",
+    "id": "1963",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Lady for a Day",
-      "Little Women",
-      "The Private Life of Henry VIII"
+      "Georg Haas",
+      "John Abel",
+      "Nils Alwall"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
+  },
+  {
+    "id": "2133",
+    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
+    "answer": "Jean Cocteau",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
+  },
+  {
+    "id": "925",
+    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
+    "answer": "Pied-de-biche",
+    "badAnswers": [
+      "Pistolet",
+      "Combinaison H.E.V.",
+      "Vos poings"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
+  },
+  {
+    "id": "824",
+    "question": "Quel est le plus grand serpent du monde ?",
+    "answer": "Python réticulé",
+    "badAnswers": [
+      "Anaconda vert",
+      "Boa constrictor",
+      "Cobra royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
+  },
+  {
+    "id": "2054",
+    "question": "Quel est le nom du dieu grec du mariage ?",
+    "answer": "Hyménaios",
+    "badAnswers": [
+      "Apollon",
+      "Arès",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hyménaios, dieu grec du mariage, est souvent représenté comme un jeune homme portant une torche lors des cérémonies nuptiales."
+  },
+  {
+    "id": "941",
+    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
+    "answer": "Lishana Deni",
+    "badAnswers": [
+      "Hulaulá",
+      "Lishan Didan",
+      "Chaldéen néo-araméen"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
+  },
+  {
+    "id": "1102",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
+    "answer": "Spotlight",
+    "badAnswers": [
+      "The Revenant",
+      "The Big Short",
+      "Mad Max: Fury Road"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Cavalcade, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1934, un drame historique sur la société anglaise."
+    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
   },
   {
-    "id": "221",
-    "question": "Dans quelle série a joué l'acteur Jim Parsons ?",
-    "answer": "The Big Bang Theory",
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
     "badAnswers": [
-      "How I Met Your Mother",
-      "Game of Thrones",
-      "La Petite Maison dans la Prairie"
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
-    "category": "Séries",
-    "difficulty": "facile",
-    "description": "Jim Parsons est célèbre pour son rôle de Sheldon Cooper dans 'The Big Bang Theory' (2007-2019). Il n'a pas participé aux autres séries listées."
-  },
-  {
-    "id": "148",
-    "question": "Quel célèbre artiste est représenté sur les masques de la série Casa de Papel ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Paco Rabanne",
-      "Francisco de Goya"
-    ],
-    "category": "Séries",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Les masques portés par les braqueurs dans 'La Casa de Papel' représentent Salvador Dalí, symbole du surréalisme. Picasso était cubiste, Paco Rabanne un designer, et Goya un peintre classique."
-  },
-  {
-    "id": "1534",
-    "question": "Quel est la capitale du Bénin ?",
-    "answer": "Porto-Novo",
-    "badAnswers": [
-      "Cotonou",
-      "Abomey",
-      "Parakou"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Porto-Novo, capitale du Bénin, est une ville historique connue pour son architecture afro-brésilienne et son musée ethnographique."
-  },
-  {
-    "id": "993",
-    "question": "Qui fut le 40e président des États-Unis ?",
-    "answer": "Ronald Reagan",
-    "badAnswers": [
-      "Jimmy Carter",
-      "Bill Clinton",
-      "Richard Nixon"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Ronald Reagan, président de 1981 à 1989, est connu pour sa politique économique conservatrice et son rôle dans la fin de la Guerre froide."
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
   }
 ]
