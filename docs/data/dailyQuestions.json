@@ -1,132 +1,132 @@
 [
   {
-    "id": "2028",
-    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
-    "answer": "The Beatles",
+    "id": "1298",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur mécanique ?",
+    "answer": "John Logie Baird",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Thomas Edison"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "John Logie Baird a démontré le premier téléviseur mécanique en 1925, posant les bases de la télévision moderne."
   },
   {
-    "id": "1390",
-    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
-    "answer": "Michael Faraday",
+    "id": "2096",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur implantable ?",
+    "answer": "Michel Mirowski",
     "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alessandro Volta"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
-  },
-  {
-    "id": "1963",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Georg Haas",
-      "John Abel",
-      "Nils Alwall"
+      "Paul Zoll",
+      "William Kouwenhoven",
+      "Claude Beck"
     ],
     "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
+    "description": "Michel Mirowski a développé le premier défibrillateur cardiaque implantable en 1980."
   },
   {
-    "id": "2133",
-    "question": "Quel est le nom de l'auteur de 'Les Enfants terribles' ?",
-    "answer": "Jean Cocteau",
+    "id": "477",
+    "question": "Dans Red Dead Redemption 2, quel est le nom du protagoniste principal ?",
+    "answer": "Arthur Morgan",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Les Enfants terribles' (1929), un roman sur la relation complexe entre un frère et une sœur."
-  },
-  {
-    "id": "925",
-    "question": "Quelle est la première arme que vous obtenez dans Half-Life ?",
-    "answer": "Pied-de-biche",
-    "badAnswers": [
-      "Pistolet",
-      "Combinaison H.E.V.",
-      "Vos poings"
+      "John Marston",
+      "Dutch van der Linde",
+      "Micah Bell"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Half-Life, la première arme obtenue par le joueur, Gordon Freeman, est un pied-de-biche, une arme de mêlée emblématique utilisée pour briser des caisses et combattre des ennemis. Cette arme est devenue un symbole iconique de la série. La combinaison H.E.V. est un équipement de protection, tandis que le pistolet est obtenu plus tard."
+    "description": "Arthur Morgan est le protagoniste principal de Red Dead Redemption 2, un hors-la-loi membre du gang Van der Linde. John Marston est le héros du premier jeu, Dutch est le chef du gang, et Micah un antagoniste."
   },
   {
-    "id": "824",
-    "question": "Quel est le plus grand serpent du monde ?",
-    "answer": "Python réticulé",
+    "id": "547",
+    "question": "Dans Fortnite, quel est le nom de l'événement final d'une partie de Battle Royale ?",
+    "answer": "Cercle final",
     "badAnswers": [
-      "Anaconda vert",
-      "Boa constrictor",
-      "Cobra royal"
+      "Tempête ultime",
+      "Zone finale",
+      "Anneau de feu"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Cercle final est l'événement final d'une partie de Fortnite Battle Royale, où la tempête se referme complètement, forçant les derniers joueurs à s'affronter. Les autres termes sont fictifs ou incorrects."
   },
   {
-    "id": "2054",
-    "question": "Quel est le nom du dieu grec du mariage ?",
-    "answer": "Hyménaios",
+    "id": "1047",
+    "question": "Quel est le nom du premier homme à avoir volé en solo à travers l'Atlantique ?",
+    "answer": "Charles Lindbergh",
     "badAnswers": [
-      "Apollon",
-      "Arès",
-      "Hermès"
+      "Amelia Earhart",
+      "Howard Hughes",
+      "Wiley Post"
     ],
-    "category": "Mythologie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Hyménaios, dieu grec du mariage, est souvent représenté comme un jeune homme portant une torche lors des cérémonies nuptiales."
+    "description": "Charles Lindbergh a effectué le premier vol transatlantique en solo en 1927 à bord du Spirit of St. Louis, un exploit historique en aviation."
   },
   {
-    "id": "941",
-    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
-    "answer": "Lishana Deni",
+    "id": "1944",
+    "question": "Quel est la capitale de l'Île Maurice ?",
+    "answer": "Port Louis",
     "badAnswers": [
-      "Hulaulá",
-      "Lishan Didan",
-      "Chaldéen néo-araméen"
+      "Curepipe",
+      "Quatre Bornes",
+      "Vacoas-Phoenix"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
+    "difficulty": "facile",
+    "description": "Port Louis, capitale de l'Île Maurice, est une ville portuaire connue pour son marché central et sa citadelle."
   },
   {
-    "id": "1102",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2015 ?",
-    "answer": "Spotlight",
+    "id": "501",
+    "question": "Quel est le nom du plus grand lac salé du monde ?",
+    "answer": "Mer Caspienne",
     "badAnswers": [
-      "The Revenant",
-      "The Big Short",
-      "Mad Max: Fury Road"
+      "Mer Morte",
+      "Lac salé d'Utah",
+      "Lac Eyre"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Spotlight, réalisé par Tom McCarthy, a remporté l'Oscar du meilleur film en 2015 pour sa reconstitution journalistique d'une enquête sur des abus sexuels au sein de l'Église catholique."
+    "description": "La Mer Caspienne, située entre l'Europe et l'Asie, est le plus grand lac salé du monde, couvrant environ 371 000 km². Bien qu'appelée 'mer', c'est un lac. La Mer Morte, le Lac salé d'Utah et le Lac Eyre sont beaucoup plus petits."
   },
   {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
-    "answer": "Arthur Rimbaud",
+    "id": "154",
+    "question": "Qu'est-ce que HTML signifie en informatique ?",
+    "answer": "HyperText Markup Language",
     "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "HighTech Modern Language",
+      "HyperTransfer Markup Language",
+      "HyperText Machine Language"
     ],
-    "category": "Livres",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
+    "description": "HTML signifie 'HyperText Markup Language', le langage standard pour créer des pages web. Les autres propositions sont des inventions sans rapport."
+  },
+  {
+    "id": "929",
+    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
+    "answer": "9 mai 1945",
+    "badAnswers": [
+      "2 septembre 1945",
+      "9 août 1945",
+      "11 décembre 1945"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
+  },
+  {
+    "id": "817",
+    "question": "Quel est la capitale de la Pologne ?",
+    "answer": "Varsovie",
+    "badAnswers": [
+      "Cracovie",
+      "Gdansk",
+      "Wroclaw"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Varsovie est la capitale de la Pologne, située sur la Vistule, connue pour son château royal. Cracovie, Gdansk et Wroclaw sont d'autres villes polonaises, mais pas la capitale."
   }
 ]
