@@ -1,132 +1,132 @@
 [
   {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
+    "id": "469",
+    "question": "Quel artiste a peint Le Baiser ?",
+    "answer": "Gustav Klimt",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
+      "Edvard Munch",
+      "Egon Schiele",
+      "Marc Chagall"
     ],
-    "category": "Littérature",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "459",
-    "question": "Quel est la capitale de l'Égypte ?",
-    "answer": "Le Caire",
+    "id": "1545",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lr ?",
+    "answer": "Lawrencium",
     "badAnswers": [
-      "Alexandrie",
-      "Louxor",
-      "Gizeh"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Caire est la capitale de l'Égypte, une métropole majeure abritant les pyramides de Gizeh à proximité et le musée égyptien. Alexandrie, Louxor et Gizeh sont d'autres villes ou sites importants, mais pas la capitale."
-  },
-  {
-    "id": "1136",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Si ?",
-    "answer": "Silicium",
-    "badAnswers": [
-      "Soufre",
-      "Sélénium",
-      "Sodium"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le silicium, symbolisé par Si, est un élément clé dans l'industrie électronique, utilisé dans les semi-conducteurs et les panneaux solaires."
+    "difficulty": "difficile",
+    "description": "Le lawrencium, symbolisé par Lr, est un élément radioactif synthétique, nommé d'après Ernest Lawrence, utilisé dans la recherche."
   },
   {
-    "id": "878",
-    "question": "Quel est le plus grand reptile aquatique actuel ?",
-    "answer": "Crocodile marin",
+    "id": "1861",
+    "question": "Quel est le nom de l'auteur de 'Siddhartha' ?",
+    "answer": "Hermann Hesse",
     "badAnswers": [
-      "Alligator du Mississippi",
-      "Caiman noir",
-      "Tortue luth"
+      "Franz Kafka",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Hermann Hesse a écrit 'Siddhartha' (1922), un roman spirituel sur la quête d'illumination."
+  },
+  {
+    "id": "869",
+    "question": "Quel est le plus grand oiseau du monde ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Condor des Andes",
+      "Albatros hurleur",
+      "Grue royale"
     ],
     "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
+  },
+  {
+    "id": "243",
+    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
+    "answer": "Tortue luth",
+    "badAnswers": [
+      "Tortue franche",
+      "Tortue ninja",
+      "Tortue argneuse"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
+  },
+  {
+    "id": "196",
+    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
+    "answer": "Alsace",
+    "badAnswers": [
+      "Bretagne",
+      "Corse",
+      "Auvergne"
+    ],
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
+    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
   },
   {
-    "id": "1576",
-    "question": "Quel est le nom du groupe qui a chanté 'Dream On' ?",
-    "answer": "Aerosmith",
+    "id": "1807",
+    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Dream On', sorti en 1973 par Aerosmith, est une ballade rock emblématique tirée de leur premier album."
-  },
-  {
-    "id": "1663",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ectoplasma ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ectoplasma, Pokémon de type spectre et poison, est une créature populaire de la série Pokémon, évoluant à partir de Spectrum."
-  },
-  {
-    "id": "1550",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Rf ?",
-    "answer": "Rutherfordium",
-    "badAnswers": [
-      "Radon",
-      "Rhodium",
-      "Rubidium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rutherfordium, symbolisé par Rf, est un élément radioactif synthétique, nommé d'après Ernest Rutherford, utilisé dans la recherche."
-  },
-  {
-    "id": "1779",
-    "question": "Quel est le nom de l'inventeur du premier système de GPS commercial ?",
-    "answer": "Bradford Parkinson",
-    "badAnswers": [
-      "Roger L. Easton",
-      "Ivan Getting",
-      "Gladys West"
+      "Humphry Davy",
+      "Nikola Tesla",
+      "George Westinghouse"
     ],
     "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Bradford Parkinson a dirigé le développement du GPS commercial dans les années 1970, utilisé aujourd'hui dans le monde entier."
+    "difficulty": "facile",
+    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
   },
   {
-    "id": "1835",
-    "question": "Quel est le nom de l'inventeur du premier système de scanner à rayons X ?",
-    "answer": "Godfrey Hounsfield",
+    "id": "171",
+    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
+    "answer": "Ours d'or",
     "badAnswers": [
-      "Wilhelm Röntgen",
-      "Marie Curie",
-      "Raymond Damadian"
+      "Léopard d'or",
+      "Pyramide d'or",
+      "Lion d'or"
     ],
-    "category": "Médecine",
+    "category": "Cinéma",
     "difficulty": "difficile",
-    "description": "Godfrey Hounsfield a inventé le premier scanner à rayons X (tomographie) en 1971, révolutionnant le diagnostic médical."
+    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
   },
   {
-    "id": "434",
-    "question": "Quel scientifique a découvert la radioactivité ?",
-    "answer": "Henri Becquerel",
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
     "badAnswers": [
-      "Marie Curie",
-      "Ernest Rutherford",
-      "Wilhelm Röntgen"
+      "Brésil",
+      "Argentine",
+      "Italie"
     ],
-    "category": "Science",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Henri Becquerel a découvert la radioactivité en 1896 en observant l’émission spontanée de rayonnements par l’uranium. Marie Curie a approfondi ces recherches, Rutherford a étudié la structure atomique, et Röntgen a découvert les rayons X."
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+  },
+  {
+    "id": "1001",
+    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
+    "answer": "Bangladesh",
+    "badAnswers": [
+      "Malaisie",
+      "Vietnam",
+      "Philippines"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
   }
 ]
