@@ -1,132 +1,132 @@
 [
   {
-    "id": "469",
-    "question": "Quel artiste a peint Le Baiser ?",
-    "answer": "Gustav Klimt",
+    "id": "1108",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
+    "answer": "Calcium",
     "badAnswers": [
-      "Edvard Munch",
-      "Egon Schiele",
-      "Marc Chagall"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Baiser (1907–1908) de Gustav Klimt est une œuvre emblématique de l'Art nouveau, représentant un couple enlacé avec des motifs dorés. Munch, Schiele et Chagall sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1545",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lr ?",
-    "answer": "Lawrencium",
-    "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Carbone",
+      "Césium",
+      "Chlore"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le lawrencium, symbolisé par Lr, est un élément radioactif synthétique, nommé d'après Ernest Lawrence, utilisé dans la recherche."
+    "difficulty": "facile",
+    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
   },
   {
-    "id": "1861",
-    "question": "Quel est le nom de l'auteur de 'Siddhartha' ?",
-    "answer": "Hermann Hesse",
+    "id": "1992",
+    "question": "Quel est le nom de l'auteur de 'Le Silence de la mer' ?",
+    "answer": "Vercors",
     "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Rainer Maria Rilke"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Vercors a écrit 'Le Silence de la mer' (1942), une nouvelle sur la résistance passive sous l'occupation allemande."
+  },
+  {
+    "id": "647",
+    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
+    "answer": "Torbjörn",
+    "badAnswers": [
+      "Symmetra",
+      "Moira",
+      "Mei"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
+  },
+  {
+    "id": "395",
+    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
+    "answer": "3",
+    "badAnswers": [
+      "7",
+      "5",
+      "10"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
+  },
+  {
+    "id": "1646",
+    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
+    "answer": "John Steinbeck",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
     ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Hermann Hesse a écrit 'Siddhartha' (1922), un roman spirituel sur la quête d'illumination."
+    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
   },
   {
-    "id": "869",
-    "question": "Quel est le plus grand oiseau du monde ?",
-    "answer": "Autruche",
+    "id": "2047",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision électronique ?",
+    "answer": "Philo Farnsworth",
     "badAnswers": [
-      "Condor des Andes",
-      "Albatros hurleur",
-      "Grue royale"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau du monde, pouvant atteindre 2,8 mètres de haut. Le condor, l'albatros et la grue sont plus petits."
-  },
-  {
-    "id": "243",
-    "question": "Quelle est la plus grande tortue marine connue à ce jour ?",
-    "answer": "Tortue luth",
-    "badAnswers": [
-      "Tortue franche",
-      "Tortue ninja",
-      "Tortue argneuse"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "La tortue luth (jusqu'à 2 m et 900 kg) est la plus grande espèce. 'Tortue ninja' est une référence aux Teenage Mutant Ninja Turtles."
-  },
-  {
-    "id": "196",
-    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
-    "answer": "Alsace",
-    "badAnswers": [
-      "Bretagne",
-      "Corse",
-      "Auvergne"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
-  },
-  {
-    "id": "1807",
-    "question": "Quel est le nom de l'inventeur du premier système de lampe à incandescence pratique ?",
-    "answer": "Thomas Edison",
-    "badAnswers": [
-      "Humphry Davy",
-      "Nikola Tesla",
-      "George Westinghouse"
+      "John Logie Baird",
+      "Walter Bruch",
+      "Vladimir Zworykin"
     ],
     "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Thomas Edison a perfectionné la lampe à incandescence en 1879, rendant l'éclairage électrique accessible."
-  },
-  {
-    "id": "171",
-    "question": "Quel symbole récompense le meilleur film au festival de Berlin ?",
-    "answer": "Ours d'or",
-    "badAnswers": [
-      "Léopard d'or",
-      "Pyramide d'or",
-      "Lion d'or"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "La Berlinale décerne un Ours d'or (symbole de la ville) au meilleur film. Le Léopard d'or est à Locarno, le Lion d'or à Venise, et la Pyramide n'existe pas."
-  },
-  {
-    "id": "51",
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "answer": "Uruguay",
-    "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
-    ],
-    "category": "Sports",
     "difficulty": "normal",
-    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+    "description": "Philo Farnsworth a inventé le premier système de télévision électronique en 1927, posant les bases de la télévision moderne."
   },
   {
-    "id": "1001",
-    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
-    "answer": "Bangladesh",
+    "id": "1354",
+    "question": "Quel est la capitale de la Jamaïque ?",
+    "answer": "Kingston",
     "badAnswers": [
-      "Malaisie",
-      "Vietnam",
-      "Philippines"
+      "Montego Bay",
+      "Ocho Rios",
+      "Negril"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
+    "difficulty": "facile",
+    "description": "Kingston, capitale de la Jamaïque, est un centre culturel connu pour sa musique reggae et son port historique."
+  },
+  {
+    "id": "911",
+    "question": "Quel artiste a peint La Joconde ?",
+    "answer": "Léonard de Vinci",
+    "badAnswers": [
+      "Michel-Ange",
+      "Raphaël",
+      "Sandro Botticelli"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
+  },
+  {
+    "id": "982",
+    "question": "Dans l'anime Medaka Box, quelle est l'anomalie de Medaka Kurokami ?",
+    "answer": "The End",
+    "badAnswers": [
+      "Perfection",
+      "Sandbox",
+      "Équité"
+    ],
+    "category": "Anime et Manga",
+    "difficulty": "difficile",
+    "description": "Dans Medaka Box, l'anomalie 'The End' permet à Medaka Kurokami de copier et de perfectionner les capacités des autres, la rendant incroyablement puissante."
+  },
+  {
+    "id": "1514",
+    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
+    "answer": "Mark Twain",
+    "badAnswers": [
+      "Herman Melville",
+      "Jack London",
+      "Nathaniel Hawthorne"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
   }
 ]
