@@ -1,132 +1,132 @@
 [
   {
-    "id": "1108",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
-    "answer": "Calcium",
+    "id": "1963",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
+    "answer": "Willem Kolff",
     "badAnswers": [
-      "Carbone",
-      "Césium",
-      "Chlore"
+      "Georg Haas",
+      "John Abel",
+      "Nils Alwall"
     ],
-    "category": "Science",
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
+  },
+  {
+    "id": "28",
+    "question": "Quelle pâtisserie française est en forme de petit pain ?",
+    "answer": "Croissant",
+    "badAnswers": [
+      "Éclair",
+      "Mille-feuille",
+      "Tarte Tatin"
+    ],
+    "category": "Cuisine",
     "difficulty": "facile",
-    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
+    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
   },
   {
-    "id": "1992",
-    "question": "Quel est le nom de l'auteur de 'Le Silence de la mer' ?",
-    "answer": "Vercors",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Vercors a écrit 'Le Silence de la mer' (1942), une nouvelle sur la résistance passive sous l'occupation allemande."
-  },
-  {
-    "id": "647",
-    "question": "Dans Overwatch, quel personnage est un ingénieur suédois spécialisé dans la fabrication d'armes ?",
-    "answer": "Torbjörn",
-    "badAnswers": [
-      "Symmetra",
-      "Moira",
-      "Mei"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Torbjörn est un ingénieur suédois dans Overwatch, connu pour ses talents en fabrication d'armes et de tourelles automatiques. Symmetra crée des structures à base de lumière dure, Moira est une généticienne, et Mei utilise la cryogénie."
-  },
-  {
-    "id": "395",
-    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
-    "answer": "3",
-    "badAnswers": [
-      "7",
-      "5",
-      "10"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
-  },
-  {
-    "id": "1646",
-    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
-    "answer": "John Steinbeck",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
-  },
-  {
-    "id": "2047",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision électronique ?",
-    "answer": "Philo Farnsworth",
+    "id": "1703",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
+    "answer": "Walter Bruch",
     "badAnswers": [
       "John Logie Baird",
-      "Walter Bruch",
+      "Philo Farnsworth",
       "Vladimir Zworykin"
     ],
     "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Philo Farnsworth a inventé le premier système de télévision électronique en 1927, posant les bases de la télévision moderne."
+    "difficulty": "difficile",
+    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
   },
   {
-    "id": "1354",
-    "question": "Quel est la capitale de la Jamaïque ?",
-    "answer": "Kingston",
+    "id": "593",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Ravage ?",
+    "answer": "Tidehunter",
     "badAnswers": [
-      "Montego Bay",
-      "Ocho Rios",
-      "Negril"
+      "Slardar",
+      "Naga Siren",
+      "Kunkka"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Tidehunter est un héros de Dota 2 connu pour son sort ultime Ravage, qui étourdit les ennemis dans une large zone. Slardar, Naga Siren et Kunkka sont d'autres héros marins, mais n'ont pas ce sort."
+  },
+  {
+    "id": "46",
+    "question": "Quelle est la capitale de l'Italie ?",
+    "answer": "Rome",
+    "badAnswers": [
+      "Milan",
+      "Venise",
+      "Florence"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Kingston, capitale de la Jamaïque, est un centre culturel connu pour sa musique reggae et son port historique."
+    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
   },
   {
-    "id": "911",
-    "question": "Quel artiste a peint La Joconde ?",
-    "answer": "Léonard de Vinci",
+    "id": "1063",
+    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
+    "answer": "Alexander Fleming",
     "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Sandro Botticelli"
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Robert Koch"
     ],
-    "category": "Art",
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
+  },
+  {
+    "id": "822",
+    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
+    "answer": "Severus Rogue",
+    "badAnswers": [
+      "Horace Slughorn",
+      "Remus Lupin",
+      "Gilderoy Lockhart"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
+    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
   },
   {
-    "id": "982",
-    "question": "Dans l'anime Medaka Box, quelle est l'anomalie de Medaka Kurokami ?",
-    "answer": "The End",
+    "id": "181",
+    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
+    "answer": "Serpentard",
     "badAnswers": [
-      "Perfection",
-      "Sandbox",
-      "Équité"
+      "Gryffondor",
+      "Poufsouffle",
+      "Serdaigle"
     ],
-    "category": "Anime et Manga",
-    "difficulty": "difficile",
-    "description": "Dans Medaka Box, l'anomalie 'The End' permet à Medaka Kurokami de copier et de perfectionner les capacités des autres, la rendant incroyablement puissante."
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
   },
   {
-    "id": "1514",
-    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
-    "answer": "Mark Twain",
+    "id": "216",
+    "question": "Quelle est la bonne traduction en anglais de 'singe' ?",
+    "answer": "Monkey",
     "badAnswers": [
-      "Herman Melville",
-      "Jack London",
-      "Nathaniel Hawthorne"
+      "Chimpanzee",
+      "Tamarin",
+      "Gorilla"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+    "category": "Langue",
+    "difficulty": "normal",
+    "description": "'Monkey' désigne les singes en général (ex : macaque). 'Chimpanzee' et 'gorilla' sont des espèces spécifiques, 'tamarin' est un emprunt au français."
+  },
+  {
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
+    "badAnswers": [
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
   }
 ]
