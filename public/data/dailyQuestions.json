@@ -1,132 +1,132 @@
 [
   {
-    "id": "1963",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
-    "answer": "Willem Kolff",
+    "id": "287",
+    "question": "Qui a composé Rhapsody in Blue ?",
+    "answer": "George Gershwin",
     "badAnswers": [
-      "Georg Haas",
-      "John Abel",
-      "Nils Alwall"
+      "Irving Berlin",
+      "Duke Ellington",
+      "Johnny Mandel"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
-  },
-  {
-    "id": "28",
-    "question": "Quelle pâtisserie française est en forme de petit pain ?",
-    "answer": "Croissant",
-    "badAnswers": [
-      "Éclair",
-      "Mille-feuille",
-      "Tarte Tatin"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
-  },
-  {
-    "id": "1703",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision couleur ?",
-    "answer": "Walter Bruch",
-    "badAnswers": [
-      "John Logie Baird",
-      "Philo Farnsworth",
-      "Vladimir Zworykin"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Walter Bruch a développé le système PAL pour la télévision couleur en 1963, largement utilisé en Europe."
-  },
-  {
-    "id": "593",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Ravage ?",
-    "answer": "Tidehunter",
-    "badAnswers": [
-      "Slardar",
-      "Naga Siren",
-      "Kunkka"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Tidehunter est un héros de Dota 2 connu pour son sort ultime Ravage, qui étourdit les ennemis dans une large zone. Slardar, Naga Siren et Kunkka sont d'autres héros marins, mais n'ont pas ce sort."
+    "description": "George Gershwin a composé Rhapsody in Blue en 1924, une œuvre emblématique mêlant jazz et musique classique, commandée pour un concert à New York. Cette pièce est devenue l'une des plus célèbres de Gershwin, connu pour ses contributions au jazz et à Broadway. Les autres compositeurs n'ont pas de lien avec cette œuvre."
   },
   {
-    "id": "46",
-    "question": "Quelle est la capitale de l'Italie ?",
-    "answer": "Rome",
+    "id": "23",
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry",
     "badAnswers": [
-      "Milan",
-      "Venise",
-      "Florence"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Fondée selon la légende en 753 av. J.-C., Rome est aussi le siège de l'Église catholique avec le Vatican."
-  },
-  {
-    "id": "1063",
-    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
-    "answer": "Alexander Fleming",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Robert Koch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
-  },
-  {
-    "id": "822",
-    "question": "Dans Harry Potter, quel est le nom du professeur de potions dans L'Ordre du Phénix ?",
-    "answer": "Severus Rogue",
-    "badAnswers": [
-      "Horace Slughorn",
-      "Remus Lupin",
-      "Gilderoy Lockhart"
+      "Jules Verne",
+      "Victor Hugo",
+      "Albert Camus"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Severus Rogue est le professeur de potions dans Harry Potter et l'Ordre du Phénix. Slughorn prend ce poste plus tard, Lupin enseigne la défense, et Lockhart est un ancien professeur."
+    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
   },
   {
-    "id": "181",
-    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
-    "answer": "Serpentard",
+    "id": "1220",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cr ?",
+    "answer": "Chrome",
     "badAnswers": [
-      "Gryffondor",
-      "Poufsouffle",
-      "Serdaigle"
+      "Cobalt",
+      "Cuivre",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chrome, symbolisé par Cr, est un métal utilisé pour ses propriétés anticorrosives, notamment dans l'acier inoxydable et le chromage."
+  },
+  {
+    "id": "265",
+    "question": "Quel est le nom de la célèbre chanteuse américaine connue pour ses tubes 'Like a Prayer' et 'Vogue' ?",
+    "answer": "Madonna",
+    "badAnswers": [
+      "Beyoncé",
+      "Lady Gaga",
+      "Britney Spears"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Madonna, surnommée la 'Reine de la Pop', est une icône musicale et culturelle depuis les années 1980. Ses albums et performances ont marqué l'histoire de la musique pop."
+  },
+  {
+    "id": "149",
+    "question": "Quel est l'animal emblématique de l'Australie ?",
+    "answer": "Kangourou",
+    "badAnswers": [
+      "Koala",
+      "Crocodile",
+      "Émeu"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
+  },
+  {
+    "id": "1508",
+    "question": "Quel est le nom de l'auteur de 'Les Voyages de Gulliver' ?",
+    "answer": "Jonathan Swift",
+    "badAnswers": [
+      "Daniel Defoe",
+      "Samuel Richardson",
+      "Henry Fielding"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Jonathan Swift a écrit 'Les Voyages de Gulliver' (1726), une satire sur la nature humaine et les sociétés à travers des voyages fantastiques."
+  },
+  {
+    "id": "1838",
+    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
+    "answer": "The Doors",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
+  },
+  {
+    "id": "838",
+    "question": "Quel est le plus grand oiseau de proie diurne ?",
+    "answer": "Condor des Andes",
+    "badAnswers": [
+      "Aigle royal",
+      "Vautour fauve",
+      "Faucon pèlerin"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le condor des Andes est le plus grand oiseau de proie diurne, avec une envergure pouvant atteindre 3,3 mètres. L'aigle royal, le vautour fauve et le faucon pèlerin sont plus petits."
+  },
+  {
+    "id": "702",
+    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
+    "answer": "Umibōzu",
+    "badAnswers": [
+      "Iso-onna",
+      "Kappa",
+      "Jorōgumo"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
+  },
+  {
+    "id": "724",
+    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
+    "answer": "Franz Kafka",
+    "badAnswers": [
+      "Albert Camus",
+      "Thomas Mann",
+      "Hermann Hesse"
     ],
     "category": "Littérature",
     "difficulty": "normal",
-    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
-  },
-  {
-    "id": "216",
-    "question": "Quelle est la bonne traduction en anglais de 'singe' ?",
-    "answer": "Monkey",
-    "badAnswers": [
-      "Chimpanzee",
-      "Tamarin",
-      "Gorilla"
-    ],
-    "category": "Langue",
-    "difficulty": "normal",
-    "description": "'Monkey' désigne les singes en général (ex : macaque). 'Chimpanzee' et 'gorilla' sont des espèces spécifiques, 'tamarin' est un emprunt au français."
-  },
-  {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
-    "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
   }
 ]
