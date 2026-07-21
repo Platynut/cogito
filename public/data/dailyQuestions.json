@@ -1,132 +1,132 @@
 [
   {
-    "id": "287",
-    "question": "Qui a composé Rhapsody in Blue ?",
-    "answer": "George Gershwin",
+    "id": "529",
+    "question": "Dans Harry Potter, quel est le nom du tournoi magique dans La Coupe de feu ?",
+    "answer": "Tournoi des trois sorciers",
     "badAnswers": [
-      "Irving Berlin",
-      "Duke Ellington",
-      "Johnny Mandel"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "George Gershwin a composé Rhapsody in Blue en 1924, une œuvre emblématique mêlant jazz et musique classique, commandée pour un concert à New York. Cette pièce est devenue l'une des plus célèbres de Gershwin, connu pour ses contributions au jazz et à Broadway. Les autres compositeurs n'ont pas de lien avec cette œuvre."
-  },
-  {
-    "id": "23",
-    "question": "Qui a écrit 'Le Petit Prince' ?",
-    "answer": "Antoine de Saint-Exupéry",
-    "badAnswers": [
-      "Jules Verne",
-      "Victor Hugo",
-      "Albert Camus"
+      "Coupe du monde de Quidditch",
+      "Tournoi des quatre maisons",
+      "Défi des sorciers"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
+    "description": "Le Tournoi des trois sorciers est le tournoi magique dans Harry Potter et la Coupe de feu, opposant Poudlard, Beauxbâtons et Durmstrang. La Coupe du monde de Quidditch est un autre événement, et les autres options sont fictives."
   },
   {
-    "id": "1220",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cr ?",
-    "answer": "Chrome",
+    "id": "988",
+    "question": "Quel groupe américain de rock psychédélique, formé en 2002 par Benjamin Goldwasser et Andrew VanWyngarden, porte ce nom ?",
+    "answer": "MGMT",
     "badAnswers": [
-      "Cobalt",
-      "Cuivre",
-      "Césium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le chrome, symbolisé par Cr, est un métal utilisé pour ses propriétés anticorrosives, notamment dans l'acier inoxydable et le chromage."
-  },
-  {
-    "id": "265",
-    "question": "Quel est le nom de la célèbre chanteuse américaine connue pour ses tubes 'Like a Prayer' et 'Vogue' ?",
-    "answer": "Madonna",
-    "badAnswers": [
-      "Beyoncé",
-      "Lady Gaga",
-      "Britney Spears"
+      "MSTRKRFT",
+      "STRFKR",
+      "SBTRKT"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "Madonna, surnommée la 'Reine de la Pop', est une icône musicale et culturelle depuis les années 1980. Ses albums et performances ont marqué l'histoire de la musique pop."
+    "difficulty": "normal",
+    "description": "MGMT est un duo de rock psychédélique connu pour des chansons comme Time to Pretend et Kids, tirées de leur album Oracular Spectacular (2007)."
   },
   {
-    "id": "149",
-    "question": "Quel est l'animal emblématique de l'Australie ?",
-    "answer": "Kangourou",
-    "badAnswers": [
-      "Koala",
-      "Crocodile",
-      "Émeu"
-    ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
-  },
-  {
-    "id": "1508",
-    "question": "Quel est le nom de l'auteur de 'Les Voyages de Gulliver' ?",
-    "answer": "Jonathan Swift",
-    "badAnswers": [
-      "Daniel Defoe",
-      "Samuel Richardson",
-      "Henry Fielding"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Jonathan Swift a écrit 'Les Voyages de Gulliver' (1726), une satire sur la nature humaine et les sociétés à travers des voyages fantastiques."
-  },
-  {
-    "id": "1838",
-    "question": "Quel est le nom du groupe qui a chanté 'Riders on the Storm' ?",
-    "answer": "The Doors",
+    "id": "1872",
+    "question": "Quel est le nom du groupe qui a chanté 'Purple Haze' ?",
+    "answer": "Jimi Hendrix",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
-      "Led Zeppelin"
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Riders on the Storm', sorti en 1971 par The Doors, est une chanson rock psychédélique tirée de l'album L.A. Woman."
+    "description": "'Purple Haze', sorti en 1967 par Jimi Hendrix, est une chanson rock psychédélique tirée de l'album Are You Experienced."
   },
   {
-    "id": "838",
-    "question": "Quel est le plus grand oiseau de proie diurne ?",
-    "answer": "Condor des Andes",
+    "id": "1617",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
+    "answer": "Livermorium",
     "badAnswers": [
-      "Aigle royal",
-      "Vautour fauve",
-      "Faucon pèlerin"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le condor des Andes est le plus grand oiseau de proie diurne, avec une envergure pouvant atteindre 3,3 mètres. L'aigle royal, le vautour fauve et le faucon pèlerin sont plus petits."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
   },
   {
-    "id": "702",
-    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
-    "answer": "Umibōzu",
+    "id": "736",
+    "question": "Quel est le nom du plus grand lac d'Australie ?",
+    "answer": "Lac Eyre",
     "badAnswers": [
-      "Iso-onna",
-      "Kappa",
-      "Jorōgumo"
+      "Lac Burley Griffin",
+      "Lac Macquarie",
+      "Lac George"
     ],
-    "category": "Mythologie",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
+    "description": "Le lac Eyre est le plus grand lac d'Australie, couvrant environ 9 500 km² lorsqu'il est rempli, bien qu'il soit souvent sec. Burley Griffin, Macquarie et George sont d'autres lacs, mais plus petits."
   },
   {
-    "id": "724",
-    "question": "Quel est le nom de l'auteur de 'Le Procès' ?",
-    "answer": "Franz Kafka",
+    "id": "512",
+    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Ère viking",
     "badAnswers": [
-      "Albert Camus",
-      "Thomas Mann",
-      "Hermann Hesse"
+      "Moyen Âge tardif",
+      "Renaissance",
+      "Époque romaine"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
+  },
+  {
+    "id": "353",
+    "question": "Quel est le nom de l'auteur de Les Misérables ?",
+    "answer": "Victor Hugo",
+    "badAnswers": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Honoré de Balzac"
     ],
     "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
+  },
+  {
+    "id": "155",
+    "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
+    "answer": "Florence Artaud",
+    "badAnswers": [
+      "Isabelle Autissier",
+      "Mathilde Géron",
+      "Maud Fontenoy"
+    ],
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Franz Kafka a écrit Le Procès (1925), un roman existentialiste sur l'absurde et la bureaucratie. Camus, Mann et Hesse sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "description": "Florence Artaud a été la première femme à remporter la Transat anglaise en 1990 avec le bateau 'Pierre 1er'. Isabelle Autissier et Maud Fontenoy sont d'autres navigatrices célèbres."
+  },
+  {
+    "id": "1473",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fr ?",
+    "answer": "Francium",
+    "badAnswers": [
+      "Fermium",
+      "Fluor",
+      "Fer"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le francium, symbolisé par Fr, est un métal alcalin hautement radioactif, découvert par Marguerite Perey en 1939, rarement observé en raison de sa demi-vie courte."
+  },
+  {
+    "id": "429",
+    "question": "Quel est la capitale de la Russie ?",
+    "answer": "Moscou",
+    "badAnswers": [
+      "Saint-Pétersbourg",
+      "Kazan",
+      "Novossibirsk"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
   }
 ]
