@@ -1,132 +1,132 @@
 [
   {
-    "id": "529",
-    "question": "Dans Harry Potter, quel est le nom du tournoi magique dans La Coupe de feu ?",
-    "answer": "Tournoi des trois sorciers",
+    "id": "1627",
+    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
+    "answer": "James Watt",
     "badAnswers": [
-      "Coupe du monde de Quidditch",
-      "Tournoi des quatre maisons",
-      "Défi des sorciers"
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Trevithick"
     ],
-    "category": "Littérature",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "Le Tournoi des trois sorciers est le tournoi magique dans Harry Potter et la Coupe de feu, opposant Poudlard, Beauxbâtons et Durmstrang. La Coupe du monde de Quidditch est un autre événement, et les autres options sont fictives."
+    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
   },
   {
-    "id": "988",
-    "question": "Quel groupe américain de rock psychédélique, formé en 2002 par Benjamin Goldwasser et Andrew VanWyngarden, porte ce nom ?",
-    "answer": "MGMT",
-    "badAnswers": [
-      "MSTRKRFT",
-      "STRFKR",
-      "SBTRKT"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "MGMT est un duo de rock psychédélique connu pour des chansons comme Time to Pretend et Kids, tirées de leur album Oracular Spectacular (2007)."
-  },
-  {
-    "id": "1872",
-    "question": "Quel est le nom du groupe qui a chanté 'Purple Haze' ?",
-    "answer": "Jimi Hendrix",
+    "id": "2035",
+    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
+    "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Purple Haze', sorti en 1967 par Jimi Hendrix, est une chanson rock psychédélique tirée de l'album Are You Experienced."
+    "difficulty": "normal",
+    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
   },
   {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
+    "id": "1250",
+    "question": "Quel est le nom de l'élément chimique avec le symbole V ?",
+    "answer": "Vanadium",
     "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Vermium",
+      "Vismuth",
+      "Vénitium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
-  },
-  {
-    "id": "736",
-    "question": "Quel est le nom du plus grand lac d'Australie ?",
-    "answer": "Lac Eyre",
-    "badAnswers": [
-      "Lac Burley Griffin",
-      "Lac Macquarie",
-      "Lac George"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le lac Eyre est le plus grand lac d'Australie, couvrant environ 9 500 km² lorsqu'il est rempli, bien qu'il soit souvent sec. Burley Griffin, Macquarie et George sont d'autres lacs, mais plus petits."
+    "description": "Le vanadium, symbolisé par V, est un métal utilisé dans les alliages d'acier pour augmenter la résistance, notamment dans l'industrie aérospatiale."
   },
   {
-    "id": "512",
-    "question": "Dans Assassin's Creed Valhalla, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Ère viking",
+    "id": "1628",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Moyen Âge tardif",
-      "Renaissance",
-      "Époque romaine"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed Valhalla se déroule pendant l'ère viking (fin du IXe siècle), suivant Eivor dans des raids en Angleterre. Les autres périodes mentionnées correspondent à d'autres jeux de la série ou à des époques différentes."
+    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
   },
   {
-    "id": "353",
-    "question": "Quel est le nom de l'auteur de Les Misérables ?",
-    "answer": "Victor Hugo",
+    "id": "1893",
+    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Gustave Flaubert",
-      "Émile Zola",
-      "Honoré de Balzac"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Victor Hugo a écrit Les Misérables (1862), un roman épique sur la justice, la rédemption et la société française, centré sur Jean Valjean. C'est l'une des œuvres majeures de la littérature. Flaubert, Zola et Balzac sont d'autres écrivains français, mais ils n'ont pas écrit ce roman."
-  },
-  {
-    "id": "155",
-    "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
-    "answer": "Florence Artaud",
-    "badAnswers": [
-      "Isabelle Autissier",
-      "Mathilde Géron",
-      "Maud Fontenoy"
-    ],
-    "category": "Sports",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Florence Artaud a été la première femme à remporter la Transat anglaise en 1990 avec le bateau 'Pierre 1er'. Isabelle Autissier et Maud Fontenoy sont d'autres navigatrices célèbres."
+    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1473",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fr ?",
-    "answer": "Francium",
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
     "badAnswers": [
-      "Fermium",
-      "Fluor",
-      "Fer"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le francium, symbolisé par Fr, est un métal alcalin hautement radioactif, découvert par Marguerite Perey en 1939, rarement observé en raison de sa demi-vie courte."
-  },
-  {
-    "id": "429",
-    "question": "Quel est la capitale de la Russie ?",
-    "answer": "Moscou",
-    "badAnswers": [
-      "Saint-Pétersbourg",
-      "Kazan",
-      "Novossibirsk"
+      "Barcelone",
+      "Séville",
+      "Valence"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+  },
+  {
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
+    "badAnswers": [
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
+  },
+  {
+    "id": "747",
+    "question": "Quel est le nom de l'auteur de 'L'Attrape-cœurs' ?",
+    "answer": "J.D. Salinger",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "319",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+    "answer": "France",
+    "badAnswers": [
+      "Belgique",
+      "Allemagne",
+      "Croatie"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
+  },
+  {
+    "id": "1413",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
   }
 ]
