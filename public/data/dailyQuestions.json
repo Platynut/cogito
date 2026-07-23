@@ -1,132 +1,132 @@
 [
   {
-    "id": "1627",
-    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
-    "answer": "James Watt",
+    "id": "316",
+    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
+    "answer": "Antonín Dvořák",
     "badAnswers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "Richard Trevithick"
+      "Ludwig van Beethoven",
+      "Johannes Brahms",
+      "Gustav Mahler"
     ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
   },
   {
-    "id": "2035",
-    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
+    "id": "427",
+    "question": "Quel est le plus grand oiseau volant du monde ?",
+    "answer": "Albatros hurleur",
+    "badAnswers": [
+      "Condor des Andes",
+      "Aigle royal",
+      "Vautour fauve"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
+  },
+  {
+    "id": "212",
+    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
+    "answer": "Le bit",
+    "badAnswers": [
+      "Le byte",
+      "Le méga",
+      "Le giga"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
+  },
+  {
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
+    "badAnswers": [
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+  },
+  {
+    "id": "1154",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
-      "The Doors"
+      "The Kinks"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
+    "difficulty": "facile",
+    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
   },
   {
-    "id": "1250",
-    "question": "Quel est le nom de l'élément chimique avec le symbole V ?",
-    "answer": "Vanadium",
+    "id": "984",
+    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
+    "answer": "La famille Gothik",
     "badAnswers": [
-      "Vermium",
-      "Vismuth",
-      "Vénitium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le vanadium, symbolisé par V, est un métal utilisé dans les alliages d'acier pour augmenter la résistance, notamment dans l'industrie aérospatiale."
-  },
-  {
-    "id": "1628",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Luigi ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "La famille",
+      "La famille Simflouz",
+      "La famille Proud"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Luigi, frère de Mario, est un personnage clé de la série Super Mario, souvent en second rôle mais parfois héros principal."
+    "difficulty": "difficile",
+    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
   },
   {
-    "id": "1893",
-    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
-    "answer": "Marcel Proust",
+    "id": "927",
+    "question": "Qui a créé la série animée RWBY ?",
+    "answer": "Monty Oum",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Miles Luna",
+      "Kerry Shawcross",
+      "Shane Newville"
     ],
-    "category": "Livres",
+    "category": "Dessins animés",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
+    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
   },
   {
-    "id": "606",
-    "question": "Quel est la capitale de l'Espagne ?",
-    "answer": "Madrid",
+    "id": "688",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
+    "answer": "Lac Supérieur",
     "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
+      "Lac Michigan",
+      "Lac Huron",
+      "Lac Ontario"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+  },
+  {
+    "id": "615",
+    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
+    "answer": "Ebisu",
+    "badAnswers": [
+      "Inari",
+      "Hachiman",
+      "Raijin"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
+  },
+  {
+    "id": "898",
+    "question": "Quel est la capitale du Portugal ?",
+    "answer": "Lisbonne",
+    "badAnswers": [
+      "Porto",
+      "Faro",
+      "Coimbra"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
-  },
-  {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
-    "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
-  },
-  {
-    "id": "747",
-    "question": "Quel est le nom de l'auteur de 'L'Attrape-cœurs' ?",
-    "answer": "J.D. Salinger",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "J.D. Salinger a écrit L'Attrape-cœurs (1951), un roman sur l'adolescence de Holden Caulfield. Hemingway, Fitzgerald et Steinbeck sont d'autres écrivains américains, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "319",
-    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
-    "answer": "France",
-    "badAnswers": [
-      "Belgique",
-      "Allemagne",
-      "Croatie"
-    ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "La France a remporté la Coupe du Monde de la FIFA 2018 en battant la Croatie 4-2 en finale à Moscou. C'était leur deuxième titre mondial après 1998. Les autres pays mentionnés (Belgique, Allemagne, Croatie) ont participé au tournoi, mais n'ont pas remporté la victoire."
-  },
-  {
-    "id": "1413",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
-    "answer": "Final Fantasy VII",
-    "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+    "description": "Lisbonne est la capitale du Portugal, connue pour son pont du 25 Avril et Belém. Porto, Faro et Coimbra sont d'autres villes portugaises, mais pas la capitale."
   }
 ]
