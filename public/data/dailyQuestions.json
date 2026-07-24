@@ -1,132 +1,132 @@
 [
   {
-    "id": "316",
-    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
-    "answer": "Antonín Dvořák",
+    "id": "2075",
+    "question": "Quel est le nom de l'auteur de 'L'Homme aux loups' ?",
+    "answer": "Sigmund Freud",
     "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johannes Brahms",
-      "Gustav Mahler"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Musique",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
+    "description": "Sigmund Freud a écrit 'L'Homme aux loups' (1918), une étude de cas psychanalytique sur un patient névrosé."
   },
   {
-    "id": "427",
-    "question": "Quel est le plus grand oiseau volant du monde ?",
-    "answer": "Albatros hurleur",
+    "id": "144",
+    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
+    "answer": "Amman",
     "badAnswers": [
-      "Condor des Andes",
-      "Aigle royal",
-      "Vautour fauve"
+      "Téhéran",
+      "Damas",
+      "Bagdad"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
-  },
-  {
-    "id": "212",
-    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
-    "answer": "Le bit",
-    "badAnswers": [
-      "Le byte",
-      "Le méga",
-      "Le giga"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
-  },
-  {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
-    "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
-  },
-  {
-    "id": "1154",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
-  },
-  {
-    "id": "984",
-    "question": "Quelle famille fictive existe dans le jeu Les Sims ?",
-    "answer": "La famille Gothik",
-    "badAnswers": [
-      "La famille",
-      "La famille Simflouz",
-      "La famille Proud"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "La famille Gothik (Goth en anglais) est une famille emblématique des Sims, présente dès le premier jeu, connue pour son style sombre et mystérieux."
+    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
   },
   {
-    "id": "927",
-    "question": "Qui a créé la série animée RWBY ?",
-    "answer": "Monty Oum",
+    "id": "301",
+    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
+    "answer": "Temps et Dimensions Relatives Dans l'Espace",
     "badAnswers": [
-      "Miles Luna",
-      "Kerry Shawcross",
-      "Shane Newville"
+      "Temps et Réalité Dimensionnelle Dans l'Espace",
+      "Temps et Dimensions Relatives Dans le Style",
+      "Toilette, Corde, Chien, Soupe"
     ],
-    "category": "Dessins animés",
-    "difficulty": "normal",
-    "description": "Monty Oum est le créateur de RWBY, une série animée produite par Rooster Teeth, connue pour son style inspiré des animes et ses combats dynamiques. Oum, un animateur talentueux, a conçu l'univers et les personnages avant son décès prématuré en 2015. Les autres options sont des collaborateurs de Rooster Teeth, mais ils n'ont pas créé la série."
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
   },
   {
-    "id": "688",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Nord ?",
-    "answer": "Lac Supérieur",
+    "id": "106",
+    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
+    "answer": "Raymond Domenech",
     "badAnswers": [
-      "Lac Michigan",
-      "Lac Huron",
-      "Lac Ontario"
+      "Didier Deschamps",
+      "Aimé Jacquet",
+      "Michel Hidalgo"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Supérieur est le plus grand lac d'Amérique du Nord, couvrant environ 82 100 km² entre les États-Unis et le Canada. Michigan, Huron et Ontario sont d'autres Grands Lacs, mais plus petits."
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
   },
   {
-    "id": "615",
-    "question": "Quel dieu japonais est lié à la prospérité et aux pêcheurs ?",
-    "answer": "Ebisu",
+    "id": "1899",
+    "question": "Quel est la capitale du Congo ?",
+    "answer": "Brazzaville",
     "badAnswers": [
-      "Inari",
-      "Hachiman",
-      "Raijin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ebisu est représenté avec une canne à pêche et symbolise l'abondance."
-  },
-  {
-    "id": "898",
-    "question": "Quel est la capitale du Portugal ?",
-    "answer": "Lisbonne",
-    "badAnswers": [
-      "Porto",
-      "Faro",
-      "Coimbra"
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Lisbonne est la capitale du Portugal, connue pour son pont du 25 Avril et Belém. Porto, Faro et Coimbra sont d'autres villes portugaises, mais pas la capitale."
+    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
+  },
+  {
+    "id": "1632",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
+  },
+  {
+    "id": "652",
+    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
+    "answer": "Johannes Vermeer",
+    "badAnswers": [
+      "Rembrandt",
+      "Frans Hals",
+      "Jan van Eyck"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "903",
+    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
+    "answer": "Le grand fessier",
+    "badAnswers": [
+      "Le biceps",
+      "Le quadriceps",
+      "Le deltoïde"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
+  },
+  {
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
+    "badAnswers": [
+      "Londres",
+      "Rome",
+      "Lisbonne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
+  },
+  {
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
+    "badAnswers": [
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
   }
 ]
