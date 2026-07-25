@@ -1,132 +1,132 @@
 [
   {
-    "id": "2075",
-    "question": "Quel est le nom de l'auteur de 'L'Homme aux loups' ?",
-    "answer": "Sigmund Freud",
+    "id": "1957",
+    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Jean-Paul Sartre",
       "Albert Camus",
-      "André Gide"
+      "André Gide",
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Sigmund Freud a écrit 'L'Homme aux loups' (1918), une étude de cas psychanalytique sur un patient névrosé."
+    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
   },
   {
-    "id": "144",
-    "question": "Quelle capitale actuelle était appelée 'Philadelphia' du temps des Romains ?",
-    "answer": "Amman",
+    "id": "1869",
+    "question": "Quel est le nom du groupe qui a chanté 'Behind Blue Eyes' ?",
+    "answer": "The Who",
     "badAnswers": [
-      "Téhéran",
-      "Damas",
-      "Bagdad"
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
     ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Amman, capitale de la Jordanie, s'appelait Philadelphia à l'époque romaine. Téhéran, Damas et Bagdad ont des noms historiques différents."
-  },
-  {
-    "id": "301",
-    "question": "Dans la série Doctor Who, que signifie l'acronyme T.A.R.D.I.S. ?<br />(en français)",
-    "answer": "Temps et Dimensions Relatives Dans l'Espace",
-    "badAnswers": [
-      "Temps et Réalité Dimensionnelle Dans l'Espace",
-      "Temps et Dimensions Relatives Dans le Style",
-      "Toilette, Corde, Chien, Soupe"
-    ],
-    "category": "Séries",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Dans Doctor Who, T.A.R.D.I.S. signifie Temps et Dimensions Relatives Dans l'Espace (Time And Relative Dimension In Space). Cette machine, qui ressemble à une cabine téléphonique bleue, permet au Docteur de voyager dans le temps et l'espace. Les autres options sont des traductions incorrectes ou absurdes."
+    "description": "'Behind Blue Eyes', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
   },
   {
-    "id": "106",
-    "question": "Qui était le sélectionneur de l'équipe de France à la coupe du monde 2010?",
-    "answer": "Raymond Domenech",
+    "id": "403",
+    "question": "Dans Star Wars, quel est le nom de la planète natale de Luke Skywalker ?",
+    "answer": "Tatooine",
     "badAnswers": [
-      "Didier Deschamps",
-      "Aimé Jacquet",
-      "Michel Hidalgo"
+      "Naboo",
+      "Coruscant",
+      "Endor"
     ],
-    "category": "Sports",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Raymond Domenech était le sélectionneur de l'équipe de France lors de la Coupe du Monde 2010. Didier Deschamps lui a succédé, Aimé Jacquet a mené l'équipe à la victoire en 1998, et Michel Hidalgo était sélectionneur dans les années 1980."
+    "description": "Tatooine est la planète désertique natale de Luke Skywalker dans Star Wars, connue pour ses deux soleils et son environnement aride. Naboo, Coruscant et Endor sont d’autres planètes de l’univers, mais Luke est originaire de Tatooine."
   },
   {
-    "id": "1899",
-    "question": "Quel est la capitale du Congo ?",
-    "answer": "Brazzaville",
+    "id": "680",
+    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
+    "answer": "Niels Bohr",
     "badAnswers": [
-      "Pointe-Noire",
-      "Dolisie",
-      "Nkayi"
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Max Planck"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
+  },
+  {
+    "id": "1093",
+    "question": "Quelle est la capitale de l'Angleterre ?",
+    "answer": "Londres",
+    "badAnswers": [
+      "Manchester",
+      "Birmingham",
+      "Liverpool"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Brazzaville, capitale du Congo, est une ville sur le fleuve Congo, connue pour sa basilique Sainte-Anne."
+    "description": "Londres est la capitale de l'Angleterre et aussi du Royaume-Uni. C'est une ville mondiale célèbre pour Big Ben, le palais de Buckingham et son importance historique."
   },
   {
-    "id": "1632",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
-    "answer": "Super Mario",
+    "id": "164",
+    "question": "Quel est l’exutoire de la rivière Mayenne, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
+    "answer": "La Maine",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "La Loire",
+      "La Sarthe",
+      "L’Erdre"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Mayenne se jette dans la Maine, qui elle-même rejoint la Loire. La Sarthe et l'Erdre sont d'autres affluents de la Loire."
+  },
+  {
+    "id": "1104",
+    "question": "Quel est le nom du groupe qui a chanté 'Every Breath You Take' ?",
+    "answer": "The Police",
+    "badAnswers": [
+      "U2",
+      "The Cure",
+      "Depeche Mode"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Every Breath You Take', sorti en 1983 par The Police, est une chanson rock emblématique souvent mal interprétée comme une ballade romantique."
+  },
+  {
+    "id": "252",
+    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
+    "answer": "Anticyclone des Açores",
+    "badAnswers": [
+      "Anticyclone de Sainte-Hélène",
+      "Anticyclone de Lucifer",
+      "Anticyclone Alfredo"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+  },
+  {
+    "id": "470",
+    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
+    "answer": "Zarya",
+    "badAnswers": [
+      "Mei",
+      "Winston",
+      "Symmetra"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
-  },
-  {
-    "id": "652",
-    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
-    "answer": "Johannes Vermeer",
-    "badAnswers": [
-      "Rembrandt",
-      "Frans Hals",
-      "Jan van Eyck"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
   },
   {
-    "id": "903",
-    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
-    "answer": "Le grand fessier",
+    "id": "1363",
+    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
+    "answer": "Red Hot Chili Peppers",
     "badAnswers": [
-      "Le biceps",
-      "Le quadriceps",
-      "Le deltoïde"
+      "Nirvana",
+      "Pearl Jam",
+      "Foo Fighters"
     ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
-  },
-  {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
-    "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
-  },
-  {
-    "id": "773",
-    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
-    "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
+    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
   }
 ]
