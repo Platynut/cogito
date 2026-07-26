@@ -1,132 +1,132 @@
 [
   {
-    "id": "1957",
-    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1627",
+    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
+    "answer": "James Watt",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
+      "Thomas Newcomen",
+      "George Stephenson",
+      "Richard Trevithick"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
-  },
-  {
-    "id": "1869",
-    "question": "Quel est le nom du groupe qui a chanté 'Behind Blue Eyes' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "'Behind Blue Eyes', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
   },
   {
-    "id": "403",
-    "question": "Dans Star Wars, quel est le nom de la planète natale de Luke Skywalker ?",
-    "answer": "Tatooine",
+    "id": "131",
+    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
+    "answer": "Etretat",
     "badAnswers": [
-      "Naboo",
-      "Coruscant",
-      "Endor"
+      "Nice",
+      "Brest",
+      "Saint-Malo"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Tatooine est la planète désertique natale de Luke Skywalker dans Star Wars, connue pour ses deux soleils et son environnement aride. Naboo, Coruscant et Endor sont d’autres planètes de l’univers, mais Luke est originaire de Tatooine."
+    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
   },
   {
-    "id": "680",
-    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
-    "answer": "Niels Bohr",
+    "id": "792",
+    "question": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
+    "answer": "Thomas Graham",
     "badAnswers": [
-      "J.J. Thomson",
-      "Ernest Rutherford",
-      "Max Planck"
+      "John Dalton",
+      "Robert Boyle",
+      "Joseph Gay-Lussac"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Thomas Graham a formulé la loi de la diffusion des gaz au XIXe siècle, expliquant le mouvement des gaz à travers une barrière poreuse. Dalton, Boyle et Gay-Lussac ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "1267",
+    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
+    "answer": "Arsenic",
+    "badAnswers": [
+      "Antimoine",
+      "Argon",
+      "Astatine"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
+    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
   },
   {
-    "id": "1093",
-    "question": "Quelle est la capitale de l'Angleterre ?",
-    "answer": "Londres",
+    "id": "1712",
+    "question": "Quel est le nom de l'inventeur du premier vaccin contre le choléra ?",
+    "answer": "Waldemar Haffkine",
     "badAnswers": [
-      "Manchester",
-      "Birmingham",
-      "Liverpool"
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Jonas Salk"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Londres est la capitale de l'Angleterre et aussi du Royaume-Uni. C'est une ville mondiale célèbre pour Big Ben, le palais de Buckingham et son importance historique."
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Waldemar Haffkine a développé un vaccin contre le choléra dans les années 1890, utilisé en Inde pour lutter contre la maladie."
   },
   {
-    "id": "164",
-    "question": "Quel est l’exutoire de la rivière Mayenne, c’est-à-dire le cours d’eau dans lequel elle se jette ?",
-    "answer": "La Maine",
+    "id": "1659",
+    "question": "Quel est le nom du groupe qui a chanté 'Everybody Hurts' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "La Loire",
-      "La Sarthe",
-      "L’Erdre"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Mayenne se jette dans la Maine, qui elle-même rejoint la Loire. La Sarthe et l'Erdre sont d'autres affluents de la Loire."
-  },
-  {
-    "id": "1104",
-    "question": "Quel est le nom du groupe qui a chanté 'Every Breath You Take' ?",
-    "answer": "The Police",
-    "badAnswers": [
-      "U2",
-      "The Cure",
-      "Depeche Mode"
+      "The Verve",
+      "Radiohead",
+      "Oasis"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Every Breath You Take', sorti en 1983 par The Police, est une chanson rock emblématique souvent mal interprétée comme une ballade romantique."
+    "description": "'Everybody Hurts', sorti en 1992 par R.E.M., est une ballade émouvante tirée de l'album Automatic for the People."
   },
   {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
+    "id": "1699",
+    "question": "Quel est la capitale de Taïwan ?",
+    "answer": "Taipei",
     "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
+      "Kaohsiung",
+      "Tainan",
+      "Taichung"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
+  },
+  {
+    "id": "1362",
+    "question": "Quel est la capitale des Bahamas ?",
+    "answer": "Nassau",
+    "badAnswers": [
+      "Freeport",
+      "Marsh Harbour",
+      "George Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+  },
+  {
+    "id": "1390",
+    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alessandro Volta"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
+  },
+  {
+    "id": "1239",
+    "question": "Quel est la capitale du Yémen ?",
+    "answer": "Sanaa",
+    "badAnswers": [
+      "Aden",
+      "Taiz",
+      "Hodeida"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
-  },
-  {
-    "id": "470",
-    "question": "Dans Overwatch, quel personnage est un scientifique utilisant un canon à particules ?",
-    "answer": "Zarya",
-    "badAnswers": [
-      "Mei",
-      "Winston",
-      "Symmetra"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Zarya est une héroïne tank dans Overwatch qui utilise un canon à particules pour attaquer et protéger ses alliés. Mei utilise un pistolet cryogénique, Winston un canon à électrons, et Symmetra un projecteur de photons."
-  },
-  {
-    "id": "1363",
-    "question": "Quel est le nom du groupe qui a chanté 'Under the Bridge' ?",
-    "answer": "Red Hot Chili Peppers",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Foo Fighters"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Under the Bridge', sorti en 1991 par Red Hot Chili Peppers, est une chanson funk-rock introspective tirée de l'album Blood Sugar Sex Magik."
+    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
   }
 ]
