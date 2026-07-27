@@ -1,132 +1,132 @@
 [
   {
-    "id": "1627",
-    "question": "Quel est le nom de l'inventeur du premier moteur à vapeur commercial ?",
-    "answer": "James Watt",
+    "id": "1170",
+    "question": "Quel est la capitale de l'Angola ?",
+    "answer": "Luanda",
     "badAnswers": [
-      "Thomas Newcomen",
-      "George Stephenson",
-      "Richard Trevithick"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "James Watt a amélioré le moteur à vapeur dans les années 1760, rendant son usage commercial viable et alimentant la révolution industrielle."
-  },
-  {
-    "id": "131",
-    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
-    "answer": "Etretat",
-    "badAnswers": [
-      "Nice",
-      "Brest",
-      "Saint-Malo"
+      "Huambo",
+      "Lobito",
+      "Benguela"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
-  },
-  {
-    "id": "792",
-    "question": "Quel scientifique a découvert la loi de la diffusion des gaz ?",
-    "answer": "Thomas Graham",
-    "badAnswers": [
-      "John Dalton",
-      "Robert Boyle",
-      "Joseph Gay-Lussac"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Thomas Graham a formulé la loi de la diffusion des gaz au XIXe siècle, expliquant le mouvement des gaz à travers une barrière poreuse. Dalton, Boyle et Gay-Lussac ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1267",
-    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
-    "answer": "Arsenic",
-    "badAnswers": [
-      "Antimoine",
-      "Argon",
-      "Astatine"
-    ],
-    "category": "Science",
     "difficulty": "normal",
-    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
+    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
   },
   {
-    "id": "1712",
-    "question": "Quel est le nom de l'inventeur du premier vaccin contre le choléra ?",
-    "answer": "Waldemar Haffkine",
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
     "badAnswers": [
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Jonas Salk"
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Waldemar Haffkine a développé un vaccin contre le choléra dans les années 1890, utilisé en Inde pour lutter contre la maladie."
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
   },
   {
-    "id": "1659",
-    "question": "Quel est le nom du groupe qui a chanté 'Everybody Hurts' ?",
-    "answer": "R.E.M.",
+    "id": "207",
+    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
+    "answer": "Nisse",
     "badAnswers": [
-      "The Verve",
-      "Radiohead",
-      "Oasis"
+      "Tomte",
+      "Knecht Ruprecht",
+      "Befana"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Everybody Hurts', sorti en 1992 par R.E.M., est une ballade émouvante tirée de l'album Automatic for the People."
+    "category": "Culture générale",
+    "difficulty": "normal",
+    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
   },
   {
-    "id": "1699",
-    "question": "Quel est la capitale de Taïwan ?",
-    "answer": "Taipei",
+    "id": "2003",
+    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
+    "answer": "Patrick Modiano",
     "badAnswers": [
-      "Kaohsiung",
-      "Tainan",
-      "Taichung"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
+  },
+  {
+    "id": "1591",
+    "question": "Quel est la capitale d'Eswatini ?",
+    "answer": "Mbabane",
+    "badAnswers": [
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
+    "difficulty": "normal",
+    "description": "Mbabane, capitale administrative d'Eswatini, est une ville nichée dans les collines, connue pour son marché artisanal."
   },
   {
-    "id": "1362",
-    "question": "Quel est la capitale des Bahamas ?",
-    "answer": "Nassau",
+    "id": "1927",
+    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
+    "answer": "Frank Whittle",
     "badAnswers": [
-      "Freeport",
-      "Marsh Harbour",
-      "George Town"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
-  },
-  {
-    "id": "1390",
-    "question": "Quel est le nom de l'inventeur du premier moteur électrique ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alessandro Volta"
+      "Hans von Ohain",
+      "Robert Goddard",
+      "Wernher von Braun"
     ],
     "category": "Technologie",
     "difficulty": "normal",
-    "description": "Michael Faraday a démontré les principes du moteur électrique en 1821, posant les bases de l'électromagnétisme moderne."
+    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
   },
   {
-    "id": "1239",
-    "question": "Quel est la capitale du Yémen ?",
-    "answer": "Sanaa",
+    "id": "1698",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Voltali ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Aden",
-      "Taiz",
-      "Hodeida"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Voltali, Pokémon de type électrique, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa vitesse."
+  },
+  {
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
+    "badAnswers": [
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "1189",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
+    "answer": "Nickel",
+    "badAnswers": [
+      "Néon",
+      "Nitrure",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+  },
+  {
+    "id": "1145",
+    "question": "Quel est le nom du groupe qui a chanté 'Somebody That I Used to Know' ?",
+    "answer": "Gotye",
+    "badAnswers": [
+      "Foster the People",
+      "Fun.",
+      "The Lumineers"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Somebody That I Used to Know', sorti en 2011 par Gotye avec Kimbra, est une chanson pop devenue un succès mondial."
   }
 ]
