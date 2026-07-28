@@ -1,132 +1,132 @@
 [
   {
-    "id": "1170",
-    "question": "Quel est la capitale de l'Angola ?",
-    "answer": "Luanda",
+    "id": "108",
+    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
+    "answer": "2000",
     "badAnswers": [
-      "Huambo",
-      "Lobito",
-      "Benguela"
+      "1999",
+      "2001",
+      "2002"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
-  },
-  {
-    "id": "773",
-    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
-    "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
-    ],
-    "category": "Science",
+    "category": "Jeux de société",
     "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
+    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
   },
   {
-    "id": "207",
-    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
-    "answer": "Nisse",
+    "id": "631",
+    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
+    "answer": "V-Bucks",
     "badAnswers": [
-      "Tomte",
-      "Knecht Ruprecht",
-      "Befana"
+      "Robux",
+      "Credits",
+      "Battle Points"
     ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
   },
   {
-    "id": "2003",
-    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
-    "answer": "Patrick Modiano",
+    "id": "917",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
+    "answer": "F. Scott Fitzgerald",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
+  },
+  {
+    "id": "1812",
+    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
+    "answer": "John Bardeen",
+    "badAnswers": [
+      "William Shockley",
+      "Walter Brattain",
+      "Jack Kilby"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
+  },
+  {
+    "id": "118",
+    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
+    "answer": "France Joli",
+    "badAnswers": [
+      "Tabitha Lemaire",
+      "Fanny Bloom",
+      "Chantal Renaud"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
+  },
+  {
+    "id": "2128",
+    "question": "Quel est le nom de l'auteur de 'Orphée' ?",
+    "answer": "Jean Cocteau",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
-      "André Gide"
+      "Simone de Beauvoir"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
+    "description": "Jean Cocteau a écrit 'Orphée' (1926), une pièce de théâtre inspirée du mythe grec d'Orphée et Eurydice."
   },
   {
-    "id": "1591",
-    "question": "Quel est la capitale d'Eswatini ?",
-    "answer": "Mbabane",
+    "id": "1185",
+    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
+    "answer": "Samuel Morse",
     "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Guglielmo Marconi"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Mbabane, capitale administrative d'Eswatini, est une ville nichée dans les collines, connue pour son marché artisanal."
+    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
   },
   {
-    "id": "1927",
-    "question": "Quel est le nom de l'inventeur du premier système de moteur à réaction ?",
-    "answer": "Frank Whittle",
+    "id": "115",
+    "question": "À quel âge les hommes ne produisent-ils plus de spermatozoïdes ?",
+    "answer": "Jamais",
     "badAnswers": [
-      "Hans von Ohain",
-      "Robert Goddard",
-      "Wernher von Braun"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Frank Whittle a conçu le premier moteur à réaction fonctionnel dans les années 1930, révolutionnant l'aviation."
-  },
-  {
-    "id": "1698",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Voltali ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Voltali, Pokémon de type électrique, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa vitesse."
-  },
-  {
-    "id": "350",
-    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
-    "answer": "Master Chief",
-    "badAnswers": [
-      "Cortana",
-      "Arbiter",
-      "Noble Six"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
-  },
-  {
-    "id": "1189",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
-    "answer": "Nickel",
-    "badAnswers": [
-      "Néon",
-      "Nitrure",
-      "Sodium"
+      "40 ans",
+      "60 ans",
+      "80 ans"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+    "difficulty": "normal",
+    "description": "Les hommes produisent des spermatozoïdes tout au long de leur vie, bien que la qualité puisse diminuer avec l'âge. Contrairement aux femmes, ils n'ont pas de ménopause."
   },
   {
-    "id": "1145",
-    "question": "Quel est le nom du groupe qui a chanté 'Somebody That I Used to Know' ?",
-    "answer": "Gotye",
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Sceptre d'Aghanim",
     "badAnswers": [
-      "Foster the People",
-      "Fun.",
-      "The Lumineers"
+      "Barre du Roi Noir",
+      "Rapier Divine",
+      "Cœur de Tarrasque"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
+  },
+  {
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "'Somebody That I Used to Know', sorti en 2011 par Gotye avec Kimbra, est une chanson pop devenue un succès mondial."
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
   }
 ]
