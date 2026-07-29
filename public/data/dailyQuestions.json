@@ -1,132 +1,132 @@
 [
   {
-    "id": "108",
-    "question": "En quelle année a été édité pour la première fois le jeu de société \"Carcassonne\", créé par Klaus-Jürgen Wrede ?",
-    "answer": "2000",
+    "id": "358",
+    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
+    "answer": "J.R.R. Tolkien",
     "badAnswers": [
-      "1999",
-      "2001",
-      "2002"
-    ],
-    "category": "Jeux de société",
-    "difficulty": "difficile",
-    "description": "Le jeu de société 'Carcassonne' a été édité pour la première fois en 2000. Il est devenu un classique des jeux de plateau avec ses tuiles représentant des paysages médiévaux."
-  },
-  {
-    "id": "631",
-    "question": "Dans Fortnite, quel est le nom de la monnaie principale du jeu ?",
-    "answer": "V-Bucks",
-    "badAnswers": [
-      "Robux",
-      "Credits",
-      "Battle Points"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Les V-Bucks sont la monnaie principale de Fortnite, utilisés pour acheter des skins et des passes de combat. Robux, Credits et Battle Points sont des monnaies d'autres jeux ou fictives."
-  },
-  {
-    "id": "917",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Gatsby' ?",
-    "answer": "F. Scott Fitzgerald",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "John Steinbeck",
-      "William Faulkner"
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "J.K. Rowling"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "F. Scott Fitzgerald a écrit Le Grand Gatsby (1925), un roman sur le rêve américain. Hemingway, Steinbeck et Faulkner sont d'autres écrivains américains."
+    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
   },
   {
-    "id": "1812",
-    "question": "Quel est le nom de l'inventeur du premier système de transistor ?",
-    "answer": "John Bardeen",
+    "id": "503",
+    "question": "Quel scientifique a découvert les électrons ?",
+    "answer": "Joseph Thomson",
     "badAnswers": [
-      "William Shockley",
-      "Walter Brattain",
-      "Jack Kilby"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Le transistor, inventé en 1947 par John Bardeen, Walter Brattain et William Shockley aux Bell Labs, a révolutionné l'électronique moderne en remplaçant les tubes à vide."
-  },
-  {
-    "id": "118",
-    "question": "Quelle chanteuse québécoise a connu le succès avec 'Come To Me' ?",
-    "answer": "France Joli",
-    "badAnswers": [
-      "Tabitha Lemaire",
-      "Fanny Bloom",
-      "Chantal Renaud"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "France Joli, chanteuse québécoise, a connu un succès international avec son titre 'Come To Me' en 1979. Les autres noms sont des artistes québécois moins associés à ce tube."
-  },
-  {
-    "id": "2128",
-    "question": "Quel est le nom de l'auteur de 'Orphée' ?",
-    "answer": "Jean Cocteau",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'Orphée' (1926), une pièce de théâtre inspirée du mythe grec d'Orphée et Eurydice."
-  },
-  {
-    "id": "1185",
-    "question": "Quel est le nom de l'inventeur du premier télégraphe électrique ?",
-    "answer": "Samuel Morse",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Samuel Morse a développé le télégraphe électrique dans les années 1830 et créé le code Morse, révolutionnant les communications à longue distance."
-  },
-  {
-    "id": "115",
-    "question": "À quel âge les hommes ne produisent-ils plus de spermatozoïdes ?",
-    "answer": "Jamais",
-    "badAnswers": [
-      "40 ans",
-      "60 ans",
-      "80 ans"
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "James Chadwick"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Les hommes produisent des spermatozoïdes tout au long de leur vie, bien que la qualité puisse diminuer avec l'âge. Contrairement aux femmes, ils n'ont pas de ménopause."
+    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
   },
   {
-    "id": "401",
-    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
-    "answer": "Sceptre d'Aghanim",
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
     "badAnswers": [
-      "Barre du Roi Noir",
-      "Rapier Divine",
-      "Cœur de Tarrasque"
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
   },
   {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
+    "id": "801",
+    "question": "Quel est le plus grand rapace nocturne du monde ?",
+    "answer": "Grand-duc d'Europe",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
+      "Chouette effraie",
+      "Harfang des neiges",
+      "Hibou moyen-duc"
     ],
-    "category": "Mythologie",
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
+  },
+  {
+    "id": "1596",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
+    "answer": "Rebecca",
+    "badAnswers": [
+      "The Grapes of Wrath",
+      "The Great Dictator",
+      "Kitty Foyle"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
+  },
+  {
+    "id": "1520",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
+    "answer": "An American in Paris",
+    "badAnswers": [
+      "A Streetcar Named Desire",
+      "Decision Before Dawn",
+      "Quo Vadis"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
+  },
+  {
+    "id": "1229",
+    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "Led Zeppelin",
+      "The Doors",
+      "The Rolling Stones"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+  },
+  {
+    "id": "259",
+    "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
+    "answer": "Sandrine Rousseau",
+    "badAnswers": [
+      "Marlène Schiappa",
+      "Brigitte Macron",
+      "Camilla Parker Bowles"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
+  },
+  {
+    "id": "1645",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
+    "answer": "The Broadway Melody",
+    "badAnswers": [
+      "The Jazz Singer",
+      "In Old Arizona",
+      "The Patriot"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1929, une des premières comédies musicales."
+  },
+  {
+    "id": "442",
+    "question": "Quel est le nom du plus grand archipel du monde ?",
+    "answer": "Indonésie",
+    "badAnswers": [
+      "Philippines",
+      "Maldives",
+      "Japon"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
   }
 ]
