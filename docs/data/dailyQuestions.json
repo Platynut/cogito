@@ -1,132 +1,132 @@
 [
   {
-    "id": "358",
-    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
-    "answer": "J.R.R. Tolkien",
+    "id": "1322",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Gordon Freeman ?",
+    "answer": "Half-Life",
     "badAnswers": [
-      "C.S. Lewis",
-      "George R.R. Martin",
-      "J.K. Rowling"
+      "Portal",
+      "Doom",
+      "Quake"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
+    "description": "Gordon Freeman est le scientifique silencieux héros de la série Half-Life, luttant contre des extraterrestres et des forces militaires."
   },
   {
-    "id": "503",
-    "question": "Quel scientifique a découvert les électrons ?",
-    "answer": "Joseph Thomson",
+    "id": "561",
+    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
+    "answer": "Florence",
     "badAnswers": [
-      "Ernest Rutherford",
-      "Niels Bohr",
-      "James Chadwick"
+      "Venise",
+      "Rome",
+      "Milan"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "J.J. Thomson a découvert l'électron en 1897 grâce à des expériences avec des tubes à rayons cathodiques, posant les bases de la physique des particules. Rutherford a découvert le noyau, Bohr le modèle atomique, et Chadwick le neutron."
-  },
-  {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
-    "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
-  },
-  {
-    "id": "801",
-    "question": "Quel est le plus grand rapace nocturne du monde ?",
-    "answer": "Grand-duc d'Europe",
-    "badAnswers": [
-      "Chouette effraie",
-      "Harfang des neiges",
-      "Hibou moyen-duc"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le grand-duc d'Europe est le plus grand rapace nocturne, avec une envergure pouvant atteindre 1,8 mètre. La chouette effraie, le harfang et le hibou moyen-duc sont plus petits."
-  },
-  {
-    "id": "1596",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1941 ?",
-    "answer": "Rebecca",
-    "badAnswers": [
-      "The Grapes of Wrath",
-      "The Great Dictator",
-      "Kitty Foyle"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Rebecca, réalisé par Alfred Hitchcock, a remporté l'Oscar du meilleur film en 1941, un thriller psychologique basé sur le roman de Daphne du Maurier."
-  },
-  {
-    "id": "1520",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
-    "answer": "An American in Paris",
-    "badAnswers": [
-      "A Streetcar Named Desire",
-      "Decision Before Dawn",
-      "Quo Vadis"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
-  },
-  {
-    "id": "1229",
-    "question": "Quel est le nom du groupe qui a chanté 'Comfortably Numb' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Doors",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Comfortably Numb', sorti en 1979 par Pink Floyd, est une chanson rock psychédélique tirée de l'album The Wall, célèbre pour son solo de guitare."
+    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
   },
   {
-    "id": "259",
-    "question": "Qui a dit en 2022 : 'Je vis avec un homme déconstruit et j'en suis super heureuse !' ?",
-    "answer": "Sandrine Rousseau",
+    "id": "1893",
+    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
+    "answer": "Marcel Proust",
     "badAnswers": [
-      "Marlène Schiappa",
-      "Brigitte Macron",
-      "Camilla Parker Bowles"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Politique",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Sandrine Rousseau, porte-parole d'EELV et figure du féminisme, a fait cette déclaration en 2022 pour décrire son compagnon qui a 'déconstruit sa masculinité toxique'. Cette phrase a suscité des débats sur les rôles de genre. Schiappa et Macron n'ont pas tenu ces propos."
+    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
   },
   {
-    "id": "1645",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929 ?",
-    "answer": "The Broadway Melody",
+    "id": "867",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L'Empire contre-attaque ?",
+    "answer": "Boba Fett",
     "badAnswers": [
-      "The Jazz Singer",
-      "In Old Arizona",
-      "The Patriot"
+      "Jango Fett",
+      "Greedo",
+      "Bossk"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Broadway Melody, réalisé par Harry Beaumont, a remporté l'Oscar du meilleur film en 1929, une des premières comédies musicales."
+    "difficulty": "facile",
+    "description": "Boba Fett capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Greedo et Bossk sont d'autres chasseurs de primes."
   },
   {
-    "id": "442",
-    "question": "Quel est le nom du plus grand archipel du monde ?",
-    "answer": "Indonésie",
+    "id": "372",
+    "question": "Quel est le nom du plus grand volcan actif du monde ?",
+    "answer": "Mauna Loa",
     "badAnswers": [
-      "Philippines",
-      "Maldives",
-      "Japon"
+      "Vésuve",
+      "Etna",
+      "Kilimandjaro"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
+    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
+  },
+  {
+    "id": "1567",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
+    "answer": "Bohrium",
+    "badAnswers": [
+      "Beryllium",
+      "Brome",
+      "Bismuth"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
+  },
+  {
+    "id": "2110",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1947 ?",
+    "answer": "Gentleman’s Agreement",
+    "badAnswers": [
+      "The Bishop’s Wife",
+      "Crossfire",
+      "Great Expectations"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Gentleman’s Agreement, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1947, un drame sur l'antisémitisme."
+  },
+  {
+    "id": "283",
+    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
+    "answer": "1995",
+    "badAnswers": [
+      "1992",
+      "1996",
+      "1991"
+    ],
+    "category": "Célébrités",
+    "difficulty": "normal",
+    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
+  },
+  {
+    "id": "1391",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
+    "answer": "Annie Hall",
+    "badAnswers": [
+      "Star Wars",
+      "Close Encounters of the Third Kind",
+      "The Goodbye Girl"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Annie Hall, réalisé par Woody Allen, a remporté l'Oscar du meilleur film en 1977, une comédie romantique sur l'amour et la névrose."
+  },
+  {
+    "id": "330",
+    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
+    "answer": "Spoutnik 1",
+    "badAnswers": [
+      "Explorer 1",
+      "Vostok 1",
+      "Telstar"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
   }
 ]
