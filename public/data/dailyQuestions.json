@@ -1,132 +1,132 @@
 [
   {
-    "id": "1322",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Gordon Freeman ?",
-    "answer": "Half-Life",
+    "id": "2095",
+    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
+    "answer": "Dale Heatherington",
     "badAnswers": [
-      "Portal",
-      "Doom",
-      "Quake"
+      "Dennis Hayes",
+      "Vinton Cerf",
+      "Ray Tomlinson"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Gordon Freeman est le scientifique silencieux héros de la série Half-Life, luttant contre des extraterrestres et des forces militaires."
-  },
-  {
-    "id": "561",
-    "question": "Dans Assassin's Creed II, dans quelle ville italienne commence l'histoire d'Ezio ?",
-    "answer": "Florence",
-    "badAnswers": [
-      "Venise",
-      "Rome",
-      "Milan"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed II commence à Florence, où Ezio Auditore grandit avant de devenir un assassin pendant la Renaissance italienne. Venise et Rome sont visitées plus tard, et Milan n'apparaît pas dans ce jeu."
-  },
-  {
-    "id": "1893",
-    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
-    "answer": "Marcel Proust",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
+    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
   },
   {
-    "id": "867",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L'Empire contre-attaque ?",
-    "answer": "Boba Fett",
+    "id": "52",
+    "question": "Qui a été le dernier tsar de Russie ?",
+    "answer": "Nicolas II",
     "badAnswers": [
-      "Jango Fett",
-      "Greedo",
-      "Bossk"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Boba Fett capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Greedo et Bossk sont d'autres chasseurs de primes."
-  },
-  {
-    "id": "372",
-    "question": "Quel est le nom du plus grand volcan actif du monde ?",
-    "answer": "Mauna Loa",
-    "badAnswers": [
-      "Vésuve",
-      "Etna",
-      "Kilimandjaro"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Mauna Loa, situé à Hawaï, est le plus grand volcan actif du monde en termes de volume et de superficie, culminant à 4 169 mètres. Il est toujours actif, avec des éruptions récentes. Le Vésuve et l’Etna sont des volcans européens, et le Kilimandjaro est un volcan éteint."
-  },
-  {
-    "id": "1567",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Bh ?",
-    "answer": "Bohrium",
-    "badAnswers": [
-      "Beryllium",
-      "Brome",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le bohrium, symbolisé par Bh, est un élément radioactif synthétique, nommé d'après Niels Bohr, utilisé dans la recherche scientifique."
-  },
-  {
-    "id": "2110",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1947 ?",
-    "answer": "Gentleman’s Agreement",
-    "badAnswers": [
-      "The Bishop’s Wife",
-      "Crossfire",
-      "Great Expectations"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Gentleman’s Agreement, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1947, un drame sur l'antisémitisme."
-  },
-  {
-    "id": "283",
-    "question": "En quelle année O.J. Simpson a-t-il été acquitté de ses accusations de meurtre ?",
-    "answer": "1995",
-    "badAnswers": [
-      "1992",
-      "1996",
-      "1991"
-    ],
-    "category": "Célébrités",
-    "difficulty": "normal",
-    "description": "O.J. Simpson, ancienne star de football américain et acteur, a été acquitté des accusations de meurtre de sa femme Nicole Brown Simpson et de Ronald Goldman en octobre 1995, après un procès très médiatisé surnommé le 'procès du siècle'. Les autres années proposées ne correspondent pas à cet événement."
-  },
-  {
-    "id": "1391",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1977 ?",
-    "answer": "Annie Hall",
-    "badAnswers": [
-      "Star Wars",
-      "Close Encounters of the Third Kind",
-      "The Goodbye Girl"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Annie Hall, réalisé par Woody Allen, a remporté l'Oscar du meilleur film en 1977, une comédie romantique sur l'amour et la névrose."
-  },
-  {
-    "id": "330",
-    "question": "Quel est le nom du premier satellite artificiel lancé dans l'espace ?",
-    "answer": "Spoutnik 1",
-    "badAnswers": [
-      "Explorer 1",
-      "Vostok 1",
-      "Telstar"
+      "Pierre le Grand",
+      "Alexandre III",
+      "Ivan le Terrible"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Spoutnik 1, lancé par l'Union soviétique le 4 octobre 1957, fut le premier satellite artificiel à orbiter autour de la Terre, marquant le début de la course spatiale. Explorer 1 était le premier satellite américain, Vostok 1 a transporté le premier humain dans l'espace, et Telstar était un satellite de communication ultérieur."
+    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
+  },
+  {
+    "id": "2031",
+    "question": "Quel est le nom du groupe qui a chanté 'Run for Your Life' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Run for Your Life', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "2094",
+    "question": "Quel est le nom de l'inventeur du premier système de prothèse auditive moderne ?",
+    "answer": "Graeme Clark",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Wilson Greatbatch"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Graeme Clark a développé la première prothèse auditive cochléaire moderne dans les années 1970."
+  },
+  {
+    "id": "1190",
+    "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
+    "answer": "Athéna",
+    "badAnswers": [
+      "Arès",
+      "Apollon",
+      "Hermès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
+  },
+  {
+    "id": "334",
+    "question": "Quel écrivain a créé le personnage de James Bond ?",
+    "answer": "Ian Fleming",
+    "badAnswers": [
+      "John le Carré",
+      "Agatha Christie",
+      "Tom Clancy"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
+  },
+  {
+    "id": "941",
+    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
+    "answer": "Lishana Deni",
+    "badAnswers": [
+      "Hulaulá",
+      "Lishan Didan",
+      "Chaldéen néo-araméen"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
+  },
+  {
+    "id": "714",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
+    "answer": "Pit",
+    "badAnswers": [
+      "Palutena",
+      "Dark Pit",
+      "Viridi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+  },
+  {
+    "id": "714",
+    "question": "Quel yōkai est une femme-araignée qui attire ses proies avant de les dévorer ?",
+    "answer": "Jorōgumo",
+    "badAnswers": [
+      "Iso-onna",
+      "Nue",
+      "Rokurokubi"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "La Jorōgumo se transforme en belle femme pour séduire les hommes et les manger."
+  },
+  {
+    "id": "1942",
+    "question": "Quel est le nom du groupe qui a chanté 'Love Me Do' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Love Me Do', sorti en 1962 par The Beatles, est leur premier single, tiré de l'album Please Please Me."
   }
 ]
