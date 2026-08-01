@@ -1,132 +1,132 @@
 [
   {
-    "id": "2095",
-    "question": "Quel est le nom de l'inventeur du premier système de modem ?",
-    "answer": "Dale Heatherington",
+    "id": "477",
+    "question": "Dans Red Dead Redemption 2, quel est le nom du protagoniste principal ?",
+    "answer": "Arthur Morgan",
     "badAnswers": [
-      "Dennis Hayes",
-      "Vinton Cerf",
-      "Ray Tomlinson"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Dale Heatherington a co-développé, avec Dennis Hayes, le premier modem commercial dans les années 1970, permettant la transmission de données via les lignes téléphoniques."
-  },
-  {
-    "id": "52",
-    "question": "Qui a été le dernier tsar de Russie ?",
-    "answer": "Nicolas II",
-    "badAnswers": [
-      "Pierre le Grand",
-      "Alexandre III",
-      "Ivan le Terrible"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
-  },
-  {
-    "id": "2031",
-    "question": "Quel est le nom du groupe qui a chanté 'Run for Your Life' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Run for Your Life', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "2094",
-    "question": "Quel est le nom de l'inventeur du premier système de prothèse auditive moderne ?",
-    "answer": "Graeme Clark",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Wilson Greatbatch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Graeme Clark a développé la première prothèse auditive cochléaire moderne dans les années 1970."
-  },
-  {
-    "id": "1190",
-    "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
-    "answer": "Athéna",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
-  },
-  {
-    "id": "334",
-    "question": "Quel écrivain a créé le personnage de James Bond ?",
-    "answer": "Ian Fleming",
-    "badAnswers": [
-      "John le Carré",
-      "Agatha Christie",
-      "Tom Clancy"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Ian Fleming a créé James Bond, l'agent secret 007, dans son roman Casino Royale (1953). Ce personnage est devenu une icône de la littérature et du cinéma. John le Carré et Tom Clancy sont connus pour d'autres romans d'espionnage, et Agatha Christie pour des romans policiers."
-  },
-  {
-    "id": "941",
-    "question": "Quel est le nom d'une des langues néo-araméennes parlées par la population juive du nord-ouest de l'Irak ?",
-    "answer": "Lishana Deni",
-    "badAnswers": [
-      "Hulaulá",
-      "Lishan Didan",
-      "Chaldéen néo-araméen"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Lishana Deni est une langue néo-araméenne parlée par les Juifs du nord-ouest de l'Irak, notamment dans la région de Zakho, et fait partie des dialectes en voie de disparition."
-  },
-  {
-    "id": "714",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Kid Icarus ?",
-    "answer": "Pit",
-    "badAnswers": [
-      "Palutena",
-      "Dark Pit",
-      "Viridi"
+      "John Marston",
+      "Dutch van der Linde",
+      "Micah Bell"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Pit est le protagoniste de la série Kid Icarus et un personnage jouable dans Super Smash Bros. Ultimate. Palutena est une déesse, Dark Pit une version alternative, et Viridi une antagoniste."
+    "description": "Arthur Morgan est le protagoniste principal de Red Dead Redemption 2, un hors-la-loi membre du gang Van der Linde. John Marston est le héros du premier jeu, Dutch est le chef du gang, et Micah un antagoniste."
   },
   {
-    "id": "714",
-    "question": "Quel yōkai est une femme-araignée qui attire ses proies avant de les dévorer ?",
-    "answer": "Jorōgumo",
+    "id": "455",
+    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
+    "answer": "Galar",
     "badAnswers": [
-      "Iso-onna",
-      "Nue",
-      "Rokurokubi"
+      "Sinnoh",
+      "Hoenn",
+      "Alola"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
+  },
+  {
+    "id": "207",
+    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
+    "answer": "Chasseur de primes",
+    "badAnswers": [
+      "Sénateur",
+      "Vendeur de droïdes",
+      "Musicien"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
+  },
+  {
+    "id": "590",
+    "question": "Dans Horizon Forbidden West, quel est le nom de la région explorée par Aloy ?",
+    "answer": "Ouest interdit",
+    "badAnswers": [
+      "Terre sacrée",
+      "Plaines de Carja",
+      "Meridian"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Ouest interdit est la région principale explorée par Aloy dans Horizon Forbidden West, un territoire dangereux avec de nouvelles machines. Les autres options sont des lieux du premier jeu, Horizon Zero Dawn."
+  },
+  {
+    "id": "613",
+    "question": "Quel dieu japonais a vaincu le serpent à huit têtes Yamata no Orochi ?",
+    "answer": "Susanoo",
+    "badAnswers": [
+      "Raijin",
+      "Hachiman",
+      "Fujin"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "La Jorōgumo se transforme en belle femme pour séduire les hommes et les manger."
+    "description": "Susanoo est le dieu de la mer et des tempêtes, symbole d'héroïsme."
   },
   {
-    "id": "1942",
-    "question": "Quel est le nom du groupe qui a chanté 'Love Me Do' ?",
-    "answer": "The Beatles",
+    "id": "632",
+    "question": "Quel est le nom du plus grand volcan d'Asie ?",
+    "answer": "Mont Baekdu",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Mont Fuji",
+      "Mont Mayon",
+      "Mont Pinatubo"
     ],
-    "category": "Musique",
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
+  },
+  {
+    "id": "1970",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
+    "answer": "William Kouwenhoven",
+    "badAnswers": [
+      "Paul Zoll",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
+  },
+  {
+    "id": "1671",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "'Love Me Do', sorti en 1962 par The Beatles, est leur premier single, tiré de l'album Please Please Me."
+    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
+  },
+  {
+    "id": "829",
+    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans Un nouvel espoir ?",
+    "answer": "Obi-Wan Kenobi",
+    "badAnswers": [
+      "Yoda",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Obi-Wan Kenobi est le mentor de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+  },
+  {
+    "id": "2112",
+    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
+    "answer": "Jack Kilby",
+    "badAnswers": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "Alan Turing"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
   }
 ]
