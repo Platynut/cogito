@@ -1,132 +1,132 @@
 [
   {
-    "id": "477",
-    "question": "Dans Red Dead Redemption 2, quel est le nom du protagoniste principal ?",
-    "answer": "Arthur Morgan",
+    "id": "770",
+    "question": "Quel est la capitale de la Finlande ?",
+    "answer": "Helsinki",
     "badAnswers": [
-      "John Marston",
-      "Dutch van der Linde",
-      "Micah Bell"
+      "Tampere",
+      "Turku",
+      "Oulu"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Arthur Morgan est le protagoniste principal de Red Dead Redemption 2, un hors-la-loi membre du gang Van der Linde. John Marston est le héros du premier jeu, Dutch est le chef du gang, et Micah un antagoniste."
+    "description": "Helsinki est la capitale de la Finlande, située sur la côte sud, connue pour sa cathédrale blanche. Tampere, Turku et Oulu sont d'autres villes finlandaises, mais pas la capitale."
   },
   {
-    "id": "455",
-    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
-    "answer": "Galar",
+    "id": "266",
+    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
+    "answer": "Le Couesnon",
     "badAnswers": [
-      "Sinnoh",
-      "Hoenn",
-      "Alola"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
-  },
-  {
-    "id": "207",
-    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
-    "answer": "Chasseur de primes",
-    "badAnswers": [
-      "Sénateur",
-      "Vendeur de droïdes",
-      "Musicien"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
-  },
-  {
-    "id": "590",
-    "question": "Dans Horizon Forbidden West, quel est le nom de la région explorée par Aloy ?",
-    "answer": "Ouest interdit",
-    "badAnswers": [
-      "Terre sacrée",
-      "Plaines de Carja",
-      "Meridian"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Ouest interdit est la région principale explorée par Aloy dans Horizon Forbidden West, un territoire dangereux avec de nouvelles machines. Les autres options sont des lieux du premier jeu, Horizon Zero Dawn."
-  },
-  {
-    "id": "613",
-    "question": "Quel dieu japonais a vaincu le serpent à huit têtes Yamata no Orochi ?",
-    "answer": "Susanoo",
-    "badAnswers": [
-      "Raijin",
-      "Hachiman",
-      "Fujin"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Susanoo est le dieu de la mer et des tempêtes, symbole d'héroïsme."
-  },
-  {
-    "id": "632",
-    "question": "Quel est le nom du plus grand volcan d'Asie ?",
-    "answer": "Mont Baekdu",
-    "badAnswers": [
-      "Mont Fuji",
-      "Mont Mayon",
-      "Mont Pinatubo"
+      "La Sélune",
+      "La Vire",
+      "La Rance"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
+    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
   },
   {
-    "id": "1970",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur ?",
-    "answer": "William Kouwenhoven",
+    "id": "683",
+    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
+    "answer": "Akali",
     "badAnswers": [
-      "Paul Zoll",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "William Kouwenhoven a développé le premier défibrillateur à courant alternatif dans les années 1930, sauvant des vies."
-  },
-  {
-    "id": "1671",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Shen",
+      "Zed",
+      "Talon"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
-  },
-  {
-    "id": "829",
-    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans Un nouvel espoir ?",
-    "answer": "Obi-Wan Kenobi",
-    "badAnswers": [
-      "Yoda",
-      "Qui-Gon Jinn",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le mentor de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
-  },
-  {
-    "id": "2112",
-    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
-    "answer": "Jack Kilby",
-    "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
+    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
+  },
+  {
+    "id": "261",
+    "question": "Quel est le nom de la première femme à avoir remporté le prix Nobel de la paix ?",
+    "answer": "Marie Curie",
+    "badAnswers": [
+      "Malala Yousafzai",
+      "Mère Teresa",
+      "Ellen Johnson Sirleaf"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Marie Curie a reçu le prix Nobel de la paix en 1903 pour ses recherches sur la radioactivité. Elle est la première femme à recevoir ce prix, et elle a également remporté le prix Nobel de chimie en 1911."
+  },
+  {
+    "id": "293",
+    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
+    "answer": "Dissonance cognitive",
+    "badAnswers": [
+      "Syndrome de Flip-Flop",
+      "Cerveau divisé",
+      "Vision aveugle"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
+  },
+  {
+    "id": "1184",
+    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
+    "answer": "R.E.M.",
+    "badAnswers": [
+      "The Smiths",
+      "The Cure",
+      "U2"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
+  },
+  {
+    "id": "1174",
+    "question": "Quel est la capitale de l'Ouganda ?",
+    "answer": "Kampala",
+    "badAnswers": [
+      "Gulu",
+      "Jinja",
+      "Mbale"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
+  },
+  {
+    "id": "1189",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
+    "answer": "Nickel",
+    "badAnswers": [
+      "Néon",
+      "Nitrure",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+  },
+  {
+    "id": "1508",
+    "question": "Quel est le nom de l'auteur de 'Les Voyages de Gulliver' ?",
+    "answer": "Jonathan Swift",
+    "badAnswers": [
+      "Daniel Defoe",
+      "Samuel Richardson",
+      "Henry Fielding"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Jonathan Swift a écrit 'Les Voyages de Gulliver' (1726), une satire sur la nature humaine et les sociétés à travers des voyages fantastiques."
+  },
+  {
+    "id": "1239",
+    "question": "Quel est la capitale du Yémen ?",
+    "answer": "Sanaa",
+    "badAnswers": [
+      "Aden",
+      "Taiz",
+      "Hodeida"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
   }
 ]
