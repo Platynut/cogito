@@ -1,132 +1,132 @@
 [
   {
-    "id": "770",
-    "question": "Quel est la capitale de la Finlande ?",
-    "answer": "Helsinki",
+    "id": "1489",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pa ?",
+    "answer": "Protactinium",
     "badAnswers": [
-      "Tampere",
-      "Turku",
-      "Oulu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Helsinki est la capitale de la Finlande, située sur la côte sud, connue pour sa cathédrale blanche. Tampere, Turku et Oulu sont d'autres villes finlandaises, mais pas la capitale."
-  },
-  {
-    "id": "266",
-    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
-    "answer": "Le Couesnon",
-    "badAnswers": [
-      "La Sélune",
-      "La Vire",
-      "La Rance"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
-  },
-  {
-    "id": "683",
-    "question": "Dans League of Legends, quel champion est surnommé Le Poing de l'Ombre ?",
-    "answer": "Akali",
-    "badAnswers": [
-      "Shen",
-      "Zed",
-      "Talon"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Akali, surnommée Le Poing de l'Ombre dans League of Legends, est une ninja utilisant des techniques furtives. Shen, Zed et Talon sont d'autres ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "261",
-    "question": "Quel est le nom de la première femme à avoir remporté le prix Nobel de la paix ?",
-    "answer": "Marie Curie",
-    "badAnswers": [
-      "Malala Yousafzai",
-      "Mère Teresa",
-      "Ellen Johnson Sirleaf"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Marie Curie a reçu le prix Nobel de la paix en 1903 pour ses recherches sur la radioactivité. Elle est la première femme à recevoir ce prix, et elle a également remporté le prix Nobel de chimie en 1911."
-  },
-  {
-    "id": "293",
-    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
-    "answer": "Dissonance cognitive",
-    "badAnswers": [
-      "Syndrome de Flip-Flop",
-      "Cerveau divisé",
-      "Vision aveugle"
+      "Palladium",
+      "Plomb",
+      "Polonium"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
+    "difficulty": "difficile",
+    "description": "Le protactinium, symbolisé par Pa, est un élément radioactif rare, utilisé dans la recherche scientifique et les études nucléaires."
   },
   {
-    "id": "1184",
-    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
-    "answer": "R.E.M.",
+    "id": "710",
+    "question": "Quel fantôme japonais est connu pour avoir un visage totalement lisse ?",
+    "answer": "Noppera-bō",
     "badAnswers": [
-      "The Smiths",
-      "The Cure",
-      "U2"
+      "Onryō",
+      "Yuki-onna",
+      "Zashiki-warashi"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Noppera-bō effraie ses victimes en révélant un visage lisse et sans traits."
+  },
+  {
+    "id": "1373",
+    "question": "Quel est la capitale du Suriname ?",
+    "answer": "Paramaribo",
+    "badAnswers": [
+      "Nieuw Nickerie",
+      "Moengo",
+      "Albina"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
+  },
+  {
+    "id": "1176",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
+    "answer": "Platine",
+    "badAnswers": [
+      "Palladium",
+      "Plomb",
+      "Phosphore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
+  },
+  {
+    "id": "2049",
+    "question": "Quel est le nom du groupe qui a chanté 'Oh! Darling' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
+    "description": "'Oh! Darling', sorti en 1969 par The Beatles, est une chanson rock avec une influence doo-wop, tirée de l'album Abbey Road."
   },
   {
-    "id": "1174",
-    "question": "Quel est la capitale de l'Ouganda ?",
-    "answer": "Kampala",
+    "id": "1332",
+    "question": "Quel est la capitale de Cuba ?",
+    "answer": "La Havane",
     "badAnswers": [
-      "Gulu",
-      "Jinja",
-      "Mbale"
+      "Santiago de Cuba",
+      "Camagüey",
+      "Holguín"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Kampala, capitale de l'Ouganda, est une ville animée située près du lac Victoria, centre économique et culturel du pays."
-  },
-  {
-    "id": "1189",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
-    "answer": "Nickel",
-    "badAnswers": [
-      "Néon",
-      "Nitrure",
-      "Sodium"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
+    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
   },
   {
-    "id": "1508",
-    "question": "Quel est le nom de l'auteur de 'Les Voyages de Gulliver' ?",
-    "answer": "Jonathan Swift",
+    "id": "813",
+    "question": "Dans Cyberpunk 2077, quel est le nom du protagoniste principal ?",
+    "answer": "V",
     "badAnswers": [
-      "Daniel Defoe",
-      "Samuel Richardson",
-      "Henry Fielding"
+      "Johnny Silverhand",
+      "Jackie Welles",
+      "Panam Palmer"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jonathan Swift a écrit 'Les Voyages de Gulliver' (1726), une satire sur la nature humaine et les sociétés à travers des voyages fantastiques."
+    "description": "V est le protagoniste principal personnalisable de Cyberpunk 2077, évoluant dans Night City. Johnny Silverhand, Jackie Welles et Panam Palmer sont d'autres personnages clés."
   },
   {
-    "id": "1239",
-    "question": "Quel est la capitale du Yémen ?",
-    "answer": "Sanaa",
+    "id": "109",
+    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
+    "answer": "Itachi",
     "badAnswers": [
-      "Aden",
-      "Taiz",
-      "Hodeida"
+      "Obito",
+      "Madara",
+      "Kakashi"
     ],
-    "category": "Géographie",
+    "category": "Anime et Manga",
+    "difficulty": "facile",
+    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
+  },
+  {
+    "id": "802",
+    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
+    "answer": "Morgana",
+    "badAnswers": [
+      "Kayle",
+      "Akali",
+      "Ahri"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Sanaa, capitale du Yémen, est une ville historique située à haute altitude, connue pour son architecture ancienne et ses mosquées."
+    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
+  },
+  {
+    "id": "1505",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
+    "answer": "On the Waterfront",
+    "badAnswers": [
+      "The Caine Mutiny",
+      "Seven Brides for Seven Brothers",
+      "Three Coins in the Fountain"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
   }
 ]
