@@ -1,132 +1,132 @@
 [
   {
-    "id": "1489",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pa ?",
-    "answer": "Protactinium",
+    "id": "1825",
+    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
+    "answer": "Blaise Pascal",
     "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Polonium"
+      "Gottfried Leibniz",
+      "Charles Babbage",
+      "Alan Turing"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le protactinium, symbolisé par Pa, est un élément radioactif rare, utilisé dans la recherche scientifique et les études nucléaires."
-  },
-  {
-    "id": "710",
-    "question": "Quel fantôme japonais est connu pour avoir un visage totalement lisse ?",
-    "answer": "Noppera-bō",
-    "badAnswers": [
-      "Onryō",
-      "Yuki-onna",
-      "Zashiki-warashi"
-    ],
-    "category": "Mythologie",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Le Noppera-bō effraie ses victimes en révélant un visage lisse et sans traits."
+    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
   },
   {
-    "id": "1373",
-    "question": "Quel est la capitale du Suriname ?",
-    "answer": "Paramaribo",
+    "id": "1757",
+    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
+    "answer": "Lynyrd Skynyrd",
     "badAnswers": [
-      "Nieuw Nickerie",
-      "Moengo",
-      "Albina"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
-  },
-  {
-    "id": "1176",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pt ?",
-    "answer": "Platine",
-    "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le platine, symbolisé par Pt, est un métal précieux utilisé en joaillerie, en électronique et comme catalyseur dans l'industrie."
-  },
-  {
-    "id": "2049",
-    "question": "Quel est le nom du groupe qui a chanté 'Oh! Darling' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "ZZ Top"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Oh! Darling', sorti en 1969 par The Beatles, est une chanson rock avec une influence doo-wop, tirée de l'album Abbey Road."
+    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
   },
   {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
+      "Radiohead",
+      "Muse",
+      "Keane"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
+  },
+  {
+    "id": "446",
+    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
+  },
+  {
+    "id": "858",
+    "question": "Quel scientifique a découvert la loi de la radioactivité ?",
+    "answer": "Marie Curie",
+    "badAnswers": [
+      "Ernest Rutherford",
+      "Henri Becquerel",
+      "Max Planck"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Marie Curie a contribué à la découverte et à l'étude de la radioactivité, recevant le prix Nobel en 1903 avec Henri Becquerel. Rutherford et Planck ont travaillé sur d'autres aspects de la physique."
+  },
+  {
+    "id": "30",
+    "question": "Quelle entreprise a développé le système d'exploitation Windows ?",
+    "answer": "Microsoft",
+    "badAnswers": [
+      "Apple",
+      "IBM",
+      "Google"
+    ],
+    "category": "Economie",
+    "difficulty": "facile",
+    "description": "Lancé en 1985, Windows équipe aujourd'hui environ 75% des ordinateurs personnels dans le monde."
+  },
+  {
+    "id": "1271",
+    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
+    "answer": "Héra",
+    "badAnswers": [
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
+  },
+  {
+    "id": "1486",
+    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
+    "answer": "The Cure",
+    "badAnswers": [
+      "Depeche Mode",
+      "New Order",
+      "The Smiths"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
+  },
+  {
+    "id": "1517",
+    "question": "Quel est la capitale de la Zambie ?",
+    "answer": "Lusaka",
+    "badAnswers": [
+      "Ndola",
+      "Kitwe",
+      "Livingstone"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
-  },
-  {
-    "id": "813",
-    "question": "Dans Cyberpunk 2077, quel est le nom du protagoniste principal ?",
-    "answer": "V",
-    "badAnswers": [
-      "Johnny Silverhand",
-      "Jackie Welles",
-      "Panam Palmer"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "V est le protagoniste principal personnalisable de Cyberpunk 2077, évoluant dans Night City. Johnny Silverhand, Jackie Welles et Panam Palmer sont d'autres personnages clés."
-  },
-  {
-    "id": "109",
-    "question": "Comment s'appelle le frère de Sasuke Uchiwa ?",
-    "answer": "Itachi",
-    "badAnswers": [
-      "Obito",
-      "Madara",
-      "Kakashi"
-    ],
-    "category": "Anime et Manga",
-    "difficulty": "facile",
-    "description": "Itachi Uchiwa est le frère aîné de Sasuke dans la série 'Naruto'. Obito et Madara sont d'autres membres du clan Uchiwa, tandis que Kakashi est le mentor de Sasuke."
-  },
-  {
-    "id": "802",
-    "question": "Dans League of Legends, quel champion est surnommé L'Ange déchu ?",
-    "answer": "Morgana",
-    "badAnswers": [
-      "Kayle",
-      "Akali",
-      "Ahri"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Morgana, surnommée L'Ange déchu dans League of Legends, est une mage manipulant la magie sombre. Kayle est sa sœur, Akali une ninja, et Ahri une enchanteresse."
+    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
   },
   {
-    "id": "1505",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1954 ?",
-    "answer": "On the Waterfront",
+    "id": "1957",
+    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "The Caine Mutiny",
-      "Seven Brides for Seven Brothers",
-      "Three Coins in the Fountain"
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
     ],
-    "category": "Cinéma",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "On the Waterfront, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1954, un drame sur la corruption et la rédemption."
+    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
   }
 ]
