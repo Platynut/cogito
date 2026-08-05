@@ -1,132 +1,132 @@
 [
   {
-    "id": "1825",
-    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
-    "answer": "Blaise Pascal",
+    "id": "1699",
+    "question": "Quel est la capitale de Taïwan ?",
+    "answer": "Taipei",
     "badAnswers": [
-      "Gottfried Leibniz",
-      "Charles Babbage",
-      "Alan Turing"
+      "Kaohsiung",
+      "Tainan",
+      "Taichung"
     ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
-  },
-  {
-    "id": "1757",
-    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "ZZ Top"
-    ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
   },
   {
-    "id": "1677",
-    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
-    "answer": "Coldplay",
+    "id": "1160",
+    "question": "Quel est le nom du dieu grec de la mort ?",
+    "answer": "Thanatos",
     "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
-  },
-  {
-    "id": "446",
-    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
-    "answer": "Alexandre Dumas",
-    "badAnswers": [
-      "Victor Hugo",
-      "Honoré de Balzac",
-      "Gustave Flaubert"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
-  },
-  {
-    "id": "858",
-    "question": "Quel scientifique a découvert la loi de la radioactivité ?",
-    "answer": "Marie Curie",
-    "badAnswers": [
-      "Ernest Rutherford",
-      "Henri Becquerel",
-      "Max Planck"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Marie Curie a contribué à la découverte et à l'étude de la radioactivité, recevant le prix Nobel en 1903 avec Henri Becquerel. Rutherford et Planck ont travaillé sur d'autres aspects de la physique."
-  },
-  {
-    "id": "30",
-    "question": "Quelle entreprise a développé le système d'exploitation Windows ?",
-    "answer": "Microsoft",
-    "badAnswers": [
-      "Apple",
-      "IBM",
-      "Google"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Lancé en 1985, Windows équipe aujourd'hui environ 75% des ordinateurs personnels dans le monde."
-  },
-  {
-    "id": "1271",
-    "question": "Quel est le nom de la déesse grecque de l'amour maternel ?",
-    "answer": "Héra",
-    "badAnswers": [
-      "Aphrodite",
-      "Athéna",
-      "Artémis"
+      "Hypnos",
+      "Morpheus",
+      "Hadès"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Héra, reine des dieux grecs, est associée au mariage et à l'amour maternel, souvent représentée comme protectrice des familles."
+    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
   },
   {
-    "id": "1486",
-    "question": "Quel est le nom du groupe qui a chanté 'Just Like Heaven' ?",
-    "answer": "The Cure",
+    "id": "1083",
+    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
+    "answer": "Anubis",
     "badAnswers": [
-      "Depeche Mode",
-      "New Order",
-      "The Smiths"
+      "Osiris",
+      "Seth",
+      "Ptah"
     ],
-    "category": "Musique",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "'Just Like Heaven', sorti en 1987 par The Cure, est une chanson new wave romantique tirée de l'album Kiss Me, Kiss Me, Kiss Me."
+    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
   },
   {
-    "id": "1517",
-    "question": "Quel est la capitale de la Zambie ?",
-    "answer": "Lusaka",
+    "id": "2076",
+    "question": "Quel est le nom de l'auteur de 'L'Homme à l'envers' ?",
+    "answer": "Fred Vargas",
     "badAnswers": [
-      "Ndola",
-      "Kitwe",
-      "Livingstone"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
-  },
-  {
-    "id": "1957",
-    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
+      "Jean-Paul Sartre",
       "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
+    "description": "Fred Vargas a écrit 'L'Homme à l'envers' (1999), un roman policier mettant en scène le commissaire Adamsberg."
+  },
+  {
+    "id": "1000",
+    "question": "Quel est le pseudo par défaut de la princesse Garnet dans Final Fantasy IX ?",
+    "answer": "Dague",
+    "badAnswers": [
+      "Dirk",
+      "Garnet",
+      "Quina"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Final Fantasy IX, la princesse Garnet adopte le pseudo 'Dague' pour se cacher lorsqu'elle s'échappe du château d'Alexandrie."
+  },
+  {
+    "id": "704",
+    "question": "Quel renard magique japonais peut se transformer en humain ?",
+    "answer": "Kitsune",
+    "badAnswers": [
+      "Tanuki",
+      "Bakeneko",
+      "Nue"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Kitsune est un renard surnaturel doté de pouvoirs magiques, dont celui de se transformer en humain."
+  },
+  {
+    "id": "655",
+    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
+    "answer": "Spero Patronum",
+    "badAnswers": [
+      "Expecto Patronum",
+      "Lumos",
+      "Protego"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Expecto Patronum est le sortilège pour invoquer un Patronus dans Harry Potter, utilisé contre les Détraqueurs. Lumos éclaire, et Protego crée un bouclier. (Note : 'Spero Patronum' est une erreur courante, la bonne réponse est Expecto Patronum.)"
+  },
+  {
+    "id": "1561",
+    "question": "Quel est le nom du dieu grec des vents ?",
+    "answer": "Éole",
+    "badAnswers": [
+      "Borée",
+      "Zéphyr",
+      "Notos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
+  },
+  {
+    "id": "477",
+    "question": "Dans Red Dead Redemption 2, quel est le nom du protagoniste principal ?",
+    "answer": "Arthur Morgan",
+    "badAnswers": [
+      "John Marston",
+      "Dutch van der Linde",
+      "Micah Bell"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Arthur Morgan est le protagoniste principal de Red Dead Redemption 2, un hors-la-loi membre du gang Van der Linde. John Marston est le héros du premier jeu, Dutch est le chef du gang, et Micah un antagoniste."
+  },
+  {
+    "id": "1336",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
+    "answer": "Out of Africa",
+    "badAnswers": [
+      "Witness",
+      "The Color Purple",
+      "Kiss of the Spider Woman"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
   }
 ]
