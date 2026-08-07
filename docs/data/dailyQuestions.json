@@ -1,132 +1,132 @@
 [
   {
-    "id": "1699",
-    "question": "Quel est la capitale de Taïwan ?",
-    "answer": "Taipei",
+    "id": "855",
+    "question": "Quel scientifique a découvert la loi de la dilatation des liquides ?",
+    "answer": "Guillaume Amontons",
     "badAnswers": [
-      "Kaohsiung",
-      "Tainan",
-      "Taichung"
+      "Robert Boyle",
+      "Jacques Charles",
+      "Anders Celsius"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Guillaume Amontons a étudié la dilatation des liquides au XVIIe siècle, contribuant aux bases de la thermométrie. Boyle, Charles et Celsius ont travaillé sur d'autres lois physiques."
+  },
+  {
+    "id": "1844",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "Paul Zoll",
+      "Rune Elmqvist",
+      "Earl Bakken"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+  },
+  {
+    "id": "478",
+    "question": "Quel est la capitale du Mexique ?",
+    "answer": "Mexico",
+    "badAnswers": [
+      "Guadalajara",
+      "Monterrey",
+      "Cancún"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Taipei, capitale de Taïwan, est connue pour sa tour Taipei 101, ses marchés de nuit et ses temples."
+    "description": "Mexico est la capitale du Mexique, une métropole vibrante abritant le Zócalo et le Palais national. Guadalajara, Monterrey et Cancún sont d'autres villes mexicaines, mais pas la capitale."
   },
   {
-    "id": "1160",
-    "question": "Quel est le nom du dieu grec de la mort ?",
-    "answer": "Thanatos",
+    "id": "2002",
+    "question": "Quel est le nom de l'ingénieur ayant dirigé le développement du premier microprocesseur commercial ?",
+    "answer": "Federico Faggin",
     "badAnswers": [
-      "Hypnos",
-      "Morpheus",
-      "Hadès"
+      "Robert Noyce",
+      "Gordon Moore",
+      "Jack Kilby"
     ],
-    "category": "Mythologie",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
+    "description": "Federico Faggin a dirigé l'équipe de développement de l'Intel 4004 en 1971, considéré comme le premier microprocesseur commercialisé. Il a été responsable de sa conception physique et de sa mise en production."
   },
   {
-    "id": "1083",
-    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
-    "answer": "Anubis",
+    "id": "1996",
+    "question": "Quel est le nom de l'inventeur du premier système de stent coronarien ?",
+    "answer": "Julio Palmaz",
     "badAnswers": [
-      "Osiris",
-      "Seth",
-      "Ptah"
+      "Andreas Gruentzig",
+      "René Favaloro",
+      "Michael DeBakey"
     ],
-    "category": "Mythologie",
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Julio Palmaz a développé le premier stent coronarien en 1986, révolutionnant le traitement des maladies cardiovasculaires."
+  },
+  {
+    "id": "1425",
+    "question": "Quel est la capitale de l'Arménie ?",
+    "answer": "Erevan",
+    "badAnswers": [
+      "Gyumri",
+      "Vanadzor",
+      "Hrazdan"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
+    "description": "Erevan, capitale de l'Arménie, est l'une des plus anciennes villes habitées du monde, connue pour ses musées et sa vue sur le mont Ararat."
   },
   {
-    "id": "2076",
-    "question": "Quel est le nom de l'auteur de 'L'Homme à l'envers' ?",
-    "answer": "Fred Vargas",
+    "id": "1172",
+    "question": "Quel est le nom de l'inventeur du premier microscope ?",
+    "answer": "Zacharias Janssen",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Galilée",
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Fred Vargas a écrit 'L'Homme à l'envers' (1999), un roman policier mettant en scène le commissaire Adamsberg."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Zacharias Janssen est crédité pour la création du premier microscope composé vers 1590, bien que des débats subsistent sur son invention."
   },
   {
-    "id": "1000",
-    "question": "Quel est le pseudo par défaut de la princesse Garnet dans Final Fantasy IX ?",
-    "answer": "Dague",
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
     "badAnswers": [
-      "Dirk",
-      "Garnet",
-      "Quina"
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
+  },
+  {
+    "id": "1824",
+    "question": "Quel est le nom du groupe qui a chanté 'Immigrant Song' ?",
+    "answer": "Led Zeppelin",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Immigrant Song', sorti en 1970 par Led Zeppelin, est une chanson rock tirée de l'album Led Zeppelin III."
+  },
+  {
+    "id": "338",
+    "question": "Dans The Elder Scrolls V: Skyrim, quelle est la capitale de Bordeciel ?",
+    "answer": "Solitude",
+    "badAnswers": [
+      "Vendeaume",
+      "Faillaise",
+      "Aubétoile"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Final Fantasy IX, la princesse Garnet adopte le pseudo 'Dague' pour se cacher lorsqu'elle s'échappe du château d'Alexandrie."
-  },
-  {
-    "id": "704",
-    "question": "Quel renard magique japonais peut se transformer en humain ?",
-    "answer": "Kitsune",
-    "badAnswers": [
-      "Tanuki",
-      "Bakeneko",
-      "Nue"
-    ],
-    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Kitsune est un renard surnaturel doté de pouvoirs magiques, dont celui de se transformer en humain."
-  },
-  {
-    "id": "655",
-    "question": "Dans Harry Potter, quel est le nom du sortilège pour invoquer un Patronus ?",
-    "answer": "Spero Patronum",
-    "badAnswers": [
-      "Expecto Patronum",
-      "Lumos",
-      "Protego"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Expecto Patronum est le sortilège pour invoquer un Patronus dans Harry Potter, utilisé contre les Détraqueurs. Lumos éclaire, et Protego crée un bouclier. (Note : 'Spero Patronum' est une erreur courante, la bonne réponse est Expecto Patronum.)"
-  },
-  {
-    "id": "1561",
-    "question": "Quel est le nom du dieu grec des vents ?",
-    "answer": "Éole",
-    "badAnswers": [
-      "Borée",
-      "Zéphyr",
-      "Notos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
-  },
-  {
-    "id": "477",
-    "question": "Dans Red Dead Redemption 2, quel est le nom du protagoniste principal ?",
-    "answer": "Arthur Morgan",
-    "badAnswers": [
-      "John Marston",
-      "Dutch van der Linde",
-      "Micah Bell"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Arthur Morgan est le protagoniste principal de Red Dead Redemption 2, un hors-la-loi membre du gang Van der Linde. John Marston est le héros du premier jeu, Dutch est le chef du gang, et Micah un antagoniste."
-  },
-  {
-    "id": "1336",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
-    "answer": "Out of Africa",
-    "badAnswers": [
-      "Witness",
-      "The Color Purple",
-      "Kiss of the Spider Woman"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
+    "description": "Solitude est la capitale de Bordeciel dans The Elder Scrolls V: Skyrim, située dans le nord-ouest de la province. C'est un centre politique et commercial majeur, abritant le Jarl Elisif. Vendeaume, Faillaise et Aubétoile sont d'autres villes importantes, mais pas la capitale."
   }
 ]
