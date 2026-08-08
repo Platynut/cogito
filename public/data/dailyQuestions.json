@@ -1,132 +1,132 @@
 [
   {
-    "id": "1077",
-    "question": "Quel est le nom du groupe qui a chanté 'Stairway to Heaven' ?",
-    "answer": "Led Zeppelin",
+    "id": "414",
+    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
+    "answer": "Antonio Vivaldi",
     "badAnswers": [
-      "Deep Purple",
-      "Black Sabbath",
-      "The Who"
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Claudio Monteverdi"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Stairway to Heaven', sorti en 1971 par Led Zeppelin, est une chanson rock légendaire, souvent considérée comme un chef-d'œuvre du genre."
+    "difficulty": "normal",
+    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
   },
   {
-    "id": "1581",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mt ?",
-    "answer": "Meitnérium",
+    "id": "1001",
+    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
+    "answer": "Bangladesh",
     "badAnswers": [
-      "Molybdène",
-      "Magnésium",
-      "Mendélévium"
+      "Malaisie",
+      "Vietnam",
+      "Philippines"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
+  },
+  {
+    "id": "394",
+    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
+    "answer": "Isaac Newton",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Johannes Kepler"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le meitnérium, symbolisé par Mt, est un élément radioactif synthétique, nommé d'après Lise Meitner, utilisé dans la recherche."
-  },
-  {
-    "id": "209",
-    "question": "Qui a réalisé le film Titanic ?",
-    "answer": "James Cameron",
-    "badAnswers": [
-      "Steven Spielberg",
-      "David Lynch",
-      "Christopher Nolan"
-    ],
-    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "James Cameron a dirigé 'Titanic' (1997), film le plus oscarisé (11 Oscars) avant 'Avatar'. Spielberg a fait 'Jurassic Park', Lynch 'Mulholland Drive', Nolan 'Inception'."
+    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
   },
   {
-    "id": "306",
-    "question": "Qu'est-ce qui cause le son d'un battement de cœur ?",
-    "answer": "Fermeture des valves cardiaques",
+    "id": "1164",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Joel Miller ?",
+    "answer": "The Last of Us",
     "badAnswers": [
-      "Contraction des chambres cardiaques",
-      "Sortie du sang du cœur",
-      "Relâchement des chambres cardiaques"
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "God of War"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le son d'un battement de cœur est causé par la fermeture des valves cardiaques (mitrale, tricuspide, aortique et pulmonaire) qui régulent le flux sanguin dans le cœur. Les deux sons principaux, 'lub' et 'dub', correspondent à la fermeture des valves atrioventriculaires puis des valves semi-lunaires. Les autres options ne sont pas la cause principale du son."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Joel Miller est le protagoniste principal de The Last of Us, un survivant dans un monde post-apocalyptique, protégeant Ellie dans leur voyage."
   },
   {
-    "id": "1692",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
-    "answer": "Palladium",
+    "id": "424",
+    "question": "Quel scientifique a découvert les lois de l’hérédité ?",
+    "answer": "Gregor Mendel",
     "badAnswers": [
-      "Platine",
-      "Plomb",
-      "Polonium"
+      "Charles Darwin",
+      "Francis Galton",
+      "Thomas Hunt Morgan"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
+    "description": "Gregor Mendel, un moine autrichien, a découvert les lois de l’hérédité dans les années 1860 grâce à ses expériences sur les pois. Ses travaux ont fondé la génétique moderne. Darwin a étudié l’évolution, Galton l’eugénisme, et Morgan a travaillé sur les chromosomes."
   },
   {
-    "id": "1511",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1953 ?",
-    "answer": "From Here to Eternity",
+    "id": "795",
+    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
+    "answer": "Sam Porter Bridges",
     "badAnswers": [
-      "Roman Holiday",
-      "Shane",
-      "The Robe"
+      "Cliff Unger",
+      "Die-Hardman",
+      "Fragile"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
+  },
+  {
+    "id": "19",
+    "question": "Quel peintre a coupé une partie de son oreille ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dalí"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
+  },
+  {
+    "id": "1462",
+    "question": "Quel est le nom de l'inventeur du premier avion motorisé ?",
+    "answer": "Frères Wright",
+    "badAnswers": [
+      "Clément Ader",
+      "Alberto Santos-Dumont",
+      "Otto Lilienthal"
+    ],
+    "category": "Histoire",
+    "difficulty": "facile",
+    "description": "Les frères Wright, Orville et Wilbur, ont effectué le premier vol motorisé contrôlé en 1903 avec leur avion, le Flyer, marquant l'ère de l'aviation."
+  },
+  {
+    "id": "1694",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
+    "answer": "Casablanca",
+    "badAnswers": [
+      "For Whom the Bell Tolls",
+      "The Ox-Bow Incident",
+      "Heaven Can Wait"
     ],
     "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
+  },
+  {
+    "id": "364",
+    "question": "Quel compositeur a écrit l’opéra 'La Traviata' ?",
+    "answer": "Giuseppe Verdi",
+    "badAnswers": [
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner",
+      "Giacomo Puccini"
+    ],
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "From Here to Eternity, réalisé par Fred Zinnemann, a remporté l'Oscar du meilleur film en 1953, un drame sur l'amour et la guerre à Hawaï."
-  },
-  {
-    "id": "238",
-    "question": "Le film Trainspotting décrit la démarche d'un ... ?",
-    "answer": "Drogué",
-    "badAnswers": [
-      "Stripteaseur",
-      "Tueur en série",
-      "Contrôleur de train"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "'Trainspotting' (1996) suit des toxicomanes à Édimbourg, adapté du roman d'Irvine Welsh. Les autres métiers n'ont aucun lien avec le film."
-  },
-  {
-    "id": "7",
-    "question": "Quel est le système d'exploitation mobile développé par Google ?",
-    "answer": "Android",
-    "badAnswers": [
-      "iOS",
-      "Windows Phone",
-      "Symbian"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Android, lancé en 2008, équipe environ 70% des smartphones mondiaux en 2023."
-  },
-  {
-    "id": "4",
-    "question": "Quel élément chimique a pour symbole 'Fe' ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
-  },
-  {
-    "id": "1361",
-    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
-    "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Émile Zola"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
+    "description": "Giuseppe Verdi a composé La Traviata, un opéra en trois actes créé en 1853, basé sur La Dame aux camélias d’Alexandre Dumas fils. C’est l’un des opéras les plus joués au monde. Mozart, Wagner et Puccini sont d’autres compositeurs d’opéras, mais ils n’ont pas écrit La Traviata."
   }
 ]
