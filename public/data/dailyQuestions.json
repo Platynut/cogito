@@ -1,132 +1,133 @@
 [
   {
-    "id": "414",
-    "question": "Quel compositeur a écrit Les Quatre Saisons ?",
-    "answer": "Antonio Vivaldi",
+    "id": "1395",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo numérique ?",
+    "answer": "Steven Sasson",
     "badAnswers": [
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Claudio Monteverdi"
+      "George Eastman",
+      "Edwin Land",
+      "Thomas Edison"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonio Vivaldi a composé Les Quatre Saisons, un ensemble de concertos pour violon publié en 1725, représentant les saisons à travers la musique baroque. Bach et Handel sont d’autres compositeurs baroques, et Monteverdi est un pionnier de l’opéra, mais aucun n’a écrit cette œuvre."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Steven Sasson a inventé le premier appareil photo numérique en 1975 chez Kodak, révolutionnant la photographie moderne."
   },
   {
-    "id": "1001",
-    "question": "Quel pays est le plus éloigné de la mer de Chine méridionale parmi ceux-ci ?",
-    "answer": "Bangladesh",
+    "id": "694",
+    "question": "Dans Fortnite, quel est le nom du lieu emblématique avec une statue de lama ?",
+    "answer": "Junk Junction",
     "badAnswers": [
-      "Malaisie",
-      "Vietnam",
-      "Philippines"
+      "Tilted Towers",
+      "Retail Row",
+      "Pleasant Park"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Junk Junction est un lieu de Fortnite connu pour sa statue de lama, un symbole du jeu. Tilted Towers, Retail Row et Pleasant Park sont d'autres lieux, mais sans cette statue."
+  },
+  {
+    "id": "1478",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
+    "answer": "Actinium",
+    "badAnswers": [
+      "Aluminium",
+      "Argon",
+      "Astatine"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
+  },
+  {
+    "id": "2146",
+    "question": "Quel est le nom de l'inventeur du premier système de caméra CCD ?",
+    "answer": "Willard Boyle",
+    "badAnswers": [
+      "George Smith",
+      "Steven Sasson",
+      "Edwin Land"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Willard Boyle a co-inventé le capteur CCD (dispositif à couplage de charge) en 1969, essentiel pour les caméras numériques."
+  },
+  {
+    "id": "1579",
+    "question": "Quel est la capitale du Malawi ?",
+    "answer": "Lilongwe",
+    "badAnswers": [
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Bangladesh, situé à l'ouest de la mer de Chine méridionale, est plus éloigné que la Malaisie, le Vietnam et les Philippines, qui bordent directement cette mer."
+    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
   },
   {
-    "id": "394",
-    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
-    "answer": "Isaac Newton",
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
     "badAnswers": [
-      "Galileo Galilei",
-      "Albert Einstein",
-      "Johannes Kepler"
+      "Lion",
+      "Aigle",
+      "Ours"
     ],
-    "category": "Science",
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+  },
+  {
+    "id": "409",
+    "question": "Quel est la capitale de la Chine ?",
+    "answer": "Pékin",
+    "badAnswers": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou"
+    ],
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
+    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
   },
   {
-    "id": "1164",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Joel Miller ?",
-    "answer": "The Last of Us",
+    "id": "1958",
+    "question": "Quel est le nom du groupe qui a chanté 'Back in the U.S.S.R.' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Uncharted",
-      "Horizon Zero Dawn",
-      "God of War"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Joel Miller est le protagoniste principal de The Last of Us, un survivant dans un monde post-apocalyptique, protégeant Ellie dans leur voyage."
-  },
-  {
-    "id": "424",
-    "question": "Quel scientifique a découvert les lois de l’hérédité ?",
-    "answer": "Gregor Mendel",
-    "badAnswers": [
-      "Charles Darwin",
-      "Francis Galton",
-      "Thomas Hunt Morgan"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Gregor Mendel, un moine autrichien, a découvert les lois de l’hérédité dans les années 1860 grâce à ses expériences sur les pois. Ses travaux ont fondé la génétique moderne. Darwin a étudié l’évolution, Galton l’eugénisme, et Morgan a travaillé sur les chromosomes."
-  },
-  {
-    "id": "795",
-    "question": "Dans Death Stranding, quel est le nom du protagoniste ?",
-    "answer": "Sam Porter Bridges",
-    "badAnswers": [
-      "Cliff Unger",
-      "Die-Hardman",
-      "Fragile"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sam Porter Bridges est le protagoniste de Death Stranding, chargé de reconnecter un monde fragmenté. Cliff Unger, Die-Hardman et Fragile sont d'autres personnages du jeu."
-  },
-  {
-    "id": "19",
-    "question": "Quel peintre a coupé une partie de son oreille ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Salvador Dalí"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "Cet incident en 1888 marqua le début de ses graves problèmes mentaux, avant son suicide en 1890."
-  },
-  {
-    "id": "1462",
-    "question": "Quel est le nom de l'inventeur du premier avion motorisé ?",
-    "answer": "Frères Wright",
-    "badAnswers": [
-      "Clément Ader",
-      "Alberto Santos-Dumont",
-      "Otto Lilienthal"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "Les frères Wright, Orville et Wilbur, ont effectué le premier vol motorisé contrôlé en 1903 avec leur avion, le Flyer, marquant l'ère de l'aviation."
-  },
-  {
-    "id": "1694",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1943 ?",
-    "answer": "Casablanca",
-    "badAnswers": [
-      "For Whom the Bell Tolls",
-      "The Ox-Bow Incident",
-      "Heaven Can Wait"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Casablanca, réalisé par Michael Curtiz, a remporté l'Oscar du meilleur film en 1943, un drame romantique classique."
-  },
-  {
-    "id": "364",
-    "question": "Quel compositeur a écrit l’opéra 'La Traviata' ?",
-    "answer": "Giuseppe Verdi",
-    "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Richard Wagner",
-      "Giacomo Puccini"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Back in the U.S.S.R.', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "1693",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
+  },
+  {
+    "id": "611",
+    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
+    "answer": "Kannon",
+    "badAnswers": [
+      "Kannon",
+      "Benzaiten",
+      "Amaterasu",
+      "Inari"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Giuseppe Verdi a composé La Traviata, un opéra en trois actes créé en 1853, basé sur La Dame aux camélias d’Alexandre Dumas fils. C’est l’un des opéras les plus joués au monde. Mozart, Wagner et Puccini sont d’autres compositeurs d’opéras, mais ils n’ont pas écrit La Traviata."
+    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
   }
 ]
