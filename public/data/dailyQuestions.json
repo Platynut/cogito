@@ -1,132 +1,132 @@
 [
   {
-    "id": "15",
-    "question": "Qui est le créateur de Mario ?",
-    "answer": "Shigeru Miyamoto",
+    "id": "293",
+    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
+    "answer": "Dissonance cognitive",
     "badAnswers": [
-      "Hideo Kojima",
-      "Satoshi Tajiri",
-      "Yuji Naka"
-    ],
-    "category": "Divertissement",
-    "difficulty": "normal",
-    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
-  },
-  {
-    "id": "28",
-    "question": "Quelle pâtisserie française est en forme de petit pain ?",
-    "answer": "Croissant",
-    "badAnswers": [
-      "Éclair",
-      "Mille-feuille",
-      "Tarte Tatin"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Bien que d'origine autrichienne (le kipferl), le croissant a été popularisé en France au 19e siècle."
-  },
-  {
-    "id": "488",
-    "question": "Quel est la capitale de l'Indonésie ?",
-    "answer": "Jakarta",
-    "badAnswers": [
-      "Bali",
-      "Surabaya",
-      "Bandung"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Jakarta est la capitale de l'Indonésie, une métropole animée située sur l'île de Java. Bali, Surabaya et Bandung sont d'autres destinations indonésiennes, mais pas la capitale."
-  },
-  {
-    "id": "765",
-    "question": "Quel est le nom du dieu grec des enfers ?",
-    "answer": "Hadès",
-    "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Arès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hadès est le dieu grec des enfers, régnant sur le monde souterrain. Zeus est le dieu du ciel, Poséidon de la mer, et Arès de la guerre."
-  },
-  {
-    "id": "30",
-    "question": "Quelle entreprise a développé le système d'exploitation Windows ?",
-    "answer": "Microsoft",
-    "badAnswers": [
-      "Apple",
-      "IBM",
-      "Google"
-    ],
-    "category": "Economie",
-    "difficulty": "facile",
-    "description": "Lancé en 1985, Windows équipe aujourd'hui environ 75% des ordinateurs personnels dans le monde."
-  },
-  {
-    "id": "608",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
-    "answer": "Boba Fett",
-    "badAnswers": [
-      "Jango Fett",
-      "Bossk",
-      "Dengar"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
-  },
-  {
-    "id": "207",
-    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
-    "answer": "Chasseur de primes",
-    "badAnswers": [
-      "Sénateur",
-      "Vendeur de droïdes",
-      "Musicien"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
-  },
-  {
-    "id": "135",
-    "question": "En astronomie, quelle est la classification du Soleil ?",
-    "answer": "Une étoile naine jaune",
-    "badAnswers": [
-      "Une nébuleuse",
-      "Une étoile géante rouge",
-      "Un pulsar"
+      "Syndrome de Flip-Flop",
+      "Cerveau divisé",
+      "Vision aveugle"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le Soleil est classé comme une étoile naine jaune de type G2V. Une nébuleuse est un nuage de gaz, une étoile géante rouge est une phase ultérieure, et un pulsar est une étoile à neutrons."
+    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
   },
   {
-    "id": "1087",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
-    "answer": "The Artist",
+    "id": "580",
+    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "Hugo",
-      "The Descendants",
-      "Midnight in Paris"
+      "Jean-Paul Sartre",
+      "André Malraux",
+      "Antoine de Saint-Exupéry"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1095",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
+    "answer": "Chlore",
+    "badAnswers": [
+      "Chrome",
+      "Césium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+  },
+  {
+    "id": "81",
+    "question": "Qui a dirigé 'Le Parrain' ?",
+    "answer": "Francis Ford Coppola",
+    "badAnswers": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Alfred Hitchcock"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
+    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
   },
   {
-    "id": "391",
-    "question": "Dans Fortnite, quel est le nom de la tempête qui réduit la zone de jeu ?",
-    "answer": "Tempête",
+    "id": "598",
+    "question": "Quel est le nom de l'auteur de 'Les Liaisons dangereuses' ?",
+    "answer": "Pierre Choderlos de Laclos",
     "badAnswers": [
-      "Ouragan",
-      "Typhon",
-      "Cyclone"
+      "Marquis de Sade",
+      "Denis Diderot",
+      "Jean-Jacques Rousseau"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Pierre Choderlos de Laclos a écrit Les Liaisons dangereuses (1782), un roman épistolaire sur les intrigues amoureuses et la manipulation. De Sade, Diderot et Rousseau sont d'autres écrivains du XVIIIe siècle, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1327",
+    "question": "Quel est la capitale du Guatemala ?",
+    "answer": "Guatemala",
+    "badAnswers": [
+      "Antigua",
+      "Quetzaltenango",
+      "Escuintla"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Guatemala, capitale du Guatemala, est une ville située dans une vallée montagneuse, connue pour ses marchés et son patrimoine maya."
+  },
+  {
+    "id": "1953",
+    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
+  },
+  {
+    "id": "1844",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "Paul Zoll",
+      "Rune Elmqvist",
+      "Earl Bakken"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+  },
+  {
+    "id": "635",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Animal Crossing ?",
+    "answer": "Villageois",
+    "badAnswers": [
+      "Isabelle",
+      "Tom Nook",
+      "K.K. Slider"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Fortnite, la Tempête est la mécanique qui réduit progressivement la zone de jeu, obligeant les joueurs à se rapprocher. Elle inflige des dégâts aux joueurs à l’extérieur de la zone sûre. Ouragan, typhon et cyclone sont des termes météorologiques, mais ne sont pas utilisés dans le jeu."
+    "description": "Le Villageois est le protagoniste générique de la série Animal Crossing et un personnage jouable dans Super Smash Bros. Ultimate. Isabelle, Tom Nook et K.K. Slider sont d'autres personnages de la série."
+  },
+  {
+    "id": "980",
+    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
+    "answer": "Luke la main froide",
+    "badAnswers": [
+      "Bonnie and Clyde",
+      "Le Lauréat",
+      "Dans la chaleur de la nuit"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
   }
 ]
