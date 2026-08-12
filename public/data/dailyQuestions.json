@@ -1,86 +1,86 @@
 [
   {
-    "id": "293",
-    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
-    "answer": "Dissonance cognitive",
+    "id": "1193",
+    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
+    "answer": "Queen et David Bowie",
     "badAnswers": [
-      "Syndrome de Flip-Flop",
-      "Cerveau divisé",
-      "Vision aveugle"
+      "The Rolling Stones",
+      "U2",
+      "The Who"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
-  },
-  {
-    "id": "580",
-    "question": "Quel est le nom de l'auteur de 'La Peste' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "André Malraux",
-      "Antoine de Saint-Exupéry"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit La Peste (1947), un roman allégorique sur une épidémie à Oran, explorant l'absurde et la solidarité. Sartre, Malraux et Saint-Exupéry sont d'autres écrivains français, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1095",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cl ?",
-    "answer": "Chlore",
-    "badAnswers": [
-      "Chrome",
-      "Césium",
-      "Carbone"
-    ],
-    "category": "Science",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le chlore, symbolisé par Cl, est un gaz utilisé pour la désinfection de l'eau et la production de produits chimiques, mais il est toxique à forte dose."
+    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
   },
   {
-    "id": "81",
-    "question": "Qui a dirigé 'Le Parrain' ?",
-    "answer": "Francis Ford Coppola",
+    "id": "1056",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
+    "answer": "Uncharted",
     "badAnswers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Alfred Hitchcock"
+      "Tomb Raider",
+      "The Last of Us",
+      "Far Cry"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
   },
   {
-    "id": "598",
-    "question": "Quel est le nom de l'auteur de 'Les Liaisons dangereuses' ?",
-    "answer": "Pierre Choderlos de Laclos",
+    "id": "1621",
+    "question": "Quel est la capitale de la Tanzanie ?",
+    "answer": "Dodoma",
     "badAnswers": [
-      "Marquis de Sade",
-      "Denis Diderot",
-      "Jean-Jacques Rousseau"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Pierre Choderlos de Laclos a écrit Les Liaisons dangereuses (1782), un roman épistolaire sur les intrigues amoureuses et la manipulation. De Sade, Diderot et Rousseau sont d'autres écrivains du XVIIIe siècle, mais n'ont pas écrit ce roman."
-  },
-  {
-    "id": "1327",
-    "question": "Quel est la capitale du Guatemala ?",
-    "answer": "Guatemala",
-    "badAnswers": [
-      "Antigua",
-      "Quetzaltenango",
-      "Escuintla"
+      "Dar es Salaam",
+      "Arusha",
+      "Mwanza"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Guatemala, capitale du Guatemala, est une ville située dans une vallée montagneuse, connue pour ses marchés et son patrimoine maya."
+    "difficulty": "normal",
+    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
   },
   {
-    "id": "1953",
-    "question": "Quel est le nom de l'auteur de 'Les Yeux d'Elsa' ?",
-    "answer": "Louis Aragon",
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
+    "badAnswers": [
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
+  },
+  {
+    "id": "1889",
+    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+  },
+  {
+    "id": "197",
+    "question": "Sous quel numéro est connu le personnage campé par Millie Bobby Brown dans Stranger Things ?",
+    "answer": "Le 11",
+    "badAnswers": [
+      "Le 9",
+      "Le 7",
+      "Le 15"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Millie Bobby Brown incarne 'Onze' (El), une enfant dotée de pouvoirs psychiques dans 'Stranger Things'. Les autres numéros ne correspondent pas à son personnage."
+  },
+  {
+    "id": "1937",
+    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -88,45 +88,45 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Yeux d'Elsa' (1942), un recueil de poèmes dédié à sa muse, Elsa Triolet."
+    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
   },
   {
-    "id": "1844",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
-    "answer": "Wilson Greatbatch",
+    "id": "1240",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2002 ?",
+    "answer": "Chicago",
     "badAnswers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Earl Bakken"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
-  },
-  {
-    "id": "635",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Animal Crossing ?",
-    "answer": "Villageois",
-    "badAnswers": [
-      "Isabelle",
-      "Tom Nook",
-      "K.K. Slider"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Villageois est le protagoniste générique de la série Animal Crossing et un personnage jouable dans Super Smash Bros. Ultimate. Isabelle, Tom Nook et K.K. Slider sont d'autres personnages de la série."
-  },
-  {
-    "id": "980",
-    "question": "Quel film contient la réplique : 'Ce qu'on a ici, c'est un échec de communication.' ?",
-    "answer": "Luke la main froide",
-    "badAnswers": [
-      "Bonnie and Clyde",
-      "Le Lauréat",
-      "Dans la chaleur de la nuit"
+      "The Pianist",
+      "Gangs of New York",
+      "The Hours"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Cette réplique célèbre vient du film Luke la main froide (Cool Hand Luke, 1967), où Paul Newman incarne un prisonnier rebelle face à l'autorité."
+    "description": "Chicago, réalisé par Rob Marshall, a remporté l'Oscar du meilleur film en 2002, une comédie musicale sur le crime et la célébrité."
+  },
+  {
+    "id": "1317",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
+    "answer": "The Last Emperor",
+    "badAnswers": [
+      "Moonstruck",
+      "Fatal Attraction",
+      "Broadcast News"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+  },
+  {
+    "id": "1291",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1993 ?",
+    "answer": "Schindler's List",
+    "badAnswers": [
+      "The Piano",
+      "The Fugitive",
+      "In the Name of the Father"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Schindler's List, réalisé par Steven Spielberg, a remporté l'Oscar du meilleur film en 1993, un drame poignant sur l'Holocauste."
   }
 ]
