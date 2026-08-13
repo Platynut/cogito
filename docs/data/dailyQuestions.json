@@ -1,132 +1,132 @@
 [
   {
-    "id": "1193",
-    "question": "Quel est le nom du groupe qui a chanté 'Under Pressure' ?",
-    "answer": "Queen et David Bowie",
+    "id": "1245",
+    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
+    "answer": "Gabriel Fahrenheit",
+    "badAnswers": [
+      "Anders Celsius",
+      "Galilée",
+      "William Thomson"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
+  },
+  {
+    "id": "1072",
+    "question": "Quel est la capitale de l'Allemagne ?",
+    "answer": "Berlin",
+    "badAnswers": [
+      "Munich",
+      "Hambourg",
+      "Francfort"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Berlin, capitale de l'Allemagne, est une ville riche en histoire, connue pour des sites comme la Porte de Brandebourg et le Mur de Berlin."
+  },
+  {
+    "id": "332",
+    "question": "Quel élément chimique a le numéro atomique 1 ?",
+    "answer": "Hydrogène",
+    "badAnswers": [
+      "Hélium",
+      "Lithium",
+      "Carbone"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'hydrogène, avec le numéro atomique 1, est le premier élément du tableau périodique. C'est l'élément le plus simple, composé d'un proton et d'un électron, et le plus abondant dans l'univers. L'hélium (2), le lithium (3) et le carbone (6) ont des numéros atomiques supérieurs."
+  },
+  {
+    "id": "1631",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
+    "answer": "Max Knoll",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Robert Hooke",
+      "Antonie van Leeuwenhoek"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
+  },
+  {
+    "id": "1922",
+    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
+    "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
-      "U2",
-      "The Who"
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Under Pressure', sorti en 1981, est une collaboration légendaire entre Queen et David Bowie, célèbre pour sa ligne de basse iconique."
+    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
   },
   {
-    "id": "1056",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
-    "answer": "Uncharted",
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
     "badAnswers": [
-      "Tomb Raider",
-      "The Last of Us",
-      "Far Cry"
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
-  },
-  {
-    "id": "1621",
-    "question": "Quel est la capitale de la Tanzanie ?",
-    "answer": "Dodoma",
-    "badAnswers": [
-      "Dar es Salaam",
-      "Arusha",
-      "Mwanza"
-    ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Dodoma, capitale de la Tanzanie, est une ville planifiée au centre du pays, remplaçant Dar es Salaam comme siège administratif."
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
   },
   {
-    "id": "64",
-    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
-    "answer": "Meta",
+    "id": "66",
+    "question": "Quelle est la monnaie officielle de la Suisse ?",
+    "answer": "Franc suisse",
     "badAnswers": [
-      "Google",
-      "Microsoft",
-      "Amazon"
+      "Euro",
+      "Couronne",
+      "Livre"
     ],
     "category": "Economie",
     "difficulty": "normal",
-    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
+    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
   },
   {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "83",
+    "question": "Quel jeu vidéo permet de construire avec des blocs ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "Terraria",
+      "Roblox",
+      "Fortnite Creative"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
-  },
-  {
-    "id": "197",
-    "question": "Sous quel numéro est connu le personnage campé par Millie Bobby Brown dans Stranger Things ?",
-    "answer": "Le 11",
-    "badAnswers": [
-      "Le 9",
-      "Le 7",
-      "Le 15"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Millie Bobby Brown incarne 'Onze' (El), une enfant dotée de pouvoirs psychiques dans 'Stranger Things'. Les autres numéros ne correspondent pas à son personnage."
-  },
-  {
-    "id": "1937",
-    "question": "Quel est le nom de l'auteur de 'Le Deuxième Sexe' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Deuxième Sexe' (1949), un essai féministe fondamental sur la condition des femmes."
-  },
-  {
-    "id": "1240",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2002 ?",
-    "answer": "Chicago",
-    "badAnswers": [
-      "The Pianist",
-      "Gangs of New York",
-      "The Hours"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Chicago, réalisé par Rob Marshall, a remporté l'Oscar du meilleur film en 2002, une comédie musicale sur le crime et la célébrité."
-  },
-  {
-    "id": "1317",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
-    "answer": "The Last Emperor",
-    "badAnswers": [
-      "Moonstruck",
-      "Fatal Attraction",
-      "Broadcast News"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
-  },
-  {
-    "id": "1291",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1993 ?",
-    "answer": "Schindler's List",
-    "badAnswers": [
-      "The Piano",
-      "The Fugitive",
-      "In the Name of the Father"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Schindler's List, réalisé par Steven Spielberg, a remporté l'Oscar du meilleur film en 1993, un drame poignant sur l'Holocauste."
+    "description": "Créé par Markus Persson en 2009, Minecraft est le jeu le plus vendu de l'histoire avec plus de 238 millions d'exemplaires en 2023."
+  },
+  {
+    "id": "1006",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
+    "answer": "BioShock",
+    "badAnswers": [
+      "Half-Life",
+      "Portal",
+      "Dead Space"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
+  },
+  {
+    "id": "1210",
+    "question": "Quel est la capitale du Soudan ?",
+    "answer": "Khartoum",
+    "badAnswers": [
+      "Omdurman",
+      "Port-Soudan",
+      "Kassala"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Khartoum, capitale du Soudan, est située au confluent du Nil Bleu et du Nil Blanc, un centre politique et économique clé."
   }
 ]
