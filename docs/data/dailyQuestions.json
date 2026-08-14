@@ -1,132 +1,132 @@
 [
   {
-    "id": "1245",
-    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
-    "answer": "Gabriel Fahrenheit",
+    "id": "1612",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mc ?",
+    "answer": "Moscovium",
     "badAnswers": [
-      "Anders Celsius",
-      "Galilée",
-      "William Thomson"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
-  },
-  {
-    "id": "1072",
-    "question": "Quel est la capitale de l'Allemagne ?",
-    "answer": "Berlin",
-    "badAnswers": [
-      "Munich",
-      "Hambourg",
-      "Francfort"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Berlin, capitale de l'Allemagne, est une ville riche en histoire, connue pour des sites comme la Porte de Brandebourg et le Mur de Berlin."
-  },
-  {
-    "id": "332",
-    "question": "Quel élément chimique a le numéro atomique 1 ?",
-    "answer": "Hydrogène",
-    "badAnswers": [
-      "Hélium",
-      "Lithium",
-      "Carbone"
+      "Magnésium",
+      "Molybdène",
+      "Mendélévium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "L'hydrogène, avec le numéro atomique 1, est le premier élément du tableau périodique. C'est l'élément le plus simple, composé d'un proton et d'un électron, et le plus abondant dans l'univers. L'hélium (2), le lithium (3) et le carbone (6) ont des numéros atomiques supérieurs."
-  },
-  {
-    "id": "1631",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage électronique ?",
-    "answer": "Max Knoll",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek"
-    ],
-    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Max Knoll, avec Ernst Ruska, a développé le premier microscope à balayage électronique dans les années 1930, révolutionnant l'imagerie microscopique."
+    "description": "Le moscovium, symbolisé par Mc, est un élément radioactif synthétique, nommé d'après la région de Moscou, utilisé dans la recherche."
   },
   {
-    "id": "1922",
-    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
-    "answer": "The Beatles",
+    "id": "1502",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pu ?",
+    "answer": "Plutonium",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Palladium",
+      "Plomb",
+      "Protactinium"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
-  },
-  {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
-    ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+    "description": "Le plutonium, symbolisé par Pu, est un élément radioactif utilisé dans les réacteurs nucléaires et les armes atomiques."
   },
   {
-    "id": "66",
-    "question": "Quelle est la monnaie officielle de la Suisse ?",
-    "answer": "Franc suisse",
+    "id": "564",
+    "question": "Quel est la capitale du Pérou ?",
+    "answer": "Lima",
     "badAnswers": [
-      "Euro",
-      "Couronne",
-      "Livre"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Bien que la Suisse soit enclavée dans l'UE, elle a conservé sa monnaie (CHF). C'est l'une des devises les plus stables au monde."
-  },
-  {
-    "id": "83",
-    "question": "Quel jeu vidéo permet de construire avec des blocs ?",
-    "answer": "Minecraft",
-    "badAnswers": [
-      "Terraria",
-      "Roblox",
-      "Fortnite Creative"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Créé par Markus Persson en 2009, Minecraft est le jeu le plus vendu de l'histoire avec plus de 238 millions d'exemplaires en 2023."
-  },
-  {
-    "id": "1006",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Big Daddy ?",
-    "answer": "BioShock",
-    "badAnswers": [
-      "Half-Life",
-      "Portal",
-      "Dead Space"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Big Daddy est un personnage emblématique de BioShock, des protecteurs imposants des Petites Sœurs dans la ville sous-marine dystopique de Rapture."
-  },
-  {
-    "id": "1210",
-    "question": "Quel est la capitale du Soudan ?",
-    "answer": "Khartoum",
-    "badAnswers": [
-      "Omdurman",
-      "Port-Soudan",
-      "Kassala"
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
     ],
     "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+  },
+  {
+    "id": "446",
+    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
+  },
+  {
+    "id": "1514",
+    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
+    "answer": "Mark Twain",
+    "badAnswers": [
+      "Herman Melville",
+      "Jack London",
+      "Nathaniel Hawthorne"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+  },
+  {
+    "id": "2093",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disquette ?",
+    "answer": "Alan Shugart",
+    "badAnswers": [
+      "Reynold Johnson",
+      "David Noble",
+      "Bill Gates"
+    ],
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Khartoum, capitale du Soudan, est située au confluent du Nil Bleu et du Nil Blanc, un centre politique et économique clé."
+    "description": "Alan Shugart a développé le premier lecteur de disquette 8 pouces chez IBM au début des années 1970, révolutionnant le stockage de données."
+  },
+  {
+    "id": "15",
+    "question": "Qui est le créateur de Mario ?",
+    "answer": "Shigeru Miyamoto",
+    "badAnswers": [
+      "Hideo Kojima",
+      "Satoshi Tajiri",
+      "Yuji Naka"
+    ],
+    "category": "Divertissement",
+    "difficulty": "normal",
+    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
+  },
+  {
+    "id": "606",
+    "question": "Quel est la capitale de l'Espagne ?",
+    "answer": "Madrid",
+    "badAnswers": [
+      "Barcelone",
+      "Séville",
+      "Valence"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+  },
+  {
+    "id": "2127",
+    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
+    "answer": "Jean Cocteau",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
+  },
+  {
+    "id": "200",
+    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+    "answer": "Ubac",
+    "badAnswers": [
+      "Adret",
+      "Étang",
+      "Ressac"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
   }
 ]
