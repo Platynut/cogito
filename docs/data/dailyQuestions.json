@@ -1,132 +1,132 @@
 [
   {
-    "id": "1612",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mc ?",
-    "answer": "Moscovium",
+    "id": "395",
+    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
+    "answer": "3",
     "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mendélévium"
+      "7",
+      "5",
+      "10"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le moscovium, symbolisé par Mc, est un élément radioactif synthétique, nommé d'après la région de Moscou, utilisé dans la recherche."
-  },
-  {
-    "id": "1502",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pu ?",
-    "answer": "Plutonium",
-    "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Protactinium"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le plutonium, symbolisé par Pu, est un élément radioactif utilisé dans les réacteurs nucléaires et les armes atomiques."
+    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
   },
   {
-    "id": "564",
-    "question": "Quel est la capitale du Pérou ?",
-    "answer": "Lima",
+    "id": "911",
+    "question": "Quel artiste a peint La Joconde ?",
+    "answer": "Léonard de Vinci",
     "badAnswers": [
-      "Cusco",
-      "Arequipa",
-      "Trujillo"
+      "Michel-Ange",
+      "Raphaël",
+      "Sandro Botticelli"
     ],
-    "category": "Géographie",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Lima est la capitale du Pérou, une ville côtière abritant le centre historique et le palais présidentiel. Cusco, Arequipa et Trujillo sont d'autres villes péruviennes, mais pas la capitale."
+    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
   },
   {
-    "id": "446",
-    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
-    "answer": "Alexandre Dumas",
+    "id": "476",
+    "question": "Quel est le plus grand serpent du monde ?",
+    "answer": "Anaconda vert",
+    "badAnswers": [
+      "Python réticulé",
+      "Cobra royal",
+      "Vipère de Russell"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L'anaconda vert est le plus grand serpent du monde en termes de poids, pouvant atteindre 200 kg et 9 mètres de long. Le python réticulé est plus long mais plus léger, et le cobra royal et la vipère de Russell sont plus petits."
+  },
+  {
+    "id": "147",
+    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
+    "answer": "Le fémur",
+    "badAnswers": [
+      "Le radius",
+      "Le cubitus",
+      "Le carpe"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
+  },
+  {
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
     "badAnswers": [
       "Victor Hugo",
-      "Honoré de Balzac",
+      "Émile Zola",
       "Gustave Flaubert"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
-  },
-  {
-    "id": "1514",
-    "question": "Quel est le nom de l'auteur de 'Les Aventures de Tom Sawyer' ?",
-    "answer": "Mark Twain",
-    "badAnswers": [
-      "Herman Melville",
-      "Jack London",
-      "Nathaniel Hawthorne"
-    ],
     "category": "Livres",
     "difficulty": "facile",
-    "description": "Mark Twain a écrit 'Les Aventures de Tom Sawyer' (1876), un roman sur les péripéties d'un jeune garçon dans le Missouri."
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
   },
   {
-    "id": "2093",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disquette ?",
-    "answer": "Alan Shugart",
+    "id": "1886",
+    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Reynold Johnson",
-      "David Noble",
-      "Bill Gates"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Alan Shugart a développé le premier lecteur de disquette 8 pouces chez IBM au début des années 1970, révolutionnant le stockage de données."
-  },
-  {
-    "id": "15",
-    "question": "Qui est le créateur de Mario ?",
-    "answer": "Shigeru Miyamoto",
-    "badAnswers": [
-      "Hideo Kojima",
-      "Satoshi Tajiri",
-      "Yuji Naka"
-    ],
-    "category": "Divertissement",
-    "difficulty": "normal",
-    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
-  },
-  {
-    "id": "606",
-    "question": "Quel est la capitale de l'Espagne ?",
-    "answer": "Madrid",
-    "badAnswers": [
-      "Barcelone",
-      "Séville",
-      "Valence"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Madrid est la capitale de l'Espagne, abritant le Palais royal et le musée du Prado. Barcelone, Séville et Valence sont d'autres grandes villes espagnoles, mais pas la capitale."
+    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "2127",
-    "question": "Quel est le nom de l'auteur de 'La Voix humaine' ?",
-    "answer": "Jean Cocteau",
+    "id": "1450",
+    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
+    "answer": "Artémis",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
+      "Séléné",
+      "Héra",
+      "Athéna"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Jean Cocteau a écrit 'La Voix humaine' (1930), une pièce de théâtre sur une conversation téléphonique émotionnelle."
+    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
   },
   {
-    "id": "200",
-    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
-    "answer": "Ubac",
+    "id": "2073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
+    "answer": "Grand Hotel",
     "badAnswers": [
-      "Adret",
-      "Étang",
-      "Ressac"
+      "Dr. Jekyll and Mr. Hyde",
+      "The Champ",
+      "Five Star Final"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
+  },
+  {
+    "id": "483",
+    "question": "Quel scientifique a découvert la loi de la conservation de la masse ?",
+    "answer": "Antoine Lavoisier",
+    "badAnswers": [
+      "John Dalton",
+      "Joseph Priestley",
+      "Dmitri Mendeleïev"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Antoine Lavoisier a formulé la loi de la conservation de la masse au XVIIIe siècle, établissant que la masse des réactifs égale celle des produits dans une réaction chimique. Dalton a développé la théorie atomique, Priestley a découvert l'oxygène, et Mendeleïev le tableau périodique."
+  },
+  {
+    "id": "1686",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mew ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Mew, Pokémon légendaire de type psy, est une créature rare et mythique dans la série Pokémon."
   }
 ]
