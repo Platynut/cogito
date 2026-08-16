@@ -1,132 +1,132 @@
 [
   {
-    "id": "395",
-    "question": "Dans The Legend of Zelda: Majora’s Mask, combien de jours le joueur a-t-il pour sauver le monde ?",
-    "answer": "3",
+    "id": "1197",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2010 ?",
+    "answer": "The King's Speech",
     "badAnswers": [
-      "7",
-      "5",
-      "10"
+      "The Social Network",
+      "Inception",
+      "True Grit"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Dans The Legend of Zelda: Majora’s Mask, Link dispose de 72h soit 3j dans le cycle temporel pour empêcher la lune de s’écraser sur Termina. Le joueur peut remonter le temps pour répéter ces 3j. Les autres durées sont incorrectes."
+    "description": "The King's Speech, réalisé par Tom Hooper, a remporté l'Oscar du meilleur film en 2010, racontant l'histoire du roi George VI et son bégaiement."
   },
   {
-    "id": "911",
-    "question": "Quel artiste a peint La Joconde ?",
-    "answer": "Léonard de Vinci",
+    "id": "619",
+    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
+    "answer": "Alain-Fournier",
     "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Sandro Botticelli"
+      "Marcel Proust",
+      "André Gide",
+      "François Mauriac"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Joconde (vers 1503–1506) de Léonard de Vinci est une peinture célèbre pour son sourire. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance."
-  },
-  {
-    "id": "476",
-    "question": "Quel est le plus grand serpent du monde ?",
-    "answer": "Anaconda vert",
-    "badAnswers": [
-      "Python réticulé",
-      "Cobra royal",
-      "Vipère de Russell"
-    ],
-    "category": "Animaux",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "L'anaconda vert est le plus grand serpent du monde en termes de poids, pouvant atteindre 200 kg et 9 mètres de long. Le python réticulé est plus long mais plus léger, et le cobra royal et la vipère de Russell sont plus petits."
+    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "147",
-    "question": "Quel os du squelette humain est le plus long et le plus solide ?",
-    "answer": "Le fémur",
+    "id": "1139",
+    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
+    "answer": "The Killers",
     "badAnswers": [
-      "Le radius",
-      "Le cubitus",
-      "Le carpe"
-    ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le fémur, situé dans la cuisse, est l'os le plus long et le plus résistant du corps humain. Le radius et le cubitus sont des os de l'avant-bras, tandis que le carpe appartient au poignet."
-  },
-  {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
-    "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
-  },
-  {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "The Strokes",
+      "Arctic Monkeys",
+      "Franz Ferdinand"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
   },
   {
-    "id": "1450",
-    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
-    "answer": "Artémis",
+    "id": "29",
+    "question": "Quel pays n'est pas membre permanent du Conseil de sécurité de l'ONU ?",
+    "answer": "Allemagne",
     "badAnswers": [
-      "Séléné",
-      "Héra",
-      "Athéna"
+      "France",
+      "Russie",
+      "Chine"
     ],
-    "category": "Mythologie",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
+    "description": "Depuis 1945, les cinq membres permanents du Conseil de sécurité de l'ONU sont la Chine, la France, la Russie (anciennement l'URSS), le Royaume-Uni et les États-Unis. L'Allemagne, malgré son importance économique et politique actuelle, n'en fait pas partie, notamment en raison de l'organisation du monde d'après-guerre et des accords internationaux établis à la fin de la Seconde Guerre mondiale."
   },
   {
-    "id": "2073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
-    "answer": "Grand Hotel",
+    "id": "623",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Dream Coil ?",
+    "answer": "Puck",
     "badAnswers": [
-      "Dr. Jekyll and Mr. Hyde",
-      "The Champ",
-      "Five Star Final"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
-  },
-  {
-    "id": "483",
-    "question": "Quel scientifique a découvert la loi de la conservation de la masse ?",
-    "answer": "Antoine Lavoisier",
-    "badAnswers": [
-      "John Dalton",
-      "Joseph Priestley",
-      "Dmitri Mendeleïev"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Antoine Lavoisier a formulé la loi de la conservation de la masse au XVIIIe siècle, établissant que la masse des réactifs égale celle des produits dans une réaction chimique. Dalton a développé la théorie atomique, Priestley a découvert l'oxygène, et Mendeleïev le tableau périodique."
-  },
-  {
-    "id": "1686",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mew ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Invoker",
+      "Rubick",
+      "Storm Spirit"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Puck est un héros de Dota 2 connu pour son sort ultime Dream Coil, qui immobilise et endommage les ennemis. Invoker, Rubick et Storm Spirit sont d'autres héros magiques, mais n'ont pas ce sort."
+  },
+  {
+    "id": "2097",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
+    "answer": "Fritz Pfleumer",
+    "badAnswers": [
+      "Valdemar Poulsen",
+      "Oberlin Smith",
+      "Thomas Edison"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
+  },
+  {
+    "id": "1488",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
+    "answer": "The Bridge on the River Kwai",
+    "badAnswers": [
+      "12 Angry Men",
+      "Sayonara",
+      "Peyton Place"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
+  },
+  {
+    "id": "758",
+    "question": "Quel artiste a peint L'Angélus ?",
+    "answer": "Jean-François Millet",
+    "badAnswers": [
+      "Gustave Courbet",
+      "Édouard Manet",
+      "Claude Monet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "351",
+    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
+    "answer": "James Watt",
+    "badAnswers": [
+      "George Stephenson",
+      "Thomas Newcomen",
+      "Richard Trevithick"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
+  },
+  {
+    "id": "1608",
+    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
+    "answer": "Pearl Jam",
+    "badAnswers": [
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Mew, Pokémon légendaire de type psy, est une créature rare et mythique dans la série Pokémon."
+    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
   }
 ]
