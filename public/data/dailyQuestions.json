@@ -1,132 +1,132 @@
 [
   {
-    "id": "1197",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2010 ?",
-    "answer": "The King's Speech",
+    "id": "1527",
+    "question": "Quel est la capitale du Burkina Faso ?",
+    "answer": "Ouagadougou",
     "badAnswers": [
-      "The Social Network",
-      "Inception",
-      "True Grit"
+      "Bobo-Dioulasso",
+      "Koudougou",
+      "Banfora"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Ouagadougou, capitale du Burkina Faso, est un centre culturel connu pour son festival de cinéma FESPACO et ses marchés artisanaux."
+  },
+  {
+    "id": "1438",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
+    "answer": "Rhénium",
+    "badAnswers": [
+      "Ruthénium",
+      "Rhodium",
+      "Radon"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
+  },
+  {
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
+    "badAnswers": [
+      "Londres",
+      "Rome",
+      "Lisbonne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
+  },
+  {
+    "id": "1566",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
+    "answer": "Going My Way",
+    "badAnswers": [
+      "Gaslight",
+      "Since You Went Away",
+      "Wilson"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The King's Speech, réalisé par Tom Hooper, a remporté l'Oscar du meilleur film en 2010, racontant l'histoire du roi George VI et son bégaiement."
+    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
   },
   {
-    "id": "619",
-    "question": "Quel est le nom de l'auteur de 'Le Grand Meaulnes' ?",
-    "answer": "Alain-Fournier",
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
     "badAnswers": [
-      "Marcel Proust",
-      "André Gide",
-      "François Mauriac"
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+  },
+  {
+    "id": "1213",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2006 ?",
+    "answer": "The Departed",
+    "badAnswers": [
+      "The Queen",
+      "Babel",
+      "Little Miss Sunshine"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Departed, réalisé par Martin Scorsese, a remporté l'Oscar du meilleur film en 2006, un thriller sur la mafia et la corruption."
+  },
+  {
+    "id": "663",
+    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
+    "answer": "Armando Dippet",
+    "badAnswers": [
+      "Phineas Nigellus",
+      "Dexter Fortescue",
+      "Dilys Derwent"
     ],
     "category": "Littérature",
     "difficulty": "normal",
-    "description": "Alain-Fournier a écrit Le Grand Meaulnes (1913), un roman romantique sur la jeunesse et l'amour perdu. Proust, Gide et Mauriac sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
   },
   {
-    "id": "1139",
-    "question": "Quel est le nom du groupe qui a chanté 'Mr. Brightside' ?",
-    "answer": "The Killers",
+    "id": "1100",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "The Strokes",
-      "Arctic Monkeys",
-      "Franz Ferdinand"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Mr. Brightside', sorti en 2003 par The Killers, est une chanson rock devenue un classique, tirée de l'album Hot Fuss."
-  },
-  {
-    "id": "29",
-    "question": "Quel pays n'est pas membre permanent du Conseil de sécurité de l'ONU ?",
-    "answer": "Allemagne",
-    "badAnswers": [
-      "France",
-      "Russie",
-      "Chine"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Depuis 1945, les cinq membres permanents du Conseil de sécurité de l'ONU sont la Chine, la France, la Russie (anciennement l'URSS), le Royaume-Uni et les États-Unis. L'Allemagne, malgré son importance économique et politique actuelle, n'en fait pas partie, notamment en raison de l'organisation du monde d'après-guerre et des accords internationaux établis à la fin de la Seconde Guerre mondiale."
-  },
-  {
-    "id": "623",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Dream Coil ?",
-    "answer": "Puck",
-    "badAnswers": [
-      "Invoker",
-      "Rubick",
-      "Storm Spirit"
+      "Super Smash Bros.",
+      "Animal Crossing",
+      "Splatoon"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Puck est un héros de Dota 2 connu pour son sort ultime Dream Coil, qui immobilise et endommage les ennemis. Invoker, Rubick et Storm Spirit sont d'autres héros magiques, mais n'ont pas ce sort."
-  },
-  {
-    "id": "2097",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
-    "answer": "Fritz Pfleumer",
-    "badAnswers": [
-      "Valdemar Poulsen",
-      "Oberlin Smith",
-      "Thomas Edison"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
-  },
-  {
-    "id": "1488",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
-    "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
-  },
-  {
-    "id": "758",
-    "question": "Quel artiste a peint L'Angélus ?",
-    "answer": "Jean-François Millet",
-    "badAnswers": [
-      "Gustave Courbet",
-      "Édouard Manet",
-      "Claude Monet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "351",
-    "question": "Quel est le nom de l'inventeur de la machine à vapeur moderne ?",
-    "answer": "James Watt",
-    "badAnswers": [
-      "George Stephenson",
-      "Thomas Newcomen",
-      "Richard Trevithick"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "James Watt a perfectionné la machine à vapeur au XVIIIe siècle, rendant possible la révolution industrielle. Ses améliorations, comme le condenseur séparé, ont révolutionné l'industrie. Thomas Newcomen a créé une version antérieure, Stephenson a développé des locomotives, et Trevithick a utilisé la vapeur pour les transports."
-  },
-  {
-    "id": "1608",
-    "question": "Quel est le nom du groupe qui a chanté 'Jeremy' ?",
-    "answer": "Pearl Jam",
-    "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jeremy', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten, abordant des thèmes sociaux."
+    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+  },
+  {
+    "id": "1975",
+    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
+    "answer": "Louis Aragon",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
+  },
+  {
+    "id": "149",
+    "question": "Quel est l'animal emblématique de l'Australie ?",
+    "answer": "Kangourou",
+    "badAnswers": [
+      "Koala",
+      "Crocodile",
+      "Émeu"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
   }
 ]
