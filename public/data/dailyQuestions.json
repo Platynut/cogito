@@ -1,132 +1,132 @@
 [
   {
-    "id": "1527",
-    "question": "Quel est la capitale du Burkina Faso ?",
-    "answer": "Ouagadougou",
+    "id": "521",
+    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
+    "answer": "Yoshi",
     "badAnswers": [
-      "Bobo-Dioulasso",
-      "Koudougou",
-      "Banfora"
+      "Toad",
+      "Luigi",
+      "Bowser"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Ouagadougou, capitale du Burkina Faso, est un centre culturel connu pour son festival de cinéma FESPACO et ses marchés artisanaux."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
   },
   {
-    "id": "1438",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Re ?",
-    "answer": "Rhénium",
+    "id": "343",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
+    "answer": "Plateau du Prélude",
     "badAnswers": [
-      "Ruthénium",
-      "Rhodium",
-      "Radon"
+      "Plaine d'Hyrule",
+      "Montagne de la Mort",
+      "Désert Gerudo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+  },
+  {
+    "id": "169",
+    "question": "Quelle est la signification étymologique du mot dinosaure ?",
+    "answer": "Terrible lézard",
+    "badAnswers": [
+      "Monstre géant",
+      "Animal préhistorique",
+      "Redoutable prédateur"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le rhénium, symbolisé par Re, est un métal rare utilisé dans les alliages pour moteurs à réaction et les catalyseurs chimiques."
+    "difficulty": "normal",
+    "description": "Le mot 'dinosaure' vient du grec 'deinos' (terrible) et 'sauros' (lézard). Les autres propositions sont des approximations incorrectes."
   },
   {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
+    "id": "1603",
+    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
+    "answer": "Pearl Jam",
     "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
+    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
   },
   {
-    "id": "1566",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
-    "answer": "Going My Way",
+    "id": "47",
+    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "Gaslight",
-      "Since You Went Away",
-      "Wilson"
+      "Led Zeppelin",
+      "The Beatles",
+      "The Rolling Stones"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
-  },
-  {
-    "id": "1213",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2006 ?",
-    "answer": "The Departed",
-    "badAnswers": [
-      "The Queen",
-      "Babel",
-      "Little Miss Sunshine"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Departed, réalisé par Martin Scorsese, a remporté l'Oscar du meilleur film en 2006, un thriller sur la mafia et la corruption."
-  },
-  {
-    "id": "663",
-    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
-    "answer": "Armando Dippet",
-    "badAnswers": [
-      "Phineas Nigellus",
-      "Dexter Fortescue",
-      "Dilys Derwent"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
-  },
-  {
-    "id": "1100",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pikachu ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Smash Bros.",
-      "Animal Crossing",
-      "Splatoon"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Pikachu, la mascotte emblématique de la franchise Pokémon, est un Pokémon de type Électrik connu pour sa popularité mondiale."
+    "description": "Sorti en 1973, cet album conceptuel a été classé 55 semaines consécutives n°1 aux États-Unis."
   },
   {
-    "id": "1975",
-    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
-    "answer": "Louis Aragon",
+    "id": "1831",
+    "question": "Quel est le nom de l'auteur de 'Spleen de Paris' ?",
+    "answer": "Charles Baudelaire",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
+    "description": "Charles Baudelaire a écrit 'Spleen de Paris' (1869), un recueil de poèmes en prose sur la vie urbaine."
   },
   {
-    "id": "149",
-    "question": "Quel est l'animal emblématique de l'Australie ?",
-    "answer": "Kangourou",
+    "id": "1528",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
+    "answer": "All About Eve",
     "badAnswers": [
-      "Koala",
-      "Crocodile",
-      "Émeu"
+      "Sunset Boulevard",
+      "Born Yesterday",
+      "King Solomon's Mines"
     ],
-    "category": "Nature",
-    "difficulty": "facile",
-    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+  },
+  {
+    "id": "1586",
+    "question": "Quel est la capitale du Lesotho ?",
+    "answer": "Maseru",
+    "badAnswers": [
+      "Teyateyaneng",
+      "Leribe",
+      "Mafeteng"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
+  },
+  {
+    "id": "828",
+    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 7 avec un thème glacé ?",
+    "answer": "Frosty Flights",
+    "badAnswers": [
+      "Polar Peak",
+      "Happy Hamlet",
+      "Sunny Steps"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Frosty Flights est un lieu de Fortnite introduit dans la saison 7, avec un thème glacé et des avions. Polar Peak et Happy Hamlet sont d'autres lieux de la saison, et Sunny Steps est de la saison 8."
+  },
+  {
+    "id": "192",
+    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
+    "answer": "150 millions de km",
+    "badAnswers": [
+      "4 millions de km",
+      "60 millions de km",
+      "350 millions de km"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
   }
 ]
