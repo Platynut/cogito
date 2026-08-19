@@ -1,132 +1,132 @@
 [
   {
-    "id": "521",
-    "question": "Dans Super Mario World, quel est le nom du dinosaure qui aide Mario ?",
-    "answer": "Yoshi",
+    "id": "1002",
+    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
+    "answer": "Abel Tasman",
     "badAnswers": [
-      "Toad",
-      "Luigi",
-      "Bowser"
+      "Christophe Colomb",
+      "Jeanne Baré",
+      "John Cabot"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est le dinosaure qui aide Mario dans Super Mario World, permettant de manger des ennemis et de planer. Toad est un allié, Luigi son frère, et Bowser l'antagoniste."
-  },
-  {
-    "id": "343",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
-    "answer": "Plateau du Prélude",
-    "badAnswers": [
-      "Plaine d'Hyrule",
-      "Montagne de la Mort",
-      "Désert Gerudo"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
   },
   {
-    "id": "169",
-    "question": "Quelle est la signification étymologique du mot dinosaure ?",
-    "answer": "Terrible lézard",
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
     "badAnswers": [
-      "Monstre géant",
-      "Animal préhistorique",
-      "Redoutable prédateur"
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le mot 'dinosaure' vient du grec 'deinos' (terrible) et 'sauros' (lézard). Les autres propositions sont des approximations incorrectes."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
   },
   {
-    "id": "1603",
-    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
-    "answer": "Pearl Jam",
+    "id": "735",
+    "question": "Quel est la capitale de l'Irlande ?",
+    "answer": "Dublin",
     "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
+      "Cork",
+      "Galway",
+      "Limerick"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
+    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
   },
   {
-    "id": "47",
-    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' ?",
-    "answer": "Pink Floyd",
+    "id": "2052",
+    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
+    "answer": "James Joyce",
     "badAnswers": [
-      "Led Zeppelin",
-      "The Beatles",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Sorti en 1973, cet album conceptuel a été classé 55 semaines consécutives n°1 aux États-Unis."
-  },
-  {
-    "id": "1831",
-    "question": "Quel est le nom de l'auteur de 'Spleen de Paris' ?",
-    "answer": "Charles Baudelaire",
-    "badAnswers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Charles Baudelaire a écrit 'Spleen de Paris' (1869), un recueil de poèmes en prose sur la vie urbaine."
+    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
   },
   {
-    "id": "1528",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1950 ?",
-    "answer": "All About Eve",
+    "id": "194",
+    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
+    "answer": "Du dioxyde de carbone",
     "badAnswers": [
-      "Sunset Boulevard",
-      "Born Yesterday",
-      "King Solomon's Mines"
+      "De l'oxygène",
+      "Du glucose",
+      "De l'azote"
     ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "All About Eve, réalisé par Joseph L. Mankiewicz, a remporté l'Oscar du meilleur film en 1950, un drame sur la rivalité dans le théâtre."
+    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
   },
   {
-    "id": "1586",
-    "question": "Quel est la capitale du Lesotho ?",
-    "answer": "Maseru",
+    "id": "429",
+    "question": "Quel est la capitale de la Russie ?",
+    "answer": "Moscou",
     "badAnswers": [
-      "Teyateyaneng",
-      "Leribe",
-      "Mafeteng"
+      "Saint-Pétersbourg",
+      "Kazan",
+      "Novossibirsk"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
+    "difficulty": "facile",
+    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
   },
   {
-    "id": "828",
-    "question": "Dans Fortnite, quel est le nom du lieu introduit dans la saison 7 avec un thème glacé ?",
-    "answer": "Frosty Flights",
+    "id": "581",
+    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Lothric",
     "badAnswers": [
-      "Polar Peak",
-      "Happy Hamlet",
-      "Sunny Steps"
+      "Lordran",
+      "Drangleic",
+      "Yharnam"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Frosty Flights est un lieu de Fortnite introduit dans la saison 7, avec un thème glacé et des avions. Polar Peak et Happy Hamlet sont d'autres lieux de la saison, et Sunny Steps est de la saison 8."
+    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
   },
   {
-    "id": "192",
-    "question": "Quelle est la distance moyenne qui sépare la Terre du Soleil ?",
-    "answer": "150 millions de km",
+    "id": "632",
+    "question": "Quel est le nom du plus grand volcan d'Asie ?",
+    "answer": "Mont Baekdu",
     "badAnswers": [
-      "4 millions de km",
-      "60 millions de km",
-      "350 millions de km"
+      "Mont Fuji",
+      "Mont Mayon",
+      "Mont Pinatubo"
     ],
-    "category": "Astronomie",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "La distance Terre-Soleil est d'environ 150 millions de km, définie comme une unité astronomique (UA). Les autres valeurs sont bien trop faibles ou excessives."
+    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
+  },
+  {
+    "id": "1481",
+    "question": "Quel est la capitale de la Libye ?",
+    "answer": "Tripoli",
+    "badAnswers": [
+      "Benghazi",
+      "Misrata",
+      "Sabha"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
+  },
+  {
+    "id": "490",
+    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
+    "answer": "Bois",
+    "badAnswers": [
+      "Métal",
+      "Pierre",
+      "Brique"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
   }
 ]
