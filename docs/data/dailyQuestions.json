@@ -1,132 +1,132 @@
 [
   {
-    "id": "1002",
-    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
-    "answer": "Abel Tasman",
+    "id": "1279",
+    "question": "Quel est le nom du groupe qui a chanté 'Karma Police' ?",
+    "answer": "Radiohead",
     "badAnswers": [
-      "Christophe Colomb",
-      "Jeanne Baré",
-      "John Cabot"
+      "Coldplay",
+      "Muse",
+      "The Verve"
     ],
-    "category": "Histoire",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
+    "description": "'Karma Police', sorti en 1997 par Radiohead, est une chanson alternative rock tirée de l'album OK Computer, explorant la paranoïa et la justice."
   },
   {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
+    "id": "47",
+    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
+      "Led Zeppelin",
+      "The Beatles",
+      "The Rolling Stones"
     ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
-  },
-  {
-    "id": "735",
-    "question": "Quel est la capitale de l'Irlande ?",
-    "answer": "Dublin",
-    "badAnswers": [
-      "Cork",
-      "Galway",
-      "Limerick"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Dublin est la capitale de l'Irlande, connue pour Trinity College et la rivière Liffey. Cork, Galway et Limerick sont d'autres villes irlandaises, mais pas la capitale."
+    "description": "Sorti en 1973, cet album conceptuel a été classé 55 semaines consécutives n°1 aux États-Unis."
   },
   {
-    "id": "2052",
-    "question": "Quel est le nom de l'auteur de 'Finnegans Wake' ?",
-    "answer": "James Joyce",
+    "id": "1032",
+    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
+    "answer": "Pokémon Rouge et Vert",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "James Joyce a écrit 'Finnegans Wake' (1939), un roman expérimental complexe explorant les rêves et le langage."
-  },
-  {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
-    "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
-  },
-  {
-    "id": "429",
-    "question": "Quel est la capitale de la Russie ?",
-    "answer": "Moscou",
-    "badAnswers": [
-      "Saint-Pétersbourg",
-      "Kazan",
-      "Novossibirsk"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
-  },
-  {
-    "id": "581",
-    "question": "Dans Dark Souls III, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Lothric",
-    "badAnswers": [
-      "Lordran",
-      "Drangleic",
-      "Yharnam"
+      "Pokémon Or et Argent",
+      "Pokémon Jaune",
+      "Pokémon Diamant et Perle"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dark Souls III se déroule dans le royaume de Lothric, où le joueur explore un monde en déclin pour rallumer la Première Flamme. Lordran et Drangleic sont dans Dark Souls et Dark Souls II, et Yharnam dans Bloodborne."
+    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
   },
   {
-    "id": "632",
-    "question": "Quel est le nom du plus grand volcan d'Asie ?",
-    "answer": "Mont Baekdu",
+    "id": "818",
+    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
+    "answer": "Moira",
     "badAnswers": [
-      "Mont Fuji",
-      "Mont Mayon",
-      "Mont Pinatubo"
+      "Sigma",
+      "Winston",
+      "Mercy"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le mont Baekdu, à la frontière entre la Corée du Nord et la Chine, est le plus grand volcan actif d'Asie, culminant à 2 744 mètres. Le mont Fuji, Mayon et Pinatubo sont d'autres volcans, mais moins élevés."
+    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
   },
   {
-    "id": "1481",
-    "question": "Quel est la capitale de la Libye ?",
-    "answer": "Tripoli",
+    "id": "672",
+    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
+    "answer": "Qui-Gon Jinn",
     "badAnswers": [
-      "Benghazi",
-      "Misrata",
-      "Sabha"
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "Mace Windu"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
+    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
   },
   {
-    "id": "490",
-    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
-    "answer": "Bois",
+    "id": "1785",
+    "question": "Quel est le nom du groupe qui a chanté 'Proud Mary' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Métal",
-      "Pierre",
-      "Brique"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Proud Mary', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
+  },
+  {
+    "id": "232",
+    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
+    "answer": "Matrix",
+    "badAnswers": [
+      "Mad Max",
+      "Scream",
+      "Interstellar"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+  },
+  {
+    "id": "824",
+    "question": "Quel est le plus grand serpent du monde ?",
+    "answer": "Python réticulé",
+    "badAnswers": [
+      "Anaconda vert",
+      "Boa constrictor",
+      "Cobra royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
+  },
+  {
+    "id": "1262",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1999 ?",
+    "answer": "American Beauty",
+    "badAnswers": [
+      "The Sixth Sense",
+      "The Green Mile",
+      "The Cider House Rules"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "American Beauty, réalisé par Sam Mendes, a remporté l'Oscar du meilleur film en 1999, explorant les désillusions de la vie suburbaine."
+  },
+  {
+    "id": "124",
+    "question": "En quelle année les jeux FIFA Football ont-ils commencé à être édités ?",
+    "answer": "1993",
+    "badAnswers": [
+      "1994",
+      "1998",
+      "2000"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
+    "description": "La série 'FIFA Football' a débuté en 1993 avec 'FIFA International Soccer'. Les autres années correspondent à des éditions ultérieures."
   }
 ]
