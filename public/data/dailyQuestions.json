@@ -1,132 +1,132 @@
 [
   {
-    "id": "1279",
-    "question": "Quel est le nom du groupe qui a chanté 'Karma Police' ?",
-    "answer": "Radiohead",
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
     "badAnswers": [
-      "Coldplay",
-      "Muse",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Karma Police', sorti en 1997 par Radiohead, est une chanson alternative rock tirée de l'album OK Computer, explorant la paranoïa et la justice."
-  },
-  {
-    "id": "47",
-    "question": "Quel groupe a sorti l'album 'The Dark Side of the Moon' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Beatles",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Sorti en 1973, cet album conceptuel a été classé 55 semaines consécutives n°1 aux États-Unis."
-  },
-  {
-    "id": "1032",
-    "question": "Quel est le nom du premier jeu de la série Pokémon sorti sur Game Boy ?",
-    "answer": "Pokémon Rouge et Vert",
-    "badAnswers": [
-      "Pokémon Or et Argent",
-      "Pokémon Jaune",
-      "Pokémon Diamant et Perle"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Pokémon Rouge et Vert, sortis en 1996 au Japon, sont les premiers jeux de la série, lançant la franchise mondiale avec 151 Pokémon à capturer."
-  },
-  {
-    "id": "818",
-    "question": "Dans Overwatch, quel personnage est un ancien scientifique de la Griffe ?",
-    "answer": "Moira",
-    "badAnswers": [
-      "Sigma",
-      "Winston",
-      "Mercy"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une ancienne scientifique affiliée à la Griffe (Talon) dans Overwatch, développant des technologies biotiques controversées. Sigma est un scientifique manipulé par la Griffe mais pas officiellement membre, Winston est un scientifique d'Overwatch, et Mercy est médecin et chercheuse médicale indépendante."
-  },
-  {
-    "id": "672",
-    "question": "Dans Star Wars, quel est le nom du maître Jedi qui découvre Anakin Skywalker ?",
-    "answer": "Qui-Gon Jinn",
-    "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Yoda",
-      "Mace Windu"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Qui-Gon Jinn découvre Anakin Skywalker dans Star Wars : La Menace fantôme sur Tatooine. Obi-Wan devient son maître, Yoda est un leader Jedi, et Mace Windu un membre du Conseil."
-  },
-  {
-    "id": "1785",
-    "question": "Quel est le nom du groupe qui a chanté 'Proud Mary' ?",
-    "answer": "Creedence Clearwater Revival",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Proud Mary', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
-  },
-  {
-    "id": "232",
-    "question": "Quel film se partage les mêmes créateurs que la série Sense8 ?",
-    "answer": "Matrix",
-    "badAnswers": [
-      "Mad Max",
-      "Scream",
-      "Interstellar"
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Les Wachowski, créateurs de 'Sense8', ont aussi réalisé 'Matrix'. 'Mad Max' est de George Miller, 'Scream' de Wes Craven, 'Interstellar' de Nolan."
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
   },
   {
-    "id": "824",
-    "question": "Quel est le plus grand serpent du monde ?",
-    "answer": "Python réticulé",
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
     "badAnswers": [
-      "Anaconda vert",
-      "Boa constrictor",
-      "Cobra royal"
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
     ],
-    "category": "Animaux",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le python réticulé est le plus grand serpent du monde, pouvant atteindre 10 mètres de long. L'anaconda vert, le boa constrictor et le cobra royal sont plus petits."
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
   },
   {
-    "id": "1262",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1999 ?",
-    "answer": "American Beauty",
+    "id": "213",
+    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
+    "answer": "Le flamboyant",
     "badAnswers": [
-      "The Sixth Sense",
-      "The Green Mile",
-      "The Cider House Rules"
+      "Le tamarin",
+      "Le frangipanier",
+      "Le vacoa"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
+  },
+  {
+    "id": "1483",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Th ?",
+    "answer": "Thorium",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le thorium, symbolisé par Th, est un métal radioactif exploré comme combustible alternatif pour les réacteurs nucléaires."
+  },
+  {
+    "id": "2073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
+    "answer": "Grand Hotel",
+    "badAnswers": [
+      "Dr. Jekyll and Mr. Hyde",
+      "The Champ",
+      "Five Star Final"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
+  },
+  {
+    "id": "1965",
+    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+  },
+  {
+    "id": "780",
+    "question": "Dans Harry Potter, quel est le nom du professeur de sortilèges à Poudlard ?",
+    "answer": "Filius Flitwick",
+    "badAnswers": [
+      "Severus Rogue",
+      "Minerva McGonagall",
+      "Pomona Chourave"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Filius Flitwick est le professeur de sortilèges et directeur de Serdaigle dans Harry Potter. Rogue enseigne les potions, McGonagall la métamorphose, et Chourave la botanique."
+  },
+  {
+    "id": "1572",
+    "question": "Quel est la capitale du Rwanda ?",
+    "answer": "Kigali",
+    "badAnswers": [
+      "Butare",
+      "Gisenyi",
+      "Ruhengeri"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kigali, capitale du Rwanda, est une ville moderne connue pour son mémorial du génocide et ses collines verdoyantes."
+  },
+  {
+    "id": "1587",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1942 ?",
+    "answer": "How Green Was My Valley",
+    "badAnswers": [
+      "Citizen Kane",
+      "The Maltese Falcon",
+      "Suspicion"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "American Beauty, réalisé par Sam Mendes, a remporté l'Oscar du meilleur film en 1999, explorant les désillusions de la vie suburbaine."
+    "description": "How Green Was My Valley, réalisé par John Ford, a remporté l'Oscar du meilleur film en 1942, un drame sur une famille de mineurs gallois."
   },
   {
-    "id": "124",
-    "question": "En quelle année les jeux FIFA Football ont-ils commencé à être édités ?",
-    "answer": "1993",
+    "id": "1266",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
+    "answer": "Shakespeare in Love",
     "badAnswers": [
-      "1994",
-      "1998",
-      "2000"
+      "Saving Private Ryan",
+      "Life Is Beautiful",
+      "The Thin Red Line"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La série 'FIFA Football' a débuté en 1993 avec 'FIFA International Soccer'. Les autres années correspondent à des éditions ultérieures."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
   }
 ]
