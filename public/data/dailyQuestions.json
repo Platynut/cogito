@@ -1,132 +1,132 @@
 [
   {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
+    "id": "1562",
+    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
+    "answer": "Def Leppard",
     "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
-  },
-  {
-    "id": "213",
-    "question": "Quel arbre à la floraison rouge et abondante fleurit pour les fêtes de fin d’année sur l’île de la Réunion ?",
-    "answer": "Le flamboyant",
-    "badAnswers": [
-      "Le tamarin",
-      "Le frangipanier",
-      "Le vacoa"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Le flamboyant, avec ses fleurs rouges spectaculaires, fleurit en décembre à La Réunion. Le tamarin produit des fruits, le frangipanier a des fleurs blanches/jaunes."
-  },
-  {
-    "id": "1483",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Th ?",
-    "answer": "Thorium",
-    "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le thorium, symbolisé par Th, est un métal radioactif exploré comme combustible alternatif pour les réacteurs nucléaires."
-  },
-  {
-    "id": "2073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
-    "answer": "Grand Hotel",
-    "badAnswers": [
-      "Dr. Jekyll and Mr. Hyde",
-      "The Champ",
-      "Five Star Final"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
-  },
-  {
-    "id": "1965",
-    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
   },
   {
-    "id": "780",
-    "question": "Dans Harry Potter, quel est le nom du professeur de sortilèges à Poudlard ?",
-    "answer": "Filius Flitwick",
+    "id": "681",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour posséder d'autres créatures ?",
+    "answer": "Cappy",
     "badAnswers": [
-      "Severus Rogue",
-      "Minerva McGonagall",
-      "Pomona Chourave"
+      "Luma",
+      "Toad",
+      "Bowser Jr."
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Filius Flitwick est le professeur de sortilèges et directeur de Serdaigle dans Harry Potter. Rogue enseigne les potions, McGonagall la métamorphose, et Chourave la botanique."
+    "description": "Cappy est le chapeau magique que Mario utilise pour posséder des créatures dans Super Mario Odyssey. Luma est dans Super Mario Galaxy, Toad est un allié, et Bowser Jr. un ennemi."
   },
   {
-    "id": "1572",
-    "question": "Quel est la capitale du Rwanda ?",
-    "answer": "Kigali",
+    "id": "404",
+    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
+    "answer": "James Watson",
     "badAnswers": [
-      "Butare",
-      "Gisenyi",
-      "Ruhengeri"
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Linus Pauling"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
+  },
+  {
+    "id": "385",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l’ami de Mario qui l’accompagne ?",
+    "answer": "Cappy",
+    "badAnswers": [
+      "Toad",
+      "Yoshi",
+      "Luigi"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Cappy est l’ami de Mario dans Super Mario Odyssey, un chapeau magique qui permet à Mario de posséder des ennemis et des objets. Toad, Yoshi et Luigi sont d’autres personnages de la série, mais Cappy est unique à ce jeu."
+  },
+  {
+    "id": "412",
+    "question": "Quel est le nom du dieu nordique du tonnerre ?",
+    "answer": "Thor",
+    "badAnswers": [
+      "Odin",
+      "Loki",
+      "Freyr"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Thor est le dieu nordique du tonnerre, connu pour son marteau Mjöllnir et sa force. Fils d’Odin, il est une figure centrale de la mythologie nordique. Odin est le dieu principal, Loki le dieu de la ruse, et Freyr est associé à la fertilité."
+  },
+  {
+    "id": "199",
+    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
+    "answer": "Francis Bacon",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
+  },
+  {
+    "id": "64",
+    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
+    "answer": "Meta",
+    "badAnswers": [
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "category": "Economie",
+    "difficulty": "normal",
+    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
+  },
+  {
+    "id": "1225",
+    "question": "Quel est la capitale du Qatar ?",
+    "answer": "Doha",
+    "badAnswers": [
+      "Al Rayyan",
+      "Al Wakrah",
+      "Umm Salal"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Kigali, capitale du Rwanda, est une ville moderne connue pour son mémorial du génocide et ses collines verdoyantes."
+    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
   },
   {
-    "id": "1587",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1942 ?",
-    "answer": "How Green Was My Valley",
+    "id": "616",
+    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
+    "answer": "Lac Titicaca",
     "badAnswers": [
-      "Citizen Kane",
-      "The Maltese Falcon",
-      "Suspicion"
+      "Lac Maracaibo",
+      "Lac de Patzcuaro",
+      "Lac de Nicaragua"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "How Green Was My Valley, réalisé par John Ford, a remporté l'Oscar du meilleur film en 1942, un drame sur une famille de mineurs gallois."
+    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
   },
   {
-    "id": "1266",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
-    "answer": "Shakespeare in Love",
+    "id": "1026",
+    "question": "Quel est le nom de la devise officielle du Japon ?",
+    "answer": "Yen",
     "badAnswers": [
-      "Saving Private Ryan",
-      "Life Is Beautiful",
-      "The Thin Red Line"
+      "Won",
+      "Yuan",
+      "Roupie"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
   }
 ]
