@@ -1,132 +1,132 @@
 [
   {
-    "id": "1562",
-    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
-    "answer": "Def Leppard",
+    "id": "803",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
+    "answer": "Remus Lupin",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Gilderoy Lockhart",
+      "Quirinus Quirrell",
+      "Alastor Maugrey"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
+  },
+  {
+    "id": "1160",
+    "question": "Quel est le nom du dieu grec de la mort ?",
+    "answer": "Thanatos",
+    "badAnswers": [
+      "Hypnos",
+      "Morpheus",
+      "Hadès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
+  },
+  {
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
+    "badAnswers": [
+      "Entei",
+      "Raikou",
+      "Lugia"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+  },
+  {
+    "id": "1170",
+    "question": "Quel est la capitale de l'Angola ?",
+    "answer": "Luanda",
+    "badAnswers": [
+      "Huambo",
+      "Lobito",
+      "Benguela"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
+  },
+  {
+    "id": "862",
+    "question": "Quel compositeur a écrit 'Don Giovanni' ?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "badAnswers": [
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Richard Wagner"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
+    "description": "Wolfgang Amadeus Mozart a composé *Don Giovanni* en 1787, un opéra mêlant drame et comédie, basé sur la légende de Don Juan. Réputé pour sa profondeur psychologique et sa richesse musicale, l’œuvre est l’une des plus célèbres de Mozart. Rossini, Verdi et Wagner sont également de grands compositeurs d’opéras, mais aucun d’eux n’est l’auteur de *Don Giovanni*."
   },
   {
-    "id": "681",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour posséder d'autres créatures ?",
-    "answer": "Cappy",
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
     "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour posséder des créatures dans Super Mario Odyssey. Luma est dans Super Mario Galaxy, Toad est un allié, et Bowser Jr. un ennemi."
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
   },
   {
-    "id": "404",
-    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
-    "answer": "James Watson",
+    "id": "481",
+    "question": "Quel est le nom du plus grand récif corallien du monde ?",
+    "answer": "Grande Barrière de Corail",
     "badAnswers": [
-      "Rosalind Franklin",
-      "Gregor Mendel",
-      "Linus Pauling"
+      "Récif de Belize",
+      "Récif de Ningaloo",
+      "Récif de Palau"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
   },
   {
-    "id": "385",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l’ami de Mario qui l’accompagne ?",
-    "answer": "Cappy",
+    "id": "902",
+    "question": "Quel est le nom de l'auteur de 'Lolita' ?",
+    "answer": "Vladimir Nabokov",
     "badAnswers": [
-      "Toad",
-      "Yoshi",
-      "Luigi"
+      "Fiodor Dostoïevski",
+      "Joseph Conrad",
+      "James Joyce"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Vladimir Nabokov a écrit Lolita (1955), un roman controversé sur l'obsession. Dostoïevski, Conrad et Joyce sont d'autres écrivains, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "474",
+    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
+    "answer": "Feuille de tanuki",
+    "badAnswers": [
+      "Plume",
+      "Étoile",
+      "Champignon"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cappy est l’ami de Mario dans Super Mario Odyssey, un chapeau magique qui permet à Mario de posséder des ennemis et des objets. Toad, Yoshi et Luigi sont d’autres personnages de la série, mais Cappy est unique à ce jeu."
-  },
-  {
-    "id": "412",
-    "question": "Quel est le nom du dieu nordique du tonnerre ?",
-    "answer": "Thor",
-    "badAnswers": [
-      "Odin",
-      "Loki",
-      "Freyr"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Thor est le dieu nordique du tonnerre, connu pour son marteau Mjöllnir et sa force. Fils d’Odin, il est une figure centrale de la mythologie nordique. Odin est le dieu principal, Loki le dieu de la ruse, et Freyr est associé à la fertilité."
-  },
-  {
-    "id": "199",
-    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
-    "answer": "Francis Bacon",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Salvador Dalí",
-      "René Magritte"
-    ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
-  },
-  {
-    "id": "64",
-    "question": "Quelle entreprise possède les marques WhatsApp et Instagram ?",
-    "answer": "Meta",
-    "badAnswers": [
-      "Google",
-      "Microsoft",
-      "Amazon"
-    ],
-    "category": "Economie",
-    "difficulty": "normal",
-    "description": "Facebook a acquis Instagram en 2012 pour 1 milliard $ et WhatsApp en 2014 pour 19 milliards $, avant de rebaptiser l'ensemble Meta en 2021."
-  },
-  {
-    "id": "1225",
-    "question": "Quel est la capitale du Qatar ?",
-    "answer": "Doha",
-    "badAnswers": [
-      "Al Rayyan",
-      "Al Wakrah",
-      "Umm Salal"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
-  },
-  {
-    "id": "616",
-    "question": "Quel est le nom du plus grand lac d'Amérique du Sud ?",
-    "answer": "Lac Titicaca",
-    "badAnswers": [
-      "Lac Maracaibo",
-      "Lac de Patzcuaro",
-      "Lac de Nicaragua"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Titicaca, situé entre le Pérou et la Bolivie, est le plus grand lac d'Amérique du Sud par superficie, à 3 812 mètres d'altitude. Maracaibo, Patzcuaro et Nicaragua sont d'autres lacs, mais plus petits."
-  },
-  {
-    "id": "1026",
-    "question": "Quel est le nom de la devise officielle du Japon ?",
-    "answer": "Yen",
-    "badAnswers": [
-      "Won",
-      "Yuan",
-      "Roupie"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
+    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
   }
 ]
