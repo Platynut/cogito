@@ -1,132 +1,132 @@
 [
   {
-    "id": "803",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans Le Prisonnier d'Azkaban ?",
-    "answer": "Remus Lupin",
+    "id": "1644",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracaufeu ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Gilderoy Lockhart",
-      "Quirinus Quirrell",
-      "Alastor Maugrey"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Remus Lupin est le professeur de défense contre les forces du mal dans Harry Potter et le Prisonnier d'Azkaban. Lockhart, Quirrell et Maugrey occupent ce poste dans d'autres livres."
-  },
-  {
-    "id": "1160",
-    "question": "Quel est le nom du dieu grec de la mort ?",
-    "answer": "Thanatos",
-    "badAnswers": [
-      "Hypnos",
-      "Morpheus",
-      "Hadès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Thanatos, dieu grec de la mort, est souvent représenté comme un personnage ailé apportant une mort paisible, frère d'Hypnos."
-  },
-  {
-    "id": "627",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
-    "answer": "Suicune",
-    "badAnswers": [
-      "Entei",
-      "Raikou",
-      "Lugia"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
-  },
-  {
-    "id": "1170",
-    "question": "Quel est la capitale de l'Angola ?",
-    "answer": "Luanda",
-    "badAnswers": [
-      "Huambo",
-      "Lobito",
-      "Benguela"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Luanda, capitale de l'Angola, est une ville portuaire en pleine croissance, connue pour son mélange d'architecture coloniale et moderne."
-  },
-  {
-    "id": "862",
-    "question": "Quel compositeur a écrit 'Don Giovanni' ?",
-    "answer": "Wolfgang Amadeus Mozart",
-    "badAnswers": [
-      "Gioachino Rossini",
-      "Giuseppe Verdi",
-      "Richard Wagner"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "Wolfgang Amadeus Mozart a composé *Don Giovanni* en 1787, un opéra mêlant drame et comédie, basé sur la légende de Don Juan. Réputé pour sa profondeur psychologique et sa richesse musicale, l’œuvre est l’une des plus célèbres de Mozart. Rossini, Verdi et Wagner sont également de grands compositeurs d’opéras, mais aucun d’eux n’est l’auteur de *Don Giovanni*."
-  },
-  {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
-    "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+    "description": "Dracaufeu, Pokémon de type feu et vol, est une créature puissante de la série Pokémon, évoluant à partir de Salamèche."
   },
   {
-    "id": "481",
-    "question": "Quel est le nom du plus grand récif corallien du monde ?",
-    "answer": "Grande Barrière de Corail",
+    "id": "1043",
+    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
+    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
     "badAnswers": [
-      "Récif de Belize",
-      "Récif de Ningaloo",
-      "Récif de Palau"
+      "Pirates des Caraïbes : Le Secret du coffre maudit",
+      "Pirates des Caraïbes : Jusqu'au bout du monde",
+      "Pirates des Caraïbes : La Fontaine de jouvence"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
+    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
   },
   {
-    "id": "902",
-    "question": "Quel est le nom de l'auteur de 'Lolita' ?",
-    "answer": "Vladimir Nabokov",
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
     "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Joseph Conrad",
-      "James Joyce"
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Vladimir Nabokov a écrit Lolita (1955), un roman controversé sur l'obsession. Dostoïevski, Conrad et Joyce sont d'autres écrivains, mais n'ont pas écrit ce roman."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
   },
   {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
+    "id": "587",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Persona 5 ?",
+    "answer": "Joker",
     "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "474",
-    "question": "Dans Super Mario Bros. 3, quel objet permet à Mario de voler ?",
-    "answer": "Feuille de tanuki",
-    "badAnswers": [
-      "Plume",
-      "Étoile",
-      "Champignon"
+      "Ryuji",
+      "Ann",
+      "Makoto"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Joker est le protagoniste de Persona 5 et un personnage jouable dans Super Smash Bros. Ultimate, leader des Voleurs Fantômes. Ryuji, Ann et Makoto sont ses alliés dans Persona 5."
+  },
+  {
+    "id": "799",
+    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Heinrich Hertz"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "492",
+    "question": "Dans Star Wars, quel est le nom du vaisseau amiral du Premier Ordre dans Le Réveil de la Force ?",
+    "answer": "Finalizer",
+    "badAnswers": [
+      "Executor",
+      "Home One",
+      "Raddus"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Le Finalizer est le vaisseau amiral du Premier Ordre dans Star Wars : Le Réveil de la Force, commandé par le général Hux. L'Executor est un vaisseau de l'Empire, Home One de l'Alliance Rebelle, et le Raddus apparaît dans Les Derniers Jedi."
+  },
+  {
+    "id": "489",
+    "question": "Quel artiste a peint Les Mangeurs de pommes de terre ?",
+    "answer": "Vincent van Gogh",
+    "badAnswers": [
+      "Édouard Manet",
+      "Claude Monet",
+      "Pierre-Auguste Renoir"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Mangeurs de pommes de terre (1885) de Vincent van Gogh est une œuvre réaliste représentant des paysans attablés. C'est l'une de ses premières grandes œuvres. Manet, Monet et Renoir sont d'autres peintres impressionnistes ou réalistes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1057",
+    "question": "Quel est le nom de l'inventeur de l'ampoule électrique commercialement viable ?",
+    "answer": "Thomas Edison",
+    "badAnswers": [
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Humphry Davy"
+    ],
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "La feuille de tanuki dans Super Mario Bros. 3 transforme Mario en Mario tanuki, lui permettant de voler et de planer. La plume est utilisée dans d'autres jeux, l'étoile rend invincible, et le champignon augmente la taille."
+    "description": "Thomas Edison a développé l'ampoule à incandescence commercialement viable en 1879, bien que d'autres inventeurs aient travaillé sur des concepts similaires."
+  },
+  {
+    "id": "374",
+    "question": "Quel est le nom de l’inventeur de la dynamite ?",
+    "answer": "Alfred Nobel",
+    "badAnswers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Marie Curie"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Alfred Nobel, chimiste suédois, a inventé la dynamite en 1867, révolutionnant les industries minières et de construction. Il a également créé les prix Nobel. Edison, Tesla et Curie sont connus pour d’autres contributions scientifiques, mais pas pour la dynamite."
+  },
+  {
+    "id": "2119",
+    "question": "Quel est le nom de l'auteur de 'La Force de l'âge' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'La Force de l'âge' (1960), une autobiographie sur ses années de jeune adulte."
   }
 ]
