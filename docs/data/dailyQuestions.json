@@ -1,85 +1,111 @@
 [
   {
-    "id": "1982",
-    "question": "Quel est le nom du groupe qui a chanté 'Here Comes the Sun' ?",
-    "answer": "The Beatles",
+    "id": "891",
+    "question": "Quel scientifique a découvert la loi de la force électromotrice ?",
+    "answer": "Michael Faraday",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "André-Marie Ampère",
+      "Georg Ohm",
+      "James Clerk Maxwell"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Here Comes the Sun', sorti en 1969 par The Beatles, est une chanson optimiste écrite par George Harrison, tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1662",
-    "question": "Quel est le nom de l'inventeur du premier appareil à rayons X ?",
-    "answer": "Wilhelm Röntgen",
-    "badAnswers": [
-      "Marie Curie",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "category": "Technologie",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Wilhelm Röntgen a découvert les rayons X en 1895, révolutionnant l'imagerie médicale."
+    "description": "Michael Faraday a découvert la loi de l'induction électromagnétique (force électromotrice) au XIXe siècle, base des générateurs. Ampère, Ohm et Maxwell ont contribué à d'autres lois électriques."
   },
   {
-    "id": "745",
-    "question": "Quel est le nom du plus grand fleuve d'Afrique ?",
-    "answer": "Nil",
+    "id": "762",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom du royaume crépusculaire ?",
+    "answer": "Monde du Crépuscule",
     "badAnswers": [
-      "Congo",
-      "Zambeze",
-      "Niger"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Nil est le plus grand fleuve d'Afrique, s'étendant sur environ 6 650 km à travers l'Égypte et d'autres pays. Le Congo, le Zambeze et le Niger sont d'autres fleuves africains, mais plus courts."
-  },
-  {
-    "id": "1661",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1929/30 ?",
-    "answer": "All Quiet on the Western Front",
-    "badAnswers": [
-      "The Big House",
-      "Disraeli",
-      "The Divorcee"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "All Quiet on the Western Front, réalisé par Lewis Milestone, a remporté l'Oscar du meilleur film en 1929/30, un film anti-guerre."
-  },
-  {
-    "id": "1547",
-    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
-    "answer": "Bon Jovi",
-    "badAnswers": [
-      "Aerosmith",
-      "Guns N' Roses",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
-  },
-  {
-    "id": "1660",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Carapuce ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Hyrule",
+      "Termina",
+      "Lorule"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Carapuce, Pokémon de type eau, est l'un des starters de la série Pokémon, évoluant en Carabaffe."
+    "description": "Le Monde du Crépuscule est le royaume parallèle dans The Legend of Zelda: Twilight Princess, gouverné par Midna. Hyrule est le monde principal, Termina est dans Majora's Mask, et Lorule dans A Link Between Worlds."
   },
   {
-    "id": "2035",
-    "question": "Quel est le nom du groupe qui a chanté 'What Goes On' ?",
+    "id": "2141",
+    "question": "Quel est le nom de l'auteur de 'Le Désert des Tartares' ?",
+    "answer": "Dino Buzzati",
+    "badAnswers": [
+      "Italo Calvino",
+      "Cesare Pavese",
+      "Luigi Pirandello"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Dino Buzzati a écrit 'Le Désert des Tartares' (1940), un roman sur l'attente et l'absurde dans un fort isolé."
+  },
+  {
+    "id": "242",
+    "question": "Klein a déposé une couleur qui porte son nom ...",
+    "answer": "Bleu",
+    "badAnswers": [
+      "Noir",
+      "Rouge",
+      "Violet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
+  },
+  {
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "354",
+    "question": "Quel est le nom du plus grand lac d'Afrique ?",
+    "answer": "Lac Victoria",
+    "badAnswers": [
+      "Lac Tanganyika",
+      "Lac Malawi",
+      "Lac Tchad"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
+  },
+  {
+    "id": "674",
+    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom du temple associé à l'élément de l'eau ?",
+    "answer": "Temple de l'Eau",
+    "badAnswers": [
+      "Temple de la Forêt",
+      "Temple du Feu",
+      "Temple de l'Ombre"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le Temple de l'Eau est un donjon de The Legend of Zelda: Ocarina of Time associé à l'élément de l'eau, situé dans le lac Hylia. Les autres temples sont liés à différents éléments ou zones du jeu."
+  },
+  {
+    "id": "1301",
+    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
+    "answer": "Némésis",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
+  },
+  {
+    "id": "2025",
+    "question": "Quel est le nom du groupe qui a chanté 'Girl' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -87,46 +113,20 @@
       "The Doors"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "'What Goes On', sorti en 1965 par The Beatles, est une chanson country-rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "849",
-    "question": "Dans Harry Potter, quel est le nom du gardien des clés de Poudlard ?",
-    "answer": "Rubeus Hagrid",
-    "badAnswers": [
-      "Argus Rusard",
-      "Albus Dumbledore",
-      "Filius Flitwick"
-    ],
-    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Rubeus Hagrid est le gardien des clés et des lieux à Poudlard dans Harry Potter, également professeur de soins aux créatures magiques. Rusard est le concierge, Dumbledore le directeur, et Flitwick un professeur."
+    "description": "'Girl', sorti en 1965 par The Beatles, est une chanson mélancolique tirée de l'album Rubber Soul."
   },
   {
-    "id": "1017",
-    "question": "Quel est le nom du vaisseau spatial dans le film Alien (1979) ?",
-    "answer": "Nostromo",
+    "id": "146",
+    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
+    "answer": "L'endive",
     "badAnswers": [
-      "Sulaco",
-      "Prometheus",
-      "Auriga"
+      "Le radis",
+      "L'oignon",
+      "Le chou-fleur"
     ],
-    "category": "Cinéma",
+    "category": "Agriculture",
     "difficulty": "normal",
-    "description": "Le Nostromo est le vaisseau spatial commercial dans Alien (1979), où l'équipage rencontre le xénomorphe mortel pour la première fois."
-  },
-  {
-    "id": "1854",
-    "question": "Quel est le nom du groupe qui a chanté 'Baba O'Riley' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Baba O'Riley', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
   }
 ]
