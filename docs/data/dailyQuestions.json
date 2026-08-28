@@ -1,132 +1,132 @@
 [
   {
-    "id": "891",
-    "question": "Quel scientifique a découvert la loi de la force électromotrice ?",
-    "answer": "Michael Faraday",
+    "id": "1551",
+    "question": "Quel est le nom de la déesse grecque des saisons ?",
+    "answer": "Les Horae",
     "badAnswers": [
-      "André-Marie Ampère",
-      "Georg Ohm",
-      "James Clerk Maxwell"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert la loi de l'induction électromagnétique (force électromotrice) au XIXe siècle, base des générateurs. Ampère, Ohm et Maxwell ont contribué à d'autres lois électriques."
-  },
-  {
-    "id": "762",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom du royaume crépusculaire ?",
-    "answer": "Monde du Crépuscule",
-    "badAnswers": [
-      "Hyrule",
-      "Termina",
-      "Lorule"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Monde du Crépuscule est le royaume parallèle dans The Legend of Zelda: Twilight Princess, gouverné par Midna. Hyrule est le monde principal, Termina est dans Majora's Mask, et Lorule dans A Link Between Worlds."
-  },
-  {
-    "id": "2141",
-    "question": "Quel est le nom de l'auteur de 'Le Désert des Tartares' ?",
-    "answer": "Dino Buzzati",
-    "badAnswers": [
-      "Italo Calvino",
-      "Cesare Pavese",
-      "Luigi Pirandello"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Dino Buzzati a écrit 'Le Désert des Tartares' (1940), un roman sur l'attente et l'absurde dans un fort isolé."
-  },
-  {
-    "id": "242",
-    "question": "Klein a déposé une couleur qui porte son nom ...",
-    "answer": "Bleu",
-    "badAnswers": [
-      "Noir",
-      "Rouge",
-      "Violet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
-  },
-  {
-    "id": "354",
-    "question": "Quel est le nom du plus grand lac d'Afrique ?",
-    "answer": "Lac Victoria",
-    "badAnswers": [
-      "Lac Tanganyika",
-      "Lac Malawi",
-      "Lac Tchad"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Victoria est le plus grand lac d'Afrique, couvrant environ 68 800 km², situé entre l'Ouganda, le Kenya et la Tanzanie. C'est une source majeure du Nil. Le lac Tanganyika et le lac Malawi sont plus profonds mais plus petits, et le lac Tchad est beaucoup moins étendu."
-  },
-  {
-    "id": "674",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom du temple associé à l'élément de l'eau ?",
-    "answer": "Temple de l'Eau",
-    "badAnswers": [
-      "Temple de la Forêt",
-      "Temple du Feu",
-      "Temple de l'Ombre"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le Temple de l'Eau est un donjon de The Legend of Zelda: Ocarina of Time associé à l'élément de l'eau, situé dans le lac Hylia. Les autres temples sont liés à différents éléments ou zones du jeu."
-  },
-  {
-    "id": "1301",
-    "question": "Quel est le nom de la déesse grecque de la vengeance ?",
-    "answer": "Némésis",
-    "badAnswers": [
-      "Athéna",
       "Héra",
-      "Aphrodite"
+      "Déméter",
+      "Athéna"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Némésis, déesse grecque de la vengeance, incarne la justice divine, punissant l'orgueil excessif et les injustices des mortels."
+    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
   },
   {
-    "id": "2025",
-    "question": "Quel est le nom du groupe qui a chanté 'Girl' ?",
-    "answer": "The Beatles",
+    "id": "2000",
+    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
+  },
+  {
+    "id": "907",
+    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
+    "answer": "Han Solo",
+    "badAnswers": [
+      "Lando Calrissian",
+      "Chewbacca",
+      "Boba Fett"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
+  },
+  {
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
+    "badAnswers": [
+      "Indium",
+      "Iridium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+  },
+  {
+    "id": "50",
+    "question": "Quelle ville française est célèbre pour sa moutarde ?",
+    "answer": "Dijon",
+    "badAnswers": [
+      "Bordeaux",
+      "Lyon",
+      "Reims"
+    ],
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "La moutarde de Dijon, apparue au 14e siècle, doit son nom à la ville bien que la plupart des graines soient maintenant importées."
+  },
+  {
+    "id": "2037",
+    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
+    "answer": "Albert Camus",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
+  },
+  {
+    "id": "837",
+    "question": "Quel compositeur a écrit La Flûte enchantée ?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "badAnswers": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Girl', sorti en 1965 par The Beatles, est une chanson mélancolique tirée de l'album Rubber Soul."
+    "description": "Wolfgang Amadeus Mozart a composé *La Flûte enchantée* en 1791, un opéra en deux actes mêlant conte merveilleux et symbolisme maçonnique. L'œuvre est célèbre pour ses airs virtuoses, comme celui de la Reine de la Nuit. Bien que Beethoven, Bach et Vivaldi soient des compositeurs majeurs de la musique classique, aucun d’eux n’est lié à cette œuvre."
   },
   {
-    "id": "146",
-    "question": "Quel est le légume d'hiver dont la France est le premier producteur européen ?",
-    "answer": "L'endive",
+    "id": "960",
+    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Le radis",
-      "L'oignon",
-      "Le chou-fleur"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
     ],
-    "category": "Agriculture",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "La France est le leader européen de la production d'endives, un légume d'hiver cultivé principalement dans les Hauts-de-France. Les autres légumes sont également produits en France, mais pas en tant que premier producteur européen."
+    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
+  },
+  {
+    "id": "167",
+    "question": "Dans quelle série peut-on entendre la phrase : 'Faut arrêter ces conneries de nord et de sud ! Une fois pour toutes, le nord, suivant comment on est tourné, ça change tout !' ?",
+    "answer": "Kaamelott",
+    "badAnswers": [
+      "Loïs & Clark",
+      "Caméra Café",
+      "Game of Thrones"
+    ],
+    "category": "Séries",
+    "difficulty": "facile",
+    "description": "Cette réplique culte est prononcée par le roi Arthur dans 'Kaamelott' (Livre I, épisode 'La Réponse'). Les autres séries n'ont pas ce type d'humour absurde."
+  },
+  {
+    "id": "1082",
+    "question": "Dans la mythologie égyptienne, quel dieu règne sur le royaume des morts ?",
+    "answer": "Osiris",
+    "badAnswers": [
+      "Râ",
+      "Anubis",
+      "Thot"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Osiris est le dieu égyptien du royaume des morts et du jugement des âmes. Il symbolise la résurrection et l’ordre dans l’au-delà. Anubis prépare les âmes, mais Osiris les juge."
   }
 ]
