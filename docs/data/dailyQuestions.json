@@ -1,132 +1,132 @@
 [
   {
-    "id": "1551",
-    "question": "Quel est le nom de la déesse grecque des saisons ?",
-    "answer": "Les Horae",
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Héra",
-      "Déméter",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
-  },
-  {
-    "id": "2000",
-    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
-  },
-  {
-    "id": "907",
-    "question": "Dans Star Wars, quel est le nom du contrebandier qui pilote le Faucon Millenium ?",
-    "answer": "Han Solo",
-    "badAnswers": [
-      "Lando Calrissian",
-      "Chewbacca",
-      "Boba Fett"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Han Solo est le contrebandier pilotant le Faucon Millenium dans Star Wars. Lando est un ancien propriétaire, Chewbacca le copilote, et Boba Fett un chasseur de primes."
-  },
-  {
-    "id": "1304",
-    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
-    "answer": "Iode",
-    "badAnswers": [
-      "Indium",
-      "Iridium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
-  },
-  {
-    "id": "50",
-    "question": "Quelle ville française est célèbre pour sa moutarde ?",
-    "answer": "Dijon",
-    "badAnswers": [
-      "Bordeaux",
-      "Lyon",
-      "Reims"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "La moutarde de Dijon, apparue au 14e siècle, doit son nom à la ville bien que la plupart des graines soient maintenant importées."
-  },
-  {
-    "id": "2037",
-    "question": "Quel est le nom de l'auteur de 'Les Justes' ?",
-    "answer": "Albert Camus",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Albert Camus a écrit 'Les Justes' (1949), une pièce de théâtre sur le terrorisme et la morale."
-  },
-  {
-    "id": "837",
-    "question": "Quel compositeur a écrit La Flûte enchantée ?",
-    "answer": "Wolfgang Amadeus Mozart",
-    "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Antonio Vivaldi"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Wolfgang Amadeus Mozart a composé *La Flûte enchantée* en 1791, un opéra en deux actes mêlant conte merveilleux et symbolisme maçonnique. L'œuvre est célèbre pour ses airs virtuoses, comme celui de la Reine de la Nuit. Bien que Beethoven, Bach et Vivaldi soient des compositeurs majeurs de la musique classique, aucun d’eux n’est lié à cette œuvre."
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
   },
   {
-    "id": "960",
-    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
+    "id": "1187",
+    "question": "Quel est la capitale du Bangladesh ?",
+    "answer": "Dhaka",
     "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
+      "Chittagong",
+      "Khulna",
+      "Sylhet"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
+  },
+  {
+    "id": "431",
+    "question": "Dans League of Legends, quel champion est surnommé L’Explorateur prodigieux ?",
+    "answer": "Ezreal",
+    "badAnswers": [
+      "Jayce",
+      "Caitlyn",
+      "Teemo"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
+    "description": "Ezreal, surnommé L’Explorateur prodigieux dans League of Legends, est un champion tireur utilisant des attaques magiques à distance. Jayce, Caitlyn et Teemo ont d’autres titres et rôles distincts dans le jeu."
   },
   {
-    "id": "167",
-    "question": "Dans quelle série peut-on entendre la phrase : 'Faut arrêter ces conneries de nord et de sud ! Une fois pour toutes, le nord, suivant comment on est tourné, ça change tout !' ?",
-    "answer": "Kaamelott",
+    "id": "1693",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Loïs & Clark",
-      "Caméra Café",
-      "Game of Thrones"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Séries",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Cette réplique culte est prononcée par le roi Arthur dans 'Kaamelott' (Livre I, épisode 'La Réponse'). Les autres séries n'ont pas ce type d'humour absurde."
+    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
   },
   {
-    "id": "1082",
-    "question": "Dans la mythologie égyptienne, quel dieu règne sur le royaume des morts ?",
-    "answer": "Osiris",
+    "id": "858",
+    "question": "Quel scientifique a découvert la loi de la radioactivité ?",
+    "answer": "Marie Curie",
     "badAnswers": [
-      "Râ",
-      "Anubis",
-      "Thot"
+      "Ernest Rutherford",
+      "Henri Becquerel",
+      "Max Planck"
     ],
-    "category": "Mythologie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Osiris est le dieu égyptien du royaume des morts et du jugement des âmes. Il symbolise la résurrection et l’ordre dans l’au-delà. Anubis prépare les âmes, mais Osiris les juge."
+    "description": "Marie Curie a contribué à la découverte et à l'étude de la radioactivité, recevant le prix Nobel en 1903 avec Henri Becquerel. Rutherford et Planck ont travaillé sur d'autres aspects de la physique."
+  },
+  {
+    "id": "1281",
+    "question": "Quel est la capitale des Philippines ?",
+    "answer": "Manille",
+    "badAnswers": [
+      "Davao",
+      "Cebu",
+      "Quezon City"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
+  },
+  {
+    "id": "1811",
+    "question": "Quel est le nom du groupe qui a chanté 'Satisfaction' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Who",
+      "The Doors",
+      "The Kinks"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Satisfaction', sorti en 1965 par The Rolling Stones, est une chanson rock emblématique tirée de l'album Out of Our Heads."
+  },
+  {
+    "id": "212",
+    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
+    "answer": "Le bit",
+    "badAnswers": [
+      "Le byte",
+      "Le méga",
+      "Le giga"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
+  },
+  {
+    "id": "1219",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
+    "answer": "Crash",
+    "badAnswers": [
+      "Brokeback Mountain",
+      "Capote",
+      "Munich"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
+  },
+  {
+    "id": "1692",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
+    "answer": "Palladium",
+    "badAnswers": [
+      "Platine",
+      "Plomb",
+      "Polonium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
   }
 ]
