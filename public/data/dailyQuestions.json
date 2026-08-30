@@ -1,132 +1,132 @@
 [
   {
-    "id": "1677",
-    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
-    "answer": "Coldplay",
+    "id": "986",
+    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
+    "answer": "M. Bun",
     "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
+      "M. Bunbun",
+      "M. Lapin",
+      "M. Hoppy"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
-  },
-  {
-    "id": "1187",
-    "question": "Quel est la capitale du Bangladesh ?",
-    "answer": "Dhaka",
-    "badAnswers": [
-      "Chittagong",
-      "Khulna",
-      "Sylhet"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Dhaka, capitale du Bangladesh, est une mégalopole densément peuplée, centre économique et culturel du pays."
-  },
-  {
-    "id": "431",
-    "question": "Dans League of Legends, quel champion est surnommé L’Explorateur prodigieux ?",
-    "answer": "Ezreal",
-    "badAnswers": [
-      "Jayce",
-      "Caitlyn",
-      "Teemo"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Bandes dessinées",
     "difficulty": "normal",
-    "description": "Ezreal, surnommé L’Explorateur prodigieux dans League of Legends, est un champion tireur utilisant des attaques magiques à distance. Jayce, Caitlyn et Teemo ont d’autres titres et rôles distincts dans le jeu."
+    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
   },
   {
-    "id": "1693",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
-    "answer": "Pokémon",
+    "id": "1715",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Te ?",
+    "answer": "Tellure",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
-  },
-  {
-    "id": "858",
-    "question": "Quel scientifique a découvert la loi de la radioactivité ?",
-    "answer": "Marie Curie",
-    "badAnswers": [
-      "Ernest Rutherford",
-      "Henri Becquerel",
-      "Max Planck"
+      "Titane",
+      "Thallium",
+      "Technétium"
     ],
     "category": "Science",
-    "difficulty": "facile",
-    "description": "Marie Curie a contribué à la découverte et à l'étude de la radioactivité, recevant le prix Nobel en 1903 avec Henri Becquerel. Rutherford et Planck ont travaillé sur d'autres aspects de la physique."
+    "difficulty": "normal",
+    "description": "Le tellure, symbolisé par Te, est un métalloïde utilisé dans les panneaux solaires et les alliages."
   },
   {
-    "id": "1281",
-    "question": "Quel est la capitale des Philippines ?",
-    "answer": "Manille",
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
     "badAnswers": [
-      "Davao",
-      "Cebu",
-      "Quezon City"
+      "3",
+      "4",
+      "2"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Manille, capitale des Philippines, est une ville portuaire animée, connue pour son mélange de cultures coloniales et modernes."
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
   },
   {
-    "id": "1811",
-    "question": "Quel est le nom du groupe qui a chanté 'Satisfaction' ?",
-    "answer": "The Rolling Stones",
+    "id": "2048",
+    "question": "Quel est le nom de l'auteur de 'Tropismes' ?",
+    "answer": "Nathalie Sarraute",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Satisfaction', sorti en 1965 par The Rolling Stones, est une chanson rock emblématique tirée de l'album Out of Our Heads."
-  },
-  {
-    "id": "212",
-    "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
-    "answer": "Le bit",
-    "badAnswers": [
-      "Le byte",
-      "Le méga",
-      "Le giga"
-    ],
-    "category": "Technologie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Un bit (binary digit) représente un 0 ou un 1, la plus petite unité. Un byte = 8 bits, un méga = 1 million de bits, un giga = 1 milliard."
+    "description": "Nathalie Sarraute a écrit 'Tropismes' (1939), un recueil de textes courts, pionnier du Nouveau Roman."
   },
   {
-    "id": "1219",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2005 ?",
-    "answer": "Crash",
+    "id": "350",
+    "question": "Dans Halo, quel est le nom du super-soldat protagoniste ?",
+    "answer": "Master Chief",
     "badAnswers": [
-      "Brokeback Mountain",
-      "Capote",
-      "Munich"
+      "Cortana",
+      "Arbiter",
+      "Noble Six"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Master Chief, de son vrai nom John-117, est le protagoniste principal de la série Halo, un super-soldat spartan combattant les Covenants. Cortana est son IA, Arbiter un allié élite, et Noble Six un autre spartan dans Halo: Reach."
+  },
+  {
+    "id": "1676",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
+    "answer": "The Life of Emile Zola",
+    "badAnswers": [
+      "The Awful Truth",
+      "Captains Courageous",
+      "Lost Horizon"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Crash, réalisé par Paul Haggis, a remporté l'Oscar du meilleur film en 2005, explorant les tensions raciales à Los Angeles."
+    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
   },
   {
-    "id": "1692",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
-    "answer": "Palladium",
+    "id": "443",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo dans L’Empire contre-attaque ?",
+    "answer": "Boba Fett",
     "badAnswers": [
-      "Platine",
-      "Plomb",
-      "Polonium"
+      "Jango Fett",
+      "Cad Bane",
+      "Bossk"
     ],
-    "category": "Science",
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L’Empire contre-attaque (1980) pour le livrer à Jabba le Hutt. Jango Fett est son père, et Cad Bane et Bossk sont d’autres chasseurs de primes dans l’univers Star Wars."
+  },
+  {
+    "id": "994",
+    "question": "Dans un orchestre, quel est l'instrument le plus grave de la famille des cuivres ?",
+    "answer": "Tuba",
+    "badAnswers": [
+      "Trombone",
+      "Contrebasse",
+      "Basson"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Le tuba est l'instrument le plus grave de la famille des cuivres dans un orchestre, produisant des sons profonds et puissants."
+  },
+  {
+    "id": "235",
+    "question": "Quelle est la lune la plus large du système solaire ?",
+    "answer": "Ganymède",
+    "badAnswers": [
+      "Titan",
+      "Lune",
+      "Europe"
+    ],
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "Ganymède, lune de Jupiter, est plus grande que Mercure (5 268 km de diamètre). Titan (Saturne) est la 2e, notre Lune la 5e, Europe (Jupiter) la 6e."
+  },
+  {
+    "id": "2029",
+    "question": "Quel est le nom de l'inventeur du premier système de dialyse rénale ?",
+    "answer": "Willem Kolff",
+    "badAnswers": [
+      "Joseph Murray",
+      "John Gibbon",
+      "Christiaan Barnard"
+    ],
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
+    "description": "Willem Kolff a développé la première machine de dialyse rénale en 1943, sauvant des vies atteintes d'insuffisance rénale."
   }
 ]
