@@ -1,132 +1,132 @@
 [
   {
-    "id": "121",
-    "question": "Qui a écrit 'La Valise en carton' ?",
-    "answer": "Linda de Suza",
+    "id": "758",
+    "question": "Quel artiste a peint L'Angélus ?",
+    "answer": "Jean-François Millet",
     "badAnswers": [
-      "Victor Hugo",
-      "Bernard Werber",
-      "Amélie Nothomb"
+      "Gustave Courbet",
+      "Édouard Manet",
+      "Claude Monet"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "'La Valise en carton' est une autobiographie de Linda de Suza, publiée en 1984. Victor Hugo, Bernard Werber et Amélie Nothomb sont d'autres auteurs célèbres."
-  },
-  {
-    "id": "155",
-    "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
-    "answer": "Florence Artaud",
-    "badAnswers": [
-      "Isabelle Autissier",
-      "Mathilde Géron",
-      "Maud Fontenoy"
-    ],
-    "category": "Sports",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Florence Artaud a été la première femme à remporter la Transat anglaise en 1990 avec le bateau 'Pierre 1er'. Isabelle Autissier et Maud Fontenoy sont d'autres navigatrices célèbres."
+    "description": "L'Angélus (1857–1859) de Jean-François Millet est une peinture réaliste représentant des paysans en prière. Courbet, Manet et Monet sont d'autres peintres, mais n'ont pas peint ce tableau."
   },
   {
-    "id": "1677",
-    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
-    "answer": "Coldplay",
+    "id": "916",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Dragon Quest XI ?",
+    "answer": "Héros",
     "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
-  },
-  {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "1164",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Joel Miller ?",
-    "answer": "The Last of Us",
-    "badAnswers": [
-      "Uncharted",
-      "Horizon Zero Dawn",
-      "God of War"
+      "Erdrick",
+      "Luminary",
+      "Solo"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Joel Miller est le protagoniste principal de The Last of Us, un survivant dans un monde post-apocalyptique, protégeant Ellie dans leur voyage."
+    "description": "Héros est le protagoniste de Dragon Quest XI et un personnage jouable dans Super Smash Bros. Ultimate. Erdrick, Luminary et Solo sont des noms alternatifs ou d'autres héros."
   },
   {
-    "id": "1458",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1965 ?",
-    "answer": "The Sound of Music",
+    "id": "1196",
+    "question": "Quel est la capitale du Sénégal ?",
+    "answer": "Dakar",
     "badAnswers": [
-      "Doctor Zhivago",
-      "Darling",
-      "Ship of Fools"
+      "Thiès",
+      "Saint-Louis",
+      "Ziguinchor"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "The Sound of Music, réalisé par Robert Wise, a remporté l'Oscar du meilleur film en 1965, une comédie musicale sur la famille von Trapp."
+    "description": "Dakar, capitale du Sénégal, est une ville portuaire animée, centre culturel et économique de l'Afrique de l'Ouest."
   },
   {
-    "id": "210",
-    "question": "Quel joueur possède le numéro 44 en Formule 1 ?",
-    "answer": "Lewis Hamilton",
+    "id": "1245",
+    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
+    "answer": "Gabriel Fahrenheit",
     "badAnswers": [
-      "Esteban Ocon",
-      "Oscar Piastri",
-      "Valtteri Bottas"
+      "Anders Celsius",
+      "Galilée",
+      "William Thomson"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Lewis Hamilton a utilisé le numéro 44 en hommage à son père (année de naissance : 1944). Ocon porte le 31, Piastri le 81, et Bottas le 77."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
   },
   {
-    "id": "152",
-    "question": "Quel est l'acteur principal de la série Breaking Bad ?",
-    "answer": "Bryan Cranston",
+    "id": "1655",
+    "question": "Quel est le nom de l'inventeur du premier ascenseur électrique ?",
+    "answer": "Elisha Otis",
     "badAnswers": [
-      "Josh Radnor",
-      "Matt Damon",
-      "Andrew Lincoln"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Bryan Cranston incarne Walter White, professeur de chimie devenu trafiquant de drogue dans 'Breaking Bad'. Josh Radnor joue dans 'How I Met Your Mother', Matt Damon est une star de cinéma, et Andrew Lincoln dans 'The Walking Dead'."
-  },
-  {
-    "id": "1041",
-    "question": "Quel est le nom du premier homme à avoir atteint le pôle Sud ?",
-    "answer": "Roald Amundsen",
-    "badAnswers": [
-      "Robert Scott",
-      "Ernest Shackleton",
-      "Richard Byrd"
+      "Thomas Edison",
+      "George Westinghouse",
+      "Nikola Tesla"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Roald Amundsen, explorateur norvégien, a atteint le pôle Sud le 14 décembre 1911, devançant l'expédition britannique de Robert Scott."
+    "description": "Elisha Otis a inventé le premier ascenseur électrique avec un frein de sécurité en 1852, rendant les gratte-ciel possibles."
   },
   {
-    "id": "1489",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pa ?",
-    "answer": "Protactinium",
+    "id": "1705",
+    "question": "Quel est la capitale de l'Asie ?",
+    "answer": "Aucune",
     "badAnswers": [
-      "Palladium",
-      "Plomb",
-      "Polonium"
+      "Tokyo",
+      "Pékin",
+      "New Delhi"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le protactinium, symbolisé par Pa, est un élément radioactif rare, utilisé dans la recherche scientifique et les études nucléaires."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Asie n'a pas de capitale unique, car c'est un continent regroupant de nombreux pays avec leurs propres capitales."
+  },
+  {
+    "id": "651",
+    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
+    "answer": "Vicaire Amelia",
+    "badAnswers": [
+      "Clerc Bestial",
+      "Père Gascoigne",
+      "Ludwig"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
+  },
+  {
+    "id": "548",
+    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
+    "answer": "Volga",
+    "badAnswers": [
+      "Danube",
+      "Rhin",
+      "Elbe"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
+  },
+  {
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
+    "badAnswers": [
+      "Brésil",
+      "Argentine",
+      "Italie"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+  },
+  {
+    "id": "464",
+    "question": "Dans Assassin's Creed III, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Révolution américaine",
+    "badAnswers": [
+      "Guerre civile américaine",
+      "Révolution française",
+      "Guerre d'indépendance espagnole"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed III se déroule pendant la Révolution américaine (1775–1783), suivant Connor Kenway dans des événements comme la Boston Tea Party. Les autres périodes mentionnées correspondent à d'autres conflits historiques."
   }
 ]
