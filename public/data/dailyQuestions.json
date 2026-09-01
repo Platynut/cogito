@@ -1,132 +1,132 @@
 [
   {
-    "id": "548",
-    "question": "Quel est le nom du plus grand fleuve d'Europe ?",
-    "answer": "Volga",
+    "id": "121",
+    "question": "Qui a écrit 'La Valise en carton' ?",
+    "answer": "Linda de Suza",
     "badAnswers": [
-      "Danube",
-      "Rhin",
-      "Elbe"
+      "Victor Hugo",
+      "Bernard Werber",
+      "Amélie Nothomb"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Volga, en Russie, est le plus grand fleuve d'Europe, s'étendant sur 3 531 km. Le Danube, le Rhin et l'Elbe sont d'autres fleuves européens majeurs, mais plus courts."
-  },
-  {
-    "id": "2112",
-    "question": "Quel est le nom de l'inventeur du premier système de calculatrice électronique ?",
-    "answer": "Jack Kilby",
-    "badAnswers": [
-      "Robert Noyce",
-      "Gordon Moore",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Jack Kilby a co-inventé le circuit intégré, permettant la création de la première calculatrice électronique dans les années 1960."
-  },
-  {
-    "id": "1332",
-    "question": "Quel est la capitale de Cuba ?",
-    "answer": "La Havane",
-    "badAnswers": [
-      "Santiago de Cuba",
-      "Camagüey",
-      "Holguín"
-    ],
-    "category": "Géographie",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "La Havane, capitale de Cuba, est célèbre pour son architecture coloniale, ses voitures classiques et sa scène musicale vibrante."
+    "description": "'La Valise en carton' est une autobiographie de Linda de Suza, publiée en 1984. Victor Hugo, Bernard Werber et Amélie Nothomb sont d'autres auteurs célèbres."
   },
   {
-    "id": "60",
-    "question": "Dans quel jeu vidéo apparaît le personnage de Geralt de Riv ?",
-    "answer": "The Witcher",
+    "id": "155",
+    "question": "Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?",
+    "answer": "Florence Artaud",
     "badAnswers": [
-      "Skyrim",
-      "Dark Souls",
-      "Dragon Age"
+      "Isabelle Autissier",
+      "Mathilde Géron",
+      "Maud Fontenoy"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "Florence Artaud a été la première femme à remporter la Transat anglaise en 1990 avec le bateau 'Pierre 1er'. Isabelle Autissier et Maud Fontenoy sont d'autres navigatrices célèbres."
+  },
+  {
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Radiohead",
+      "Muse",
+      "Keane"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
+  },
+  {
+    "id": "1850",
+    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "1164",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Joel Miller ?",
+    "answer": "The Last of Us",
+    "badAnswers": [
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "God of War"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ce sorceleur chasseur de monstres est le héros de la série de jeux CD Projekt Red adaptée des livres d'Andrzej Sapkowski."
-  },
-  {
-    "id": "1963",
-    "question": "Quel est le nom de l'inventeur du premier système de dialyse ?",
-    "answer": "Willem Kolff",
-    "badAnswers": [
-      "Georg Haas",
-      "John Abel",
-      "Nils Alwall"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Willem Kolff a développé la première machine de dialyse en 1943, sauvant des vies grâce au traitement rénal."
-  },
-  {
-    "id": "722",
-    "question": "Quel est le plus grand mammifère terrestre préhistorique connu ?",
-    "answer": "Mammouth laineux",
-    "badAnswers": [
-      "Saber-tooth tiger",
-      "Megatherium",
-      "Mastodonte"
-    ],
-    "category": "Animaux",
-    "difficulty": "difficile",
-    "description": "Le mammouth laineux est le plus grand mammifère terrestre préhistorique, pouvant atteindre 4 mètres de haut et peser jusqu'à 12 tonnes. Le tigre à dents de sabre, le mégathérium et le mastodonte sont plus petits."
-  },
-  {
-    "id": "608",
-    "question": "Quels dieux sont considérés comme les créateurs du Japon ?",
-    "answer": "Izanagi et Izanami",
-    "badAnswers": [
-      "Raijin et Fujin",
-      "Susanoo et Amaterasu",
-      "Hachiman et Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Izanagi et Izanami ont formé les îles du Japon et sont les parents de nombreux kami."
-  },
-  {
-    "id": "94",
-    "question": "Qui était le premier ministre britannique pendant la Seconde Guerre mondiale ?",
-    "answer": "Winston Churchill",
-    "badAnswers": [
-      "Neville Chamberlain",
-      "Clement Attlee",
-      "David Lloyd George"
-    ],
-    "category": "Politique",
     "difficulty": "facile",
-    "description": "Premier ministre de 1940 à 1945 puis de 1951 à 1955, ses discours ont galvanisé la résistance britannique ('Du sang, du labeur, des larmes et de la sueur')."
+    "description": "Joel Miller est le protagoniste principal de The Last of Us, un survivant dans un monde post-apocalyptique, protégeant Ellie dans leur voyage."
   },
   {
-    "id": "2001",
-    "question": "Quel est le nom de l'auteur de 'L'Amant' ?",
-    "answer": "Marguerite Duras",
+    "id": "1458",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1965 ?",
+    "answer": "The Sound of Music",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Doctor Zhivago",
+      "Darling",
+      "Ship of Fools"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'L'Amant' (1984), un roman autobiographique sur une relation amoureuse en Indochine."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Sound of Music, réalisé par Robert Wise, a remporté l'Oscar du meilleur film en 1965, une comédie musicale sur la famille von Trapp."
   },
   {
-    "id": "1968",
-    "question": "Quel est le nom de l'auteur de 'Les Cloches de Bâle' ?",
-    "answer": "Louis Aragon",
+    "id": "210",
+    "question": "Quel joueur possède le numéro 44 en Formule 1 ?",
+    "answer": "Lewis Hamilton",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Esteban Ocon",
+      "Oscar Piastri",
+      "Valtteri Bottas"
     ],
-    "category": "Livres",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Cloches de Bâle' (1934), un roman sur les bouleversements sociaux et politiques."
+    "description": "Lewis Hamilton a utilisé le numéro 44 en hommage à son père (année de naissance : 1944). Ocon porte le 31, Piastri le 81, et Bottas le 77."
+  },
+  {
+    "id": "152",
+    "question": "Quel est l'acteur principal de la série Breaking Bad ?",
+    "answer": "Bryan Cranston",
+    "badAnswers": [
+      "Josh Radnor",
+      "Matt Damon",
+      "Andrew Lincoln"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Bryan Cranston incarne Walter White, professeur de chimie devenu trafiquant de drogue dans 'Breaking Bad'. Josh Radnor joue dans 'How I Met Your Mother', Matt Damon est une star de cinéma, et Andrew Lincoln dans 'The Walking Dead'."
+  },
+  {
+    "id": "1041",
+    "question": "Quel est le nom du premier homme à avoir atteint le pôle Sud ?",
+    "answer": "Roald Amundsen",
+    "badAnswers": [
+      "Robert Scott",
+      "Ernest Shackleton",
+      "Richard Byrd"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Roald Amundsen, explorateur norvégien, a atteint le pôle Sud le 14 décembre 1911, devançant l'expédition britannique de Robert Scott."
+  },
+  {
+    "id": "1489",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pa ?",
+    "answer": "Protactinium",
+    "badAnswers": [
+      "Palladium",
+      "Plomb",
+      "Polonium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le protactinium, symbolisé par Pa, est un élément radioactif rare, utilisé dans la recherche scientifique et les études nucléaires."
   }
 ]
