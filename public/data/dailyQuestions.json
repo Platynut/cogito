@@ -1,132 +1,132 @@
 [
   {
-    "id": "181",
-    "question": "À quelle maison de Poudlard appartient Drago Malefoy, dans les aventures de Harry Potter ?",
-    "answer": "Serpentard",
+    "id": "97",
+    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
+    "answer": "Genève-Servette HC",
     "badAnswers": [
-      "Gryffondor",
-      "Poufsouffle",
-      "Serdaigle"
+      "Fribourg Gotteron",
+      "HC Bienne",
+      "Lausanne HC"
     ],
-    "category": "Littérature",
+    "category": "Sports",
     "difficulty": "normal",
-    "description": "Drago Malefoy est un élève de Serpentard, maison connue pour son ambition et sa ruse. Gryffondor est celle de Harry, Poufsouffle et Serdaigle les deux autres maisons."
+    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
   },
   {
-    "id": "1720",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
-    "answer": "Pokémon",
+    "id": "269",
+    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
+    "answer": "Singes",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Chats",
+      "Pigeons",
+      "Lézards"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
-  },
-  {
-    "id": "427",
-    "question": "Quel est le plus grand oiseau volant du monde ?",
-    "answer": "Albatros hurleur",
-    "badAnswers": [
-      "Condor des Andes",
-      "Aigle royal",
-      "Vautour fauve"
-    ],
-    "category": "Animaux",
     "difficulty": "normal",
-    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
+    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
   },
   {
-    "id": "1737",
-    "question": "Quel est le nom de l'auteur de 'La Cousine Bette' ?",
-    "answer": "Honoré de Balzac",
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'La Cousine Bette' (1846), un roman de la Comédie humaine sur la jalousie et la vengeance."
-  },
-  {
-    "id": "1578",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Arbiter ?",
-    "answer": "Halo",
-    "badAnswers": [
-      "Gears of War",
-      "Destiny",
-      "Call of Duty"
+      "Akali",
+      "Zed",
+      "Kennen"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Arbiter, guerrier élite Sangheili, est un personnage important de la série Halo, jouant un rôle clé dans les conflits intergalactiques."
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
   },
   {
-    "id": "1614",
-    "question": "Quel est le nom du groupe qui a chanté 'Black Hole Sun' ?",
-    "answer": "Soundgarden",
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Alice in Chains"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Black Hole Sun', sorti en 1994 par Soundgarden, est une chanson grunge tirée de l'album Superunknown."
-  },
-  {
-    "id": "1397",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1976 ?",
-    "answer": "Rocky",
-    "badAnswers": [
-      "Taxi Driver",
-      "Network",
-      "All the President's Men"
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Rocky, réalisé par John G. Avildsen, a remporté l'Oscar du meilleur film en 1976, une histoire inspirante sur un boxeur outsider."
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
   },
   {
-    "id": "1603",
-    "question": "Quel est le nom du groupe qui a chanté 'Alive' ?",
-    "answer": "Pearl Jam",
+    "id": "2049",
+    "question": "Quel est le nom du groupe qui a chanté 'Oh! Darling' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Nirvana",
-      "Soundgarden",
-      "Alice in Chains"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Alive', sorti en 1991 par Pearl Jam, est une chanson grunge tirée de l'album Ten."
+    "description": "'Oh! Darling', sorti en 1969 par The Beatles, est une chanson rock avec une influence doo-wop, tirée de l'album Abbey Road."
   },
   {
-    "id": "1602",
-    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
-    "answer": "São Tomé",
+    "id": "1786",
+    "question": "Quel est le nom de l'inventeur du premier système de téléphone ?",
+    "answer": "Alexander Graham Bell",
     "badAnswers": [
-      "Príncipe",
-      "Neves",
-      "Santana"
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
-  },
-  {
-    "id": "320",
-    "question": "Quel est le symbole chimique de l'or ?",
-    "answer": "Au",
-    "badAnswers": [
-      "Ag",
-      "Fe",
-      "Cu"
-    ],
-    "category": "Science",
+    "category": "Technologie",
     "difficulty": "facile",
-    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
+    "description": "Alexander Graham Bell a inventé le premier téléphone en 1876, révolutionnant les communications à distance."
+  },
+  {
+    "id": "2098",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "Wilson Greatbatch",
+      "John Hopps",
+      "Rune Elmqvist"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
+  },
+  {
+    "id": "728",
+    "question": "Dans Pokémon Noir et Blanc, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Zekrom",
+    "badAnswers": [
+      "Reshiram",
+      "Kyurem",
+      "Victini"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Zekrom est le Pokémon légendaire associé à la foudre dans Pokémon Noir, représentant les idéaux. Reshiram représente la vérité, Kyurem la fusion, et Victini est un autre légendaire."
+  },
+  {
+    "id": "1106",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
+    "answer": "Star Fox",
+    "badAnswers": [
+      "F-Zero",
+      "Metroid",
+      "Fire Emblem"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
+  },
+  {
+    "id": "1002",
+    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
+    "answer": "Abel Tasman",
+    "badAnswers": [
+      "Christophe Colomb",
+      "Jeanne Baré",
+      "John Cabot"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
   }
 ]
