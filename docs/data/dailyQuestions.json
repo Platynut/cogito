@@ -1,59 +1,7 @@
 [
   {
-    "id": "97",
-    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
-    "answer": "Genève-Servette HC",
-    "badAnswers": [
-      "Fribourg Gotteron",
-      "HC Bienne",
-      "Lausanne HC"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
-  },
-  {
-    "id": "269",
-    "question": "Quel animal est mis en avant dans le jeu Bloons TD Battles ?",
-    "answer": "Singes",
-    "badAnswers": [
-      "Chats",
-      "Pigeons",
-      "Lézards"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Bloons TD Battles, un jeu de tower defense, les personnages principaux sont des singes qui lancent des projectiles pour éclater des ballons. Ces singes, avec leurs designs variés et amusants, sont au cœur du gameplay. Les autres animaux listés n'apparaissent pas dans le jeu, qui se concentre sur cette thématique unique de singes."
-  },
-  {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
-    "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
-    "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
-  },
-  {
-    "id": "2049",
-    "question": "Quel est le nom du groupe qui a chanté 'Oh! Darling' ?",
+    "id": "2021",
+    "question": "Quel est le nom du groupe qui a chanté 'Norwegian Wood (This Bird Has Flown)' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -62,71 +10,123 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Oh! Darling', sorti en 1969 par The Beatles, est une chanson rock avec une influence doo-wop, tirée de l'album Abbey Road."
+    "description": "'Norwegian Wood', sorti en 1965 par The Beatles, est une chanson folk-pop tirée de l'album Rubber Soul."
   },
   {
-    "id": "1786",
-    "question": "Quel est le nom de l'inventeur du premier système de téléphone ?",
-    "answer": "Alexander Graham Bell",
+    "id": "1267",
+    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
+    "answer": "Arsenic",
     "badAnswers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "Nikola Tesla"
+      "Antimoine",
+      "Argon",
+      "Astatine"
     ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Alexander Graham Bell a inventé le premier téléphone en 1876, révolutionnant les communications à distance."
-  },
-  {
-    "id": "2098",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist"
-    ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
+    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
   },
   {
-    "id": "728",
-    "question": "Dans Pokémon Noir et Blanc, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Zekrom",
+    "id": "134",
+    "question": "A quelle classe animale le scorpion appartient-il ?",
+    "answer": "Arachnide",
     "badAnswers": [
-      "Reshiram",
-      "Kyurem",
-      "Victini"
+      "Mammifère",
+      "Reptile",
+      "Insecte"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Zekrom est le Pokémon légendaire associé à la foudre dans Pokémon Noir, représentant les idéaux. Reshiram représente la vérité, Kyurem la fusion, et Victini est un autre légendaire."
-  },
-  {
-    "id": "1106",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Fox McCloud ?",
-    "answer": "Star Fox",
-    "badAnswers": [
-      "F-Zero",
-      "Metroid",
-      "Fire Emblem"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Nature",
     "difficulty": "normal",
-    "description": "Fox McCloud est le héros de la série Star Fox, un pilote de vaisseau spatial luttant contre les forces d'Andross dans un univers de science-fiction."
+    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
   },
   {
-    "id": "1002",
-    "question": "Qui est considéré comme le premier Européen à avoir 'découvert' la Nouvelle-Zélande ?",
-    "answer": "Abel Tasman",
+    "id": "1922",
+    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Christophe Colomb",
-      "Jeanne Baré",
-      "John Cabot"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
+  },
+  {
+    "id": "930",
+    "question": "Quel est le nom du premier président de la République française ?",
+    "answer": "Louis-Napoléon Bonaparte",
+    "badAnswers": [
+      "Adolphe Thiers",
+      "Jules Grevy",
+      "Patrice de Mac Mahon"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Abel Tasman, explorateur néerlandais, fut le premier Européen à apercevoir la Nouvelle-Zélande en 1642, bien que les Maoris y vivaient déjà depuis des siècles."
+    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
+  },
+  {
+    "id": "224",
+    "question": "Qui a gagné la Coupe du Monde 2022 ?",
+    "answer": "Argentine",
+    "badAnswers": [
+      "Algérie",
+      "Congo",
+      "Sri Lanka"
+    ],
+    "category": "Sports",
+    "difficulty": "facile",
+    "description": "L'Argentine a remporté la Coupe du Monde 2022 au Qatar, battant la France en finale. L'Algérie et le Congo n'y étaient pas, et le Sri Lanka ne joue pas au football."
+  },
+  {
+    "id": "1311",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sr ?",
+    "answer": "Strontium",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Soufre"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le strontium, symbolisé par Sr, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur rouge éclatante."
+  },
+  {
+    "id": "1586",
+    "question": "Quel est la capitale du Lesotho ?",
+    "answer": "Maseru",
+    "badAnswers": [
+      "Teyateyaneng",
+      "Leribe",
+      "Mafeteng"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
+  },
+  {
+    "id": "313",
+    "question": "Dans Pokémon Or et Argent, quelle est la ville de départ du joueur ?",
+    "answer": "Bourg Geon",
+    "badAnswers": [
+      "Céladopole",
+      "Safrania",
+      "Jadielle"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Pokémon Or et Argent, le joueur commence son aventure à Bourg Geon, une petite ville de la région de Johto. C'est là qu'il reçoit son premier Pokémon du Professeur Orme. Les autres villes mentionnées (Céladopole, Safrania, Jadielle) sont situées dans la région de Kanto, présente dans d'autres jeux Pokémon."
+  },
+  {
+    "id": "165",
+    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
+    "answer": "Jean Dujardin",
+    "badAnswers": [
+      "Christian Clavier",
+      "Guillaume Canet",
+      "Neil Patrick Harris"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
   }
 ]
