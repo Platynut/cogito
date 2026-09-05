@@ -1,132 +1,132 @@
 [
   {
-    "id": "2021",
-    "question": "Quel est le nom du groupe qui a chanté 'Norwegian Wood (This Bird Has Flown)' ?",
-    "answer": "The Beatles",
+    "id": "1184",
+    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "The Smiths",
+      "The Cure",
+      "U2"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Norwegian Wood', sorti en 1965 par The Beatles, est une chanson folk-pop tirée de l'album Rubber Soul."
+    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
   },
   {
-    "id": "1267",
-    "question": "Quel est le nom de l'élément chimique avec le symbole As ?",
-    "answer": "Arsenic",
+    "id": "686",
+    "question": "Dans Horizon Forbidden West, quel est le nom de l'intelligence artificielle qui guide Aloy ?",
+    "answer": "GAIA",
     "badAnswers": [
-      "Antimoine",
-      "Argon",
-      "Astatine"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'arsenic, symbolisé par As, est un métalloïde toxique utilisé dans certains alliages et historiquement comme poison."
-  },
-  {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
-    "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
-  },
-  {
-    "id": "1922",
-    "question": "Quel est le nom du groupe qui a chanté 'She Loves You' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'She Loves You', sorti en 1963 par The Beatles, est une chanson pop qui a contribué à la Beatlemania."
-  },
-  {
-    "id": "930",
-    "question": "Quel est le nom du premier président de la République française ?",
-    "answer": "Louis-Napoléon Bonaparte",
-    "badAnswers": [
-      "Adolphe Thiers",
-      "Jules Grevy",
-      "Patrice de Mac Mahon"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
-  },
-  {
-    "id": "224",
-    "question": "Qui a gagné la Coupe du Monde 2022 ?",
-    "answer": "Argentine",
-    "badAnswers": [
-      "Algérie",
-      "Congo",
-      "Sri Lanka"
-    ],
-    "category": "Sports",
-    "difficulty": "facile",
-    "description": "L'Argentine a remporté la Coupe du Monde 2022 au Qatar, battant la France en finale. L'Algérie et le Congo n'y étaient pas, et le Sri Lanka ne joue pas au football."
-  },
-  {
-    "id": "1311",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sr ?",
-    "answer": "Strontium",
-    "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Soufre"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le strontium, symbolisé par Sr, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur rouge éclatante."
-  },
-  {
-    "id": "1586",
-    "question": "Quel est la capitale du Lesotho ?",
-    "answer": "Maseru",
-    "badAnswers": [
-      "Teyateyaneng",
-      "Leribe",
-      "Mafeteng"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Maseru, capitale du Lesotho, est une ville située près de la frontière sud-africaine, connue pour son pont frontalier."
-  },
-  {
-    "id": "313",
-    "question": "Dans Pokémon Or et Argent, quelle est la ville de départ du joueur ?",
-    "answer": "Bourg Geon",
-    "badAnswers": [
-      "Céladopole",
-      "Safrania",
-      "Jadielle"
+      "HADES",
+      "APOLLO",
+      "MINERVA"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Dans Pokémon Or et Argent, le joueur commence son aventure à Bourg Geon, une petite ville de la région de Johto. C'est là qu'il reçoit son premier Pokémon du Professeur Orme. Les autres villes mentionnées (Céladopole, Safrania, Jadielle) sont situées dans la région de Kanto, présente dans d'autres jeux Pokémon."
+    "description": "GAIA est l'intelligence artificielle qui guide Aloy dans Horizon Forbidden West, visant à restaurer l'écosystème. HADES, APOLLO et MINERVA sont d'autres sous-fonctions de l'IA du jeu."
   },
   {
-    "id": "165",
-    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
-    "answer": "Jean Dujardin",
+    "id": "1156",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ezio Auditore ?",
+    "answer": "Assassin's Creed",
     "badAnswers": [
-      "Christian Clavier",
-      "Guillaume Canet",
-      "Neil Patrick Harris"
+      "Dishonored",
+      "Thief",
+      "Hitman"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ezio Auditore est le protagoniste principal de plusieurs jeux Assassin's Creed, un assassin charismatique de la Renaissance italienne."
+  },
+  {
+    "id": "104",
+    "question": "Quelle est la capitale de l'Islande ?",
+    "answer": "Reykjavik",
+    "badAnswers": [
+      "Akureyri",
+      "Kopavogur",
+      "Hafnarfjordur"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
+  },
+  {
+    "id": "1198",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zn ?",
+    "answer": "Zinc",
+    "badAnswers": [
+      "Zirconium",
+      "Xenon",
+      "Yttrium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le zinc, symbolisé par Zn, est un métal utilisé pour galvaniser l'acier et dans les compléments alimentaires pour soutenir le système immunitaire."
+  },
+  {
+    "id": "275",
+    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
+    "answer": "Andorre",
+    "badAnswers": [
+      "Saint-Marin",
+      "Cité du Vatican",
+      "Liechtenstein"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
+  },
+  {
+    "id": "1468",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1962 ?",
+    "answer": "Lawrence of Arabia",
+    "badAnswers": [
+      "To Kill a Mockingbird",
+      "The Longest Day",
+      "Mutiny on the Bounty"
     ],
     "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
+    "difficulty": "facile",
+    "description": "Lawrence of Arabia, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1962, une épopée sur T.E. Lawrence dans le désert."
+  },
+  {
+    "id": "657",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Fire Emblem: Three Houses ?",
+    "answer": "Byleth",
+    "badAnswers": [
+      "Edelgard",
+      "Dimitri",
+      "Claude"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Byleth est le protagoniste de Fire Emblem: Three Houses et un personnage jouable dans Super Smash Bros. Ultimate. Edelgard, Dimitri et Claude sont les chefs des trois maisons du jeu."
+  },
+  {
+    "id": "573",
+    "question": "Quel est la capitale du Maroc ?",
+    "answer": "Rabat",
+    "badAnswers": [
+      "Casablanca",
+      "Marrakech",
+      "Fès"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
+  },
+  {
+    "id": "709",
+    "question": "Quel esprit vengeur japonais revient hanter les vivants après une mort injuste ?",
+    "answer": "Onryō",
+    "badAnswers": [
+      "Noppera-bō",
+      "Yuki-onna",
+      "Iso-onna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "L'Onryō est un fantôme vengeur cherchant à punir ceux qui lui ont fait du tort."
   }
 ]
