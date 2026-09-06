@@ -1,132 +1,132 @@
 [
   {
-    "id": "1184",
-    "question": "Quel est le nom du groupe qui a chanté 'Losing My Religion' ?",
-    "answer": "R.E.M.",
+    "id": "2085",
+    "question": "Quel est le nom de l'inventeur du premier système de machine à écrire électrique ?",
+    "answer": "Thomas Edison",
     "badAnswers": [
-      "The Smiths",
-      "The Cure",
-      "U2"
+      "Christopher Sholes",
+      "James Fields",
+      "Edwin Votey"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Thomas Edison a développé la première machine à écrire électrique en 1872, améliorant la vitesse de frappe."
+  },
+  {
+    "id": "1374",
+    "question": "Quel est le nom du groupe qui a chanté 'Lithium' ?",
+    "answer": "Nirvana",
+    "badAnswers": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Losing My Religion', sorti en 1991 par R.E.M., est une chanson alternative rock devenue un classique, tirée de l'album Out of Time."
+    "description": "'Lithium', sorti en 1991 par Nirvana, est une chanson grunge tirée de l'album Nevermind, explorant des thèmes d'aliénation et de religion."
   },
   {
-    "id": "686",
-    "question": "Dans Horizon Forbidden West, quel est le nom de l'intelligence artificielle qui guide Aloy ?",
-    "answer": "GAIA",
+    "id": "930",
+    "question": "Quel est le nom du premier président de la République française ?",
+    "answer": "Louis-Napoléon Bonaparte",
     "badAnswers": [
-      "HADES",
-      "APOLLO",
-      "MINERVA"
+      "Adolphe Thiers",
+      "Jules Grevy",
+      "Patrice de Mac Mahon"
     ],
-    "category": "Jeux vidéo",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "GAIA est l'intelligence artificielle qui guide Aloy dans Horizon Forbidden West, visant à restaurer l'écosystème. HADES, APOLLO et MINERVA sont d'autres sous-fonctions de l'IA du jeu."
+    "description": "Louis-Napoléon Bonaparte, élu en 1848, fut le premier président de la République française. Il devint plus tard empereur sous le nom de Napoléon III."
   },
   {
-    "id": "1156",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ezio Auditore ?",
-    "answer": "Assassin's Creed",
+    "id": "1472",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1961 ?",
+    "answer": "West Side Story",
     "badAnswers": [
-      "Dishonored",
-      "Thief",
-      "Hitman"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ezio Auditore est le protagoniste principal de plusieurs jeux Assassin's Creed, un assassin charismatique de la Renaissance italienne."
-  },
-  {
-    "id": "104",
-    "question": "Quelle est la capitale de l'Islande ?",
-    "answer": "Reykjavik",
-    "badAnswers": [
-      "Akureyri",
-      "Kopavogur",
-      "Hafnarfjordur"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
-  },
-  {
-    "id": "1198",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zn ?",
-    "answer": "Zinc",
-    "badAnswers": [
-      "Zirconium",
-      "Xenon",
-      "Yttrium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le zinc, symbolisé par Zn, est un métal utilisé pour galvaniser l'acier et dans les compléments alimentaires pour soutenir le système immunitaire."
-  },
-  {
-    "id": "275",
-    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
-    "answer": "Andorre",
-    "badAnswers": [
-      "Saint-Marin",
-      "Cité du Vatican",
-      "Liechtenstein"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
-  },
-  {
-    "id": "1468",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1962 ?",
-    "answer": "Lawrence of Arabia",
-    "badAnswers": [
-      "To Kill a Mockingbird",
-      "The Longest Day",
-      "Mutiny on the Bounty"
+      "The Guns of Navarone",
+      "The Hustler",
+      "Judgment at Nuremberg"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Lawrence of Arabia, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1962, une épopée sur T.E. Lawrence dans le désert."
+    "description": "West Side Story, réalisé par Robert Wise et Jerome Robbins, a remporté l'Oscar du meilleur film en 1961, une comédie musicale inspirée de Roméo et Juliette."
   },
   {
-    "id": "657",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Fire Emblem: Three Houses ?",
-    "answer": "Byleth",
+    "id": "900",
+    "question": "Dans Star Wars, quel est le nom du Jedi qui entraîne Luke dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
     "badAnswers": [
-      "Edelgard",
-      "Dimitri",
-      "Claude"
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Qui-Gon Jinn"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Byleth est le protagoniste de Fire Emblem: Three Houses et un personnage jouable dans Super Smash Bros. Ultimate. Edelgard, Dimitri et Claude sont les chefs des trois maisons du jeu."
-  },
-  {
-    "id": "573",
-    "question": "Quel est la capitale du Maroc ?",
-    "answer": "Rabat",
-    "badAnswers": [
-      "Casablanca",
-      "Marrakech",
-      "Fès"
-    ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
+    "description": "Yoda entraîne Luke Skywalker dans L'Empire contre-attaque sur Dagobah. Obi-Wan, Mace Windu et Qui-Gon Jinn sont d'autres Jedi."
   },
   {
-    "id": "709",
-    "question": "Quel esprit vengeur japonais revient hanter les vivants après une mort injuste ?",
-    "answer": "Onryō",
+    "id": "1619",
+    "question": "Quel est le nom du groupe qui a chanté 'Man in the Box' ?",
+    "answer": "Alice in Chains",
     "badAnswers": [
-      "Noppera-bō",
-      "Yuki-onna",
-      "Iso-onna"
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
     ],
-    "category": "Mythologie",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Man in the Box', sorti en 1990 par Alice in Chains, est une chanson grunge tirée de l'album Facelift."
+  },
+  {
+    "id": "149",
+    "question": "Quel est l'animal emblématique de l'Australie ?",
+    "answer": "Kangourou",
+    "badAnswers": [
+      "Koala",
+      "Crocodile",
+      "Émeu"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le kangourou, marsupial sauteur, est l'animal emblématique de l'Australie et figure même sur ses armoiries. Le koala, le crocodile et l'émeu sont aussi australiens, mais moins symboliques."
+  },
+  {
+    "id": "608",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Bossk",
+      "Dengar"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
+  },
+  {
+    "id": "1896",
+    "question": "Quel est le nom de l'auteur de 'Le Temps retrouvé' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "L'Onryō est un fantôme vengeur cherchant à punir ceux qui lui ont fait du tort."
+    "description": "Marcel Proust a écrit 'Le Temps retrouvé' (1927), le dernier volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "761",
+    "question": "Quel scientifique a découvert le principe de la flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Archimède a découvert le principe de la flottabilité (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
   }
 ]
