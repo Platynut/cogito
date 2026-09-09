@@ -1,132 +1,132 @@
 [
   {
-    "id": "1398",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Er ?",
-    "answer": "Erbium",
+    "id": "1769",
+    "question": "Quel est le nom du groupe qui a chanté 'Sharp Dressed Man' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Europium",
-      "Einsteinium",
-      "Étain"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'erbium, symbolisé par Er, est un métal rare utilisé dans les fibres optiques et les lasers pour ses propriétés de luminescence."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Sharp Dressed Man', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
   },
   {
-    "id": "1767",
-    "question": "Quel est le nom du dieu grec de la peur ?",
-    "answer": "Phobos",
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
     "badAnswers": [
-      "Éros",
-      "Thanatos",
-      "Hypnos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Phobos, dieu grec de la peur, est le fils d'Arès et accompagne son père sur les champs de bataille."
-  },
-  {
-    "id": "43",
-    "question": "Qui a peint 'La Nuit étoilée' ?",
-    "answer": "Vincent van Gogh",
-    "badAnswers": [
-      "Claude Monet",
       "Pablo Picasso",
-      "Salvador Dalí"
+      "Max Ernst",
+      "René Magritte"
     ],
     "category": "Art",
     "difficulty": "facile",
-    "description": "Peint en 1889 depuis sa chambre d'hôpital à Saint-Rémy-de-Provence, ce tableau représente sa vue avant l'aube."
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
   },
   {
-    "id": "455",
-    "question": "Dans Pokémon Épée et Bouclier, quelle est la région où se déroule le jeu ?",
-    "answer": "Galar",
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Sinnoh",
-      "Hoenn",
-      "Alola"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pokémon Épée et Bouclier se déroule dans la région de Galar, inspirée du Royaume-Uni, avec des paysages industriels et ruraux. Sinnoh, Hoenn et Alola sont les régions d’autres jeux Pokémon."
-  },
-  {
-    "id": "541",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles ?",
-    "answer": "Shulk",
-    "badAnswers": [
-      "Rex",
-      "Pyra",
-      "Mythra"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Shulk est le protagoniste de Xenoblade Chronicles et un personnage jouable dans Super Smash Bros. Ultimate, utilisant l'épée Monado. Rex, Pyra et Mythra sont des personnages de Xenoblade Chronicles 2."
-  },
-  {
-    "id": "912",
-    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
-    "answer": "Zilean",
-    "badAnswers": [
-      "Ekko",
-      "Chrono",
-      "Lux"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
-  },
-  {
-    "id": "1537",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1948 ?",
-    "answer": "Hamlet",
-    "badAnswers": [
-      "The Treasure of the Sierra Madre",
-      "Johnny Belinda",
-      "The Red Shoes"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Hamlet, réalisé par Laurence Olivier, a remporté l'Oscar du meilleur film en 1948, une adaptation de la tragédie de Shakespeare."
-  },
-  {
-    "id": "749",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la ville principale des Impériaux ?",
-    "answer": "Solitude",
-    "badAnswers": [
-      "Vendeaume",
-      "Faillaise",
-      "Markarth"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Solitude est la ville principale des Impériaux dans The Elder Scrolls V: Skyrim, siège de l'Empire. Vendeaume est la base des Sombrages, et Faillaise et Markarth sont d'autres villes."
-  },
-  {
-    "id": "316",
-    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
-    "answer": "Antonín Dvořák",
-    "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johannes Brahms",
-      "Gustav Mahler"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
   },
   {
-    "id": "628",
-    "question": "Quel est le nom de l'auteur de 'Germinal' ?",
-    "answer": "Émile Zola",
+    "id": "1791",
+    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Gustave Flaubert",
-      "Victor Hugo",
-      "Guy de Maupassant"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
-    "category": "Littérature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Émile Zola a écrit Germinal (1885), un roman naturaliste sur les conditions des mineurs en France. Flaubert, Hugo et Maupassant sont d'autres écrivains français, mais n'ont pas écrit ce roman."
+    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
+  },
+  {
+    "id": "1010",
+    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2014 ?",
+    "answer": "Allemagne",
+    "badAnswers": [
+      "Brésil",
+      "Argentine",
+      "Espagne"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Allemagne a remporté la Coupe du Monde 2014 en battant l'Argentine 1-0 en finale, grâce à un but de Mario Götze en prolongations."
+  },
+  {
+    "id": "746",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
+    "answer": "Ness",
+    "badAnswers": [
+      "Lucas",
+      "Poo",
+      "Jeff"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
+  },
+  {
+    "id": "1352",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pr ?",
+    "answer": "Praséodyme",
+    "badAnswers": [
+      "Prométhium",
+      "Platine",
+      "Palladium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le praséodyme, symbolisé par Pr, est un métal rare utilisé dans les alliages magnétiques et les verres colorés."
+  },
+  {
+    "id": "2142",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Thief of Bagdad",
+      "The Last Laugh",
+      "Greed"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
+  },
+  {
+    "id": "12",
+    "question": "Quel fromage français est connu pour ses trous ?",
+    "answer": "Emmental",
+    "badAnswers": [
+      "Camembert",
+      "Roquefort",
+      "Brie"
+    ],
+    "category": "Cuisine",
+    "difficulty": "facile",
+    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
+  },
+  {
+    "id": "1874",
+    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
   }
 ]
