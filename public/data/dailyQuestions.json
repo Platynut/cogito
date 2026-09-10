@@ -1,132 +1,132 @@
 [
   {
-    "id": "502",
-    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
-    "answer": "Croûtard",
+    "id": "1616",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1937 ?",
+    "answer": "The Great Ziegfeld",
     "badAnswers": [
-      "Hedwige",
-      "Pattenrond",
-      "Fumseck"
+      "Mr. Deeds Goes to Town",
+      "San Francisco",
+      "The Story of Louis Pasteur"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Great Ziegfeld, réalisé par Robert Z. Leonard, a remporté l'Oscar du meilleur film en 1937, un biopic sur le producteur de Broadway."
   },
   {
-    "id": "1013",
-    "question": "Quel est le plus grand organe du corps humain ?",
-    "answer": "Peau",
+    "id": "1026",
+    "question": "Quel est le nom de la devise officielle du Japon ?",
+    "answer": "Yen",
     "badAnswers": [
-      "Foie",
-      "Cerveau",
-      "Cœur"
+      "Won",
+      "Yuan",
+      "Roupie"
     ],
-    "category": "Science",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "La peau est le plus grand organe du corps humain, représentant environ 16 % du poids corporel et jouant un rôle clé dans la protection et la régulation."
+    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
   },
   {
-    "id": "1492",
-    "question": "Quel est le nom de l'inventeur du premier projecteur cinématographique ?",
-    "answer": "Frères Lumière",
+    "id": "1879",
+    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Thomas Edison",
-      "Eadweard Muybridge",
-      "Georges Méliès"
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
+  },
+  {
+    "id": "303",
+    "question": "Qui a écrit la pièce Anges en Amérique ?",
+    "answer": "Tony Kushner",
+    "badAnswers": [
+      "Tom Stoppard",
+      "Matthew Lopez",
+      "Anthony Neilson"
+    ],
+    "category": "Comédies musicales et théâtre",
+    "difficulty": "facile",
+    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
+  },
+  {
+    "id": "85",
+    "question": "Quelle ville française est célèbre pour ses biscuits ?",
+    "answer": "Nantes",
+    "badAnswers": [
+      "Lyon",
+      "Bordeaux",
+      "Strasbourg"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
+  },
+  {
+    "id": "1599",
+    "question": "Quel est la capitale des Comores ?",
+    "answer": "Moroni",
+    "badAnswers": [
+      "Fomboni",
+      "Mutsamudu",
+      "Domoni"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
+  },
+  {
+    "id": "702",
+    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
+    "answer": "Umibōzu",
+    "badAnswers": [
+      "Iso-onna",
+      "Kappa",
+      "Jorōgumo"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
+  },
+  {
+    "id": "1041",
+    "question": "Quel est le nom du premier homme à avoir atteint le pôle Sud ?",
+    "answer": "Roald Amundsen",
+    "badAnswers": [
+      "Robert Scott",
+      "Ernest Shackleton",
+      "Richard Byrd"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Les frères Lumière, Auguste et Louis, ont inventé le cinématographe en 1895, permettant la projection de films pour le public."
+    "description": "Roald Amundsen, explorateur norvégien, a atteint le pôle Sud le 14 décembre 1911, devançant l'expédition britannique de Robert Scott."
   },
   {
-    "id": "1237",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
+    "id": "511",
+    "question": "Quel compositeur a écrit Le Boléro ?",
+    "answer": "Maurice Ravel",
     "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "William Fox Talbot"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
-  },
-  {
-    "id": "1876",
-    "question": "Quel est le nom de l'inventeur du premier système de clonage ?",
-    "answer": "Ian Wilmut",
-    "badAnswers": [
-      "John Gurdon",
-      "Robert Briggs",
-      "Thomas King"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Ian Wilmut a dirigé l'équipe qui a cloné la brebis Dolly en 1996, marquant une avancée majeure en biotechnologie."
-  },
-  {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
-  },
-  {
-    "id": "1547",
-    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
-    "answer": "Bon Jovi",
-    "badAnswers": [
-      "Aerosmith",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Claude Debussy",
+      "Igor Stravinsky",
+      "Gabriel Fauré"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
+    "difficulty": "normal",
+    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
   },
   {
-    "id": "199",
-    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
-    "answer": "Francis Bacon",
+    "id": "769",
+    "question": "Quel est le plus grand arachnide du monde ?",
+    "answer": "Tarantule Goliath",
     "badAnswers": [
-      "Pablo Picasso",
-      "Salvador Dalí",
-      "René Magritte"
+      "Scorpion empereur",
+      "Araignée-loup",
+      "Veuve noire"
     ],
-    "category": "Art",
-    "difficulty": "difficile",
-    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
-  },
-  {
-    "id": "841",
-    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
-    "answer": "Désert de McMurdo",
-    "badAnswers": [
-      "Désert de Ross",
-      "Désert de Taylor",
-      "Désert de Victoria"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
-  },
-  {
-    "id": "1704",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pyroli ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pyroli, Pokémon de type feu, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa puissance ardente."
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
   }
 ]
