@@ -1,132 +1,132 @@
 [
   {
-    "id": "1769",
-    "question": "Quel est le nom du groupe qui a chanté 'Sharp Dressed Man' ?",
-    "answer": "ZZ Top",
+    "id": "502",
+    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
+    "answer": "Croûtard",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival"
+      "Hedwige",
+      "Pattenrond",
+      "Fumseck"
     ],
-    "category": "Musique",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "'Sharp Dressed Man', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
+    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
   },
   {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
+    "id": "1013",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "answer": "Peau",
     "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
+      "Foie",
+      "Cerveau",
+      "Cœur"
     ],
-    "category": "Art",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+    "description": "La peau est le plus grand organe du corps humain, représentant environ 16 % du poids corporel et jouant un rôle clé dans la protection et la régulation."
   },
   {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
+    "id": "1492",
+    "question": "Quel est le nom de l'inventeur du premier projecteur cinématographique ?",
+    "answer": "Frères Lumière",
+    "badAnswers": [
+      "Thomas Edison",
+      "Eadweard Muybridge",
+      "Georges Méliès"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Les frères Lumière, Auguste et Louis, ont inventé le cinématographe en 1895, permettant la projection de films pour le public."
+  },
+  {
+    "id": "1237",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
+    "badAnswers": [
+      "Louis Daguerre",
+      "George Eastman",
+      "William Fox Talbot"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Joseph Nicéphore Niépce a créé la première photographie permanente en 1826, utilisant une plaque d'étain et un procédé appelé héliographie."
+  },
+  {
+    "id": "1876",
+    "question": "Quel est le nom de l'inventeur du premier système de clonage ?",
+    "answer": "Ian Wilmut",
+    "badAnswers": [
+      "John Gurdon",
+      "Robert Briggs",
+      "Thomas King"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Ian Wilmut a dirigé l'équipe qui a cloné la brebis Dolly en 1996, marquant une avancée majeure en biotechnologie."
+  },
+  {
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
+    "badAnswers": [
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "1547",
+    "question": "Quel est le nom du groupe qui a chanté 'Livin' on a Prayer' ?",
+    "answer": "Bon Jovi",
     "badAnswers": [
       "Aerosmith",
-      "Bon Jovi",
+      "Guns N' Roses",
       "Def Leppard"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+    "description": "'Livin' on a Prayer', sorti en 1986 par Bon Jovi, est une chanson rock anthemique tirée de l'album Slippery When Wet."
   },
   {
-    "id": "1791",
-    "question": "Quel est le nom du groupe qui a chanté 'Fortunate Son' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "199",
+    "question": "'Three Studies for a Self-Portrait' est un tableau de ...",
+    "answer": "Francis Bacon",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "René Magritte"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Fortunate Son', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Willy and the Poor Boys."
+    "category": "Art",
+    "difficulty": "difficile",
+    "description": "Francis Bacon a peint 'Three Studies for a Self-Portrait' en 1980, caractérisé par son style expressionniste déformé. Picasso, Dalí et Magritte ont des styles distincts (cubisme, surréalisme)."
   },
   {
-    "id": "1010",
-    "question": "Quel pays a remporté la Coupe du Monde de la FIFA en 2014 ?",
-    "answer": "Allemagne",
+    "id": "841",
+    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
+    "answer": "Désert de McMurdo",
     "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Espagne"
+      "Désert de Ross",
+      "Désert de Taylor",
+      "Désert de Victoria"
     ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "L'Allemagne a remporté la Coupe du Monde 2014 en battant l'Argentine 1-0 en finale, grâce à un but de Mario Götze en prolongations."
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
   },
   {
-    "id": "746",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
-    "answer": "Ness",
+    "id": "1704",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Pyroli ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Lucas",
-      "Poo",
-      "Jeff"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
-  },
-  {
-    "id": "1352",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pr ?",
-    "answer": "Praséodyme",
-    "badAnswers": [
-      "Prométhium",
-      "Platine",
-      "Palladium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le praséodyme, symbolisé par Pr, est un métal rare utilisé dans les alliages magnétiques et les verres colorés."
-  },
-  {
-    "id": "2142",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1925 ?",
-    "answer": "Aucun Oscar décerné",
-    "badAnswers": [
-      "The Thief of Bagdad",
-      "The Last Laugh",
-      "Greed"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1925, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "12",
-    "question": "Quel fromage français est connu pour ses trous ?",
-    "answer": "Emmental",
-    "badAnswers": [
-      "Camembert",
-      "Roquefort",
-      "Brie"
-    ],
-    "category": "Cuisine",
-    "difficulty": "facile",
-    "description": "Les trous ('yeux') dans l'emmental se forment lors de la fermentation par des bactéries propioniques qui libèrent du CO2."
-  },
-  {
-    "id": "1874",
-    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
+    "description": "Pyroli, Pokémon de type feu, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa puissance ardente."
   }
 ]
