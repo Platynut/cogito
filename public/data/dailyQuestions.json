@@ -1,132 +1,132 @@
 [
   {
-    "id": "219",
-    "question": "En quoi un nihiliste croit-il ?",
-    "answer": "En rien",
+    "id": "1353",
+    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
+    "answer": "Franz Kafka",
     "badAnswers": [
-      "En la chance",
-      "En tout",
-      "En lui-même"
+      "Hermann Hesse",
+      "Thomas Mann",
+      "Günter Grass"
     ],
-    "category": "Philosophie",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
+    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
   },
   {
-    "id": "310",
-    "question": "Quel est le nom de l'arme principale de Cloud Strife dans Final Fantasy VII ?",
-    "answer": "Épée broyeuse",
+    "id": "1067",
+    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
+    "answer": "Azote",
     "badAnswers": [
-      "Gunblade",
-      "Masamune",
-      "Lame du chaos"
+      "Neon",
+      "Nickel",
+      "Sodium"
     ],
-    "category": "Jeux vidéo",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Dans Final Fantasy VII, Cloud Strife utilise l'Épée broyeuse (Buster Sword), une arme massive et emblématique qui symbolise son passé de SOLDAT. Cette épée est devenue un symbole iconique de la série Final Fantasy. Le Gunblade est associé à Squall dans Final Fantasy VIII, la Masamune à Sephiroth, et la Lame du chaos n'existe pas dans ce contexte."
+    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
   },
   {
-    "id": "128",
-    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
-    "answer": "Adamantium",
+    "id": "96",
+    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
+    "answer": "Sherlock Holmes",
     "badAnswers": [
-      "Vibranium",
-      "Cavorite",
-      "Neutronium"
+      "Hercule Poirot",
+      "Miss Marple",
+      "Sam Spade"
     ],
-    "category": "Bandes dessinées",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
   },
   {
-    "id": "267",
-    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
-    "answer": "Crise économique",
+    "id": "1543",
+    "question": "Quel est la capitale de la Guinée ?",
+    "answer": "Conakry",
     "badAnswers": [
-      "Crise politique",
-      "Crise sanitaire",
-      "Crise environnementale"
+      "Labé",
+      "Nzérékoré",
+      "Kankan"
     ],
-    "category": "Politique",
-    "difficulty": "difficile",
-    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
-  },
-  {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
   },
   {
-    "id": "282",
-    "question": "En quelle année a eu lieu le premier Comic-Con de San Diego ?",
-    "answer": "1970",
+    "id": "714",
+    "question": "Quel yōkai est une femme-araignée qui attire ses proies avant de les dévorer ?",
+    "answer": "Jorōgumo",
     "badAnswers": [
-      "2000",
-      "1990",
-      "1985"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "difficile",
-    "description": "Le premier Comic-Con de San Diego a eu lieu en 1970, fondé par Shel Dorf et d'autres passionnés de comics. Initialement un petit événement axé sur les bandes dessinées, il est devenu l'une des plus grandes conventions de culture pop au monde. Les autres années proposées sont bien postérieures à cet événement inaugural."
-  },
-  {
-    "id": "1468",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1962 ?",
-    "answer": "Lawrence of Arabia",
-    "badAnswers": [
-      "To Kill a Mockingbird",
-      "The Longest Day",
-      "Mutiny on the Bounty"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Lawrence of Arabia, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1962, une épopée sur T.E. Lawrence dans le désert."
-  },
-  {
-    "id": "1636",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ganondorf ?",
-    "answer": "The Legend of Zelda",
-    "badAnswers": [
-      "Super Mario",
-      "Metroid",
-      "Fire Emblem"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ganondorf, antagoniste principal de la série The Legend of Zelda, est le roi des Gerudos et détenteur de la Triforce du pouvoir."
-  },
-  {
-    "id": "1499",
-    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
-    "answer": "The Verve",
-    "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
-  },
-  {
-    "id": "715",
-    "question": "Quel esprit d'enfant japonais apporte la chance aux foyers qu'il visite ?",
-    "answer": "Zashiki-warashi",
-    "badAnswers": [
-      "Noppera-bō",
-      "Nurarihyon",
-      "Karakasa-obake"
+      "Iso-onna",
+      "Nue",
+      "Rokurokubi"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Zashiki-warashi est un esprit bienveillant qui vit dans les maisons et porte chance."
+    "description": "La Jorōgumo se transforme en belle femme pour séduire les hommes et les manger."
+  },
+  {
+    "id": "2006",
+    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
+    "answer": "Michel Houellebecq",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
+  },
+  {
+    "id": "1402",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tm ?",
+    "answer": "Thulium",
+    "badAnswers": [
+      "Thorium",
+      "Technétium",
+      "Tellure"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le thulium, symbolisé par Tm, est un métal rare utilisé dans les lasers portatifs et les équipements d'imagerie médicale."
+  },
+  {
+    "id": "1289",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ge ?",
+    "answer": "Germanium",
+    "badAnswers": [
+      "Gallium",
+      "Gadolinium",
+      "Graphite"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le germanium, symbolisé par Ge, est un semi-conducteur utilisé dans l'électronique, notamment dans les transistors et les fibres optiques."
+  },
+  {
+    "id": "1304",
+    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
+    "answer": "Iode",
+    "badAnswers": [
+      "Indium",
+      "Iridium",
+      "Iron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+  },
+  {
+    "id": "1579",
+    "question": "Quel est la capitale du Malawi ?",
+    "answer": "Lilongwe",
+    "badAnswers": [
+      "Blantyre",
+      "Mzuzu",
+      "Zomba"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
   }
 ]
