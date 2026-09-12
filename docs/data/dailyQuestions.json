@@ -1,132 +1,132 @@
 [
   {
-    "id": "1616",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1937 ?",
-    "answer": "The Great Ziegfeld",
+    "id": "219",
+    "question": "En quoi un nihiliste croit-il ?",
+    "answer": "En rien",
     "badAnswers": [
-      "Mr. Deeds Goes to Town",
-      "San Francisco",
-      "The Story of Louis Pasteur"
+      "En la chance",
+      "En tout",
+      "En lui-même"
+    ],
+    "category": "Philosophie",
+    "difficulty": "normal",
+    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
+  },
+  {
+    "id": "310",
+    "question": "Quel est le nom de l'arme principale de Cloud Strife dans Final Fantasy VII ?",
+    "answer": "Épée broyeuse",
+    "badAnswers": [
+      "Gunblade",
+      "Masamune",
+      "Lame du chaos"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dans Final Fantasy VII, Cloud Strife utilise l'Épée broyeuse (Buster Sword), une arme massive et emblématique qui symbolise son passé de SOLDAT. Cette épée est devenue un symbole iconique de la série Final Fantasy. Le Gunblade est associé à Squall dans Final Fantasy VIII, la Masamune à Sephiroth, et la Lame du chaos n'existe pas dans ce contexte."
+  },
+  {
+    "id": "128",
+    "question": "Dans les X-Men, quelle substance constitue le squelette principal de Wolverine ?",
+    "answer": "Adamantium",
+    "badAnswers": [
+      "Vibranium",
+      "Cavorite",
+      "Neutronium"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "facile",
+    "description": "L'Adamantium est un métal fictif qui recouvre les os de Wolverine dans les comics X-Men. Le Vibranium est associé à Black Panther, les autres termes sont des inventions."
+  },
+  {
+    "id": "267",
+    "question": "Quelle type de crise a touché le Sri Lanka en 2022 ?",
+    "answer": "Crise économique",
+    "badAnswers": [
+      "Crise politique",
+      "Crise sanitaire",
+      "Crise environnementale"
+    ],
+    "category": "Politique",
+    "difficulty": "difficile",
+    "description": "En 2022, le Sri Lanka a connu une grave crise économique avec une inflation à 50% et des pénuries de nourriture et de carburant. Les manifestants ont envahi le palais présidentiel, entraînant la fuite et la démission du président Gotabaya Rajapaksa. Cette crise était due à des politiques agricoles ratées et à une dette excessive."
+  },
+  {
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+  },
+  {
+    "id": "282",
+    "question": "En quelle année a eu lieu le premier Comic-Con de San Diego ?",
+    "answer": "1970",
+    "badAnswers": [
+      "2000",
+      "1990",
+      "1985"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "difficile",
+    "description": "Le premier Comic-Con de San Diego a eu lieu en 1970, fondé par Shel Dorf et d'autres passionnés de comics. Initialement un petit événement axé sur les bandes dessinées, il est devenu l'une des plus grandes conventions de culture pop au monde. Les autres années proposées sont bien postérieures à cet événement inaugural."
+  },
+  {
+    "id": "1468",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1962 ?",
+    "answer": "Lawrence of Arabia",
+    "badAnswers": [
+      "To Kill a Mockingbird",
+      "The Longest Day",
+      "Mutiny on the Bounty"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Great Ziegfeld, réalisé par Robert Z. Leonard, a remporté l'Oscar du meilleur film en 1937, un biopic sur le producteur de Broadway."
-  },
-  {
-    "id": "1026",
-    "question": "Quel est le nom de la devise officielle du Japon ?",
-    "answer": "Yen",
-    "badAnswers": [
-      "Won",
-      "Yuan",
-      "Roupie"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Le yen est la monnaie officielle du Japon, utilisée depuis 1871, et est l'une des devises les plus échangées sur les marchés internationaux."
+    "description": "Lawrence of Arabia, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1962, une épopée sur T.E. Lawrence dans le désert."
   },
   {
-    "id": "1879",
-    "question": "Quel est le nom de l'auteur de 'L'Être et le Néant' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1636",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ganondorf ?",
+    "answer": "The Legend of Zelda",
     "badAnswers": [
-      "Albert Camus",
-      "Boris Vian",
-      "André Gide"
+      "Super Mario",
+      "Metroid",
+      "Fire Emblem"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'L'Être et le Néant' (1943), un traité philosophique sur l'existentialisme."
-  },
-  {
-    "id": "303",
-    "question": "Qui a écrit la pièce Anges en Amérique ?",
-    "answer": "Tony Kushner",
-    "badAnswers": [
-      "Tom Stoppard",
-      "Matthew Lopez",
-      "Anthony Neilson"
-    ],
-    "category": "Comédies musicales et théâtre",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Tony Kushner est l'auteur de la pièce Anges en Amérique (1991-1992), une œuvre acclamée explorant l'épidémie du sida et les thèmes sociaux aux États-Unis dans les années 1980. Divisée en deux parties, Millennium Approaches et Perestroika, elle a remporté de nombreux prix, dont le Pulitzer. Les autres dramaturges mentionnés sont connus pour d'autres œuvres."
+    "description": "Ganondorf, antagoniste principal de la série The Legend of Zelda, est le roi des Gerudos et détenteur de la Triforce du pouvoir."
   },
   {
-    "id": "85",
-    "question": "Quelle ville française est célèbre pour ses biscuits ?",
-    "answer": "Nantes",
+    "id": "1499",
+    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
+    "answer": "The Verve",
     "badAnswers": [
-      "Lyon",
-      "Bordeaux",
-      "Strasbourg"
+      "Oasis",
+      "Blur",
+      "Radiohead"
     ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les 'petits beurres' LU ont été inventés à Nantes en 1886. La ville abrite aussi le musée du biscuit et de la pâtisserie."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
   },
   {
-    "id": "1599",
-    "question": "Quel est la capitale des Comores ?",
-    "answer": "Moroni",
+    "id": "715",
+    "question": "Quel esprit d'enfant japonais apporte la chance aux foyers qu'il visite ?",
+    "answer": "Zashiki-warashi",
     "badAnswers": [
-      "Fomboni",
-      "Mutsamudu",
-      "Domoni"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Moroni, capitale des Comores, est une ville côtière sur l'île de Grande Comore, connue pour sa mosquée du Vendredi."
-  },
-  {
-    "id": "702",
-    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
-    "answer": "Umibōzu",
-    "badAnswers": [
-      "Iso-onna",
-      "Kappa",
-      "Jorōgumo"
+      "Noppera-bō",
+      "Nurarihyon",
+      "Karakasa-obake"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
-  },
-  {
-    "id": "1041",
-    "question": "Quel est le nom du premier homme à avoir atteint le pôle Sud ?",
-    "answer": "Roald Amundsen",
-    "badAnswers": [
-      "Robert Scott",
-      "Ernest Shackleton",
-      "Richard Byrd"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Roald Amundsen, explorateur norvégien, a atteint le pôle Sud le 14 décembre 1911, devançant l'expédition britannique de Robert Scott."
-  },
-  {
-    "id": "511",
-    "question": "Quel compositeur a écrit Le Boléro ?",
-    "answer": "Maurice Ravel",
-    "badAnswers": [
-      "Claude Debussy",
-      "Igor Stravinsky",
-      "Gabriel Fauré"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
-  },
-  {
-    "id": "769",
-    "question": "Quel est le plus grand arachnide du monde ?",
-    "answer": "Tarantule Goliath",
-    "badAnswers": [
-      "Scorpion empereur",
-      "Araignée-loup",
-      "Veuve noire"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "La tarantule Goliath (Theraphosa blondi) est le plus grand arachnide du monde, avec une envergure pouvant atteindre 30 cm et un poids de plus de 170 g. Le scorpion empereur et l'araignée-loup sont plus petits, tant en taille qu'en masse."
+    "description": "Le Zashiki-warashi est un esprit bienveillant qui vit dans les maisons et porte chance."
   }
 ]
