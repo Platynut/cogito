@@ -1,132 +1,132 @@
 [
   {
-    "id": "1353",
-    "question": "Quel est le nom de l'auteur de 'La Métamorphose' ?",
-    "answer": "Franz Kafka",
+    "id": "1024",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lara Croft ?",
+    "answer": "Tomb Raider",
     "badAnswers": [
-      "Hermann Hesse",
-      "Thomas Mann",
-      "Günter Grass"
+      "Uncharted",
+      "Assassin's Creed",
+      "Far Cry"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Franz Kafka a écrit 'La Métamorphose' (1915), une nouvelle surréaliste sur un homme qui se réveille transformé en insecte."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Sodium"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+    "description": "Lara Croft est l'héroïne emblématique de la série Tomb Raider, une aventurière et archéologue connue pour ses explorations de tombes et de ruines."
   },
   {
-    "id": "96",
-    "question": "Quel est le nom du célèbre détective créé par Sir Arthur Conan Doyle ?",
-    "answer": "Sherlock Holmes",
+    "id": "1615",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Hercule Poirot",
-      "Miss Marple",
-      "Sam Spade"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
-    "category": "Littérature",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Sherlock Holmes est le détective fictif créé par Sir Arthur Conan Doyle, connu pour sa logique implacable et ses enquêtes emblématiques. Hercule Poirot est un personnage d'Agatha Christie, Miss Marple aussi, et Sam Spade est le héros de 'Le Faucon Maltais'."
+    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
   },
   {
-    "id": "1543",
-    "question": "Quel est la capitale de la Guinée ?",
-    "answer": "Conakry",
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
     "badAnswers": [
-      "Labé",
-      "Nzérékoré",
-      "Kankan"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
-  },
-  {
-    "id": "714",
-    "question": "Quel yōkai est une femme-araignée qui attire ses proies avant de les dévorer ?",
-    "answer": "Jorōgumo",
-    "badAnswers": [
-      "Iso-onna",
-      "Nue",
-      "Rokurokubi"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "La Jorōgumo se transforme en belle femme pour séduire les hommes et les manger."
-  },
-  {
-    "id": "2006",
-    "question": "Quel est le nom de l'auteur de 'Les Particules élémentaires' ?",
-    "answer": "Michel Houellebecq",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Michel Houellebecq a écrit 'Les Particules élémentaires' (1998), un roman sur la société moderne et la science."
-  },
-  {
-    "id": "1402",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tm ?",
-    "answer": "Thulium",
-    "badAnswers": [
-      "Thorium",
-      "Technétium",
-      "Tellure"
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le thulium, symbolisé par Tm, est un métal rare utilisé dans les lasers portatifs et les équipements d'imagerie médicale."
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
   },
   {
-    "id": "1289",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ge ?",
-    "answer": "Germanium",
+    "id": "590",
+    "question": "Dans Horizon Forbidden West, quel est le nom de la région explorée par Aloy ?",
+    "answer": "Ouest interdit",
     "badAnswers": [
-      "Gallium",
-      "Gadolinium",
-      "Graphite"
+      "Terre sacrée",
+      "Plaines de Carja",
+      "Meridian"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le germanium, symbolisé par Ge, est un semi-conducteur utilisé dans l'électronique, notamment dans les transistors et les fibres optiques."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Ouest interdit est la région principale explorée par Aloy dans Horizon Forbidden West, un territoire dangereux avec de nouvelles machines. Les autres options sont des lieux du premier jeu, Horizon Zero Dawn."
   },
   {
-    "id": "1304",
-    "question": "Quel est le nom de l'élément chimique avec le symbole I ?",
-    "answer": "Iode",
+    "id": "203",
+    "question": "Quelle est la planète la plus grande du système solaire ?",
+    "answer": "Jupiter",
     "badAnswers": [
-      "Indium",
-      "Iridium",
-      "Iron"
+      "Saturne",
+      "Uranus",
+      "Neptune"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "L'iode, symbolisé par I, est un élément essentiel pour la thyroïde, utilisé dans les antiseptiques et les compléments alimentaires."
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Jupiter est la plus grande planète du système solaire, avec un diamètre d'environ 139 820 km. Saturne est la deuxième plus grande, suivie d'Uranus et Neptune."
   },
   {
-    "id": "1579",
-    "question": "Quel est la capitale du Malawi ?",
-    "answer": "Lilongwe",
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
     "badAnswers": [
-      "Blantyre",
-      "Mzuzu",
-      "Zomba"
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
     ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+  },
+  {
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Lilongwe, capitale du Malawi, est une ville planifiée connue pour son marché central et ses réserves naturelles environnantes."
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+  },
+  {
+    "id": "280",
+    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
+    "answer": "Dick Grayson",
+    "badAnswers": [
+      "Bruce Wayne",
+      "Jason Todd",
+      "Tim Drake"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
+  },
+  {
+    "id": "1117",
+    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
+    "answer": "Bram Stoker",
+    "badAnswers": [
+      "Mary Shelley",
+      "Edgar Allan Poe",
+      "H.P. Lovecraft"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
+  },
+  {
+    "id": "100",
+    "question": "Comment s'appelle le héro de la licence Metal Gear ?",
+    "answer": "Solid Snake",
+    "badAnswers": [
+      "Big Boss",
+      "Liquid Snake",
+      "Link"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Solid Snake est le protagoniste principal de la série 'Metal Gear'. Big Boss et Liquid Snake sont des personnages secondaires, tandis que Link est le héros de la série 'Zelda'."
   }
 ]
