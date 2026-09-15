@@ -1,132 +1,133 @@
 [
   {
-    "id": "1024",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lara Croft ?",
-    "answer": "Tomb Raider",
+    "id": "44",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "Everest",
     "badAnswers": [
-      "Uncharted",
-      "Assassin's Creed",
-      "Far Cry"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Lara Croft est l'héroïne emblématique de la série Tomb Raider, une aventurière et archéologue connue pour ses explorations de tombes et de ruines."
+    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
   },
   {
-    "id": "1615",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
-    "answer": "Super Mario",
+    "id": "934",
+    "question": "Quel est le nom collectif pour un groupe de dauphins ?",
+    "answer": "Pod",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Baleine",
+      "Banc",
+      "Horde"
     ],
-    "category": "Jeux vidéo",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
+    "description": "Un groupe de dauphins est appelé un 'pod', un terme qui reflète leur nature sociale et leur comportement grégaire. Les autres termes, comme 'banc' ou 'horde', sont utilisés pour d'autres espèces marines."
   },
   {
-    "id": "773",
-    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
+    "id": "2073",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
+    "answer": "Grand Hotel",
     "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
+      "Dr. Jekyll and Mr. Hyde",
+      "The Champ",
+      "Five Star Final"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
+  },
+  {
+    "id": "320",
+    "question": "Quel est le symbole chimique de l'or ?",
+    "answer": "Au",
+    "badAnswers": [
+      "Ag",
+      "Fe",
+      "Cu"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
-  },
-  {
-    "id": "590",
-    "question": "Dans Horizon Forbidden West, quel est le nom de la région explorée par Aloy ?",
-    "answer": "Ouest interdit",
-    "badAnswers": [
-      "Terre sacrée",
-      "Plaines de Carja",
-      "Meridian"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "L'Ouest interdit est la région principale explorée par Aloy dans Horizon Forbidden West, un territoire dangereux avec de nouvelles machines. Les autres options sont des lieux du premier jeu, Horizon Zero Dawn."
+    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
   },
   {
-    "id": "203",
-    "question": "Quelle est la planète la plus grande du système solaire ?",
-    "answer": "Jupiter",
+    "id": "507",
+    "question": "Quel est la capitale de la Corée du Sud ?",
+    "answer": "Séoul",
     "badAnswers": [
-      "Saturne",
-      "Uranus",
-      "Neptune"
+      "Busan",
+      "Incheon",
+      "Daegu"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
+  },
+  {
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
+    "badAnswers": [
+      "Vénus",
+      "Jupiter",
+      "Saturne"
     ],
     "category": "Astronomie",
     "difficulty": "facile",
-    "description": "Jupiter est la plus grande planète du système solaire, avec un diamètre d'environ 139 820 km. Saturne est la deuxième plus grande, suivie d'Uranus et Neptune."
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
   },
   {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
+    "id": "1541",
+    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
     ],
-    "category": "Jeux vidéo",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
   },
   {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
+    "id": "807",
+    "question": "Quel scientifique a découvert la loi de la dilatation thermique des gaz ?",
+    "answer": "Jacques Charles",
     "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
+      "Robert Boyle",
+      "Joseph Gay-Lussac",
+      "Émile Clapeyron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Jacques Charles a formulé la loi de la dilatation thermique des gaz (loi de Charles) à la fin du XVIIIe siècle, reliant volume et température. Boyle, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "2136",
+    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
+  },
+  {
+    "id": "611",
+    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
+    "answer": "Kannon",
+    "badAnswers": [
+      "Kannon",
+      "Benzaiten",
+      "Amaterasu",
+      "Inari"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
-  },
-  {
-    "id": "280",
-    "question": "Quel était le nom du premier Robin dans les comics Batman ?",
-    "answer": "Dick Grayson",
-    "badAnswers": [
-      "Bruce Wayne",
-      "Jason Todd",
-      "Tim Drake"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "Dick Grayson est le premier Robin, l'acolyte de Batman, introduit en 1940 dans Detective Comics #38. Créé par Bob Kane et Bill Finger, il est un orphelin acrobate devenu un symbole de l'univers Batman. Jason Todd et Tim Drake sont des Robins ultérieurs, tandis que Bruce Wayne est Batman lui-même."
-  },
-  {
-    "id": "1117",
-    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
-    "answer": "Bram Stoker",
-    "badAnswers": [
-      "Mary Shelley",
-      "Edgar Allan Poe",
-      "H.P. Lovecraft"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Bram Stoker a écrit 'Dracula' (1897), un roman gothique qui a popularisé le mythe du vampire et influencé la culture populaire."
-  },
-  {
-    "id": "100",
-    "question": "Comment s'appelle le héro de la licence Metal Gear ?",
-    "answer": "Solid Snake",
-    "badAnswers": [
-      "Big Boss",
-      "Liquid Snake",
-      "Link"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Solid Snake est le protagoniste principal de la série 'Metal Gear'. Big Boss et Liquid Snake sont des personnages secondaires, tandis que Link est le héros de la série 'Zelda'."
+    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
   }
 ]
