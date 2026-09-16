@@ -1,133 +1,132 @@
 [
   {
-    "id": "44",
-    "question": "Quelle est la plus haute montagne du monde ?",
-    "answer": "Everest",
+    "id": "742",
+    "question": "Dans Horizon Zero Dawn, quel est le nom de l'organisation qui a créé les machines ?",
+    "answer": "Faro Automated Solutions",
     "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
+      "Eclipse",
+      "Zero Dawn",
+      "Oseram"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Faro Automated Solutions est l'organisation qui a créé les machines dans Horizon Zero Dawn, causant une catastrophe. Eclipse est un culte, Zero Dawn un projet, et Oseram une tribu."
   },
   {
-    "id": "934",
-    "question": "Quel est le nom collectif pour un groupe de dauphins ?",
-    "answer": "Pod",
+    "id": "1351",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
+    "answer": "Terms of Endearment",
     "badAnswers": [
-      "Baleine",
-      "Banc",
-      "Horde"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "Un groupe de dauphins est appelé un 'pod', un terme qui reflète leur nature sociale et leur comportement grégaire. Les autres termes, comme 'banc' ou 'horde', sont utilisés pour d'autres espèces marines."
-  },
-  {
-    "id": "2073",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1932 ?",
-    "answer": "Grand Hotel",
-    "badAnswers": [
-      "Dr. Jekyll and Mr. Hyde",
-      "The Champ",
-      "Five Star Final"
+      "The Right Stuff",
+      "Tender Mercies",
+      "The Big Chill"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Grand Hotel, réalisé par Edmund Goulding, a remporté l'Oscar du meilleur film en 1932, un drame sur les destins croisés."
-  },
-  {
-    "id": "320",
-    "question": "Quel est le symbole chimique de l'or ?",
-    "answer": "Au",
-    "badAnswers": [
-      "Ag",
-      "Fe",
-      "Cu"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
-  },
-  {
-    "id": "507",
-    "question": "Quel est la capitale de la Corée du Sud ?",
-    "answer": "Séoul",
-    "badAnswers": [
-      "Busan",
-      "Incheon",
-      "Daegu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
-  },
-  {
-    "id": "194",
-    "question": "Quel est le nom de la planète rouge ?",
-    "answer": "Mars",
-    "badAnswers": [
-      "Vénus",
-      "Jupiter",
-      "Saturne"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
-  },
-  {
-    "id": "1541",
-    "question": "Quel est le nom du groupe qui a chanté 'Welcome to the Jungle' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Welcome to the Jungle', sorti en 1987 par Guns N' Roses, est une chanson hard rock tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "807",
-    "question": "Quel scientifique a découvert la loi de la dilatation thermique des gaz ?",
-    "answer": "Jacques Charles",
-    "badAnswers": [
-      "Robert Boyle",
-      "Joseph Gay-Lussac",
-      "Émile Clapeyron"
-    ],
-    "category": "Science",
     "difficulty": "normal",
-    "description": "Jacques Charles a formulé la loi de la dilatation thermique des gaz (loi de Charles) à la fin du XVIIIe siècle, reliant volume et température. Boyle, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1983, une comédie dramatique sur les relations familiales."
   },
   {
-    "id": "2136",
-    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "61",
+    "question": "Quel est le plus grand animal terrestre actuel ?",
+    "answer": "Éléphant d'Afrique",
     "badAnswers": [
-      "Jean-Paul Sartre",
+      "Girafe",
+      "Rhinocéros blanc",
+      "Ours polaire"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
+  },
+  {
+    "id": "1326",
+    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
+    "answer": "Louis-Ferdinand Céline",
+    "badAnswers": [
       "Albert Camus",
+      "Jean-Paul Sartre",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
+    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
   },
   {
-    "id": "611",
-    "question": "Quelle déesse japonaise incarne la miséricorde et la compassion ?",
-    "answer": "Kannon",
+    "id": "2008",
+    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Kannon",
-      "Benzaiten",
-      "Amaterasu",
-      "Inari"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Mythologie",
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
+  },
+  {
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
+    ],
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+  },
+  {
+    "id": "2114",
+    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Kannon aide les autres à atteindre l'illumination et est vénérée pour sa compassion."
+    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
+  },
+  {
+    "id": "1530",
+    "question": "Quel est la capitale du Niger ?",
+    "answer": "Niamey",
+    "badAnswers": [
+      "Zinder",
+      "Maradi",
+      "Agadez"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
+  },
+  {
+    "id": "1592",
+    "question": "Quel est le nom du groupe qui a chanté 'Love Bites' ?",
+    "answer": "Def Leppard",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Love Bites', sorti en 1987 par Def Leppard, est une ballade rock tirée de l'album Hysteria."
+  },
+  {
+    "id": "859",
+    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
+    "answer": "Groudon",
+    "badAnswers": [
+      "Kyogre",
+      "Rayquaza",
+      "Deoxys"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
   }
 ]
