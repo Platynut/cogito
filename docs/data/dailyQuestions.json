@@ -1,59 +1,72 @@
 [
   {
-    "id": "742",
-    "question": "Dans Horizon Zero Dawn, quel est le nom de l'organisation qui a créé les machines ?",
-    "answer": "Faro Automated Solutions",
+    "id": "1056",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
+    "answer": "Uncharted",
     "badAnswers": [
-      "Eclipse",
-      "Zero Dawn",
-      "Oseram"
+      "Tomb Raider",
+      "The Last of Us",
+      "Far Cry"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Faro Automated Solutions est l'organisation qui a créé les machines dans Horizon Zero Dawn, causant une catastrophe. Eclipse est un culte, Zero Dawn un projet, et Oseram une tribu."
-  },
-  {
-    "id": "1351",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1983 ?",
-    "answer": "Terms of Endearment",
-    "badAnswers": [
-      "The Right Stuff",
-      "Tender Mercies",
-      "The Big Chill"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Terms of Endearment, réalisé par James L. Brooks, a remporté l'Oscar du meilleur film en 1983, une comédie dramatique sur les relations familiales."
-  },
-  {
-    "id": "61",
-    "question": "Quel est le plus grand animal terrestre actuel ?",
-    "answer": "Éléphant d'Afrique",
-    "badAnswers": [
-      "Girafe",
-      "Rhinocéros blanc",
-      "Ours polaire"
-    ],
-    "category": "Nature",
     "difficulty": "facile",
-    "description": "Les mâles peuvent atteindre 7 tonnes et 4 mètres au garrot. Leurs défenses pèsent jusqu'à 50 kg chacune."
+    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
   },
   {
-    "id": "1326",
-    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "1340",
+    "question": "Quel est le nom du groupe qui a chanté 'No Surprises' ?",
+    "answer": "Radiohead",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Gide"
+      "Coldplay",
+      "Muse",
+      "The Verve"
     ],
-    "category": "Livres",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
+    "description": "'No Surprises', sorti en 1997 par Radiohead, est une chanson mélancolique tirée de l'album OK Computer, connue pour son ambiance introspective."
   },
   {
-    "id": "2008",
-    "question": "Quel est le nom du groupe qui a chanté 'Please Please Me' ?",
+    "id": "1881",
+    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
+    "answer": "Homer Dudley",
+    "badAnswers": [
+      "Alan Turing",
+      "Dennis Gabor",
+      "Ray Kurzweil"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
+  },
+  {
+    "id": "1067",
+    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
+    "answer": "Azote",
+    "badAnswers": [
+      "Neon",
+      "Nickel",
+      "Sodium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+  },
+  {
+    "id": "497",
+    "question": "Dans Horizon Zero Dawn, quel est le nom de la protagoniste ?",
+    "answer": "Aloy",
+    "badAnswers": [
+      "Erend",
+      "Sylens",
+      "Avad"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Aloy est la protagoniste de Horizon Zero Dawn, une chasseuse dans un monde post-apocalyptique dominé par des machines. Erend, Sylens et Avad sont des personnages secondaires dans le jeu."
+  },
+  {
+    "id": "2023",
+    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -62,71 +75,58 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Please Please Me', sorti en 1963 par The Beatles, est une chanson pop tirée de leur premier album éponyme."
+    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
   },
   {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
     "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
     ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
   },
   {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "659",
+    "question": "Quel est le plus grand mollusque du monde ?",
+    "answer": "Calmar colossal",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
+      "Poulpe géant",
+      "Nautile",
+      "Seiche géante"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
+  },
+  {
+    "id": "1012",
+    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
+    "answer": "Bois de houx, plume de phénix",
+    "badAnswers": [
+      "Bois de chêne, crin de licorne",
+      "Bois d'if, ventricule de dragon",
+      "Bois de saule, poil de vélane"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
+    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
   },
   {
-    "id": "1530",
-    "question": "Quel est la capitale du Niger ?",
-    "answer": "Niamey",
+    "id": "1789",
+    "question": "Quel est la capitale de l'Eswatini ?",
+    "answer": "Mbabane",
     "badAnswers": [
-      "Zinder",
-      "Maradi",
-      "Agadez"
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
-  },
-  {
-    "id": "1592",
-    "question": "Quel est le nom du groupe qui a chanté 'Love Bites' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Love Bites', sorti en 1987 par Def Leppard, est une ballade rock tirée de l'album Hysteria."
-  },
-  {
-    "id": "859",
-    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la terre ?",
-    "answer": "Groudon",
-    "badAnswers": [
-      "Kyogre",
-      "Rayquaza",
-      "Deoxys"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Groudon est le Pokémon légendaire associé à la terre dans Pokémon Rubis. Kyogre représente la mer, Rayquaza le ciel, et Deoxys est extraterrestre."
+    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
   }
 ]
