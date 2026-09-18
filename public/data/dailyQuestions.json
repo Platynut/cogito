@@ -1,132 +1,132 @@
 [
   {
-    "id": "1056",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Nathan Drake ?",
-    "answer": "Uncharted",
+    "id": "1189",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
+    "answer": "Nickel",
     "badAnswers": [
-      "Tomb Raider",
-      "The Last of Us",
-      "Far Cry"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Nathan Drake est le héros charismatique de la série Uncharted, un chasseur de trésors inspiré par Indiana Jones, explorant des lieux exotiques."
-  },
-  {
-    "id": "1340",
-    "question": "Quel est le nom du groupe qui a chanté 'No Surprises' ?",
-    "answer": "Radiohead",
-    "badAnswers": [
-      "Coldplay",
-      "Muse",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'No Surprises', sorti en 1997 par Radiohead, est une chanson mélancolique tirée de l'album OK Computer, connue pour son ambiance introspective."
-  },
-  {
-    "id": "1881",
-    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
-    "answer": "Homer Dudley",
-    "badAnswers": [
-      "Alan Turing",
-      "Dennis Gabor",
-      "Ray Kurzweil"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
-  },
-  {
-    "id": "1067",
-    "question": "Quel est le nom de l'élément chimique avec le symbole N ?",
-    "answer": "Azote",
-    "badAnswers": [
-      "Neon",
-      "Nickel",
+      "Néon",
+      "Nitrure",
       "Sodium"
     ],
     "category": "Science",
     "difficulty": "facile",
-    "description": "L'azote, symbolisé par N, constitue environ 78 % de l'atmosphère terrestre et est essentiel pour la synthèse des protéines dans les organismes vivants."
+    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
   },
   {
-    "id": "497",
-    "question": "Dans Horizon Zero Dawn, quel est le nom de la protagoniste ?",
-    "answer": "Aloy",
+    "id": "1122",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
+    "answer": "Sodium",
     "badAnswers": [
-      "Erend",
-      "Sylens",
-      "Avad"
+      "Nickel",
+      "Néon",
+      "Nitrure"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
+  },
+  {
+    "id": "99",
+    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
+    "answer": "Route du café",
+    "badAnswers": [
+      "Route du rhum",
+      "Vendée Globe",
+      "Trophée du rhum"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
+  },
+  {
+    "id": "757",
+    "question": "Quel est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Bergen",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Oslo est la capitale de la Norvège, connue pour son opéra et le parc Vigeland. Bergen, Trondheim et Stavanger sont d'autres villes norvégiennes, mais pas la capitale."
+  },
+  {
+    "id": "316",
+    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
+    "answer": "Antonín Dvořák",
+    "badAnswers": [
+      "Ludwig van Beethoven",
+      "Johannes Brahms",
+      "Gustav Mahler"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
+  },
+  {
+    "id": "1071",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
+    "answer": "Super Mario Bros.",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Donkey Kong",
+      "Metroid"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Aloy est la protagoniste de Horizon Zero Dawn, une chasseuse dans un monde post-apocalyptique dominé par des machines. Erend, Sylens et Avad sont des personnages secondaires dans le jeu."
+    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
   },
   {
-    "id": "2023",
-    "question": "Quel est le nom du groupe qui a chanté 'Michelle' ?",
-    "answer": "The Beatles",
+    "id": "572",
+    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
+    "answer": "Atelier",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Confrérie",
+      "Église de la Guérison",
+      "Vilebloods"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
+  },
+  {
+    "id": "712",
+    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
+    "answer": "Tengu",
+    "badAnswers": [
+      "Karasu-tengu",
+      "Oni",
+      "Kappa"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+  },
+  {
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
+    "badAnswers": [
+      "-2900",
+      "-10500",
+      "-3600"
+    ],
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "'Michelle', sorti en 1965 par The Beatles, est une chanson romantique tirée de l'album Rubber Soul."
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
   },
   {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
+    "id": "1202",
+    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
+    "answer": "Carl von Linde",
     "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Harrison"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
-  },
-  {
-    "id": "659",
-    "question": "Quel est le plus grand mollusque du monde ?",
-    "answer": "Calmar colossal",
-    "badAnswers": [
-      "Poulpe géant",
-      "Nautile",
-      "Seiche géante"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
-  },
-  {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
-    "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
-  },
-  {
-    "id": "1789",
-    "question": "Quel est la capitale de l'Eswatini ?",
-    "answer": "Mbabane",
-    "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
   }
 ]
