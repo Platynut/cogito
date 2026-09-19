@@ -1,132 +1,132 @@
 [
   {
-    "id": "1189",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ni ?",
-    "answer": "Nickel",
+    "id": "2022",
+    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
+    "answer": "IBM",
     "badAnswers": [
-      "Néon",
-      "Nitrure",
-      "Sodium"
+      "Steve Wozniak",
+      "Bill Gates",
+      "Ed Roberts"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le nickel, symbolisé par Ni, est un métal utilisé dans les alliages, les pièces de monnaie et les batteries rechargeables."
-  },
-  {
-    "id": "1122",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Na ?",
-    "answer": "Sodium",
-    "badAnswers": [
-      "Nickel",
-      "Néon",
-      "Nitrure"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le sodium, symbolisé par Na (du latin 'natrium'), est un métal alcalin réactif, essentiel pour l'équilibre hydrique dans le corps humain."
-  },
-  {
-    "id": "99",
-    "question": "Comment est également appelée la 'Transat Jacques Vabre' ?",
-    "answer": "Route du café",
-    "badAnswers": [
-      "Route du rhum",
-      "Vendée Globe",
-      "Trophée du rhum"
-    ],
-    "category": "Sports",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "La Transat Jacques Vabre est surnommée 'Route du café' en référence à son parcours historique entre la France et le Brésil. La Route du Rhum et le Vendée Globe sont d'autres courses maritimes."
+    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
   },
   {
-    "id": "757",
-    "question": "Quel est la capitale de la Norvège ?",
-    "answer": "Oslo",
+    "id": "998",
+    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
+    "answer": "Le traumatisme d'enfance du personnage principal",
     "badAnswers": [
-      "Bergen",
-      "Trondheim",
-      "Stavanger"
+      "Le lien avec le meurtre d'innocents",
+      "Le plat préféré du méchant",
+      "La voix des innocents étouffée par les puissants"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Oslo est la capitale de la Norvège, connue pour son opéra et le parc Vigeland. Bergen, Trondheim et Stavanger sont d'autres villes norvégiennes, mais pas la capitale."
-  },
-  {
-    "id": "316",
-    "question": "Quel compositeur a écrit la Symphonie n°9, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
-    "answer": "Antonín Dvořák",
-    "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johannes Brahms",
-      "Gustav Mahler"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Antonín Dvořák a composé la Symphonie n°9 en 1893, surnommée Du Nouveau Monde, lors de son séjour aux États-Unis. Inspirée par la musique folklorique américaine, elle est l'une de ses œuvres les plus célèbres. Beethoven, Brahms et Mahler ont composé d'autres symphonies, mais pas celle-ci."
-  },
-  {
-    "id": "1071",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mario ?",
-    "answer": "Super Mario Bros.",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Donkey Kong",
-      "Metroid"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Mario, créé par Nintendo, est le héros de Super Mario Bros., une série de jeux de plateforme emblématiques débutée en 1985."
-  },
-  {
-    "id": "572",
-    "question": "Dans Bloodborne, quel est le nom de l'organisation de chasseurs ?",
-    "answer": "Atelier",
-    "badAnswers": [
-      "Confrérie",
-      "Église de la Guérison",
-      "Vilebloods"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "L'Atelier est l'organisation des chasseurs dans Bloodborne, formée pour traquer les bêtes à Yharnam. L'Église de la Guérison est une autre faction, les Vilebloods sont des vampires, et la Confrérie est fictive."
-  },
-  {
-    "id": "712",
-    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
-    "answer": "Tengu",
-    "badAnswers": [
-      "Karasu-tengu",
-      "Oni",
-      "Kappa"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
-  },
-  {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
-    "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
-  },
-  {
-    "id": "1202",
-    "question": "Quel est le nom de l'inventeur du premier réfrigérateur ?",
-    "answer": "Carl von Linde",
-    "badAnswers": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "James Harrison"
-    ],
-    "category": "Histoire",
+    "category": "Livres",
     "difficulty": "difficile",
-    "description": "Carl von Linde a développé les principes de la réfrigération moderne en 1876, permettant la création des premiers réfrigérateurs industriels."
+    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
+  },
+  {
+    "id": "254",
+    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
+    "answer": "La danse du soleil",
+    "badAnswers": [
+      "La danse des esprits",
+      "La danse de la pluie",
+      "La danse des étoiles"
+    ],
+    "category": "Danse",
+    "difficulty": "normal",
+    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
+  },
+  {
+    "id": "1377",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1980 ?",
+    "answer": "Ordinary People",
+    "badAnswers": [
+      "Raging Bull",
+      "The Elephant Man",
+      "Coal Miner's Daughter"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Ordinary People, réalisé par Robert Redford, a remporté l'Oscar du meilleur film en 1980, un drame sur les tensions familiales."
+  },
+  {
+    "id": "388",
+    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
+    "answer": "La Ruche",
+    "badAnswers": [
+      "Les Cabals",
+      "Les Vex",
+      "Les Déchus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
+  },
+  {
+    "id": "746",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
+    "answer": "Ness",
+    "badAnswers": [
+      "Lucas",
+      "Poo",
+      "Jeff"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
+  },
+  {
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
+    "badAnswers": [
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
+    ],
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+  },
+  {
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
+    "badAnswers": [
+      "Londres",
+      "Rome",
+      "Lisbonne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
+  },
+  {
+    "id": "2140",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Big Parade",
+      "Ben-Hur",
+      "The Gold Rush"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
+  },
+  {
+    "id": "1701",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
+    "answer": "Ruthénium",
+    "badAnswers": [
+      "Radon",
+      "Rubidium",
+      "Rhodium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
   }
 ]
