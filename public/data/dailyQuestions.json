@@ -1,132 +1,132 @@
 [
   {
-    "id": "2022",
-    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
-    "answer": "IBM",
+    "id": "81",
+    "question": "Qui a dirigé 'Le Parrain' ?",
+    "answer": "Francis Ford Coppola",
     "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "Ed Roberts"
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Alfred Hitchcock"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
+  },
+  {
+    "id": "182",
+    "question": "Quel animal migre sur les côtes de l’île de la Réunion de juillet à octobre ?",
+    "answer": "La baleine à bosse",
+    "badAnswers": [
+      "La tortue marine",
+      "Le poisson trompette",
+      "Le poisson-ballon"
+    ],
+    "category": "Nature",
+    "difficulty": "normal",
+    "description": "Les baleines à bosse migrent vers les eaux chaudes de La Réunion pour se reproduire. Les tortues y vivent toute l'année, les autres poissons ne migrent pas."
+  },
+  {
+    "id": "1119",
+    "question": "Qui est à l'origine du concept du premier ordinateur programmable ?",
+    "answer": "Charles Babbage",
+    "badAnswers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "John Atanasoff"
     ],
     "category": "Informatique",
     "difficulty": "normal",
-    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
+    "description": "Charles Babbage a conçu la machine analytique au XIXe siècle, considérée comme le premier ordinateur programmable, bien qu'elle n'ait jamais été construite."
   },
   {
-    "id": "998",
-    "question": "D'où vient le titre du livre 'Le Silence des agneaux' ?",
-    "answer": "Le traumatisme d'enfance du personnage principal",
+    "id": "607",
+    "question": "Qui est la déesse du soleil dans la mythologie japonaise ?",
+    "answer": "Amaterasu",
     "badAnswers": [
-      "Le lien avec le meurtre d'innocents",
-      "Le plat préféré du méchant",
-      "La voix des innocents étouffée par les puissants"
+      "Tsukuyomi",
+      "Benzaiten",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Amaterasu est la divinité centrale du shintoïsme et l'ancêtre mythique des empereurs japonais."
+  },
+  {
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
+    "badAnswers": [
+      "Lion",
+      "Aigle",
+      "Ours"
+    ],
+    "category": "Culture générale",
+    "difficulty": "difficile",
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+  },
+  {
+    "id": "1732",
+    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
+    "answer": "Manfred von Ardenne",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
+  },
+  {
+    "id": "1206",
+    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
+    "answer": "Boris Vian",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
     "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Le titre Le Silence des agneaux fait référence au souvenir traumatique de Clarice Starling, qui associe le silence des agneaux à son enfance difficile."
-  },
-  {
-    "id": "254",
-    "question": "Quel est le nom de la danse traditionnelle des Indiens d'Amérique ?",
-    "answer": "La danse du soleil",
-    "badAnswers": [
-      "La danse des esprits",
-      "La danse de la pluie",
-      "La danse des étoiles"
-    ],
-    "category": "Danse",
     "difficulty": "normal",
-    "description": "La danse du soleil est une cérémonie sacrée des Amérindiens Plains, célébrant la vie et la nature. Elle implique des chants, des tambours et des rituels de purification. La danse de la pluie est une autre cérémonie pour invoquer la pluie."
+    "description": "Boris Vian a écrit 'L'Écume des jours' (1947), un roman poétique et surréaliste sur l'amour et la maladie dans un univers onirique."
   },
   {
-    "id": "1377",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1980 ?",
-    "answer": "Ordinary People",
+    "id": "4",
+    "question": "Quel élément chimique a pour symbole 'Fe' ?",
+    "answer": "Fer",
     "badAnswers": [
-      "Raging Bull",
-      "The Elephant Man",
-      "Coal Miner's Daughter"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Ordinary People, réalisé par Robert Redford, a remporté l'Oscar du meilleur film en 1980, un drame sur les tensions familiales."
-  },
-  {
-    "id": "388",
-    "question": "Dans Destiny 2, quel est le nom de la principale menace extraterrestre ?",
-    "answer": "La Ruche",
-    "badAnswers": [
-      "Les Cabals",
-      "Les Vex",
-      "Les Déchus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "La Ruche (Hive) est une menace extraterrestre majeure dans Destiny 2, une race de créatures sombres liées à l’Obscurité. Les Cabals, Vex et Déchus sont d’autres factions ennemies, mais la Ruche est souvent au centre des intrigues principales."
-  },
-  {
-    "id": "746",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
-    "answer": "Ness",
-    "badAnswers": [
-      "Lucas",
-      "Poo",
-      "Jeff"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
-  },
-  {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
-    "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
-    ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
-  },
-  {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
-    "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
-  },
-  {
-    "id": "2140",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1926 ?",
-    "answer": "Aucun Oscar décerné",
-    "badAnswers": [
-      "The Big Parade",
-      "Ben-Hur",
-      "The Gold Rush"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1926, les Oscars n'étaient pas encore officiellement décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "1701",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ru ?",
-    "answer": "Ruthénium",
-    "badAnswers": [
-      "Radon",
-      "Rubidium",
-      "Rhodium"
+      "Fluor",
+      "Francium",
+      "Phosphore"
     ],
     "category": "Science",
+    "difficulty": "facile",
+    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
+  },
+  {
+    "id": "1509",
+    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
+    "answer": "The Smashing Pumpkins",
+    "badAnswers": [
+      "Nirvana",
+      "Pearl Jam",
+      "Soundgarden"
+    ],
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Le ruthénium, symbolisé par Ru, est un métal rare utilisé dans les alliages et les contacts électriques."
+    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
+  },
+  {
+    "id": "218",
+    "question": "Quelle est la superficie de l’île de la Réunion ?",
+    "answer": "2 512 km²",
+    "badAnswers": [
+      "992 km²",
+      "2 150 km²",
+      "5 240 km²"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
   }
 ]
