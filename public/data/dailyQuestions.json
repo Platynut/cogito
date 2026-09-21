@@ -1,132 +1,132 @@
 [
   {
-    "id": "81",
-    "question": "Qui a dirigé 'Le Parrain' ?",
-    "answer": "Francis Ford Coppola",
+    "id": "1168",
+    "question": "Quel est le nom du dieu grec de la forge ?",
+    "answer": "Héphaïstos",
     "badAnswers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Alfred Hitchcock"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
-  },
-  {
-    "id": "182",
-    "question": "Quel animal migre sur les côtes de l’île de la Réunion de juillet à octobre ?",
-    "answer": "La baleine à bosse",
-    "badAnswers": [
-      "La tortue marine",
-      "Le poisson trompette",
-      "Le poisson-ballon"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les baleines à bosse migrent vers les eaux chaudes de La Réunion pour se reproduire. Les tortues y vivent toute l'année, les autres poissons ne migrent pas."
-  },
-  {
-    "id": "1119",
-    "question": "Qui est à l'origine du concept du premier ordinateur programmable ?",
-    "answer": "Charles Babbage",
-    "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John Atanasoff"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Charles Babbage a conçu la machine analytique au XIXe siècle, considérée comme le premier ordinateur programmable, bien qu'elle n'ait jamais été construite."
-  },
-  {
-    "id": "607",
-    "question": "Qui est la déesse du soleil dans la mythologie japonaise ?",
-    "answer": "Amaterasu",
-    "badAnswers": [
-      "Tsukuyomi",
-      "Benzaiten",
-      "Inari"
+      "Arès",
+      "Apollon",
+      "Hermès"
     ],
     "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Amaterasu est la divinité centrale du shintoïsme et l'ancêtre mythique des empereurs japonais."
-  },
-  {
-    "id": "27",
-    "question": "Quel est l'animal national de l'Écosse ?",
-    "answer": "Licorne",
-    "badAnswers": [
-      "Lion",
-      "Aigle",
-      "Ours"
-    ],
-    "category": "Culture générale",
-    "difficulty": "difficile",
-    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
-  },
-  {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
-  },
-  {
-    "id": "1206",
-    "question": "Quel est le nom de l'auteur de 'L'Écume des jours' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Écume des jours' (1947), un roman poétique et surréaliste sur l'amour et la maladie dans un univers onirique."
-  },
-  {
-    "id": "4",
-    "question": "Quel élément chimique a pour symbole 'Fe' ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
     "difficulty": "facile",
-    "description": "Le fer (Fe) est un métal essentiel pour l'hémoglobine. Son symbole vient du latin 'ferrum'."
+    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
   },
   {
-    "id": "1509",
-    "question": "Quel est le nom du groupe qui a chanté '1979' ?",
-    "answer": "The Smashing Pumpkins",
+    "id": "624",
+    "question": "Quel est le nom du plus grand lac d'Asie ?",
+    "answer": "Mer Caspienne",
     "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'1979', sorti en 1995 par The Smashing Pumpkins, est une chanson alternative rock nostalgique tirée de l'album Mellon Collie and the Infinite Sadness."
-  },
-  {
-    "id": "218",
-    "question": "Quelle est la superficie de l’île de la Réunion ?",
-    "answer": "2 512 km²",
-    "badAnswers": [
-      "992 km²",
-      "2 150 km²",
-      "5 240 km²"
+      "Lac Baïkal",
+      "Lac Balkhach",
+      "Lac Qinghai"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
+    "description": "La Mer Caspienne, bien qu'appelée 'mer', est le plus grand lac d'Asie, couvrant 371 000 km² entre l'Europe et l'Asie. Le lac Baïkal est le plus profond, mais plus petit, et Balkhach et Qinghai sont moins vastes."
+  },
+  {
+    "id": "1242",
+    "question": "Quel est le nom du dieu grec de la messagerie ?",
+    "answer": "Hermès",
+    "badAnswers": [
+      "Apollon",
+      "Dionysos",
+      "Arès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Hermès, dieu grec des messagers, du commerce et des voyageurs, est représenté avec des sandales ailées et un caducée."
+  },
+  {
+    "id": "973",
+    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
+    "answer": "IMKO-1",
+    "badAnswers": [
+      "Pravetz 82",
+      "Pravetz 8D",
+      "IZOT 1030"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
+  },
+  {
+    "id": "1285",
+    "question": "Quel est le nom du groupe qui a chanté 'Bittersweet Symphony' ?",
+    "answer": "The Verve",
+    "badAnswers": [
+      "Oasis",
+      "Blur",
+      "Radiohead"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'Bittersweet Symphony', sorti en 1997 par The Verve, est une chanson rock alternative célèbre pour son sample orchestral et ses paroles introspectives."
+  },
+  {
+    "id": "264",
+    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
+    "answer": "Minecraft",
+    "badAnswers": [
+      "Fortnite",
+      "Call of Duty",
+      "World of Warcraft"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
+  },
+  {
+    "id": "1251",
+    "question": "Quel est le nom de la déesse grecque du foyer ?",
+    "answer": "Hestia",
+    "badAnswers": [
+      "Héra",
+      "Déméter",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hestia, déesse grecque du foyer et de la maison, est une divinité paisible associée à la chaleur domestique et au feu sacré."
+  },
+  {
+    "id": "1850",
+    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
+  },
+  {
+    "id": "610",
+    "question": "Dans Super Mario Sunshine, quel est le nom de l'île où se déroule l'histoire ?",
+    "answer": "Île Delfino",
+    "badAnswers": [
+      "Île Yoshi",
+      "Île Bowser",
+      "Île Peach"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Super Mario Sunshine se déroule sur l'Île Delfino, un lieu tropical où Mario utilise le dispositif FLUDD pour nettoyer la pollution. Les autres îles sont fictives ou tirées d'autres jeux."
+  },
+  {
+    "id": "912",
+    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
+    "answer": "Zilean",
+    "badAnswers": [
+      "Ekko",
+      "Chrono",
+      "Lux"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
   }
 ]
