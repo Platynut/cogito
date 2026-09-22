@@ -1,132 +1,132 @@
 [
   {
-    "id": "1168",
-    "question": "Quel est le nom du dieu grec de la forge ?",
-    "answer": "Héphaïstos",
+    "id": "1834",
+    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
+    "answer": "Arthur Rimbaud",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Héphaïstos, dieu grec du feu et de la forge, est connu pour son talent d'artisan, créant des armes et des objets pour les dieux de l'Olympe."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
   },
   {
-    "id": "624",
-    "question": "Quel est le nom du plus grand lac d'Asie ?",
-    "answer": "Mer Caspienne",
+    "id": "343",
+    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
+    "answer": "Plateau du Prélude",
     "badAnswers": [
-      "Lac Baïkal",
-      "Lac Balkhach",
-      "Lac Qinghai"
+      "Plaine d'Hyrule",
+      "Montagne de la Mort",
+      "Désert Gerudo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+  },
+  {
+    "id": "156",
+    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
+    "answer": "La coccinelle",
+    "badAnswers": [
+      "La luciole",
+      "Le scarabée",
+      "La libellule"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
+  },
+  {
+    "id": "1043",
+    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
+    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "badAnswers": [
+      "Pirates des Caraïbes : Le Secret du coffre maudit",
+      "Pirates des Caraïbes : Jusqu'au bout du monde",
+      "Pirates des Caraïbes : La Fontaine de jouvence"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
+  },
+  {
+    "id": "921",
+    "question": "Quel est le nom du plus grand glacier d'Asie ?",
+    "answer": "Siachen",
+    "badAnswers": [
+      "Gangotri",
+      "Baltoro",
+      "Zemu"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le glacier Siachen, dans l'Himalaya, est le plus grand d'Asie, s'étendant sur environ 76 km. Gangotri, Baltoro et Zemu sont d'autres glaciers, mais plus petits."
+  },
+  {
+    "id": "1340",
+    "question": "Quel est le nom du groupe qui a chanté 'No Surprises' ?",
+    "answer": "Radiohead",
+    "badAnswers": [
+      "Coldplay",
+      "Muse",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "'No Surprises', sorti en 1997 par Radiohead, est une chanson mélancolique tirée de l'album OK Computer, connue pour son ambiance introspective."
+  },
+  {
+    "id": "1389",
+    "question": "Quel est la capitale du Bhoutan ?",
+    "answer": "Thimphou",
+    "badAnswers": [
+      "Paro",
+      "Punakha",
+      "Jakar"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "La Mer Caspienne, bien qu'appelée 'mer', est le plus grand lac d'Asie, couvrant 371 000 km² entre l'Europe et l'Asie. Le lac Baïkal est le plus profond, mais plus petit, et Balkhach et Qinghai sont moins vastes."
+    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
   },
   {
-    "id": "1242",
-    "question": "Quel est le nom du dieu grec de la messagerie ?",
-    "answer": "Hermès",
+    "id": "1825",
+    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
+    "answer": "Blaise Pascal",
     "badAnswers": [
-      "Apollon",
-      "Dionysos",
-      "Arès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Hermès, dieu grec des messagers, du commerce et des voyageurs, est représenté avec des sandales ailées et un caducée."
-  },
-  {
-    "id": "973",
-    "question": "Comment s'appelait le premier ordinateur personnel bulgare ?",
-    "answer": "IMKO-1",
-    "badAnswers": [
-      "Pravetz 82",
-      "Pravetz 8D",
-      "IZOT 1030"
+      "Gottfried Leibniz",
+      "Charles Babbage",
+      "Alan Turing"
     ],
     "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "L'IMKO-1, développé dans les années 1970, fut le premier ordinateur personnel bulgare, marquant les débuts de l'informatique dans le pays."
-  },
-  {
-    "id": "1285",
-    "question": "Quel est le nom du groupe qui a chanté 'Bittersweet Symphony' ?",
-    "answer": "The Verve",
-    "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
-    ],
-    "category": "Musique",
     "difficulty": "normal",
-    "description": "'Bittersweet Symphony', sorti en 1997 par The Verve, est une chanson rock alternative célèbre pour son sample orchestral et ses paroles introspectives."
+    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
   },
   {
-    "id": "264",
-    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
-    "answer": "Minecraft",
+    "id": "1368",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sm ?",
+    "answer": "Samarium",
     "badAnswers": [
-      "Fortnite",
-      "Call of Duty",
-      "World of Warcraft"
+      "Scandium",
+      "Sélénium",
+      "Strontium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le samarium, symbolisé par Sm, est un métal rare utilisé dans les aimants et les réacteurs nucléaires pour ses propriétés absorbant les neutrons."
   },
   {
-    "id": "1251",
-    "question": "Quel est le nom de la déesse grecque du foyer ?",
-    "answer": "Hestia",
+    "id": "1319",
+    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
+    "answer": "Déméter",
     "badAnswers": [
       "Héra",
-      "Déméter",
-      "Aphrodite"
+      "Aphrodite",
+      "Athéna"
     ],
     "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Hestia, déesse grecque du foyer et de la maison, est une divinité paisible associée à la chaleur domestique et au feu sacré."
-  },
-  {
-    "id": "1850",
-    "question": "Quel est le nom du groupe qui a chanté 'Who Are You' ?",
-    "answer": "The Who",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Who Are You', sorti en 1978 par The Who, est une chanson rock tirée de l'album éponyme."
-  },
-  {
-    "id": "610",
-    "question": "Dans Super Mario Sunshine, quel est le nom de l'île où se déroule l'histoire ?",
-    "answer": "Île Delfino",
-    "badAnswers": [
-      "Île Yoshi",
-      "Île Bowser",
-      "Île Peach"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Super Mario Sunshine se déroule sur l'Île Delfino, un lieu tropical où Mario utilise le dispositif FLUDD pour nettoyer la pollution. Les autres îles sont fictives ou tirées d'autres jeux."
-  },
-  {
-    "id": "912",
-    "question": "Dans League of Legends, quel champion est surnommé Le Protecteur du Temps ?",
-    "answer": "Zilean",
-    "badAnswers": [
-      "Ekko",
-      "Chrono",
-      "Lux"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Zilean, surnommé Le Protecteur du Temps dans League of Legends, manipule le temps avec ses sorts. Ekko, Chrono (fictif) et Lux ont d'autres thèmes."
+    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
   }
 ]
