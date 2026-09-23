@@ -1,132 +1,132 @@
 [
   {
-    "id": "1834",
-    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
-    "answer": "Arthur Rimbaud",
+    "id": "1399",
+    "question": "Quel est le nom de la déesse grecque des arts ?",
+    "answer": "Les Muses",
     "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
+    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
   },
   {
-    "id": "343",
-    "question": "Dans The Legend of Zelda: Breath of the Wild, quel est le nom de la région centrale d'Hyrule ?",
-    "answer": "Plateau du Prélude",
+    "id": "686",
+    "question": "Dans Horizon Forbidden West, quel est le nom de l'intelligence artificielle qui guide Aloy ?",
+    "answer": "GAIA",
     "badAnswers": [
-      "Plaine d'Hyrule",
-      "Montagne de la Mort",
-      "Désert Gerudo"
+      "HADES",
+      "APOLLO",
+      "MINERVA"
     ],
     "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Plateau du Prélude est la région centrale et initiale de The Legend of Zelda: Breath of the Wild, où Link commence son aventure après son réveil. Cette zone sert de tutoriel pour le jeu. La Plaine d'Hyrule, la Montagne de la Mort et le Désert Gerudo sont d'autres régions, mais pas centrales au début."
+    "description": "GAIA est l'intelligence artificielle qui guide Aloy dans Horizon Forbidden West, visant à restaurer l'écosystème. HADES, APOLLO et MINERVA sont d'autres sous-fonctions de l'IA du jeu."
   },
   {
-    "id": "156",
-    "question": "Quel insecte appelle-t-on aussi la bête à bon dieu ?",
-    "answer": "La coccinelle",
+    "id": "1385",
+    "question": "Quel est la capitale du Népal ?",
+    "answer": "Katmandou",
     "badAnswers": [
-      "La luciole",
-      "Le scarabée",
-      "La libellule"
+      "Pokhara",
+      "Biratnagar",
+      "Lalitpur"
     ],
-    "category": "Nature",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "La coccinelle est surnommée 'bête à bon dieu' en raison d'une légende médiévale où elle aurait sauvé un condamné. Les autres insectes n'ont pas ce surnom."
+    "description": "Katmandou, capitale du Népal, est une ville située dans une vallée himalayenne, connue pour ses temples et son patrimoine bouddhiste."
   },
   {
-    "id": "1043",
-    "question": "Quel est le nom du film qui a introduit le personnage de Capitaine Jack Sparrow ?",
-    "answer": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "id": "1447",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1968 ?",
+    "answer": "Oliver!",
     "badAnswers": [
-      "Pirates des Caraïbes : Le Secret du coffre maudit",
-      "Pirates des Caraïbes : Jusqu'au bout du monde",
-      "Pirates des Caraïbes : La Fontaine de jouvence"
+      "Funny Girl",
+      "The Lion in Winter",
+      "Romeo and Juliet"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Oliver!, réalisé par Carol Reed, a remporté l'Oscar du meilleur film en 1968, une comédie musicale basée sur le roman de Charles Dickens."
+  },
+  {
+    "id": "723",
+    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
+    "answer": "Zamazenta",
+    "badAnswers": [
+      "Zacian",
+      "Éthernatos",
+      "Dracaufeu"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jack Sparrow, interprété par Johnny Depp, apparaît pour la première fois dans 'La Malédiction du Black Pearl' (2003), devenant un personnage culte."
+    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
   },
   {
-    "id": "921",
-    "question": "Quel est le nom du plus grand glacier d'Asie ?",
-    "answer": "Siachen",
+    "id": "1316",
+    "question": "Quel est le nom de l'inventeur de la première machine à écrire ?",
+    "answer": "Christopher Latham Sholes",
     "badAnswers": [
-      "Gangotri",
-      "Baltoro",
-      "Zemu"
+      "Thomas Edison",
+      "Samuel Morse",
+      "Alexander Graham Bell"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "Le glacier Siachen, dans l'Himalaya, est le plus grand d'Asie, s'étendant sur environ 76 km. Gangotri, Baltoro et Zemu sont d'autres glaciers, mais plus petits."
+    "description": "Christopher Latham Sholes a inventé la première machine à écrire pratique en 1868, introduisant le clavier QWERTY encore utilisé aujourd'hui."
   },
   {
-    "id": "1340",
-    "question": "Quel est le nom du groupe qui a chanté 'No Surprises' ?",
-    "answer": "Radiohead",
+    "id": "1484",
+    "question": "Quel est le nom du dieu grec du vent du nord ?",
+    "answer": "Borée",
     "badAnswers": [
-      "Coldplay",
-      "Muse",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'No Surprises', sorti en 1997 par Radiohead, est une chanson mélancolique tirée de l'album OK Computer, connue pour son ambiance introspective."
-  },
-  {
-    "id": "1389",
-    "question": "Quel est la capitale du Bhoutan ?",
-    "answer": "Thimphou",
-    "badAnswers": [
-      "Paro",
-      "Punakha",
-      "Jakar"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Thimphou, capitale du Bhoutan, est une ville nichée dans les montagnes himalayennes, connue pour ses monastères et sa culture bouddhiste."
-  },
-  {
-    "id": "1825",
-    "question": "Quel est le nom de l'inventeur de l'une des premières calculatrices mécaniques ?",
-    "answer": "Blaise Pascal",
-    "badAnswers": [
-      "Gottfried Leibniz",
-      "Charles Babbage",
-      "Alan Turing"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Blaise Pascal a inventé la Pascaline en 1642, une des premières machines capables de réaliser automatiquement des additions et des soustractions à l'aide de roues dentées."
-  },
-  {
-    "id": "1368",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sm ?",
-    "answer": "Samarium",
-    "badAnswers": [
-      "Scandium",
-      "Sélénium",
-      "Strontium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le samarium, symbolisé par Sm, est un métal rare utilisé dans les aimants et les réacteurs nucléaires pour ses propriétés absorbant les neutrons."
-  },
-  {
-    "id": "1319",
-    "question": "Quel est le nom de la déesse grecque de l'agriculture ?",
-    "answer": "Déméter",
-    "badAnswers": [
-      "Héra",
-      "Aphrodite",
-      "Athéna"
+      "Éole",
+      "Zéphyr",
+      "Notos"
     ],
     "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
+  },
+  {
+    "id": "467",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
+    "answer": "Ciri",
+    "badAnswers": [
+      "Yennefer",
+      "Triss",
+      "Keira"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Déméter, déesse grecque de l'agriculture, est associée aux récoltes et à la fertilité, mère de Perséphone dans la mythologie."
+    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
+  },
+  {
+    "id": "444",
+    "question": "Quel scientifique a découvert le principe de flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galilée",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+  },
+  {
+    "id": "1671",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
   }
 ]
