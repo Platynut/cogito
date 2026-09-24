@@ -1,132 +1,132 @@
 [
   {
-    "id": "1399",
-    "question": "Quel est le nom de la déesse grecque des arts ?",
-    "answer": "Les Muses",
+    "id": "1654",
+    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
+    "answer": "R.E.M.",
     "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
+      "The Verve",
+      "Radiohead",
+      "Oasis"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
-  },
-  {
-    "id": "686",
-    "question": "Dans Horizon Forbidden West, quel est le nom de l'intelligence artificielle qui guide Aloy ?",
-    "answer": "GAIA",
-    "badAnswers": [
-      "HADES",
-      "APOLLO",
-      "MINERVA"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "GAIA est l'intelligence artificielle qui guide Aloy dans Horizon Forbidden West, visant à restaurer l'écosystème. HADES, APOLLO et MINERVA sont d'autres sous-fonctions de l'IA du jeu."
-  },
-  {
-    "id": "1385",
-    "question": "Quel est la capitale du Népal ?",
-    "answer": "Katmandou",
-    "badAnswers": [
-      "Pokhara",
-      "Biratnagar",
-      "Lalitpur"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Katmandou, capitale du Népal, est une ville située dans une vallée himalayenne, connue pour ses temples et son patrimoine bouddhiste."
+    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
   },
   {
-    "id": "1447",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1968 ?",
-    "answer": "Oliver!",
+    "id": "644",
+    "question": "Quel est le plus grand oiseau capable de voler ?",
+    "answer": "Albatros hurleur",
     "badAnswers": [
-      "Funny Girl",
-      "The Lion in Winter",
-      "Romeo and Juliet"
+      "Condor des Andes",
+      "Grue royale",
+      "Aigle royal"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L'albatros hurleur est le plus grand oiseau capable de voler, avec une envergure pouvant atteindre 3,5 mètres. Le condor des Andes est plus lourd, la grue royale et l'aigle royal sont plus petits."
+  },
+  {
+    "id": "348",
+    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
+    "answer": "Jane Austen",
+    "badAnswers": [
+      "Charlotte Brontë",
+      "Emily Dickinson",
+      "Virginia Woolf"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+  },
+  {
+    "id": "1367",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1981 ?",
+    "answer": "Chariots of Fire",
+    "badAnswers": [
+      "Raiders of the Lost Ark",
+      "On Golden Pond",
+      "Reds"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Oliver!, réalisé par Carol Reed, a remporté l'Oscar du meilleur film en 1968, une comédie musicale basée sur le roman de Charles Dickens."
+    "description": "Chariots of Fire, réalisé par Hugh Hudson, a remporté l'Oscar du meilleur film en 1981, une histoire sur des coureurs olympiques britanniques."
   },
   {
-    "id": "723",
-    "question": "Dans Pokémon Épée et Bouclier, quel est le Pokémon légendaire associé au Bouclier ?",
-    "answer": "Zamazenta",
+    "id": "481",
+    "question": "Quel est le nom du plus grand récif corallien du monde ?",
+    "answer": "Grande Barrière de Corail",
     "badAnswers": [
-      "Zacian",
-      "Éthernatos",
-      "Dracaufeu"
+      "Récif de Belize",
+      "Récif de Ningaloo",
+      "Récif de Palau"
     ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Zamazenta est le Pokémon légendaire associé au Bouclier dans Pokémon Bouclier, prenant la forme d'un loup avec un bouclier. Zacian est lié à l'Épée, Éthernatos est un autre légendaire, et Dracaufeu est non légendaire."
+    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
   },
   {
-    "id": "1316",
-    "question": "Quel est le nom de l'inventeur de la première machine à écrire ?",
-    "answer": "Christopher Latham Sholes",
+    "id": "1881",
+    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
+    "answer": "Homer Dudley",
     "badAnswers": [
-      "Thomas Edison",
-      "Samuel Morse",
-      "Alexander Graham Bell"
+      "Alan Turing",
+      "Dennis Gabor",
+      "Ray Kurzweil"
     ],
-    "category": "Histoire",
+    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Christopher Latham Sholes a inventé la première machine à écrire pratique en 1868, introduisant le clavier QWERTY encore utilisé aujourd'hui."
+    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
   },
   {
-    "id": "1484",
-    "question": "Quel est le nom du dieu grec du vent du nord ?",
-    "answer": "Borée",
+    "id": "275",
+    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
+    "answer": "Andorre",
     "badAnswers": [
-      "Éole",
-      "Zéphyr",
-      "Notos"
+      "Saint-Marin",
+      "Cité du Vatican",
+      "Liechtenstein"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Borée, dieu grec du vent du nord, est souvent représenté comme un vieillard ailé, associé au froid et à l'hiver."
-  },
-  {
-    "id": "467",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
-    "answer": "Ciri",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
+    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
   },
   {
-    "id": "444",
-    "question": "Quel scientifique a découvert le principe de flottabilité ?",
-    "answer": "Archimède",
+    "id": "454",
+    "question": "Quel scientifique a découvert la loi des gaz parfaits ?",
+    "answer": "Émile Clapeyron",
     "badAnswers": [
-      "Galilée",
-      "Isaac Newton",
-      "Blaise Pascal"
+      "Robert Boyle",
+      "Jacques Charles",
+      "Joseph Louis Gay-Lussac"
     ],
     "category": "Science",
-    "difficulty": "normal",
-    "description": "Archimède, mathématicien grec, a découvert le principe de flottabilité (ou principe d’Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent ou coulent. Galilée, Newton et Pascal ont contribué à d’autres domaines de la physique."
+    "difficulty": "difficile",
+    "description": "Émile Clapeyron a formulé la loi des gaz parfaits en 1834, combinant les travaux de Boyle, Charles et Gay-Lussac dans l’équation PV=nRT. Boyle, Charles et Gay-Lussac ont contribué à des lois partielles sur les gaz, mais Clapeyron a unifié ces concepts."
   },
   {
-    "id": "1671",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
-    "answer": "Pokémon",
+    "id": "2123",
+    "question": "Quel est le nom de l'inventeur du premier système de stimulateur cardiaque implantable ?",
+    "answer": "Wilson Greatbatch",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "William Kouwenhoven",
+      "Michel Mirowski",
+      "Paul Zoll"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Wilson Greatbatch a inventé le premier stimulateur cardiaque implantable en 1958, révolutionnant la cardiologie."
+  },
+  {
+    "id": "997",
+    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
+    "answer": "Frank Bruno",
+    "badAnswers": [
+      "Henry Cooper",
+      "Muhammad Ali",
+      "Joe Frazier"
+    ],
+    "category": "Séries",
+    "difficulty": "normal",
+    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
   }
 ]
