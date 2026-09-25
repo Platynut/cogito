@@ -1,132 +1,132 @@
 [
   {
-    "id": "1654",
-    "question": "Quel est le nom du groupe qui a chanté 'Shiny Happy People' ?",
-    "answer": "R.E.M.",
+    "id": "1889",
+    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "The Verve",
-      "Radiohead",
-      "Oasis"
+      "Albert Camus",
+      "Boris Vian",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+  },
+  {
+    "id": "2051",
+    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Shiny Happy People', sorti en 1991 par R.E.M., est une chanson pop-rock tirée de l'album Out of Time."
+    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
   },
   {
-    "id": "644",
-    "question": "Quel est le plus grand oiseau capable de voler ?",
-    "answer": "Albatros hurleur",
+    "id": "1903",
+    "question": "Quel est le nom de l'un des inventeurs du premier ordinateur électronique ?",
+    "answer": "John Presper Eckert",
     "badAnswers": [
-      "Condor des Andes",
-      "Grue royale",
-      "Aigle royal"
+      "John Mauchly",
+      "Alan Turing",
+      "Charles Babbage"
     ],
-    "category": "Animaux",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "L'albatros hurleur est le plus grand oiseau capable de voler, avec une envergure pouvant atteindre 3,5 mètres. Le condor des Andes est plus lourd, la grue royale et l'aigle royal sont plus petits."
+    "description": "John Presper Eckert a co-développé l'ENIAC en 1945 avec John Mauchly, considéré comme l'un des premiers ordinateurs électroniques généralistes."
   },
   {
-    "id": "348",
-    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
-    "answer": "Jane Austen",
+    "id": "1190",
+    "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
+    "answer": "Athéna",
     "badAnswers": [
-      "Charlotte Brontë",
-      "Emily Dickinson",
-      "Virginia Woolf"
+      "Arès",
+      "Apollon",
+      "Hermès"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
   },
   {
-    "id": "1367",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1981 ?",
-    "answer": "Chariots of Fire",
+    "id": "218",
+    "question": "Quelle est la superficie de l’île de la Réunion ?",
+    "answer": "2 512 km²",
     "badAnswers": [
-      "Raiders of the Lost Ark",
-      "On Golden Pond",
-      "Reds"
+      "992 km²",
+      "2 150 km²",
+      "5 240 km²"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
+  },
+  {
+    "id": "165",
+    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
+    "answer": "Jean Dujardin",
+    "badAnswers": [
+      "Christian Clavier",
+      "Guillaume Canet",
+      "Neil Patrick Harris"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Chariots of Fire, réalisé par Hugh Hudson, a remporté l'Oscar du meilleur film en 1981, une histoire sur des coureurs olympiques britanniques."
-  },
-  {
-    "id": "481",
-    "question": "Quel est le nom du plus grand récif corallien du monde ?",
-    "answer": "Grande Barrière de Corail",
-    "badAnswers": [
-      "Récif de Belize",
-      "Récif de Ningaloo",
-      "Récif de Palau"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "La Grande Barrière de Corail, au large de l'Australie, est le plus grand récif corallien du monde, s'étendant sur plus de 2 300 km. C'est un site du patrimoine mondial. Les récifs de Belize, Ningaloo et Palau sont plus petits."
-  },
-  {
-    "id": "1881",
-    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
-    "answer": "Homer Dudley",
-    "badAnswers": [
-      "Alan Turing",
-      "Dennis Gabor",
-      "Ray Kurzweil"
-    ],
-    "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
+    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
   },
   {
-    "id": "275",
-    "question": "Quel petit pays est situé entre les frontières de la France et de l'Espagne ?",
-    "answer": "Andorre",
+    "id": "929",
+    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
+    "answer": "9 mai 1945",
     "badAnswers": [
-      "Saint-Marin",
-      "Cité du Vatican",
-      "Liechtenstein"
+      "2 septembre 1945",
+      "9 août 1945",
+      "11 décembre 1945"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
+  },
+  {
+    "id": "1507",
+    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
+    "answer": "Iris",
+    "badAnswers": [
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
+  },
+  {
+    "id": "506",
+    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
+    "answer": "Navi",
+    "badAnswers": [
+      "Tatl",
+      "Midna",
+      "Fi"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Andorre est une petite principauté située dans les Pyrénées, entre la France et l'Espagne. C'est l'un des plus petits pays d'Europe, connu pour ses stations de ski et son statut de paradis fiscal. Saint-Marin et la Cité du Vatican sont en Italie, et le Liechtenstein est entre la Suisse et l'Autriche."
+    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
   },
   {
-    "id": "454",
-    "question": "Quel scientifique a découvert la loi des gaz parfaits ?",
-    "answer": "Émile Clapeyron",
+    "id": "196",
+    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
+    "answer": "Alsace",
     "badAnswers": [
-      "Robert Boyle",
-      "Jacques Charles",
-      "Joseph Louis Gay-Lussac"
+      "Bretagne",
+      "Corse",
+      "Auvergne"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Émile Clapeyron a formulé la loi des gaz parfaits en 1834, combinant les travaux de Boyle, Charles et Gay-Lussac dans l’équation PV=nRT. Boyle, Charles et Gay-Lussac ont contribué à des lois partielles sur les gaz, mais Clapeyron a unifié ces concepts."
-  },
-  {
-    "id": "2123",
-    "question": "Quel est le nom de l'inventeur du premier système de stimulateur cardiaque implantable ?",
-    "answer": "Wilson Greatbatch",
-    "badAnswers": [
-      "William Kouwenhoven",
-      "Michel Mirowski",
-      "Paul Zoll"
-    ],
-    "category": "Médecine",
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Wilson Greatbatch a inventé le premier stimulateur cardiaque implantable en 1958, révolutionnant la cardiologie."
-  },
-  {
-    "id": "997",
-    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
-    "answer": "Frank Bruno",
-    "badAnswers": [
-      "Henry Cooper",
-      "Muhammad Ali",
-      "Joe Frazier"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
+    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
   }
 ]
