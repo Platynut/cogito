@@ -1,132 +1,132 @@
 [
   {
-    "id": "1889",
-    "question": "Quel est le nom de l'auteur de 'Les Chemins de la liberté' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "1481",
+    "question": "Quel est la capitale de la Libye ?",
+    "answer": "Tripoli",
     "badAnswers": [
+      "Benghazi",
+      "Misrata",
+      "Sabha"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
+  },
+  {
+    "id": "1218",
+    "question": "Quel est la capitale du Sri Lanka ?",
+    "answer": "Colombo",
+    "badAnswers": [
+      "Kandy",
+      "Galle",
+      "Negombo"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Colombo, capitale commerciale du Sri Lanka, est une ville portuaire dynamique connue pour son mélange de cultures et son architecture coloniale."
+  },
+  {
+    "id": "336",
+    "question": "Dans Street Fighter II, quel personnage utilise le Hadoken ?",
+    "answer": "Ryu",
+    "badAnswers": [
+      "Chun-Li",
+      "Guile",
+      "Blanka"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ryu, l'un des personnages principaux de Street Fighter II, est connu pour son attaque Hadoken, une boule d'énergie projetée. Ce mouvement est emblématique des jeux de combat. Chun-Li, Guile et Blanka ont leurs propres attaques spéciales, mais pas le Hadoken."
+  },
+  {
+    "id": "409",
+    "question": "Quel est la capitale de la Chine ?",
+    "answer": "Pékin",
+    "badAnswers": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
+  },
+  {
+    "id": "1236",
+    "question": "Quel est le nom du groupe qui a chanté 'Wish You Were Here' ?",
+    "answer": "Pink Floyd",
+    "badAnswers": [
+      "The Doors",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Wish You Were Here', sorti en 1975 par Pink Floyd, est une chanson émouvante dédiée à Syd Barrett, tirée de l'album éponyme."
+  },
+  {
+    "id": "292",
+    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
+    "answer": "Point d'exclamation",
+    "badAnswers": [
+      "Signe dollar",
+      "Signe pourcentage",
+      "Astérisque"
+    ],
+    "category": "Informatique",
+    "difficulty": "facile",
+    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
+  },
+  {
+    "id": "1688",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lokhlass ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Lokhlass, Pokémon de type eau et glace, est connu pour transporter les joueurs à travers les mers dans la série Pokémon."
+  },
+  {
+    "id": "1582",
+    "question": "Quel est la capitale de l'Érythrée ?",
+    "answer": "Asmara",
+    "badAnswers": [
+      "Massawa",
+      "Keren",
+      "Assab"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
+  },
+  {
+    "id": "2033",
+    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
+    "answer": "Simone de Beauvoir",
+    "badAnswers": [
+      "Jean-Paul Sartre",
       "Albert Camus",
-      "Boris Vian",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit la trilogie 'Les Chemins de la liberté' (1945-1949), explorant l'existentialisme et la guerre."
+    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
   },
   {
-    "id": "2051",
-    "question": "Quel est le nom du groupe qui a chanté 'Golden Slumbers' ?",
-    "answer": "The Beatles",
+    "id": "317",
+    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
+    "answer": "Link",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Golden Slumbers', sorti en 1969 par The Beatles, est une ballade douce tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1903",
-    "question": "Quel est le nom de l'un des inventeurs du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
-    "badAnswers": [
-      "John Mauchly",
-      "Alan Turing",
-      "Charles Babbage"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "John Presper Eckert a co-développé l'ENIAC en 1945 avec John Mauchly, considéré comme l'un des premiers ordinateurs électroniques généralistes."
-  },
-  {
-    "id": "1190",
-    "question": "Quelle divinité grecque est associée à la guerre et à la stratégie ?",
-    "answer": "Athéna",
-    "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Hermès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Athéna, déesse de la guerre et de la stratégie, contraste avec Arès, dieu de la guerre brutale, et est une figure clé de l'Olympe."
-  },
-  {
-    "id": "218",
-    "question": "Quelle est la superficie de l’île de la Réunion ?",
-    "answer": "2 512 km²",
-    "badAnswers": [
-      "992 km²",
-      "2 150 km²",
-      "5 240 km²"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
-  },
-  {
-    "id": "165",
-    "question": "Quel acteur joue le rôle de Hubert Bonisseur de la Bath dans le film 'OSS 117: Le Caire, nid d'espions' ?",
-    "answer": "Jean Dujardin",
-    "badAnswers": [
-      "Christian Clavier",
-      "Guillaume Canet",
-      "Neil Patrick Harris"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jean Dujardin incarne l'agent secret OSS 117 dans la trilogie comique française. Christian Clavier joue dans 'Astérix', Guillaume Canet dans 'Ne le dis à personne', et Neil Patrick Harris dans 'How I Met Your Mother'."
-  },
-  {
-    "id": "929",
-    "question": "Quand la Grande Guerre patriotique en URSS s'est-elle conclue ?",
-    "answer": "9 mai 1945",
-    "badAnswers": [
-      "2 septembre 1945",
-      "9 août 1945",
-      "11 décembre 1945"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "La Grande Guerre patriotique, nom donné à la Seconde Guerre mondiale en URSS, s'est conclue le 9 mai 1945, jour de la capitulation de l'Allemagne nazie face aux forces soviétiques. Cette date est célébrée comme le Jour de la Victoire en Russie. Les autres dates correspondent à d'autres événements de la guerre, comme la capitulation du Japon."
-  },
-  {
-    "id": "1507",
-    "question": "Quel est le nom de la déesse grecque de l'arc-en-ciel ?",
-    "answer": "Iris",
-    "badAnswers": [
-      "Héra",
-      "Athéna",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Iris, déesse grecque de l'arc-en-ciel, est une messagère des dieux, reliant le ciel et la terre avec ses couleurs éclatantes."
-  },
-  {
-    "id": "506",
-    "question": "Dans The Legend of Zelda: Ocarina of Time, quel est le nom de la fée qui accompagne Link ?",
-    "answer": "Navi",
-    "badAnswers": [
-      "Tatl",
-      "Midna",
-      "Fi"
+      "Zelda",
+      "Ganon",
+      "Epona"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Navi est la fée qui accompagne Link dans The Legend of Zelda: Ocarina of Time, l'aidant à naviguer et à combattre. Tatl est dans Majora's Mask, Midna dans Twilight Princess, et Fi dans Skyward Sword."
-  },
-  {
-    "id": "196",
-    "question": "De quelle région française le gâteau de Noël nommé 'Manalas' est-il une spécialité ?",
-    "answer": "Alsace",
-    "badAnswers": [
-      "Bretagne",
-      "Corse",
-      "Auvergne"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Les Manalas, petits pains en forme de bonhomme, sont une tradition alsacienne de Noël, souvent aromatisés à la cannelle. En Bretagne, on préfère le kouign-amann, et en Corse les canistrelli."
+    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
   }
 ]
