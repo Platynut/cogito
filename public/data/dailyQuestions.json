@@ -1,112 +1,112 @@
 [
   {
-    "id": "1481",
-    "question": "Quel est la capitale de la Libye ?",
-    "answer": "Tripoli",
+    "id": "487",
+    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
+    "answer": "Drangleic",
     "badAnswers": [
-      "Benghazi",
-      "Misrata",
-      "Sabha"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
-  },
-  {
-    "id": "1218",
-    "question": "Quel est la capitale du Sri Lanka ?",
-    "answer": "Colombo",
-    "badAnswers": [
-      "Kandy",
-      "Galle",
-      "Negombo"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Colombo, capitale commerciale du Sri Lanka, est une ville portuaire dynamique connue pour son mélange de cultures et son architecture coloniale."
-  },
-  {
-    "id": "336",
-    "question": "Dans Street Fighter II, quel personnage utilise le Hadoken ?",
-    "answer": "Ryu",
-    "badAnswers": [
-      "Chun-Li",
-      "Guile",
-      "Blanka"
+      "Lordran",
+      "Lothric",
+      "Yharnam"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ryu, l'un des personnages principaux de Street Fighter II, est connu pour son attaque Hadoken, une boule d'énergie projetée. Ce mouvement est emblématique des jeux de combat. Chun-Li, Guile et Blanka ont leurs propres attaques spéciales, mais pas le Hadoken."
-  },
-  {
-    "id": "409",
-    "question": "Quel est la capitale de la Chine ?",
-    "answer": "Pékin",
-    "badAnswers": [
-      "Shanghai",
-      "Hong Kong",
-      "Guangzhou"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
-  },
-  {
-    "id": "1236",
-    "question": "Quel est le nom du groupe qui a chanté 'Wish You Were Here' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "The Doors",
-      "Led Zeppelin",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Wish You Were Here', sorti en 1975 par Pink Floyd, est une chanson émouvante dédiée à Syd Barrett, tirée de l'album éponyme."
-  },
-  {
-    "id": "292",
-    "question": "Sur un clavier QWERTY américain standard, quel symbole entrez-vous si vous maintenez la touche Maj + 1 ?",
-    "answer": "Point d'exclamation",
-    "badAnswers": [
-      "Signe dollar",
-      "Signe pourcentage",
-      "Astérisque"
-    ],
-    "category": "Informatique",
-    "difficulty": "facile",
-    "description": "Sur un clavier QWERTY américain standard, maintenir la touche Maj et appuyer sur la touche 1 produit un point d'exclamation (!). C'est une convention standard des claviers QWERTY, où chaque touche numérique produit un symbole différent lorsqu'elle est combinée avec Maj. Les autres symboles mentionnés correspondent à d'autres touches."
-  },
-  {
-    "id": "1688",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Lokhlass ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Lokhlass, Pokémon de type eau et glace, est connu pour transporter les joueurs à travers les mers dans la série Pokémon."
-  },
-  {
-    "id": "1582",
-    "question": "Quel est la capitale de l'Érythrée ?",
-    "answer": "Asmara",
-    "badAnswers": [
-      "Massawa",
-      "Keren",
-      "Assab"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Asmara, capitale de l'Érythrée, est une ville connue pour son architecture art déco et son ambiance coloniale italienne."
+    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
   },
   {
-    "id": "2033",
-    "question": "Quel est le nom de l'auteur de 'Mémoires d'une jeune fille rangée' ?",
-    "answer": "Simone de Beauvoir",
+    "id": "528",
+    "question": "Quel est le nom du plus grand océan du monde ?",
+    "answer": "Océan Pacifique",
+    "badAnswers": [
+      "Océan Atlantique",
+      "Océan Indien",
+      "Océan Arctique"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'océan Pacifique est le plus grand océan du monde, couvrant environ 155 millions de km², soit un tiers de la surface terrestre."
+  },
+  {
+    "id": "1743",
+    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
+    "answer": "Émile Zola",
+    "badAnswers": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Honoré de Balzac"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
+  },
+  {
+    "id": "2139",
+    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
+    "answer": "E.A. Johnson",
+    "badAnswers": [
+      "Steve Jobs",
+      "Alan Turing",
+      "Douglas Engelbart"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
+  },
+  {
+    "id": "890",
+    "question": "Dans Star Wars, quel est le nom de la princesse de la Rébellion ?",
+    "answer": "Leia Organa",
+    "badAnswers": [
+      "Padmé Amidala",
+      "Rey",
+      "Ahsoka Tano"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Leia Organa est la princesse de la Rébellion dans Star Wars : Un nouvel espoir. Padmé est sa mère, Rey une héroïne plus récente, et Ahsoka une Jedi."
+  },
+  {
+    "id": "2094",
+    "question": "Quel est le nom de l'inventeur du premier système de prothèse auditive moderne ?",
+    "answer": "Graeme Clark",
+    "badAnswers": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Wilson Greatbatch"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Graeme Clark a développé la première prothèse auditive cochléaire moderne dans les années 1970."
+  },
+  {
+    "id": "445",
+    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
+    "answer": "Samus Aran",
+    "badAnswers": [
+      "Ridley",
+      "Zero Suit Samus",
+      "Dark Samus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
+  },
+  {
+    "id": "1150",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Cu ?",
+    "answer": "Cuivre",
+    "badAnswers": [
+      "Cobalt",
+      "Chrome",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le cuivre, symbolisé par Cu (du latin 'cuprum'), est un métal conducteur utilisé dans les câbles électriques et les pièces de monnaie."
+  },
+  {
+    "id": "2057",
+    "question": "Quel est le nom de l'auteur de 'L'Arrache-cœur' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
       "Jean-Paul Sartre",
       "Albert Camus",
@@ -114,19 +114,19 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Mémoires d'une jeune fille rangée' (1958), une autobiographie sur son éducation et sa jeunesse."
+    "description": "Boris Vian a écrit 'L'Arrache-cœur' (1953), un roman surréaliste explorant la famille et la société."
   },
   {
-    "id": "317",
-    "question": "Quel est le nom du protagoniste principal dans The Legend of Zelda: Ocarina of Time ?",
-    "answer": "Link",
+    "id": "1975",
+    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
-      "Zelda",
-      "Ganon",
-      "Epona"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Link est le protagoniste principal de The Legend of Zelda: Ocarina of Time (1998), un jeu emblématique de la Nintendo 64. Ce héros silencieux explore Hyrule pour contrer Ganondorf. Zelda est la princesse, Ganon le méchant, et Epona le cheval de Link, mais aucun n'est le protagoniste."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
   }
 ]
