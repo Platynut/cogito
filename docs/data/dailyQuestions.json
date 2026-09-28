@@ -1,132 +1,132 @@
 [
   {
-    "id": "487",
-    "question": "Dans Dark Souls II, quel est le nom du royaume où se déroule l'histoire ?",
-    "answer": "Drangleic",
+    "id": "328",
+    "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
+    "answer": "Amazone",
     "badAnswers": [
-      "Lordran",
-      "Lothric",
-      "Yharnam"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dark Souls II se déroule dans le royaume de Drangleic, un monde sombre où le joueur cherche un remède à la malédiction des morts-vivants. Lordran et Lothric sont les royaumes de Dark Souls et Dark Souls III, et Yharnam est dans Bloodborne."
-  },
-  {
-    "id": "528",
-    "question": "Quel est le nom du plus grand océan du monde ?",
-    "answer": "Océan Pacifique",
-    "badAnswers": [
-      "Océan Atlantique",
-      "Océan Indien",
-      "Océan Arctique"
+      "Paraná",
+      "Orénoque",
+      "Madeira"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "L'océan Pacifique est le plus grand océan du monde, couvrant environ 155 millions de km², soit un tiers de la surface terrestre."
+    "description": "L'Amazone est le plus long fleuve d'Amérique du Sud et le deuxième plus long au monde, s'étendant sur environ 6 575 km à travers plusieurs pays, dont le Brésil et le Pérou. Il est également le plus grand en termes de débit. Le Paraná, l'Orénoque et le Madeira sont d'autres fleuves importants, mais plus courts."
   },
   {
-    "id": "1743",
-    "question": "Quel est le nom de l'auteur de 'L'Assommoir' ?",
-    "answer": "Émile Zola",
+    "id": "586",
+    "question": "Quel scientifique a découvert la théorie quantique des champs ?",
+    "answer": "Paul Dirac",
     "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Honoré de Balzac"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Émile Zola a écrit 'L'Assommoir' (1877), un roman naturaliste sur la classe ouvrière et l'alcoolisme."
-  },
-  {
-    "id": "2139",
-    "question": "Quel est le nom de l'inventeur du premier système de moniteur à écran tactile ?",
-    "answer": "E.A. Johnson",
-    "badAnswers": [
-      "Steve Jobs",
-      "Alan Turing",
-      "Douglas Engelbart"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "E.A. Johnson a développé le premier écran tactile capacitif dans les années 1960, utilisé dans les systèmes de contrôle aérien."
-  },
-  {
-    "id": "890",
-    "question": "Dans Star Wars, quel est le nom de la princesse de la Rébellion ?",
-    "answer": "Leia Organa",
-    "badAnswers": [
-      "Padmé Amidala",
-      "Rey",
-      "Ahsoka Tano"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Leia Organa est la princesse de la Rébellion dans Star Wars : Un nouvel espoir. Padmé est sa mère, Rey une héroïne plus récente, et Ahsoka une Jedi."
-  },
-  {
-    "id": "2094",
-    "question": "Quel est le nom de l'inventeur du premier système de prothèse auditive moderne ?",
-    "answer": "Graeme Clark",
-    "badAnswers": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Wilson Greatbatch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Graeme Clark a développé la première prothèse auditive cochléaire moderne dans les années 1970."
-  },
-  {
-    "id": "445",
-    "question": "Dans Super Smash Bros., quel personnage est le protagoniste de la série Metroid ?",
-    "answer": "Samus Aran",
-    "badAnswers": [
-      "Ridley",
-      "Zero Suit Samus",
-      "Dark Samus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Samus Aran est la protagoniste de la série Metroid et un personnage jouable dans Super Smash Bros.. Chasseuse de primes équipée d’une armure, elle combat des ennemis comme Ridley. Zero Suit Samus et Dark Samus sont des variations de Samus, pas le personnage principal."
-  },
-  {
-    "id": "1150",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Cu ?",
-    "answer": "Cuivre",
-    "badAnswers": [
-      "Cobalt",
-      "Chrome",
-      "Césium"
+      "Werner Heisenberg",
+      "Max Planck",
+      "Richard Feynman"
     ],
     "category": "Science",
+    "difficulty": "difficile",
+    "description": "Paul Dirac a posé les bases de la théorie quantique des champs dans les années 1920, intégrant la relativité à la mécanique quantique. Heisenberg, Planck et Feynman ont contribué à d'autres aspects de la physique quantique."
+  },
+  {
+    "id": "1817",
+    "question": "Quel est le nom de l'auteur de 'Vingt mille lieues sous les mers' ?",
+    "answer": "Jules Verne",
+    "badAnswers": [
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Le cuivre, symbolisé par Cu (du latin 'cuprum'), est un métal conducteur utilisé dans les câbles électriques et les pièces de monnaie."
+    "description": "Jules Verne a écrit 'Vingt mille lieues sous les mers' (1870), un roman d'aventure sur le sous-marin Nautilus."
   },
   {
-    "id": "2057",
-    "question": "Quel est le nom de l'auteur de 'L'Arrache-cœur' ?",
-    "answer": "Boris Vian",
+    "id": "1575",
+    "question": "Quel est la capitale du Burundi ?",
+    "answer": "Gitega",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Bujumbura",
+      "Ngozi",
+      "Kayanza"
     ],
-    "category": "Livres",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Boris Vian a écrit 'L'Arrache-cœur' (1953), un roman surréaliste explorant la famille et la société."
+    "description": "Gitega, capitale du Burundi depuis 2019, est une ville centrale connue pour son palais royal et ses tambours traditionnels."
   },
   {
-    "id": "1975",
-    "question": "Quel est le nom de l'auteur de 'Les Voyageurs de l'impériale' ?",
-    "answer": "Louis Aragon",
+    "id": "1789",
+    "question": "Quel est la capitale de l'Eswatini ?",
+    "answer": "Mbabane",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
-    "category": "Livres",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Voyageurs de l'impériale' (1942), un roman sur une famille bourgeoise en déclin."
+    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
+  },
+  {
+    "id": "1726",
+    "question": "Quel est le nom du dieu grec du ciel ?",
+    "answer": "Ouranos",
+    "badAnswers": [
+      "Zeus",
+      "Poséidon",
+      "Hadès"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
+  },
+  {
+    "id": "1562",
+    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
+    "answer": "Def Leppard",
+    "badAnswers": [
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
+  },
+  {
+    "id": "1450",
+    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
+    "answer": "Artémis",
+    "badAnswers": [
+      "Séléné",
+      "Héra",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
+  },
+  {
+    "id": "577",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
+    "answer": "Gilderoy Lockhart",
+    "badAnswers": [
+      "Remus Lupin",
+      "Alastor Maugrey",
+      "Dolores Ombrage"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
+  },
+  {
+    "id": "507",
+    "question": "Quel est la capitale de la Corée du Sud ?",
+    "answer": "Séoul",
+    "badAnswers": [
+      "Busan",
+      "Incheon",
+      "Daegu"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
   }
 ]
