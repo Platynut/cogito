@@ -1,132 +1,132 @@
 [
   {
-    "id": "328",
-    "question": "Quel est le plus long fleuve d'Amérique du Sud ?",
-    "answer": "Amazone",
+    "id": "447",
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre",
     "badAnswers": [
-      "Paraná",
-      "Orénoque",
-      "Madeira"
+      "Lion",
+      "Jaguar",
+      "Léopard"
     ],
-    "category": "Géographie",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "L'Amazone est le plus long fleuve d'Amérique du Sud et le deuxième plus long au monde, s'étendant sur environ 6 575 km à travers plusieurs pays, dont le Brésil et le Pérou. Il est également le plus grand en termes de débit. Le Paraná, l'Orénoque et le Madeira sont d'autres fleuves importants, mais plus courts."
+    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
   },
   {
-    "id": "586",
-    "question": "Quel scientifique a découvert la théorie quantique des champs ?",
-    "answer": "Paul Dirac",
+    "id": "960",
+    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
+    "answer": "Kazuma Kiryu et Goro Majima",
     "badAnswers": [
-      "Werner Heisenberg",
-      "Max Planck",
-      "Richard Feynman"
+      "Shintaro Kazama et Kazuma Kiryu",
+      "Keiji Shibusawa et Daisaku Kuze",
+      "Akira Nishikiyama et Tetsu Tachibana"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
+  },
+  {
+    "id": "427",
+    "question": "Quel est le plus grand oiseau volant du monde ?",
+    "answer": "Albatros hurleur",
+    "badAnswers": [
+      "Condor des Andes",
+      "Aigle royal",
+      "Vautour fauve"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
+  },
+  {
+    "id": "785",
+    "question": "Quel est le plus grand oiseau terrestre actuel ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "772",
+    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
+    "answer": "Moira",
+    "badAnswers": [
+      "Widowmaker",
+      "Ana",
+      "Ashe"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
+  },
+  {
+    "id": "1844",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
+    "answer": "Wilson Greatbatch",
+    "badAnswers": [
+      "Paul Zoll",
+      "Rune Elmqvist",
+      "Earl Bakken"
+    ],
+    "category": "Médecine",
     "difficulty": "difficile",
-    "description": "Paul Dirac a posé les bases de la théorie quantique des champs dans les années 1920, intégrant la relativité à la mécanique quantique. Heisenberg, Planck et Feynman ont contribué à d'autres aspects de la physique quantique."
+    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
   },
   {
-    "id": "1817",
-    "question": "Quel est le nom de l'auteur de 'Vingt mille lieues sous les mers' ?",
-    "answer": "Jules Verne",
+    "id": "1602",
+    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
+    "answer": "São Tomé",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Príncipe",
+      "Neves",
+      "Santana"
     ],
-    "category": "Livres",
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
+  },
+  {
+    "id": "800",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
+    "answer": "Cappy",
+    "badAnswers": [
+      "Toad",
+      "Bowser",
+      "Luma"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Jules Verne a écrit 'Vingt mille lieues sous les mers' (1870), un roman d'aventure sur le sous-marin Nautilus."
+    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
   },
   {
-    "id": "1575",
-    "question": "Quel est la capitale du Burundi ?",
-    "answer": "Gitega",
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
     "badAnswers": [
-      "Bujumbura",
-      "Ngozi",
-      "Kayanza"
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Gitega, capitale du Burundi depuis 2019, est une ville centrale connue pour son palais royal et ses tambours traditionnels."
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
   },
   {
-    "id": "1789",
-    "question": "Quel est la capitale de l'Eswatini ?",
-    "answer": "Mbabane",
+    "id": "1778",
+    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
+    "answer": "The Allman Brothers Band",
     "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
-  },
-  {
-    "id": "1726",
-    "question": "Quel est le nom du dieu grec du ciel ?",
-    "answer": "Ouranos",
-    "badAnswers": [
-      "Zeus",
-      "Poséidon",
-      "Hadès"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ouranos, dieu grec primordial du ciel, est le père des Titans et époux de Gaïa dans la mythologie."
-  },
-  {
-    "id": "1562",
-    "question": "Quel est le nom du groupe qui a chanté 'Hysteria' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Lynyrd Skynyrd",
+      "ZZ Top",
+      "Creedence Clearwater Revival"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hysteria', sorti en 1987 par Def Leppard, est une chanson rock tirée de l'album éponyme, connue pour son riff accrocheur."
-  },
-  {
-    "id": "1450",
-    "question": "Quel est le nom de la déesse grecque associée à la lune et à la chasse ?",
-    "answer": "Artémis",
-    "badAnswers": [
-      "Séléné",
-      "Héra",
-      "Athéna"
-    ],
-    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Artémis est la déesse grecque de la chasse, de la nature sauvage et de la lune. Bien que Séléné personnifie la lune elle-même, Artémis lui est souvent associée dans les traditions plus tardives, notamment comme protectrice des femmes et des jeunes filles."
-  },
-  {
-    "id": "577",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
-    "answer": "Gilderoy Lockhart",
-    "badAnswers": [
-      "Remus Lupin",
-      "Alastor Maugrey",
-      "Dolores Ombrage"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
-  },
-  {
-    "id": "507",
-    "question": "Quel est la capitale de la Corée du Sud ?",
-    "answer": "Séoul",
-    "badAnswers": [
-      "Busan",
-      "Incheon",
-      "Daegu"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Séoul est la capitale de la Corée du Sud, une métropole moderne connue pour ses palais, comme Gyeongbokgung, et sa technologie. Busan, Incheon et Daegu sont d'autres grandes villes coréennes, mais pas la capitale."
+    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
   }
 ]
