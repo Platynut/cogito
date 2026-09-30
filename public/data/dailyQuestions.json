@@ -1,132 +1,132 @@
 [
   {
-    "id": "447",
-    "question": "Quel est le plus grand félin du monde ?",
-    "answer": "Tigre",
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
     "badAnswers": [
-      "Lion",
-      "Jaguar",
-      "Léopard"
+      "Arès",
+      "Apollon",
+      "Dionysos"
     ],
-    "category": "Animaux",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
   },
   {
-    "id": "960",
-    "question": "Qui sont les deux protagonistes principaux du jeu Yakuza 0 ?",
-    "answer": "Kazuma Kiryu et Goro Majima",
+    "id": "784",
+    "question": "Quel scientifique a découvert la loi de la conservation de la charge électrique ?",
+    "answer": "Benjamin Franklin",
     "badAnswers": [
-      "Shintaro Kazama et Kazuma Kiryu",
-      "Keiji Shibusawa et Daisaku Kuze",
-      "Akira Nishikiyama et Tetsu Tachibana"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Georg Ohm"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Yakuza 0 suit les histoires parallèles de Kazuma Kiryu et Goro Majima, deux personnages emblématiques de la série, dans le Japon des années 1980."
-  },
-  {
-    "id": "427",
-    "question": "Quel est le plus grand oiseau volant du monde ?",
-    "answer": "Albatros hurleur",
-    "badAnswers": [
-      "Condor des Andes",
-      "Aigle royal",
-      "Vautour fauve"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L’albatros hurleur est le plus grand oiseau volant du monde, avec une envergure pouvant atteindre 3,5 mètres. Il vit principalement dans les océans du Sud. Le condor des Andes, l’aigle royal et le vautour fauve sont également grands, mais ont une envergure moindre."
-  },
-  {
-    "id": "785",
-    "question": "Quel est le plus grand oiseau terrestre actuel ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "772",
-    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
-    "answer": "Moira",
-    "badAnswers": [
-      "Widowmaker",
-      "Ana",
-      "Ashe"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
-  },
-  {
-    "id": "1844",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker ?",
-    "answer": "Wilson Greatbatch",
-    "badAnswers": [
-      "Paul Zoll",
-      "Rune Elmqvist",
-      "Earl Bakken"
-    ],
-    "category": "Médecine",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Wilson Greatbatch a inventé le premier pacemaker implantable en 1958, révolutionnant le traitement cardiaque."
+    "description": "Benjamin Franklin a établi les bases de la conservation de la charge électrique au XVIIIe siècle avec ses travaux sur l'électricité. Faraday, Ampère et Ohm ont contribué à d'autres aspects de l'électromagnétisme."
   },
   {
-    "id": "1602",
-    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
-    "answer": "São Tomé",
+    "id": "1862",
+    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
+    "answer": "The Who",
     "badAnswers": [
-      "Príncipe",
-      "Neves",
-      "Santana"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
-  },
-  {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
-  },
-  {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
-    "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
-    ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
-  },
-  {
-    "id": "1778",
-    "question": "Quel est le nom du groupe qui a chanté 'Jessica' ?",
-    "answer": "The Allman Brothers Band",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "ZZ Top",
-      "Creedence Clearwater Revival"
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
     ],
     "category": "Musique",
+    "difficulty": "facile",
+    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "'Jessica', sorti en 1973 par The Allman Brothers Band, est une chanson instrumentale rock tirée de l'album Brothers and Sisters."
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+  },
+  {
+    "id": "200",
+    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+    "answer": "Ubac",
+    "badAnswers": [
+      "Adret",
+      "Étang",
+      "Ressac"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
+  },
+  {
+    "id": "2045",
+    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
+    "answer": "Marguerite Duras",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+  },
+  {
+    "id": "1497",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
+    "answer": "Neptunium",
+    "badAnswers": [
+      "Nickel",
+      "Nobelium",
+      "Niobium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
+  },
+  {
+    "id": "831",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Électhor",
+    "badAnswers": [
+      "Sulfura",
+      "Artikodin",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
+  },
+  {
+    "id": "1506",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Am ?",
+    "answer": "Américium",
+    "badAnswers": [
+      "Aluminium",
+      "Antimoine",
+      "Argon"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'américium, symbolisé par Am, est un élément radioactif utilisé dans les détecteurs de fumée et les instruments scientifiques."
+  },
+  {
+    "id": "1656",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bulbizarre ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Bulbizarre, Pokémon de type plante et poison, est l'un des starters de la série Pokémon, évoluant en Herbizarre."
   }
 ]
