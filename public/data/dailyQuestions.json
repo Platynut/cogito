@@ -1,132 +1,132 @@
 [
   {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
+    "id": "446",
+    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
+    "answer": "Alexandre Dumas",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
     ],
-    "category": "Mythologie",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
   },
   {
-    "id": "784",
-    "question": "Quel scientifique a découvert la loi de la conservation de la charge électrique ?",
-    "answer": "Benjamin Franklin",
+    "id": "1444",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
+    "answer": "Iridium",
     "badAnswers": [
-      "Michael Faraday",
-      "André-Marie Ampère",
-      "Georg Ohm"
+      "Iode",
+      "Indium",
+      "Iron"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Benjamin Franklin a établi les bases de la conservation de la charge électrique au XVIIIe siècle avec ses travaux sur l'électricité. Faraday, Ampère et Ohm ont contribué à d'autres aspects de l'électromagnétisme."
+    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
   },
   {
-    "id": "1862",
-    "question": "Quel est le nom du groupe qui a chanté 'My Generation' ?",
-    "answer": "The Who",
+    "id": "1149",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
+    "answer": "Parasite",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'My Generation', sorti en 1965 par The Who, est une chanson rock emblématique tirée de l'album éponyme."
-  },
-  {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
-    "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "1917",
+      "Joker",
+      "Ford v Ferrari"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
   },
   {
-    "id": "200",
-    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
-    "answer": "Ubac",
+    "id": "107",
+    "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
+    "answer": "Adrien Quatennens",
     "badAnswers": [
-      "Adret",
-      "Étang",
-      "Ressac"
+      "Eric Ciotti",
+      "Damien Abad",
+      "Gérald Darmanin"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
+  },
+  {
+    "id": "1530",
+    "question": "Quel est la capitale du Niger ?",
+    "answer": "Niamey",
+    "badAnswers": [
+      "Zinder",
+      "Maradi",
+      "Agadez"
     ],
     "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
-  },
-  {
-    "id": "2045",
-    "question": "Quel est le nom de l'auteur de 'Le Marin de Gibraltar' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Marguerite Duras a écrit 'Le Marin de Gibraltar' (1952), un roman sur la quête amoureuse et l'errance."
+    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
   },
   {
-    "id": "1497",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
-    "answer": "Neptunium",
+    "id": "773",
+    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
+    "answer": "Willebrord Snell",
     "badAnswers": [
-      "Nickel",
-      "Nobelium",
-      "Niobium"
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "René Descartes"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
+    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
   },
   {
-    "id": "831",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Électhor",
+    "id": "1037",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "Sulfura",
-      "Artikodin",
-      "Mewtwo"
+      "Pulp Fiction",
+      "Les Évadés",
+      "Le Roi Lion"
     ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
+  },
+  {
+    "id": "1171",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
+    "answer": "Lynyrd Skynyrd",
+    "badAnswers": [
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "The Band"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
+    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
   },
   {
-    "id": "1506",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Am ?",
-    "answer": "Américium",
+    "id": "918",
+    "question": "Quel est le plus grand oiseau de proie nocturne ?",
+    "answer": "Grand-duc d'Europe",
     "badAnswers": [
-      "Aluminium",
-      "Antimoine",
-      "Argon"
+      "Chouette effraie",
+      "Hibou moyen-duc",
+      "Chouette hulotte"
     ],
-    "category": "Science",
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le grand-duc d'Europe est le plus grand oiseau de proie nocturne, pouvant atteindre 75 cm. La chouette effraie, le hibou moyen-duc et la chouette hulotte sont plus petits."
+  },
+  {
+    "id": "1298",
+    "question": "Quel est le nom de l'inventeur du premier téléviseur mécanique ?",
+    "answer": "John Logie Baird",
+    "badAnswers": [
+      "Philo Farnsworth",
+      "Vladimir Zworykin",
+      "Thomas Edison"
+    ],
+    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "L'américium, symbolisé par Am, est un élément radioactif utilisé dans les détecteurs de fumée et les instruments scientifiques."
-  },
-  {
-    "id": "1656",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bulbizarre ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bulbizarre, Pokémon de type plante et poison, est l'un des starters de la série Pokémon, évoluant en Herbizarre."
+    "description": "John Logie Baird a démontré le premier téléviseur mécanique en 1925, posant les bases de la télévision moderne."
   }
 ]
