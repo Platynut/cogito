@@ -1,132 +1,132 @@
 [
   {
-    "id": "446",
-    "question": "Quel est le nom de l’auteur de 'Le Comte de Monte-Cristo' ?",
-    "answer": "Alexandre Dumas",
+    "id": "779",
+    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
+    "answer": "Jax",
     "badAnswers": [
-      "Victor Hugo",
-      "Honoré de Balzac",
-      "Gustave Flaubert"
+      "Fiora",
+      "Yasuo",
+      "Riven"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit Le Comte de Monte-Cristo (1844), un roman d’aventure sur la vengeance d’Edmond Dantès. C’est une œuvre majeure de la littérature française. Victor Hugo, Balzac et Flaubert sont d’autres écrivains français, mais n’ont pas écrit ce roman."
-  },
-  {
-    "id": "1444",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ir ?",
-    "answer": "Iridium",
-    "badAnswers": [
-      "Iode",
-      "Indium",
-      "Iron"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'iridium, symbolisé par Ir, est un métal rare et dense utilisé dans les alliages et comme preuve de l'impact d'astéroïdes dans l'histoire géologique."
-  },
-  {
-    "id": "1149",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2019 ?",
-    "answer": "Parasite",
-    "badAnswers": [
-      "1917",
-      "Joker",
-      "Ford v Ferrari"
-    ],
-    "category": "Cinéma",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Parasite, réalisé par Bong Joon-ho, a remporté l'Oscar du meilleur film en 2019, marquant l'histoire comme premier film non anglophone à gagner."
+    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
   },
   {
-    "id": "107",
-    "question": "Quel homme politique français a été condamné en 2022 pour violences conjugales ?",
-    "answer": "Adrien Quatennens",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Eric Ciotti",
-      "Damien Abad",
-      "Gérald Darmanin"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Adrien Quatennens, député français, a été condamné en 2022 pour violences conjugales. Eric Ciotti, Damien Abad et Gérald Darmanin sont d'autres hommes politiques français non concernés par cette condamnation."
-  },
-  {
-    "id": "1530",
-    "question": "Quel est la capitale du Niger ?",
-    "answer": "Niamey",
-    "badAnswers": [
-      "Zinder",
-      "Maradi",
-      "Agadez"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Niamey, capitale du Niger, est une ville sur le fleuve Niger, connue pour son grand marché et son musée national."
-  },
-  {
-    "id": "773",
-    "question": "Quel scientifique a découvert la loi de la réfraction de la lumière ?",
-    "answer": "Willebrord Snell",
-    "badAnswers": [
-      "Isaac Newton",
-      "Christiaan Huygens",
-      "René Descartes"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Willebrord Snell a formulé la loi de la réfraction (loi de Snell) au XVIIe siècle, expliquant la déviation de la lumière. Newton, Huygens et Descartes ont contribué à l'optique, mais pas à cette loi."
-  },
-  {
-    "id": "1037",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
-    "answer": "Forrest Gump",
-    "badAnswers": [
-      "Pulp Fiction",
-      "Les Évadés",
-      "Le Roi Lion"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
-  },
-  {
-    "id": "1171",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Home Alabama' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "The Band"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Sweet Home Alabama', sorti en 1974 par Lynyrd Skynyrd, est un hymne rock sudiste célébrant l'Alabama et répondant à Neil Young."
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
   },
   {
-    "id": "918",
-    "question": "Quel est le plus grand oiseau de proie nocturne ?",
-    "answer": "Grand-duc d'Europe",
+    "id": "2003",
+    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
+    "answer": "Patrick Modiano",
     "badAnswers": [
-      "Chouette effraie",
-      "Hibou moyen-duc",
-      "Chouette hulotte"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Animaux",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Le grand-duc d'Europe est le plus grand oiseau de proie nocturne, pouvant atteindre 75 cm. La chouette effraie, le hibou moyen-duc et la chouette hulotte sont plus petits."
+    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
   },
   {
-    "id": "1298",
-    "question": "Quel est le nom de l'inventeur du premier téléviseur mécanique ?",
-    "answer": "John Logie Baird",
+    "id": "1096",
+    "question": "Quel est le nom du dieu grec de la médecine ?",
+    "answer": "Asclépios",
     "badAnswers": [
-      "Philo Farnsworth",
-      "Vladimir Zworykin",
-      "Thomas Edison"
+      "Apollon",
+      "Hermès",
+      "Dionysos"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
+  },
+  {
+    "id": "498",
+    "question": "Quel est la capitale de l'Argentine ?",
+    "answer": "Buenos Aires",
+    "badAnswers": [
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+  },
+  {
+    "id": "252",
+    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
+    "answer": "Anticyclone des Açores",
+    "badAnswers": [
+      "Anticyclone de Sainte-Hélène",
+      "Anticyclone de Lucifer",
+      "Anticyclone Alfredo"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+  },
+  {
+    "id": "739",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Pikmin ?",
+    "answer": "Olimar",
+    "badAnswers": [
+      "Alph",
+      "Louie",
+      "Brittany"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Olimar est le protagoniste de la série Pikmin et un personnage jouable dans Super Smash Bros. Ultimate, commandant des Pikmin. Alph, Louie et Brittany sont d'autres personnages de la série."
+  },
+  {
+    "id": "1492",
+    "question": "Quel est le nom de l'inventeur du premier projecteur cinématographique ?",
+    "answer": "Frères Lumière",
+    "badAnswers": [
+      "Thomas Edison",
+      "Eadweard Muybridge",
+      "Georges Méliès"
     ],
     "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "John Logie Baird a démontré le premier téléviseur mécanique en 1925, posant les bases de la télévision moderne."
+    "difficulty": "normal",
+    "description": "Les frères Lumière, Auguste et Louis, ont inventé le cinématographe en 1895, permettant la projection de films pour le public."
+  },
+  {
+    "id": "2010",
+    "question": "Quel est le nom du groupe qui a chanté 'From Me to You' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'From Me to You', sorti en 1963 par The Beatles, est une chanson pop de leur période initiale."
+  },
+  {
+    "id": "520",
+    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
+    "answer": "Obi-Wan Kenobi",
+    "badAnswers": [
+      "Yoda",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
   }
 ]
