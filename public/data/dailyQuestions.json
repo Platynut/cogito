@@ -1,132 +1,132 @@
 [
   {
-    "id": "779",
-    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
-    "answer": "Jax",
+    "id": "1488",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
+    "answer": "The Bridge on the River Kwai",
     "badAnswers": [
-      "Fiora",
-      "Yasuo",
-      "Riven"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
-  },
-  {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
-  },
-  {
-    "id": "2003",
-    "question": "Quel est le nom de l'auteur de 'La Place de l'Étoile' ?",
-    "answer": "Patrick Modiano",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Patrick Modiano a écrit 'La Place de l'Étoile' (1968), un roman sur l'identité et l'occupation en France."
-  },
-  {
-    "id": "1096",
-    "question": "Quel est le nom du dieu grec de la médecine ?",
-    "answer": "Asclépios",
-    "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Asclépios, dieu grec de la médecine, est associé à la guérison et est souvent représenté avec un bâton entouré d'un serpent, symbole médical actuel."
-  },
-  {
-    "id": "498",
-    "question": "Quel est la capitale de l'Argentine ?",
-    "answer": "Buenos Aires",
-    "badAnswers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
-  },
-  {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
-    "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
-  },
-  {
-    "id": "739",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Pikmin ?",
-    "answer": "Olimar",
-    "badAnswers": [
-      "Alph",
-      "Louie",
-      "Brittany"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Olimar est le protagoniste de la série Pikmin et un personnage jouable dans Super Smash Bros. Ultimate, commandant des Pikmin. Alph, Louie et Brittany sont d'autres personnages de la série."
-  },
-  {
-    "id": "1492",
-    "question": "Quel est le nom de l'inventeur du premier projecteur cinématographique ?",
-    "answer": "Frères Lumière",
-    "badAnswers": [
-      "Thomas Edison",
-      "Eadweard Muybridge",
-      "Georges Méliès"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Les frères Lumière, Auguste et Louis, ont inventé le cinématographe en 1895, permettant la projection de films pour le public."
-  },
-  {
-    "id": "2010",
-    "question": "Quel est le nom du groupe qui a chanté 'From Me to You' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'From Me to You', sorti en 1963 par The Beatles, est une chanson pop de leur période initiale."
-  },
-  {
-    "id": "520",
-    "question": "Dans Star Wars, quel est le nom du mentor Jedi de Luke Skywalker ?",
-    "answer": "Obi-Wan Kenobi",
-    "badAnswers": [
-      "Yoda",
-      "Qui-Gon Jinn",
-      "Mace Windu"
+      "12 Angry Men",
+      "Sayonara",
+      "Peyton Place"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
+  },
+  {
+    "id": "1674",
+    "question": "Quel est le nom du groupe qui a chanté 'The Scientist' ?",
+    "answer": "Coldplay",
+    "badAnswers": [
+      "Radiohead",
+      "Muse",
+      "Keane"
+    ],
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Obi-Wan Kenobi est le premier mentor Jedi de Luke Skywalker dans Star Wars : Un nouvel espoir, l'initiant à la Force. Yoda devient son mentor plus tard, Qui-Gon est le maître d'Obi-Wan, et Mace Windu est un autre Jedi."
+    "description": "'The Scientist', sorti en 2002 par Coldplay, est une ballade mélancolique tirée de l'album A Rush of Blood to the Head."
+  },
+  {
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
+    "badAnswers": [
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
+  },
+  {
+    "id": "1387",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
+    "answer": "Dysprosium",
+    "badAnswers": [
+      "Dysnomium",
+      "Dubnium",
+      "Darmstadtium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
+  },
+  {
+    "id": "1385",
+    "question": "Quel est la capitale du Népal ?",
+    "answer": "Katmandou",
+    "badAnswers": [
+      "Pokhara",
+      "Biratnagar",
+      "Lalitpur"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Katmandou, capitale du Népal, est une ville située dans une vallée himalayenne, connue pour ses temples et son patrimoine bouddhiste."
+  },
+  {
+    "id": "999",
+    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
+    "answer": "Les Raisins de la colère",
+    "badAnswers": [
+      "Hamlet",
+      "Gatsby le Magnifique",
+      "Peter Pan"
+    ],
+    "category": "Livres",
+    "difficulty": "difficile",
+    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
+  },
+  {
+    "id": "2046",
+    "question": "Quel est le nom du groupe qui a chanté 'Maxwell's Silver Hammer' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Maxwell's Silver Hammer', sorti en 1969 par The Beatles, est une chanson pop ironique tirée de l'album Abbey Road."
+  },
+  {
+    "id": "1148",
+    "question": "Quel est la capitale de la Malaisie ?",
+    "answer": "Kuala Lumpur",
+    "badAnswers": [
+      "Penang",
+      "Johor Bahru",
+      "Malacca"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kuala Lumpur, capitale de la Malaisie, est une métropole moderne célèbre pour ses tours Petronas et son mélange de cultures."
+  },
+  {
+    "id": "1342",
+    "question": "Quel est la capitale du Salvador ?",
+    "answer": "San Salvador",
+    "badAnswers": [
+      "Santa Ana",
+      "San Miguel",
+      "Sonsonate"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "San Salvador, capitale du Salvador, est une ville dynamique située dans une région volcanique, connue pour sa cathédrale et ses musées."
+  },
+  {
+    "id": "1478",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
+    "answer": "Actinium",
+    "badAnswers": [
+      "Aluminium",
+      "Argon",
+      "Astatine"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
   }
 ]
