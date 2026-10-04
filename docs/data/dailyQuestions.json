@@ -1,85 +1,46 @@
 [
   {
-    "id": "1488",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1957 ?",
-    "answer": "The Bridge on the River Kwai",
+    "id": "91",
+    "question": "Quel groupe a sorti l'album 'Abbey Road' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "12 Angry Men",
-      "Sayonara",
-      "Peyton Place"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Bridge on the River Kwai, réalisé par David Lean, a remporté l'Oscar du meilleur film en 1957, un drame sur la guerre et l'honneur."
-  },
-  {
-    "id": "1674",
-    "question": "Quel est le nom du groupe qui a chanté 'The Scientist' ?",
-    "answer": "Coldplay",
-    "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
+      "The Rolling Stones",
+      "The Who",
+      "Pink Floyd"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'The Scientist', sorti en 2002 par Coldplay, est une ballade mélancolique tirée de l'album A Rush of Blood to the Head."
+    "description": "Sorti en 1969, c'est le dernier album enregistré par les Beatles (bien que 'Let It Be' soit sorti après). Sa pochette avec le passage piéton est iconique."
   },
   {
-    "id": "1166",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
-    "answer": "CODA",
+    "id": "1448",
+    "question": "Quel est la capitale de Bahreïn ?",
+    "answer": "Manama",
     "badAnswers": [
-      "The Power of the Dog",
-      "Dune",
-      "Belfast"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
-  },
-  {
-    "id": "1387",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Dy ?",
-    "answer": "Dysprosium",
-    "badAnswers": [
-      "Dysnomium",
-      "Dubnium",
-      "Darmstadtium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le dysprosium, symbolisé par Dy, est un métal rare utilisé dans les aimants haute performance et les réacteurs nucléaires."
-  },
-  {
-    "id": "1385",
-    "question": "Quel est la capitale du Népal ?",
-    "answer": "Katmandou",
-    "badAnswers": [
-      "Pokhara",
-      "Biratnagar",
-      "Lalitpur"
+      "Riffa",
+      "Muharraq",
+      "Hamad Town"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Katmandou, capitale du Népal, est une ville située dans une vallée himalayenne, connue pour ses temples et son patrimoine bouddhiste."
+    "difficulty": "normal",
+    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
   },
   {
-    "id": "999",
-    "question": "Dans Les Avantages d'être une discrète, quel livre Charlie NE lit-il PAS ?",
-    "answer": "Les Raisins de la colère",
+    "id": "1595",
+    "question": "Quel est la capitale du Somaliland ?",
+    "answer": "Hargeisa",
     "badAnswers": [
-      "Hamlet",
-      "Gatsby le Magnifique",
-      "Peter Pan"
+      "Borama",
+      "Berbera",
+      "Burao"
     ],
-    "category": "Livres",
-    "difficulty": "difficile",
-    "description": "Dans le roman de Stephen Chbosky, Charlie lit plusieurs classiques, mais Les Raisins de la colère de John Steinbeck n'est pas mentionné dans sa liste de lecture."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Hargeisa, capitale du Somaliland, est une ville dynamique connue pour son marché animé et sa mosquée principale."
   },
   {
-    "id": "2046",
-    "question": "Quel est le nom du groupe qui a chanté 'Maxwell's Silver Hammer' ?",
+    "id": "1886",
+    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -88,45 +49,84 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Maxwell's Silver Hammer', sorti en 1969 par The Beatles, est une chanson pop ironique tirée de l'album Abbey Road."
+    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   },
   {
-    "id": "1148",
-    "question": "Quel est la capitale de la Malaisie ?",
-    "answer": "Kuala Lumpur",
+    "id": "1044",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
+    "answer": "Fer",
     "badAnswers": [
-      "Penang",
-      "Johor Bahru",
-      "Malacca"
+      "Fluor",
+      "Francium",
+      "Phosphore"
     ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Kuala Lumpur, capitale de la Malaisie, est une métropole moderne célèbre pour ses tours Petronas et son mélange de cultures."
+    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
   },
   {
-    "id": "1342",
-    "question": "Quel est la capitale du Salvador ?",
-    "answer": "San Salvador",
+    "id": "306",
+    "question": "Qu'est-ce qui cause le son d'un battement de cœur ?",
+    "answer": "Fermeture des valves cardiaques",
     "badAnswers": [
-      "Santa Ana",
-      "San Miguel",
-      "Sonsonate"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "San Salvador, capitale du Salvador, est une ville dynamique située dans une région volcanique, connue pour sa cathédrale et ses musées."
-  },
-  {
-    "id": "1478",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ac ?",
-    "answer": "Actinium",
-    "badAnswers": [
-      "Aluminium",
-      "Argon",
-      "Astatine"
+      "Contraction des chambres cardiaques",
+      "Sortie du sang du cœur",
+      "Relâchement des chambres cardiaques"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "L'actinium, symbolisé par Ac, est un élément radioactif utilisé dans la recherche scientifique et les traitements contre le cancer."
+    "description": "Le son d'un battement de cœur est causé par la fermeture des valves cardiaques (mitrale, tricuspide, aortique et pulmonaire) qui régulent le flux sanguin dans le cœur. Les deux sons principaux, 'lub' et 'dub', correspondent à la fermeture des valves atrioventriculaires puis des valves semi-lunaires. Les autres options ne sont pas la cause principale du son."
+  },
+  {
+    "id": "1921",
+    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
+  },
+  {
+    "id": "1893",
+    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
+    "answer": "Marcel Proust",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
+  },
+  {
+    "id": "461",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
+    "answer": "Ho-Oh",
+    "badAnswers": [
+      "Lugia",
+      "Suicune",
+      "Raikou"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
+  },
+  {
+    "id": "544",
+    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
+    "answer": "Le vaisseau",
+    "badAnswers": [
+      "Radiance",
+      "Grimm",
+      "Hornet"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
   }
 ]
