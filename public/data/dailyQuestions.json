@@ -1,132 +1,131 @@
 [
   {
-    "id": "91",
-    "question": "Quel groupe a sorti l'album 'Abbey Road' ?",
+    "id": "604",
+    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
+    "answer": "Benzaiten",
+    "badAnswers": [
+      "Amaterasu",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
+  },
+  {
+    "id": "429",
+    "question": "Quel est la capitale de la Russie ?",
+    "answer": "Moscou",
+    "badAnswers": [
+      "Saint-Pétersbourg",
+      "Kazan",
+      "Novossibirsk"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
+  },
+  {
+    "id": "1025",
+    "question": "Quel est le nom du volcan qui a détruit Pompéi en 79 après J.-C. ?",
+    "answer": "Vésuve",
+    "badAnswers": [
+      "Etna",
+      "Stromboli",
+      "Krakatoa"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Le Vésuve, situé près de Naples, a enseveli Pompéi et Herculanum sous des cendres en 79 après J.-C., préservant ces villes romaines pour les archéologues."
+  },
+  {
+    "id": "1070",
+    "question": "Quel est le nom du groupe qui a chanté 'Yesterday' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
       "The Who",
-      "Pink Floyd"
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Sorti en 1969, c'est le dernier album enregistré par les Beatles (bien que 'Let It Be' soit sorti après). Sa pochette avec le passage piéton est iconique."
+    "description": "'Yesterday', composée par Paul McCartney en 1965, est l'une des chansons les plus emblématiques des Beatles, connue pour sa mélodie intemporelle."
   },
   {
-    "id": "1448",
-    "question": "Quel est la capitale de Bahreïn ?",
-    "answer": "Manama",
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
     "badAnswers": [
-      "Riffa",
-      "Muharraq",
-      "Hamad Town"
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
+  },
+  {
+    "id": "841",
+    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
+    "answer": "Désert de McMurdo",
+    "badAnswers": [
+      "Désert de Ross",
+      "Désert de Taylor",
+      "Désert de Victoria"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Manama, capitale de Bahreïn, est une ville côtière connue pour son souk animé et la mosquée Al-Fateh."
-  },
-  {
-    "id": "1595",
-    "question": "Quel est la capitale du Somaliland ?",
-    "answer": "Hargeisa",
-    "badAnswers": [
-      "Borama",
-      "Berbera",
-      "Burao"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Hargeisa, capitale du Somaliland, est une ville dynamique connue pour son marché animé et sa mosquée principale."
-  },
-  {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
-  },
-  {
-    "id": "1044",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Fe ?",
-    "answer": "Fer",
-    "badAnswers": [
-      "Fluor",
-      "Francium",
-      "Phosphore"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le fer, symbolisé par Fe (du latin 'ferrum'), est un métal essentiel utilisé dans la construction et la fabrication, et présent dans l'hémoglobine."
-  },
-  {
-    "id": "306",
-    "question": "Qu'est-ce qui cause le son d'un battement de cœur ?",
-    "answer": "Fermeture des valves cardiaques",
-    "badAnswers": [
-      "Contraction des chambres cardiaques",
-      "Sortie du sang du cœur",
-      "Relâchement des chambres cardiaques"
-    ],
-    "category": "Science",
     "difficulty": "difficile",
-    "description": "Le son d'un battement de cœur est causé par la fermeture des valves cardiaques (mitrale, tricuspide, aortique et pulmonaire) qui régulent le flux sanguin dans le cœur. Les deux sons principaux, 'lub' et 'dub', correspondent à la fermeture des valves atrioventriculaires puis des valves semi-lunaires. Les autres options ne sont pas la cause principale du son."
+    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
   },
   {
-    "id": "1921",
-    "question": "Quel est le nom de l'auteur de 'L'Immoraliste' ?",
-    "answer": "André Gide",
+    "id": "342",
+    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
+    "answer": "Piotr Ilitch Tchaïkovski",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Dmitri Chostakovitch"
     ],
-    "category": "Livres",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "André Gide a écrit 'L'Immoraliste' (1902), un roman sur la quête de liberté individuelle et ses conséquences."
+    "description": "Piotr Ilitch Tchaïkovski a composé Le Lac des cygnes, un ballet classique créé en 1877. C'est l'une de ses œuvres les plus célèbres, connue pour sa musique expressive. Stravinsky, Prokofiev et Chostakovitch sont d'autres compositeurs russes, mais ils n'ont pas composé ce ballet."
   },
   {
-    "id": "1893",
-    "question": "Quel est le nom de l'auteur de 'À l'ombre des jeunes filles en fleurs' ?",
-    "answer": "Marcel Proust",
+    "id": "1173",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Leon S. Kennedy ?",
+    "answer": "Resident Evil",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marcel Proust a écrit 'À l'ombre des jeunes filles en fleurs' (1919), le deuxième volume de 'À la recherche du temps perdu'."
-  },
-  {
-    "id": "461",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Cendrée ?",
-    "answer": "Ho-Oh",
-    "badAnswers": [
-      "Lugia",
-      "Suicune",
-      "Raikou"
+      "Silent Hill",
+      "Dead Space",
+      "The Evil Within"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Ho-Oh est le Pokémon légendaire associé à la Tour Cendrée dans Pokémon Or et Argent, apparaissant dans la version Or. Lugia est lié à la Tour Tourbillon, et Suicune et Raikou sont des bêtes légendaires errantes."
+    "difficulty": "facile",
+    "description": "Leon S. Kennedy est un protagoniste clé de la série Resident Evil, un policier luttant contre des zombies et des bio-armes."
   },
   {
-    "id": "544",
-    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
-    "answer": "Le vaisseau",
+    "id": "1014",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
+    "answer": "The Last of Us",
     "badAnswers": [
-      "Radiance",
-      "Grimm",
-      "Hornet"
+      "Uncharted",
+      "Horizon Zero Dawn",
+      "Tomb Raider"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
+    "difficulty": "facile",
+    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
+  },
+  {
+    "id": "2110",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1947 ?",
+    "answer": "Gentleman’s Agreement",
+    "badAnswers": [
+      "The Bishop’s Wife",
+      "Crossfire",
+      "Great Expectations"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Gentleman’s Agreement, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1947, un drame sur l'antisémitisme."
   }
 ]
