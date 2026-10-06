@@ -1,131 +1,132 @@
 [
   {
-    "id": "604",
-    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
-    "answer": "Benzaiten",
+    "id": "1617",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
+    "answer": "Livermorium",
     "badAnswers": [
-      "Amaterasu",
-      "Inari"
+      "Lanthane",
+      "Lithium",
+      "Lutécium"
     ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
-  },
-  {
-    "id": "429",
-    "question": "Quel est la capitale de la Russie ?",
-    "answer": "Moscou",
-    "badAnswers": [
-      "Saint-Pétersbourg",
-      "Kazan",
-      "Novossibirsk"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
-  },
-  {
-    "id": "1025",
-    "question": "Quel est le nom du volcan qui a détruit Pompéi en 79 après J.-C. ?",
-    "answer": "Vésuve",
-    "badAnswers": [
-      "Etna",
-      "Stromboli",
-      "Krakatoa"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Le Vésuve, situé près de Naples, a enseveli Pompéi et Herculanum sous des cendres en 79 après J.-C., préservant ces villes romaines pour les archéologues."
-  },
-  {
-    "id": "1070",
-    "question": "Quel est le nom du groupe qui a chanté 'Yesterday' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Kinks"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Yesterday', composée par Paul McCartney en 1965, est l'une des chansons les plus emblématiques des Beatles, connue pour sa mélodie intemporelle."
-  },
-  {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
-    "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
-  },
-  {
-    "id": "841",
-    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
-    "answer": "Désert de McMurdo",
-    "badAnswers": [
-      "Désert de Ross",
-      "Désert de Taylor",
-      "Désert de Victoria"
-    ],
-    "category": "Géographie",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
+    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
   },
   {
-    "id": "342",
-    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
-    "answer": "Piotr Ilitch Tchaïkovski",
+    "id": "1682",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Musique",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
+  },
+  {
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
+    "badAnswers": [
+      "Chrome",
+      "Cuivre",
+      "Césium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
+  },
+  {
+    "id": "2098",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "Wilson Greatbatch",
+      "John Hopps",
+      "Rune Elmqvist"
+    ],
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Piotr Ilitch Tchaïkovski a composé Le Lac des cygnes, un ballet classique créé en 1877. C'est l'une de ses œuvres les plus célèbres, connue pour sa musique expressive. Stravinsky, Prokofiev et Chostakovitch sont d'autres compositeurs russes, mais ils n'ont pas composé ce ballet."
+    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
   },
   {
-    "id": "1173",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Leon S. Kennedy ?",
-    "answer": "Resident Evil",
+    "id": "115",
+    "question": "À quel âge les hommes ne produisent-ils plus de spermatozoïdes ?",
+    "answer": "Jamais",
     "badAnswers": [
-      "Silent Hill",
-      "Dead Space",
-      "The Evil Within"
+      "40 ans",
+      "60 ans",
+      "80 ans"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les hommes produisent des spermatozoïdes tout au long de leur vie, bien que la qualité puisse diminuer avec l'âge. Contrairement aux femmes, ils n'ont pas de ménopause."
+  },
+  {
+    "id": "1720",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Leon S. Kennedy est un protagoniste clé de la série Resident Evil, un policier luttant contre des zombies et des bio-armes."
+    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
   },
   {
-    "id": "1014",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ellie ?",
-    "answer": "The Last of Us",
+    "id": "184",
+    "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
+    "answer": "La grèbe",
     "badAnswers": [
-      "Uncharted",
-      "Horizon Zero Dawn",
-      "Tomb Raider"
+      "La grèle",
+      "La grève",
+      "La grène"
     ],
-    "category": "Jeux vidéo",
+    "category": "Nature",
     "difficulty": "facile",
-    "description": "Ellie est un personnage central de The Last of Us, une adolescente courageuse qui accompagne Joel dans un monde post-apocalyptique infesté de zombies."
+    "description": "Le grèbe construit des nids flottants avec des végétaux aquatiques. Les autres termes n'existent pas dans ce contexte."
   },
   {
-    "id": "2110",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1947 ?",
-    "answer": "Gentleman’s Agreement",
+    "id": "633",
+    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
+    "answer": "Minerva McGonagall",
     "badAnswers": [
-      "The Bishop’s Wife",
-      "Crossfire",
-      "Great Expectations"
+      "Severus Rogue",
+      "Filius Flitwick",
+      "Pomona Chourave"
     ],
-    "category": "Cinéma",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Gentleman’s Agreement, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1947, un drame sur l'antisémitisme."
+    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+  },
+  {
+    "id": "825",
+    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
+    "answer": "Robert Boyle",
+    "badAnswers": [
+      "Jacques Charles",
+      "Joseph Gay-Lussac",
+      "Émile Clapeyron"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
+  },
+  {
+    "id": "1747",
+    "question": "Quel est le nom de l'auteur de 'La Condition humaine' ?",
+    "answer": "André Malraux",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Malraux a écrit 'La Condition humaine' (1933), un roman sur la révolution chinoise et l'existentialisme."
   }
 ]
