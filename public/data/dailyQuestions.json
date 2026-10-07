@@ -1,132 +1,132 @@
 [
   {
-    "id": "1617",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lv ?",
-    "answer": "Livermorium",
+    "id": "1458",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1965 ?",
+    "answer": "The Sound of Music",
     "badAnswers": [
-      "Lanthane",
-      "Lithium",
-      "Lutécium"
+      "Doctor Zhivago",
+      "Darling",
+      "Ship of Fools"
     ],
-    "category": "Science",
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Sound of Music, réalisé par Robert Wise, a remporté l'Oscar du meilleur film en 1965, une comédie musicale sur la famille von Trapp."
+  },
+  {
+    "id": "889",
+    "question": "Quel est le nom du plus grand désert d'Asie ?",
+    "answer": "Gobi",
+    "badAnswers": [
+      "Taklamakan",
+      "Karakoum",
+      "Thar"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Le désert de Gobi est le plus grand désert d'Asie, couvrant environ 1,3 million de km² en Chine et Mongolie. Le Taklamakan, le Karakoum et le Thar sont plus petits."
+  },
+  {
+    "id": "27",
+    "question": "Quel est l'animal national de l'Écosse ?",
+    "answer": "Licorne",
+    "badAnswers": [
+      "Lion",
+      "Aigle",
+      "Ours"
+    ],
+    "category": "Culture générale",
     "difficulty": "difficile",
-    "description": "Le livermorium, symbolisé par Lv, est un élément radioactif synthétique, nommé d'après le laboratoire de Livermore, utilisé dans la recherche."
+    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
   },
   {
-    "id": "1682",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ronflex ?",
-    "answer": "Pokémon",
+    "id": "1646",
+    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
+    "answer": "John Steinbeck",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
+  },
+  {
+    "id": "63",
+    "question": "Qui était le premier président noir des États-Unis ?",
+    "answer": "Barack Obama",
+    "badAnswers": [
+      "Martin Luther King",
+      "Colin Powell",
+      "Jesse Jackson"
+    ],
+    "category": "Politique",
+    "difficulty": "facile",
+    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
+  },
+  {
+    "id": "579",
+    "question": "Dans Super Mario Kart, quel objet ralentit directement les adversaires lorsqu'il est utilisé ?",
+    "answer": "Carapace rouge",
+    "badAnswers": [
+      "Peau de banane",
+      "Étoile",
+      "Champignon"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ronflex, Pokémon de type normal, est connu pour bloquer des chemins en dormant dans la série Pokémon."
+    "description": "La carapace rouge dans Super Mario Kart est un projectile qui poursuit un adversaire et le ralentit en le touchant. La peau de banane est un piège statique, l'étoile rend invincible, et le champignon augmente la vitesse."
   },
   {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
+    "id": "645",
+    "question": "Dans Elden Ring, quel est le nom de l'arbre sacré central ?",
+    "answer": "Arbre-Monde",
     "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
-  },
-  {
-    "id": "2098",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
-  },
-  {
-    "id": "115",
-    "question": "À quel âge les hommes ne produisent-ils plus de spermatozoïdes ?",
-    "answer": "Jamais",
-    "badAnswers": [
-      "40 ans",
-      "60 ans",
-      "80 ans"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les hommes produisent des spermatozoïdes tout au long de leur vie, bien que la qualité puisse diminuer avec l'âge. Contrairement aux femmes, ils n'ont pas de ménopause."
-  },
-  {
-    "id": "1720",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Roucarnage ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Arbre d'Or",
+      "Arbre de Vie",
+      "Arbre Éternel"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Roucarnage, Pokémon de type vol et normal, est l'évolution finale de Roucool dans la série Pokémon, connu pour sa vitesse."
+    "description": "L'Arbre-Monde est l'arbre sacré central dans Elden Ring, lié à la mythologie du jeu et à l'Anneau d'Elden. Les autres options sont fictives ou tirées d'autres œuvres."
   },
   {
-    "id": "184",
-    "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
-    "answer": "La grèbe",
+    "id": "1934",
+    "question": "Quel est le nom du groupe qui a chanté 'A Hard Day's Night' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "La grèle",
-      "La grève",
-      "La grène"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Nature",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Le grèbe construit des nids flottants avec des végétaux aquatiques. Les autres termes n'existent pas dans ce contexte."
+    "description": "'A Hard Day's Night', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album et du film éponymes."
   },
   {
-    "id": "633",
-    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
-    "answer": "Minerva McGonagall",
+    "id": "717",
+    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
+    "answer": "Dobby",
     "badAnswers": [
-      "Severus Rogue",
-      "Filius Flitwick",
-      "Pomona Chourave"
+      "Kreattur",
+      "Winky",
+      "Hokey"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
   },
   {
-    "id": "825",
-    "question": "Quel scientifique a découvert la loi de la pression des gaz ?",
-    "answer": "Robert Boyle",
+    "id": "1741",
+    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
+    "answer": "Robert N. Hall",
     "badAnswers": [
-      "Jacques Charles",
-      "Joseph Gay-Lussac",
-      "Émile Clapeyron"
+      "Theodore Maiman",
+      "Charles Townes",
+      "Gordon Gould"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Robert Boyle a formulé la loi de la pression des gaz (loi de Boyle) au XVIIe siècle, reliant pression et volume. Charles, Gay-Lussac et Clapeyron ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1747",
-    "question": "Quel est le nom de l'auteur de 'La Condition humaine' ?",
-    "answer": "André Malraux",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Malraux a écrit 'La Condition humaine' (1933), un roman sur la révolution chinoise et l'existentialisme."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
   }
 ]
