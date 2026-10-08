@@ -1,132 +1,132 @@
 [
   {
-    "id": "1458",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1965 ?",
-    "answer": "The Sound of Music",
+    "id": "228",
+    "question": "Quel est le pays premier producteur mondial de tomates ?",
+    "answer": "Chine",
     "badAnswers": [
-      "Doctor Zhivago",
-      "Darling",
-      "Ship of Fools"
+      "Italie",
+      "Maroc",
+      "Pays-Bas"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Sound of Music, réalisé par Robert Wise, a remporté l'Oscar du meilleur film en 1965, une comédie musicale sur la famille von Trapp."
+    "category": "Agriculture",
+    "difficulty": "normal",
+    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
   },
   {
-    "id": "889",
-    "question": "Quel est le nom du plus grand désert d'Asie ?",
-    "answer": "Gobi",
+    "id": "131",
+    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
+    "answer": "Etretat",
     "badAnswers": [
-      "Taklamakan",
-      "Karakoum",
-      "Thar"
+      "Nice",
+      "Brest",
+      "Saint-Malo"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Le désert de Gobi est le plus grand désert d'Asie, couvrant environ 1,3 million de km² en Chine et Mongolie. Le Taklamakan, le Karakoum et le Thar sont plus petits."
+    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
   },
   {
-    "id": "27",
-    "question": "Quel est l'animal national de l'Écosse ?",
-    "answer": "Licorne",
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
     "badAnswers": [
-      "Lion",
-      "Aigle",
-      "Ours"
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
     ],
-    "category": "Culture générale",
+    "category": "Informatique",
     "difficulty": "difficile",
-    "description": "Étonnamment, l'Écosse a choisi cet animal mythologique comme emblème depuis le 15e siècle, symbole de pureté."
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
   },
   {
-    "id": "1646",
-    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
-    "answer": "John Steinbeck",
+    "id": "1469",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astatine",
     "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner"
+      "Argon",
+      "Antimoine",
+      "Actinium"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'astatine, symbolisé par At, est un élément radioactif rare, utilisé dans la recherche scientifique et les traitements médicaux."
   },
   {
-    "id": "63",
-    "question": "Qui était le premier président noir des États-Unis ?",
-    "answer": "Barack Obama",
+    "id": "1307",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ba ?",
+    "answer": "Baryum",
     "badAnswers": [
-      "Martin Luther King",
-      "Colin Powell",
-      "Jesse Jackson"
+      "Beryllium",
+      "Brome",
+      "Bismuth"
     ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Élu en 2008 et réélu en 2012, il a servi deux mandats complets. Son slogan de campagne était 'Yes We Can'."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le baryum, symbolisé par Ba, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur verte et en médecine pour les radiographies."
   },
   {
-    "id": "579",
-    "question": "Dans Super Mario Kart, quel objet ralentit directement les adversaires lorsqu'il est utilisé ?",
-    "answer": "Carapace rouge",
+    "id": "203",
+    "question": "Quel élément du tableau périodique porte le numéro atomique 99 ?",
+    "answer": "Einsteinium",
     "badAnswers": [
-      "Peau de banane",
-      "Étoile",
-      "Champignon"
+      "Fermium",
+      "Californium",
+      "Curium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "L'einsteinium (Es), élément 99, est un métal radioactif synthétique nommé en hommage à Albert Einstein. Le fermium (100), californium (98) et curium (96) sont d'autres éléments transuraniens."
+  },
+  {
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
+    "badAnswers": [
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La carapace rouge dans Super Mario Kart est un projectile qui poursuit un adversaire et le ralentit en le touchant. La peau de banane est un piège statique, l'étoile rend invincible, et le champignon augmente la vitesse."
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
   },
   {
-    "id": "645",
-    "question": "Dans Elden Ring, quel est le nom de l'arbre sacré central ?",
-    "answer": "Arbre-Monde",
+    "id": "1360",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
+    "answer": "Néodyme",
     "badAnswers": [
-      "Arbre d'Or",
-      "Arbre de Vie",
-      "Arbre Éternel"
+      "Nickel",
+      "Niobium",
+      "Nobelium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Arbre-Monde est l'arbre sacré central dans Elden Ring, lié à la mythologie du jeu et à l'Anneau d'Elden. Les autres options sont fictives ou tirées d'autres œuvres."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
   },
   {
-    "id": "1934",
-    "question": "Quel est le nom du groupe qui a chanté 'A Hard Day's Night' ?",
-    "answer": "The Beatles",
+    "id": "2107",
+    "question": "Quel est le nom de l'inventeur du premier système de télécommande sans fil ?",
+    "answer": "Nikola Tesla",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "John Logie Baird"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'A Hard Day's Night', sorti en 1964 par The Beatles, est une chanson pop tirée de l'album et du film éponymes."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Nikola Tesla a démontré une télécommande sans fil en 1898, utilisée pour contrôler un bateau miniature."
   },
   {
-    "id": "717",
-    "question": "Dans Harry Potter, quel est le nom de l'elfe de maison libéré par Harry ?",
-    "answer": "Dobby",
+    "id": "482",
+    "question": "Dans Harry Potter, quel est le nom du professeur de potions à Poudlard dans le premier livre ?",
+    "answer": "Severus Rogue",
     "badAnswers": [
-      "Kreattur",
-      "Winky",
-      "Hokey"
+      "Albus Dumbledore",
+      "Minerva McGonagall",
+      "Horace Slughorn"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Dobby est l'elfe de maison libéré par Harry Potter dans La Chambre des secrets en lui offrant une chaussette. Kreattur, Winky et Hokey sont d'autres elfes de maison de la série."
-  },
-  {
-    "id": "1741",
-    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
-    "answer": "Robert N. Hall",
-    "badAnswers": [
-      "Theodore Maiman",
-      "Charles Townes",
-      "Gordon Gould"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
+    "description": "Severus Rogue est le professeur de potions à Poudlard dans Harry Potter à l'école des sorciers. Connu pour son comportement sévère, il joue un rôle clé dans la série. Dumbledore est le directeur, McGonagall enseigne la métamorphose, et Slughorn devient professeur plus tard."
   }
 ]
