@@ -1,132 +1,132 @@
 [
   {
-    "id": "228",
-    "question": "Quel est le pays premier producteur mondial de tomates ?",
-    "answer": "Chine",
+    "id": "1866",
+    "question": "Quel est le nom du groupe qui a chanté 'Pinball Wizard' ?",
+    "answer": "The Who",
     "badAnswers": [
-      "Italie",
-      "Maroc",
-      "Pays-Bas"
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
     ],
-    "category": "Agriculture",
-    "difficulty": "normal",
-    "description": "La Chine produit environ 35% des tomates mondiales. L'Italie et les Pays-Bas sont leaders en Europe, le Maroc en Afrique."
-  },
-  {
-    "id": "131",
-    "question": "Dans quelle ville sont situées les plus célèbres falaises de France ?",
-    "answer": "Etretat",
-    "badAnswers": [
-      "Nice",
-      "Brest",
-      "Saint-Malo"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Les falaises d'Etretat, en Normandie, sont parmi les plus célèbres de France grâce à leurs arches naturelles. Nice, Brest et Saint-Malo ont des paysages côtiers différents."
+    "description": "'Pinball Wizard', sorti en 1969 par The Who, est une chanson rock tirée de l'opéra rock Tommy."
   },
   {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
+    "id": "1738",
+    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
+    "answer": "Robert Watson-Watt",
     "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
-  },
-  {
-    "id": "1469",
-    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
-    "answer": "Astatine",
-    "badAnswers": [
-      "Argon",
-      "Antimoine",
-      "Actinium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'astatine, symbolisé par At, est un élément radioactif rare, utilisé dans la recherche scientifique et les traitements médicaux."
-  },
-  {
-    "id": "1307",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ba ?",
-    "answer": "Baryum",
-    "badAnswers": [
-      "Beryllium",
-      "Brome",
-      "Bismuth"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le baryum, symbolisé par Ba, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur verte et en médecine pour les radiographies."
-  },
-  {
-    "id": "203",
-    "question": "Quel élément du tableau périodique porte le numéro atomique 99 ?",
-    "answer": "Einsteinium",
-    "badAnswers": [
-      "Fermium",
-      "Californium",
-      "Curium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'einsteinium (Es), élément 99, est un métal radioactif synthétique nommé en hommage à Albert Einstein. Le fermium (100), californium (98) et curium (96) sont d'autres éléments transuraniens."
-  },
-  {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
-    "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
-  },
-  {
-    "id": "1360",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
-    "answer": "Néodyme",
-    "badAnswers": [
-      "Nickel",
-      "Niobium",
-      "Nobelium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
-  },
-  {
-    "id": "2107",
-    "question": "Quel est le nom de l'inventeur du premier système de télécommande sans fil ?",
-    "answer": "Nikola Tesla",
-    "badAnswers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "John Logie Baird"
+      "Heinrich Hertz",
+      "Christian Hülsmeyer",
+      "Karl Ferdinand Braun"
     ],
     "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Nikola Tesla a démontré une télécommande sans fil en 1898, utilisée pour contrôler un bateau miniature."
+    "difficulty": "difficile",
+    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
   },
   {
-    "id": "482",
-    "question": "Dans Harry Potter, quel est le nom du professeur de potions à Poudlard dans le premier livre ?",
-    "answer": "Severus Rogue",
+    "id": "1962",
+    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Albus Dumbledore",
-      "Minerva McGonagall",
-      "Horace Slughorn"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
+  },
+  {
+    "id": "799",
+    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
+    "answer": "Michael Faraday",
+    "badAnswers": [
+      "James Clerk Maxwell",
+      "André-Marie Ampère",
+      "Heinrich Hertz"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "543",
+    "question": "Quel est le plus grand cétacé à dents du monde ?",
+    "answer": "Cachalot",
+    "badAnswers": [
+      "Orque",
+      "Narval",
+      "Dauphin commun"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
+  },
+  {
+    "id": "1163",
+    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
+    "answer": "Cornelius Drebbel",
+    "badAnswers": [
+      "Robert Fulton",
+      "John Philip Holland",
+      "Simon Lake"
+    ],
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
+  },
+  {
+    "id": "1874",
+    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
+  },
+  {
+    "id": "457",
+    "question": "Quel est le nom de l'auteur de L'Odyssée ?",
+    "answer": "Homère",
+    "badAnswers": [
+      "Virgile",
+      "Hésiode",
+      "Sophocle"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Severus Rogue est le professeur de potions à Poudlard dans Harry Potter à l'école des sorciers. Connu pour son comportement sévère, il joue un rôle clé dans la série. Dumbledore est le directeur, McGonagall enseigne la métamorphose, et Slughorn devient professeur plus tard."
+    "description": "Homère est l'auteur présumé de L'Odyssée, un poème épique grec du VIIIe siècle av. J.-C., racontant les aventures d'Ulysse. C'est une œuvre fondatrice de la littérature occidentale. Virgile a écrit L'Énéide, Hésiode La Théogonie, et Sophocle des tragédies comme Œdipe roi."
+  },
+  {
+    "id": "434",
+    "question": "Quel scientifique a découvert la radioactivité ?",
+    "answer": "Henri Becquerel",
+    "badAnswers": [
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Wilhelm Röntgen"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Henri Becquerel a découvert la radioactivité en 1896 en observant l’émission spontanée de rayonnements par l’uranium. Marie Curie a approfondi ces recherches, Rutherford a étudié la structure atomique, et Röntgen a découvert les rayons X."
+  },
+  {
+    "id": "1411",
+    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Metallica",
+      "Bon Jovi"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
   }
 ]
