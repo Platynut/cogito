@@ -1,132 +1,132 @@
 [
   {
-    "id": "1866",
-    "question": "Quel est le nom du groupe qui a chanté 'Pinball Wizard' ?",
-    "answer": "The Who",
+    "id": "1557",
+    "question": "Quel est le nom du groupe qui a chanté 'Pour Some Sugar on Me' ?",
+    "answer": "Def Leppard",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Pinball Wizard', sorti en 1969 par The Who, est une chanson rock tirée de l'opéra rock Tommy."
+    "description": "'Pour Some Sugar on Me', sorti en 1987 par Def Leppard, est une chanson hard rock tirée de l'album Hysteria."
   },
   {
-    "id": "1738",
-    "question": "Quel est le nom de l'inventeur du premier système de radar ?",
-    "answer": "Robert Watson-Watt",
+    "id": "356",
+    "question": "Quel est le nom de l'inventeur du World Wide Web ?",
+    "answer": "Tim Berners-Lee",
     "badAnswers": [
-      "Heinrich Hertz",
-      "Christian Hülsmeyer",
-      "Karl Ferdinand Braun"
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Tim Berners-Lee a inventé le World Wide Web en 1989 au CERN, en développant les concepts d'HTML, HTTP et des URL. Cette invention a transformé l'internet. Bill Gates, Steve Jobs et Mark Zuckerberg sont associés à d'autres innovations technologiques, mais pas au WWW."
+  },
+  {
+    "id": "1992",
+    "question": "Quel est le nom de l'auteur de 'Le Silence de la mer' ?",
+    "answer": "Vercors",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Vercors a écrit 'Le Silence de la mer' (1942), une nouvelle sur la résistance passive sous l'occupation allemande."
+  },
+  {
+    "id": "1643",
+    "question": "Quel est le nom du groupe qui a chanté 'Paranoid Android' ?",
+    "answer": "Radiohead",
+    "badAnswers": [
+      "Oasis",
+      "Blur",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Paranoid Android', sorti en 1997 par Radiohead, est une chanson alternative rock complexe tirée de l'album OK Computer."
+  },
+  {
+    "id": "132",
+    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
+    "answer": "Gavin Wood",
+    "badAnswers": [
+      "Charlie Lee",
+      "Sunny King",
+      "Roger Ver"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Robert Watson-Watt a développé le premier système de radar pratique dans les années 1930, crucial pour la défense aérienne."
+    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
   },
   {
-    "id": "1962",
-    "question": "Quel est le nom du groupe qui a chanté 'Ob-La-Di, Ob-La-Da' ?",
-    "answer": "The Beatles",
+    "id": "1462",
+    "question": "Quel est le nom de l'inventeur du premier avion motorisé ?",
+    "answer": "Frères Wright",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Ob-La-Di, Ob-La-Da', sorti en 1968 par The Beatles, est une chanson pop tirée de l'album The White Album."
-  },
-  {
-    "id": "799",
-    "question": "Quel scientifique a découvert la loi de l'induction électromagnétique ?",
-    "answer": "Michael Faraday",
-    "badAnswers": [
-      "James Clerk Maxwell",
-      "André-Marie Ampère",
-      "Heinrich Hertz"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Michael Faraday a découvert l'induction électromagnétique en 1831, fondement des générateurs électriques. Maxwell, Ampère et Hertz ont contribué à d'autres aspects de l'électromagnétisme."
-  },
-  {
-    "id": "543",
-    "question": "Quel est le plus grand cétacé à dents du monde ?",
-    "answer": "Cachalot",
-    "badAnswers": [
-      "Orque",
-      "Narval",
-      "Dauphin commun"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le cachalot est le plus grand cétacé à dents, pouvant atteindre 20 mètres de long et plonger à grande profondeur. L'orque, le narval et le dauphin commun sont plus petits."
-  },
-  {
-    "id": "1163",
-    "question": "Quel est le nom de l'inventeur du premier sous-marin fonctionnel ?",
-    "answer": "Cornelius Drebbel",
-    "badAnswers": [
-      "Robert Fulton",
-      "John Philip Holland",
-      "Simon Lake"
+      "Clément Ader",
+      "Alberto Santos-Dumont",
+      "Otto Lilienthal"
     ],
     "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Cornelius Drebbel a construit le premier sous-marin navigable en 1620, testé dans la Tamise, bien que ses capacités étaient limitées."
-  },
-  {
-    "id": "1874",
-    "question": "Quel est le nom du groupe qui a chanté 'All Along the Watchtower' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'All Along the Watchtower', sorti en 1968 par Jimi Hendrix, est une reprise rock d'une chanson de Bob Dylan."
+    "description": "Les frères Wright, Orville et Wilbur, ont effectué le premier vol motorisé contrôlé en 1903 avec leur avion, le Flyer, marquant l'ère de l'aviation."
   },
   {
-    "id": "457",
-    "question": "Quel est le nom de l'auteur de L'Odyssée ?",
-    "answer": "Homère",
+    "id": "1421",
+    "question": "Quel est la capitale du Kazakhstan ?",
+    "answer": "Nur-Sultan",
     "badAnswers": [
-      "Virgile",
-      "Hésiode",
-      "Sophocle"
+      "Almaty",
+      "Shymkent",
+      "Karaganda"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Homère est l'auteur présumé de L'Odyssée, un poème épique grec du VIIIe siècle av. J.-C., racontant les aventures d'Ulysse. C'est une œuvre fondatrice de la littérature occidentale. Virgile a écrit L'Énéide, Hésiode La Théogonie, et Sophocle des tragédies comme Œdipe roi."
-  },
-  {
-    "id": "434",
-    "question": "Quel scientifique a découvert la radioactivité ?",
-    "answer": "Henri Becquerel",
-    "badAnswers": [
-      "Marie Curie",
-      "Ernest Rutherford",
-      "Wilhelm Röntgen"
-    ],
-    "category": "Science",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Henri Becquerel a découvert la radioactivité en 1896 en observant l’émission spontanée de rayonnements par l’uranium. Marie Curie a approfondi ces recherches, Rutherford a étudié la structure atomique, et Röntgen a découvert les rayons X."
+    "description": "Nur-Sultan, capitale du Kazakhstan, est une ville moderne planifiée, connue pour son architecture futuriste et ses monuments comme la tour Bayterek."
   },
   {
-    "id": "1411",
-    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
-    "answer": "Guns N' Roses",
+    "id": "1152",
+    "question": "Quel est le nom de l'auteur de 'Le Rouge et le Noir' ?",
+    "answer": "Stendhal",
     "badAnswers": [
-      "Aerosmith",
-      "Metallica",
-      "Bon Jovi"
+      "Gustave Flaubert",
+      "Victor Hugo",
+      "Honoré de Balzac"
     ],
-    "category": "Musique",
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Stendhal a écrit 'Le Rouge et le Noir' (1830), un roman psychologique sur l'ambition et l'amour dans la France post-napoléonienne."
+  },
+  {
+    "id": "721",
+    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
+    "badAnswers": [
+      "Obi-Wan Kenobi",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
+    "description": "Yoda est le mentor de Luke Skywalker dans L'Empire contre-attaque, l'entraînant sur Dagobah. Obi-Wan, Qui-Gon et Mace Windu sont d'autres Jedi, mais pas ses mentors dans ce film."
+  },
+  {
+    "id": "397",
+    "question": "Quel est le plus grand poisson du monde ?",
+    "answer": "Requin-baleine",
+    "badAnswers": [
+      "Requin blanc",
+      "Baleine bleue",
+      "Manta"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
   }
 ]
