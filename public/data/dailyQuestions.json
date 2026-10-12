@@ -1,132 +1,132 @@
 [
   {
-    "id": "1231",
-    "question": "Quel est la capitale de la Jordanie ?",
-    "answer": "Amman",
+    "id": "1261",
+    "question": "Quel est la capitale de l'Arabie Saoudite ?",
+    "answer": "Riyad",
     "badAnswers": [
-      "Aqaba",
-      "Irbid",
-      "Zarqa"
+      "Djeddah",
+      "La Mecque",
+      "Médine"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Amman, capitale de la Jordanie, est une ville moderne et historique, connue pour ses ruines romaines et sa citadelle."
+    "description": "Riyad, capitale de l'Arabie Saoudite, est une ville moderne au cœur du désert, centre politique et économique du royaume."
   },
   {
-    "id": "1379",
-    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
-    "answer": "Apollon",
+    "id": "1517",
+    "question": "Quel est la capitale de la Zambie ?",
+    "answer": "Lusaka",
     "badAnswers": [
-      "Hélios",
-      "Zeus",
-      "Poséidon"
+      "Ndola",
+      "Kitwe",
+      "Livingstone"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
   },
   {
-    "id": "1880",
-    "question": "Quel est le nom du groupe qui a chanté 'Foxy Lady' ?",
-    "answer": "Jimi Hendrix",
+    "id": "772",
+    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
+    "answer": "Moira",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Widowmaker",
+      "Ana",
+      "Ashe"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Foxy Lady', sorti en 1967 par Jimi Hendrix, est une chanson rock tirée de l'album Are You Experienced."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
   },
   {
-    "id": "2110",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1947 ?",
-    "answer": "Gentleman’s Agreement",
+    "id": "1087",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
+    "answer": "The Artist",
     "badAnswers": [
-      "The Bishop’s Wife",
-      "Crossfire",
-      "Great Expectations"
+      "Hugo",
+      "The Descendants",
+      "Midnight in Paris"
     ],
     "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
+  },
+  {
+    "id": "649",
+    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
+    "answer": "Bram Stoker",
+    "badAnswers": [
+      "Mary Shelley",
+      "Robert Louis Stevenson",
+      "Oscar Wilde"
+    ],
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Gentleman’s Agreement, réalisé par Elia Kazan, a remporté l'Oscar du meilleur film en 1947, un drame sur l'antisémitisme."
+    "description": "Bram Stoker a écrit Dracula (1897), un roman gothique sur le vampire emblématique. Shelley a écrit Frankenstein, Stevenson L'Étrange Cas du docteur Jekyll, et Wilde Le Portrait de Dorian Gray."
   },
   {
-    "id": "1983",
-    "question": "Quel est le nom de l'inventeur du premier système de carte à puce ?",
-    "answer": "Roland Moreno",
+    "id": "800",
+    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
+    "answer": "Cappy",
     "badAnswers": [
-      "Robert Noyce",
-      "Jack Kilby",
-      "Martin Cooper"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Roland Moreno a inventé la carte à puce en 1974, utilisée dans les cartes bancaires et les systèmes sécurisés."
-  },
-  {
-    "id": "518",
-    "question": "Dans Overwatch, quel personnage est un hacker mexicain ?",
-    "answer": "Sombra",
-    "badAnswers": [
-      "Reaper",
-      "Tracer",
-      "D.Va"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Sombra est une hacker mexicaine dans Overwatch, spécialisée dans l'infiltration et la désactivation des systèmes ennemis. Reaper est un mercenaire, Tracer une aventurière temporelle, et D.Va une pilote de mécha."
-  },
-  {
-    "id": "97",
-    "question": "Quelle équipe de hockey sur glace remporte le championnat Suisse 2023 ?",
-    "answer": "Genève-Servette HC",
-    "badAnswers": [
-      "Fribourg Gotteron",
-      "HC Bienne",
-      "Lausanne HC"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Genève-Servette HC a remporté le championnat suisse de hockey sur glace en 2023. Fribourg Gotteron, HC Bienne et Lausanne HC sont d'autres équipes suisses mais n'ont pas gagné cette année-là."
-  },
-  {
-    "id": "219",
-    "question": "En quoi un nihiliste croit-il ?",
-    "answer": "En rien",
-    "badAnswers": [
-      "En la chance",
-      "En tout",
-      "En lui-même"
-    ],
-    "category": "Philosophie",
-    "difficulty": "normal",
-    "description": "Le nihilisme rejette toute croyance ou valeur absolue. Friedrich Nietzsche en a analysé les conséquences dans sa philosophie."
-  },
-  {
-    "id": "1732",
-    "question": "Quel est le nom de l'inventeur du premier microscope à balayage ?",
-    "answer": "Manfred von Ardenne",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Manfred von Ardenne a développé le premier microscope à balayage électronique en 1937, améliorant l'imagerie scientifique."
-  },
-  {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
-    "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
+      "Toad",
+      "Bowser",
+      "Luma"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
+  },
+  {
+    "id": "831",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
+    "answer": "Électhor",
+    "badAnswers": [
+      "Sulfura",
+      "Artikodin",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
+  },
+  {
+    "id": "490",
+    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
+    "answer": "Bois",
+    "badAnswers": [
+      "Métal",
+      "Pierre",
+      "Brique"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
+  },
+  {
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
+    "badAnswers": [
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
+    ],
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+  },
+  {
+    "id": "1681",
+    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
+    "answer": "Nicéphore Niépce",
+    "badAnswers": [
+      "Louis Daguerre",
+      "George Eastman",
+      "Thomas Edison"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Nicéphore Niépce a réalisé la première photographie permanente en 1826, utilisant une plaque d'étain et la technique de l'héliographie."
   }
 ]
