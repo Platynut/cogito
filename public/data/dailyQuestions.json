@@ -1,132 +1,132 @@
 [
   {
-    "id": "1261",
-    "question": "Quel est la capitale de l'Arabie Saoudite ?",
-    "answer": "Riyad",
+    "id": "264",
+    "question": "Quel est le nom du célèbre jeu vidéo où les joueurs construisent et explorent un monde en blocs ?",
+    "answer": "Minecraft",
     "badAnswers": [
-      "Djeddah",
-      "La Mecque",
-      "Médine"
+      "Fortnite",
+      "Call of Duty",
+      "World of Warcraft"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "'Minecraft' est un jeu vidéo de construction et d'exploration où les joueurs peuvent créer des structures, explorer des mondes générés aléatoirement et survivre contre des créatures. Il a été créé par Markus Persson et publié par Mojang en 2011."
+  },
+  {
+    "id": "205",
+    "question": "Quand les premiers dinosaures seraient-ils apparus sur Terre ?",
+    "answer": "Il y a 230 millions d'années",
+    "badAnswers": [
+      "Il y a 5 millions d'années",
+      "Il y a 65 millions d'années",
+      "Il y a 20 millions d'années"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Les dinosaures sont apparus au Trias, il y a environ 230 millions d'années. Il y a 65 millions d'années, leur extinction a eu lieu (hors oiseaux)."
+  },
+  {
+    "id": "1414",
+    "question": "Quel est la capitale de l'Afghanistan ?",
+    "answer": "Kaboul",
+    "badAnswers": [
+      "Kandahar",
+      "Herat",
+      "Mazar-i-Sharif"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Riyad, capitale de l'Arabie Saoudite, est une ville moderne au cœur du désert, centre politique et économique du royaume."
+    "description": "Kaboul, capitale de l'Afghanistan, est une ville historique située dans une vallée montagneuse, centre politique et culturel."
   },
   {
-    "id": "1517",
-    "question": "Quel est la capitale de la Zambie ?",
-    "answer": "Lusaka",
+    "id": "1417",
+    "question": "Quel est le nom de la déesse grecque de l'aube ?",
+    "answer": "Éos",
     "badAnswers": [
-      "Ndola",
-      "Kitwe",
-      "Livingstone"
+      "Héra",
+      "Athéna",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Éos, déesse grecque de l'aube, est représentée ouvrant les portes du ciel chaque matin pour laisser passer le soleil."
+  },
+  {
+    "id": "333",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la sorcière qui accompagne Geralt ?",
+    "answer": "Yennefer de Vengerberg",
+    "badAnswers": [
+      "Ciri",
+      "Triss Merigold",
+      "Keira Metz"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Yennefer de Vengerberg est une sorcière puissante et l'un des principaux intérêts amoureux de Geralt dans The Witcher 3: Wild Hunt. Connue pour son caractère fort et sa magie, elle joue un rôle clé dans l'histoire. Ciri est la fille adoptive de Geralt, Triss et Keira sont d'autres sorcières, mais pas la principale compagne."
+  },
+  {
+    "id": "1253",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Link ?",
+    "answer": "The Legend of Zelda",
+    "badAnswers": [
+      "Super Mario",
+      "Metroid",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Link est le héros emblématique de la série The Legend of Zelda, un aventurier courageux explorant le royaume d'Hyrule."
+  },
+  {
+    "id": "605",
+    "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
+    "answer": "Tenjin",
+    "badAnswers": [
+      "Hachiman",
+      "Jizo",
+      "Shitenno"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
+  },
+  {
+    "id": "515",
+    "question": "Dans God of War Ragnarök, quel est le nom du royaume des nains ?",
+    "answer": "Svartalfheim",
+    "badAnswers": [
+      "Asgard",
+      "Midgard",
+      "Jötunheim"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Svartalfheim est le royaume des nains dans God of War Ragnarök, connu pour ses forges et ses artisans. Asgard est le royaume des dieux, Midgard celui des humains, et Jötunheim celui des géants."
+  },
+  {
+    "id": "1523",
+    "question": "Quel est la capitale du Botswana ?",
+    "answer": "Gaborone",
+    "badAnswers": [
+      "Francistown",
+      "Maun",
+      "Serowe"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Lusaka, capitale de la Zambie, est une ville en pleine croissance, centre économique et culturel du pays."
+    "description": "Gaborone, capitale du Botswana, est une ville moderne proche de la frontière sud-africaine, connue pour son parc national de Mokolodi."
   },
   {
-    "id": "772",
-    "question": "Dans Overwatch, quel personnage est une scientifique irlandaise spécialisée en biotechnologie ?",
-    "answer": "Moira",
+    "id": "1457",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tl ?",
+    "answer": "Thallium",
     "badAnswers": [
-      "Widowmaker",
-      "Ana",
-      "Ashe"
+      "Tellure",
+      "Thorium",
+      "Technétium"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Moira est une scientifique irlandaise dans Overwatch, utilisant des capacités biotechnologiques pour soigner et infliger des dégâts. Widowmaker est une sniper française, Ana une tireuse d'élite égyptienne, et Ashe une tireuse américaine."
-  },
-  {
-    "id": "1087",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2011 ?",
-    "answer": "The Artist",
-    "badAnswers": [
-      "Hugo",
-      "The Descendants",
-      "Midnight in Paris"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Artist, un film muet en noir et blanc réalisé par Michel Hazanavicius, a remporté l'Oscar du meilleur film en 2011, célébrant le cinéma classique."
-  },
-  {
-    "id": "649",
-    "question": "Quel est le nom de l'auteur de 'Dracula' ?",
-    "answer": "Bram Stoker",
-    "badAnswers": [
-      "Mary Shelley",
-      "Robert Louis Stevenson",
-      "Oscar Wilde"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Bram Stoker a écrit Dracula (1897), un roman gothique sur le vampire emblématique. Shelley a écrit Frankenstein, Stevenson L'Étrange Cas du docteur Jekyll, et Wilde Le Portrait de Dorian Gray."
-  },
-  {
-    "id": "800",
-    "question": "Dans Super Mario Odyssey, quel est le nom de l'objet que Mario utilise pour capturer ?",
-    "answer": "Cappy",
-    "badAnswers": [
-      "Toad",
-      "Bowser",
-      "Luma"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Cappy est le chapeau magique que Mario utilise pour capturer des ennemis et objets dans Super Mario Odyssey. Toad, Bowser et Luma sont d'autres personnages ou entités."
-  },
-  {
-    "id": "831",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé à la foudre ?",
-    "answer": "Électhor",
-    "badAnswers": [
-      "Sulfura",
-      "Artikodin",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Électhor est le Pokémon légendaire associé à la foudre dans Pokémon Rouge Feu et Vert Feuille, l'un des oiseaux légendaires. Sulfura est lié au feu, Artikodin à la glace, et Mewtwo est psychique."
-  },
-  {
-    "id": "490",
-    "question": "Dans Fortnite, quel est le nom de la ressource principale utilisée pour construire ?",
-    "answer": "Bois",
-    "badAnswers": [
-      "Métal",
-      "Pierre",
-      "Brique"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le bois est la ressource principale utilisée pour construire des structures dans Fortnite, bien que le métal et la pierre soient également disponibles. Le bois est le plus facile à collecter et le plus utilisé pour des constructions rapides."
-  },
-  {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
-    "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
-    ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
-  },
-  {
-    "id": "1681",
-    "question": "Quel est le nom de l'inventeur du premier appareil photo ?",
-    "answer": "Nicéphore Niépce",
-    "badAnswers": [
-      "Louis Daguerre",
-      "George Eastman",
-      "Thomas Edison"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Nicéphore Niépce a réalisé la première photographie permanente en 1826, utilisant une plaque d'étain et la technique de l'héliographie."
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le thallium, symbolisé par Tl, est un métal toxique autrefois utilisé dans les poisons et aujourd'hui dans certains appareils électroniques."
   }
 ]
