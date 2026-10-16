@@ -1,132 +1,132 @@
 [
   {
-    "id": "938",
-    "question": "Quel est le nom du premier film Star Wars sorti en salles ?",
-    "answer": "Un nouvel espoir",
+    "id": "1083",
+    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
+    "answer": "Anubis",
     "badAnswers": [
-      "La Menace fantôme",
-      "Le Réveil de la Force",
-      "La Revanche des Sith"
+      "Osiris",
+      "Seth",
+      "Ptah"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
+  },
+  {
+    "id": "1520",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
+    "answer": "An American in Paris",
+    "badAnswers": [
+      "A Streetcar Named Desire",
+      "Decision Before Dawn",
+      "Quo Vadis"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Star Wars : Un nouvel espoir, sorti en 1977, est le premier film de la saga par ordre de sortie, bien qu'il soit le quatrième épisode dans la chronologie narrative."
+    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
   },
   {
-    "id": "991",
-    "question": "Quel langage de programmation a été utilisé pour créer le jeu Minecraft ?",
-    "answer": "Java",
+    "id": "1561",
+    "question": "Quel est le nom du dieu grec des vents ?",
+    "answer": "Éole",
     "badAnswers": [
-      "HTML 5",
-      "C++",
-      "Python"
+      "Borée",
+      "Zéphyr",
+      "Notos"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "Minecraft, créé par Markus Persson, a été développé en Java, un choix qui a permis sa grande portabilité sur différentes plateformes."
-  },
-  {
-    "id": "194",
-    "question": "Lors d’un effort musculaire, quel déchet est produit par les muscles ?",
-    "answer": "Du dioxyde de carbone",
-    "badAnswers": [
-      "De l'oxygène",
-      "Du glucose",
-      "De l'azote"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Les muscles produisent du CO2 comme déchet lors de la respiration cellulaire. L'oxygène est consommé, le glucose est une source d'énergie, et l'azote n'est pas impliqué."
-  },
-  {
-    "id": "1965",
-    "question": "Quel est le nom du groupe qui a chanté 'While My Guitar Gently Weeps' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "'While My Guitar Gently Weeps', sorti en 1968 par The Beatles, est une chanson rock tirée de l'album The White Album."
+    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
   },
   {
-    "id": "152",
-    "question": "Quel est l'acteur principal de la série Breaking Bad ?",
-    "answer": "Bryan Cranston",
+    "id": "1342",
+    "question": "Quel est la capitale du Salvador ?",
+    "answer": "San Salvador",
     "badAnswers": [
-      "Josh Radnor",
-      "Matt Damon",
-      "Andrew Lincoln"
-    ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Bryan Cranston incarne Walter White, professeur de chimie devenu trafiquant de drogue dans 'Breaking Bad'. Josh Radnor joue dans 'How I Met Your Mother', Matt Damon est une star de cinéma, et Andrew Lincoln dans 'The Walking Dead'."
-  },
-  {
-    "id": "169",
-    "question": "Quelle est la signification étymologique du mot dinosaure ?",
-    "answer": "Terrible lézard",
-    "badAnswers": [
-      "Monstre géant",
-      "Animal préhistorique",
-      "Redoutable prédateur"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le mot 'dinosaure' vient du grec 'deinos' (terrible) et 'sauros' (lézard). Les autres propositions sont des approximations incorrectes."
-  },
-  {
-    "id": "1408",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Yb ?",
-    "answer": "Ytterbium",
-    "badAnswers": [
-      "Yttrium",
-      "Zirconium",
-      "Uranium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "L'ytterbium, symbolisé par Yb, est un métal rare utilisé dans les lasers et les alliages pour ses propriétés uniques."
-  },
-  {
-    "id": "172",
-    "question": "Avec Meg, Jo et Beth, comment s’appelle la 4ème fille du docteur March, dans le roman de Louisa May Alcott ?",
-    "answer": "Amy",
-    "badAnswers": [
-      "Mary",
-      "Sarah",
-      "Jane"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Dans 'Les Quatre Filles du docteur March', Amy est la plus jeune sœur après Meg, Jo et Beth. Mary, Sarah et Jane sont des prénoms courants mais pas dans ce roman."
-  },
-  {
-    "id": "252",
-    "question": "Sous quel nom est plus connu l'anticyclone de l'Atlantique Nord ?",
-    "answer": "Anticyclone des Açores",
-    "badAnswers": [
-      "Anticyclone de Sainte-Hélène",
-      "Anticyclone de Lucifer",
-      "Anticyclone Alfredo"
+      "Santa Ana",
+      "San Miguel",
+      "Sonsonate"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'anticyclone semi-permanent de l'Atlantique Nord est appelé 'Anticyclone des Açores' car centré près de cet archipel portugais. Il influence le climat européen en apportant beau temps. En hiver, il peut se déplacer vers les Açores, d'où son nom."
+    "description": "San Salvador, capitale du Salvador, est une ville dynamique située dans une région volcanique, connue pour sa cathédrale et ses musées."
   },
   {
-    "id": "806",
-    "question": "Dans Bloodborne, quel est le nom de la chasseuse rencontrée dans la Cathédrale ?",
-    "answer": "Eileen la Corneille",
+    "id": "1373",
+    "question": "Quel est la capitale du Suriname ?",
+    "answer": "Paramaribo",
     "badAnswers": [
-      "Lady Maria",
-      "Vicaire Amelia",
-      "Annalise"
+      "Nieuw Nickerie",
+      "Moengo",
+      "Albina"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
+  },
+  {
+    "id": "467",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
+    "answer": "Ciri",
+    "badAnswers": [
+      "Yennefer",
+      "Triss",
+      "Keira"
     ],
     "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
+  },
+  {
+    "id": "2144",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
+    "answer": "Aucun Oscar décerné",
+    "badAnswers": [
+      "The Covered Wagon",
+      "The Hunchback of Notre Dame",
+      "Safety Last!"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
+  },
+  {
+    "id": "1757",
+    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
+    "answer": "Lynyrd Skynyrd",
+    "badAnswers": [
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+  },
+  {
+    "id": "81",
+    "question": "Qui a dirigé 'Le Parrain' ?",
+    "answer": "Francis Ford Coppola",
+    "badAnswers": [
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Alfred Hitchcock"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Eileen la Corneille est une chasseuse rencontrée dans la Cathédrale de Bloodborne, aidant contre les chasseurs fous. Lady Maria, Amelia et Annalise sont d'autres personnages."
+    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
+  },
+  {
+    "id": "702",
+    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
+    "answer": "Umibōzu",
+    "badAnswers": [
+      "Iso-onna",
+      "Kappa",
+      "Jorōgumo"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
   }
 ]
