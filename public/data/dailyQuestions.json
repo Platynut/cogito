@@ -1,132 +1,132 @@
 [
   {
-    "id": "2109",
-    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
-    "answer": "David Atlas",
+    "id": "1795",
+    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
+    "answer": "Creedence Clearwater Revival",
     "badAnswers": [
-      "Robert Watson-Watt",
-      "Christian Hülsmeyer",
-      "Heinrich Hertz"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
-  },
-  {
-    "id": "646",
-    "question": "Quel artiste a peint L'Homme de Vitruve ?",
-    "answer": "Léonard de Vinci",
-    "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli"
-    ],
-    "category": "Art",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "L'Homme de Vitruve (vers 1490) de Léonard de Vinci est un dessin illustrant les proportions humaines idéales. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance, mais n'ont pas créé cette œuvre."
+    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
   },
   {
-    "id": "1604",
-    "question": "Quel est la capitale des Seychelles ?",
-    "answer": "Victoria",
+    "id": "1336",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
+    "answer": "Out of Africa",
     "badAnswers": [
-      "Mahé",
-      "Praslin",
-      "La Digue"
+      "Witness",
+      "The Color Purple",
+      "Kiss of the Spider Woman"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
+    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
   },
   {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
+    "id": "227",
+    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
+    "answer": "27,3 jours",
     "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
+      "14,5 jours",
+      "30,7 jours",
+      "365,2 jours"
+    ],
+    "category": "Astronomie",
+    "difficulty": "normal",
+    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
+  },
+  {
+    "id": "175",
+    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+    "answer": "Japon",
+    "badAnswers": [
+      "Espagne",
+      "Yémen",
+      "Inde"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+  },
+  {
+    "id": "1361",
+    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
+    "badAnswers": [
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
+  },
+  {
+    "id": "699",
+    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
+    "answer": "Bourg-Clocher",
+    "badAnswers": [
+      "Cité Goron",
+      "Village Kokiri",
+      "Domaine Zora"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
   },
   {
-    "id": "1918",
-    "question": "Quel est le nom du groupe qui a chanté 'I Want to Hold Your Hand' ?",
-    "answer": "The Beatles",
+    "id": "1536",
+    "question": "Quel est la capitale du Togo ?",
+    "answer": "Lomé",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Want to Hold Your Hand', sorti en 1963 par The Beatles, est une chanson pop qui a lancé la Beatlemania."
-  },
-  {
-    "id": "2028",
-    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
-  },
-  {
-    "id": "320",
-    "question": "Quel est le symbole chimique de l'or ?",
-    "answer": "Au",
-    "badAnswers": [
-      "Ag",
-      "Fe",
-      "Cu"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
-  },
-  {
-    "id": "132",
-    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
-    "answer": "Gavin Wood",
-    "badAnswers": [
-      "Charlie Lee",
-      "Sunny King",
-      "Roger Ver"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
-  },
-  {
-    "id": "1569",
-    "question": "Quel est la capitale de la République démocratique du Congo ?",
-    "answer": "Kinshasa",
-    "badAnswers": [
-      "Goma",
-      "Lubumbashi",
-      "Kisangani"
+      "Kara",
+      "Sokodé",
+      "Atakpamé"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
+    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
   },
   {
-    "id": "608",
-    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
-    "answer": "Boba Fett",
+    "id": "671",
+    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
+    "answer": "Aconcagua",
     "badAnswers": [
-      "Jango Fett",
-      "Bossk",
-      "Dengar"
+      "Huascarán",
+      "Chimborazo",
+      "Cerro Torre"
     ],
-    "category": "Cinéma",
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
+  },
+  {
+    "id": "198",
+    "question": "Combien de temps dure le mandat du président des États-Unis ?",
+    "answer": "4 ans",
+    "badAnswers": [
+      "5 ans",
+      "6 ans",
+      "7 ans"
+    ],
+    "category": "Politique",
     "difficulty": "facile",
-    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
+    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
+  },
+  {
+    "id": "153",
+    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
+    "answer": "Stamppot",
+    "badAnswers": [
+      "Lefse",
+      "Potaye",
+      "Frico"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
   }
 ]
