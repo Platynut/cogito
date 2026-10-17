@@ -1,132 +1,132 @@
 [
   {
-    "id": "1083",
-    "question": "Quel dieu égyptien est chargé de guider les âmes et de présider à l’embaumement ?",
-    "answer": "Anubis",
+    "id": "2109",
+    "question": "Quel est le nom de l'inventeur du premier système de radar météorologique ?",
+    "answer": "David Atlas",
     "badAnswers": [
-      "Osiris",
-      "Seth",
-      "Ptah"
+      "Robert Watson-Watt",
+      "Christian Hülsmeyer",
+      "Heinrich Hertz"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Anubis est le dieu égyptien des rites funéraires et de la momification. Il guide les âmes vers le jugement, qui est ensuite rendu par Osiris, souverain du royaume des morts."
-  },
-  {
-    "id": "1520",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1951 ?",
-    "answer": "An American in Paris",
-    "badAnswers": [
-      "A Streetcar Named Desire",
-      "Decision Before Dawn",
-      "Quo Vadis"
-    ],
-    "category": "Cinéma",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "An American in Paris, réalisé par Vincente Minnelli, a remporté l'Oscar du meilleur film en 1951, une comédie musicale romantique."
+    "description": "David Atlas a développé le premier radar météorologique dans les années 1940, utilisé pour prévoir les tempêtes."
   },
   {
-    "id": "1561",
-    "question": "Quel est le nom du dieu grec des vents ?",
-    "answer": "Éole",
+    "id": "646",
+    "question": "Quel artiste a peint L'Homme de Vitruve ?",
+    "answer": "Léonard de Vinci",
     "badAnswers": [
-      "Borée",
-      "Zéphyr",
-      "Notos"
+      "Michel-Ange",
+      "Raphaël",
+      "Botticelli"
     ],
-    "category": "Mythologie",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Éole, dieu grec des vents, est le gardien des vents directionnels, souvent invoqué par les marins pour des voyages sûrs."
+    "description": "L'Homme de Vitruve (vers 1490) de Léonard de Vinci est un dessin illustrant les proportions humaines idéales. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance, mais n'ont pas créé cette œuvre."
   },
   {
-    "id": "1342",
-    "question": "Quel est la capitale du Salvador ?",
-    "answer": "San Salvador",
+    "id": "1604",
+    "question": "Quel est la capitale des Seychelles ?",
+    "answer": "Victoria",
     "badAnswers": [
-      "Santa Ana",
-      "San Miguel",
-      "Sonsonate"
+      "Mahé",
+      "Praslin",
+      "La Digue"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "San Salvador, capitale du Salvador, est une ville dynamique située dans une région volcanique, connue pour sa cathédrale et ses musées."
+    "description": "Victoria, capitale des Seychelles, est une petite ville sur l'île de Mahé, connue pour son jardin botanique et son marché coloré."
   },
   {
-    "id": "1373",
-    "question": "Quel est la capitale du Suriname ?",
-    "answer": "Paramaribo",
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
     "badAnswers": [
-      "Nieuw Nickerie",
-      "Moengo",
-      "Albina"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Paramaribo, capitale du Suriname, est une ville portuaire connue pour son architecture coloniale néerlandaise et son multiculturalisme."
-  },
-  {
-    "id": "467",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la fille adoptive de Geralt ?",
-    "answer": "Ciri",
-    "badAnswers": [
-      "Yennefer",
-      "Triss",
-      "Keira"
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Ciri, ou Cirilla, est la fille adoptive de Geralt dans The Witcher 3: Wild Hunt, une figure centrale avec des pouvoirs uniques. Yennefer, Triss et Keira sont des sorcières, mais ne sont pas la fille adoptive de Geralt."
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
   },
   {
-    "id": "2144",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1924 ?",
-    "answer": "Aucun Oscar décerné",
+    "id": "1918",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want to Hold Your Hand' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "The Covered Wagon",
-      "The Hunchback of Notre Dame",
-      "Safety Last!"
-    ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "En 1924, les Oscars n'étaient pas encore décernés, la première cérémonie ayant eu lieu en 1929."
-  },
-  {
-    "id": "1757",
-    "question": "Quel est le nom du groupe qui a chanté 'Free Bird' ?",
-    "answer": "Lynyrd Skynyrd",
-    "badAnswers": [
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival",
-      "ZZ Top"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Free Bird', sorti en 1973 par Lynyrd Skynyrd, est une chanson rock sudiste tirée de l'album Pronounced 'Lĕh-'nérd 'Skin-'nérd."
+    "description": "'I Want to Hold Your Hand', sorti en 1963 par The Beatles, est une chanson pop qui a lancé la Beatlemania."
   },
   {
-    "id": "81",
-    "question": "Qui a dirigé 'Le Parrain' ?",
-    "answer": "Francis Ford Coppola",
+    "id": "2028",
+    "question": "Quel est le nom du groupe qui a chanté 'Drive My Car' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Alfred Hitchcock"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Drive My Car', sorti en 1965 par The Beatles, est une chanson rock tirée de l'album Rubber Soul."
+  },
+  {
+    "id": "320",
+    "question": "Quel est le symbole chimique de l'or ?",
+    "answer": "Au",
+    "badAnswers": [
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le symbole chimique de l'or est Au, dérivé du latin aurum. L'or est un métal précieux connu pour sa malléabilité et sa résistance à la corrosion. Ag représente l'argent, Fe le fer, et Cu le cuivre dans le tableau périodique."
+  },
+  {
+    "id": "132",
+    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
+    "answer": "Gavin Wood",
+    "badAnswers": [
+      "Charlie Lee",
+      "Sunny King",
+      "Roger Ver"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
+  },
+  {
+    "id": "1569",
+    "question": "Quel est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
+    "badAnswers": [
+      "Goma",
+      "Lubumbashi",
+      "Kisangani"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Kinshasa, capitale de la RDC, est une mégalopole sur le fleuve Congo, connue pour sa musique et ses marchés animés."
+  },
+  {
+    "id": "608",
+    "question": "Dans Star Wars, quel est le nom du chasseur de primes qui capture Han Solo ?",
+    "answer": "Boba Fett",
+    "badAnswers": [
+      "Jango Fett",
+      "Bossk",
+      "Dengar"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 1972, ce film adapté du roman de Mario Puzo a révolutionné le cinéma avec Marlon Brando et Al Pacino. Il a remporté 3 Oscars."
-  },
-  {
-    "id": "702",
-    "question": "Quel esprit marin géant japonais est réputé pour renverser les bateaux ?",
-    "answer": "Umibōzu",
-    "badAnswers": [
-      "Iso-onna",
-      "Kappa",
-      "Jorōgumo"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "L'Umibōzu est un esprit marin gigantesque qui émerge des eaux pour effrayer et couler les navires."
+    "difficulty": "facile",
+    "description": "Boba Fett est le chasseur de primes qui capture Han Solo dans L'Empire contre-attaque pour le livrer à Jabba le Hutt. Jango Fett est son père, Bossk et Dengar sont d'autres chasseurs de primes."
   }
 ]
