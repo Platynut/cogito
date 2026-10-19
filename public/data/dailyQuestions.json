@@ -1,132 +1,132 @@
 [
   {
-    "id": "1795",
-    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
-    "answer": "Creedence Clearwater Revival",
+    "id": "1333",
+    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
+    "answer": "The Clash",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
+      "The Ramones",
+      "Sex Pistols",
+      "The Who"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
+    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
   },
   {
-    "id": "1336",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1985 ?",
-    "answer": "Out of Africa",
+    "id": "1080",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
+    "answer": "No Country for Old Men",
     "badAnswers": [
-      "Witness",
-      "The Color Purple",
-      "Kiss of the Spider Woman"
+      "There Will Be Blood",
+      "Michael Clayton",
+      "Juno"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Out of Africa, réalisé par Sydney Pollack, a remporté l'Oscar du meilleur film en 1985, une romance épique située au Kenya colonial."
+    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
   },
   {
-    "id": "227",
-    "question": "Combien de temps dure la rotation complète de la Lune autour de la Terre ?",
-    "answer": "27,3 jours",
+    "id": "2047",
+    "question": "Quel est le nom de l'inventeur du premier système de télévision électronique ?",
+    "answer": "Philo Farnsworth",
     "badAnswers": [
-      "14,5 jours",
-      "30,7 jours",
-      "365,2 jours"
+      "John Logie Baird",
+      "Walter Bruch",
+      "Vladimir Zworykin"
     ],
-    "category": "Astronomie",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "La Lune met 27,3 jours pour orbiter autour de la Terre (révolution sidérale). Les phases lunaires (29,5 jours) incluent aussi le mouvement Terre-Soleil."
+    "description": "Philo Farnsworth a inventé le premier système de télévision électronique en 1927, posant les bases de la télévision moderne."
   },
   {
-    "id": "175",
-    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-    "answer": "Japon",
+    "id": "1692",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
+    "answer": "Palladium",
     "badAnswers": [
-      "Espagne",
-      "Yémen",
-      "Inde"
+      "Platine",
+      "Plomb",
+      "Polonium"
     ],
-    "category": "Politique",
+    "category": "Science",
     "difficulty": "normal",
-    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
   },
   {
-    "id": "1361",
-    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
+    "id": "2084",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur CD ?",
+    "answer": "James Russell",
     "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Émile Zola"
+      "Philips",
+      "Sony",
+      "Toshiba"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "James Russell a développé le concept du disque compact (CD) dans les années 1960, révolutionnant le stockage audio."
   },
   {
-    "id": "699",
-    "question": "Dans The Legend of Zelda: Majora's Mask, quel est le nom de la ville centrale ?",
-    "answer": "Bourg-Clocher",
+    "id": "701",
+    "question": "Quel yōkai amphibie japonais est connu pour avoir un creux d'eau sur la tête ?",
+    "answer": "Kappa",
     "badAnswers": [
-      "Cité Goron",
-      "Village Kokiri",
-      "Domaine Zora"
+      "Tengu",
+      "Tanuki",
+      "Oni"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Le Kappa est un esprit aquatique espiègle ou dangereux, possédant un creux d'eau sur la tête qui lui donne sa force."
+  },
+  {
+    "id": "1931",
+    "question": "Quel est le nom de l'inventeur du premier système de pile à combustible ?",
+    "answer": "William Grove",
+    "badAnswers": [
+      "Humphry Davy",
+      "Alessandro Volta",
+      "Michael Faraday"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "William Robert Grove a développé la première pile à combustible en 1839, pionnière des technologies d'énergie propre."
+  },
+  {
+    "id": "888",
+    "question": "Dans Hades, quel est le nom du protagoniste ?",
+    "answer": "Zagreus",
+    "badAnswers": [
+      "Hades",
+      "Thanatos",
+      "Hypnos"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Bourg-Clocher est la ville centrale de The Legend of Zelda: Majora's Mask, où se déroule le festival de la Lune. Cité Goron, Village Kokiri et Domaine Zora sont d'autres lieux du jeu ou de la série."
+    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
   },
   {
-    "id": "1536",
-    "question": "Quel est la capitale du Togo ?",
-    "answer": "Lomé",
+    "id": "841",
+    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
+    "answer": "Désert de McMurdo",
     "badAnswers": [
-      "Kara",
-      "Sokodé",
-      "Atakpamé"
+      "Désert de Ross",
+      "Désert de Taylor",
+      "Désert de Victoria"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Lomé, capitale du Togo, est une ville côtière sur le golfe de Guinée, connue pour son marché aux fétiches et sa cathédrale."
+    "difficulty": "difficile",
+    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
   },
   {
-    "id": "671",
-    "question": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
-    "answer": "Aconcagua",
+    "id": "1981",
+    "question": "Quel est la capitale de la République centrafricaine ?",
+    "answer": "Bangui",
     "badAnswers": [
-      "Huascarán",
-      "Chimborazo",
-      "Cerro Torre"
+      "Berbérati",
+      "Bambari",
+      "Bouar"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L'Aconcagua, dans les Andes argentines, est le plus haut sommet d'Amérique du Sud, culminant à 6 960 mètres. Huascarán, Chimborazo et Cerro Torre sont d'autres sommets andins, mais plus bas."
-  },
-  {
-    "id": "198",
-    "question": "Combien de temps dure le mandat du président des États-Unis ?",
-    "answer": "4 ans",
-    "badAnswers": [
-      "5 ans",
-      "6 ans",
-      "7 ans"
-    ],
-    "category": "Politique",
-    "difficulty": "facile",
-    "description": "Le président américain est élu pour un mandat de 4 ans, renouvelable une fois. En France, le mandat est de 5 ans, et 6 ans pour certains sénateurs."
-  },
-  {
-    "id": "153",
-    "question": "Quel plat traditionnel des Pays-Bas consiste en une purée mélangée avec des légumes ?",
-    "answer": "Stamppot",
-    "badAnswers": [
-      "Lefse",
-      "Potaye",
-      "Frico"
-    ],
-    "category": "Cuisine",
-    "difficulty": "normal",
-    "description": "Le stamppot est un plat néerlandais à base de purée de pommes de terre mélangée à des légumes (chou, carottes). Le lefse est norvégien, le potaye belge, et le frico italien."
+    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
   }
 ]
