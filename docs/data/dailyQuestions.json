@@ -1,132 +1,132 @@
 [
   {
-    "id": "1333",
-    "question": "Quel est le nom du groupe qui a chanté 'Should I Stay or Should I Go' ?",
-    "answer": "The Clash",
+    "id": "404",
+    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
+    "answer": "James Watson",
     "badAnswers": [
-      "The Ramones",
-      "Sex Pistols",
-      "The Who"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Should I Stay or Should I Go', sorti en 1982 par The Clash, est une chanson punk-rock devenue un classique, tirée de l'album Combat Rock."
-  },
-  {
-    "id": "1080",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2007 ?",
-    "answer": "No Country for Old Men",
-    "badAnswers": [
-      "There Will Be Blood",
-      "Michael Clayton",
-      "Juno"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "No Country for Old Men, réalisé par les frères Coen, a remporté l'Oscar du meilleur film en 2007, un thriller sombre basé sur le roman de Cormac McCarthy."
-  },
-  {
-    "id": "2047",
-    "question": "Quel est le nom de l'inventeur du premier système de télévision électronique ?",
-    "answer": "Philo Farnsworth",
-    "badAnswers": [
-      "John Logie Baird",
-      "Walter Bruch",
-      "Vladimir Zworykin"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Philo Farnsworth a inventé le premier système de télévision électronique en 1927, posant les bases de la télévision moderne."
-  },
-  {
-    "id": "1692",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Pd ?",
-    "answer": "Palladium",
-    "badAnswers": [
-      "Platine",
-      "Plomb",
-      "Polonium"
+      "Rosalind Franklin",
+      "Gregor Mendel",
+      "Linus Pauling"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le palladium, symbolisé par Pd, est un métal utilisé dans les convertisseurs catalytiques et l'électronique."
+    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
   },
   {
-    "id": "2084",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur CD ?",
-    "answer": "James Russell",
+    "id": "684",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles 2 ?",
+    "answer": "Rex",
     "badAnswers": [
-      "Philips",
-      "Sony",
-      "Toshiba"
+      "Pyra/Mythra",
+      "Shulk",
+      "Malos"
     ],
-    "category": "Technologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "James Russell a développé le concept du disque compact (CD) dans les années 1960, révolutionnant le stockage audio."
+    "description": "Rex est le protagoniste principal de Xenoblade Chronicles 2, maniant Pyra et Mythra comme lames. Dans Super Smash Bros. Ultimate, ce sont Pyra et Mythra qui sont jouables, mais Rex reste le héros principal de l'histoire du jeu."
   },
   {
-    "id": "701",
-    "question": "Quel yōkai amphibie japonais est connu pour avoir un creux d'eau sur la tête ?",
-    "answer": "Kappa",
+    "id": "544",
+    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
+    "answer": "Le vaisseau",
     "badAnswers": [
-      "Tengu",
-      "Tanuki",
-      "Oni"
+      "Radiance",
+      "Grimm",
+      "Hornet"
     ],
-    "category": "Mythologie",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Le Kappa est un esprit aquatique espiègle ou dangereux, possédant un creux d'eau sur la tête qui lui donne sa force."
+    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
   },
   {
-    "id": "1931",
-    "question": "Quel est le nom de l'inventeur du premier système de pile à combustible ?",
-    "answer": "William Grove",
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
     "badAnswers": [
-      "Humphry Davy",
-      "Alessandro Volta",
-      "Michael Faraday"
+      "Sélénium",
+      "Silicium",
+      "Strontium"
     ],
-    "category": "Technologie",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "William Robert Grove a développé la première pile à combustible en 1839, pionnière des technologies d'énergie propre."
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
   },
   {
-    "id": "888",
-    "question": "Dans Hades, quel est le nom du protagoniste ?",
-    "answer": "Zagreus",
+    "id": "2081",
+    "question": "Quel est le nom de l'auteur de 'J'irai cracher sur vos tombes' ?",
+    "answer": "Boris Vian",
     "badAnswers": [
-      "Hades",
-      "Thanatos",
-      "Hypnos"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Boris Vian a écrit 'J'irai cracher sur vos tombes' (1946) sous le pseudonyme Vernon Sullivan, un roman provocateur sur la vengeance."
+  },
+  {
+    "id": "33",
+    "question": "Quel scientifique a découvert la pénicilline ?",
+    "answer": "Alexander Fleming",
+    "badAnswers": [
+      "Louis Pasteur",
+      "Marie Curie",
+      "Albert Einstein"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
+  },
+  {
+    "id": "718",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
+    "answer": "Inkling",
+    "badAnswers": [
+      "Octoling",
+      "Callie",
+      "Marie"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Zagreus est le protagoniste de Hades, tentant de s'échapper des Enfers. Hades est son père, Thanatos et Hypnos sont d'autres personnages."
+    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
   },
   {
-    "id": "841",
-    "question": "Quel est le nom du plus grand désert d'Antarctique ?",
-    "answer": "Désert de McMurdo",
+    "id": "1615",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Désert de Ross",
-      "Désert de Taylor",
-      "Désert de Victoria"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
+  },
+  {
+    "id": "88",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "Antarctique",
+    "badAnswers": [
+      "Sahara",
+      "Gobi",
+      "Kalahari"
     ],
     "category": "Géographie",
     "difficulty": "difficile",
-    "description": "Le désert de McMurdo, ou Vallées sèches, est la plus grande zone sans glace d'Antarctique. Ross, Taylor et Victoria sont d'autres régions, mais pas des déserts principaux."
+    "description": "Bien que couvert de glace, l'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles. Il couvre 14 millions de km²."
   },
   {
-    "id": "1981",
-    "question": "Quel est la capitale de la République centrafricaine ?",
-    "answer": "Bangui",
+    "id": "2107",
+    "question": "Quel est le nom de l'inventeur du premier système de télécommande sans fil ?",
+    "answer": "Nikola Tesla",
     "badAnswers": [
-      "Berbérati",
-      "Bambari",
-      "Bouar"
+      "Thomas Edison",
+      "Guglielmo Marconi",
+      "John Logie Baird"
     ],
-    "category": "Géographie",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Bangui, capitale de la République centrafricaine, est une ville située sur la rivière Ubangi, connue pour son marché artisanal."
+    "description": "Nikola Tesla a démontré une télécommande sans fil en 1898, utilisée pour contrôler un bateau miniature."
   }
 ]
