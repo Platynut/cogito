@@ -1,132 +1,132 @@
 [
   {
-    "id": "404",
-    "question": "Quel scientifique a découvert la structure en double hélice de l’ADN ?",
-    "answer": "James Watson",
+    "id": "1060",
+    "question": "Quel est le nom du dieu grec de l'amour ?",
+    "answer": "Éros",
     "badAnswers": [
-      "Rosalind Franklin",
-      "Gregor Mendel",
-      "Linus Pauling"
+      "Arès",
+      "Apollon",
+      "Dionysos"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "James Watson et Francis Crick ont découvert la structure en double hélice de l’ADN en 1953, une percée majeure en biologie. Rosalind Franklin a fourni des données clés via ses radiographies, Mendel a étudié la génétique, et Pauling a travaillé sur les liaisons chimiques."
-  },
-  {
-    "id": "684",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Xenoblade Chronicles 2 ?",
-    "answer": "Rex",
-    "badAnswers": [
-      "Pyra/Mythra",
-      "Shulk",
-      "Malos"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rex est le protagoniste principal de Xenoblade Chronicles 2, maniant Pyra et Mythra comme lames. Dans Super Smash Bros. Ultimate, ce sont Pyra et Mythra qui sont jouables, mais Rex reste le héros principal de l'histoire du jeu."
-  },
-  {
-    "id": "544",
-    "question": "Dans Hollow Knight, quel est le nom du boss final du jeu principal ?",
-    "answer": "Le vaisseau",
-    "badAnswers": [
-      "Radiance",
-      "Grimm",
-      "Hornet"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le vaisseau est le boss final du jeu principal Hollow Knight, affronté dans le temple de l'Œuf noir. La Radiance est un boss optionnel, Grimm est dans un DLC, et Hornet est un personnage récurrent."
-  },
-  {
-    "id": "1560",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
-    "answer": "Seaborgium",
-    "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Strontium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
-  },
-  {
-    "id": "2081",
-    "question": "Quel est le nom de l'auteur de 'J'irai cracher sur vos tombes' ?",
-    "answer": "Boris Vian",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Boris Vian a écrit 'J'irai cracher sur vos tombes' (1946) sous le pseudonyme Vernon Sullivan, un roman provocateur sur la vengeance."
-  },
-  {
-    "id": "33",
-    "question": "Quel scientifique a découvert la pénicilline ?",
-    "answer": "Alexander Fleming",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Marie Curie",
-      "Albert Einstein"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "En 1928, Alexander Fleming a découvert par hasard la pénicilline, le premier antibiotique naturel, révolutionnant la médecine moderne et sauvant des millions de vies à travers le monde."
-  },
-  {
-    "id": "718",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de Splatoon ?",
-    "answer": "Inkling",
-    "badAnswers": [
-      "Octoling",
-      "Callie",
-      "Marie"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Mythologie",
     "difficulty": "facile",
-    "description": "L'Inkling est le protagoniste de la série Splatoon et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des armes à encre. Octoling est une variante, et Callie et Marie sont des PNJ."
+    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
   },
   {
-    "id": "1615",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Bowser ?",
-    "answer": "Super Mario",
-    "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Bowser, roi des Koopas, est l'antagoniste principal de la série Super Mario, kidnappant régulièrement la princesse Peach."
-  },
-  {
-    "id": "88",
+    "id": "323",
     "question": "Quel est le plus grand désert du monde ?",
-    "answer": "Antarctique",
+    "answer": "Désert de l'Antarctique",
     "badAnswers": [
-      "Sahara",
-      "Gobi",
-      "Kalahari"
+      "Désert du Sahara",
+      "Désert de Gobi",
+      "Désert d'Arabie"
     ],
     "category": "Géographie",
     "difficulty": "difficile",
-    "description": "Bien que couvert de glace, l'Antarctique est techniquement un désert avec moins de 200 mm de précipitations annuelles. Il couvre 14 millions de km²."
+    "description": "Le désert de l'Antarctique est le plus grand désert du monde, couvrant environ 13,8 millions de km². Bien qu'il soit couvert de glace, il est classé comme désert en raison de ses faibles précipitations. Le Sahara, le Gobi et le désert d'Arabie sont plus petits en comparaison."
   },
   {
-    "id": "2107",
-    "question": "Quel est le nom de l'inventeur du premier système de télécommande sans fil ?",
-    "answer": "Nikola Tesla",
+    "id": "1821",
+    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
+    "answer": "Astate",
     "badAnswers": [
-      "Thomas Edison",
-      "Guglielmo Marconi",
-      "John Logie Baird"
+      "Argon",
+      "Antimoine",
+      "Actinium"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
+  },
+  {
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "58",
+    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "answer": "Jean-Pierre Jeunet",
+    "badAnswers": [
+      "Luc Besson",
+      "François Ozon",
+      "Michel Gondry"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
+  },
+  {
+    "id": "1430",
+    "question": "Quel est le nom de la déesse grecque de la fortune ?",
+    "answer": "Tyché",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
+  },
+  {
+    "id": "1710",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mackogneur ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Mackogneur, Pokémon de type combat, est l'évolution finale de Machoc dans la série Pokémon, connu pour sa force physique."
+  },
+  {
+    "id": "1649",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Wings",
+    "badAnswers": [
+      "The Racket",
+      "7th Heaven",
+      "The Jazz Singer"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
+  },
+  {
+    "id": "1638",
+    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
+    "answer": "August Köhler",
+    "badAnswers": [
+      "Ernst Ruska",
+      "Max Knoll",
+      "Robert Hooke"
     ],
     "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
+  },
+  {
+    "id": "975",
+    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
+    "answer": "Blanches Colombes et Vilains Messieurs",
+    "badAnswers": [
+      "L'Ancre en main",
+      "Tant qu'il y aura des hommes",
+      "Haute Société"
+    ],
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Nikola Tesla a démontré une télécommande sans fil en 1898, utilisée pour contrôler un bateau miniature."
+    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
   }
 ]
