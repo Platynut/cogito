@@ -1,132 +1,132 @@
 [
   {
-    "id": "1060",
-    "question": "Quel est le nom du dieu grec de l'amour ?",
-    "answer": "Éros",
+    "id": "1837",
+    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "answer": "Arthur Rimbaud",
     "badAnswers": [
-      "Arès",
-      "Apollon",
-      "Dionysos"
+      "Charles Baudelaire",
+      "Paul Verlaine",
+      "Stéphane Mallarmé"
     ],
-    "category": "Mythologie",
-    "difficulty": "facile",
-    "description": "Éros, dans la mythologie grecque, est le dieu de l'amour et du désir, souvent représenté comme un jeune homme ailé armé d'un arc et de flèches."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
   },
   {
-    "id": "323",
-    "question": "Quel est le plus grand désert du monde ?",
-    "answer": "Désert de l'Antarctique",
+    "id": "1740",
+    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
+    "answer": "Honoré de Balzac",
     "badAnswers": [
-      "Désert du Sahara",
-      "Désert de Gobi",
-      "Désert d'Arabie"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le désert de l'Antarctique est le plus grand désert du monde, couvrant environ 13,8 millions de km². Bien qu'il soit couvert de glace, il est classé comme désert en raison de ses faibles précipitations. Le Sahara, le Gobi et le désert d'Arabie sont plus petits en comparaison."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
   },
   {
-    "id": "1821",
-    "question": "Quel est le nom de l'élément chimique avec le symbole At ?",
-    "answer": "Astate",
+    "id": "814",
+    "question": "Quel compositeur a écrit 'Le Barbier de Séville' ?",
+    "answer": "Gioachino Rossini",
     "badAnswers": [
-      "Argon",
-      "Antimoine",
-      "Actinium"
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Gaetano Donizetti"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Gioachino Rossini est le compositeur du célèbre opéra-comique *Le Barbier de Séville*, créé en 1816. Adapté d’une pièce de Beaumarchais, l’opéra est connu pour son énergie, ses airs mémorables et son humour vif. Bien que Mozart, Verdi et Donizetti soient également de grands noms de l’opéra, aucun d’eux n’a composé cette œuvre en particulier."
+  },
+  {
+    "id": "342",
+    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
+    "answer": "Piotr Ilitch Tchaïkovski",
+    "badAnswers": [
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Dmitri Chostakovitch"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Piotr Ilitch Tchaïkovski a composé Le Lac des cygnes, un ballet classique créé en 1877. C'est l'une de ses œuvres les plus célèbres, connue pour sa musique expressive. Stravinsky, Prokofiev et Chostakovitch sont d'autres compositeurs russes, mais ils n'ont pas composé ce ballet."
+  },
+  {
+    "id": "356",
+    "question": "Quel est le nom de l'inventeur du World Wide Web ?",
+    "answer": "Tim Berners-Lee",
+    "badAnswers": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Tim Berners-Lee a inventé le World Wide Web en 1989 au CERN, en développant les concepts d'HTML, HTTP et des URL. Cette invention a transformé l'internet. Bill Gates, Steve Jobs et Mark Zuckerberg sont associés à d'autres innovations technologiques, mais pas au WWW."
+  },
+  {
+    "id": "908",
+    "question": "Quel scientifique a découvert la loi des gaz combinés ?",
+    "answer": "John Dalton",
+    "badAnswers": [
+      "Jacques Charles",
+      "Joseph Gay-Lussac",
+      "Robert Boyle"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "L'astate, symbolisé par At, est un élément radioactif rare, utilisé en recherche scientifique."
+    "description": "John Dalton a formulé la loi des gaz combinés au XIXe siècle, expliquant les pressions partielles. Charles, Gay-Lussac et Boyle ont contribué à d'autres lois des gaz."
   },
   {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
+    "id": "1120",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
+    "answer": "Crash Bandicoot",
     "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "58",
-    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "answer": "Jean-Pierre Jeunet",
-    "badAnswers": [
-      "Luc Besson",
-      "François Ozon",
-      "Michel Gondry"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
-  },
-  {
-    "id": "1430",
-    "question": "Quel est le nom de la déesse grecque de la fortune ?",
-    "answer": "Tyché",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
-  },
-  {
-    "id": "1710",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Mackogneur ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Spyro the Dragon",
+      "Jak and Daxter",
+      "Ratchet & Clank"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Mackogneur, Pokémon de type combat, est l'évolution finale de Machoc dans la série Pokémon, connu pour sa force physique."
+    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
   },
   {
-    "id": "1649",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Wings",
+    "id": "1612",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Mc ?",
+    "answer": "Moscovium",
     "badAnswers": [
-      "The Racket",
-      "7th Heaven",
-      "The Jazz Singer"
+      "Magnésium",
+      "Molybdène",
+      "Mendélévium"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Wings, réalisé par William A. Wellman, a remporté l'Oscar du meilleur film en 1928, un film muet sur des pilotes de la Première Guerre mondiale."
-  },
-  {
-    "id": "1638",
-    "question": "Quel est le nom de l'inventeur du premier microscope à fluorescence ?",
-    "answer": "August Köhler",
-    "badAnswers": [
-      "Ernst Ruska",
-      "Max Knoll",
-      "Robert Hooke"
-    ],
-    "category": "Technologie",
+    "category": "Science",
     "difficulty": "difficile",
-    "description": "August Köhler a développé les bases du microscope à fluorescence dans les années 1900, permettant l'étude des cellules marquées."
+    "description": "Le moscovium, symbolisé par Mc, est un élément radioactif synthétique, nommé d'après la région de Moscou, utilisé dans la recherche."
   },
   {
-    "id": "975",
-    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
-    "answer": "Blanches Colombes et Vilains Messieurs",
+    "id": "40",
+    "question": "Quel fromage est produit en Normandie ?",
+    "answer": "Camembert",
     "badAnswers": [
-      "L'Ancre en main",
-      "Tant qu'il y aura des hommes",
-      "Haute Société"
+      "Roquefort",
+      "Comté",
+      "Reblochon"
     ],
-    "category": "Cinéma",
+    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
+    "description": "Inventé en 1791 par Marie Harel, ce fromage à pâte molle doit son nom à un village normand."
+  },
+  {
+    "id": "1551",
+    "question": "Quel est le nom de la déesse grecque des saisons ?",
+    "answer": "Les Horae",
+    "badAnswers": [
+      "Héra",
+      "Déméter",
+      "Athéna"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
   }
 ]
