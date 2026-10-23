@@ -1,7 +1,18 @@
 [
   {
-    "id": "1837",
-    "question": "Quel est le nom de l'auteur de 'Une saison en enfer' ?",
+    "id": "276",
+    "question": "La personnalité YouTube Jenna Marbles a été productrice exécutive du film Maximum Ride (2016).",
+    "answer": "Vrai",
+    "badAnswers": [
+      "Faux"
+    ],
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Jenna Marbles, de son vrai nom Jenna Mourey, a effectivement été productrice exécutive du film Maximum Ride (2016), une adaptation du roman de James Patterson. Connue pour ses vidéos YouTube, elle a contribué à la production de ce film de science-fiction à petit budget, bien que son rôle ait été peu médiatisé."
+  },
+  {
+    "id": "1834",
+    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
     "answer": "Arthur Rimbaud",
     "badAnswers": [
       "Charles Baudelaire",
@@ -10,11 +21,63 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Une saison en enfer' (1873), un recueil de poèmes en prose introspectifs."
+    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
   },
   {
-    "id": "1740",
-    "question": "Quel est le nom de l'auteur de 'Eugénie Grandet' ?",
+    "id": "429",
+    "question": "Quel est la capitale de la Russie ?",
+    "answer": "Moscou",
+    "badAnswers": [
+      "Saint-Pétersbourg",
+      "Kazan",
+      "Novossibirsk"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
+  },
+  {
+    "id": "1985",
+    "question": "Quel est le nom de l'auteur de 'La Critique de la raison dialectique' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'La Critique de la raison dialectique' (1960), un traité philosophique sur le marxisme."
+  },
+  {
+    "id": "696",
+    "question": "Dans Harry Potter, quel est le nom du fantôme de la maison Serpentard ?",
+    "answer": "Le Baron Sanglant",
+    "badAnswers": [
+      "Nick Quasi-Sans-Tête",
+      "La Dame Grise",
+      "Le Moine Gros"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Le Baron Sanglant est le fantôme de Serpentard dans Harry Potter, un esprit sinistre lié à l'histoire de la Dame Grise. Nick Quasi-Sans-Tête, la Dame Grise et le Moine Gros sont les fantômes des autres maisons."
+  },
+  {
+    "id": "51",
+    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+    "answer": "Uruguay",
+    "badAnswers": [
+      "Brésil",
+      "Argentine",
+      "Italie"
+    ],
+    "category": "Sports",
+    "difficulty": "normal",
+    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+  },
+  {
+    "id": "1737",
+    "question": "Quel est le nom de l'auteur de 'La Cousine Bette' ?",
     "answer": "Honoré de Balzac",
     "badAnswers": [
       "Victor Hugo",
@@ -23,110 +86,45 @@
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'Eugénie Grandet' (1833), un roman de la Comédie humaine sur l'avarice et l'amour."
+    "description": "Honoré de Balzac a écrit 'La Cousine Bette' (1846), un roman de la Comédie humaine sur la jalousie et la vengeance."
   },
   {
-    "id": "814",
-    "question": "Quel compositeur a écrit 'Le Barbier de Séville' ?",
-    "answer": "Gioachino Rossini",
+    "id": "997",
+    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
+    "answer": "Frank Bruno",
     "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Giuseppe Verdi",
-      "Gaetano Donizetti"
+      "Henry Cooper",
+      "Muhammad Ali",
+      "Joe Frazier"
     ],
-    "category": "Musique",
+    "category": "Séries",
     "difficulty": "normal",
-    "description": "Gioachino Rossini est le compositeur du célèbre opéra-comique *Le Barbier de Séville*, créé en 1816. Adapté d’une pièce de Beaumarchais, l’opéra est connu pour son énergie, ses airs mémorables et son humour vif. Bien que Mozart, Verdi et Donizetti soient également de grands noms de l’opéra, aucun d’eux n’a composé cette œuvre en particulier."
+    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
   },
   {
-    "id": "342",
-    "question": "Quel compositeur a écrit 'Le Lac des cygnes' ?",
-    "answer": "Piotr Ilitch Tchaïkovski",
+    "id": "8",
+    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
+    "answer": "Quentin Tarantino",
     "badAnswers": [
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Dmitri Chostakovitch"
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Piotr Ilitch Tchaïkovski a composé Le Lac des cygnes, un ballet classique créé en 1877. C'est l'une de ses œuvres les plus célèbres, connue pour sa musique expressive. Stravinsky, Prokofiev et Chostakovitch sont d'autres compositeurs russes, mais ils n'ont pas composé ce ballet."
-  },
-  {
-    "id": "356",
-    "question": "Quel est le nom de l'inventeur du World Wide Web ?",
-    "answer": "Tim Berners-Lee",
-    "badAnswers": [
-      "Bill Gates",
-      "Steve Jobs",
-      "Mark Zuckerberg"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Tim Berners-Lee a inventé le World Wide Web en 1989 au CERN, en développant les concepts d'HTML, HTTP et des URL. Cette invention a transformé l'internet. Bill Gates, Steve Jobs et Mark Zuckerberg sont associés à d'autres innovations technologiques, mais pas au WWW."
-  },
-  {
-    "id": "908",
-    "question": "Quel scientifique a découvert la loi des gaz combinés ?",
-    "answer": "John Dalton",
-    "badAnswers": [
-      "Jacques Charles",
-      "Joseph Gay-Lussac",
-      "Robert Boyle"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "John Dalton a formulé la loi des gaz combinés au XIXe siècle, expliquant les pressions partielles. Charles, Gay-Lussac et Boyle ont contribué à d'autres lois des gaz."
-  },
-  {
-    "id": "1120",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
-    "answer": "Crash Bandicoot",
-    "badAnswers": [
-      "Spyro the Dragon",
-      "Jak and Daxter",
-      "Ratchet & Clank"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
+    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
   },
   {
-    "id": "1612",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Mc ?",
-    "answer": "Moscovium",
+    "id": "2097",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
+    "answer": "Fritz Pfleumer",
     "badAnswers": [
-      "Magnésium",
-      "Molybdène",
-      "Mendélévium"
+      "Valdemar Poulsen",
+      "Oberlin Smith",
+      "Thomas Edison"
     ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le moscovium, symbolisé par Mc, est un élément radioactif synthétique, nommé d'après la région de Moscou, utilisé dans la recherche."
-  },
-  {
-    "id": "40",
-    "question": "Quel fromage est produit en Normandie ?",
-    "answer": "Camembert",
-    "badAnswers": [
-      "Roquefort",
-      "Comté",
-      "Reblochon"
-    ],
-    "category": "Cuisine",
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Inventé en 1791 par Marie Harel, ce fromage à pâte molle doit son nom à un village normand."
-  },
-  {
-    "id": "1551",
-    "question": "Quel est le nom de la déesse grecque des saisons ?",
-    "answer": "Les Horae",
-    "badAnswers": [
-      "Héra",
-      "Déméter",
-      "Athéna"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Les Horae, déesses grecques des saisons et du temps, sont associées à l'ordre naturel et aux cycles de la nature."
+    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
   }
 ]
