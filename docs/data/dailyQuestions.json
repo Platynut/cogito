@@ -1,130 +1,132 @@
 [
   {
-    "id": "276",
-    "question": "La personnalité YouTube Jenna Marbles a été productrice exécutive du film Maximum Ride (2016).",
-    "answer": "Vrai",
+    "id": "93",
+    "question": "Quelle ville italienne est célèbre pour son vinaigre balsamique ?",
+    "answer": "Modène",
     "badAnswers": [
-      "Faux"
+      "Bologne",
+      "Florence",
+      "Venise"
+    ],
+    "category": "Cuisine",
+    "difficulty": "difficile",
+    "description": "L'Aceto Balsamico Tradizionale di Modène DOP est vieilli minimum 12 ans en fûts de bois. Seuls 3.000 litres sont produits annuellement."
+  },
+  {
+    "id": "1795",
+    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
+    "answer": "Creedence Clearwater Revival",
+    "badAnswers": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "ZZ Top"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
+  },
+  {
+    "id": "1266",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
+    "answer": "Shakespeare in Love",
+    "badAnswers": [
+      "Saving Private Ryan",
+      "Life Is Beautiful",
+      "The Thin Red Line"
     ],
     "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Jenna Marbles, de son vrai nom Jenna Mourey, a effectivement été productrice exécutive du film Maximum Ride (2016), une adaptation du roman de James Patterson. Connue pour ses vidéos YouTube, elle a contribué à la production de ce film de science-fiction à petit budget, bien que son rôle ait été peu médiatisé."
-  },
-  {
-    "id": "1834",
-    "question": "Quel est le nom de l'auteur de 'Les Illuminations' ?",
-    "answer": "Arthur Rimbaud",
-    "badAnswers": [
-      "Charles Baudelaire",
-      "Paul Verlaine",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
     "difficulty": "normal",
-    "description": "Arthur Rimbaud a écrit 'Les Illuminations' (1872-1873), un recueil de poèmes en prose visionnaires."
+    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
   },
   {
-    "id": "429",
-    "question": "Quel est la capitale de la Russie ?",
-    "answer": "Moscou",
+    "id": "185",
+    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
+    "answer": "Youri Gagarine",
     "badAnswers": [
-      "Saint-Pétersbourg",
-      "Kazan",
-      "Novossibirsk"
+      "Guerman Titov",
+      "Buzz Aldrin",
+      "Neil Armstrong"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Moscou est la capitale de la Russie, centre politique et culturel abritant le Kremlin et la place Rouge. Saint-Pétersbourg, Kazan et Novossibirsk sont d’autres grandes villes russes, mais pas la capitale."
-  },
-  {
-    "id": "1985",
-    "question": "Quel est le nom de l'auteur de 'La Critique de la raison dialectique' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "Simone de Beauvoir",
-      "André Gide"
-    ],
-    "category": "Livres",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'La Critique de la raison dialectique' (1960), un traité philosophique sur le marxisme."
+    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
   },
   {
-    "id": "696",
-    "question": "Dans Harry Potter, quel est le nom du fantôme de la maison Serpentard ?",
-    "answer": "Le Baron Sanglant",
+    "id": "217",
+    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
+    "answer": "Pays-Bas",
     "badAnswers": [
-      "Nick Quasi-Sans-Tête",
-      "La Dame Grise",
-      "Le Moine Gros"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Le Baron Sanglant est le fantôme de Serpentard dans Harry Potter, un esprit sinistre lié à l'histoire de la Dame Grise. Nick Quasi-Sans-Tête, la Dame Grise et le Moine Gros sont les fantômes des autres maisons."
-  },
-  {
-    "id": "51",
-    "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
-    "answer": "Uruguay",
-    "badAnswers": [
-      "Brésil",
-      "Argentine",
-      "Italie"
+      "Belgique",
+      "Suisse",
+      "France"
     ],
     "category": "Sports",
     "difficulty": "normal",
-    "description": "L'Uruguay a battu l'Argentine 4-2 en finale à Montevideo, devenant le premier champion du monde de football."
+    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
   },
   {
-    "id": "1737",
-    "question": "Quel est le nom de l'auteur de 'La Cousine Bette' ?",
-    "answer": "Honoré de Balzac",
+    "id": "1063",
+    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
+    "answer": "Alexander Fleming",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Robert Koch"
     ],
-    "category": "Livres",
+    "category": "Médecine",
     "difficulty": "normal",
-    "description": "Honoré de Balzac a écrit 'La Cousine Bette' (1846), un roman de la Comédie humaine sur la jalousie et la vengeance."
+    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
   },
   {
-    "id": "997",
-    "question": "Quelle personnalité de la boxe a présenté la reprise de l'émission It's a Knockout en 1999 ?",
-    "answer": "Frank Bruno",
+    "id": "1431",
+    "question": "Quel est la capitale de l'Azerbaïdjan ?",
+    "answer": "Bakou",
     "badAnswers": [
-      "Henry Cooper",
-      "Muhammad Ali",
-      "Joe Frazier"
+      "Ganja",
+      "Sumqayit",
+      "Lankaran"
     ],
-    "category": "Séries",
-    "difficulty": "normal",
-    "description": "Frank Bruno, ancien boxeur britannique, a co-présenté la reprise de l'émission télévisée ludique It's a Knockout en 1999, apportant sa popularité à l'émission."
-  },
-  {
-    "id": "8",
-    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
-    "answer": "Quentin Tarantino",
-    "badAnswers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Guy Ritchie"
-    ],
-    "category": "Cinéma",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
+    "description": "Bakou, capitale de l'Azerbaïdjan, est une ville côtière sur la mer Caspienne, connue pour ses tours flamboyantes et son centre historique."
   },
   {
-    "id": "2097",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de bande magnétique ?",
-    "answer": "Fritz Pfleumer",
+    "id": "325",
+    "question": "Quel est le plus grand lac du monde ?",
+    "answer": "Mer Caspienne",
     "badAnswers": [
-      "Valdemar Poulsen",
-      "Oberlin Smith",
-      "Thomas Edison"
+      "Lac Supérieur",
+      "Lac Victoria",
+      "Lac Tanganyika"
     ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Fritz Pfleumer a inventé la bande magnétique en 1928, utilisée pour l'enregistrement audio et données."
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "La mer Caspienne est le plus grand lac du monde en superficie, couvrant environ 371 000 km². Bien qu'elle soit appelée 'mer', elle est en réalité un lac salé. Le lac Supérieur est le plus grand lac d'eau douce, tandis que le lac Victoria est le plus grand lac d'Afrique."
+  },
+  {
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
+    "badAnswers": [
+      "Vénus",
+      "Jupiter",
+      "Saturne"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
+  },
+  {
+    "id": "1048",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kratos ?",
+    "answer": "God of War",
+    "badAnswers": [
+      "Dante's Inferno",
+      "Devil May Cry",
+      "Bayonetta"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Kratos est le protagoniste brutal de la série God of War, un guerrier spartiate en quête de vengeance contre les dieux de l'Olympe."
   }
 ]
