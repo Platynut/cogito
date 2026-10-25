@@ -1,132 +1,132 @@
 [
   {
-    "id": "93",
-    "question": "Quelle ville italienne est célèbre pour son vinaigre balsamique ?",
-    "answer": "Modène",
+    "id": "1058",
+    "question": "Quel est le nom du premier film d'animation de Pixar ?",
+    "answer": "Toy Story",
     "badAnswers": [
-      "Bologne",
-      "Florence",
-      "Venise"
-    ],
-    "category": "Cuisine",
-    "difficulty": "difficile",
-    "description": "L'Aceto Balsamico Tradizionale di Modène DOP est vieilli minimum 12 ans en fûts de bois. Seuls 3.000 litres sont produits annuellement."
-  },
-  {
-    "id": "1795",
-    "question": "Quel est le nom du groupe qui a chanté 'Born on the Bayou' ?",
-    "answer": "Creedence Clearwater Revival",
-    "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "ZZ Top"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Born on the Bayou', sorti en 1969 par Creedence Clearwater Revival, est une chanson rock tirée de l'album Bayou Country."
-  },
-  {
-    "id": "1266",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
-    "answer": "Shakespeare in Love",
-    "badAnswers": [
-      "Saving Private Ryan",
-      "Life Is Beautiful",
-      "The Thin Red Line"
+      "Monstres et Cie",
+      "Le Monde de Nemo",
+      "Les Indestructibles"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
-  },
-  {
-    "id": "185",
-    "question": "Quel est le nom du premier Homme à effectuer un voyage réussi dans l’espace ?",
-    "answer": "Youri Gagarine",
-    "badAnswers": [
-      "Guerman Titov",
-      "Buzz Aldrin",
-      "Neil Armstrong"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Youri Gagarine a été le premier humain dans l'espace le 12 avril 1961 (mission Vostok 1). Titov fut le deuxième, Aldrin et Armstrong ont marché sur la Lune."
-  },
-  {
-    "id": "217",
-    "question": "Dans quel pays se trouve le circuit automobile de Zandvoort ?",
-    "answer": "Pays-Bas",
-    "badAnswers": [
-      "Belgique",
-      "Suisse",
-      "France"
-    ],
-    "category": "Sports",
-    "difficulty": "normal",
-    "description": "Zandvoort, circuit emblématique, accueille le Grand Prix des Pays-Bas de F1. La Belgique a Spa-Francorchamps, la France Paul Ricard."
-  },
-  {
-    "id": "1063",
-    "question": "Quel est le nom de l'inventeur de la pénicilline ?",
-    "answer": "Alexander Fleming",
-    "badAnswers": [
-      "Louis Pasteur",
-      "Jonas Salk",
-      "Robert Koch"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Alexander Fleming a découvert la pénicilline en 1928, un antibiotique révolutionnaire qui a transformé la médecine moderne."
-  },
-  {
-    "id": "1431",
-    "question": "Quel est la capitale de l'Azerbaïdjan ?",
-    "answer": "Bakou",
-    "badAnswers": [
-      "Ganja",
-      "Sumqayit",
-      "Lankaran"
-    ],
-    "category": "Géographie",
     "difficulty": "facile",
-    "description": "Bakou, capitale de l'Azerbaïdjan, est une ville côtière sur la mer Caspienne, connue pour ses tours flamboyantes et son centre historique."
+    "description": "Toy Story, sorti en 1995, est le premier film d'animation de Pixar, révolutionnant l'animation 3D avec l'histoire de Woody et Buzz l'Éclair."
   },
   {
-    "id": "325",
-    "question": "Quel est le plus grand lac du monde ?",
-    "answer": "Mer Caspienne",
+    "id": "731",
+    "question": "Dans Assassin's Creed Syndicate, dans quelle ville se déroule l'histoire ?",
+    "answer": "Londres",
     "badAnswers": [
-      "Lac Supérieur",
-      "Lac Victoria",
-      "Lac Tanganyika"
-    ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "La mer Caspienne est le plus grand lac du monde en superficie, couvrant environ 371 000 km². Bien qu'elle soit appelée 'mer', elle est en réalité un lac salé. Le lac Supérieur est le plus grand lac d'eau douce, tandis que le lac Victoria est le plus grand lac d'Afrique."
-  },
-  {
-    "id": "194",
-    "question": "Quel est le nom de la planète rouge ?",
-    "answer": "Mars",
-    "badAnswers": [
-      "Vénus",
-      "Jupiter",
-      "Saturne"
-    ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
-  },
-  {
-    "id": "1048",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kratos ?",
-    "answer": "God of War",
-    "badAnswers": [
-      "Dante's Inferno",
-      "Devil May Cry",
-      "Bayonetta"
+      "Paris",
+      "Rome",
+      "New York"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Kratos est le protagoniste brutal de la série God of War, un guerrier spartiate en quête de vengeance contre les dieux de l'Olympe."
+    "description": "Assassin's Creed Syndicate se déroule à Londres pendant la Révolution industrielle, avec les jumeaux Frye. Paris, Rome et New York sont les décors d'autres jeux de la série."
+  },
+  {
+    "id": "1549",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1946 ?",
+    "answer": "The Best Years of Our Lives",
+    "badAnswers": [
+      "It's a Wonderful Life",
+      "The Razor's Edge",
+      "The Yearling"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Best Years of Our Lives, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1946, un drame sur le retour des vétérans."
+  },
+  {
+    "id": "1651",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Rondoudou ?",
+    "answer": "Pokémon",
+    "badAnswers": [
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Rondoudou, Pokémon de type fée, est connu pour endormir ses adversaires avec sa chanson dans la série Pokémon."
+  },
+  {
+    "id": "682",
+    "question": "Quel est le plus grand oiseau aquatique du monde ?",
+    "answer": "Pélican frisé",
+    "badAnswers": [
+      "Cygne noir",
+      "Albatros hurleur",
+      "Flamant rose"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
+  },
+  {
+    "id": "1461",
+    "question": "Quel est la capitale de la Corée du Nord ?",
+    "answer": "Pyongyang",
+    "badAnswers": [
+      "Kaesong",
+      "Hamhung",
+      "Chongjin"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
+  },
+  {
+    "id": "1872",
+    "question": "Quel est le nom du groupe qui a chanté 'Purple Haze' ?",
+    "answer": "Jimi Hendrix",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Purple Haze', sorti en 1967 par Jimi Hendrix, est une chanson rock psychédélique tirée de l'album Are You Experienced."
+  },
+  {
+    "id": "1543",
+    "question": "Quel est la capitale de la Guinée ?",
+    "answer": "Conakry",
+    "badAnswers": [
+      "Labé",
+      "Nzérékoré",
+      "Kankan"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
+  },
+  {
+    "id": "174",
+    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
+    "answer": "1982",
+    "badAnswers": [
+      "1983",
+      "1985",
+      "1980"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
+  },
+  {
+    "id": "1886",
+    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
   }
 ]
