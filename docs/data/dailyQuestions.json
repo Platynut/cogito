@@ -1,46 +1,124 @@
 [
   {
-    "id": "1058",
-    "question": "Quel est le nom du premier film d'animation de Pixar ?",
-    "answer": "Toy Story",
+    "id": "746",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
+    "answer": "Ness",
     "badAnswers": [
-      "Monstres et Cie",
-      "Le Monde de Nemo",
-      "Les Indestructibles"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Toy Story, sorti en 1995, est le premier film d'animation de Pixar, révolutionnant l'animation 3D avec l'histoire de Woody et Buzz l'Éclair."
-  },
-  {
-    "id": "731",
-    "question": "Dans Assassin's Creed Syndicate, dans quelle ville se déroule l'histoire ?",
-    "answer": "Londres",
-    "badAnswers": [
-      "Paris",
-      "Rome",
-      "New York"
+      "Lucas",
+      "Poo",
+      "Jeff"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Assassin's Creed Syndicate se déroule à Londres pendant la Révolution industrielle, avec les jumeaux Frye. Paris, Rome et New York sont les décors d'autres jeux de la série."
+    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
   },
   {
-    "id": "1549",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1946 ?",
-    "answer": "The Best Years of Our Lives",
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
     "badAnswers": [
-      "It's a Wonderful Life",
-      "The Razor's Edge",
-      "The Yearling"
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Best Years of Our Lives, réalisé par William Wyler, a remporté l'Oscar du meilleur film en 1946, un drame sur le retour des vétérans."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
   },
   {
-    "id": "1651",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Rondoudou ?",
+    "id": "652",
+    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
+    "answer": "Johannes Vermeer",
+    "badAnswers": [
+      "Rembrandt",
+      "Frans Hals",
+      "Jan van Eyck"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "1912",
+    "question": "Quel est le nom de l'inventeur du premier système de réfrigérateur ?",
+    "answer": "Carl von Linde",
+    "badAnswers": [
+      "Jacob Perkins",
+      "John Gorrie",
+      "Oliver Evans"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Carl von Linde a développé le premier réfrigérateur moderne à compression en 1876, utilisé pour la conservation alimentaire."
+  },
+  {
+    "id": "1007",
+    "question": "Quel est la capitale de la Mongolie ?",
+    "answer": "Oulan-Bator",
+    "badAnswers": [
+      "Astana",
+      "Bichkek",
+      "Tachkent"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Oulan-Bator est la capitale de la Mongolie, une ville qui combine modernité et traditions nomades, située dans une vallée entourée de montagnes."
+  },
+  {
+    "id": "606",
+    "question": "Quel dieu japonais est le protecteur des guerriers et de la guerre ?",
+    "answer": "Hachiman",
+    "badAnswers": [
+      "Susanoo",
+      "Raijin",
+      "Ebisu"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Hachiman est le défenseur des îles japonaises et protecteur des guerriers."
+  },
+  {
+    "id": "57",
+    "question": "Quelle entreprise a développé le processeur Ryzen ?",
+    "answer": "AMD",
+    "badAnswers": [
+      "Intel",
+      "Nvidia",
+      "Qualcomm"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
+  },
+  {
+    "id": "1863",
+    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
+    "answer": "Norman Woodland",
+    "badAnswers": [
+      "Bernard Silver",
+      "George Laurer",
+      "Alan Haberman"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
+  },
+  {
+    "id": "2098",
+    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
+    "answer": "Paul Zoll",
+    "badAnswers": [
+      "Wilson Greatbatch",
+      "John Hopps",
+      "Rune Elmqvist"
+    ],
+    "category": "Médecine",
+    "difficulty": "normal",
+    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
+  },
+  {
+    "id": "1693",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
     "answer": "Pokémon",
     "badAnswers": [
       "Super Mario",
@@ -49,84 +127,6 @@
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Rondoudou, Pokémon de type fée, est connu pour endormir ses adversaires avec sa chanson dans la série Pokémon."
-  },
-  {
-    "id": "682",
-    "question": "Quel est le plus grand oiseau aquatique du monde ?",
-    "answer": "Pélican frisé",
-    "badAnswers": [
-      "Cygne noir",
-      "Albatros hurleur",
-      "Flamant rose"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le pélican frisé (Pelecanus crispus) est le plus grand oiseau aquatique, avec une envergure pouvant atteindre 3,5 mètres et une longueur jusqu'à 1,8 mètre. Le cygne noir, l'albatros hurleur et le flamant rose sont plus petits ou ne vivent pas en eau douce."
-  },
-  {
-    "id": "1461",
-    "question": "Quel est la capitale de la Corée du Nord ?",
-    "answer": "Pyongyang",
-    "badAnswers": [
-      "Kaesong",
-      "Hamhung",
-      "Chongjin"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Pyongyang, capitale de la Corée du Nord, est une ville connue pour ses monuments imposants et son architecture stalinienne."
-  },
-  {
-    "id": "1872",
-    "question": "Quel est le nom du groupe qui a chanté 'Purple Haze' ?",
-    "answer": "Jimi Hendrix",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Purple Haze', sorti en 1967 par Jimi Hendrix, est une chanson rock psychédélique tirée de l'album Are You Experienced."
-  },
-  {
-    "id": "1543",
-    "question": "Quel est la capitale de la Guinée ?",
-    "answer": "Conakry",
-    "badAnswers": [
-      "Labé",
-      "Nzérékoré",
-      "Kankan"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Conakry, capitale de la Guinée, est une ville portuaire sur l'océan Atlantique, connue pour son marché de Madina et sa mosquée."
-  },
-  {
-    "id": "174",
-    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
-    "answer": "1982",
-    "badAnswers": [
-      "1983",
-      "1985",
-      "1980"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
-  },
-  {
-    "id": "1886",
-    "question": "Quel est le nom du groupe qui a chanté 'Come Together' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Come Together', sorti en 1969 par The Beatles, est une chanson rock tirée de l'album Abbey Road."
+    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
   }
 ]
