@@ -1,132 +1,132 @@
 [
   {
-    "id": "746",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est le protagoniste de EarthBound ?",
-    "answer": "Ness",
+    "id": "65",
+    "question": "Qui a créé les personnages de Tintin et Milou ?",
+    "answer": "Hergé",
     "badAnswers": [
-      "Lucas",
-      "Poo",
-      "Jeff"
+      "Albert Uderzo",
+      "René Goscinny",
+      "André Franquin"
+    ],
+    "category": "Divertissement",
+    "difficulty": "facile",
+    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+  },
+  {
+    "id": "780",
+    "question": "Dans Harry Potter, quel est le nom du professeur de sortilèges à Poudlard ?",
+    "answer": "Filius Flitwick",
+    "badAnswers": [
+      "Severus Rogue",
+      "Minerva McGonagall",
+      "Pomona Chourave"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Filius Flitwick est le professeur de sortilèges et directeur de Serdaigle dans Harry Potter. Rogue enseigne les potions, McGonagall la métamorphose, et Chourave la botanique."
+  },
+  {
+    "id": "761",
+    "question": "Quel scientifique a découvert le principe de la flottabilité ?",
+    "answer": "Archimède",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Archimède a découvert le principe de la flottabilité (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+  },
+  {
+    "id": "659",
+    "question": "Quel est le plus grand mollusque du monde ?",
+    "answer": "Calmar colossal",
+    "badAnswers": [
+      "Poulpe géant",
+      "Nautile",
+      "Seiche géante"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
+  },
+  {
+    "id": "1854",
+    "question": "Quel est le nom du groupe qui a chanté 'Baba O'Riley' ?",
+    "answer": "The Who",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Doors",
+      "Led Zeppelin"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Baba O'Riley', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+  },
+  {
+    "id": "509",
+    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la mer ?",
+    "answer": "Kyogre",
+    "badAnswers": [
+      "Groudon",
+      "Rayquaza",
+      "Latios"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ness est le protagoniste de EarthBound et un personnage jouable dans Super Smash Bros. Ultimate, utilisant des pouvoirs psychiques. Lucas est dans Mother 3, et Poo et Jeff sont des alliés."
+    "difficulty": "normal",
+    "description": "Kyogre est le Pokémon légendaire associé à la mer dans Pokémon Rubis et Saphir, apparaissant dans la version Saphir. Groudon représente la terre, Rayquaza le ciel, et Latios est un autre légendaire non lié à la mer."
   },
   {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
+    "id": "967",
+    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
+    "answer": "Edgar Wright",
     "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
+      "Phil Lord",
+      "Chris Miller",
+      "Seth Rogen"
     ],
-    "category": "Informatique",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
+  },
+  {
+    "id": "1364",
+    "question": "Quel est le nom de l'inventeur du premier disque vinyle ?",
+    "answer": "Emile Berliner",
+    "badAnswers": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "category": "Histoire",
     "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
+    "description": "Emile Berliner a inventé le disque vinyle en 1887, remplaçant les cylindres d'Edison et révolutionnant l'enregistrement sonore."
   },
   {
-    "id": "652",
-    "question": "Quel artiste a peint La Jeune Fille à la perle ?",
-    "answer": "Johannes Vermeer",
+    "id": "1361",
+    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
     "badAnswers": [
-      "Rembrandt",
-      "Frans Hals",
-      "Jan van Eyck"
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola"
     ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "La Jeune Fille à la perle (vers 1665) de Johannes Vermeer est une peinture baroque célèbre pour son regard captivant. Rembrandt, Hals et van Eyck sont d'autres peintres néerlandais, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "1912",
-    "question": "Quel est le nom de l'inventeur du premier système de réfrigérateur ?",
-    "answer": "Carl von Linde",
-    "badAnswers": [
-      "Jacob Perkins",
-      "John Gorrie",
-      "Oliver Evans"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Carl von Linde a développé le premier réfrigérateur moderne à compression en 1876, utilisé pour la conservation alimentaire."
-  },
-  {
-    "id": "1007",
-    "question": "Quel est la capitale de la Mongolie ?",
-    "answer": "Oulan-Bator",
-    "badAnswers": [
-      "Astana",
-      "Bichkek",
-      "Tachkent"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Oulan-Bator est la capitale de la Mongolie, une ville qui combine modernité et traditions nomades, située dans une vallée entourée de montagnes."
-  },
-  {
-    "id": "606",
-    "question": "Quel dieu japonais est le protecteur des guerriers et de la guerre ?",
-    "answer": "Hachiman",
-    "badAnswers": [
-      "Susanoo",
-      "Raijin",
-      "Ebisu"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Hachiman est le défenseur des îles japonaises et protecteur des guerriers."
-  },
-  {
-    "id": "57",
-    "question": "Quelle entreprise a développé le processeur Ryzen ?",
-    "answer": "AMD",
-    "badAnswers": [
-      "Intel",
-      "Nvidia",
-      "Qualcomm"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Lancée en 2017, la série Ryzen a marqué le retour en force d'AMD sur le marché des CPU haut de gamme après des années de domination d'Intel."
-  },
-  {
-    "id": "1863",
-    "question": "Quel est le nom de l'inventeur du premier système de code-barres ?",
-    "answer": "Norman Woodland",
-    "badAnswers": [
-      "Bernard Silver",
-      "George Laurer",
-      "Alan Haberman"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Norman Woodland a co-inventé le premier système de code-barres dans les années 1950, révolutionnant le commerce."
-  },
-  {
-    "id": "2098",
-    "question": "Quel est le nom de l'inventeur du premier système de pacemaker externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "Wilson Greatbatch",
-      "John Hopps",
-      "Rune Elmqvist"
-    ],
-    "category": "Médecine",
-    "difficulty": "normal",
-    "description": "Paul Zoll a développé le premier pacemaker externe en 1952, utilisé pour réguler le rythme cardiaque."
-  },
-  {
-    "id": "1693",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "facile",
-    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
+    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
+  },
+  {
+    "id": "1669",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
+    "answer": "Mutiny on the Bounty",
+    "badAnswers": [
+      "The Informer",
+      "Captain Blood",
+      "Top Hat"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
   }
 ]
