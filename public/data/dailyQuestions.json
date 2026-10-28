@@ -1,132 +1,132 @@
 [
   {
-    "id": "65",
-    "question": "Qui a créé les personnages de Tintin et Milou ?",
-    "answer": "Hergé",
+    "id": "1266",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
+    "answer": "Shakespeare in Love",
     "badAnswers": [
-      "Albert Uderzo",
-      "René Goscinny",
-      "André Franquin"
+      "Saving Private Ryan",
+      "Life Is Beautiful",
+      "The Thin Red Line"
     ],
-    "category": "Divertissement",
-    "difficulty": "facile",
-    "description": "De son vrai nom Georges Remi (Hergé = RG, ses initiales inversées), il a publié 24 albums entre 1929 et 1986 vendus à 250 millions d'exemplaires."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
   },
   {
-    "id": "780",
-    "question": "Dans Harry Potter, quel est le nom du professeur de sortilèges à Poudlard ?",
-    "answer": "Filius Flitwick",
+    "id": "986",
+    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
+    "answer": "M. Bun",
     "badAnswers": [
-      "Severus Rogue",
-      "Minerva McGonagall",
-      "Pomona Chourave"
+      "M. Bunbun",
+      "M. Lapin",
+      "M. Hoppy"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Filius Flitwick est le professeur de sortilèges et directeur de Serdaigle dans Harry Potter. Rogue enseigne les potions, McGonagall la métamorphose, et Chourave la botanique."
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
   },
   {
-    "id": "761",
-    "question": "Quel scientifique a découvert le principe de la flottabilité ?",
-    "answer": "Archimède",
+    "id": "767",
+    "question": "Quel compositeur a écrit 'L'Anneau du Nibelung' ?",
+    "answer": "Richard Wagner",
     "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Blaise Pascal"
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Johannes Brahms"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Archimède a découvert le principe de la flottabilité (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant pourquoi les objets flottent. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Richard Wagner est l’auteur de *L'Anneau du Nibelung*, un cycle monumental de quatre opéras achevé en 1876, inspiré des légendes germaniques et nordiques. Cette œuvre phare du romantisme allemand se distingue par sa durée, son orchestration novatrice et ses motifs musicaux récurrents (leitmotivs). Verdi, Puccini et Brahms, bien qu'illustres compositeurs de la même époque, n'ont pas écrit ce cycle."
   },
   {
-    "id": "659",
-    "question": "Quel est le plus grand mollusque du monde ?",
-    "answer": "Calmar colossal",
+    "id": "294",
+    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
+    "answer": "Problèmes de santé mentale",
     "badAnswers": [
-      "Poulpe géant",
-      "Nautile",
-      "Seiche géante"
+      "Blessures",
+      "Maladie",
+      "Danger pour autrui"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "difficile",
+    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
+  },
+  {
+    "id": "715",
+    "question": "Quel est le plus grand reptile marin du monde ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Tortue luth",
+      "Iguane marin",
+      "Serpent de mer"
     ],
     "category": "Animaux",
     "difficulty": "normal",
-    "description": "Le calmar colossal est le plus grand mollusque, pouvant atteindre 14 mètres de long avec ses tentacules. Le poulpe géant, le nautile et la seiche géante sont plus petits."
+    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
   },
   {
-    "id": "1854",
-    "question": "Quel est le nom du groupe qui a chanté 'Baba O'Riley' ?",
-    "answer": "The Who",
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Doors",
-      "Led Zeppelin"
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "1235",
+    "question": "Quel est la capitale du Koweït ?",
+    "answer": "Koweït",
+    "badAnswers": [
+      "Hawalli",
+      "Al Farwaniyah",
+      "Mubarak Al-Kabeer"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Koweït, capitale de l'État du Koweït, est une ville moderne connue pour ses tours emblématiques et son importance pétrolière."
+  },
+  {
+    "id": "1411",
+    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Metallica",
+      "Bon Jovi"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Baba O'Riley', sorti en 1971 par The Who, est une chanson rock tirée de l'album Who's Next."
+    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
   },
   {
-    "id": "509",
-    "question": "Dans Pokémon Rubis et Saphir, quel est le Pokémon légendaire associé à la mer ?",
-    "answer": "Kyogre",
+    "id": "1986",
+    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Groudon",
-      "Rayquaza",
-      "Latios"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kyogre est le Pokémon légendaire associé à la mer dans Pokémon Rubis et Saphir, apparaissant dans la version Saphir. Groudon représente la terre, Rayquaza le ciel, et Latios est un autre légendaire non lié à la mer."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
   },
   {
-    "id": "967",
-    "question": "Qui a réalisé le film Scott Pilgrim vs. the World (2010) ?",
-    "answer": "Edgar Wright",
+    "id": "2018",
+    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
+    "answer": "Albert Camus",
     "badAnswers": [
-      "Phil Lord",
-      "Chris Miller",
-      "Seth Rogen"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Edgar Wright, connu pour son style visuel dynamique, a réalisé Scott Pilgrim vs. the World, une adaptation fidèle de la bande dessinée de Bryan Lee O'Malley."
-  },
-  {
-    "id": "1364",
-    "question": "Quel est le nom de l'inventeur du premier disque vinyle ?",
-    "answer": "Emile Berliner",
-    "badAnswers": [
-      "Thomas Edison",
-      "Alexander Graham Bell",
-      "Guglielmo Marconi"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Emile Berliner a inventé le disque vinyle en 1887, remplaçant les cylindres d'Edison et révolutionnant l'enregistrement sonore."
-  },
-  {
-    "id": "1361",
-    "question": "Quel est le nom de l'auteur de 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
-    "badAnswers": [
-      "Victor Hugo",
-      "Gustave Flaubert",
-      "Émile Zola"
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir",
+      "André Gide"
     ],
     "category": "Livres",
-    "difficulty": "facile",
-    "description": "Alexandre Dumas a écrit 'Les Trois Mousquetaires' (1844), un roman d'aventure sur l'amitié et l'honneur des mousquetaires du roi."
-  },
-  {
-    "id": "1669",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1936 ?",
-    "answer": "Mutiny on the Bounty",
-    "badAnswers": [
-      "The Informer",
-      "Captain Blood",
-      "Top Hat"
-    ],
-    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Mutiny on the Bounty, réalisé par Frank Lloyd, a remporté l'Oscar du meilleur film en 1936, un drame historique sur une révolte navale."
+    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
   }
 ]
