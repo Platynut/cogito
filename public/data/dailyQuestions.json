@@ -1,111 +1,7 @@
 [
   {
-    "id": "1266",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
-    "answer": "Shakespeare in Love",
-    "badAnswers": [
-      "Saving Private Ryan",
-      "Life Is Beautiful",
-      "The Thin Red Line"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
-  },
-  {
-    "id": "986",
-    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
-    "answer": "M. Bun",
-    "badAnswers": [
-      "M. Bunbun",
-      "M. Lapin",
-      "M. Hoppy"
-    ],
-    "category": "Bandes dessinées",
-    "difficulty": "normal",
-    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
-  },
-  {
-    "id": "767",
-    "question": "Quel compositeur a écrit 'L'Anneau du Nibelung' ?",
-    "answer": "Richard Wagner",
-    "badAnswers": [
-      "Giuseppe Verdi",
-      "Giacomo Puccini",
-      "Johannes Brahms"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Richard Wagner est l’auteur de *L'Anneau du Nibelung*, un cycle monumental de quatre opéras achevé en 1876, inspiré des légendes germaniques et nordiques. Cette œuvre phare du romantisme allemand se distingue par sa durée, son orchestration novatrice et ses motifs musicaux récurrents (leitmotivs). Verdi, Puccini et Brahms, bien qu'illustres compositeurs de la même époque, n'ont pas écrit ce cycle."
-  },
-  {
-    "id": "294",
-    "question": "Pourquoi le personnage Trevor Philips a-t-il été renvoyé de l'Air Force dans Grand Theft Auto V ?",
-    "answer": "Problèmes de santé mentale",
-    "badAnswers": [
-      "Blessures",
-      "Maladie",
-      "Danger pour autrui"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "difficile",
-    "description": "Dans Grand Theft Auto V, Trevor Philips, un personnage central, a été renvoyé de l'Air Force en raison de problèmes de santé mentale, reflétant son comportement erratique et instable. Cette backstory, révélée dans le jeu, explique en partie son caractère imprévisible. Les autres options ne correspondent pas à son histoire."
-  },
-  {
-    "id": "715",
-    "question": "Quel est le plus grand reptile marin du monde ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Tortue luth",
-      "Iguane marin",
-      "Serpent de mer"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile marin, pouvant atteindre 7 mètres de long. La tortue luth, l'iguane marin et le serpent de mer sont plus petits."
-  },
-  {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
-    "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
-  },
-  {
-    "id": "1235",
-    "question": "Quel est la capitale du Koweït ?",
-    "answer": "Koweït",
-    "badAnswers": [
-      "Hawalli",
-      "Al Farwaniyah",
-      "Mubarak Al-Kabeer"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Koweït, capitale de l'État du Koweït, est une ville moderne connue pour ses tours emblématiques et son importance pétrolière."
-  },
-  {
-    "id": "1411",
-    "question": "Quel est le nom du groupe qui a chanté 'Paradise City' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Metallica",
-      "Bon Jovi"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Paradise City', sorti en 1987 par Guns N' Roses, est une chanson hard rock énergique tirée de l'album Appetite for Destruction."
-  },
-  {
-    "id": "1986",
-    "question": "Quel est le nom du groupe qui a chanté 'Across the Universe' ?",
+    "id": "1938",
+    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
     "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
@@ -114,19 +10,123 @@
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Across the Universe', sorti en 1970 par The Beatles, est une chanson poétique tirée de l'album Let It Be."
+    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
   },
   {
-    "id": "2018",
-    "question": "Quel est le nom de l'auteur de 'La Chute' ?",
-    "answer": "Albert Camus",
+    "id": "1362",
+    "question": "Quel est la capitale des Bahamas ?",
+    "answer": "Nassau",
+    "badAnswers": [
+      "Freeport",
+      "Marsh Harbour",
+      "George Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+  },
+  {
+    "id": "1964",
+    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
+    "answer": "Louis Aragon",
     "badAnswers": [
       "Jean-Paul Sartre",
-      "Simone de Beauvoir",
+      "Albert Camus",
       "André Gide"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Albert Camus a écrit 'La Chute' (1956), un roman sur la culpabilité et la confession d'un homme."
+    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
+  },
+  {
+    "id": "315",
+    "question": "La série Fallout se déroule dans un monde post-apocalyptique causé par quel type de catastrophe ?",
+    "answer": "Guerre nucléaire",
+    "badAnswers": [
+      "Invasion extraterrestre",
+      "Épidémie virale",
+      "Catastrophe climatique"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "La série Fallout se déroule dans un univers rétrofuturiste dévasté par une guerre nucléaire mondiale, survenue en 2077 dans la chronologie du jeu. Cette catastrophe a transformé la Terre en un wasteland, avec des abris souterrains (Vaults) comme refuges. Les autres options ne correspondent pas à l'histoire de la série."
+  },
+  {
+    "id": "201",
+    "question": "Quel est le point culminant de l'île de La Réunion ?",
+    "answer": "Le Piton des Neiges",
+    "badAnswers": [
+      "Le Piton de la Fournaise",
+      "Le Piton Rouge",
+      "La Soufrière"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+  },
+  {
+    "id": "2114",
+    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
+    "answer": "Jean-Paul Sartre",
+    "badAnswers": [
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
+  },
+  {
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
+    "badAnswers": [
+      "Londres",
+      "Rome",
+      "Lisbonne"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
+  },
+  {
+    "id": "29",
+    "question": "Quel pays n'est pas membre permanent du Conseil de sécurité de l'ONU ?",
+    "answer": "Allemagne",
+    "badAnswers": [
+      "France",
+      "Russie",
+      "Chine"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Depuis 1945, les cinq membres permanents du Conseil de sécurité de l'ONU sont la Chine, la France, la Russie (anciennement l'URSS), le Royaume-Uni et les États-Unis. L'Allemagne, malgré son importance économique et politique actuelle, n'en fait pas partie, notamment en raison de l'organisation du monde d'après-guerre et des accords internationaux établis à la fin de la Seconde Guerre mondiale."
+  },
+  {
+    "id": "1141",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Jak ?",
+    "answer": "Jak and Daxter",
+    "badAnswers": [
+      "Ratchet & Clank",
+      "Crash Bandicoot",
+      "Spyro the Dragon"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Jak, héros de la série Jak and Daxter, est un aventurier explorant un monde fantastique avec son ami Daxter, créé par Naughty Dog."
+  },
+  {
+    "id": "465",
+    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
+    "answer": "Mark Twain",
+    "badAnswers": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "F. Scott Fitzgerald"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
   }
 ]
