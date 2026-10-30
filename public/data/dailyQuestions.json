@@ -1,132 +1,132 @@
 [
   {
-    "id": "1938",
-    "question": "Quel est le nom du groupe qui a chanté 'Twist and Shout' ?",
-    "answer": "The Beatles",
+    "id": "1098",
+    "question": "Quel est le nom du groupe qui a chanté 'Wonderwall' ?",
+    "answer": "Oasis",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Blur",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Twist and Shout', repris en 1963 par The Beatles, est une chanson rock tirée de l'album Please Please Me."
+    "description": "'Wonderwall', sorti en 1995 par Oasis, est une chanson emblématique du britpop, souvent considérée comme l'un des plus grands succès du groupe."
   },
   {
-    "id": "1362",
-    "question": "Quel est la capitale des Bahamas ?",
-    "answer": "Nassau",
+    "id": "666",
+    "question": "Quel est le plus grand carnivore terrestre du monde ?",
+    "answer": "Ours polaire",
     "badAnswers": [
-      "Freeport",
-      "Marsh Harbour",
-      "George Town"
+      "Lion",
+      "Tigre",
+      "Ours brun"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "L'ours polaire est le plus grand carnivore terrestre, pouvant peser jusqu'à 800 kg et mesurer 3 mètres. Le lion, le tigre et l'ours brun sont plus petits."
+  },
+  {
+    "id": "409",
+    "question": "Quel est la capitale de la Chine ?",
+    "answer": "Pékin",
+    "badAnswers": [
+      "Shanghai",
+      "Hong Kong",
+      "Guangzhou"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
   },
   {
-    "id": "1964",
-    "question": "Quel est le nom de l'auteur de 'Les Beaux Quartiers' ?",
-    "answer": "Louis Aragon",
+    "id": "1842",
+    "question": "Quel est le nom de l'auteur de 'Les Cahiers de Malte Laurids Brigge' ?",
+    "answer": "Rainer Maria Rilke",
     "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Louis Aragon a écrit 'Les Beaux Quartiers' (1936), un roman sur les inégalités sociales dans la France bourgeoise."
+    "description": "Rainer Maria Rilke a écrit 'Les Cahiers de Malte Laurids Brigge' (1910), un roman poétique sur l'existence."
   },
   {
-    "id": "315",
-    "question": "La série Fallout se déroule dans un monde post-apocalyptique causé par quel type de catastrophe ?",
-    "answer": "Guerre nucléaire",
+    "id": "1789",
+    "question": "Quel est la capitale de l'Eswatini ?",
+    "answer": "Mbabane",
     "badAnswers": [
-      "Invasion extraterrestre",
-      "Épidémie virale",
-      "Catastrophe climatique"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La série Fallout se déroule dans un univers rétrofuturiste dévasté par une guerre nucléaire mondiale, survenue en 2077 dans la chronologie du jeu. Cette catastrophe a transformé la Terre en un wasteland, avec des abris souterrains (Vaults) comme refuges. Les autres options ne correspondent pas à l'histoire de la série."
-  },
-  {
-    "id": "201",
-    "question": "Quel est le point culminant de l'île de La Réunion ?",
-    "answer": "Le Piton des Neiges",
-    "badAnswers": [
-      "Le Piton de la Fournaise",
-      "Le Piton Rouge",
-      "La Soufrière"
+      "Lobamba",
+      "Manzini",
+      "Siteki"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Piton des Neiges (3 070 m) est le sommet le plus haut de La Réunion, un volcan éteint. Le Piton de la Fournaise est encore actif, les autres noms sont incorrects."
+    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
   },
   {
-    "id": "2114",
-    "question": "Quel est le nom de l'auteur de 'Les Jeux sont faits' ?",
-    "answer": "Jean-Paul Sartre",
+    "id": "785",
+    "question": "Quel est le plus grand oiseau terrestre actuel ?",
+    "answer": "Autruche",
     "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
+      "Émeu",
+      "Casoar",
+      "Nandou"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
+  },
+  {
+    "id": "1331",
+    "question": "Quel est le nom de l'auteur de 'Les Raisins de la colère' ?",
+    "answer": "John Steinbeck",
+    "badAnswers": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Les Jeux sont faits' (1947), un roman existentialiste sur le destin et la liberté."
+    "description": "John Steinbeck a écrit 'Les Raisins de la colère' (1939), un roman sur la Grande Dépression et la migration des fermiers aux États-Unis."
   },
   {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
+    "id": "931",
+    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
+    "answer": "Egoist",
     "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
+      "Goose house",
+      "Babymetal",
+      "Garnidelia"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
-  },
-  {
-    "id": "29",
-    "question": "Quel pays n'est pas membre permanent du Conseil de sécurité de l'ONU ?",
-    "answer": "Allemagne",
-    "badAnswers": [
-      "France",
-      "Russie",
-      "Chine"
-    ],
-    "category": "Politique",
+    "category": "Anime et Manga",
     "difficulty": "normal",
-    "description": "Depuis 1945, les cinq membres permanents du Conseil de sécurité de l'ONU sont la Chine, la France, la Russie (anciennement l'URSS), le Royaume-Uni et les États-Unis. L'Allemagne, malgré son importance économique et politique actuelle, n'en fait pas partie, notamment en raison de l'organisation du monde d'après-guerre et des accords internationaux établis à la fin de la Seconde Guerre mondiale."
+    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
   },
   {
-    "id": "1141",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Jak ?",
-    "answer": "Jak and Daxter",
+    "id": "1531",
+    "question": "Quel est la capitale du Tchad ?",
+    "answer": "N'Djaména",
     "badAnswers": [
-      "Ratchet & Clank",
-      "Crash Bandicoot",
-      "Spyro the Dragon"
+      "Moundou",
+      "Sarh",
+      "Abéché"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Jak, héros de la série Jak and Daxter, est un aventurier explorant un monde fantastique avec son ami Daxter, créé par Naughty Dog."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
   },
   {
-    "id": "465",
-    "question": "Quel est le nom de l'auteur de Les Aventures de Huckleberry Finn ?",
-    "answer": "Mark Twain",
+    "id": "1324",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1986 ?",
+    "answer": "Platoon",
     "badAnswers": [
-      "Herman Melville",
-      "Nathaniel Hawthorne",
-      "F. Scott Fitzgerald"
+      "Hannah and Her Sisters",
+      "A Room with a View",
+      "The Mission"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Mark Twain a écrit Les Aventures de Huckleberry Finn (1884), un roman américain sur les aventures d'un jeune garçon le long du Mississippi. C'est une œuvre majeure. Melville, Hawthorne et Fitzgerald sont d'autres écrivains américains, mais n'ont pas écrit ce livre."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Platoon, réalisé par Oliver Stone, a remporté l'Oscar du meilleur film en 1986, un drame réaliste sur la guerre du Vietnam."
   }
 ]
