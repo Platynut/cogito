@@ -1,132 +1,132 @@
 [
   {
-    "id": "1098",
-    "question": "Quel est le nom du groupe qui a chanté 'Wonderwall' ?",
-    "answer": "Oasis",
+    "id": "222",
+    "question": "Quel compositeur, né à Hambourg et mort à Vienne, est parfois considéré comme le « successeur » de Beethoven ?",
+    "answer": "Johannes Brahms",
     "badAnswers": [
-      "Blur",
-      "Radiohead",
-      "The Verve"
+      "Wolfgang Amadeus Mozart",
+      "Jean-Sébastien Bach",
+      "Frédéric Chopin"
+    ],
+    "category": "Musique",
+    "difficulty": "normal",
+    "description": "Brahms (1833-1897) a été vu comme l'héritier de Beethoven dans la musique romantique. Mozart et Bach sont des prédécesseurs, Chopin était polonais."
+  },
+  {
+    "id": "607",
+    "question": "Qui est la déesse du soleil dans la mythologie japonaise ?",
+    "answer": "Amaterasu",
+    "badAnswers": [
+      "Tsukuyomi",
+      "Benzaiten",
+      "Inari"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Amaterasu est la divinité centrale du shintoïsme et l'ancêtre mythique des empereurs japonais."
+  },
+  {
+    "id": "55",
+    "question": "Quelle est la capitale de la Norvège ?",
+    "answer": "Oslo",
+    "badAnswers": [
+      "Stockholm",
+      "Copenhague",
+      "Helsinki"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
+  },
+  {
+    "id": "1360",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
+    "answer": "Néodyme",
+    "badAnswers": [
+      "Nickel",
+      "Niobium",
+      "Nobelium"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
+  },
+  {
+    "id": "808",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de l'empire envahissant le Nord ?",
+    "answer": "Nilfgaard",
+    "badAnswers": [
+      "Redania",
+      "Temeria",
+      "Skellige"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Nilfgaard est l'empire envahissant les Royaumes du Nord dans The Witcher 3: Wild Hunt. Redania, Temeria et Skellige sont d'autres royaumes du jeu."
+  },
+  {
+    "id": "1673",
+    "question": "Quel est le nom de l'auteur de 'La Ferme des animaux' ?",
+    "answer": "George Orwell",
+    "badAnswers": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "George Orwell a écrit 'La Ferme des animaux' (1945), une satire allégorique sur le totalitarisme."
+  },
+  {
+    "id": "1798",
+    "question": "Quel est le nom du groupe qui a chanté 'Brown Sugar' ?",
+    "answer": "The Rolling Stones",
+    "badAnswers": [
+      "The Who",
+      "The Doors",
+      "The Kinks"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Wonderwall', sorti en 1995 par Oasis, est une chanson emblématique du britpop, souvent considérée comme l'un des plus grands succès du groupe."
+    "description": "'Brown Sugar', sorti en 1971 par The Rolling Stones, est une chanson rock tirée de l'album Sticky Fingers."
   },
   {
-    "id": "666",
-    "question": "Quel est le plus grand carnivore terrestre du monde ?",
-    "answer": "Ours polaire",
+    "id": "1677",
+    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Lion",
-      "Tigre",
-      "Ours brun"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "L'ours polaire est le plus grand carnivore terrestre, pouvant peser jusqu'à 800 kg et mesurer 3 mètres. Le lion, le tigre et l'ours brun sont plus petits."
-  },
-  {
-    "id": "409",
-    "question": "Quel est la capitale de la Chine ?",
-    "answer": "Pékin",
-    "badAnswers": [
-      "Shanghai",
-      "Hong Kong",
-      "Guangzhou"
-    ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Pékin est la capitale de la Chine, centre politique et culturel abritant la Cité interdite et la place Tiananmen. Shanghai, Hong Kong et Guangzhou sont d’autres grandes villes chinoises, mais elles ne sont pas la capitale."
+    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
   },
   {
-    "id": "1842",
-    "question": "Quel est le nom de l'auteur de 'Les Cahiers de Malte Laurids Brigge' ?",
-    "answer": "Rainer Maria Rilke",
+    "id": "663",
+    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
+    "answer": "Armando Dippet",
     "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Hermann Hesse"
+      "Phineas Nigellus",
+      "Dexter Fortescue",
+      "Dilys Derwent"
     ],
-    "category": "Livres",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Rainer Maria Rilke a écrit 'Les Cahiers de Malte Laurids Brigge' (1910), un roman poétique sur l'existence."
+    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
   },
   {
-    "id": "1789",
-    "question": "Quel est la capitale de l'Eswatini ?",
-    "answer": "Mbabane",
+    "id": "174",
+    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
+    "answer": "1982",
     "badAnswers": [
-      "Lobamba",
-      "Manzini",
-      "Siteki"
+      "1983",
+      "1985",
+      "1980"
     ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Mbabane, capitale administrative de l'Eswatini, est une ville située dans une vallée, connue pour son marché artisanal."
-  },
-  {
-    "id": "785",
-    "question": "Quel est le plus grand oiseau terrestre actuel ?",
-    "answer": "Autruche",
-    "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
-    ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L'autruche est le plus grand oiseau terrestre actuel, pouvant atteindre 2,8 mètres de haut. L'émeu, le casoar et le nandou sont d'autres oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "1331",
-    "question": "Quel est le nom de l'auteur de 'Les Raisins de la colère' ?",
-    "answer": "John Steinbeck",
-    "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "John Steinbeck a écrit 'Les Raisins de la colère' (1939), un roman sur la Grande Dépression et la migration des fermiers aux États-Unis."
-  },
-  {
-    "id": "931",
-    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
-    "answer": "Egoist",
-    "badAnswers": [
-      "Goose house",
-      "Babymetal",
-      "Garnidelia"
-    ],
-    "category": "Anime et Manga",
-    "difficulty": "normal",
-    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
-  },
-  {
-    "id": "1531",
-    "question": "Quel est la capitale du Tchad ?",
-    "answer": "N'Djaména",
-    "badAnswers": [
-      "Moundou",
-      "Sarh",
-      "Abéché"
-    ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "N'Djaména, capitale du Tchad, est une ville sur le fleuve Chari, connue pour son marché central et sa mosquée."
-  },
-  {
-    "id": "1324",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1986 ?",
-    "answer": "Platoon",
-    "badAnswers": [
-      "Hannah and Her Sisters",
-      "A Room with a View",
-      "The Mission"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Platoon, réalisé par Oliver Stone, a remporté l'Oscar du meilleur film en 1986, un drame réaliste sur la guerre du Vietnam."
+    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
   }
 ]
