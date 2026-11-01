@@ -1,132 +1,132 @@
 [
   {
-    "id": "222",
-    "question": "Quel compositeur, né à Hambourg et mort à Vienne, est parfois considéré comme le « successeur » de Beethoven ?",
-    "answer": "Johannes Brahms",
+    "id": "1620",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
+    "answer": "Tennesse",
     "badAnswers": [
-      "Wolfgang Amadeus Mozart",
-      "Jean-Sébastien Bach",
-      "Frédéric Chopin"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Brahms (1833-1897) a été vu comme l'héritier de Beethoven dans la musique romantique. Mozart et Bach sont des prédécesseurs, Chopin était polonais."
-  },
-  {
-    "id": "607",
-    "question": "Qui est la déesse du soleil dans la mythologie japonaise ?",
-    "answer": "Amaterasu",
-    "badAnswers": [
-      "Tsukuyomi",
-      "Benzaiten",
-      "Inari"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Amaterasu est la divinité centrale du shintoïsme et l'ancêtre mythique des empereurs japonais."
-  },
-  {
-    "id": "55",
-    "question": "Quelle est la capitale de la Norvège ?",
-    "answer": "Oslo",
-    "badAnswers": [
-      "Stockholm",
-      "Copenhague",
-      "Helsinki"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Fondée vers 1040, Oslo est la ville la plus peuplée de Norvège avec environ 700.000 habitants. Elle accueille la cérémonie du Nobel de la paix."
-  },
-  {
-    "id": "1360",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Nd ?",
-    "answer": "Néodyme",
-    "badAnswers": [
-      "Nickel",
-      "Niobium",
-      "Nobelium"
+      "Thallium",
+      "Thulium",
+      "Technétium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le néodyme, symbolisé par Nd, est un métal rare utilisé dans les aimants puissants et les lasers."
+    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
   },
   {
-    "id": "808",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de l'empire envahissant le Nord ?",
-    "answer": "Nilfgaard",
+    "id": "380",
+    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
+    "answer": "Les Nymphéas",
     "badAnswers": [
-      "Redania",
-      "Temeria",
-      "Skellige"
+      "Impression, soleil levant",
+      "La Promenade",
+      "Le Déjeuner sur l’herbe"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+  },
+  {
+    "id": "1535",
+    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
+    "answer": "Guns N' Roses",
+    "badAnswers": [
+      "Aerosmith",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+  },
+  {
+    "id": "323",
+    "question": "Quel est le plus grand désert du monde ?",
+    "answer": "Désert de l'Antarctique",
+    "badAnswers": [
+      "Désert du Sahara",
+      "Désert de Gobi",
+      "Désert d'Arabie"
+    ],
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "Le désert de l'Antarctique est le plus grand désert du monde, couvrant environ 13,8 millions de km². Bien qu'il soit couvert de glace, il est classé comme désert en raison de ses faibles précipitations. Le Sahara, le Gobi et le désert d'Arabie sont plus petits en comparaison."
+  },
+  {
+    "id": "1366",
+    "question": "Quel est la capitale de la Barbade ?",
+    "answer": "Bridgetown",
+    "badAnswers": [
+      "Speightstown",
+      "Holetown",
+      "Oistins"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+  },
+  {
+    "id": "1326",
+    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
+    "answer": "Louis-Ferdinand Céline",
+    "badAnswers": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
+  },
+  {
+    "id": "1650",
+    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
+    "answer": "Blur",
+    "badAnswers": [
+      "Oasis",
+      "Radiohead",
+      "The Verve"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
+  },
+  {
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
+    "badAnswers": [
+      "Navi",
+      "Tatl",
+      "Fi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Nilfgaard est l'empire envahissant les Royaumes du Nord dans The Witcher 3: Wild Hunt. Redania, Temeria et Skellige sont d'autres royaumes du jeu."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
   },
   {
-    "id": "1673",
-    "question": "Quel est le nom de l'auteur de 'La Ferme des animaux' ?",
-    "answer": "George Orwell",
+    "id": "1671",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Philip K. Dick"
+      "Super Mario",
+      "The Legend of Zelda",
+      "Kirby"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "George Orwell a écrit 'La Ferme des animaux' (1945), une satire allégorique sur le totalitarisme."
+    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
   },
   {
-    "id": "1798",
-    "question": "Quel est le nom du groupe qui a chanté 'Brown Sugar' ?",
-    "answer": "The Rolling Stones",
+    "id": "1602",
+    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
+    "answer": "São Tomé",
     "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
+      "Príncipe",
+      "Neves",
+      "Santana"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Brown Sugar', sorti en 1971 par The Rolling Stones, est une chanson rock tirée de l'album Sticky Fingers."
-  },
-  {
-    "id": "1677",
-    "question": "Quel est le nom du groupe qui a chanté 'Speed of Sound' ?",
-    "answer": "Coldplay",
-    "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Speed of Sound', sorti en 2005 par Coldplay, est une chanson rock alternatif tirée de l'album X&Y."
-  },
-  {
-    "id": "663",
-    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
-    "answer": "Armando Dippet",
-    "badAnswers": [
-      "Phineas Nigellus",
-      "Dexter Fortescue",
-      "Dilys Derwent"
-    ],
-    "category": "Littérature",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
-  },
-  {
-    "id": "174",
-    "question": "En quelle année est sorti le premier album du groupe Indochine, 'L'aventurier' ?",
-    "answer": "1982",
-    "badAnswers": [
-      "1983",
-      "1985",
-      "1980"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "Indochine a sorti son premier album éponyme en 1982, incluant le tube 'L'Aventurier'. Les autres années correspondent à des albums ultérieurs."
+    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
   }
 ]
