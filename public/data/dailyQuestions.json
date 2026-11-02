@@ -1,132 +1,132 @@
 [
   {
-    "id": "1620",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ts ?",
-    "answer": "Tennesse",
+    "id": "1266",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
+    "answer": "Shakespeare in Love",
     "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "Saving Private Ryan",
+      "Life Is Beautiful",
+      "The Thin Red Line"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
+  },
+  {
+    "id": "1741",
+    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
+    "answer": "Robert N. Hall",
+    "badAnswers": [
+      "Theodore Maiman",
+      "Charles Townes",
+      "Gordon Gould"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
+  },
+  {
+    "id": "1248",
+    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
+    "answer": "Tungstène",
+    "badAnswers": [
+      "Titane",
+      "Tantale",
+      "Thallium"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le tennesse, symbolisé par Ts, est un élément radioactif synthétique, nommé d'après l'État du Tennessee, utilisé dans la recherche."
-  },
-  {
-    "id": "380",
-    "question": "Quel est le nom du tableau de Claude Monet représentant des nénuphars ?",
-    "answer": "Les Nymphéas",
-    "badAnswers": [
-      "Impression, soleil levant",
-      "La Promenade",
-      "Le Déjeuner sur l’herbe"
-    ],
-    "category": "Art",
     "difficulty": "normal",
-    "description": "Les Nymphéas est une série de tableaux de Claude Monet, peints entre 1899 et 1926, représentant son jardin de nénuphars à Giverny. C’est une œuvre majeure de l’impressionnisme. Impression, soleil levant est un autre tableau de Monet, La Promenade de Renoir, et Le Déjeuner sur l’herbe de Manet."
+    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
   },
   {
-    "id": "1535",
-    "question": "Quel est le nom du groupe qui a chanté 'November Rain' ?",
-    "answer": "Guns N' Roses",
+    "id": "1697",
+    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
+    "answer": "Pink Floyd",
     "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Def Leppard"
+      "Led Zeppelin",
+      "The Who",
+      "Deep Purple"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'November Rain', sorti en 1991 par Guns N' Roses, est une ballade rock épique tirée de l'album Use Your Illusion I."
+    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
   },
   {
-    "id": "323",
-    "question": "Quel est le plus grand désert du monde ?",
-    "answer": "Désert de l'Antarctique",
+    "id": "358",
+    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
+    "answer": "J.R.R. Tolkien",
     "badAnswers": [
-      "Désert du Sahara",
-      "Désert de Gobi",
-      "Désert d'Arabie"
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "J.K. Rowling"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "Le désert de l'Antarctique est le plus grand désert du monde, couvrant environ 13,8 millions de km². Bien qu'il soit couvert de glace, il est classé comme désert en raison de ses faibles précipitations. Le Sahara, le Gobi et le désert d'Arabie sont plus petits en comparaison."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
   },
   {
-    "id": "1366",
-    "question": "Quel est la capitale de la Barbade ?",
-    "answer": "Bridgetown",
+    "id": "511",
+    "question": "Quel compositeur a écrit Le Boléro ?",
+    "answer": "Maurice Ravel",
     "badAnswers": [
-      "Speightstown",
-      "Holetown",
-      "Oistins"
+      "Claude Debussy",
+      "Igor Stravinsky",
+      "Gabriel Fauré"
     ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "normal",
-    "description": "Bridgetown, capitale de la Barbade, est une ville portuaire connue pour son architecture coloniale et son rôle dans l'histoire des Caraïbes."
+    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
   },
   {
-    "id": "1326",
-    "question": "Quel est le nom de l'auteur de 'Voyage au bout de la nuit' ?",
-    "answer": "Louis-Ferdinand Céline",
+    "id": "1552",
+    "question": "Quel est le nom de l'auteur de 'L'Homme invisible' ?",
+    "answer": "H.G. Wells",
     "badAnswers": [
-      "Albert Camus",
-      "Jean-Paul Sartre",
-      "André Gide"
+      "Jules Verne",
+      "Mary Shelley",
+      "Bram Stoker"
     ],
     "category": "Livres",
-    "difficulty": "normal",
-    "description": "Louis-Ferdinand Céline a écrit 'Voyage au bout de la nuit' (1932), un roman novateur sur la guerre et la désillusion humaine."
-  },
-  {
-    "id": "1650",
-    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
-    "answer": "Blur",
-    "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
+    "description": "H.G. Wells a écrit 'L'Homme invisible' (1897), un roman de science-fiction sur un scientifique devenu invisible et ses conséquences tragiques."
   },
   {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
+    "id": "643",
+    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
+    "answer": "Paris",
     "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
+      "Londres",
+      "Rome",
+      "Lisbonne"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
   },
   {
-    "id": "1671",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Dracolosse ?",
-    "answer": "Pokémon",
+    "id": "2022",
+    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
+    "answer": "IBM",
     "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
+      "Steve Wozniak",
+      "Bill Gates",
+      "Ed Roberts"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dracolosse, Pokémon de type dragon et vol, est l'évolution finale de Dratini dans la série Pokémon."
-  },
-  {
-    "id": "1602",
-    "question": "Quel est la capitale de São Tomé-et-Príncipe ?",
-    "answer": "São Tomé",
-    "badAnswers": [
-      "Príncipe",
-      "Neves",
-      "Santana"
-    ],
-    "category": "Géographie",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "São Tomé, capitale de São Tomé-et-Príncipe, est une ville insulaire connue pour ses plages et son architecture coloniale portugaise."
+    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
+  },
+  {
+    "id": "496",
+    "question": "Quel est le plus grand arbre du monde ?",
+    "answer": "Séquoia géant",
+    "badAnswers": [
+      "Baobab",
+      "Pin de Bristlecone",
+      "Chêne pédonculé"
+    ],
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le séquoia géant est le plus grand arbre du monde en volume, pouvant atteindre 85 mètres de haut et un volume massif. Le spécimen 'General Sherman' est célèbre. Le baobab, le pin de Bristlecone et le chêne pédonculé sont impressionnants, mais moins volumineux."
   }
 ]
