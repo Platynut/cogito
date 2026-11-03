@@ -1,132 +1,132 @@
 [
   {
-    "id": "1266",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1998 ?",
-    "answer": "Shakespeare in Love",
+    "id": "1379",
+    "question": "Quel dieu grec est associé au Soleil dans la mythologie classique ?",
+    "answer": "Apollon",
     "badAnswers": [
-      "Saving Private Ryan",
-      "Life Is Beautiful",
-      "The Thin Red Line"
+      "Hélios",
+      "Zeus",
+      "Poséidon"
+    ],
+    "category": "Mythologie",
+    "difficulty": "facile",
+    "description": "Apollon, dans la mythologie grecque classique, est associé au Soleil, à la musique et à la prophétie. Bien que Hélios soit le dieu originel du Soleil, cette fonction a été reprise symboliquement par Apollon dans les traditions plus tardives."
+  },
+  {
+    "id": "1362",
+    "question": "Quel est la capitale des Bahamas ?",
+    "answer": "Nassau",
+    "badAnswers": [
+      "Freeport",
+      "Marsh Harbour",
+      "George Town"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Nassau, capitale des Bahamas, est une ville portuaire connue pour ses plages, ses forts historiques et son tourisme animé."
+  },
+  {
+    "id": "52",
+    "question": "Qui a été le dernier tsar de Russie ?",
+    "answer": "Nicolas II",
+    "badAnswers": [
+      "Pierre le Grand",
+      "Alexandre III",
+      "Ivan le Terrible"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
+  },
+  {
+    "id": "1287",
+    "question": "Quel est la capitale de Singapour ?",
+    "answer": "Singapour",
+    "badAnswers": [
+      "Jurong",
+      "Tampines",
+      "Woodlands"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Singapour, une ville-État, sert également de capitale, connue pour son port, ses gratte-ciel et son rôle de centre financier mondial."
+  },
+  {
+    "id": "1123",
+    "question": "Quelle déesse grecque est associée au mariage et à la fidélité conjugale ?",
+    "answer": "Héra",
+    "badAnswers": [
+      "Aphrodite",
+      "Athéna",
+      "Artémis"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Héra est la reine de l’Olympe et la déesse grecque du mariage, de la fidélité et de la protection des femmes mariées. Elle est souvent représentée comme la gardienne de l’union familiale."
+  },
+  {
+    "id": "284",
+    "question": "Combien de fuseaux horaires la Chine possède-t-elle ?",
+    "answer": "1",
+    "badAnswers": [
+      "3",
+      "4",
+      "2"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Malgré sa vaste superficie, la Chine utilise un seul fuseau horaire, officiellement appelé China Standard Time (UTC+8). Cette décision, prise en 1949 par le gouvernement communiste, vise à unifier le pays. Les autres options (2, 3 ou 4 fuseaux) ne reflètent pas la politique chinoise actuelle."
+  },
+  {
+    "id": "1166",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2021 ?",
+    "answer": "CODA",
+    "badAnswers": [
+      "The Power of the Dog",
+      "Dune",
+      "Belfast"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Shakespeare in Love, réalisé par John Madden, a remporté l'Oscar du meilleur film en 1998, une comédie romantique sur le jeune Shakespeare."
+    "description": "CODA, réalisé par Sian Heder, a remporté l'Oscar du meilleur film en 2021, racontant l'histoire d'une famille sourde et de leur fille entendante."
   },
   {
-    "id": "1741",
-    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
-    "answer": "Robert N. Hall",
+    "id": "1231",
+    "question": "Quel est la capitale de la Jordanie ?",
+    "answer": "Amman",
     "badAnswers": [
-      "Theodore Maiman",
-      "Charles Townes",
-      "Gordon Gould"
+      "Aqaba",
+      "Irbid",
+      "Zarqa"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
-  },
-  {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
-    "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "1697",
-    "question": "Quel est le nom du groupe qui a chanté 'Another Brick in the Wall' ?",
-    "answer": "Pink Floyd",
-    "badAnswers": [
-      "Led Zeppelin",
-      "The Who",
-      "Deep Purple"
-    ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "'Another Brick in the Wall', sorti en 1979 par Pink Floyd, est une chanson rock tirée de l'album The Wall."
+    "description": "Amman, capitale de la Jordanie, est une ville moderne et historique, connue pour ses ruines romaines et sa citadelle."
   },
   {
-    "id": "358",
-    "question": "Quel est le nom de l'auteur de Le Seigneur des Anneaux ?",
-    "answer": "J.R.R. Tolkien",
+    "id": "68",
+    "question": "Dans quel pays se trouve la ville de Marrakech ?",
+    "answer": "Maroc",
     "badAnswers": [
-      "C.S. Lewis",
-      "George R.R. Martin",
-      "J.K. Rowling"
+      "Algérie",
+      "Tunisie",
+      "Égypte"
     ],
-    "category": "Littérature",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "J.R.R. Tolkien a écrit Le Seigneur des Anneaux, une trilogie de fantasy épique publiée entre 1954 et 1955. Créateur de la Terre du Milieu, il est considéré comme un pionnier du genre. C.S. Lewis a écrit Narnia, George R.R. Martin Game of Thrones, et J.K. Rowling Harry Potter."
+    "description": "Située au pied des montagnes de l'Atlas, cette ville impériale est célèbre pour sa place Jemaa el-Fna et son architecture ocre."
   },
   {
-    "id": "511",
-    "question": "Quel compositeur a écrit Le Boléro ?",
-    "answer": "Maurice Ravel",
+    "id": "1376",
+    "question": "Quel est la capitale du Guyana ?",
+    "answer": "Georgetown",
     "badAnswers": [
-      "Claude Debussy",
-      "Igor Stravinsky",
-      "Gabriel Fauré"
+      "New Amsterdam",
+      "Linden",
+      "Bartica"
     ],
-    "category": "Musique",
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
-  },
-  {
-    "id": "1552",
-    "question": "Quel est le nom de l'auteur de 'L'Homme invisible' ?",
-    "answer": "H.G. Wells",
-    "badAnswers": [
-      "Jules Verne",
-      "Mary Shelley",
-      "Bram Stoker"
-    ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "H.G. Wells a écrit 'L'Homme invisible' (1897), un roman de science-fiction sur un scientifique devenu invisible et ses conséquences tragiques."
-  },
-  {
-    "id": "643",
-    "question": "Dans Assassin's Creed Unity, dans quelle ville se déroule l'histoire ?",
-    "answer": "Paris",
-    "badAnswers": [
-      "Londres",
-      "Rome",
-      "Lisbonne"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed Unity se déroule à Paris pendant la Révolution française, avec des lieux comme Notre-Dame. Londres, Rome et Lisbonne sont les décors d'autres jeux de la série."
-  },
-  {
-    "id": "2022",
-    "question": "Qui a popularisé le concept de carte mère standardisée pour les ordinateurs personnels ?",
-    "answer": "IBM",
-    "badAnswers": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "Ed Roberts"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "IBM a popularisé le concept de carte mère standardisée avec le lancement du PC IBM en 1981, établissant des bases pour l'architecture des ordinateurs personnels modernes."
-  },
-  {
-    "id": "496",
-    "question": "Quel est le plus grand arbre du monde ?",
-    "answer": "Séquoia géant",
-    "badAnswers": [
-      "Baobab",
-      "Pin de Bristlecone",
-      "Chêne pédonculé"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le séquoia géant est le plus grand arbre du monde en volume, pouvant atteindre 85 mètres de haut et un volume massif. Le spécimen 'General Sherman' est célèbre. Le baobab, le pin de Bristlecone et le chêne pédonculé sont impressionnants, mais moins volumineux."
+    "description": "Georgetown, capitale du Guyana, est une ville côtière connue pour son architecture coloniale et son phare emblématique."
   }
 ]
