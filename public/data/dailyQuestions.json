@@ -1,132 +1,132 @@
 [
   {
-    "id": "1248",
-    "question": "Quel est le nom de l'élément chimique avec le symbole W ?",
-    "answer": "Tungstène",
+    "id": "1499",
+    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
+    "answer": "The Verve",
     "badAnswers": [
-      "Titane",
-      "Tantale",
-      "Thallium"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le tungstène, symbolisé par W (du latin 'wolfram'), est un métal résistant utilisé dans les filaments d'ampoules et les outils de coupe."
-  },
-  {
-    "id": "293",
-    "question": "Quel terme psychologique désigne le stress lié à la détention de croyances contradictoires ?",
-    "answer": "Dissonance cognitive",
-    "badAnswers": [
-      "Syndrome de Flip-Flop",
-      "Cerveau divisé",
-      "Vision aveugle"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "La dissonance cognitive, concept introduit par Leon Festinger en 1957, décrit le stress psychologique ressenti lorsqu'une personne tient deux croyances ou attitudes contradictoires, comme fumer tout en sachant que c'est nuisible. Les autres options sont des termes incorrects ou non pertinents dans ce contexte psychologique."
-  },
-  {
-    "id": "1503",
-    "question": "Quel est le nom du groupe qui a chanté 'Disarm' ?",
-    "answer": "The Smashing Pumpkins",
-    "badAnswers": [
-      "Nirvana",
-      "Pearl Jam",
-      "Soundgarden"
-    ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "'Disarm', sorti en 1993 par The Smashing Pumpkins, est une chanson alternative rock tirée de l'album Siamese Dream."
-  },
-  {
-    "id": "1070",
-    "question": "Quel est le nom du groupe qui a chanté 'Yesterday' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Kinks"
+      "Oasis",
+      "Blur",
+      "Radiohead"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Yesterday', composée par Paul McCartney en 1965, est l'une des chansons les plus emblématiques des Beatles, connue pour sa mélodie intemporelle."
+    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
   },
   {
-    "id": "1723",
-    "question": "Quel est la capitale du Brunei ?",
-    "answer": "Bandar Seri Begawan",
+    "id": "1481",
+    "question": "Quel est la capitale de la Libye ?",
+    "answer": "Tripoli",
     "badAnswers": [
-      "Kuala Belait",
-      "Seria",
-      "Tutong"
+      "Benghazi",
+      "Misrata",
+      "Sabha"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Bandar Seri Begawan, capitale du Brunei, est connue pour sa mosquée Omar Ali Saifuddien et son village sur l'eau."
-  },
-  {
-    "id": "1806",
-    "question": "Quel est le nom du groupe qui a chanté 'Jumpin' Jack Flash' ?",
-    "answer": "The Rolling Stones",
-    "badAnswers": [
-      "The Who",
-      "The Doors",
-      "The Kinks"
-    ],
-    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Jumpin' Jack Flash', sorti en 1968 par The Rolling Stones, est une chanson rock emblématique."
+    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
   },
   {
-    "id": "1416",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Lu ?",
-    "answer": "Lutécium",
+    "id": "931",
+    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
+    "answer": "Egoist",
     "badAnswers": [
-      "Lithium",
-      "Lanthane",
-      "Lawrencium"
+      "Goose house",
+      "Babymetal",
+      "Garnidelia"
+    ],
+    "category": "Anime et Manga",
+    "difficulty": "normal",
+    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
+  },
+  {
+    "id": "878",
+    "question": "Quel est le plus grand reptile aquatique actuel ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Alligator du Mississippi",
+      "Caiman noir",
+      "Tortue luth"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
+  },
+  {
+    "id": "1382",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
+    "answer": "Terbium",
+    "badAnswers": [
+      "Thallium",
+      "Thulium",
+      "Technétium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le lutécium, symbolisé par Lu, est un métal rare utilisé dans les catalyseurs pétroliers et les applications médicales."
+    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
   },
   {
-    "id": "1982",
-    "question": "Quel est le nom du groupe qui a chanté 'Here Comes the Sun' ?",
-    "answer": "The Beatles",
+    "id": "23",
+    "question": "Qui a écrit 'Le Petit Prince' ?",
+    "answer": "Antoine de Saint-Exupéry",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Jules Verne",
+      "Victor Hugo",
+      "Albert Camus"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
+  },
+  {
+    "id": "110",
+    "question": "Qui a été surnommé l'entraineur le plus nul du football français depuis Louis XVI?",
+    "answer": "Raymond Domenech",
+    "badAnswers": [
+      "Paul Le Guen",
+      "Pascal Dupraz",
+      "Jocelyn Gourvennec"
+    ],
+    "category": "Sports",
+    "difficulty": "difficile",
+    "description": "Raymond Domenech a été critiqué pour ses performances en tant que sélectionneur de l'équipe de France, notamment lors de la Coupe du Monde 2010. Paul Le Guen, Pascal Dupraz et Jocelyn Gourvennec sont d'autres entraîneurs français."
+  },
+  {
+    "id": "1367",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1981 ?",
+    "answer": "Chariots of Fire",
+    "badAnswers": [
+      "Raiders of the Lost Ark",
+      "On Golden Pond",
+      "Reds"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Chariots of Fire, réalisé par Hugh Hudson, a remporté l'Oscar du meilleur film en 1981, une histoire sur des coureurs olympiques britanniques."
+  },
+  {
+    "id": "1355",
+    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
+    "answer": "The Police",
+    "badAnswers": [
+      "U2",
+      "The Clash",
+      "Blondie"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Here Comes the Sun', sorti en 1969 par The Beatles, est une chanson optimiste écrite par George Harrison, tirée de l'album Abbey Road."
+    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
   },
   {
-    "id": "646",
-    "question": "Quel artiste a peint L'Homme de Vitruve ?",
-    "answer": "Léonard de Vinci",
+    "id": "778",
+    "question": "Quel est la capitale de la Grèce ?",
+    "answer": "Athènes",
     "badAnswers": [
-      "Michel-Ange",
-      "Raphaël",
-      "Botticelli"
+      "Thessalonique",
+      "Patras",
+      "Héraklion"
     ],
-    "category": "Art",
+    "category": "Géographie",
     "difficulty": "facile",
-    "description": "L'Homme de Vitruve (vers 1490) de Léonard de Vinci est un dessin illustrant les proportions humaines idéales. Michel-Ange, Raphaël et Botticelli sont d'autres artistes de la Renaissance, mais n'ont pas créé cette œuvre."
-  },
-  {
-    "id": "1640",
-    "question": "Quel est le nom du groupe qui a chanté 'Champagne Supernova' ?",
-    "answer": "Oasis",
-    "badAnswers": [
-      "Blur",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Champagne Supernova', sorti en 1995 par Oasis, est une chanson britpop tirée de l'album (What's the Story) Morning Glory?."
+    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
   }
 ]
