@@ -1,132 +1,132 @@
 [
   {
-    "id": "1499",
-    "question": "Quel est le nom du groupe qui a chanté 'Bitter Sweet Symphony' ?",
-    "answer": "The Verve",
+    "id": "603",
+    "question": "Quel kami est le dieu du riz, de la prospérité et de l'industrie ?",
+    "answer": "Inari",
     "badAnswers": [
-      "Oasis",
-      "Blur",
-      "Radiohead"
+      "Ebisu",
+      "Hachiman",
+      "Benzaiten"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Bitter Sweet Symphony', sorti en 1997 par The Verve, est une chanson britpop emblématique tirée de l'album Urban Hymns."
-  },
-  {
-    "id": "1481",
-    "question": "Quel est la capitale de la Libye ?",
-    "answer": "Tripoli",
-    "badAnswers": [
-      "Benghazi",
-      "Misrata",
-      "Sabha"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Tripoli, capitale de la Libye, est une ville portuaire méditerranéenne connue pour sa médina et ses vestiges romains."
-  },
-  {
-    "id": "931",
-    "question": "Quel groupe de musique japonais a été formé pour produire la musique thème de l'anime Guilty Crown ?",
-    "answer": "Egoist",
-    "badAnswers": [
-      "Goose house",
-      "Babymetal",
-      "Garnidelia"
-    ],
-    "category": "Anime et Manga",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Egoist est un groupe de musique japonais formé spécifiquement pour produire la musique thème de l'anime Guilty Crown en 2011, notamment les chansons emblématiques comme 'My Dearest'. Créé sous la direction du compositeur supercell, Egoist est connu pour son style pop-électronique. Les autres groupes mentionnés, comme Babymetal, ont des styles musicaux différents et n'ont pas été créés pour cet anime."
+    "description": "Inari est vénéré pour avoir protégé la culture du riz et est symbolisé par les renards messagers."
   },
   {
-    "id": "878",
-    "question": "Quel est le plus grand reptile aquatique actuel ?",
-    "answer": "Crocodile marin",
+    "id": "2079",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Sunrise: A Song of Two Humans",
     "badAnswers": [
-      "Alligator du Mississippi",
-      "Caiman noir",
-      "Tortue luth"
+      "The Last Command",
+      "Wings",
+      "The Crowd"
     ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
   },
   {
-    "id": "1382",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Tb ?",
-    "answer": "Terbium",
+    "id": "2000",
+    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
+    "answer": "Marguerite Duras",
     "badAnswers": [
-      "Thallium",
-      "Thulium",
-      "Technétium"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
+  },
+  {
+    "id": "1966",
+    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disque dur ?",
+    "answer": "Reynold Johnson",
+    "badAnswers": [
+      "Alan Shugart",
+      "David Noble",
+      "Bill Gates"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Reynold B. Johnson a développé le premier disque dur IBM 350 en 1956, révolutionnant le stockage de données."
+  },
+  {
+    "id": "1497",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
+    "answer": "Neptunium",
+    "badAnswers": [
+      "Nickel",
+      "Nobelium",
+      "Niobium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "Le terbium, symbolisé par Tb, est un métal rare utilisé dans les lampes fluorescentes et les aimants pour ses propriétés luminescentes."
+    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
   },
   {
-    "id": "23",
-    "question": "Qui a écrit 'Le Petit Prince' ?",
-    "answer": "Antoine de Saint-Exupéry",
+    "id": "207",
+    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
+    "answer": "Chasseur de primes",
     "badAnswers": [
-      "Jules Verne",
-      "Victor Hugo",
-      "Albert Camus"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Publié en 1943, ce conte philosophique d’Antoine de Saint-Exupéry est l’une des œuvres françaises les plus célèbres et les plus traduites au monde, avec plus de 300 versions linguistiques.<br />Il aborde des thèmes universels tels que l’amitié, la perte et le sens de la vie."
-  },
-  {
-    "id": "110",
-    "question": "Qui a été surnommé l'entraineur le plus nul du football français depuis Louis XVI?",
-    "answer": "Raymond Domenech",
-    "badAnswers": [
-      "Paul Le Guen",
-      "Pascal Dupraz",
-      "Jocelyn Gourvennec"
-    ],
-    "category": "Sports",
-    "difficulty": "difficile",
-    "description": "Raymond Domenech a été critiqué pour ses performances en tant que sélectionneur de l'équipe de France, notamment lors de la Coupe du Monde 2010. Paul Le Guen, Pascal Dupraz et Jocelyn Gourvennec sont d'autres entraîneurs français."
-  },
-  {
-    "id": "1367",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1981 ?",
-    "answer": "Chariots of Fire",
-    "badAnswers": [
-      "Raiders of the Lost Ark",
-      "On Golden Pond",
-      "Reds"
+      "Sénateur",
+      "Vendeur de droïdes",
+      "Musicien"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Chariots of Fire, réalisé par Hugh Hudson, a remporté l'Oscar du meilleur film en 1981, une histoire sur des coureurs olympiques britanniques."
+    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
   },
   {
-    "id": "1355",
-    "question": "Quel est le nom du groupe qui a chanté 'Message in a Bottle' ?",
-    "answer": "The Police",
+    "id": "680",
+    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
+    "answer": "Niels Bohr",
     "badAnswers": [
-      "U2",
-      "The Clash",
-      "Blondie"
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Max Planck"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Message in a Bottle', sorti en 1979 par The Police, est une chanson rock-reggae sur la solitude et l'espoir."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
   },
   {
-    "id": "778",
-    "question": "Quel est la capitale de la Grèce ?",
-    "answer": "Athènes",
+    "id": "1245",
+    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
+    "answer": "Gabriel Fahrenheit",
     "badAnswers": [
-      "Thessalonique",
-      "Patras",
-      "Héraklion"
+      "Anders Celsius",
+      "Galilée",
+      "William Thomson"
     ],
-    "category": "Géographie",
+    "category": "Histoire",
+    "difficulty": "difficile",
+    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
+  },
+  {
+    "id": "1159",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ag ?",
+    "answer": "Argent",
+    "badAnswers": [
+      "Aluminium",
+      "Astatine",
+      "Antimoine"
+    ],
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Athènes est la capitale de la Grèce, connue pour l'Acropole et le Parthénon. Thessalonique, Patras et Héraklion sont d'autres villes grecques, mais pas la capitale."
+    "description": "L'argent, symbolisé par Ag (du latin 'argentum'), est un métal précieux utilisé en joaillerie, en électronique et pour les pièces de monnaie."
+  },
+  {
+    "id": "1881",
+    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
+    "answer": "Homer Dudley",
+    "badAnswers": [
+      "Alan Turing",
+      "Dennis Gabor",
+      "Ray Kurzweil"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
   }
 ]
