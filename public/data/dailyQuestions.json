@@ -1,132 +1,132 @@
 [
   {
-    "id": "603",
-    "question": "Quel kami est le dieu du riz, de la prospérité et de l'industrie ?",
-    "answer": "Inari",
+    "id": "160",
+    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
+    "answer": "Un sonar",
     "badAnswers": [
-      "Ebisu",
-      "Hachiman",
-      "Benzaiten"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Inari est vénéré pour avoir protégé la culture du riz et est symbolisé par les renards messagers."
-  },
-  {
-    "id": "2079",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Sunrise: A Song of Two Humans",
-    "badAnswers": [
-      "The Last Command",
-      "Wings",
-      "The Crowd"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
-  },
-  {
-    "id": "2000",
-    "question": "Quel est le nom de l'auteur de 'Hiroshima mon amour' ?",
-    "answer": "Marguerite Duras",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Marguerite Duras a écrit le scénario d''Hiroshima mon amour' (1959), un film et un texte sur l'amour et la mémoire."
-  },
-  {
-    "id": "1966",
-    "question": "Quel est le nom de l'inventeur du premier système de lecteur de disque dur ?",
-    "answer": "Reynold Johnson",
-    "badAnswers": [
-      "Alan Shugart",
-      "David Noble",
-      "Bill Gates"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Reynold B. Johnson a développé le premier disque dur IBM 350 en 1956, révolutionnant le stockage de données."
-  },
-  {
-    "id": "1497",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Np ?",
-    "answer": "Neptunium",
-    "badAnswers": [
-      "Nickel",
-      "Nobelium",
-      "Niobium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le neptunium, symbolisé par Np, est un élément radioactif synthétique, utilisé dans la recherche nucléaire et les détecteurs de neutrons."
-  },
-  {
-    "id": "207",
-    "question": "Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn dans Star Wars ?",
-    "answer": "Chasseur de primes",
-    "badAnswers": [
-      "Sénateur",
-      "Vendeur de droïdes",
-      "Musicien"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Jango Fett, père de Boba Fett dans 'Star Wars', est un redoutable chasseur de primes. Il n'a aucun lien avec la politique ou la musique."
-  },
-  {
-    "id": "680",
-    "question": "Quel scientifique a découvert la structure des atomes avec des électrons en orbite ?",
-    "answer": "Niels Bohr",
-    "badAnswers": [
-      "J.J. Thomson",
-      "Ernest Rutherford",
-      "Max Planck"
-    ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Niels Bohr a proposé le modèle atomique avec des électrons en orbite en 1913. Thomson a découvert l'électron, Rutherford le noyau, et Planck la théorie quantique."
-  },
-  {
-    "id": "1245",
-    "question": "Quel est le nom de l'inventeur du premier thermomètre à mercure ?",
-    "answer": "Gabriel Fahrenheit",
-    "badAnswers": [
-      "Anders Celsius",
-      "Galilée",
-      "William Thomson"
-    ],
-    "category": "Histoire",
-    "difficulty": "difficile",
-    "description": "Gabriel Fahrenheit a développé le thermomètre à mercure en 1714 et créé l'échelle de température qui porte son nom."
-  },
-  {
-    "id": "1159",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ag ?",
-    "answer": "Argent",
-    "badAnswers": [
-      "Aluminium",
-      "Astatine",
-      "Antimoine"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "L'argent, symbolisé par Ag (du latin 'argentum'), est un métal précieux utilisé en joaillerie, en électronique et pour les pièces de monnaie."
-  },
-  {
-    "id": "1881",
-    "question": "Quel est le nom de l'inventeur du premier système de synthèse vocale ?",
-    "answer": "Homer Dudley",
-    "badAnswers": [
-      "Alan Turing",
-      "Dennis Gabor",
-      "Ray Kurzweil"
+      "Un sextant",
+      "Un radar",
+      "Un compteur Geiger"
     ],
     "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Homer Dudley a développé le vocoder en 1939, un dispositif de synthèse vocale utilisé dans les télécommunications."
+    "difficulty": "facile",
+    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
+  },
+  {
+    "id": "563",
+    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la ville principale de Novigrad ?",
+    "answer": "Novigrad",
+    "badAnswers": [
+      "Oxenfurt",
+      "Velen",
+      "Skellige"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Novigrad est la ville principale de The Witcher 3: Wild Hunt, un centre commercial animé. Oxenfurt est une ville universitaire, Velen une région rurale, et Skellige un archipel."
+  },
+  {
+    "id": "1309",
+    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
+    "answer": "Alessandro Volta",
+    "badAnswers": [
+      "Michael Faraday",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
+    "difficulty": "normal",
+    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
+  },
+  {
+    "id": "1050",
+    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
+    "answer": "Les Aventuriers de l'Arche perdue",
+    "badAnswers": [
+      "Indiana Jones et le Temple maudit",
+      "Indiana Jones et la Dernière Croisade",
+      "Indiana Jones et le Royaume du crâne de cristal"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
+  },
+  {
+    "id": "910",
+    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
+    "answer": "Arbre de l'Esprit",
+    "badAnswers": [
+      "Arbre de la Lumière",
+      "Arbre de Vie",
+      "Arbre des Âmes"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
+  },
+  {
+    "id": "34",
+    "question": "Dans quelle ville se trouve la Maison Blanche ?",
+    "answer": "Washington D.C.",
+    "badAnswers": [
+      "New York",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
+  },
+  {
+    "id": "516",
+    "question": "Quel est la capitale de l'Inde ?",
+    "answer": "New Delhi",
+    "badAnswers": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "New Delhi est la capitale de l'Inde, abritant le Parlement et la Porte de l'Inde. C'est une ville planifiée distincte de Delhi. Mumbai, Kolkata et Chennai sont d'autres grandes villes indiennes, mais pas la capitale."
+  },
+  {
+    "id": "557",
+    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
+    "answer": "Dialga",
+    "badAnswers": [
+      "Palkia",
+      "Giratina",
+      "Arceus"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
+  },
+  {
+    "id": "651",
+    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
+    "answer": "Vicaire Amelia",
+    "badAnswers": [
+      "Clerc Bestial",
+      "Père Gascoigne",
+      "Ludwig"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
+  },
+  {
+    "id": "1632",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
+    "answer": "Super Mario",
+    "badAnswers": [
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
   }
 ]
