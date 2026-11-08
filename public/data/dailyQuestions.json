@@ -1,132 +1,132 @@
 [
   {
-    "id": "160",
-    "question": "Avec quoi mesure-t-on la profondeur des océans ?",
-    "answer": "Un sonar",
+    "id": "637",
+    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
+    "answer": "Midna",
     "badAnswers": [
-      "Un sextant",
-      "Un radar",
-      "Un compteur Geiger"
-    ],
-    "category": "Technologie",
-    "difficulty": "facile",
-    "description": "Un sonar (Sound Navigation and Ranging) utilise les ondes sonores pour mesurer la profondeur des océans. Le sextant sert à naviguer, le radar détecte les objets, et le compteur Geiger mesure la radioactivité."
-  },
-  {
-    "id": "563",
-    "question": "Dans The Witcher 3: Wild Hunt, quel est le nom de la ville principale de Novigrad ?",
-    "answer": "Novigrad",
-    "badAnswers": [
-      "Oxenfurt",
-      "Velen",
-      "Skellige"
+      "Navi",
+      "Tatl",
+      "Fi"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Novigrad est la ville principale de The Witcher 3: Wild Hunt, un centre commercial animé. Oxenfurt est une ville universitaire, Velen une région rurale, et Skellige un archipel."
+    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
   },
   {
-    "id": "1309",
-    "question": "Quel est le nom de l'inventeur de la première pile électrique ?",
-    "answer": "Alessandro Volta",
+    "id": "573",
+    "question": "Quel est la capitale du Maroc ?",
+    "answer": "Rabat",
     "badAnswers": [
-      "Michael Faraday",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "category": "Technologie",
-    "difficulty": "normal",
-    "description": "Alessandro Volta a inventé la première pile électrique en 1800, posant les bases de l'électrochimie et des batteries modernes."
-  },
-  {
-    "id": "1050",
-    "question": "Quel est le nom du film qui a introduit le personnage d'Indiana Jones ?",
-    "answer": "Les Aventuriers de l'Arche perdue",
-    "badAnswers": [
-      "Indiana Jones et le Temple maudit",
-      "Indiana Jones et la Dernière Croisade",
-      "Indiana Jones et le Royaume du crâne de cristal"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Indiana Jones, interprété par Harrison Ford, apparaît pour la première fois dans 'Les Aventuriers de l'Arche perdue' (1981), réalisé par Steven Spielberg."
-  },
-  {
-    "id": "910",
-    "question": "Dans Ori and the Blind Forest, quel est le nom de l'arbre spirituel ?",
-    "answer": "Arbre de l'Esprit",
-    "badAnswers": [
-      "Arbre de la Lumière",
-      "Arbre de Vie",
-      "Arbre des Âmes"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "L'Arbre de l'Esprit est l'entité centrale d'Ori and the Blind Forest, que Ori doit restaurer. Les autres arbres sont fictifs ou non pertinents."
-  },
-  {
-    "id": "34",
-    "question": "Dans quelle ville se trouve la Maison Blanche ?",
-    "answer": "Washington D.C.",
-    "badAnswers": [
-      "New York",
-      "Los Angeles",
-      "Chicago"
+      "Casablanca",
+      "Marrakech",
+      "Fès"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Résidence officielle du président américain depuis John Adams en 1800, elle compte 132 pièces sur 6 étages."
+    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
   },
   {
-    "id": "516",
-    "question": "Quel est la capitale de l'Inde ?",
-    "answer": "New Delhi",
+    "id": "1693",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
+    "answer": "Pokémon",
     "badAnswers": [
-      "Mumbai",
-      "Kolkata",
-      "Chennai"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "New Delhi est la capitale de l'Inde, abritant le Parlement et la Porte de l'Inde. C'est une ville planifiée distincte de Delhi. Mumbai, Kolkata et Chennai sont d'autres grandes villes indiennes, mais pas la capitale."
-  },
-  {
-    "id": "557",
-    "question": "Dans Pokémon Diamant et Perle, quel est le Pokémon légendaire associé au temps ?",
-    "answer": "Dialga",
-    "badAnswers": [
-      "Palkia",
-      "Giratina",
-      "Arceus"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dialga est le Pokémon légendaire associé au temps dans Pokémon Diamant et Perle, apparaissant dans la version Diamant. Palkia représente l'espace, Giratina une autre dimension, et Arceus est le créateur."
-  },
-  {
-    "id": "651",
-    "question": "Dans Bloodborne, quel est le nom du boss connu pour son apparence de loup-garou ?",
-    "answer": "Vicaire Amelia",
-    "badAnswers": [
-      "Clerc Bestial",
-      "Père Gascoigne",
-      "Ludwig"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Vicaire Amelia est un boss de Bloodborne qui se transforme en une créature lupine géante dans la cathédrale. Le Clerc Bestial, Gascoigne et Ludwig sont d'autres boss, mais avec des caractéristiques différentes."
-  },
-  {
-    "id": "1632",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Toad ?",
-    "answer": "Super Mario",
-    "badAnswers": [
+      "Super Mario",
       "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Kirby"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Toad, habitant du Royaume Champignon, est un personnage récurrent de la série Super Mario, souvent aide de la princesse Peach."
+    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
+  },
+  {
+    "id": "1055",
+    "question": "Quel est le nom du premier homme à avoir orbité autour de la Terre ?",
+    "answer": "Yuri Gagarine",
+    "badAnswers": [
+      "Neil Armstrong",
+      "John Glenn",
+      "Valentina Tereshkova"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Yuri Gagarine, cosmonaute soviétique, fut le premier humain à orbiter autour de la Terre en 1961 à bord de Vostok 1, un jalon de la course spatiale."
+  },
+  {
+    "id": "273",
+    "question": "Quel était le premier jeu de la série Battlefield ?",
+    "answer": "Battlefield 1942",
+    "badAnswers": [
+      "Battlefield Vietnam",
+      "Battlefield 2",
+      "Battlefield 1"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Battlefield 1942, sorti en 2002, est le premier jeu de la série Battlefield, développé par DICE. Ce jeu de tir à la première personne, centré sur la Seconde Guerre mondiale, a introduit des batailles à grande échelle avec des véhicules et des cartes multijoueurs. Les autres jeux mentionnés sont des suites sorties plus tard dans la série."
+  },
+  {
+    "id": "1480",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
+    "answer": "John Presper Eckert",
+    "badAnswers": [
+      "Alan Turing",
+      "Konrad Zuse",
+      "Charles Babbage"
+    ],
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
+  },
+  {
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
+    "badAnswers": [
+      "Entei",
+      "Raikou",
+      "Lugia"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+  },
+  {
+    "id": "25",
+    "question": "Quel groupe musical était mené par Freddie Mercury ?",
+    "answer": "Queen",
+    "badAnswers": [
+      "The Rolling Stones",
+      "Pink Floyd",
+      "The Who"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
+  },
+  {
+    "id": "914",
+    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
+    "answer": "Luna",
+    "badAnswers": [
+      "Night Stalker",
+      "Spectre",
+      "Shadow Shaman"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
+  },
+  {
+    "id": "779",
+    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
+    "answer": "Jax",
+    "badAnswers": [
+      "Fiora",
+      "Yasuo",
+      "Riven"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
   }
 ]
