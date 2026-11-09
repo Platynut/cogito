@@ -1,132 +1,132 @@
 [
   {
-    "id": "637",
-    "question": "Dans The Legend of Zelda: Twilight Princess, quel est le nom de la créature qui accompagne Link ?",
-    "answer": "Midna",
+    "id": "663",
+    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
+    "answer": "Armando Dippet",
     "badAnswers": [
-      "Navi",
-      "Tatl",
-      "Fi"
+      "Phineas Nigellus",
+      "Dexter Fortescue",
+      "Dilys Derwent"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Midna est la créature du Crépuscule qui accompagne Link dans The Legend of Zelda: Twilight Princess, l'aidant à naviguer entre les mondes. Navi est dans Ocarina of Time, Tatl dans Majora's Mask, et Fi dans Skyward Sword."
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
   },
   {
-    "id": "573",
-    "question": "Quel est la capitale du Maroc ?",
-    "answer": "Rabat",
+    "id": "577",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
+    "answer": "Gilderoy Lockhart",
     "badAnswers": [
-      "Casablanca",
-      "Marrakech",
-      "Fès"
+      "Remus Lupin",
+      "Alastor Maugrey",
+      "Dolores Ombrage"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
+  },
+  {
+    "id": "405",
+    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
+    "answer": "70",
+    "badAnswers": [
+      "50",
+      "100",
+      "120"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
+  },
+  {
+    "id": "1558",
+    "question": "Quel est la capitale de la Guinée équatoriale ?",
+    "answer": "Malabo",
+    "badAnswers": [
+      "Bata",
+      "Ebebiyín",
+      "Mongomo"
     ],
     "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Rabat est la capitale du Maroc, abritant le palais royal et la Kasbah des Oudayas. Casablanca, Marrakech et Fès sont d'autres villes marocaines importantes, mais pas la capitale."
-  },
-  {
-    "id": "1693",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Aquali ?",
-    "answer": "Pokémon",
-    "badAnswers": [
-      "Super Mario",
-      "The Legend of Zelda",
-      "Kirby"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Aquali, Pokémon de type eau, est l'une des évolutions d'Évoli dans la série Pokémon, connu pour sa grâce aquatique."
-  },
-  {
-    "id": "1055",
-    "question": "Quel est le nom du premier homme à avoir orbité autour de la Terre ?",
-    "answer": "Yuri Gagarine",
-    "badAnswers": [
-      "Neil Armstrong",
-      "John Glenn",
-      "Valentina Tereshkova"
-    ],
-    "category": "Histoire",
     "difficulty": "normal",
-    "description": "Yuri Gagarine, cosmonaute soviétique, fut le premier humain à orbiter autour de la Terre en 1961 à bord de Vostok 1, un jalon de la course spatiale."
+    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
   },
   {
-    "id": "273",
-    "question": "Quel était le premier jeu de la série Battlefield ?",
-    "answer": "Battlefield 1942",
+    "id": "610",
+    "question": "Quels gardiens protègent les temples bouddhistes japonais ?",
+    "answer": "Ungyo et Agyo",
     "badAnswers": [
-      "Battlefield Vietnam",
-      "Battlefield 2",
-      "Battlefield 1"
+      "Shitenno",
+      "Raijin et Fujin",
+      "Hachiman et Ebisu"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Battlefield 1942, sorti en 2002, est le premier jeu de la série Battlefield, développé par DICE. Ce jeu de tir à la première personne, centré sur la Seconde Guerre mondiale, a introduit des batailles à grande échelle avec des véhicules et des cartes multijoueurs. Les autres jeux mentionnés sont des suites sorties plus tard dans la série."
-  },
-  {
-    "id": "1480",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
-    "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "Charles Babbage"
-    ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "John Presper Eckert, avec John Mauchly, a construit l'ENIAC en 1945, considéré comme le premier ordinateur électronique à usage général."
-  },
-  {
-    "id": "627",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
-    "answer": "Suicune",
-    "badAnswers": [
-      "Entei",
-      "Raikou",
-      "Lugia"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+    "description": "Ungyo symbolise la force et Agyo la violence ; ils protègent les espaces sacrés."
   },
   {
-    "id": "25",
-    "question": "Quel groupe musical était mené par Freddie Mercury ?",
-    "answer": "Queen",
+    "id": "2026",
+    "question": "Quel est le nom du groupe qui a chanté 'In My Life' ?",
+    "answer": "The Beatles",
     "badAnswers": [
       "The Rolling Stones",
-      "Pink Floyd",
-      "The Who"
+      "The Who",
+      "The Doors"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
+    "description": "'In My Life', sorti en 1965 par The Beatles, est une chanson introspective tirée de l'album Rubber Soul."
   },
   {
-    "id": "914",
-    "question": "Dans Dota 2, quel héros est connu pour son sort Eclipse ?",
-    "answer": "Luna",
+    "id": "692",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
+    "answer": "Alduin",
     "badAnswers": [
-      "Night Stalker",
-      "Spectre",
-      "Shadow Shaman"
+      "Paarthurnax",
+      "Odahviing",
+      "Durnehviir"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Luna est un héros de Dota 2 connu pour son sort ultime Eclipse, invoquant des rayons lunaires. Night Stalker, Spectre et Shadow Shaman ont d'autres sorts."
+    "difficulty": "facile",
+    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
   },
   {
-    "id": "779",
-    "question": "Dans League of Legends, quel champion est surnommé Le Grand Maître des Armes ?",
-    "answer": "Jax",
+    "id": "1540",
+    "question": "Quel est la capitale du Gabon ?",
+    "answer": "Libreville",
     "badAnswers": [
-      "Fiora",
-      "Yasuo",
-      "Riven"
+      "Port-Gentil",
+      "Franceville",
+      "Oyem"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Jax, surnommé Le Grand Maître des Armes dans League of Legends, combat avec une lampe comme arme. Fiora, Yasuo et Riven sont d'autres champions maniant des armes."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+  },
+  {
+    "id": "447",
+    "question": "Quel est le plus grand félin du monde ?",
+    "answer": "Tigre",
+    "badAnswers": [
+      "Lion",
+      "Jaguar",
+      "Léopard"
+    ],
+    "category": "Animaux",
+    "difficulty": "facile",
+    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
+  },
+  {
+    "id": "262",
+    "question": "Quel est le nom du célèbre jeu de société où les joueurs achètent des propriétés ?",
+    "answer": "Monopoly",
+    "badAnswers": [
+      "Risk",
+      "Cluedo",
+      "Scrabble"
+    ],
+    "category": "Jeux de société",
+    "difficulty": "facile",
+    "description": "'Monopoly' est un jeu de société où les joueurs achètent, échangent et développent des propriétés pour gagner de l'argent. Il a été créé par Charles Darrow en 1935 et est devenu l'un des jeux les plus populaires au monde."
   }
 ]
