@@ -1,132 +1,132 @@
 [
   {
-    "id": "663",
-    "question": "Dans Harry Potter, quel est le nom du directeur de Poudlard avant Dumbledore ?",
-    "answer": "Armando Dippet",
+    "id": "104",
+    "question": "Qui a joué en premier le rôle de James Bond ?",
+    "answer": "Sean Connery",
     "badAnswers": [
-      "Phineas Nigellus",
-      "Dexter Fortescue",
-      "Dilys Derwent"
+      "Roger Moore",
+      "George Lazenby",
+      "Timothy Dalton"
     ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Armando Dippet était le directeur de Poudlard avant Albus Dumbledore, mentionné dans Harry Potter et la Chambre des secrets. Les autres noms sont d'anciens directeurs, mais pas immédiatement avant Dumbledore."
-  },
-  {
-    "id": "577",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
-    "answer": "Gilderoy Lockhart",
-    "badAnswers": [
-      "Remus Lupin",
-      "Alastor Maugrey",
-      "Dolores Ombrage"
-    ],
-    "category": "Littérature",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
+    "description": "Sean Connery a été le premier acteur à incarner James Bond au cinéma en 1962 dans 'Dr. No'. Roger Moore, George Lazenby et Timothy Dalton ont également joué le rôle, mais après lui."
   },
   {
-    "id": "405",
-    "question": "Dans Super Mario 64, combien d’étoiles de puissance le joueur doit-il collecter pour terminer le jeu ?",
-    "answer": "70",
+    "id": "1519",
+    "question": "Quel est la capitale de l'Afrique du Sud (capitale législative) ?",
+    "answer": "Le Cap",
     "badAnswers": [
-      "50",
-      "100",
-      "120"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Super Mario 64, le joueur doit collecter au moins 70 étoiles de puissance pour débloquer la bataille finale contre Bowser. Bien que 120 étoiles soient disponibles, 70 suffisent pour terminer le jeu. Les autres nombres ne correspondent pas aux exigences."
-  },
-  {
-    "id": "1558",
-    "question": "Quel est la capitale de la Guinée équatoriale ?",
-    "answer": "Malabo",
-    "badAnswers": [
-      "Bata",
-      "Ebebiyín",
-      "Mongomo"
+      "Pretoria",
+      "Johannesburg",
+      "Durban"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Malabo, capitale de la Guinée équatoriale, est une ville insulaire sur l'île de Bioko, connue pour son architecture coloniale espagnole."
+    "description": "Le Cap, capitale législative de l'Afrique du Sud, est célèbre pour sa Table Mountain et son port historique."
   },
   {
-    "id": "610",
-    "question": "Quels gardiens protègent les temples bouddhistes japonais ?",
-    "answer": "Ungyo et Agyo",
+    "id": "82",
+    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
+    "answer": "Nirvana",
     "badAnswers": [
-      "Shitenno",
-      "Raijin et Fujin",
-      "Hachiman et Ebisu"
-    ],
-    "category": "Mythologie",
-    "difficulty": "normal",
-    "description": "Ungyo symbolise la force et Agyo la violence ; ils protègent les espaces sacrés."
-  },
-  {
-    "id": "2026",
-    "question": "Quel est le nom du groupe qui a chanté 'In My Life' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "Pearl Jam",
+      "Soundgarden",
+      "Alice in Chains"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'In My Life', sorti en 1965 par The Beatles, est une chanson introspective tirée de l'album Rubber Soul."
+    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
   },
   {
-    "id": "692",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom du dragon principal ?",
-    "answer": "Alduin",
+    "id": "768",
+    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
+    "answer": "Âge d'or de la piraterie",
     "badAnswers": [
-      "Paarthurnax",
-      "Odahviing",
-      "Durnehviir"
+      "Révolution américaine",
+      "Renaissance",
+      "Égypte ptolémaïque"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Alduin est le dragon principal et antagoniste de The Elder Scrolls V: Skyrim, menaçant de détruire le monde. Paarthurnax, Odahviing et Durnehviir sont d'autres dragons du jeu."
+    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
   },
   {
-    "id": "1540",
-    "question": "Quel est la capitale du Gabon ?",
-    "answer": "Libreville",
+    "id": "452",
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon",
     "badAnswers": [
-      "Port-Gentil",
-      "Franceville",
-      "Oyem"
+      "Canyon de Colca",
+      "Canyon de Fish River",
+      "Canyon de Copper"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Libreville, capitale du Gabon, est une ville côtière sur l'océan Atlantique, connue pour son front de mer et ses plages."
+    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
   },
   {
-    "id": "447",
-    "question": "Quel est le plus grand félin du monde ?",
-    "answer": "Tigre",
+    "id": "609",
+    "question": "Quel kami protège les enfants et les défunts dans la mythologie japonaise ?",
+    "answer": "Jizo",
     "badAnswers": [
-      "Lion",
-      "Jaguar",
-      "Léopard"
+      "Kannon",
+      "Ebisu",
+      "Tenjin"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Jizo aide les enfants à traverser la rivière Sanzu dans l'au-delà."
+  },
+  {
+    "id": "1413",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
+    "answer": "Final Fantasy VII",
+    "badAnswers": [
+      "Kingdom Hearts",
+      "Dragon Quest",
+      "Persona"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+  },
+  {
+    "id": "377",
+    "question": "Quel est le plus grand oiseau incapable de voler ?",
+    "answer": "Autruche",
+    "badAnswers": [
+      "Émeu",
+      "Casoar",
+      "Nandou"
     ],
     "category": "Animaux",
     "difficulty": "facile",
-    "description": "Le tigre est le plus grand félin du monde, pouvant atteindre 3,9 mètres de long (avec la queue) et peser jusqu’à 300 kg. Le lion, le jaguar et le léopard sont plus petits, bien que tous soient des prédateurs impressionnants."
+    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
   },
   {
-    "id": "262",
-    "question": "Quel est le nom du célèbre jeu de société où les joueurs achètent des propriétés ?",
-    "answer": "Monopoly",
+    "id": "1046",
+    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
+    "answer": "Eagles",
     "badAnswers": [
-      "Risk",
-      "Cluedo",
-      "Scrabble"
+      "The Doors",
+      "Fleetwood Mac",
+      "The Rolling Stones"
     ],
-    "category": "Jeux de société",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "'Monopoly' est un jeu de société où les joueurs achètent, échangent et développent des propriétés pour gagner de l'argent. Il a été créé par Charles Darrow en 1935 et est devenu l'un des jeux les plus populaires au monde."
+    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
+  },
+  {
+    "id": "1282",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
+    "answer": "Braveheart",
+    "badAnswers": [
+      "Apollo 13",
+      "The Postman",
+      "Sense and Sensibility"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
   }
 ]
