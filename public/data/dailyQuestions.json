@@ -1,132 +1,132 @@
 [
   {
-    "id": "104",
-    "question": "Qui a joué en premier le rôle de James Bond ?",
-    "answer": "Sean Connery",
+    "id": "1515",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
+    "answer": "The Greatest Show on Earth",
     "badAnswers": [
-      "Roger Moore",
-      "George Lazenby",
-      "Timothy Dalton"
+      "High Noon",
+      "The Quiet Man",
+      "Moulin Rouge"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sean Connery a été le premier acteur à incarner James Bond au cinéma en 1962 dans 'Dr. No'. Roger Moore, George Lazenby et Timothy Dalton ont également joué le rôle, mais après lui."
-  },
-  {
-    "id": "1519",
-    "question": "Quel est la capitale de l'Afrique du Sud (capitale législative) ?",
-    "answer": "Le Cap",
-    "badAnswers": [
-      "Pretoria",
-      "Johannesburg",
-      "Durban"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Le Cap, capitale législative de l'Afrique du Sud, est célèbre pour sa Table Mountain et son port historique."
+    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
   },
   {
-    "id": "82",
-    "question": "Quel groupe a chanté 'Smells Like Teen Spirit' ?",
-    "answer": "Nirvana",
+    "id": "326",
+    "question": "Quel peintre a créé La Nuit étoilée ?",
+    "answer": "Vincent van Gogh",
     "badAnswers": [
-      "Pearl Jam",
-      "Soundgarden",
-      "Alice in Chains"
+      "Pablo Picasso",
+      "Claude Monet",
+      "Edvard Munch"
     ],
-    "category": "Musique",
+    "category": "Art",
     "difficulty": "facile",
-    "description": "Ce titre de 1991 est devenu l'hymne de la génération X et a popularisé le grunge. Le groupe s'est séparé après le suicide de Kurt Cobain en 1994."
+    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
   },
   {
-    "id": "768",
-    "question": "Dans Assassin's Creed IV: Black Flag, dans quelle période historique se déroule l'histoire ?",
-    "answer": "Âge d'or de la piraterie",
+    "id": "1865",
+    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
+    "answer": "Hermann Hesse",
     "badAnswers": [
-      "Révolution américaine",
-      "Renaissance",
-      "Égypte ptolémaïque"
+      "Franz Kafka",
+      "Thomas Mann",
+      "Rainer Maria Rilke"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Assassin's Creed IV: Black Flag se déroule pendant l'Âge d'or de la piraterie (XVIIIe siècle) dans les Caraïbes. Les autres périodes sont celles d'autres jeux de la série."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
   },
   {
-    "id": "452",
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "answer": "Grand Canyon",
+    "id": "1399",
+    "question": "Quel est le nom de la déesse grecque des arts ?",
+    "answer": "Les Muses",
     "badAnswers": [
-      "Canyon de Colca",
-      "Canyon de Fish River",
-      "Canyon de Copper"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
-  },
-  {
-    "id": "609",
-    "question": "Quel kami protège les enfants et les défunts dans la mythologie japonaise ?",
-    "answer": "Jizo",
-    "badAnswers": [
-      "Kannon",
-      "Ebisu",
-      "Tenjin"
+      "Athéna",
+      "Héra",
+      "Aphrodite"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Jizo aide les enfants à traverser la rivière Sanzu dans l'au-delà."
+    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
   },
   {
-    "id": "1413",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Tifa Lockhart ?",
-    "answer": "Final Fantasy VII",
+    "id": "8",
+    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
+    "answer": "Quentin Tarantino",
     "badAnswers": [
-      "Kingdom Hearts",
-      "Dragon Quest",
-      "Persona"
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
+  },
+  {
+    "id": "1903",
+    "question": "Quel est le nom de l'un des inventeurs du premier ordinateur électronique ?",
+    "answer": "John Presper Eckert",
+    "badAnswers": [
+      "John Mauchly",
+      "Alan Turing",
+      "Charles Babbage"
+    ],
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "John Presper Eckert a co-développé l'ENIAC en 1945 avec John Mauchly, considéré comme l'un des premiers ordinateurs électroniques généralistes."
+  },
+  {
+    "id": "345",
+    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
+    "answer": "Rapture",
+    "badAnswers": [
+      "Columbia",
+      "Atlantis",
+      "Arcadia"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Tifa Lockhart, combattante experte en arts martiaux, est un personnage clé de Final Fantasy VII, membre du groupe AVALANCHE."
+    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
   },
   {
-    "id": "377",
-    "question": "Quel est le plus grand oiseau incapable de voler ?",
-    "answer": "Autruche",
+    "id": "515",
+    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
+    "answer": "Édouard Manet",
     "badAnswers": [
-      "Émeu",
-      "Casoar",
-      "Nandou"
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Henri Matisse"
     ],
-    "category": "Animaux",
-    "difficulty": "facile",
-    "description": "L’autruche est le plus grand oiseau incapable de voler, pouvant atteindre 2,8 mètres de haut et peser jusqu’à 150 kg. Originaire d’Afrique, elle est connue pour sa vitesse. L’émeu, le casoar et le nandou sont également des oiseaux coureurs, mais plus petits."
-  },
-  {
-    "id": "1046",
-    "question": "Quel est le nom du groupe qui a chanté 'Hotel California' ?",
-    "answer": "Eagles",
-    "badAnswers": [
-      "The Doors",
-      "Fleetwood Mac",
-      "The Rolling Stones"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Hotel California', sorti en 1976 par les Eagles, est une chanson rock légendaire connue pour ses paroles énigmatiques et son solo de guitare."
-  },
-  {
-    "id": "1282",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1995 ?",
-    "answer": "Braveheart",
-    "badAnswers": [
-      "Apollo 13",
-      "The Postman",
-      "Sense and Sensibility"
-    ],
-    "category": "Cinéma",
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Braveheart, réalisé par Mel Gibson, a remporté l'Oscar du meilleur film en 1995, une épopée historique sur William Wallace et l'indépendance écossaise."
+    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "172",
+    "question": "Avec Meg, Jo et Beth, comment s’appelle la 4ème fille du docteur March, dans le roman de Louisa May Alcott ?",
+    "answer": "Amy",
+    "badAnswers": [
+      "Mary",
+      "Sarah",
+      "Jane"
+    ],
+    "category": "Littérature",
+    "difficulty": "normal",
+    "description": "Dans 'Les Quatre Filles du docteur March', Amy est la plus jeune sœur après Meg, Jo et Beth. Mary, Sarah et Jane sont des prénoms courants mais pas dans ce roman."
+  },
+  {
+    "id": "394",
+    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
+    "answer": "Isaac Newton",
+    "badAnswers": [
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
   }
 ]
