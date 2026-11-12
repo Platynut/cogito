@@ -1,47 +1,72 @@
 [
   {
-    "id": "1515",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1952 ?",
-    "answer": "The Greatest Show on Earth",
+    "id": "75",
+    "question": "Quel pays a construit le mur de Berlin ?",
+    "answer": "Allemagne de l'Est",
     "badAnswers": [
-      "High Noon",
-      "The Quiet Man",
-      "Moulin Rouge"
+      "Union soviétique",
+      "Allemagne de l'Ouest",
+      "États-Unis"
     ],
-    "category": "Cinéma",
+    "category": "Politique",
     "difficulty": "normal",
-    "description": "The Greatest Show on Earth, réalisé par Cecil B. DeMille, a remporté l'Oscar du meilleur film en 1952, un drame sur la vie dans un cirque."
+    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
   },
   {
-    "id": "326",
-    "question": "Quel peintre a créé La Nuit étoilée ?",
-    "answer": "Vincent van Gogh",
+    "id": "76",
+    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
+    "answer": "Tesla",
     "badAnswers": [
-      "Pablo Picasso",
-      "Claude Monet",
-      "Edvard Munch"
+      "Rivian",
+      "Lucid Motors",
+      "Nio"
     ],
-    "category": "Art",
+    "category": "Economie",
     "difficulty": "facile",
-    "description": "La Nuit étoilée est une œuvre emblématique de Vincent van Gogh, peinte en 1889. Ce tableau post-impressionniste, représentant un ciel étoilé tourbillonnant, est l'une des œuvres les plus reconnaissables au monde. Picasso, Monet et Munch sont d'autres artistes célèbres, mais ils n'ont pas créé cette œuvre."
+    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
   },
   {
-    "id": "1865",
-    "question": "Quel est le nom de l'auteur de 'Le Loup des steppes' ?",
-    "answer": "Hermann Hesse",
+    "id": "604",
+    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
+    "answer": "Benzaiten",
     "badAnswers": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Rainer Maria Rilke"
+      "Amaterasu",
+      "Inari"
     ],
-    "category": "Livres",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Hermann Hesse a écrit 'Le Loup des steppes' (1927), un roman sur la dualité humaine et la quête spirituelle."
+    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
   },
   {
-    "id": "1399",
-    "question": "Quel est le nom de la déesse grecque des arts ?",
-    "answer": "Les Muses",
+    "id": "622",
+    "question": "Quel est la capitale du Vietnam ?",
+    "answer": "Hanoï",
+    "badAnswers": [
+      "Hô Chi Minh-Ville",
+      "Da Nang",
+      "Hue"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Hanoï est la capitale du Vietnam, connue pour son lac Hoan Kiem et son vieux quartier. Hô Chi Minh-Ville, Da Nang et Hue sont d'autres villes vietnamiennes, mais pas la capitale."
+  },
+  {
+    "id": "1198",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Zn ?",
+    "answer": "Zinc",
+    "badAnswers": [
+      "Zirconium",
+      "Xenon",
+      "Yttrium"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le zinc, symbolisé par Zn, est un métal utilisé pour galvaniser l'acier et dans les compléments alimentaires pour soutenir le système immunitaire."
+  },
+  {
+    "id": "1430",
+    "question": "Quel est le nom de la déesse grecque de la fortune ?",
+    "answer": "Tyché",
     "badAnswers": [
       "Athéna",
       "Héra",
@@ -49,84 +74,58 @@
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Les Muses, neuf déesses grecques, inspirent les arts et les sciences, chacune associée à un domaine comme la poésie ou la musique."
+    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
   },
   {
-    "id": "8",
-    "question": "Quel réalisateur a dirigé 'Pulp Fiction' ?",
-    "answer": "Quentin Tarantino",
+    "id": "1105",
+    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
+    "answer": "Igor Sikorsky",
     "badAnswers": [
-      "Martin Scorsese",
-      "David Fincher",
-      "Guy Ritchie"
+      "Leonardo da Vinci",
+      "Wilbur Wright",
+      "Ferdinand von Zeppelin"
     ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Sorti en 1994, ce film culte produit par Quentin Tarantino a révolutionné le cinéma indépendant avec sa structure narrative non linéaire."
-  },
-  {
-    "id": "1903",
-    "question": "Quel est le nom de l'un des inventeurs du premier ordinateur électronique ?",
-    "answer": "John Presper Eckert",
-    "badAnswers": [
-      "John Mauchly",
-      "Alan Turing",
-      "Charles Babbage"
-    ],
-    "category": "Informatique",
+    "category": "Histoire",
     "difficulty": "normal",
-    "description": "John Presper Eckert a co-développé l'ENIAC en 1945 avec John Mauchly, considéré comme l'un des premiers ordinateurs électroniques généralistes."
+    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
   },
   {
-    "id": "345",
-    "question": "Dans BioShock, quelle est la ville sous-marine où se déroule l'histoire ?",
-    "answer": "Rapture",
+    "id": "1731",
+    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
+    "answer": "Honoré de Balzac",
     "badAnswers": [
-      "Columbia",
-      "Atlantis",
-      "Arcadia"
+      "Victor Hugo",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+  },
+  {
+    "id": "1225",
+    "question": "Quel est la capitale du Qatar ?",
+    "answer": "Doha",
+    "badAnswers": [
+      "Al Rayyan",
+      "Al Wakrah",
+      "Umm Salal"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Rapture est la ville sous-marine dystopique où se déroule BioShock (2007). Construite par Andrew Ryan, elle incarne une société libertarienne en déclin. Columbia est la ville flottante de BioShock Infinite, Atlantis est un mythe, et Arcadia est une zone dans Rapture, mais pas la ville entière."
-  },
-  {
-    "id": "515",
-    "question": "Quel artiste a peint Le Déjeuner sur l'herbe ?",
-    "answer": "Édouard Manet",
-    "badAnswers": [
-      "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Henri Matisse"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Le Déjeuner sur l'herbe (1863) d'Édouard Manet est une œuvre emblématique du réalisme, représentant une femme nue assise avec deux hommes habillés. C'est une œuvre controversée qui a marqué le début de la modernité en art. Monet, Renoir et Matisse sont d'autres artistes célèbres, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "172",
-    "question": "Avec Meg, Jo et Beth, comment s’appelle la 4ème fille du docteur March, dans le roman de Louisa May Alcott ?",
-    "answer": "Amy",
-    "badAnswers": [
-      "Mary",
-      "Sarah",
-      "Jane"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Dans 'Les Quatre Filles du docteur March', Amy est la plus jeune sœur après Meg, Jo et Beth. Mary, Sarah et Jane sont des prénoms courants mais pas dans ce roman."
-  },
-  {
-    "id": "394",
-    "question": "Quel scientifique a découvert les lois de la gravitation universelle ?",
-    "answer": "Isaac Newton",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Albert Einstein",
-      "Johannes Kepler"
-    ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Isaac Newton a formulé les lois de la gravitation universelle en 1687 dans son ouvrage Philosophiæ Naturalis Principia Mathematica. Ces lois expliquent l’attraction entre les corps. Galileo, Einstein et Kepler ont contribué à d’autres domaines de la physique et de l’astronomie."
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
   }
 ]
