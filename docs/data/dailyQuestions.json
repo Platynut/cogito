@@ -1,131 +1,132 @@
 [
   {
-    "id": "75",
-    "question": "Quel pays a construit le mur de Berlin ?",
-    "answer": "Allemagne de l'Est",
+    "id": "1989",
+    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Union soviétique",
-      "Allemagne de l'Ouest",
-      "États-Unis"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Érigé en 1961 par le régime communiste, ce mur de 155 km a divisé Berlin jusqu'en 1989. Environ 140 personnes y ont perdu la vie en tentant de le franchir."
-  },
-  {
-    "id": "76",
-    "question": "Quelle entreprise fabrique les voitures Model S et Model X ?",
-    "answer": "Tesla",
-    "badAnswers": [
-      "Rivian",
-      "Lucid Motors",
-      "Nio"
-    ],
-    "category": "Economie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "La Model S (2012) fut la première berline 100% électrique haut de gamme, suivie par le SUV Model X (2015) avec ses portes 'ailes de faucon'."
+    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
   },
   {
-    "id": "604",
-    "question": "Quelle déesse japonaise est associée à l'amour, à la musique et à l'eau ?",
-    "answer": "Benzaiten",
+    "id": "805",
+    "question": "Quel est le plus grand reptile terrestre préhistorique connu ?",
+    "answer": "Argentinosaurus",
     "badAnswers": [
-      "Amaterasu",
-      "Inari"
+      "Tyrannosaurus rex",
+      "Spinosaurus",
+      "Velociraptor"
     ],
-    "category": "Mythologie",
+    "category": "Animaux",
+    "difficulty": "difficile",
+    "description": "L'Argentinosaurus est l'un des plus grands dinosaures connus, pouvant mesurer jusqu'à 35 mètres de long et peser environ 80 tonnes. Bien qu'il soit un reptile préhistorique, il est important de noter qu'il appartient au groupe des sauropodes. Tyrannosaurus rex, Spinosaurus et Velociraptor sont plus petits et appartiennent à d'autres groupes de dinosaures."
+  },
+  {
+    "id": "1662",
+    "question": "Quel est le nom de l'inventeur du premier appareil à rayons X ?",
+    "answer": "Wilhelm Röntgen",
+    "badAnswers": [
+      "Marie Curie",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Benzaiten est liée aux émotions, à l'eau et à la musique, et son sanctuaire est populaire auprès des couples."
+    "description": "Wilhelm Röntgen a découvert les rayons X en 1895, révolutionnant l'imagerie médicale."
   },
   {
-    "id": "622",
-    "question": "Quel est la capitale du Vietnam ?",
-    "answer": "Hanoï",
+    "id": "1570",
+    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
+    "answer": "Aerosmith",
     "badAnswers": [
-      "Hô Chi Minh-Ville",
-      "Da Nang",
-      "Hue"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Def Leppard"
     ],
-    "category": "Géographie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "Hanoï est la capitale du Vietnam, connue pour son lac Hoan Kiem et son vieux quartier. Hô Chi Minh-Ville, Da Nang et Hue sont d'autres villes vietnamiennes, mais pas la capitale."
+    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
   },
   {
-    "id": "1198",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Zn ?",
-    "answer": "Zinc",
+    "id": "539",
+    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
+    "answer": "2-1B",
     "badAnswers": [
-      "Zirconium",
-      "Xenon",
-      "Yttrium"
+      "R2-D2",
+      "C-3PO",
+      "BB-8"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le zinc, symbolisé par Zn, est un métal utilisé pour galvaniser l'acier et dans les compléments alimentaires pour soutenir le système immunitaire."
-  },
-  {
-    "id": "1430",
-    "question": "Quel est le nom de la déesse grecque de la fortune ?",
-    "answer": "Tyché",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
-    ],
-    "category": "Mythologie",
+    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "Tyché, déesse grecque de la fortune et du destin, est souvent représentée avec une corne d'abondance ou une roue symbolisant le hasard."
+    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
   },
   {
-    "id": "1105",
-    "question": "Quel est le nom de l'inventeur de l'hélicoptère ?",
-    "answer": "Igor Sikorsky",
+    "id": "1741",
+    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
+    "answer": "Robert N. Hall",
     "badAnswers": [
-      "Leonardo da Vinci",
-      "Wilbur Wright",
-      "Ferdinand von Zeppelin"
+      "Theodore Maiman",
+      "Charles Townes",
+      "Gordon Gould"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
+  },
+  {
+    "id": "1025",
+    "question": "Quel est le nom du volcan qui a détruit Pompéi en 79 après J.-C. ?",
+    "answer": "Vésuve",
+    "badAnswers": [
+      "Etna",
+      "Stromboli",
+      "Krakatoa"
     ],
     "category": "Histoire",
     "difficulty": "normal",
-    "description": "Igor Sikorsky a conçu le premier hélicoptère fonctionnel en 1939, marquant une avancée majeure dans l'aviation avec le vol vertical."
+    "description": "Le Vésuve, situé près de Naples, a enseveli Pompéi et Herculanum sous des cendres en 79 après J.-C., préservant ces villes romaines pour les archéologues."
   },
   {
-    "id": "1731",
-    "question": "Quel est le nom de l'auteur de 'Le Père Goriot' ?",
-    "answer": "Honoré de Balzac",
+    "id": "397",
+    "question": "Quel est le plus grand poisson du monde ?",
+    "answer": "Requin-baleine",
     "badAnswers": [
-      "Victor Hugo",
-      "Émile Zola",
-      "Gustave Flaubert"
+      "Requin blanc",
+      "Baleine bleue",
+      "Manta"
     ],
-    "category": "Livres",
+    "category": "Animaux",
     "difficulty": "facile",
-    "description": "Honoré de Balzac a écrit 'Le Père Goriot' (1835), un roman de la Comédie humaine sur l'ambition et la famille."
+    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
   },
   {
-    "id": "1225",
-    "question": "Quel est la capitale du Qatar ?",
-    "answer": "Doha",
+    "id": "44",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "Everest",
     "badAnswers": [
-      "Al Rayyan",
-      "Al Wakrah",
-      "Umm Salal"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Doha, capitale du Qatar, est une ville moderne en pleine croissance, connue pour ses gratte-ciel et son importance économique dans le Golfe."
+    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
   },
   {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
+    "id": "1018",
+    "question": "Quel élément chimique porte le symbole Au ?",
+    "answer": "Or",
     "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
+      "Argent",
+      "Cuivre",
+      "Platine"
     ],
-    "category": "Jeux vidéo",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
   }
 ]
