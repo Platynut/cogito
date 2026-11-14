@@ -1,132 +1,132 @@
 [
   {
-    "id": "1989",
-    "question": "Quel est le nom du groupe qui a chanté 'I Am the Walrus' ?",
-    "answer": "The Beatles",
+    "id": "988",
+    "question": "Quel groupe américain de rock psychédélique, formé en 2002 par Benjamin Goldwasser et Andrew VanWyngarden, porte ce nom ?",
+    "answer": "MGMT",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "MSTRKRFT",
+      "STRFKR",
+      "SBTRKT"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'I Am the Walrus', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de l'album Magical Mystery Tour."
-  },
-  {
-    "id": "805",
-    "question": "Quel est le plus grand reptile terrestre préhistorique connu ?",
-    "answer": "Argentinosaurus",
-    "badAnswers": [
-      "Tyrannosaurus rex",
-      "Spinosaurus",
-      "Velociraptor"
-    ],
-    "category": "Animaux",
-    "difficulty": "difficile",
-    "description": "L'Argentinosaurus est l'un des plus grands dinosaures connus, pouvant mesurer jusqu'à 35 mètres de long et peser environ 80 tonnes. Bien qu'il soit un reptile préhistorique, il est important de noter qu'il appartient au groupe des sauropodes. Tyrannosaurus rex, Spinosaurus et Velociraptor sont plus petits et appartiennent à d'autres groupes de dinosaures."
-  },
-  {
-    "id": "1662",
-    "question": "Quel est le nom de l'inventeur du premier appareil à rayons X ?",
-    "answer": "Wilhelm Röntgen",
-    "badAnswers": [
-      "Marie Curie",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "category": "Technologie",
     "difficulty": "normal",
-    "description": "Wilhelm Röntgen a découvert les rayons X en 1895, révolutionnant l'imagerie médicale."
+    "description": "MGMT est un duo de rock psychédélique connu pour des chansons comme Time to Pretend et Kids, tirées de leur album Oracular Spectacular (2007)."
   },
   {
-    "id": "1570",
-    "question": "Quel est le nom du groupe qui a chanté 'Walk This Way' ?",
-    "answer": "Aerosmith",
+    "id": "1793",
+    "question": "Quel est la capitale du Soudan du Sud ?",
+    "answer": "Djouba",
     "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Def Leppard"
+      "Wau",
+      "Malakal",
+      "Bor"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
+  },
+  {
+    "id": "175",
+    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
+    "answer": "Japon",
+    "badAnswers": [
+      "Espagne",
+      "Yémen",
+      "Inde"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+  },
+  {
+    "id": "720",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
+    "answer": "Slurpy Swamp",
+    "badAnswers": [
+      "Misty Meadows",
+      "Craggy Cliffs",
+      "Sweaty Sands"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
+  },
+  {
+    "id": "435",
+    "question": "Dans Super Mario Sunshine, quel est le nom de l’outil utilisé par Mario pour nettoyer l’île ?",
+    "answer": "J.E.T.",
+    "badAnswers": [
+      "F.L.U.D.D.",
+      "Aqua Jet",
+      "Spray-o-Tron"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Dans Super Mario Sunshine, Mario utilise J.E.T. (Jet d’Eau Transportable, ou F.L.U.D.D. en anglais) pour nettoyer la peinture et combattre les ennemis sur l’île Delfino. Les autres options sont des noms inventés ou incorrects."
+  },
+  {
+    "id": "583",
+    "question": "Quel artiste a peint La Liberté guidant le peuple ?",
+    "answer": "Eugène Delacroix",
+    "badAnswers": [
+      "Jacques-Louis David",
+      "Théodore Géricault",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "La Liberté guidant le peuple (1830) d'Eugène Delacroix est une peinture romantique célébrant la Révolution de 1830. David, Géricault et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "511",
+    "question": "Quel compositeur a écrit Le Boléro ?",
+    "answer": "Maurice Ravel",
+    "badAnswers": [
+      "Claude Debussy",
+      "Igor Stravinsky",
+      "Gabriel Fauré"
     ],
     "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Walk This Way', sorti en 1975 par Aerosmith, est une chanson rock influente, reprise plus tard avec Run-D.M.C."
-  },
-  {
-    "id": "539",
-    "question": "Dans Star Wars, quel est le nom du droïde médical dans L'Empire contre-attaque ?",
-    "answer": "2-1B",
-    "badAnswers": [
-      "R2-D2",
-      "C-3PO",
-      "BB-8"
-    ],
-    "category": "Cinéma",
     "difficulty": "normal",
-    "description": "2-1B est le droïde médical dans L'Empire contre-attaque, soignant Luke Skywalker après son attaque par le wampa. R2-D2, C-3PO et BB-8 sont d'autres droïdes, mais pas médicaux."
+    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
   },
   {
-    "id": "1741",
-    "question": "Quel est le nom de l'inventeur du premier laser à semi-conducteur ?",
-    "answer": "Robert N. Hall",
+    "id": "611",
+    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
+    "answer": "Oscar Wilde",
     "badAnswers": [
-      "Theodore Maiman",
-      "Charles Townes",
-      "Gordon Gould"
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "Arthur Conan Doyle"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Robert N. Hall a développé le premier laser à semi-conducteur en 1962, utilisé dans les technologies modernes."
-  },
-  {
-    "id": "1025",
-    "question": "Quel est le nom du volcan qui a détruit Pompéi en 79 après J.-C. ?",
-    "answer": "Vésuve",
-    "badAnswers": [
-      "Etna",
-      "Stromboli",
-      "Krakatoa"
-    ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Le Vésuve, situé près de Naples, a enseveli Pompéi et Herculanum sous des cendres en 79 après J.-C., préservant ces villes romaines pour les archéologues."
-  },
-  {
-    "id": "397",
-    "question": "Quel est le plus grand poisson du monde ?",
-    "answer": "Requin-baleine",
-    "badAnswers": [
-      "Requin blanc",
-      "Baleine bleue",
-      "Manta"
-    ],
-    "category": "Animaux",
+    "category": "Littérature",
     "difficulty": "facile",
-    "description": "Le requin-baleine est le plus grand poisson du monde, pouvant atteindre 12 mètres de long et peser 20 tonnes. Inoffensif, il se nourrit de plancton. La baleine bleue est un mammifère, pas un poisson, et le requin blanc et la manta sont plus petits."
+    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "44",
-    "question": "Quelle est la plus haute montagne du monde ?",
-    "answer": "Everest",
+    "id": "104",
+    "question": "Quelle est la capitale de l'Islande ?",
+    "answer": "Reykjavik",
     "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
+      "Akureyri",
+      "Kopavogur",
+      "Hafnarfjordur"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
   },
   {
-    "id": "1018",
-    "question": "Quel élément chimique porte le symbole Au ?",
-    "answer": "Or",
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
     "badAnswers": [
-      "Argent",
-      "Cuivre",
-      "Platine"
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
     ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "L'or, représenté par le symbole Au (du latin 'aurum'), est un métal précieux connu pour sa rareté, sa malléabilité et son utilisation en joaillerie."
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
   }
 ]
