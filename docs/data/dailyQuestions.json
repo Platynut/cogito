@@ -1,132 +1,132 @@
 [
   {
-    "id": "988",
-    "question": "Quel groupe américain de rock psychédélique, formé en 2002 par Benjamin Goldwasser et Andrew VanWyngarden, porte ce nom ?",
-    "answer": "MGMT",
+    "id": "1134",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ratchet ?",
+    "answer": "Ratchet & Clank",
     "badAnswers": [
-      "MSTRKRFT",
-      "STRFKR",
-      "SBTRKT"
+      "Jak and Daxter",
+      "Spyro the Dragon",
+      "Crash Bandicoot"
     ],
-    "category": "Musique",
-    "difficulty": "normal",
-    "description": "MGMT est un duo de rock psychédélique connu pour des chansons comme Time to Pretend et Kids, tirées de leur album Oracular Spectacular (2007)."
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Ratchet, un lombax mécanicien, est le héros de la série Ratchet & Clank, accompagné de son ami robot Clank dans des aventures intergalactiques."
   },
   {
-    "id": "1793",
-    "question": "Quel est la capitale du Soudan du Sud ?",
-    "answer": "Djouba",
+    "id": "1228",
+    "question": "Quel est la capitale de l'Oman ?",
+    "answer": "Mascate",
     "badAnswers": [
-      "Wau",
-      "Malakal",
-      "Bor"
+      "Salalah",
+      "Sohar",
+      "Nizwa"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Djouba, capitale du Soudan du Sud, est une ville en développement située sur les rives du Nil blanc."
+    "description": "Mascate, capitale de l'Oman, est une ville portuaire entourée de montagnes, connue pour son opéra royal et ses souks traditionnels."
   },
   {
-    "id": "175",
-    "question": "Dans quel pays, un ancien premier ministre a été assassiné en pleine rue de 2 coups de feu durant un discours le 8 juillet 2022 ?",
-    "answer": "Japon",
+    "id": "278",
+    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
+    "answer": "Verdi",
     "badAnswers": [
-      "Espagne",
-      "Yémen",
-      "Inde"
+      "Mozart",
+      "Berlioz",
+      "Brahms"
     ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Shinzo Abe, ancien Premier ministre japonais, a été assassiné par arme à feu le 8 juillet 2022 lors d'un discours à Nara. Les autres pays n'ont pas connu cet événement."
+    "category": "Cinéma",
+    "difficulty": "difficile",
+    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
   },
   {
-    "id": "720",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans le Chapitre 2 ?",
-    "answer": "Slurpy Swamp",
+    "id": "1054",
+    "question": "Quel est le nom du groupe qui a chanté 'Sweet Child O' Mine' ?",
+    "answer": "Guns N' Roses",
     "badAnswers": [
-      "Misty Meadows",
-      "Craggy Cliffs",
-      "Sweaty Sands"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Slurpy Swamp est un biome aquatique et marécageux introduit dans Fortnite Chapitre 2, connu pour son Slurp Juice. Misty Meadows, Craggy Cliffs et Sweaty Sands sont d'autres lieux du jeu."
-  },
-  {
-    "id": "435",
-    "question": "Dans Super Mario Sunshine, quel est le nom de l’outil utilisé par Mario pour nettoyer l’île ?",
-    "answer": "J.E.T.",
-    "badAnswers": [
-      "F.L.U.D.D.",
-      "Aqua Jet",
-      "Spray-o-Tron"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Super Mario Sunshine, Mario utilise J.E.T. (Jet d’Eau Transportable, ou F.L.U.D.D. en anglais) pour nettoyer la peinture et combattre les ennemis sur l’île Delfino. Les autres options sont des noms inventés ou incorrects."
-  },
-  {
-    "id": "583",
-    "question": "Quel artiste a peint La Liberté guidant le peuple ?",
-    "answer": "Eugène Delacroix",
-    "badAnswers": [
-      "Jacques-Louis David",
-      "Théodore Géricault",
-      "Jean-Auguste-Dominique Ingres"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "La Liberté guidant le peuple (1830) d'Eugène Delacroix est une peinture romantique célébrant la Révolution de 1830. David, Géricault et Ingres sont d'autres peintres français, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "511",
-    "question": "Quel compositeur a écrit Le Boléro ?",
-    "answer": "Maurice Ravel",
-    "badAnswers": [
-      "Claude Debussy",
-      "Igor Stravinsky",
-      "Gabriel Fauré"
+      "Aerosmith",
+      "Bon Jovi",
+      "Van Halen"
     ],
     "category": "Musique",
-    "difficulty": "normal",
-    "description": "Maurice Ravel a composé Le Boléro (1928), une œuvre orchestrale célèbre pour son crescendo répétitif. Debussy, Stravinsky et Fauré sont d'autres compositeurs de la même période, mais n'ont pas écrit cette œuvre."
+    "difficulty": "facile",
+    "description": "'Sweet Child O' Mine', sorti en 1987 par Guns N' Roses, est un classique du hard rock, célèbre pour son riff de guitare emblématique."
   },
   {
-    "id": "611",
-    "question": "Quel est le nom de l'auteur de 'Le Portrait de Dorian Gray' ?",
-    "answer": "Oscar Wilde",
+    "id": "551",
+    "question": "Dans Pokémon Soleil et Lune, quelle est la région où se déroule le jeu ?",
+    "answer": "Alola",
     "badAnswers": [
-      "Bram Stoker",
-      "Robert Louis Stevenson",
-      "Arthur Conan Doyle"
+      "Kalos",
+      "Galar",
+      "Unys"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Pokémon Soleil et Lune se déroule dans la région d'Alola, inspirée d'Hawaï, avec des îles tropicales. Kalos, Galar et Unys sont les régions d'autres jeux Pokémon."
+  },
+  {
+    "id": "970",
+    "question": "Où travaille Gregg dans le jeu Night In The Woods ?",
+    "answer": "Snack Falcon",
+    "badAnswers": [
+      "Ol' Pickaxe",
+      "Video Outpost Too",
+      "Food Donkey"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Gregg, un personnage clé de Night In The Woods, travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs."
+  },
+  {
+    "id": "416",
+    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
+    "answer": "Miguel de Cervantès",
+    "badAnswers": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Federico García Lorca"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Oscar Wilde a écrit Le Portrait de Dorian Gray (1890), un roman sur la jeunesse éternelle et la décadence morale. Stoker, Stevenson et Doyle sont d'autres écrivains de l'époque, mais n'ont pas écrit ce roman."
+    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
   },
   {
-    "id": "104",
-    "question": "Quelle est la capitale de l'Islande ?",
-    "answer": "Reykjavik",
+    "id": "653",
+    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
+    "answer": "Shen",
     "badAnswers": [
-      "Akureyri",
-      "Kopavogur",
-      "Hafnarfjordur"
+      "Akali",
+      "Zed",
+      "Kennen"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
+  },
+  {
+    "id": "103",
+    "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
+    "answer": "Sri Lanka",
+    "badAnswers": [
+      "Philippines",
+      "Liban",
+      "Vénézuela"
+    ],
+    "category": "Politique",
+    "difficulty": "normal",
+    "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
+  },
+  {
+    "id": "452",
+    "question": "Quel est le nom du plus grand canyon du monde ?",
+    "answer": "Grand Canyon",
+    "badAnswers": [
+      "Canyon de Colca",
+      "Canyon de Fish River",
+      "Canyon de Copper"
     ],
     "category": "Géographie",
     "difficulty": "facile",
-    "description": "Reykjavik est la capitale et la plus grande ville d'Islande, connue pour ses paysages volcaniques et géothermiques. Les autres villes sont des agglomérations importantes mais ne sont pas des capitales."
-  },
-  {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
-    "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
   }
 ]
