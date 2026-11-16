@@ -1,132 +1,132 @@
 [
   {
-    "id": "1134",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Ratchet ?",
-    "answer": "Ratchet & Clank",
+    "id": "200",
+    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+    "answer": "Ubac",
     "badAnswers": [
-      "Jak and Daxter",
-      "Spyro the Dragon",
-      "Crash Bandicoot"
+      "Adret",
+      "Étang",
+      "Ressac"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Ratchet, un lombax mécanicien, est le héros de la série Ratchet & Clank, accompagné de son ami robot Clank dans des aventures intergalactiques."
+    "category": "Géographie",
+    "difficulty": "difficile",
+    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
   },
   {
-    "id": "1228",
-    "question": "Quel est la capitale de l'Oman ?",
-    "answer": "Mascate",
+    "id": "220",
+    "question": "Qui est le premier interprète du Doctor Who ?",
+    "answer": "William Hartnell",
     "badAnswers": [
-      "Salalah",
-      "Sohar",
-      "Nizwa"
+      "Richard Hurndall",
+      "David Bradley",
+      "Matt Smith"
+    ],
+    "category": "Séries",
+    "difficulty": "difficile",
+    "description": "William Hartnell a incarné le 1er Docteur de 1963 à 1966. Hurndall et Bradley l'ont joué plus tard, et Smith était le 11e."
+  },
+  {
+    "id": "1144",
+    "question": "Quel est le nom de l'auteur de 'Anna Karénine' ?",
+    "answer": "Léon Tolstoï",
+    "badAnswers": [
+      "Fiodor Dostoïevski",
+      "Anton Tchekhov",
+      "Ivan Tourgueniev"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Léon Tolstoï a écrit 'Anna Karénine' (1878), un roman réaliste sur l'amour tragique et les tensions sociales dans la Russie du XIXe siècle."
+  },
+  {
+    "id": "1299",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1991 ?",
+    "answer": "The Silence of the Lambs",
+    "badAnswers": [
+      "JFK",
+      "Beauty and the Beast",
+      "Bugsy"
+    ],
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "The Silence of the Lambs, réalisé par Jonathan Demme, a remporté l'Oscar du meilleur film en 1991, un thriller psychologique avec Hannibal Lecter."
+  },
+  {
+    "id": "74",
+    "question": "Quelle épice est obtenue à partir du crocus ?",
+    "answer": "Safran",
+    "badAnswers": [
+      "Curcuma",
+      "Cannelle",
+      "Cardamome"
+    ],
+    "category": "Cuisine",
+    "difficulty": "normal",
+    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
+  },
+  {
+    "id": "218",
+    "question": "Quelle est la superficie de l’île de la Réunion ?",
+    "answer": "2 512 km²",
+    "badAnswers": [
+      "992 km²",
+      "2 150 km²",
+      "5 240 km²"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "Mascate, capitale de l'Oman, est une ville portuaire entourée de montagnes, connue pour son opéra royal et ses souks traditionnels."
+    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
   },
   {
-    "id": "278",
-    "question": "Le film Mad Max: Fury Road inclut le Dies Irae de quel compositeur de requiem ?",
-    "answer": "Verdi",
+    "id": "830",
+    "question": "Quel scientifique a découvert la loi des corps flottants ?",
+    "answer": "Archimède",
     "badAnswers": [
-      "Mozart",
-      "Berlioz",
-      "Brahms"
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Blaise Pascal"
     ],
-    "category": "Cinéma",
-    "difficulty": "difficile",
-    "description": "Le Dies Irae du requiem de Giuseppe Verdi est utilisé dans Mad Max: Fury Road (2015) pour renforcer l'intensité dramatique de certaines scènes. Ce motif musical, extrait du Requiem de Verdi composé en 1874, est connu pour son caractère solennel et menaçant. Les autres compositeurs ont également composé des requiems, mais celui de Verdi est celui utilisé dans le film."
-  },
-  {
-    "id": "1054",
-    "question": "Quel est le nom du groupe qui a chanté 'Sweet Child O' Mine' ?",
-    "answer": "Guns N' Roses",
-    "badAnswers": [
-      "Aerosmith",
-      "Bon Jovi",
-      "Van Halen"
-    ],
-    "category": "Musique",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "'Sweet Child O' Mine', sorti en 1987 par Guns N' Roses, est un classique du hard rock, célèbre pour son riff de guitare emblématique."
+    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
   },
   {
-    "id": "551",
-    "question": "Dans Pokémon Soleil et Lune, quelle est la région où se déroule le jeu ?",
-    "answer": "Alola",
+    "id": "633",
+    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
+    "answer": "Minerva McGonagall",
     "badAnswers": [
-      "Kalos",
-      "Galar",
-      "Unys"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Pokémon Soleil et Lune se déroule dans la région d'Alola, inspirée d'Hawaï, avec des îles tropicales. Kalos, Galar et Unys sont les régions d'autres jeux Pokémon."
-  },
-  {
-    "id": "970",
-    "question": "Où travaille Gregg dans le jeu Night In The Woods ?",
-    "answer": "Snack Falcon",
-    "badAnswers": [
-      "Ol' Pickaxe",
-      "Video Outpost Too",
-      "Food Donkey"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Gregg, un personnage clé de Night In The Woods, travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs."
-  },
-  {
-    "id": "416",
-    "question": "Quel est le nom de l’auteur de Don Quichotte ?",
-    "answer": "Miguel de Cervantès",
-    "badAnswers": [
-      "Gabriel García Márquez",
-      "Jorge Luis Borges",
-      "Federico García Lorca"
+      "Severus Rogue",
+      "Filius Flitwick",
+      "Pomona Chourave"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Miguel de Cervantès a écrit Don Quichotte (1605–1615), considéré comme le premier roman moderne, racontant les aventures du chevalier errant Don Quichotte. Les autres auteurs sont des figures littéraires hispanophones, mais d’époques plus récentes."
+    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
   },
   {
-    "id": "653",
-    "question": "Dans League of Legends, quel champion est surnommé La Sentinelle ?",
-    "answer": "Shen",
+    "id": "784",
+    "question": "Quel scientifique a découvert la loi de la conservation de la charge électrique ?",
+    "answer": "Benjamin Franklin",
     "badAnswers": [
-      "Akali",
-      "Zed",
-      "Kennen"
+      "Michael Faraday",
+      "André-Marie Ampère",
+      "Georg Ohm"
     ],
-    "category": "Jeux vidéo",
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "Benjamin Franklin a établi les bases de la conservation de la charge électrique au XVIIIe siècle avec ses travaux sur l'électricité. Faraday, Ampère et Ohm ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "1199",
+    "question": "Quel est le nom de l'auteur de 'Les Fleurs du mal' ?",
+    "answer": "Charles Baudelaire",
+    "badAnswers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "Shen, surnommé La Sentinelle dans League of Legends, est un ninja tank protecteur, chargé de maintenir l'équilibre entre les forces spirituelles. Akali, Zed et Kennen sont aussi des ninjas, mais n'ont pas ce titre."
-  },
-  {
-    "id": "103",
-    "question": "Dans quel pays du monde, le palais du président a-t-il été envahi par des manifestants qui pointaient la mauvaise gestion du pays le 9 juillet 2022 ?",
-    "answer": "Sri Lanka",
-    "badAnswers": [
-      "Philippines",
-      "Liban",
-      "Vénézuela"
-    ],
-    "category": "Politique",
-    "difficulty": "normal",
-    "description": "Au Sri Lanka, le 9 juillet 2022, des manifestants ont envahi le palais présidentiel pour protester contre la crise économique et la mauvaise gestion du pays. Les Philippines, le Liban et le Venezuela ont également connu des troubles, mais pas dans ce contexte précis."
-  },
-  {
-    "id": "452",
-    "question": "Quel est le nom du plus grand canyon du monde ?",
-    "answer": "Grand Canyon",
-    "badAnswers": [
-      "Canyon de Colca",
-      "Canyon de Fish River",
-      "Canyon de Copper"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Le Grand Canyon, situé en Arizona, États-Unis, est le plus grand canyon du monde, s’étendant sur 446 km de long et jusqu’à 29 km de large. C’est une merveille naturelle. Les canyons de Colca, Fish River et Copper sont plus petits."
+    "description": "Charles Baudelaire a écrit 'Les Fleurs du mal' (1857), un recueil de poèmes symbolistes explorant la beauté, le vice et la modernité."
   }
 ]
