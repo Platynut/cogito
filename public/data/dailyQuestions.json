@@ -1,132 +1,132 @@
 [
   {
-    "id": "200",
-    "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
-    "answer": "Ubac",
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
     "badAnswers": [
-      "Adret",
-      "Étang",
-      "Ressac"
+      "Vénus",
+      "Jupiter",
+      "Saturne"
     ],
-    "category": "Géographie",
-    "difficulty": "difficile",
-    "description": "L'ubac désigne le versant ombragé d'une montagne, souvent plus humide et boisé. L'adret est l'opposé (ensoleillé), l'étang et le ressac n'ont aucun lien."
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
   },
   {
-    "id": "220",
-    "question": "Qui est le premier interprète du Doctor Who ?",
-    "answer": "William Hartnell",
+    "id": "1154",
+    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
+    "answer": "The Beatles",
     "badAnswers": [
-      "Richard Hurndall",
-      "David Bradley",
-      "Matt Smith"
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
     ],
-    "category": "Séries",
-    "difficulty": "difficile",
-    "description": "William Hartnell a incarné le 1er Docteur de 1963 à 1966. Hurndall et Bradley l'ont joué plus tard, et Smith était le 11e."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
   },
   {
-    "id": "1144",
-    "question": "Quel est le nom de l'auteur de 'Anna Karénine' ?",
-    "answer": "Léon Tolstoï",
+    "id": "880",
+    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
+    "answer": "Rickety Rig",
     "badAnswers": [
-      "Fiodor Dostoïevski",
-      "Anton Tchekhov",
-      "Ivan Tourgueniev"
+      "The Fortilla",
+      "Catty Corner",
+      "Sweaty Sands"
     ],
-    "category": "Livres",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Léon Tolstoï a écrit 'Anna Karénine' (1878), un roman réaliste sur l'amour tragique et les tensions sociales dans la Russie du XIXe siècle."
+    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
   },
   {
-    "id": "1299",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1991 ?",
-    "answer": "The Silence of the Lambs",
+    "id": "905",
+    "question": "Quel est le plus petit os du corps humain ?",
+    "answer": "L'étrier",
     "badAnswers": [
-      "JFK",
-      "Beauty and the Beast",
-      "Bugsy"
+      "Le marteau",
+      "L'enclume",
+      "Le scaphoïde"
+    ],
+    "category": "Anatomie",
+    "difficulty": "facile",
+    "description": "L'étrier, situé dans l'oreille moyenne, est le plus petit os du corps humain, mesurant environ 2,5 mm de long. Le marteau et l'enclume sont également des os de l'oreille moyenne, mais plus grands."
+  },
+  {
+    "id": "58",
+    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
+    "answer": "Jean-Pierre Jeunet",
+    "badAnswers": [
+      "Luc Besson",
+      "François Ozon",
+      "Michel Gondry"
     ],
     "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "The Silence of the Lambs, réalisé par Jonathan Demme, a remporté l'Oscar du meilleur film en 1991, un thriller psychologique avec Hannibal Lecter."
-  },
-  {
-    "id": "74",
-    "question": "Quelle épice est obtenue à partir du crocus ?",
-    "answer": "Safran",
-    "badAnswers": [
-      "Curcuma",
-      "Cannelle",
-      "Cardamome"
-    ],
-    "category": "Cuisine",
     "difficulty": "normal",
-    "description": "Le safran provient des stigmates séchés de Crocus sativus. Il faut environ 150.000 fleurs pour produire 1 kg, d'où son prix élevé."
+    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
   },
   {
-    "id": "218",
-    "question": "Quelle est la superficie de l’île de la Réunion ?",
-    "answer": "2 512 km²",
+    "id": "308",
+    "question": "Dans Night In The Woods, où travaille Gregg ?",
+    "answer": "Snack Falcon",
     "badAnswers": [
-      "992 km²",
-      "2 150 km²",
-      "5 240 km²"
+      "Ol' Pickaxe",
+      "Video Outpost 'Too'",
+      "Food Donkey"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "La Réunion couvre 2 512 km², soit environ 4 fois Paris. La Corse fait 8 700 km², et Mayotte 374 km²."
-  },
-  {
-    "id": "830",
-    "question": "Quel scientifique a découvert la loi des corps flottants ?",
-    "answer": "Archimède",
-    "badAnswers": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Blaise Pascal"
-    ],
-    "category": "Science",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Archimède a découvert la loi des corps flottants (poussée d'Archimède) au IIIe siècle av. J.-C., expliquant la flottabilité. Galilée, Newton et Pascal ont contribué à d'autres domaines de la physique."
+    "description": "Dans Night In The Woods (2017), Gregg travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs. Ce lieu est un élément clé de l'histoire, où Gregg, un ami proche du protagoniste Mae, est employé. Les autres options sont des lieux du jeu, mais pas son lieu de travail."
   },
   {
-    "id": "633",
-    "question": "Dans Harry Potter, quel est le nom du professeur de métamorphose à Poudlard ?",
-    "answer": "Minerva McGonagall",
+    "id": "1646",
+    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
+    "answer": "John Steinbeck",
     "badAnswers": [
-      "Severus Rogue",
-      "Filius Flitwick",
-      "Pomona Chourave"
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "category": "Livres",
+    "difficulty": "facile",
+    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
+  },
+  {
+    "id": "577",
+    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
+    "answer": "Gilderoy Lockhart",
+    "badAnswers": [
+      "Remus Lupin",
+      "Alastor Maugrey",
+      "Dolores Ombrage"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Minerva McGonagall est la professeure de métamorphose à Poudlard dans Harry Potter, connue pour sa rigueur et son Animagus chat. Rogue enseigne les potions, Flitwick les sortilèges, et Chourave la botanique."
+    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
   },
   {
-    "id": "784",
-    "question": "Quel scientifique a découvert la loi de la conservation de la charge électrique ?",
-    "answer": "Benjamin Franklin",
+    "id": "1311",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sr ?",
+    "answer": "Strontium",
     "badAnswers": [
-      "Michael Faraday",
-      "André-Marie Ampère",
-      "Georg Ohm"
+      "Sélénium",
+      "Silicium",
+      "Soufre"
     ],
     "category": "Science",
-    "difficulty": "difficile",
-    "description": "Benjamin Franklin a établi les bases de la conservation de la charge électrique au XVIIIe siècle avec ses travaux sur l'électricité. Faraday, Ampère et Ohm ont contribué à d'autres aspects de l'électromagnétisme."
+    "difficulty": "normal",
+    "description": "Le strontium, symbolisé par Sr, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur rouge éclatante."
   },
   {
-    "id": "1199",
-    "question": "Quel est le nom de l'auteur de 'Les Fleurs du mal' ?",
-    "answer": "Charles Baudelaire",
+    "id": "348",
+    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
+    "answer": "Jane Austen",
     "badAnswers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
+      "Charlotte Brontë",
+      "Emily Dickinson",
+      "Virginia Woolf"
     ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Charles Baudelaire a écrit 'Les Fleurs du mal' (1857), un recueil de poèmes symbolistes explorant la beauté, le vice et la modernité."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
   }
 ]
