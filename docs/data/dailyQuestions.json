@@ -1,132 +1,132 @@
 [
   {
-    "id": "194",
-    "question": "Quel est le nom de la planète rouge ?",
-    "answer": "Mars",
+    "id": "170",
+    "question": "Jeff Koons est surtout connu pour ses ... ?",
+    "answer": "Sculptures",
     "badAnswers": [
-      "Vénus",
-      "Jupiter",
-      "Saturne"
+      "Tags",
+      "Peintures",
+      "Dessins"
     ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Jeff Koons est célèbre pour ses sculptures kitsch en acier inoxydable, comme 'Balloon Dog'. Il n'est pas associé au street art (tags) ni à la peinture traditionnelle."
   },
   {
-    "id": "1154",
-    "question": "Quel est le nom du groupe qui a chanté 'Hey Jude' ?",
-    "answer": "The Beatles",
+    "id": "1125",
+    "question": "Quel est le nom du groupe qui a chanté 'Yellow' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Kinks"
+      "Keane",
+      "Snow Patrol",
+      "The Killers"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Hey Jude', sorti en 1968 par The Beatles, est une ballade emblématique écrite par Paul McCartney pour réconforter le fils de John Lennon."
+    "description": "'Yellow', sorti en 2000 par Coldplay, est une chanson pop-rock qui a marqué les débuts du groupe et reste l'un de leurs plus grands succès."
   },
   {
-    "id": "880",
-    "question": "Dans Fortnite, quel est le nom du biome aquatique introduit dans la saison 3 du chapitre 2 ?",
-    "answer": "Rickety Rig",
+    "id": "2071",
+    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
+    "answer": "Rod Stewart",
     "badAnswers": [
-      "The Fortilla",
-      "Catty Corner",
-      "Sweaty Sands"
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Rickety Rig est un biome aquatique introduit dans la saison 3 du chapitre 2 de Fortnite, une plateforme flottante. The Fortilla, Catty Corner et Sweaty Sands sont d'autres lieux."
-  },
-  {
-    "id": "905",
-    "question": "Quel est le plus petit os du corps humain ?",
-    "answer": "L'étrier",
-    "badAnswers": [
-      "Le marteau",
-      "L'enclume",
-      "Le scaphoïde"
-    ],
-    "category": "Anatomie",
+    "category": "Musique",
     "difficulty": "facile",
-    "description": "L'étrier, situé dans l'oreille moyenne, est le plus petit os du corps humain, mesurant environ 2,5 mm de long. Le marteau et l'enclume sont également des os de l'oreille moyenne, mais plus grands."
+    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
   },
   {
-    "id": "58",
-    "question": "Quel réalisateur français a dirigé 'Le Fabuleux Destin d'Amélie Poulain' ?",
-    "answer": "Jean-Pierre Jeunet",
+    "id": "900",
+    "question": "Dans Star Wars, quel est le nom du Jedi qui entraîne Luke dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
     "badAnswers": [
-      "Luc Besson",
-      "François Ozon",
-      "Michel Gondry"
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Qui-Gon Jinn"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Sorti en 2001, ce film poétique avec Audrey Tautou est devenu un phénomène culturel mondial et le film français le plus connu à l'étranger."
-  },
-  {
-    "id": "308",
-    "question": "Dans Night In The Woods, où travaille Gregg ?",
-    "answer": "Snack Falcon",
-    "badAnswers": [
-      "Ol' Pickaxe",
-      "Video Outpost 'Too'",
-      "Food Donkey"
-    ],
-    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Dans Night In The Woods (2017), Gregg travaille au Snack Falcon, un magasin de proximité dans la ville fictive de Possum Springs. Ce lieu est un élément clé de l'histoire, où Gregg, un ami proche du protagoniste Mae, est employé. Les autres options sont des lieux du jeu, mais pas son lieu de travail."
+    "description": "Yoda entraîne Luke Skywalker dans L'Empire contre-attaque sur Dagobah. Obi-Wan, Mace Windu et Qui-Gon Jinn sont d'autres Jedi."
   },
   {
-    "id": "1646",
-    "question": "Quel est le nom de l'auteur de 'Des souris et des hommes' ?",
-    "answer": "John Steinbeck",
+    "id": "132",
+    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
+    "answer": "Gavin Wood",
     "badAnswers": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner"
+      "Charlie Lee",
+      "Sunny King",
+      "Roger Ver"
     ],
-    "category": "Livres",
-    "difficulty": "facile",
-    "description": "John Steinbeck a écrit 'Des souris et des hommes' (1937), un roman sur l'amitié et les rêves brisés pendant la Grande Dépression."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
   },
   {
-    "id": "577",
-    "question": "Dans Harry Potter, quel est le nom du professeur de défense contre les forces du mal dans La Chambre des secrets ?",
-    "answer": "Gilderoy Lockhart",
+    "id": "186",
+    "question": "Qui est l'auteur du roman 'Orgueil et Préjugés' ?",
+    "answer": "Jane Austen",
     "badAnswers": [
-      "Remus Lupin",
-      "Alastor Maugrey",
-      "Dolores Ombrage"
+      "Emily Brontë",
+      "Louisa May Alcott",
+      "Charlotte Brontë"
     ],
     "category": "Littérature",
     "difficulty": "facile",
-    "description": "Gilderoy Lockhart est le professeur de défense contre les forces du mal dans Harry Potter et la Chambre des secrets, connu pour son narcissisme. Lupin, Maugrey et Ombrage occupent ce poste dans d'autres tomes."
+    "description": "'Orgueil et Préjugés' (1813) est un classique de Jane Austen. Emily Brontë a écrit 'Les Hauts de Hurlevent', Louisa May Alcott 'Les Quatre Filles du docteur March', et Charlotte Brontë 'Jane Eyre'."
   },
   {
-    "id": "1311",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sr ?",
-    "answer": "Strontium",
+    "id": "2148",
+    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
+    "answer": "Italo Calvino",
     "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Soufre"
+      "Dino Buzzati",
+      "Cesare Pavese",
+      "Luigi Pirandello"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
+  },
+  {
+    "id": "111",
+    "question": "Avec quel autre animal vit généralement une oie ?",
+    "answer": "Le jars",
+    "badAnswers": [
+      "Le canard",
+      "Le cygne",
+      "La poule"
+    ],
+    "category": "Nature",
+    "difficulty": "facile",
+    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
+  },
+  {
+    "id": "1475",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
+    "answer": "Radium",
+    "badAnswers": [
+      "Rhodium",
+      "Ruthénium",
+      "Rubidium"
     ],
     "category": "Science",
     "difficulty": "normal",
-    "description": "Le strontium, symbolisé par Sr, est un métal alcalino-terreux utilisé dans les feux d'artifice pour sa couleur rouge éclatante."
+    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
   },
   {
-    "id": "348",
-    "question": "Quel est le nom de l'auteur de Pride and Prejudice ?",
-    "answer": "Jane Austen",
+    "id": "1542",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur mécanique ?",
+    "answer": "Charles Babbage",
     "badAnswers": [
-      "Charlotte Brontë",
-      "Emily Dickinson",
-      "Virginia Woolf"
+      "Alan Turing",
+      "Konrad Zuse",
+      "John Presper Eckert"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Jane Austen a écrit Pride and Prejudice (1813), un roman d'amour et de satire sociale centré sur Elizabeth Bennet. C'est une œuvre majeure de la littérature anglaise. Charlotte Brontë, Emily Dickinson et Virginia Woolf sont d'autres écrivaines, mais elles n'ont pas écrit ce roman."
+    "category": "Informatique",
+    "difficulty": "normal",
+    "description": "Charles Babbage a conçu la machine analytique dans les années 1830, considérée comme le premier ordinateur mécanique."
   }
 ]
