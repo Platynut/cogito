@@ -1,132 +1,132 @@
 [
   {
-    "id": "170",
-    "question": "Jeff Koons est surtout connu pour ses ... ?",
-    "answer": "Sculptures",
+    "id": "870",
+    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
+    "answer": "Kassadin",
     "badAnswers": [
-      "Tags",
-      "Peintures",
-      "Dessins"
+      "Malzahar",
+      "Karthus",
+      "Veigar"
     ],
-    "category": "Art",
+    "category": "Jeux vidéo",
     "difficulty": "normal",
-    "description": "Jeff Koons est célèbre pour ses sculptures kitsch en acier inoxydable, comme 'Balloon Dog'. Il n'est pas associé au street art (tags) ni à la peinture traditionnelle."
+    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
   },
   {
-    "id": "1125",
-    "question": "Quel est le nom du groupe qui a chanté 'Yellow' ?",
-    "answer": "Coldplay",
+    "id": "1650",
+    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
+    "answer": "Blur",
     "badAnswers": [
-      "Keane",
-      "Snow Patrol",
-      "The Killers"
+      "Oasis",
+      "Radiohead",
+      "The Verve"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Yellow', sorti en 2000 par Coldplay, est une chanson pop-rock qui a marqué les débuts du groupe et reste l'un de leurs plus grands succès."
+    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
   },
   {
-    "id": "2071",
-    "question": "Quel est le nom du groupe qui a chanté 'Maggie May' ?",
-    "answer": "Rod Stewart",
+    "id": "1252",
+    "question": "Quel est le nom du groupe qui a chanté 'With or Without You' ?",
+    "answer": "U2",
     "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
+      "R.E.M.",
+      "The Police",
+      "Coldplay"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Maggie May', sorti en 1971 par Rod Stewart, est une chanson rock devenue un classique de sa carrière solo."
+    "description": "'With or Without You', sorti en 1987 par U2, est une chanson rock emblématique tirée de l'album The Joshua Tree."
   },
   {
-    "id": "900",
-    "question": "Dans Star Wars, quel est le nom du Jedi qui entraîne Luke dans L'Empire contre-attaque ?",
-    "answer": "Yoda",
+    "id": "1908",
+    "question": "Quel est le nom de l'auteur de 'Les Faux-Monnayeurs' ?",
+    "answer": "André Gide",
     "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Mace Windu",
-      "Qui-Gon Jinn"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Yoda entraîne Luke Skywalker dans L'Empire contre-attaque sur Dagobah. Obi-Wan, Mace Windu et Qui-Gon Jinn sont d'autres Jedi."
-  },
-  {
-    "id": "132",
-    "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
-    "answer": "Gavin Wood",
-    "badAnswers": [
-      "Charlie Lee",
-      "Sunny King",
-      "Roger Ver"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Gavin Wood, co-fondateur d'Ethereum, est à l'origine du projet Polkadot et a publié son whitepaper. Charlie Lee est créateur du Litecoin, Sunny King du Peercoin, et Roger Ver est une figure du Bitcoin."
-  },
-  {
-    "id": "186",
-    "question": "Qui est l'auteur du roman 'Orgueil et Préjugés' ?",
-    "answer": "Jane Austen",
-    "badAnswers": [
-      "Emily Brontë",
-      "Louisa May Alcott",
-      "Charlotte Brontë"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "'Orgueil et Préjugés' (1813) est un classique de Jane Austen. Emily Brontë a écrit 'Les Hauts de Hurlevent', Louisa May Alcott 'Les Quatre Filles du docteur March', et Charlotte Brontë 'Jane Eyre'."
-  },
-  {
-    "id": "2148",
-    "question": "Quel est le nom de l'auteur de 'Le Cosmicomiche' ?",
-    "answer": "Italo Calvino",
-    "badAnswers": [
-      "Dino Buzzati",
-      "Cesare Pavese",
-      "Luigi Pirandello"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Marcel Proust"
     ],
     "category": "Livres",
     "difficulty": "normal",
-    "description": "Italo Calvino a écrit 'Le Cosmicomiche' (1965), un recueil de nouvelles fantastiques sur l'univers et la science."
+    "description": "André Gide a écrit 'Les Faux-Monnayeurs' (1925), un roman sur la quête d'identité et la morale."
   },
   {
-    "id": "111",
-    "question": "Avec quel autre animal vit généralement une oie ?",
-    "answer": "Le jars",
+    "id": "134",
+    "question": "A quelle classe animale le scorpion appartient-il ?",
+    "answer": "Arachnide",
     "badAnswers": [
-      "Le canard",
-      "Le cygne",
-      "La poule"
+      "Mammifère",
+      "Reptile",
+      "Insecte"
     ],
     "category": "Nature",
+    "difficulty": "normal",
+    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
+  },
+  {
+    "id": "2092",
+    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
+    "answer": "André Gide",
+    "badAnswers": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
+  },
+  {
+    "id": "833",
+    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
+    "answer": "Grande Mer",
+    "badAnswers": [
+      "Mer Hyrule",
+      "Mer Lanayru",
+      "Mer Faron"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Le jars est le mâle de l'oie, ils vivent généralement ensemble. Les canards, cygnes et poules sont d'autres volailles mais ne sont pas associés spécifiquement aux oies."
+    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
   },
   {
-    "id": "1475",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
-    "answer": "Radium",
+    "id": "335",
+    "question": "Quel est le plus haut sommet du monde ?",
+    "answer": "Everest",
     "badAnswers": [
-      "Rhodium",
-      "Ruthénium",
-      "Rubidium"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
     ],
-    "category": "Science",
-    "difficulty": "normal",
-    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "L'Everest, situé dans l'Himalaya à la frontière entre le Népal et le Tibet, est le plus haut sommet du monde, culminant à 8 848 mètres. Il attire des alpinistes du monde entier. Le K2, le Kangchenjunga et le Lhotse sont d'autres hauts sommets, mais aucun ne dépasse l'Everest."
   },
   {
-    "id": "1542",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur mécanique ?",
-    "answer": "Charles Babbage",
+    "id": "599",
+    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
+    "answer": "Gustave Flaubert",
     "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John Presper Eckert"
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Stendhal"
     ],
-    "category": "Informatique",
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+  },
+  {
+    "id": "442",
+    "question": "Quel est le nom du plus grand archipel du monde ?",
+    "answer": "Indonésie",
+    "badAnswers": [
+      "Philippines",
+      "Maldives",
+      "Japon"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Charles Babbage a conçu la machine analytique dans les années 1830, considérée comme le premier ordinateur mécanique."
+    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
   }
 ]
