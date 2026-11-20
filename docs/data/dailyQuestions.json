@@ -1,132 +1,132 @@
 [
   {
-    "id": "870",
-    "question": "Dans League of Legends, quel champion est surnommé La Fille du Néant ?",
-    "answer": "Kassadin",
+    "id": "309",
+    "question": "Dans Super Smash Bros. Ultimate, quel personnage est surnommé 'Le Héros' ?",
+    "answer": "Héros",
     "badAnswers": [
-      "Malzahar",
-      "Karthus",
-      "Veigar"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Kassadin, surnommé La Fille du Néant dans League of Legends, est un mage utilisant le pouvoir du Néant. Malzahar, Karthus et Veigar sont d'autres mages liés au Néant."
-  },
-  {
-    "id": "1650",
-    "question": "Quel est le nom du groupe qui a chanté 'Parklife' ?",
-    "answer": "Blur",
-    "badAnswers": [
-      "Oasis",
-      "Radiohead",
-      "The Verve"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Parklife', sorti en 1994 par Blur, est une chanson britpop tirée de l'album éponyme, célébrant la vie londonienne."
-  },
-  {
-    "id": "1252",
-    "question": "Quel est le nom du groupe qui a chanté 'With or Without You' ?",
-    "answer": "U2",
-    "badAnswers": [
-      "R.E.M.",
-      "The Police",
-      "Coldplay"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'With or Without You', sorti en 1987 par U2, est une chanson rock emblématique tirée de l'album The Joshua Tree."
-  },
-  {
-    "id": "1908",
-    "question": "Quel est le nom de l'auteur de 'Les Faux-Monnayeurs' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Marcel Proust"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'Les Faux-Monnayeurs' (1925), un roman sur la quête d'identité et la morale."
-  },
-  {
-    "id": "134",
-    "question": "A quelle classe animale le scorpion appartient-il ?",
-    "answer": "Arachnide",
-    "badAnswers": [
-      "Mammifère",
-      "Reptile",
-      "Insecte"
-    ],
-    "category": "Nature",
-    "difficulty": "normal",
-    "description": "Les scorpions font partie de la classe des arachnides, comme les araignées. Ils ne sont ni des mammifères, ni des reptiles, ni des insectes."
-  },
-  {
-    "id": "2092",
-    "question": "Quel est le nom de l'auteur de 'La Porte étroite' ?",
-    "answer": "André Gide",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "André Gide a écrit 'La Porte étroite' (1909), un roman sur l'amour et la spiritualité."
-  },
-  {
-    "id": "833",
-    "question": "Dans The Legend of Zelda: Wind Waker, quel est le nom de l'océan principal ?",
-    "answer": "Grande Mer",
-    "badAnswers": [
-      "Mer Hyrule",
-      "Mer Lanayru",
-      "Mer Faron"
+      "Link",
+      "Cloud",
+      "Sora"
     ],
     "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La Grande Mer est l'océan principal de The Legend of Zelda: Wind Waker, où Link navigue à bord du Lion Rouge. Les autres mers sont des noms fictifs ou tirés d'autres jeux."
+    "description": "Dans Super Smash Bros. Ultimate, le personnage surnommé 'Le Héros' est simplement appelé Héros, représentant plusieurs protagonistes de la série Dragon Quest (notamment de Dragon Quest XI). Ajouté comme DLC en 2019, il est connu pour ses sorts magiques et son design inspiré des RPG. Les autres options, comme Link ou Cloud, sont des personnages distincts avec leurs propres noms."
   },
   {
-    "id": "335",
-    "question": "Quel est le plus haut sommet du monde ?",
-    "answer": "Everest",
+    "id": "1676",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
+    "answer": "The Life of Emile Zola",
     "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
+      "The Awful Truth",
+      "Captains Courageous",
+      "Lost Horizon"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "L'Everest, situé dans l'Himalaya à la frontière entre le Népal et le Tibet, est le plus haut sommet du monde, culminant à 8 848 mètres. Il attire des alpinistes du monde entier. Le K2, le Kangchenjunga et le Lhotse sont d'autres hauts sommets, mais aucun ne dépasse l'Everest."
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
   },
   {
-    "id": "599",
-    "question": "Quel est le nom de l'auteur de 'Madame Bovary' ?",
-    "answer": "Gustave Flaubert",
+    "id": "2020",
+    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
+    "answer": "Paul Zoll",
     "badAnswers": [
-      "Émile Zola",
-      "Honoré de Balzac",
-      "Stendhal"
+      "William Kouwenhoven",
+      "Claude Beck",
+      "Bernard Lown"
     ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Gustave Flaubert a écrit Madame Bovary (1857), un roman réaliste sur la vie d'Emma Bovary et ses désillusions. C'est une œuvre majeure de la littérature française. Zola, Balzac et Stendhal sont d'autres écrivains réalistes, mais n'ont pas écrit ce roman."
+    "category": "Médecine",
+    "difficulty": "difficile",
+    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
   },
   {
-    "id": "442",
-    "question": "Quel est le nom du plus grand archipel du monde ?",
-    "answer": "Indonésie",
+    "id": "1566",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
+    "answer": "Going My Way",
     "badAnswers": [
-      "Philippines",
-      "Maldives",
-      "Japon"
+      "Gaslight",
+      "Since You Went Away",
+      "Wilson"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
+  },
+  {
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Max Ernst",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+  },
+  {
+    "id": "837",
+    "question": "Quel compositeur a écrit La Flûte enchantée ?",
+    "answer": "Wolfgang Amadeus Mozart",
+    "badAnswers": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "Wolfgang Amadeus Mozart a composé *La Flûte enchantée* en 1791, un opéra en deux actes mêlant conte merveilleux et symbolisme maçonnique. L'œuvre est célèbre pour ses airs virtuoses, comme celui de la Reine de la Nuit. Bien que Beethoven, Bach et Vivaldi soient des compositeurs majeurs de la musique classique, aucun d’eux n’est lié à cette œuvre."
+  },
+  {
+    "id": "736",
+    "question": "Quel est le nom du plus grand lac d'Australie ?",
+    "answer": "Lac Eyre",
+    "badAnswers": [
+      "Lac Burley Griffin",
+      "Lac Macquarie",
+      "Lac George"
     ],
     "category": "Géographie",
     "difficulty": "normal",
-    "description": "L’Indonésie est le plus grand archipel du monde, composé de plus de 17 000 îles, dont Java, Sumatra et Bali. Les Philippines, les Maldives et le Japon sont également des archipels, mais avec moins d’îles."
+    "description": "Le lac Eyre est le plus grand lac d'Australie, couvrant environ 9 500 km² lorsqu'il est rempli, bien qu'il soit souvent sec. Burley Griffin, Macquarie et George sont d'autres lacs, mais plus petits."
+  },
+  {
+    "id": "266",
+    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
+    "answer": "Le Couesnon",
+    "badAnswers": [
+      "La Sélune",
+      "La Vire",
+      "La Rance"
+    ],
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
+  },
+  {
+    "id": "727",
+    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
+    "answer": "James Clerk Maxwell",
+    "badAnswers": [
+      "Michael Faraday",
+      "Heinrich Hertz",
+      "Nikola Tesla"
+    ],
+    "category": "Science",
+    "difficulty": "difficile",
+    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
+  },
+  {
+    "id": "679",
+    "question": "Quel est le plus lourd poisson osseux du monde ?",
+    "answer": "Poisson-lune",
+    "badAnswers": [
+      "Régalec",
+      "Thon rouge",
+      "Espadon"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
   }
 ]
