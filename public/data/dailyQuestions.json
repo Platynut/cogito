@@ -1,132 +1,132 @@
 [
   {
-    "id": "309",
-    "question": "Dans Super Smash Bros. Ultimate, quel personnage est surnommé 'Le Héros' ?",
-    "answer": "Héros",
+    "id": "721",
+    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans L'Empire contre-attaque ?",
+    "answer": "Yoda",
     "badAnswers": [
-      "Link",
-      "Cloud",
-      "Sora"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dans Super Smash Bros. Ultimate, le personnage surnommé 'Le Héros' est simplement appelé Héros, représentant plusieurs protagonistes de la série Dragon Quest (notamment de Dragon Quest XI). Ajouté comme DLC en 2019, il est connu pour ses sorts magiques et son design inspiré des RPG. Les autres options, comme Link ou Cloud, sont des personnages distincts avec leurs propres noms."
-  },
-  {
-    "id": "1676",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1938 ?",
-    "answer": "The Life of Emile Zola",
-    "badAnswers": [
-      "The Awful Truth",
-      "Captains Courageous",
-      "Lost Horizon"
+      "Obi-Wan Kenobi",
+      "Qui-Gon Jinn",
+      "Mace Windu"
     ],
     "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "The Life of Emile Zola, réalisé par William Dieterle, a remporté l'Oscar du meilleur film en 1938, un biopic sur l'écrivain français."
-  },
-  {
-    "id": "2020",
-    "question": "Quel est le nom de l'inventeur du premier système de défibrillateur externe ?",
-    "answer": "Paul Zoll",
-    "badAnswers": [
-      "William Kouwenhoven",
-      "Claude Beck",
-      "Bernard Lown"
-    ],
-    "category": "Médecine",
-    "difficulty": "difficile",
-    "description": "Paul Zoll a développé le premier défibrillateur externe dans les années 1950, utilisé pour rétablir le rythme cardiaque."
-  },
-  {
-    "id": "1566",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1944 ?",
-    "answer": "Going My Way",
-    "badAnswers": [
-      "Gaslight",
-      "Since You Went Away",
-      "Wilson"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Going My Way, réalisé par Leo McCarey, a remporté l'Oscar du meilleur film en 1944, une comédie dramatique sur un prêtre."
-  },
-  {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
-    ],
-    "category": "Art",
     "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+    "description": "Yoda est le mentor de Luke Skywalker dans L'Empire contre-attaque, l'entraînant sur Dagobah. Obi-Wan, Qui-Gon et Mace Windu sont d'autres Jedi, mais pas ses mentors dans ce film."
   },
   {
-    "id": "837",
-    "question": "Quel compositeur a écrit La Flûte enchantée ?",
-    "answer": "Wolfgang Amadeus Mozart",
+    "id": "1674",
+    "question": "Quel est le nom du groupe qui a chanté 'The Scientist' ?",
+    "answer": "Coldplay",
     "badAnswers": [
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Antonio Vivaldi"
+      "Radiohead",
+      "Muse",
+      "Keane"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Wolfgang Amadeus Mozart a composé *La Flûte enchantée* en 1791, un opéra en deux actes mêlant conte merveilleux et symbolisme maçonnique. L'œuvre est célèbre pour ses airs virtuoses, comme celui de la Reine de la Nuit. Bien que Beethoven, Bach et Vivaldi soient des compositeurs majeurs de la musique classique, aucun d’eux n’est lié à cette œuvre."
+    "description": "'The Scientist', sorti en 2002 par Coldplay, est une ballade mélancolique tirée de l'album A Rush of Blood to the Head."
   },
   {
-    "id": "736",
-    "question": "Quel est le nom du plus grand lac d'Australie ?",
-    "answer": "Lac Eyre",
+    "id": "78",
+    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "answer": "Alexandre Dumas",
     "badAnswers": [
-      "Lac Burley Griffin",
-      "Lac Macquarie",
-      "Lac George"
+      "Victor Hugo",
+      "Jules Verne",
+      "Honoré de Balzac"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le lac Eyre est le plus grand lac d'Australie, couvrant environ 9 500 km² lorsqu'il est rempli, bien qu'il soit souvent sec. Burley Griffin, Macquarie et George sont d'autres lacs, mais plus petits."
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Publié en 1844, ce roman de cape et d'épée suit les aventures de d'Artagnan et ses amis Athos, Porthos et Aramis sous Louis XIII."
   },
   {
-    "id": "266",
-    "question": "Quel fleuve traverse la Bretagne, les Pays de la Loire et la Normandie avant de se jeter dans la baie du Mont-Saint-Michel ?",
-    "answer": "Le Couesnon",
+    "id": "1194",
+    "question": "Quel est le nom de l'inventeur du premier laser ?",
+    "answer": "Theodore Maiman",
     "badAnswers": [
-      "La Sélune",
-      "La Vire",
-      "La Rance"
+      "Albert Einstein",
+      "Gordon Gould",
+      "Charles Townes"
     ],
-    "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Le Couesnon est un fleuve côtier de 90 km qui prend sa source en Ille-et-Vilaine et traverse la Manche avant de se jeter dans la baie du Mont-Saint-Michel. Il est connu pour ses crues et ses paysages pittoresques."
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Theodore Maiman a construit le premier laser fonctionnel en 1960, utilisant un rubis synthétique, ouvrant la voie à de nombreuses applications."
   },
   {
-    "id": "727",
-    "question": "Quel scientifique a découvert la théorie des ondes électromagnétiques ?",
-    "answer": "James Clerk Maxwell",
+    "id": "502",
+    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
+    "answer": "Croûtard",
     "badAnswers": [
-      "Michael Faraday",
-      "Heinrich Hertz",
-      "Nikola Tesla"
+      "Hedwige",
+      "Pattenrond",
+      "Fumseck"
+    ],
+    "category": "Littérature",
+    "difficulty": "facile",
+    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
+  },
+  {
+    "id": "1560",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
+    "answer": "Seaborgium",
+    "badAnswers": [
+      "Sélénium",
+      "Silicium",
+      "Strontium"
     ],
     "category": "Science",
     "difficulty": "difficile",
-    "description": "James Clerk Maxwell a formulé la théorie des ondes électromagnétiques dans les années 1860, unifiant l'électricité et le magnétisme. Faraday, Hertz et Tesla ont contribué à d'autres aspects de l'électromagnétisme."
+    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
   },
   {
-    "id": "679",
-    "question": "Quel est le plus lourd poisson osseux du monde ?",
-    "answer": "Poisson-lune",
+    "id": "1119",
+    "question": "Qui est à l'origine du concept du premier ordinateur programmable ?",
+    "answer": "Charles Babbage",
     "badAnswers": [
-      "Régalec",
-      "Thon rouge",
-      "Espadon"
+      "Alan Turing",
+      "Konrad Zuse",
+      "John Atanasoff"
     ],
-    "category": "Animaux",
+    "category": "Informatique",
     "difficulty": "normal",
-    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
+    "description": "Charles Babbage a conçu la machine analytique au XIXe siècle, considérée comme le premier ordinateur programmable, bien qu'elle n'ait jamais été construite."
+  },
+  {
+    "id": "1898",
+    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
+  },
+  {
+    "id": "1317",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
+    "answer": "The Last Emperor",
+    "badAnswers": [
+      "Moonstruck",
+      "Fatal Attraction",
+      "Broadcast News"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+  },
+  {
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
+    "badAnswers": [
+      "Vénus",
+      "Jupiter",
+      "Saturne"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
   }
 ]
