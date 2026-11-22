@@ -1,132 +1,132 @@
 [
   {
-    "id": "721",
-    "question": "Dans Star Wars, quel est le nom du mentor de Luke Skywalker dans L'Empire contre-attaque ?",
-    "answer": "Yoda",
+    "id": "1012",
+    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
+    "answer": "Bois de houx, plume de phénix",
     "badAnswers": [
-      "Obi-Wan Kenobi",
-      "Qui-Gon Jinn",
-      "Mace Windu"
+      "Bois de chêne, crin de licorne",
+      "Bois d'if, ventricule de dragon",
+      "Bois de saule, poil de vélane"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
+  },
+  {
+    "id": "451",
+    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
+    "answer": "Battle Royale",
+    "badAnswers": [
+      "Sauver le monde",
+      "Mode Créatif",
+      "Arène"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
+  },
+  {
+    "id": "206",
+    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
+    "answer": "Proxima Centauri",
+    "badAnswers": [
+      "Sirius A",
+      "Alpha Centauri A",
+      "Betelgeuse"
+    ],
+    "category": "Astronomie",
+    "difficulty": "difficile",
+    "description": "'Proxima Centauri' est l'étoile la plus proche de la Terre, à environ 4,24 années-lumière. Sirius A est l'étoile la plus brillante dans notre ciel, Alpha Centauri A fait partie du système Alpha Centauri, et Betelgeuse est une supergéante rouge dans la constellation d'Orion."
+  },
+  {
+    "id": "1831",
+    "question": "Quel est le nom de l'auteur de 'Spleen de Paris' ?",
+    "answer": "Charles Baudelaire",
+    "badAnswers": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé"
+    ],
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Charles Baudelaire a écrit 'Spleen de Paris' (1869), un recueil de poèmes en prose sur la vie urbaine."
+  },
+  {
+    "id": "420",
+    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
+    "answer": "Salvador Dalí",
+    "badAnswers": [
+      "Pablo Picasso",
+      "Max Ernst",
+      "René Magritte"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
+  },
+  {
+    "id": "1269",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
+    "answer": "Titanic",
+    "badAnswers": [
+      "Good Will Hunting",
+      "L.A. Confidential",
+      "As Good as It Gets"
     ],
     "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Yoda est le mentor de Luke Skywalker dans L'Empire contre-attaque, l'entraînant sur Dagobah. Obi-Wan, Qui-Gon et Mace Windu sont d'autres Jedi, mais pas ses mentors dans ce film."
+    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
   },
   {
-    "id": "1674",
-    "question": "Quel est le nom du groupe qui a chanté 'The Scientist' ?",
-    "answer": "Coldplay",
+    "id": "1376",
+    "question": "Quel est la capitale du Guyana ?",
+    "answer": "Georgetown",
     "badAnswers": [
-      "Radiohead",
-      "Muse",
-      "Keane"
+      "New Amsterdam",
+      "Linden",
+      "Bartica"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'The Scientist', sorti en 2002 par Coldplay, est une ballade mélancolique tirée de l'album A Rush of Blood to the Head."
+    "category": "Géographie",
+    "difficulty": "normal",
+    "description": "Georgetown, capitale du Guyana, est une ville côtière connue pour son architecture coloniale et son phare emblématique."
   },
   {
-    "id": "78",
-    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
-    "answer": "Alexandre Dumas",
+    "id": "1770",
+    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
+    "answer": "Charles Stark Draper",
     "badAnswers": [
-      "Victor Hugo",
-      "Jules Verne",
-      "Honoré de Balzac"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Publié en 1844, ce roman de cape et d'épée suit les aventures de d'Artagnan et ses amis Athos, Porthos et Aramis sous Louis XIII."
-  },
-  {
-    "id": "1194",
-    "question": "Quel est le nom de l'inventeur du premier laser ?",
-    "answer": "Theodore Maiman",
-    "badAnswers": [
-      "Albert Einstein",
-      "Gordon Gould",
-      "Charles Townes"
+      "Elmer Sperry",
+      "Robert Goddard",
+      "Wernher von Braun"
     ],
     "category": "Technologie",
     "difficulty": "difficile",
-    "description": "Theodore Maiman a construit le premier laser fonctionnel en 1960, utilisant un rubis synthétique, ouvrant la voie à de nombreuses applications."
+    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
   },
   {
-    "id": "502",
-    "question": "Dans Harry Potter, quel est le nom de l'animal de compagnie de Ron Weasley ?",
-    "answer": "Croûtard",
+    "id": "1121",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2013 ?",
+    "answer": "12 Years a Slave",
     "badAnswers": [
-      "Hedwige",
-      "Pattenrond",
-      "Fumseck"
-    ],
-    "category": "Littérature",
-    "difficulty": "facile",
-    "description": "Croûtard est le rat de compagnie de Ron Weasley dans Harry Potter, révélé plus tard comme un Animagus. Hedwige est la chouette de Harry, Pattenrond le chat d'Hermione, et Fumseck le phénix de Dumbledore."
-  },
-  {
-    "id": "1560",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Sg ?",
-    "answer": "Seaborgium",
-    "badAnswers": [
-      "Sélénium",
-      "Silicium",
-      "Strontium"
-    ],
-    "category": "Science",
-    "difficulty": "difficile",
-    "description": "Le seaborgium, symbolisé par Sg, est un élément radioactif synthétique, nommé d'après Glenn Seaborg, utilisé dans la recherche."
-  },
-  {
-    "id": "1119",
-    "question": "Qui est à l'origine du concept du premier ordinateur programmable ?",
-    "answer": "Charles Babbage",
-    "badAnswers": [
-      "Alan Turing",
-      "Konrad Zuse",
-      "John Atanasoff"
-    ],
-    "category": "Informatique",
-    "difficulty": "normal",
-    "description": "Charles Babbage a conçu la machine analytique au XIXe siècle, considérée comme le premier ordinateur programmable, bien qu'elle n'ait jamais été construite."
-  },
-  {
-    "id": "1898",
-    "question": "Quel est le nom du groupe qui a chanté 'Strawberry Fields Forever' ?",
-    "answer": "The Beatles",
-    "badAnswers": [
-      "The Rolling Stones",
-      "The Who",
-      "The Doors"
-    ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Strawberry Fields Forever', sorti en 1967 par The Beatles, est une chanson psychédélique tirée de leur catalogue de singles."
-  },
-  {
-    "id": "1317",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1987 ?",
-    "answer": "The Last Emperor",
-    "badAnswers": [
-      "Moonstruck",
-      "Fatal Attraction",
-      "Broadcast News"
+      "Gravity",
+      "Dallas Buyers Club",
+      "Her"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Last Emperor, réalisé par Bernardo Bertolucci, a remporté l'Oscar du meilleur film en 1987, une épopée sur la vie de l'empereur Puyi."
+    "description": "12 Years a Slave, réalisé par Steve McQueen, a remporté l'Oscar du meilleur film en 2013, racontant l'histoire vraie d'un homme réduit en esclavage."
   },
   {
-    "id": "194",
-    "question": "Quel est le nom de la planète rouge ?",
-    "answer": "Mars",
+    "id": "1878",
+    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
+    "answer": "Nobélium",
     "badAnswers": [
-      "Vénus",
-      "Jupiter",
-      "Saturne"
+      "Neon",
+      "Nickel",
+      "Niobium"
     ],
-    "category": "Astronomie",
-    "difficulty": "facile",
-    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
+    "category": "Science",
+    "difficulty": "normal",
+    "description": "Le nobélium, symbolisé par No, est un élément radioactif synthétique utilisé en recherche scientifique."
   }
 ]
