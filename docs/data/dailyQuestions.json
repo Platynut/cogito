@@ -1,132 +1,132 @@
 [
   {
-    "id": "1012",
-    "question": "Dans Harry Potter, quelle est la baguette magique de Harry ?",
-    "answer": "Bois de houx, plume de phénix",
+    "id": "1192",
+    "question": "Quel est la capitale de la Tunisie ?",
+    "answer": "Tunis",
     "badAnswers": [
-      "Bois de chêne, crin de licorne",
-      "Bois d'if, ventricule de dragon",
-      "Bois de saule, poil de vélane"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "La baguette de Harry Potter, fabriquée par Ollivander, est en bois de houx avec une plume de phénix, un choix symbolique lié à son lien avec Voldemort."
-  },
-  {
-    "id": "451",
-    "question": "Dans Fortnite, quel est le nom du mode de jeu principal à 100 joueurs ?",
-    "answer": "Battle Royale",
-    "badAnswers": [
-      "Sauver le monde",
-      "Mode Créatif",
-      "Arène"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Le mode Battle Royale est le mode principal de Fortnite, où 100 joueurs s’affrontent jusqu’à ce qu’il n’en reste qu’un. Sauver le monde est un mode coopératif, Mode Créatif permet de construire, et Arène est un mode compétitif."
-  },
-  {
-    "id": "206",
-    "question": "Quel est le nom de l'étoile la plus proche de la Terre ?",
-    "answer": "Proxima Centauri",
-    "badAnswers": [
-      "Sirius A",
-      "Alpha Centauri A",
-      "Betelgeuse"
-    ],
-    "category": "Astronomie",
-    "difficulty": "difficile",
-    "description": "'Proxima Centauri' est l'étoile la plus proche de la Terre, à environ 4,24 années-lumière. Sirius A est l'étoile la plus brillante dans notre ciel, Alpha Centauri A fait partie du système Alpha Centauri, et Betelgeuse est une supergéante rouge dans la constellation d'Orion."
-  },
-  {
-    "id": "1831",
-    "question": "Quel est le nom de l'auteur de 'Spleen de Paris' ?",
-    "answer": "Charles Baudelaire",
-    "badAnswers": [
-      "Paul Verlaine",
-      "Arthur Rimbaud",
-      "Stéphane Mallarmé"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Charles Baudelaire a écrit 'Spleen de Paris' (1869), un recueil de poèmes en prose sur la vie urbaine."
-  },
-  {
-    "id": "420",
-    "question": "Quel artiste a peint La Persistance de la mémoire, célèbre pour ses horloges molles ?",
-    "answer": "Salvador Dalí",
-    "badAnswers": [
-      "Pablo Picasso",
-      "Max Ernst",
-      "René Magritte"
-    ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une œuvre surréaliste emblématique, connue pour ses horloges molles fondant dans un paysage onirique. Picasso, Ernst et Magritte sont d’autres artistes surréalistes ou modernes, mais Dalí est l’auteur de ce tableau."
-  },
-  {
-    "id": "1269",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1997 ?",
-    "answer": "Titanic",
-    "badAnswers": [
-      "Good Will Hunting",
-      "L.A. Confidential",
-      "As Good as It Gets"
-    ],
-    "category": "Cinéma",
-    "difficulty": "facile",
-    "description": "Titanic, réalisé par James Cameron, a remporté l'Oscar du meilleur film en 1997, une épopée romantique sur le naufrage du célèbre paquebot."
-  },
-  {
-    "id": "1376",
-    "question": "Quel est la capitale du Guyana ?",
-    "answer": "Georgetown",
-    "badAnswers": [
-      "New Amsterdam",
-      "Linden",
-      "Bartica"
+      "Sfax",
+      "Sousse",
+      "Kairouan"
     ],
     "category": "Géographie",
-    "difficulty": "normal",
-    "description": "Georgetown, capitale du Guyana, est une ville côtière connue pour son architecture coloniale et son phare emblématique."
+    "difficulty": "facile",
+    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
   },
   {
-    "id": "1770",
-    "question": "Quel est le nom de l'inventeur du premier système de navigation inertielle ?",
-    "answer": "Charles Stark Draper",
+    "id": "1557",
+    "question": "Quel est le nom du groupe qui a chanté 'Pour Some Sugar on Me' ?",
+    "answer": "Def Leppard",
     "badAnswers": [
-      "Elmer Sperry",
-      "Robert Goddard",
-      "Wernher von Braun"
+      "Bon Jovi",
+      "Guns N' Roses",
+      "Aerosmith"
     ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Charles Stark Draper a développé le premier système de navigation inertielle dans les années 1940, utilisé dans l'aviation."
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'Pour Some Sugar on Me', sorti en 1987 par Def Leppard, est une chanson hard rock tirée de l'album Hysteria."
   },
   {
-    "id": "1121",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 2013 ?",
-    "answer": "12 Years a Slave",
+    "id": "52",
+    "question": "Qui a été le dernier tsar de Russie ?",
+    "answer": "Nicolas II",
     "badAnswers": [
-      "Gravity",
-      "Dallas Buyers Club",
-      "Her"
+      "Pierre le Grand",
+      "Alexandre III",
+      "Ivan le Terrible"
+    ],
+    "category": "Histoire",
+    "difficulty": "normal",
+    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
+  },
+  {
+    "id": "878",
+    "question": "Quel est le plus grand reptile aquatique actuel ?",
+    "answer": "Crocodile marin",
+    "badAnswers": [
+      "Alligator du Mississippi",
+      "Caiman noir",
+      "Tortue luth"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
+  },
+  {
+    "id": "44",
+    "question": "Quelle est la plus haute montagne du monde ?",
+    "answer": "Everest",
+    "badAnswers": [
+      "K2",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+  },
+  {
+    "id": "975",
+    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
+    "answer": "Blanches Colombes et Vilains Messieurs",
+    "badAnswers": [
+      "L'Ancre en main",
+      "Tant qu'il y aura des hommes",
+      "Haute Société"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "12 Years a Slave, réalisé par Steve McQueen, a remporté l'Oscar du meilleur film en 2013, racontant l'histoire vraie d'un homme réduit en esclavage."
+    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
   },
   {
-    "id": "1878",
-    "question": "Quel est le nom de l'élément chimique avec le symbole No ?",
-    "answer": "Nobélium",
+    "id": "2079",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
+    "answer": "Sunrise: A Song of Two Humans",
     "badAnswers": [
-      "Neon",
-      "Nickel",
-      "Niobium"
+      "The Last Command",
+      "Wings",
+      "The Crowd"
     ],
-    "category": "Science",
+    "category": "Cinéma",
+    "difficulty": "facile",
+    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
+  },
+  {
+    "id": "400",
+    "question": "Quel est le nom du tableau de Pablo Picasso représentant la guerre civile espagnole ?",
+    "answer": "Guernica",
+    "badAnswers": [
+      "Les Demoiselles d’Avignon",
+      "Le Vieil Homme à la guitare",
+      "La Femme qui pleure"
+    ],
+    "category": "Art",
     "difficulty": "normal",
-    "description": "Le nobélium, symbolisé par No, est un élément radioactif synthétique utilisé en recherche scientifique."
+    "description": "Guernica (1937) de Pablo Picasso est une œuvre cubiste dénonçant les horreurs du bombardement de Guernica pendant la guerre civile espagnole. C’est un symbole anti-guerre. Les autres tableaux sont également de Picasso, mais ils abordent des thèmes différents."
+  },
+  {
+    "id": "1234",
+    "question": "Quel est le nom du dieu grec de la justice ?",
+    "answer": "Thémis",
+    "badAnswers": [
+      "Athéna",
+      "Héra",
+      "Aphrodite"
+    ],
+    "category": "Mythologie",
+    "difficulty": "normal",
+    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
+  },
+  {
+    "id": "986",
+    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
+    "answer": "M. Bun",
+    "badAnswers": [
+      "M. Bunbun",
+      "M. Lapin",
+      "M. Hoppy"
+    ],
+    "category": "Bandes dessinées",
+    "difficulty": "normal",
+    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
   }
 ]
