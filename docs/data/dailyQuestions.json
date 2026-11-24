@@ -1,132 +1,132 @@
 [
   {
-    "id": "1192",
-    "question": "Quel est la capitale de la Tunisie ?",
-    "answer": "Tunis",
+    "id": "1764",
+    "question": "Quel est le nom du groupe qui a chanté 'Gimme All Your Lovin' ?",
+    "answer": "ZZ Top",
     "badAnswers": [
-      "Sfax",
-      "Sousse",
-      "Kairouan"
-    ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Tunis, capitale de la Tunisie, est une ville méditerranéenne connue pour sa médina historique et son rôle politique et culturel."
-  },
-  {
-    "id": "1557",
-    "question": "Quel est le nom du groupe qui a chanté 'Pour Some Sugar on Me' ?",
-    "answer": "Def Leppard",
-    "badAnswers": [
-      "Bon Jovi",
-      "Guns N' Roses",
-      "Aerosmith"
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Creedence Clearwater Revival"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Pour Some Sugar on Me', sorti en 1987 par Def Leppard, est une chanson hard rock tirée de l'album Hysteria."
+    "description": "'Gimme All Your Lovin', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
   },
   {
-    "id": "52",
-    "question": "Qui a été le dernier tsar de Russie ?",
-    "answer": "Nicolas II",
+    "id": "1623",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
+    "answer": "Super Mario",
     "badAnswers": [
-      "Pierre le Grand",
-      "Alexandre III",
-      "Ivan le Terrible"
+      "The Legend of Zelda",
+      "Metroid",
+      "Donkey Kong"
     ],
-    "category": "Histoire",
-    "difficulty": "normal",
-    "description": "Nicolas II a régné de 1894 jusqu'à son abdication en 1917. Il fut exécuté avec sa famille par les bolcheviks en 1918."
-  },
-  {
-    "id": "878",
-    "question": "Quel est le plus grand reptile aquatique actuel ?",
-    "answer": "Crocodile marin",
-    "badAnswers": [
-      "Alligator du Mississippi",
-      "Caiman noir",
-      "Tortue luth"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le crocodile marin est le plus grand reptile aquatique, pouvant atteindre 7 mètres. L'alligator, le caïman et la tortue luth sont plus petits."
-  },
-  {
-    "id": "44",
-    "question": "Quelle est la plus haute montagne du monde ?",
-    "answer": "Everest",
-    "badAnswers": [
-      "K2",
-      "Kangchenjunga",
-      "Lhotse"
-    ],
-    "category": "Géographie",
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "Situé dans l'Himalaya, il culmine à 8.849 m. La première ascension réussie date de 1953 par Hillary et Norgay."
+    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
   },
   {
-    "id": "975",
-    "question": "Dans quel film de 1955 Frank Sinatra joue-t-il le rôle de Nathan Detroit ?",
-    "answer": "Blanches Colombes et Vilains Messieurs",
+    "id": "1233",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
+    "answer": "Cobalt",
     "badAnswers": [
-      "L'Ancre en main",
-      "Tant qu'il y aura des hommes",
-      "Haute Société"
+      "Chrome",
+      "Cuivre",
+      "Césium"
     ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Frank Sinatra incarne Nathan Detroit dans Blanches Colombes et Vilains Messieurs (Guys and Dolls), une comédie musicale adaptée d'une pièce de Broadway."
-  },
-  {
-    "id": "2079",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1928 ?",
-    "answer": "Sunrise: A Song of Two Humans",
-    "badAnswers": [
-      "The Last Command",
-      "Wings",
-      "The Crowd"
-    ],
-    "category": "Cinéma",
+    "category": "Science",
     "difficulty": "facile",
-    "description": "Sunrise: A Song of Two Humans, réalisé par F.W. Murnau, a remporté l'Oscar du meilleur film en 1928, un drame muet."
+    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
   },
   {
-    "id": "400",
-    "question": "Quel est le nom du tableau de Pablo Picasso représentant la guerre civile espagnole ?",
-    "answer": "Guernica",
+    "id": "1734",
+    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
+    "answer": "Zeus",
     "badAnswers": [
-      "Les Demoiselles d’Avignon",
-      "Le Vieil Homme à la guitare",
-      "La Femme qui pleure"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Guernica (1937) de Pablo Picasso est une œuvre cubiste dénonçant les horreurs du bombardement de Guernica pendant la guerre civile espagnole. C’est un symbole anti-guerre. Les autres tableaux sont également de Picasso, mais ils abordent des thèmes différents."
-  },
-  {
-    "id": "1234",
-    "question": "Quel est le nom du dieu grec de la justice ?",
-    "answer": "Thémis",
-    "badAnswers": [
-      "Athéna",
-      "Héra",
-      "Aphrodite"
+      "Apollon",
+      "Hermès",
+      "Dionysos"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Thémis, déesse grecque de la justice et de l'ordre, est souvent représentée avec une balance, symbolisant l'équité et le droit."
+    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
   },
   {
-    "id": "986",
-    "question": "Dans Calvin et Hobbes, comment s'appelle le lapin en peluche de Susie ?",
-    "answer": "M. Bun",
+    "id": "919",
+    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
+    "answer": "Dunwall",
     "badAnswers": [
-      "M. Bunbun",
-      "M. Lapin",
-      "M. Hoppy"
+      "Karnaca",
+      "Serkonos",
+      "Gristol"
     ],
-    "category": "Bandes dessinées",
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
+  },
+  {
+    "id": "389",
+    "question": "Quel est la capitale de l’Afrique du Sud ?",
+    "answer": "Pretoria",
+    "badAnswers": [
+      "Johannesburg",
+      "Le Cap",
+      "Durban"
+    ],
+    "category": "Géographie",
     "difficulty": "normal",
-    "description": "M. Bun est le lapin en peluche de Susie Derkins dans Calvin et Hobbes, souvent vu dans des scènes où Susie joue ou interagit avec Calvin."
+    "description": "Pretoria est la capitale administrative de l’Afrique du Sud, abritant le siège du gouvernement. Le Cap est la capitale législative, et Johannesburg et Durban sont d’autres grandes villes, mais Pretoria est la réponse correcte pour la capitale administrative."
+  },
+  {
+    "id": "842",
+    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
+    "answer": "Yoshi",
+    "badAnswers": [
+      "Luma",
+      "Toad",
+      "Bowser Jr."
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+  },
+  {
+    "id": "1427",
+    "question": "Quel est la capitale de la Géorgie (pays) ?",
+    "answer": "Tbilissi",
+    "badAnswers": [
+      "Koutaïssi",
+      "Batoumi",
+      "Gori"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Tbilissi, capitale de la Géorgie, est une ville historique sur la rivière Koura, connue pour ses thermes et son architecture éclectique."
+  },
+  {
+    "id": "498",
+    "question": "Quel est la capitale de l'Argentine ?",
+    "answer": "Buenos Aires",
+    "badAnswers": [
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+  },
+  {
+    "id": "1108",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
+    "answer": "Calcium",
+    "badAnswers": [
+      "Carbone",
+      "Césium",
+      "Chlore"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
   }
 ]
