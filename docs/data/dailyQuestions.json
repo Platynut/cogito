@@ -1,132 +1,132 @@
 [
   {
-    "id": "1764",
-    "question": "Quel est le nom du groupe qui a chanté 'Gimme All Your Lovin' ?",
-    "answer": "ZZ Top",
+    "id": "25",
+    "question": "Quel groupe musical était mené par Freddie Mercury ?",
+    "answer": "Queen",
     "badAnswers": [
-      "Lynyrd Skynyrd",
-      "The Allman Brothers Band",
-      "Creedence Clearwater Revival"
+      "The Rolling Stones",
+      "Pink Floyd",
+      "The Who"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "'Gimme All Your Lovin', sorti en 1983 par ZZ Top, est une chanson rock tirée de l'album Eliminator."
+    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
   },
   {
-    "id": "1623",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Peach ?",
-    "answer": "Super Mario",
+    "id": "1375",
+    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
+    "answer": "Konrad Zuse",
     "badAnswers": [
-      "The Legend of Zelda",
-      "Metroid",
-      "Donkey Kong"
+      "Alan Turing",
+      "Charles Babbage",
+      "John Presper Eckert"
     ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Peach, princesse du Royaume Champignon, est un personnage clé de la série Super Mario, souvent sauvée par Mario."
+    "category": "Informatique",
+    "difficulty": "difficile",
+    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
   },
   {
-    "id": "1233",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Co ?",
-    "answer": "Cobalt",
+    "id": "740",
+    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
+    "answer": "Umberto Eco",
     "badAnswers": [
-      "Chrome",
-      "Cuivre",
-      "Césium"
+      "Italo Calvino",
+      "Dario Fo",
+      "Luigi Pirandello"
     ],
-    "category": "Science",
-    "difficulty": "facile",
-    "description": "Le cobalt, symbolisé par Co, est un métal utilisé dans les batteries rechargeables et les alliages, connu pour sa couleur bleue dans les pigments."
-  },
-  {
-    "id": "1734",
-    "question": "Quel est le nom du dieu grec de l'hospitalité ?",
-    "answer": "Zeus",
-    "badAnswers": [
-      "Apollon",
-      "Hermès",
-      "Dionysos"
-    ],
-    "category": "Mythologie",
+    "category": "Littérature",
     "difficulty": "normal",
-    "description": "Zeus, roi des dieux grecs, est également associé à l'hospitalité, protégeant les voyageurs et les hôtes."
+    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
   },
   {
-    "id": "919",
-    "question": "Dans Dishonored, quel est le nom de la ville où se déroule l'histoire ?",
-    "answer": "Dunwall",
+    "id": "352",
+    "question": "Dans Minecraft, quel matériau est nécessaire pour fabriquer un portail du Nether ?",
+    "answer": "Obsidienne",
     "badAnswers": [
-      "Karnaca",
-      "Serkonos",
-      "Gristol"
+      "Diamant",
+      "Fer",
+      "Pierre"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Dunwall est la ville principale de Dishonored, où Corvo agit dans un monde steampunk. Karnaca est dans Dishonored 2, Serkonos une région, et Gristol un pays."
-  },
-  {
-    "id": "389",
-    "question": "Quel est la capitale de l’Afrique du Sud ?",
-    "answer": "Pretoria",
-    "badAnswers": [
-      "Johannesburg",
-      "Le Cap",
-      "Durban"
-    ],
-    "category": "Géographie",
     "difficulty": "normal",
-    "description": "Pretoria est la capitale administrative de l’Afrique du Sud, abritant le siège du gouvernement. Le Cap est la capitale législative, et Johannesburg et Durban sont d’autres grandes villes, mais Pretoria est la réponse correcte pour la capitale administrative."
+    "description": "Dans Minecraft, un portail du Nether est fabriqué avec de l'obsidienne, un bloc résistant obtenu en refroidissant de la lave avec de l'eau. Ce portail permet d'accéder au Nether, une dimension parallèle. Le diamant, le fer et la pierre sont utilisés pour d'autres crafts, mais pas pour ce portail."
   },
   {
-    "id": "842",
-    "question": "Dans Super Mario Galaxy 2, quel est le nom de la monture principale de Mario ?",
-    "answer": "Yoshi",
+    "id": "1381",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
+    "answer": "Kramer vs. Kramer",
     "badAnswers": [
-      "Luma",
-      "Toad",
-      "Bowser Jr."
+      "Apocalypse Now",
+      "All That Jazz",
+      "Norma Rae"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
+  },
+  {
+    "id": "401",
+    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
+    "answer": "Sceptre d'Aghanim",
+    "badAnswers": [
+      "Barre du Roi Noir",
+      "Rapier Divine",
+      "Cœur de Tarrasque"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Yoshi est la monture principale de Mario dans Super Mario Galaxy 2, aidant à collecter des étoiles. Luma est un guide, Toad un allié, et Bowser Jr. un antagoniste."
+    "difficulty": "normal",
+    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
   },
   {
-    "id": "1427",
-    "question": "Quel est la capitale de la Géorgie (pays) ?",
-    "answer": "Tbilissi",
+    "id": "2136",
+    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
+    "answer": "Simone de Beauvoir",
     "badAnswers": [
-      "Koutaïssi",
-      "Batoumi",
-      "Gori"
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "André Gide"
     ],
-    "category": "Géographie",
-    "difficulty": "facile",
-    "description": "Tbilissi, capitale de la Géorgie, est une ville historique sur la rivière Koura, connue pour ses thermes et son architecture éclectique."
+    "category": "Livres",
+    "difficulty": "normal",
+    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
   },
   {
-    "id": "498",
-    "question": "Quel est la capitale de l'Argentine ?",
-    "answer": "Buenos Aires",
+    "id": "329",
+    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
+    "answer": "Faucon Millenium",
     "badAnswers": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
+      "Étoile de la Mort",
+      "Chasseur TIE",
+      "X-Wing"
     ],
-    "category": "Géographie",
+    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Buenos Aires est la capitale de l'Argentine, une ville cosmopolite connue pour son tango et son architecture européenne. Córdoba, Rosario et Mendoza sont d'autres grandes villes argentines, mais pas la capitale."
+    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
   },
   {
-    "id": "1108",
-    "question": "Quel est le nom de l'élément chimique avec le symbole Ca ?",
-    "answer": "Calcium",
+    "id": "1679",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
+    "answer": "You Can't Take It with You",
     "badAnswers": [
-      "Carbone",
-      "Césium",
-      "Chlore"
+      "The Adventures of Robin Hood",
+      "Boys Town",
+      "Jezebel"
     ],
-    "category": "Science",
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
+  },
+  {
+    "id": "142",
+    "question": "La date de l'invention de l'écriture ?",
+    "answer": "-3300",
+    "badAnswers": [
+      "-2900",
+      "-10500",
+      "-3600"
+    ],
+    "category": "Histoire",
     "difficulty": "facile",
-    "description": "Le calcium, symbolisé par Ca, est un élément essentiel pour la formation des os et des dents, et joue un rôle clé dans la contraction musculaire."
+    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
   }
 ]
