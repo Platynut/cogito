@@ -1,132 +1,132 @@
 [
   {
-    "id": "25",
-    "question": "Quel groupe musical était mené par Freddie Mercury ?",
-    "answer": "Queen",
+    "id": "1752",
+    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
+    "answer": "AC/DC",
     "badAnswers": [
-      "The Rolling Stones",
-      "Pink Floyd",
-      "The Who"
+      "Metallica",
+      "Guns N' Roses",
+      "Led Zeppelin"
     ],
     "category": "Musique",
     "difficulty": "facile",
-    "description": "Freddie Mercury (1946-1991) était le charismatique chanteur et compositeur de ce groupe britannique iconique."
+    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
   },
   {
-    "id": "1375",
-    "question": "Quel est le nom de l'inventeur du premier ordinateur programmable ?",
-    "answer": "Konrad Zuse",
+    "id": "627",
+    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
+    "answer": "Suicune",
     "badAnswers": [
-      "Alan Turing",
-      "Charles Babbage",
-      "John Presper Eckert"
+      "Entei",
+      "Raikou",
+      "Lugia"
     ],
-    "category": "Informatique",
-    "difficulty": "difficile",
-    "description": "Konrad Zuse a construit le Z3 en 1941, considéré comme le premier ordinateur programmable fonctionnel, utilisant un système binaire."
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
   },
   {
-    "id": "740",
-    "question": "Quel est le nom de l'auteur de 'Le Nom de la rose' ?",
-    "answer": "Umberto Eco",
+    "id": "607",
+    "question": "Quel artiste a peint La Persistance de la mémoire ?",
+    "answer": "Salvador Dalí",
     "badAnswers": [
-      "Italo Calvino",
-      "Dario Fo",
-      "Luigi Pirandello"
+      "Pablo Picasso",
+      "Joan Miró",
+      "Max Ernst"
+    ],
+    "category": "Art",
+    "difficulty": "facile",
+    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
+  },
+  {
+    "id": "639",
+    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
+    "answer": "Sulfura",
+    "badAnswers": [
+      "Artikodin",
+      "Électhor",
+      "Mewtwo"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
+  },
+  {
+    "id": "725",
+    "question": "Dans The Legend of Zelda: Skyward Sword, quel est le nom de l'épée de Link ?",
+    "answer": "Épée de la Déesse",
+    "badAnswers": [
+      "Épée de Légende",
+      "Épée Master",
+      "Épée du Temps"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "normal",
+    "description": "L'Épée de la Déesse est l'arme principale de Link dans The Legend of Zelda: Skyward Sword, qui évolue en Master Sword. Les autres noms sont fictifs ou tirés d'autres jeux."
+  },
+  {
+    "id": "436",
+    "question": "Quel est le nom de l’auteur de Les Hauts de Hurlevent ?",
+    "answer": "Emily Brontë",
+    "badAnswers": [
+      "Charlotte Brontë",
+      "Anne Brontë",
+      "Jane Austen"
     ],
     "category": "Littérature",
     "difficulty": "normal",
-    "description": "Umberto Eco a écrit Le Nom de la rose (1980), un roman historique et mystère dans un monastère médiéval. Calvino, Fo et Pirandello sont d'autres écrivains italiens, mais n'ont pas écrit ce roman."
+    "description": "Emily Brontë a écrit Les Hauts de Hurlevent (1847), un roman gothique et romantique sur l’amour tragique entre Heathcliff et Catherine. Charlotte et Anne Brontë sont ses sœurs, également écrivaines, et Jane Austen est une autre romancière de l’époque."
   },
   {
-    "id": "352",
-    "question": "Dans Minecraft, quel matériau est nécessaire pour fabriquer un portail du Nether ?",
-    "answer": "Obsidienne",
+    "id": "15",
+    "question": "Qui est le créateur de Mario ?",
+    "answer": "Shigeru Miyamoto",
     "badAnswers": [
-      "Diamant",
-      "Fer",
-      "Pierre"
+      "Hideo Kojima",
+      "Satoshi Tajiri",
+      "Yuji Naka"
+    ],
+    "category": "Divertissement",
+    "difficulty": "normal",
+    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
+  },
+  {
+    "id": "242",
+    "question": "Klein a déposé une couleur qui porte son nom ...",
+    "answer": "Bleu",
+    "badAnswers": [
+      "Noir",
+      "Rouge",
+      "Violet"
+    ],
+    "category": "Art",
+    "difficulty": "normal",
+    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
+  },
+  {
+    "id": "428",
+    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
+    "answer": "Guilde des Voleurs",
+    "badAnswers": [
+      "Confrérie Noire",
+      "Compagnons",
+      "Collège de Fortdhiver"
     ],
     "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Dans Minecraft, un portail du Nether est fabriqué avec de l'obsidienne, un bloc résistant obtenu en refroidissant de la lave avec de l'eau. Ce portail permet d'accéder au Nether, une dimension parallèle. Le diamant, le fer et la pierre sont utilisés pour d'autres crafts, mais pas pour ce portail."
-  },
-  {
-    "id": "1381",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1979 ?",
-    "answer": "Kramer vs. Kramer",
-    "badAnswers": [
-      "Apocalypse Now",
-      "All That Jazz",
-      "Norma Rae"
-    ],
-    "category": "Cinéma",
-    "difficulty": "normal",
-    "description": "Kramer vs. Kramer, réalisé par Robert Benton, a remporté l'Oscar du meilleur film en 1979, un drame sur le divorce et la garde d'enfant."
-  },
-  {
-    "id": "401",
-    "question": "Dans Dota 2, quel est le nom de l’objet le plus emblématique pour augmenter les statistiques ?",
-    "answer": "Sceptre d'Aghanim",
-    "badAnswers": [
-      "Barre du Roi Noir",
-      "Rapier Divine",
-      "Cœur de Tarrasque"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "normal",
-    "description": "Le Sceptre d'Aghanim est un objet emblématique de Dota 2, améliorant les capacités ultimes de nombreux héros et augmentant les statistiques. C’est un choix stratégique clé. Les autres objets, comme la Barre du Roi Noir ou la Rapier Divine, ont d’autres fonctions spécifiques."
-  },
-  {
-    "id": "2136",
-    "question": "Quel est le nom de l'auteur de 'Le Sang des autres' ?",
-    "answer": "Simone de Beauvoir",
-    "badAnswers": [
-      "Jean-Paul Sartre",
-      "Albert Camus",
-      "André Gide"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Simone de Beauvoir a écrit 'Le Sang des autres' (1945), un roman existentialiste sur la responsabilité et la guerre."
-  },
-  {
-    "id": "329",
-    "question": "Dans Star Wars, quel est le nom du vaisseau de Han Solo ?",
-    "answer": "Faucon Millenium",
-    "badAnswers": [
-      "Étoile de la Mort",
-      "Chasseur TIE",
-      "X-Wing"
-    ],
-    "category": "Cinéma",
     "difficulty": "facile",
-    "description": "Le Faucon Millenium est le vaisseau emblématique de Han Solo dans la saga Star Wars, connu pour sa vitesse et son apparence délabrée. Piloté avec Chewbacca, il joue un rôle clé dans plusieurs films. L'Étoile de la Mort est une station spatiale, le Chasseur TIE et le X-Wing sont des vaisseaux de combat."
+    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
   },
   {
-    "id": "1679",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1939 ?",
-    "answer": "You Can't Take It with You",
+    "id": "712",
+    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
+    "answer": "Tengu",
     "badAnswers": [
-      "The Adventures of Robin Hood",
-      "Boys Town",
-      "Jezebel"
+      "Karasu-tengu",
+      "Oni",
+      "Kappa"
     ],
-    "category": "Cinéma",
+    "category": "Mythologie",
     "difficulty": "normal",
-    "description": "You Can't Take It with You, réalisé par Frank Capra, a remporté l'Oscar du meilleur film en 1939, une comédie sur les valeurs familiales."
-  },
-  {
-    "id": "142",
-    "question": "La date de l'invention de l'écriture ?",
-    "answer": "-3300",
-    "badAnswers": [
-      "-2900",
-      "-10500",
-      "-3600"
-    ],
-    "category": "Histoire",
-    "difficulty": "facile",
-    "description": "L'écriture est apparue vers 3300 avant J.-C. en Mésopotamie avec les premiers pictogrammes cunéiformes. Les autres dates sont soit trop anciennes, soit trop récentes."
+    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
   }
 ]
