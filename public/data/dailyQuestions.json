@@ -1,132 +1,132 @@
 [
   {
-    "id": "1752",
-    "question": "Quel est le nom du groupe qui a chanté 'Thunderstruck' ?",
-    "answer": "AC/DC",
+    "id": "207",
+    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
+    "answer": "Nisse",
     "badAnswers": [
-      "Metallica",
-      "Guns N' Roses",
-      "Led Zeppelin"
+      "Tomte",
+      "Knecht Ruprecht",
+      "Befana"
     ],
-    "category": "Musique",
-    "difficulty": "facile",
-    "description": "'Thunderstruck', sorti en 1990 par AC/DC, est une chanson rock tirée de l'album The Razors Edge."
-  },
-  {
-    "id": "627",
-    "question": "Dans Pokémon Or et Argent, quel est le Pokémon légendaire associé à la Tour Carillon ?",
-    "answer": "Suicune",
-    "badAnswers": [
-      "Entei",
-      "Raikou",
-      "Lugia"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Culture générale",
     "difficulty": "normal",
-    "description": "Suicune est le Pokémon légendaire associé à la Tour Carillon dans Pokémon Or et Argent, l'une des bêtes légendaires errantes. Entei et Raikou sont les autres bêtes, et Lugia est lié à la Tour Tourbillon."
+    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
   },
   {
-    "id": "607",
-    "question": "Quel artiste a peint La Persistance de la mémoire ?",
-    "answer": "Salvador Dalí",
+    "id": "1957",
+    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
+    "answer": "Jean-Paul Sartre",
     "badAnswers": [
-      "Pablo Picasso",
-      "Joan Miró",
-      "Max Ernst"
+      "Albert Camus",
+      "André Gide",
+      "Simone de Beauvoir"
     ],
-    "category": "Art",
-    "difficulty": "facile",
-    "description": "La Persistance de la mémoire (1931) de Salvador Dalí est une peinture surréaliste célèbre pour ses montres molles. Picasso, Miró et Ernst sont d'autres artistes modernes, mais n'ont pas peint ce tableau."
-  },
-  {
-    "id": "639",
-    "question": "Dans Pokémon Rouge Feu et Vert Feuille, quel est le Pokémon légendaire associé au feu ?",
-    "answer": "Sulfura",
-    "badAnswers": [
-      "Artikodin",
-      "Électhor",
-      "Mewtwo"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Sulfura est le Pokémon légendaire associé au feu dans Pokémon Rouge Feu et Vert Feuille, trouvé dans les Îles Écume. Artikodin représente la glace, Électhor l'électricité, et Mewtwo est un autre légendaire."
-  },
-  {
-    "id": "725",
-    "question": "Dans The Legend of Zelda: Skyward Sword, quel est le nom de l'épée de Link ?",
-    "answer": "Épée de la Déesse",
-    "badAnswers": [
-      "Épée de Légende",
-      "Épée Master",
-      "Épée du Temps"
-    ],
-    "category": "Jeux vidéo",
+    "category": "Livres",
     "difficulty": "normal",
-    "description": "L'Épée de la Déesse est l'arme principale de Link dans The Legend of Zelda: Skyward Sword, qui évolue en Master Sword. Les autres noms sont fictifs ou tirés d'autres jeux."
+    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
   },
   {
-    "id": "436",
-    "question": "Quel est le nom de l’auteur de Les Hauts de Hurlevent ?",
-    "answer": "Emily Brontë",
+    "id": "706",
+    "question": "Quel chat monstrueux japonais possède des pouvoirs surnaturels ?",
+    "answer": "Bakeneko",
     "badAnswers": [
-      "Charlotte Brontë",
-      "Anne Brontë",
-      "Jane Austen"
-    ],
-    "category": "Littérature",
-    "difficulty": "normal",
-    "description": "Emily Brontë a écrit Les Hauts de Hurlevent (1847), un roman gothique et romantique sur l’amour tragique entre Heathcliff et Catherine. Charlotte et Anne Brontë sont ses sœurs, également écrivaines, et Jane Austen est une autre romancière de l’époque."
-  },
-  {
-    "id": "15",
-    "question": "Qui est le créateur de Mario ?",
-    "answer": "Shigeru Miyamoto",
-    "badAnswers": [
-      "Hideo Kojima",
-      "Satoshi Tajiri",
-      "Yuji Naka"
-    ],
-    "category": "Divertissement",
-    "difficulty": "normal",
-    "description": "Ce game designer légendaire nommé Shigeru Miyamoto a aussi créé Donkey Kong, Zelda et de nombreuses franchises Nintendo."
-  },
-  {
-    "id": "242",
-    "question": "Klein a déposé une couleur qui porte son nom ...",
-    "answer": "Bleu",
-    "badAnswers": [
-      "Noir",
-      "Rouge",
-      "Violet"
-    ],
-    "category": "Art",
-    "difficulty": "normal",
-    "description": "Yves Klein a créé l'IKB (International Klein Blue), un bleu outremer vibrant breveté en 1960. Il n'est pas associé aux autres couleurs listées."
-  },
-  {
-    "id": "428",
-    "question": "Dans The Elder Scrolls V: Skyrim, quel est le nom de la guilde des voleurs ?",
-    "answer": "Guilde des Voleurs",
-    "badAnswers": [
-      "Confrérie Noire",
-      "Compagnons",
-      "Collège de Fortdhiver"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "La Guilde des Voleurs est une faction dans The Elder Scrolls V: Skyrim, basée à Faillaise, spécialisée dans le vol et les activités clandestines. La Confrérie Noire est une guilde d’assassins, les Compagnons des guerriers, et le Collège de Fortdhiver une école de magie."
-  },
-  {
-    "id": "712",
-    "question": "Quel esprit ailé mi-homme mi-oiseau garde les montagnes japonaises ?",
-    "answer": "Tengu",
-    "badAnswers": [
-      "Karasu-tengu",
-      "Oni",
-      "Kappa"
+      "Tanuki",
+      "Kitsune",
+      "Nue"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Les Tengu sont des esprits protecteurs ou farceurs, souvent liés aux arts martiaux."
+    "description": "Le Bakeneko est un chat légendaire capable de se métamorphoser, de parler et de manipuler les humains."
+  },
+  {
+    "id": "1254",
+    "question": "Quel est la capitale de l'Iran ?",
+    "answer": "Téhéran",
+    "badAnswers": [
+      "Ispahan",
+      "Shiraz",
+      "Mashhad"
+    ],
+    "category": "Géographie",
+    "difficulty": "facile",
+    "description": "Téhéran, capitale de l'Iran, est une métropole située au pied des montagnes Alborz, centre politique et culturel du pays."
+  },
+  {
+    "id": "1194",
+    "question": "Quel est le nom de l'inventeur du premier laser ?",
+    "answer": "Theodore Maiman",
+    "badAnswers": [
+      "Albert Einstein",
+      "Gordon Gould",
+      "Charles Townes"
+    ],
+    "category": "Technologie",
+    "difficulty": "difficile",
+    "description": "Theodore Maiman a construit le premier laser fonctionnel en 1960, utilisant un rubis synthétique, ouvrant la voie à de nombreuses applications."
+  },
+  {
+    "id": "903",
+    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
+    "answer": "Le grand fessier",
+    "badAnswers": [
+      "Le biceps",
+      "Le quadriceps",
+      "Le deltoïde"
+    ],
+    "category": "Anatomie",
+    "difficulty": "normal",
+    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
+  },
+  {
+    "id": "679",
+    "question": "Quel est le plus lourd poisson osseux du monde ?",
+    "answer": "Poisson-lune",
+    "badAnswers": [
+      "Régalec",
+      "Thon rouge",
+      "Espadon"
+    ],
+    "category": "Animaux",
+    "difficulty": "normal",
+    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
+  },
+  {
+    "id": "1120",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
+    "answer": "Crash Bandicoot",
+    "badAnswers": [
+      "Spyro the Dragon",
+      "Jak and Daxter",
+      "Ratchet & Clank"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
+  },
+  {
+    "id": "1422",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
+    "answer": "The Sting",
+    "badAnswers": [
+      "The Exorcist",
+      "American Graffiti",
+      "A Touch of Class"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
+  },
+  {
+    "id": "1013",
+    "question": "Quel est le plus grand organe du corps humain ?",
+    "answer": "Peau",
+    "badAnswers": [
+      "Foie",
+      "Cerveau",
+      "Cœur"
+    ],
+    "category": "Science",
+    "difficulty": "facile",
+    "description": "La peau est le plus grand organe du corps humain, représentant environ 16 % du poids corporel et jouant un rôle clé dans la protection et la régulation."
   }
 ]
