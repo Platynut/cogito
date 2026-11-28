@@ -1,132 +1,132 @@
 [
   {
-    "id": "207",
-    "question": "Quel est le nom du lutin protecteur de Noël en Norvège ?",
-    "answer": "Nisse",
+    "id": "605",
+    "question": "Qui est le dieu japonais de la littérature, de l'éducation et de l'érudition ?",
+    "answer": "Tenjin",
     "badAnswers": [
-      "Tomte",
-      "Knecht Ruprecht",
-      "Befana"
-    ],
-    "category": "Culture générale",
-    "difficulty": "normal",
-    "description": "Le 'nisse' est un lutin norvégien qui protège les foyers pendant la période de Noël, souvent associé à des traditions agricoles. Le 'tomte' est son homologue suédois, tandis que Knecht Ruprecht et Befana sont des figures allemandes et italiennes."
-  },
-  {
-    "id": "1957",
-    "question": "Quel est le nom de l'auteur de 'Le Mur' ?",
-    "answer": "Jean-Paul Sartre",
-    "badAnswers": [
-      "Albert Camus",
-      "André Gide",
-      "Simone de Beauvoir"
-    ],
-    "category": "Livres",
-    "difficulty": "normal",
-    "description": "Jean-Paul Sartre a écrit 'Le Mur' (1939), un recueil de nouvelles existentialistes."
-  },
-  {
-    "id": "706",
-    "question": "Quel chat monstrueux japonais possède des pouvoirs surnaturels ?",
-    "answer": "Bakeneko",
-    "badAnswers": [
-      "Tanuki",
-      "Kitsune",
-      "Nue"
+      "Hachiman",
+      "Jizo",
+      "Shitenno"
     ],
     "category": "Mythologie",
     "difficulty": "normal",
-    "description": "Le Bakeneko est un chat légendaire capable de se métamorphoser, de parler et de manipuler les humains."
+    "description": "Tenjin est la divinisation de Sugawara-no-Michizane, vénéré pour protéger les étudiants."
   },
   {
-    "id": "1254",
-    "question": "Quel est la capitale de l'Iran ?",
-    "answer": "Téhéran",
+    "id": "31",
+    "question": "Qui est le créateur de la saga 'Star Wars' ?",
+    "answer": "George Lucas",
     "badAnswers": [
-      "Ispahan",
-      "Shiraz",
-      "Mashhad"
+      "Steven Spielberg",
+      "James Cameron",
+      "J.J. Abrams"
     ],
-    "category": "Géographie",
+    "category": "Divertissement",
     "difficulty": "facile",
-    "description": "Téhéran, capitale de l'Iran, est une métropole située au pied des montagnes Alborz, centre politique et culturel du pays."
+    "description": "Sorti en 1977, ce premier film réalisé par George Lucas a lancé l'une des franchises cinématographiques les plus lucratives et influentes de l'histoire."
   },
   {
-    "id": "1194",
-    "question": "Quel est le nom de l'inventeur du premier laser ?",
-    "answer": "Theodore Maiman",
+    "id": "1037",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1994 ?",
+    "answer": "Forrest Gump",
     "badAnswers": [
-      "Albert Einstein",
-      "Gordon Gould",
-      "Charles Townes"
-    ],
-    "category": "Technologie",
-    "difficulty": "difficile",
-    "description": "Theodore Maiman a construit le premier laser fonctionnel en 1960, utilisant un rubis synthétique, ouvrant la voie à de nombreuses applications."
-  },
-  {
-    "id": "903",
-    "question": "Quel est le muscle le plus puissant du corps humain en termes de force absolue ?",
-    "answer": "Le grand fessier",
-    "badAnswers": [
-      "Le biceps",
-      "Le quadriceps",
-      "Le deltoïde"
-    ],
-    "category": "Anatomie",
-    "difficulty": "normal",
-    "description": "Le grand fessier est le muscle le plus puissant du corps humain, responsable notamment de l'extension de la hanche et du redressement du tronc."
-  },
-  {
-    "id": "679",
-    "question": "Quel est le plus lourd poisson osseux du monde ?",
-    "answer": "Poisson-lune",
-    "badAnswers": [
-      "Régalec",
-      "Thon rouge",
-      "Espadon"
-    ],
-    "category": "Animaux",
-    "difficulty": "normal",
-    "description": "Le poisson-lune (Mola mola) est le plus lourd poisson osseux, pouvant peser jusqu'à 2 300 kg, bien qu'il soit plus court que le régalec."
-  },
-  {
-    "id": "1120",
-    "question": "Dans quel jeu vidéo trouve-t-on le personnage Crash Bandicoot ?",
-    "answer": "Crash Bandicoot",
-    "badAnswers": [
-      "Spyro the Dragon",
-      "Jak and Daxter",
-      "Ratchet & Clank"
-    ],
-    "category": "Jeux vidéo",
-    "difficulty": "facile",
-    "description": "Crash Bandicoot, créé par Naughty Dog, est le héros éponyme d'une série de jeux de plateforme où il affronte le Dr. Neo Cortex."
-  },
-  {
-    "id": "1422",
-    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1973 ?",
-    "answer": "The Sting",
-    "badAnswers": [
-      "The Exorcist",
-      "American Graffiti",
-      "A Touch of Class"
+      "Pulp Fiction",
+      "Les Évadés",
+      "Le Roi Lion"
     ],
     "category": "Cinéma",
     "difficulty": "normal",
-    "description": "The Sting, réalisé par George Roy Hill, a remporté l'Oscar du meilleur film en 1973, une comédie sur une arnaque dans les années 1930."
+    "description": "Forrest Gump, réalisé par Robert Zemeckis et avec Tom Hanks, a remporté l'Oscar du meilleur film en 1994, célébré pour son histoire émouvante."
   },
   {
-    "id": "1013",
-    "question": "Quel est le plus grand organe du corps humain ?",
-    "answer": "Peau",
+    "id": "194",
+    "question": "Quel est le nom de la planète rouge ?",
+    "answer": "Mars",
     "badAnswers": [
-      "Foie",
-      "Cerveau",
-      "Cœur"
+      "Vénus",
+      "Jupiter",
+      "Saturne"
+    ],
+    "category": "Astronomie",
+    "difficulty": "facile",
+    "description": "Mars est surnommée la planète rouge en raison de sa surface riche en oxyde de fer, lui donnant une couleur rougeâtre. Vénus, Jupiter et Saturne sont d'autres planètes du système solaire, mais ne sont pas associées à cette couleur."
+  },
+  {
+    "id": "2044",
+    "question": "Quel est le nom du groupe qui a chanté 'I Want You (She's So Heavy)' ?",
+    "answer": "The Beatles",
+    "badAnswers": [
+      "The Rolling Stones",
+      "The Who",
+      "The Doors"
+    ],
+    "category": "Musique",
+    "difficulty": "facile",
+    "description": "'I Want You (She's So Heavy)', sorti en 1969 par The Beatles, est une chanson rock intense tirée de l'album Abbey Road."
+  },
+  {
+    "id": "1475",
+    "question": "Quel est le nom de l'élément chimique avec le symbole Ra ?",
+    "answer": "Radium",
+    "badAnswers": [
+      "Rhodium",
+      "Ruthénium",
+      "Rubidium"
     ],
     "category": "Science",
+    "difficulty": "normal",
+    "description": "Le radium, symbolisé par Ra, est un élément radioactif découvert par Marie et Pierre Curie, utilisé autrefois en médecine et pour les montres lumineuses."
+  },
+  {
+    "id": "110",
+    "question": "Qui a été surnommé l'entraineur le plus nul du football français depuis Louis XVI?",
+    "answer": "Raymond Domenech",
+    "badAnswers": [
+      "Paul Le Guen",
+      "Pascal Dupraz",
+      "Jocelyn Gourvennec"
+    ],
+    "category": "Sports",
+    "difficulty": "difficile",
+    "description": "Raymond Domenech a été critiqué pour ses performances en tant que sélectionneur de l'équipe de France, notamment lors de la Coupe du Monde 2010. Paul Le Guen, Pascal Dupraz et Jocelyn Gourvennec sont d'autres entraîneurs français."
+  },
+  {
+    "id": "873",
+    "question": "Dans Control, quel est le nom de la protagoniste ?",
+    "answer": "Jesse Faden",
+    "badAnswers": [
+      "Emily Pope",
+      "Courtney Hope",
+      "Helen Marshall"
+    ],
+    "category": "Jeux vidéo",
     "difficulty": "facile",
-    "description": "La peau est le plus grand organe du corps humain, représentant environ 16 % du poids corporel et jouant un rôle clé dans la protection et la régulation."
+    "description": "Jesse Faden est la protagoniste de Control, explorant le Bureau Fédéral du Contrôle. Emily Pope et Helen Marshall sont d'autres personnages, et Courtney Hope est l'actrice jouant Jesse."
+  },
+  {
+    "id": "1295",
+    "question": "Quel est le nom du film qui a remporté l'Oscar du meilleur film en 1992 ?",
+    "answer": "Unforgiven",
+    "badAnswers": [
+      "A Few Good Men",
+      "Scent of a Woman",
+      "Howards End"
+    ],
+    "category": "Cinéma",
+    "difficulty": "normal",
+    "description": "Unforgiven, réalisé par Clint Eastwood, a remporté l'Oscar du meilleur film en 1992, un western revisitant les thèmes de la violence et de la rédemption."
+  },
+  {
+    "id": "1048",
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage Kratos ?",
+    "answer": "God of War",
+    "badAnswers": [
+      "Dante's Inferno",
+      "Devil May Cry",
+      "Bayonetta"
+    ],
+    "category": "Jeux vidéo",
+    "difficulty": "facile",
+    "description": "Kratos est le protagoniste brutal de la série God of War, un guerrier spartiate en quête de vengeance contre les dieux de l'Olympe."
   }
 ]
